@@ -1,0 +1,167 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 770,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Felipe Silva",
+      "bout_type": "Lightweight Bout",
+      "date": "2016-08-27",
+      "elo_delta": -17.7,
+      "event_name": "UFC on FOX: Maia vs. Condit",
+      "fight_id": "63da3e7fbd9a3301",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Felipe Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1450.3,
+      "pre_elo": 1467.9,
+      "red_name": "Shane Campbell",
+      "round": "1.0",
+      "time": "1:13",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Shane Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2016-05-29",
+      "elo_delta": -17.2,
+      "event_name": "UFC Fight Night: Almeida vs Garbrandt",
+      "fight_id": "b1530a1652922b7d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Erik Koch",
+      "opponent_elo": 1525.2,
+      "outcome": "red_win",
+      "post_elo": 1467.9,
+      "pre_elo": 1485.1,
+      "red_name": "Erik Koch",
+      "round": "2.0",
+      "time": "3:02",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Shane Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2016-02-21",
+      "elo_delta": -19.6,
+      "event_name": "UFC Fight Night: Cowboy vs Cowboy",
+      "fight_id": "741bf46c52aef0cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "James Krause",
+      "opponent_elo": 1474.6,
+      "outcome": "red_win",
+      "post_elo": 1485.1,
+      "pre_elo": 1504.7,
+      "red_name": "James Krause",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Elias Silverio",
+      "bout_type": "Lightweight Bout",
+      "date": "2015-08-23",
+      "elo_delta": 20.5,
+      "event_name": "UFC Fight Night: Holloway vs Oliveira",
+      "fight_id": "73b39b7f1f723f4d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Elias Silverio",
+      "opponent_elo": 1533.2,
+      "outcome": "red_win",
+      "post_elo": 1504.7,
+      "pre_elo": 1484.2,
+      "red_name": "Shane Campbell",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2015-04-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-04-25",
+      "fight_id": "3a73138504016d45",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-08-23",
+      "fight_id": "73b39b7f1f723f4d",
+      "rating": 1504.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-08-23",
+      "fight_id": "73b39b7f1f723f4d",
+      "rating": 1502.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-02-21",
+      "fight_id": "741bf46c52aef0cc",
+      "rating": 1485.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-02-21",
+      "fight_id": "741bf46c52aef0cc",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-05-29",
+      "fight_id": "b1530a1652922b7d",
+      "rating": 1467.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-05-29",
+      "fight_id": "b1530a1652922b7d",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-08-27",
+      "fight_id": "63da3e7fbd9a3301",
+      "rating": 1450.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-08-27",
+      "fight_id": "63da3e7fbd9a3301",
+      "rating": 1454.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-08-27",
+  "name": "Shane Campbell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.7,
+  "slug": "shane-campbell",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

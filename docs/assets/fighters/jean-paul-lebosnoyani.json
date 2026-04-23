@@ -1,0 +1,126 @@
+{
+  "current_elo": 1553.6,
+  "divisional_rank": 62,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jean-Paul Lebosnoyani",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 16.8,
+      "event_name": "UFC Fight Night: Strickland vs. Hernandez",
+      "fight_id": "eb4b678750c2636d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Phil Rowe",
+      "opponent_elo": 1513.0,
+      "outcome": "blue_win",
+      "post_elo": 1553.6,
+      "pre_elo": 1536.9,
+      "red_name": "Phil Rowe",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kegan Gennrich",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-04-11",
+      "elo_delta": 20.3,
+      "event_name": "LFA 206: Gennrich vs. Lebosnoyani",
+      "fight_id": "a1800bacea2e5f61",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Kegan Gennrich",
+      "opponent_elo": 1532.5,
+      "outcome": "red_win",
+      "post_elo": 1536.9,
+      "pre_elo": 1516.5,
+      "red_name": "Jean-Paul Lebosnoyani",
+      "round": "1",
+      "time": "4:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Caleb Hall",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": 18.5,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "38d728c81b92b079",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (scarf hold armlock)",
+      "opponent": "Caleb Hall",
+      "opponent_elo": 1483.0,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jean-Paul Lebosnoyani",
+      "round": "1",
+      "time": "1:21",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-29",
+      "fight_id": "38d728c81b92b079",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "38d728c81b92b079",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "a1800bacea2e5f61",
+      "rating": 1536.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "a1800bacea2e5f61",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "eb4b678750c2636d",
+      "rating": 1553.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "eb4b678750c2636d",
+      "rating": 1549.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Jean-Paul Lebosnoyani",
+  "nickname": "",
+  "overall_elo": 1549.5,
+  "peak_elo": 1553.6,
+  "slug": "jean-paul-lebosnoyani",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

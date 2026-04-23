@@ -1,0 +1,228 @@
+{
+  "current_elo": 1472.7,
+  "divisional_rank": 660,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Felipe Bunes",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": -17.2,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "cd9183c10a19bf88",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Edgar Chairez",
+      "opponent_elo": 1504.9,
+      "outcome": "red_win",
+      "post_elo": 1472.7,
+      "pre_elo": 1489.9,
+      "red_name": "Edgar Chairez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Felipe Bunes",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Taira vs. Park",
+      "fight_id": "23903696cd0bd821",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rafael Estevam",
+      "opponent_elo": 1538.9,
+      "outcome": "red_win",
+      "post_elo": 1489.9,
+      "pre_elo": 1506.3,
+      "red_name": "Rafael Estevam",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Felipe Bunes",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-01-11",
+      "elo_delta": 19.3,
+      "event_name": "UFC Fight Night: Dern vs. Ribas 2",
+      "fight_id": "e0c8992f2c46b3fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jose Johnson",
+      "opponent_elo": 1484.9,
+      "outcome": "blue_win",
+      "post_elo": 1506.3,
+      "pre_elo": 1486.9,
+      "red_name": "Jose Johnson",
+      "round": "1.0",
+      "time": "2:04",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Felipe Bunes",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-01-13",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "fight_id": "33edaa3760a8d363",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joshua Van",
+      "opponent_elo": 1532.1,
+      "outcome": "red_win",
+      "post_elo": 1486.9,
+      "pre_elo": 1504.8,
+      "red_name": "Joshua Van",
+      "round": "2.0",
+      "time": "4:31",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Wascar Cruz",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": 19.6,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "b4f9a0a8cf5181b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Wascar Cruz",
+      "opponent_elo": 1516.4,
+      "outcome": "red_win",
+      "post_elo": 1504.8,
+      "pre_elo": 1485.2,
+      "red_name": "Felipe Bunes",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Felipe Bunes",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": -16.6,
+      "event_name": "Legacy Fighting Alliance 124: Formiga vs. Bunes",
+      "fight_id": "be184a8ec28755f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Jussier Formiga",
+      "opponent_elo": 1550.8,
+      "outcome": "red_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jussier Formiga",
+      "round": "2",
+      "time": "1:53",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "be184a8ec28755f1",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "be184a8ec28755f1",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "b4f9a0a8cf5181b3",
+      "rating": 1504.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "b4f9a0a8cf5181b3",
+      "rating": 1502.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "33edaa3760a8d363",
+      "rating": 1486.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "33edaa3760a8d363",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "e0c8992f2c46b3fc",
+      "rating": 1506.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "e0c8992f2c46b3fc",
+      "rating": 1504.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "23903696cd0bd821",
+      "rating": 1489.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "23903696cd0bd821",
+      "rating": 1489.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "cd9183c10a19bf88",
+      "rating": 1472.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "cd9183c10a19bf88",
+      "rating": 1474.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Felipe Bunes",
+  "nickname": "",
+  "overall_elo": 1474.0,
+  "peak_elo": 1506.3,
+  "slug": "felipe-bunes",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

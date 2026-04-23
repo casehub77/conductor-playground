@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 180,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Erko Jun",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2019-11-09",
+      "elo_delta": -21.6,
+      "event_name": "KSW 51: Croatia",
+      "fight_id": "3758088c7fc66cd9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Mariusz Pudzianowski",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1533.6,
+      "pre_elo": 1555.2,
+      "red_name": "Mariusz Pudzianowski",
+      "round": "2",
+      "time": "1:43",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Akop Szostak",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2019-05-18",
+      "elo_delta": 17.3,
+      "event_name": "KSW 49: Soldić vs. Kaszubowski",
+      "fight_id": "db8f747ea6d2e805",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Akop Szostak",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.2,
+      "pre_elo": 1537.8,
+      "red_name": "Erko Jun",
+      "round": "1",
+      "time": "0:37",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Paweł \"Popek\" Rak",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2018-10-06",
+      "elo_delta": 17.3,
+      "event_name": "KSW 45: The Return to Wembley",
+      "fight_id": "41def490e3049673",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Paweł \"Popek\" Rak",
+      "opponent_elo": 1481.9,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1520.5,
+      "red_name": "Erko Jun",
+      "round": "2",
+      "time": "2:08",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tomasz Oświeciński",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2018-06-09",
+      "elo_delta": 20.5,
+      "event_name": "KSW 44: The Game",
+      "fight_id": "e0530a83b4d72c81",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Tomasz Oświeciński",
+      "opponent_elo": 1519.5,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Erko Jun",
+      "round": "1",
+      "time": "2:21",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-06-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-06-09",
+      "fight_id": "e0530a83b4d72c81",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "e0530a83b4d72c81",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "41def490e3049673",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "41def490e3049673",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-05-18",
+      "fight_id": "db8f747ea6d2e805",
+      "rating": 1555.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2019-05-18",
+      "fight_id": "db8f747ea6d2e805",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "3758088c7fc66cd9",
+      "rating": 1533.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "3758088c7fc66cd9",
+      "rating": 1530.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-11-09",
+  "name": "Erko Jun",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1555.2,
+  "slug": "erko-jun",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

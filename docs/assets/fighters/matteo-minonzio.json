@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 317,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matteo Minonzio",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": -18.8,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "33775501922f723a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Petr Ondrus",
+      "opponent_elo": 1502.2,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1518.1,
+      "red_name": "Petr Ondrus",
+      "round": "2",
+      "time": "Tournament Quarter-Finals 4",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Wayne Buck",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-07-12",
+      "elo_delta": 20.5,
+      "event_name": "Cage Warriors: Enter the Rough House 7",
+      "fight_id": "fd78f3d79572be2a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Wayne Buck",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Matteo Minonzio",
+      "round": "1",
+      "time": "3:34",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-07-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-07-12",
+      "fight_id": "fd78f3d79572be2a",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-07-12",
+      "fight_id": "fd78f3d79572be2a",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "33775501922f723a",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "33775501922f723a",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-12",
+  "name": "Matteo Minonzio",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.5,
+  "slug": "matteo-minonzio",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

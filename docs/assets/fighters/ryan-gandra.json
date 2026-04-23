@@ -1,0 +1,92 @@
+{
+  "current_elo": 1532.6,
+  "divisional_rank": 85,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jose Daniel Medina",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": 15.4,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "82688468d15fe65d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jose Daniel Medina",
+      "opponent_elo": 1443.2,
+      "outcome": "red_win",
+      "post_elo": 1532.6,
+      "pre_elo": 1517.3,
+      "red_name": "Ryan Gandra",
+      "round": "1.0",
+      "time": "0:41",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Vladimir Calvo Marrero",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-22",
+      "elo_delta": 19.4,
+      "event_name": "LFA 197: Kuziutina vs. Guimarães",
+      "fight_id": "ee08962722993bbc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Vladimir Calvo Marrero",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ryan Gandra",
+      "round": "1",
+      "time": "2:28",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-22",
+      "fight_id": "ee08962722993bbc",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "ee08962722993bbc",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "82688468d15fe65d",
+      "rating": 1532.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "82688468d15fe65d",
+      "rating": 1531.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Ryan Gandra",
+  "nickname": "",
+  "overall_elo": 1531.2,
+  "peak_elo": 1532.6,
+  "slug": "ryan-gandra",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

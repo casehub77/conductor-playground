@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 711,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ben Goodwin",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": -20.5,
+      "event_name": "Legacy Fighting Alliance 124: Formiga vs. Bunes",
+      "fight_id": "b534b8831c172842",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Ovidio Bojorquez",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ovidio Bojorquez",
+      "round": "2",
+      "time": "1:49",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "b534b8831c172842",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "b534b8831c172842",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-11",
+  "name": "Ben Goodwin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ben-goodwin",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

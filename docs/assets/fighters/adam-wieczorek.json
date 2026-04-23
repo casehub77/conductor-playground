@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 237,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Marcos Rogerio De Lima",
+      "bout_type": "Heavyweight Bout",
+      "date": "2018-11-03",
+      "elo_delta": -18.8,
+      "event_name": "UFC 230: Cormier vs. Lewis",
+      "fight_id": "4e44242bd1c875b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Marcos Rogerio De Lima",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1516.0,
+      "pre_elo": 1534.8,
+      "red_name": "Adam Wieczorek",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Adam Wieczorek",
+      "bout_type": "Heavyweight Bout",
+      "date": "2018-04-14",
+      "elo_delta": 19.6,
+      "event_name": "UFC Fight Night: Poirier vs. Gaethje",
+      "fight_id": "405642f4b15d5ac4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Arjan Bhullar",
+      "opponent_elo": 1518.0,
+      "outcome": "blue_win",
+      "post_elo": 1534.8,
+      "pre_elo": 1515.2,
+      "red_name": "Arjan Bhullar",
+      "round": "2.0",
+      "time": "1:59",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Adam Wieczorek",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-11-18",
+      "elo_delta": 15.2,
+      "event_name": "UFC Fight Night: Werdum vs. Tybura",
+      "fight_id": "4c0e3d8d37533f9a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Anthony Hamilton",
+      "opponent_elo": 1446.4,
+      "outcome": "blue_win",
+      "post_elo": 1515.2,
+      "pre_elo": 1500.0,
+      "red_name": "Anthony Hamilton",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-11-18",
+      "fight_id": "4c0e3d8d37533f9a",
+      "rating": 1515.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-11-18",
+      "fight_id": "4c0e3d8d37533f9a",
+      "rating": 1513.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "405642f4b15d5ac4",
+      "rating": 1534.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "405642f4b15d5ac4",
+      "rating": 1531.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-11-03",
+      "fight_id": "4e44242bd1c875b7",
+      "rating": 1516.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-11-03",
+      "fight_id": "4e44242bd1c875b7",
+      "rating": 1514.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-11-03",
+  "name": "Adam Wieczorek",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.8,
+  "slug": "adam-wieczorek",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

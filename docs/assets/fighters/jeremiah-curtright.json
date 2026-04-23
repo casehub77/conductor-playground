@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 662,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jeremiah Curtright",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": -19.1,
+      "event_name": "Legacy Fighting Alliance 147: Melo vs. Costa",
+      "fight_id": "95f35fbaabbcc781",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ryan Leininger",
+      "opponent_elo": 1481.2,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1502.1,
+      "red_name": "Ryan Leininger",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ryan Charlebois",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": 21.5,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "c2725d7d183fc539",
+      "gender": "men",
+      "is_title": false,
+      "method": "Disqualification (elbows to back of head)",
+      "opponent": "Ryan Charlebois",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1480.6,
+      "red_name": "Jeremiah Curtright",
+      "round": "1",
+      "time": "3:15",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jeremiah Curtright",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-01-21",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 122: Johnson vs. Mota",
+      "fight_id": "32a07c7d16a2f9af",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Sarek Shields",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Sarek Shields",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-01-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-21",
+      "fight_id": "32a07c7d16a2f9af",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "32a07c7d16a2f9af",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "c2725d7d183fc539",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "c2725d7d183fc539",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "95f35fbaabbcc781",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "95f35fbaabbcc781",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-18",
+  "name": "Jeremiah Curtright",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.1,
+  "slug": "jeremiah-curtright",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

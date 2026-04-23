@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 707,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Kenichi Yamamoto",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-07-19",
+      "elo_delta": -19.9,
+      "event_name": "Pride: Bushido 4",
+      "fight_id": "13bc3d32159daae3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Ikuhisa Minowa",
+      "opponent_elo": 1470.4,
+      "outcome": "red_win",
+      "post_elo": 1458.1,
+      "pre_elo": 1477.9,
+      "red_name": "Ikuhisa Minowa",
+      "round": "1",
+      "time": "3:23",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kenichi Yamamoto",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-16",
+      "elo_delta": -22.7,
+      "event_name": "Pride 25",
+      "fight_id": "e965390c5c456928",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Alexander Otsuka",
+      "opponent_elo": 1407.0,
+      "outcome": "red_win",
+      "post_elo": 1477.9,
+      "pre_elo": 1500.7,
+      "red_name": "Alexander Otsuka",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kenichi Yamamoto",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-11-24",
+      "elo_delta": -18.3,
+      "event_name": "Pride 23",
+      "fight_id": "b958393e1ae7a0cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knees)",
+      "opponent": "Kevin Randleman",
+      "opponent_elo": 1539.5,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1518.9,
+      "red_name": "Kevin Randleman",
+      "round": "3",
+      "time": "1:16",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kenichi Yamamoto",
+      "bout_type": "UFC Welterweight Title Bout",
+      "date": "2000-12-16",
+      "elo_delta": -17.2,
+      "event_name": "UFC 29: Defense of the Belts",
+      "fight_id": "5c30f9287696aa10",
+      "gender": "men",
+      "is_title": true,
+      "method": "Submission",
+      "opponent": "Pat Miletich",
+      "opponent_elo": 1601.8,
+      "outcome": "red_win",
+      "post_elo": 1515.2,
+      "pre_elo": 1532.4,
+      "red_name": "Pat Miletich",
+      "round": "2.0",
+      "time": "1:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Katsuhisa Fujii",
+      "bout_type": "Ultimate Japan 2 Heavyweight Tournament Title Bout",
+      "date": "1999-11-19",
+      "elo_delta": 18.6,
+      "event_name": "UFC 23: Ultimate Japan 2",
+      "fight_id": "101340cf1f31cf8d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Katsuhisa Fujii",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1515.9,
+      "red_name": "Kenichi Yamamoto",
+      "round": "2.0",
+      "time": "4:15",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Daiju Takase",
+      "bout_type": "Open Weight Bout",
+      "date": "1999-11-19",
+      "elo_delta": 18.9,
+      "event_name": "UFC 23: Ultimate Japan 2",
+      "fight_id": "9acaf0783cf814e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daiju Takase",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Kenichi Yamamoto",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1999-11-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-11-19",
+      "fight_id": "9acaf0783cf814e5",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1999-11-19",
+      "fight_id": "101340cf1f31cf8d",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-11-19",
+      "fight_id": "9acaf0783cf814e5",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-11-19",
+      "fight_id": "101340cf1f31cf8d",
+      "rating": 1532.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-12-16",
+      "fight_id": "5c30f9287696aa10",
+      "rating": 1515.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2000-12-16",
+      "fight_id": "5c30f9287696aa10",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-11-24",
+      "fight_id": "b958393e1ae7a0cf",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-11-24",
+      "fight_id": "b958393e1ae7a0cf",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-03-16",
+      "fight_id": "e965390c5c456928",
+      "rating": 1477.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-16",
+      "fight_id": "e965390c5c456928",
+      "rating": 1480.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-07-19",
+      "fight_id": "13bc3d32159daae3",
+      "rating": 1458.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-07-19",
+      "fight_id": "13bc3d32159daae3",
+      "rating": 1463.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-07-19",
+  "name": "Kenichi Yamamoto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.4,
+  "slug": "kenichi-yamamoto",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

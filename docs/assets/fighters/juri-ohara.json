@@ -1,0 +1,160 @@
+{
+  "current_elo": 1555.1,
+  "divisional_rank": 71,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Juri Ohara",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2025-05-31",
+      "elo_delta": 0.0,
+      "event_name": "Rizin World Series in Korea",
+      "fight_id": "7b02c78bcd478926",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (missed weight)",
+      "opponent": "Johnny Case",
+      "opponent_elo": 1526.6,
+      "outcome": "no_contest",
+      "post_elo": 1555.1,
+      "pre_elo": 1555.1,
+      "red_name": "Johnny Case",
+      "round": "1",
+      "time": "2:20",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Akira Okada",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2022-03-20",
+      "elo_delta": 17.9,
+      "event_name": "Rizin 34 – Osaka",
+      "fight_id": "e3b54dccf9edb290",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Akira Okada",
+      "opponent_elo": 1534.8,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.2,
+      "red_name": "Juri Ohara",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kohei Tokeshi",
+      "bout_type": "Catchweight 72 kg Bout",
+      "date": "2021-11-20",
+      "elo_delta": 18.4,
+      "event_name": "Rizin 32 - Okinawa",
+      "fight_id": "c4afa2d1be003e65",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Soccer Kicks and Punches)",
+      "opponent": "Kohei Tokeshi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.2,
+      "pre_elo": 1518.8,
+      "red_name": "Juri Ohara",
+      "round": "1",
+      "time": "1:16",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Yusuke Yachi",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2020-09-27",
+      "elo_delta": 18.8,
+      "event_name": "Rizin 24 - Saitama",
+      "fight_id": "33d4396c64db7048",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Yusuke Yachi",
+      "opponent_elo": 1515.4,
+      "outcome": "red_win",
+      "post_elo": 1518.8,
+      "pre_elo": 1500.0,
+      "red_name": "Juri Ohara",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2020-09-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-09-27",
+      "fight_id": "33d4396c64db7048",
+      "rating": 1518.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-09-27",
+      "fight_id": "33d4396c64db7048",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "c4afa2d1be003e65",
+      "rating": 1537.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "c4afa2d1be003e65",
+      "rating": 1533.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-20",
+      "fight_id": "e3b54dccf9edb290",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-03-20",
+      "fight_id": "e3b54dccf9edb290",
+      "rating": 1549.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "7b02c78bcd478926",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "7b02c78bcd478926",
+      "rating": 1549.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-31",
+  "name": "Juri Ohara",
+  "nickname": "",
+  "overall_elo": 1549.5,
+  "peak_elo": 1555.1,
+  "slug": "juri-ohara",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1485.8,
+  "divisional_rank": 951,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Steven Hill",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-03-20",
+      "elo_delta": 22.3,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "d2e6c672bbbfb4a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Steven Hill",
+      "opponent_elo": 1514.4,
+      "outcome": "red_win",
+      "post_elo": 1485.8,
+      "pre_elo": 1463.6,
+      "red_name": "Leon Naumann",
+      "round": "1",
+      "time": "1:28",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Leon Naumann",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": -17.0,
+      "event_name": "Cage Warriors 185: Manchester",
+      "fight_id": "59571085844119bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Ethan Charlton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Ethan Charlton",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Leon Naumann",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "fcc20b9fa9f32674",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Naglis Kanišauskas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Naglis Kanišauskas",
+      "round": "2",
+      "time": "4:50",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-07-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-25",
+      "fight_id": "fcc20b9fa9f32674",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "fcc20b9fa9f32674",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "59571085844119bf",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "59571085844119bf",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "d2e6c672bbbfb4a5",
+      "rating": 1485.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "d2e6c672bbbfb4a5",
+      "rating": 1487.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Leon Naumann",
+  "nickname": "",
+  "overall_elo": 1487.1,
+  "peak_elo": 1500.0,
+  "slug": "leon-naumann",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

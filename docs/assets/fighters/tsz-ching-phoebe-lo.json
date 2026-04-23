@@ -1,0 +1,99 @@
+{
+  "current_elo": 1488.5,
+  "divisional_rank": 129,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Fuyuka",
+      "bout_type": "Women's Atomweight Kickboxing Bout",
+      "date": "2025-04-04",
+      "elo_delta": 19.6,
+      "event_name": "ONE Friday Fights 103: Kulabdam vs. Çiçek",
+      "fight_id": "1700bf726eca50ef",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Fuyuka",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1488.5,
+      "pre_elo": 1468.9,
+      "red_name": "Tsz Ching Phoebe Lo",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Tsz Ching Phoebe Lo",
+      "bout_type": "Women's Atomweight Muay Thai Bout",
+      "date": "2024-09-06",
+      "elo_delta": -17.3,
+      "event_name": "ONE Friday Fights 78: Pakorn vs. Reis",
+      "fight_id": "fea253e2c23d789c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Moa Carlsson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1468.9,
+      "pre_elo": 1486.2,
+      "red_name": "Moa Carlsson",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2024-05-10",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-05-10",
+      "fight_id": "002e6df90d17ebd3",
+      "rating": 1486.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-09-06",
+      "fight_id": "fea253e2c23d789c",
+      "rating": 1468.9,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2024-09-06",
+      "fight_id": "fea253e2c23d789c",
+      "rating": 1470.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-04-04",
+      "fight_id": "1700bf726eca50ef",
+      "rating": 1488.5,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2025-04-04",
+      "fight_id": "1700bf726eca50ef",
+      "rating": 1488.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-04",
+  "name": "Tsz Ching Phoebe Lo",
+  "nickname": "",
+  "overall_elo": 1488.2,
+  "peak_elo": 1500.0,
+  "slug": "tsz-ching-phoebe-lo",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

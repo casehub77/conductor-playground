@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 897,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Patrick Kaase",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-17",
+      "elo_delta": 20.3,
+      "event_name": "WEC 14: Vengeance",
+      "fight_id": "df262b36479bb8e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Patrick Kaase",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.2,
+      "pre_elo": 1483.8,
+      "red_name": "Abraham Baxter",
+      "round": "1",
+      "time": "2:12",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Abraham Baxter",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-08-20",
+      "elo_delta": -16.2,
+      "event_name": "WEC 11: Evolution",
+      "fight_id": "b0091e072cbd39f6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Richard Montoya",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "Richard Montoya",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Abraham Baxter",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2003-08-09",
+      "elo_delta": 0.0,
+      "event_name": "WEC 7 – This Time It's Personal",
+      "fight_id": "a0ae4fec3e5f49f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Boyd Ballard",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Boyd Ballard",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2003-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-08-09",
+      "fight_id": "a0ae4fec3e5f49f0",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2003-08-09",
+      "fight_id": "a0ae4fec3e5f49f0",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-08-20",
+      "fight_id": "b0091e072cbd39f6",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-08-20",
+      "fight_id": "b0091e072cbd39f6",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "df262b36479bb8e4",
+      "rating": 1504.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "df262b36479bb8e4",
+      "rating": 1503.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-03-17",
+  "name": "Abraham Baxter",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.2,
+  "slug": "abraham-baxter",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

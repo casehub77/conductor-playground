@@ -1,0 +1,201 @@
+{
+  "current_elo": 1478.1,
+  "divisional_rank": 1474,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Jan Malach",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": -18.7,
+      "event_name": "Oktagon 83: Samsonidse vs. Machaev",
+      "fight_id": "befe4770df28eaf7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Ahmad Halimson",
+      "opponent_elo": 1482.5,
+      "outcome": "red_win",
+      "post_elo": 1478.1,
+      "pre_elo": 1496.8,
+      "red_name": "Ahmad Halimson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jan Malach",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": -20.3,
+      "event_name": "Oktagon 71: Poppeck vs. Langer",
+      "fight_id": "9a886d961a4b9e5e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Endrit Brajshori",
+      "opponent_elo": 1503.3,
+      "outcome": "red_win",
+      "post_elo": 1498.3,
+      "pre_elo": 1518.6,
+      "red_name": "Endrit Brajshori",
+      "round": "1",
+      "time": "1:33",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jan Malach",
+      "bout_type": "Catchweight (161 lb) Bout",
+      "date": "2024-12-07",
+      "elo_delta": -20.4,
+      "event_name": "Oktagon 64: Brito vs. Surdu",
+      "fight_id": "f3fb6af03c7dbeeb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Gökhan Aksu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.1,
+      "pre_elo": 1516.4,
+      "red_name": "Gökhan Aksu",
+      "round": "1",
+      "time": "3:28",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Luka Milidragović",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-02-10",
+      "elo_delta": 19.5,
+      "event_name": "Oktagon 53: Dalisda vs. Dourthe",
+      "fight_id": "c826e871a6846351",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee to the body and punches)",
+      "opponent": "Luka Milidragović",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.6,
+      "pre_elo": 1499.1,
+      "red_name": "Jan Malach",
+      "round": "2",
+      "time": "3:01",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jan Malach",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-07-28",
+      "elo_delta": -20.5,
+      "event_name": "Oktagon 45 Special: Mågård vs. Lima",
+      "fight_id": "a837b55527939ea0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Shem Rock",
+      "opponent_elo": 1499.2,
+      "outcome": "red_win",
+      "post_elo": 1496.8,
+      "pre_elo": 1517.3,
+      "red_name": "Shem Rock",
+      "round": "1",
+      "time": "2:08",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-15",
+      "fight_id": "1482497d3577b9a5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "a837b55527939ea0",
+      "rating": 1496.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "a837b55527939ea0",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-10",
+      "fight_id": "c826e871a6846351",
+      "rating": 1518.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-02-10",
+      "fight_id": "c826e871a6846351",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "f3fb6af03c7dbeeb",
+      "rating": 1496.1,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "f3fb6af03c7dbeeb",
+      "rating": 1498.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "9a886d961a4b9e5e",
+      "rating": 1498.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "9a886d961a4b9e5e",
+      "rating": 1481.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "befe4770df28eaf7",
+      "rating": 1478.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "befe4770df28eaf7",
+      "rating": 1465.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Jan Malach",
+  "nickname": "",
+  "overall_elo": 1465.3,
+  "peak_elo": 1518.6,
+  "slug": "jan-malach",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

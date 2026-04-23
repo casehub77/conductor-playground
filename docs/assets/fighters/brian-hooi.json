@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 641,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Brian Hooi",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2022-11-12",
+      "elo_delta": -18.7,
+      "event_name": "KSW 76: Parnasse vs. Rajewski",
+      "fight_id": "beca695fd3443860",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Head Kick and Punches)",
+      "opponent": "Artur Szczepaniak",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1486.8,
+      "pre_elo": 1505.4,
+      "red_name": "Artur Szczepaniak",
+      "round": "1",
+      "time": "0:43",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Michał Pietrzak",
+      "bout_type": "Weltererweight 77 kg Bout",
+      "date": "2022-07-23",
+      "elo_delta": 21.4,
+      "event_name": "KSW 72: Romanowski vs. Grzebyk",
+      "fight_id": "90947947a2d48149",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Michał Pietrzak",
+      "opponent_elo": 1519.7,
+      "outcome": "red_win",
+      "post_elo": 1505.4,
+      "pre_elo": 1484.0,
+      "red_name": "Brian Hooi",
+      "round": "1",
+      "time": "3:20",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brian Hooi",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-11-05",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 270: Queally vs. Pitbull 2",
+      "fight_id": "9cd171917a8db0f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29-28, 29-28, 29-28)",
+      "opponent": "Daniele Scatizzi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Daniele Scatizzi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-11-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-05",
+      "fight_id": "9cd171917a8db0f2",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "9cd171917a8db0f2",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-23",
+      "fight_id": "90947947a2d48149",
+      "rating": 1505.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-23",
+      "fight_id": "90947947a2d48149",
+      "rating": 1503.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "beca695fd3443860",
+      "rating": 1486.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "beca695fd3443860",
+      "rating": 1486.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-12",
+  "name": "Brian Hooi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1505.4,
+  "slug": "brian-hooi",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

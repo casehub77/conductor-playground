@@ -1,0 +1,160 @@
+{
+  "current_elo": 1567.4,
+  "divisional_rank": 43,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Thiago Habib",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2026-02-21",
+      "elo_delta": 15.6,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "9b0e41cb64132f8b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (ninja choke)",
+      "opponent": "Thiago Habib",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1567.4,
+      "pre_elo": 1551.9,
+      "red_name": "Adam Darby",
+      "round": "1",
+      "time": "1:22",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Robert Constantin",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 17.5,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "be6b851af2a47861",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Robert Constantin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1551.9,
+      "pre_elo": 1534.4,
+      "red_name": "Adam Darby",
+      "round": "3",
+      "time": "3:41",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Tato Primera",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-27",
+      "elo_delta": 16.4,
+      "event_name": "Cage Warriors 190: Unplugged",
+      "fight_id": "055456ce5abd42f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to punches)",
+      "opponent": "Tato Primera",
+      "opponent_elo": 1462.6,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1518.0,
+      "red_name": "Adam Darby",
+      "round": "2",
+      "time": "4:56",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Tomasz Łangowski",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "de0d672543d96d1a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–26, 30–26)",
+      "opponent": "Tomasz Łangowski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Adam Darby",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-04-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-26",
+      "fight_id": "de0d672543d96d1a",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "de0d672543d96d1a",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "055456ce5abd42f0",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "055456ce5abd42f0",
+      "rating": 1530.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "be6b851af2a47861",
+      "rating": 1551.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "be6b851af2a47861",
+      "rating": 1546.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "9b0e41cb64132f8b",
+      "rating": 1567.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "9b0e41cb64132f8b",
+      "rating": 1560.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Adam Darby",
+  "nickname": "",
+  "overall_elo": 1560.8,
+  "peak_elo": 1567.4,
+  "slug": "adam-darby",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

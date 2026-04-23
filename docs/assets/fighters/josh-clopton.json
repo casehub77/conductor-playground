@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 818,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josh Clopton",
+      "bout_type": "Featherweight Bout",
+      "date": "2013-08-03",
+      "elo_delta": -13.5,
+      "event_name": "UFC 163: Aldo vs Jung",
+      "fight_id": "a3e90197ba3f02a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rani Yahya",
+      "opponent_elo": 1570.0,
+      "outcome": "red_win",
+      "post_elo": 1468.5,
+      "pre_elo": 1482.0,
+      "red_name": "Rani Yahya",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Josh Clopton",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-12-03",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: Team Bisping vs Team Miller Finale",
+      "fight_id": "616adc7b06b2ae37",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Steven Siler",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Steven Siler",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-12-03",
+      "fight_id": "616adc7b06b2ae37",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-12-03",
+      "fight_id": "616adc7b06b2ae37",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-03",
+      "fight_id": "a3e90197ba3f02a4",
+      "rating": 1468.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2013-08-03",
+      "fight_id": "a3e90197ba3f02a4",
+      "rating": 1471.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-08-03",
+  "name": "Josh Clopton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "josh-clopton",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

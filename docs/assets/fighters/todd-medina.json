@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 962,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Larry Cureton",
+      "bout_type": "Open Weight Bout",
+      "date": "1995-04-07",
+      "elo_delta": 20.5,
+      "event_name": "UFC 5: The Return of the Beast",
+      "fight_id": "79b093d638eaa8bd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Larry Cureton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Todd Medina",
+      "round": "1.0",
+      "time": "2:55",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Todd Medina",
+      "bout_type": "Open Weight Bout",
+      "date": "1995-04-07",
+      "elo_delta": -19.4,
+      "event_name": "UFC 5: The Return of the Beast",
+      "fight_id": "a4c59296062e894e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dave Beneteau",
+      "opponent_elo": 1500.1,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Dave Beneteau",
+      "round": "1.0",
+      "time": "2:12",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1995-04-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1995-04-07",
+      "fight_id": "a4c59296062e894e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1995-04-07",
+      "fight_id": "79b093d638eaa8bd",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1995-04-07",
+      "fight_id": "a4c59296062e894e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1995-04-07",
+      "fight_id": "79b093d638eaa8bd",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1995-04-07",
+  "name": "Todd Medina",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.1,
+  "slug": "todd-medina",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 647,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jung Hyun Lee",
+      "bout_type": "Catchweight 68 kg Bout",
+      "date": "2022-01-18",
+      "elo_delta": 23.3,
+      "event_name": "ARC 7",
+      "fight_id": "5e393597367436fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Von Flue choke)",
+      "opponent": "Jung Hyun Lee",
+      "opponent_elo": 1551.4,
+      "outcome": "red_win",
+      "post_elo": 1505.3,
+      "pre_elo": 1482.0,
+      "red_name": "Jin Guk Kim",
+      "round": "2",
+      "time": "1:47",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jin Guk Kim",
+      "bout_type": "Featherweight 66kg Bout",
+      "date": "2021-06-12",
+      "elo_delta": -18.0,
+      "event_name": "ARC 5",
+      "fight_id": "3c244774c7769d7c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Dong Hyuk Ko",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dong Hyuk Ko",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-06-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-12",
+      "fight_id": "3c244774c7769d7c",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "3c244774c7769d7c",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-18",
+      "fight_id": "5e393597367436fc",
+      "rating": 1505.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-01-18",
+      "fight_id": "5e393597367436fc",
+      "rating": 1505.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-18",
+  "name": "Jin Guk Kim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1505.3,
+  "slug": "jin-guk-kim",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

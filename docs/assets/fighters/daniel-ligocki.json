@@ -1,0 +1,194 @@
+{
+  "current_elo": 1530.2,
+  "divisional_rank": 92,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Ligocki",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-01-17",
+      "elo_delta": -23.1,
+      "event_name": "Oktagon 82: Engizek vs. Jotko",
+      "fight_id": "cac2445b594b87d9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "David Zawada",
+      "opponent_elo": 1451.4,
+      "outcome": "red_win",
+      "post_elo": 1530.2,
+      "pre_elo": 1553.4,
+      "red_name": "David Zawada",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Daniel Ligocki",
+      "bout_type": "Catchweight (190 lb) Bout",
+      "date": "2025-11-01",
+      "elo_delta": -21.4,
+      "event_name": "Oktagon 79: Surdu vs. Kalašnik",
+      "fight_id": "03a59679ff0e06a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Pedro Oliveira",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1526.5,
+      "pre_elo": 1547.9,
+      "red_name": "Pedro Oliveira",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Andre Langen",
+      "bout_type": "Catchweight (192 lb) Bout",
+      "date": "2025-08-09",
+      "elo_delta": 17.4,
+      "event_name": "Oktagon 74: Bolander vs. Szabová",
+      "fight_id": "0f352de393efa083",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees and punches)",
+      "opponent": "Andre Langen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.4,
+      "pre_elo": 1535.9,
+      "red_name": "Daniel Ligocki",
+      "round": "1",
+      "time": "2:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Erik Lorenz",
+      "bout_type": "Catchweight (194 lb) Bout",
+      "date": "2025-03-08",
+      "elo_delta": 18.5,
+      "event_name": "Oktagon 68: Todev vs. Fleury",
+      "fight_id": "1ede61e4c12ffa7e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Erik Lorenz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.9,
+      "pre_elo": 1517.5,
+      "red_name": "Daniel Ligocki",
+      "round": "1",
+      "time": "2:05",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Dominic Schober",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-02-22",
+      "elo_delta": 17.5,
+      "event_name": "Oktagon 67: Creasey vs. Adamia",
+      "fight_id": "6d07558d5f82556d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Dominic Schober",
+      "opponent_elo": 1464.9,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Ligocki",
+      "round": "1",
+      "time": "3:29",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-02-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-22",
+      "fight_id": "6d07558d5f82556d",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "6d07558d5f82556d",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "1ede61e4c12ffa7e",
+      "rating": 1535.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "1ede61e4c12ffa7e",
+      "rating": 1532.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "0f352de393efa083",
+      "rating": 1553.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "0f352de393efa083",
+      "rating": 1547.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "03a59679ff0e06a5",
+      "rating": 1526.5,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "03a59679ff0e06a5",
+      "rating": 1529.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "cac2445b594b87d9",
+      "rating": 1530.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "cac2445b594b87d9",
+      "rating": 1509.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-17",
+  "name": "Daniel Ligocki",
+  "nickname": "",
+  "overall_elo": 1509.6,
+  "peak_elo": 1553.4,
+  "slug": "daniel-ligocki",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

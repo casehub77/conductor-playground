@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 304,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Walt Hughes",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-08-18",
+      "elo_delta": 18.4,
+      "event_name": "WEC 16: Clash of the Titans 2",
+      "fight_id": "9a00ffb3e3cee2d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Walt Hughes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Dan Marks",
+      "round": "2",
+      "time": "2:22",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Mike Alirez",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-17",
+      "elo_delta": 19.4,
+      "event_name": "WEC 14: Vengeance",
+      "fight_id": "11060b347211b629",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Head Kick)",
+      "opponent": "Mike Alirez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dan Marks",
+      "round": "1",
+      "time": "0:31",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-03-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-03-17",
+      "fight_id": "11060b347211b629",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "11060b347211b629",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-08-18",
+      "fight_id": "9a00ffb3e3cee2d0",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-08-18",
+      "fight_id": "9a00ffb3e3cee2d0",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-08-18",
+  "name": "Dan Marks",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "dan-marks",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

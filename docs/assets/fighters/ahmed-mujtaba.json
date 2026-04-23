@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 572,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ahmed Mujtaba",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": -17.7,
+      "event_name": "ONE Fight Night 16: Haggerty vs. Andrade",
+      "fight_id": "f5bc205bd8e66344",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Halil Amir",
+      "opponent_elo": 1535.4,
+      "outcome": "red_win",
+      "post_elo": 1485.7,
+      "pre_elo": 1503.4,
+      "red_name": "Halil Amir",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ahmed Mujtaba",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-05-05",
+      "elo_delta": -16.1,
+      "event_name": "ONE Fight Night 10: Johnson vs. Moraes 3",
+      "fight_id": "efef69df5e45d5e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Sage Northcutt",
+      "opponent_elo": 1580.3,
+      "outcome": "red_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1519.4,
+      "red_name": "Sage Northcutt",
+      "round": "1",
+      "time": "0:39",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Abraão Amorim",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-11-19",
+      "elo_delta": 19.4,
+      "event_name": "ONE 163: Akimoto vs. Petchtanong",
+      "fight_id": "685643663dcd1ff0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Abraão Amorim",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ahmed Mujtaba",
+      "round": "1",
+      "time": "4:32",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-11-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-11-19",
+      "fight_id": "685643663dcd1ff0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "685643663dcd1ff0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "efef69df5e45d5e3",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "efef69df5e45d5e3",
+      "rating": 1502.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "f5bc205bd8e66344",
+      "rating": 1485.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "f5bc205bd8e66344",
+      "rating": 1486.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-04",
+  "name": "Ahmed Mujtaba",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "ahmed-mujtaba",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

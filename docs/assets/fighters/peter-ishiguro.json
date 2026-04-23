@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 879,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Peter Ishiguro",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-02-04",
+      "elo_delta": -16.9,
+      "event_name": "Bellator 290: Bader vs. Fedor 2",
+      "fight_id": "3f91a012bd0fb45b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Isaiah Hokit",
+      "opponent_elo": 1521.4,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Isaiah Hokit",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-04",
+      "fight_id": "3f91a012bd0fb45b",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "3f91a012bd0fb45b",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-04",
+  "name": "Peter Ishiguro",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "peter-ishiguro",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

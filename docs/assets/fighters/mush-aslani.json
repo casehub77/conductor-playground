@@ -1,0 +1,92 @@
+{
+  "current_elo": 1469.9,
+  "divisional_rank": 1196,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mush Aslani",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -18.4,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "469988ac19736f27",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Giacomo Michelis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.0,
+      "red_name": "Giacomo Michelis",
+      "round": "2",
+      "time": "1:35",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mush Aslani",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 171: Glasgow",
+      "fight_id": "910732e978f87b2c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Khadim Dia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Khadim Dia",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "910732e978f87b2c",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "910732e978f87b2c",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "469988ac19736f27",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "469988ac19736f27",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-07-20",
+  "name": "Mush Aslani",
+  "nickname": "",
+  "overall_elo": 1473.8,
+  "peak_elo": 1500.0,
+  "slug": "mush-aslani",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

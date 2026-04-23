@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 32,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Leah Letson",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2021-11-13",
+      "elo_delta": -21.1,
+      "event_name": "UFC Fight Night: Holloway vs. Rodriguez",
+      "fight_id": "51841b730a1353bf",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Felicia Spencer",
+      "opponent_elo": 1488.2,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1518.0,
+      "red_name": "Felicia Spencer",
+      "round": "3.0",
+      "time": "4:25",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Leah Letson",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2018-11-30",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: Heavy Hitters Finale",
+      "fight_id": "1c4390bf9966f5e2",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Julija Stoliarenko",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Julija Stoliarenko",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2018-11-30",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2018-11-30",
+      "fight_id": "1c4390bf9966f5e2",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2018-11-30",
+      "fight_id": "1c4390bf9966f5e2",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-11-13",
+      "fight_id": "51841b730a1353bf",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2021-11-13",
+      "fight_id": "51841b730a1353bf",
+      "rating": 1497.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-13",
+  "name": "Leah Letson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "leah-letson",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

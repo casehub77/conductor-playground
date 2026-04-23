@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 431,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dustin Ortiz",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-11-09",
+      "elo_delta": -17.3,
+      "event_name": "UFC Fight Night: Belfort vs Henderson 2",
+      "fight_id": "49c37bce583d3d20",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dustin Ortiz",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1464.4,
+      "pre_elo": 1481.7,
+      "red_name": "Jose Maria",
+      "round": "3.0",
+      "time": "3:19",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jose Maria",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-08-03",
+      "elo_delta": -18.3,
+      "event_name": "UFC 163: Aldo vs Jung",
+      "fight_id": "4f897ee19a14fb39",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "John Lineker",
+      "opponent_elo": 1521.2,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "John Lineker",
+      "round": "2.0",
+      "time": "1:03",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2013-08-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-08-03",
+      "fight_id": "4f897ee19a14fb39",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-08-03",
+      "fight_id": "4f897ee19a14fb39",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-11-09",
+      "fight_id": "49c37bce583d3d20",
+      "rating": 1464.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-11-09",
+      "fight_id": "49c37bce583d3d20",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-11-09",
+  "name": "Jose Maria",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jose-maria",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

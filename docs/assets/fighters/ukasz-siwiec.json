@@ -1,0 +1,194 @@
+{
+  "current_elo": 1456.8,
+  "divisional_rank": 1021,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Łukasz Siwiec",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": -17.0,
+      "event_name": "Oktagon 70: Krištofič vs. Humburger",
+      "fight_id": "3a525b2582abef81",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Hojat Khajevand",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1456.8,
+      "pre_elo": 1473.8,
+      "red_name": "Hojat Khajevand",
+      "round": "1",
+      "time": "3:25",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Łukasz Siwiec",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-05-04",
+      "elo_delta": -16.5,
+      "event_name": "Oktagon 57: Eckerlin vs. Brož",
+      "fight_id": "41e415465ae252fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–27, 29–27)",
+      "opponent": "Louis Glismann",
+      "opponent_elo": 1516.3,
+      "outcome": "red_win",
+      "post_elo": 1471.0,
+      "pre_elo": 1487.6,
+      "red_name": "Louis Glismann",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Łukasz Siwiec",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": -17.4,
+      "event_name": "Oktagon 47: Vémola vs. Langer",
+      "fight_id": "d64b5779ec9575ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–27, 30–26)",
+      "opponent": "Amiran Gogoladze",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1487.6,
+      "pre_elo": 1505.0,
+      "red_name": "Amiran Gogoladze",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "John Hathaway",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": 23.0,
+      "event_name": "Oktagon 44: Langer vs. Poppeck",
+      "fight_id": "9639a5c61cfe292c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "John Hathaway",
+      "opponent_elo": 1580.9,
+      "outcome": "red_win",
+      "post_elo": 1505.0,
+      "pre_elo": 1482.0,
+      "red_name": "Łukasz Siwiec",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Łukasz Siwiec",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-10",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 40: Kozma vs. Siwiec",
+      "fight_id": "1ecd1f1d815f98ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "David Kozma",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "David Kozma",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "1ecd1f1d815f98ac",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-10",
+      "fight_id": "1ecd1f1d815f98ac",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "9639a5c61cfe292c",
+      "rating": 1505.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "9639a5c61cfe292c",
+      "rating": 1504.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "d64b5779ec9575ae",
+      "rating": 1487.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "d64b5779ec9575ae",
+      "rating": 1488.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "41e415465ae252fc",
+      "rating": 1471.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "41e415465ae252fc",
+      "rating": 1473.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "3a525b2582abef81",
+      "rating": 1456.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "3a525b2582abef81",
+      "rating": 1458.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-26",
+  "name": "Łukasz Siwiec",
+  "nickname": "",
+  "overall_elo": 1458.6,
+  "peak_elo": 1505.0,
+  "slug": "ukasz-siwiec",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

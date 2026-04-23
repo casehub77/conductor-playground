@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 81,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Maria Henderson",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-03-31",
+      "elo_delta": -22.4,
+      "event_name": "Bellator 293: Golm vs. James",
+      "fight_id": "c96f00f0292f467a",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Mackenzie Stiller",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1531.4,
+      "pre_elo": 1553.8,
+      "red_name": "Mackenzie Stiller",
+      "round": "1",
+      "time": "3:17",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Melanie McIntyre",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": 17.4,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "123a3a9ed32f7a1f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (triangle keylock)",
+      "opponent": "Melanie McIntyre",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1536.4,
+      "red_name": "Maria Henderson",
+      "round": "1",
+      "time": "1:42",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jena Williams",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 131: Argueta vs. Silva",
+      "fight_id": "78d116cf1bcb2612",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (triangle keylock)",
+      "opponent": "Jena Williams",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Maria Henderson",
+      "round": "3",
+      "time": "1:41",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Collette Santiago",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-10-16",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 268: Nemkov vs. Anglickas",
+      "fight_id": "f54e3d86263b616f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Collette Santiago",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Maria Henderson",
+      "round": "1",
+      "time": "0:40",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Amanda Mitchell",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-02-19",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 100: Altamirano vs. Smith",
+      "fight_id": "e45962429a8214ac",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Amanda Mitchell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Maria Henderson",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-02-19",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-02-19",
+      "fight_id": "e45962429a8214ac",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-02-19",
+      "fight_id": "e45962429a8214ac",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "f54e3d86263b616f",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "f54e3d86263b616f",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "78d116cf1bcb2612",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "78d116cf1bcb2612",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "123a3a9ed32f7a1f",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "123a3a9ed32f7a1f",
+      "rating": 1563.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "c96f00f0292f467a",
+      "rating": 1531.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "c96f00f0292f467a",
+      "rating": 1542.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-31",
+  "name": "Maria Henderson",
+  "nickname": "",
+  "overall_elo": 1503.7,
+  "peak_elo": 1563.1,
+  "slug": "maria-henderson",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

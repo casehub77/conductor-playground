@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 566,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Blayne Richards",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 108: Fremd vs. Rodrigues",
+      "fight_id": "43b0527fb4f0f65a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Blayne Richards",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kenan Jackson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "43b0527fb4f0f65a",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "43b0527fb4f0f65a",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-05-21",
+  "name": "Kenan Jackson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "kenan-jackson",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

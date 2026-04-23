@@ -1,0 +1,92 @@
+{
+  "current_elo": 1497.6,
+  "divisional_rank": 633,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Emilio Vallecillo",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-06-13",
+      "elo_delta": -20.4,
+      "event_name": "LFA 210: Lawrence vs. Reyes",
+      "fight_id": "bad56a1fa92db235",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Pedro Lay Jr.",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Pedro Lay Jr.",
+      "round": "1",
+      "time": "4:49",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Taylor Meister",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-03-29",
+      "elo_delta": 18.0,
+      "event_name": "LFA 180: Lawrence vs. Ward",
+      "fight_id": "d46e4bd906bffdbc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Taylor Meister",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Emilio Vallecillo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-29",
+      "fight_id": "d46e4bd906bffdbc",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "d46e4bd906bffdbc",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-13",
+      "fight_id": "bad56a1fa92db235",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-06-13",
+      "fight_id": "bad56a1fa92db235",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-13",
+  "name": "Emilio Vallecillo",
+  "nickname": "",
+  "overall_elo": 1497.9,
+  "peak_elo": 1518.0,
+  "slug": "emilio-vallecillo",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

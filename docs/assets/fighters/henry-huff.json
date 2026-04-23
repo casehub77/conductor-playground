@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 878,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Henry Huff",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": -15.7,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "30417ae3f2c31549",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Quang Le",
+      "opponent_elo": 1552.6,
+      "outcome": "red_win",
+      "post_elo": 1468.3,
+      "pre_elo": 1484.0,
+      "red_name": "Quang Le",
+      "round": "3",
+      "time": "4:44",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Henry Huff",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "6588f5db308c1110",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Felipe Martinez Donis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Felipe Martinez Donis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-10",
+      "fight_id": "6588f5db308c1110",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "6588f5db308c1110",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "30417ae3f2c31549",
+      "rating": 1468.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "30417ae3f2c31549",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Henry Huff",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "henry-huff",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

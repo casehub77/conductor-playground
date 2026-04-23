@@ -1,0 +1,92 @@
+{
+  "current_elo": 1518.2,
+  "divisional_rank": 83,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Adam Pałasz",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": 18.5,
+      "event_name": "Oktagon 52: Mågård vs. Cartwright",
+      "fight_id": "005ae2cf74621ea4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Adam Pałasz",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1536.5,
+      "pre_elo": 1518.0,
+      "red_name": "Stuart Austin",
+      "round": "1",
+      "time": "3:52",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "John Winter",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-04-29",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 42: Keita vs. Tichota",
+      "fight_id": "c8cf898c6f363390",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "John Winter",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Stuart Austin",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "c8cf898c6f363390",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "c8cf898c6f363390",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "005ae2cf74621ea4",
+      "rating": 1536.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "005ae2cf74621ea4",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-27",
+  "name": "Stuart Austin",
+  "nickname": "",
+  "overall_elo": 1514.2,
+  "peak_elo": 1536.5,
+  "slug": "stuart-austin",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

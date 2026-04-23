@@ -1,0 +1,160 @@
+{
+  "current_elo": 1501.9,
+  "divisional_rank": 277,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Felipe Lima",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": -17.1,
+      "event_name": "UFC 317: Topuria vs. Oliveira",
+      "fight_id": "3e940a23d5f6c62d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Payton Talbott",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1519.0,
+      "red_name": "Payton Talbott",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Felipe Lima",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-12-14",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Covington vs. Buckley",
+      "fight_id": "558e784169fdd4b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Miles Johns",
+      "opponent_elo": 1556.8,
+      "outcome": "blue_win",
+      "post_elo": 1557.3,
+      "pre_elo": 1538.4,
+      "red_name": "Miles Johns",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Felipe Lima",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-06-22",
+      "elo_delta": 21.6,
+      "event_name": "UFC Fight Night: Whittaker vs. Aliskerov",
+      "fight_id": "ee87eade63ed510d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Muhammad Naimov",
+      "opponent_elo": 1555.7,
+      "outcome": "blue_win",
+      "post_elo": 1538.4,
+      "pre_elo": 1516.8,
+      "red_name": "Muhammad Naimov",
+      "round": "3.0",
+      "time": "1:15",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jonas Mågård",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-07-28",
+      "elo_delta": 19.0,
+      "event_name": "Oktagon 45 Special: Mågård vs. Lima",
+      "fight_id": "f8e16657e2af2487",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (48–45, 48–45, 48–46)",
+      "opponent": "Jonas Mågård",
+      "opponent_elo": 1518.7,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Felipe Lima",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-07-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-28",
+      "fight_id": "f8e16657e2af2487",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "f8e16657e2af2487",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-22",
+      "fight_id": "ee87eade63ed510d",
+      "rating": 1538.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-06-22",
+      "fight_id": "ee87eade63ed510d",
+      "rating": 1535.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-14",
+      "fight_id": "558e784169fdd4b6",
+      "rating": 1557.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-12-14",
+      "fight_id": "558e784169fdd4b6",
+      "rating": 1552.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "3e940a23d5f6c62d",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "3e940a23d5f6c62d",
+      "rating": 1535.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-28",
+  "name": "Felipe Lima",
+  "nickname": "",
+  "overall_elo": 1535.8,
+  "peak_elo": 1557.3,
+  "slug": "felipe-lima",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

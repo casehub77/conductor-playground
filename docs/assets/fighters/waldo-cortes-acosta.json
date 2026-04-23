@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 177,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Thomas Petersen",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 20.5,
+      "event_name": "Legacy Fighting Alliance 129: Petersen vs. Cortes-Acosta",
+      "fight_id": "d35dc1c03ad789a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Thomas Petersen",
+      "opponent_elo": 1555.1,
+      "outcome": "red_win",
+      "post_elo": 1556.9,
+      "pre_elo": 1536.4,
+      "red_name": "Waldo Cortes-Acosta",
+      "round": "3",
+      "time": "4:53",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Derrick Weaver",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 124: Formiga vs. Bunes",
+      "fight_id": "08ae9e1e99a663d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Derrick Weaver",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Waldo Cortes-Acosta",
+      "round": "2",
+      "time": "0:22",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mo DeReese",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-11-12",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 271: Cyborg vs. Kavanagh",
+      "fight_id": "be0f9d8b77025334",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Mo DeReese",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Waldo Cortes-Acosta",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-11-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-12",
+      "fight_id": "be0f9d8b77025334",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "be0f9d8b77025334",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "08ae9e1e99a663d8",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "08ae9e1e99a663d8",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "d35dc1c03ad789a5",
+      "rating": 1556.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "d35dc1c03ad789a5",
+      "rating": 1550.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": "https://www.instagram.com/waldocortesmma/",
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-15",
+  "name": "Waldo Cortes-Acosta",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1556.9,
+  "slug": "waldo-cortes-acosta",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

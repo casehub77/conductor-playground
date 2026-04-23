@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.4,
+  "divisional_rank": 117,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alex Martin",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-01-16",
+      "elo_delta": 17.0,
+      "event_name": "LFA 224: Adams vs. Bilalov",
+      "fight_id": "e11f2e3a60046943",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–26, 30–26)",
+      "opponent": "Alex Martin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Xavier Judge",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tommy Nabity",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-09-12",
+      "elo_delta": 19.4,
+      "event_name": "LFA 217: McKee vs. Nobre",
+      "fight_id": "16d1d8385f628803",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Tommy Nabity",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Xavier Judge",
+      "round": "1",
+      "time": "0:28",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-09-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-12",
+      "fight_id": "16d1d8385f628803",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-09-12",
+      "fight_id": "16d1d8385f628803",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "e11f2e3a60046943",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "e11f2e3a60046943",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-16",
+  "name": "Xavier Judge",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1536.4,
+  "slug": "xavier-judge",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

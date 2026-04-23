@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.0,
+  "divisional_rank": 1012,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Raul Navarrette",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-08-22",
+      "elo_delta": -20.5,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "91854c3aa2ff6dec",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Roman Puga",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1519.6,
+      "red_name": "Roman Puga",
+      "round": "1",
+      "time": "1:10",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Xavier Vines",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-12-13",
+      "elo_delta": 19.6,
+      "event_name": "Cage Warriors 182: San Diego",
+      "fight_id": "bbd4be052bd7676f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Xavier Vines",
+      "opponent_elo": 1502.1,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1500.0,
+      "red_name": "Raul Navarrette",
+      "round": "1",
+      "time": "4:56",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-12-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-13",
+      "fight_id": "bbd4be052bd7676f",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "bbd4be052bd7676f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "91854c3aa2ff6dec",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "91854c3aa2ff6dec",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-22",
+  "name": "Raul Navarrette",
+  "nickname": "",
+  "overall_elo": 1499.1,
+  "peak_elo": 1519.6,
+  "slug": "raul-navarrette",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

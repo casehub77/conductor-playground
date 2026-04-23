@@ -1,0 +1,64 @@
+{
+  "dry_run": false,
+  "fallback": {
+    "discarded_unparseable": 13,
+    "duplicates": 50,
+    "errors": [],
+    "new_fights": 0,
+    "parsed_fights": 63,
+    "rows": 63,
+    "used": true
+  },
+  "fighter_details": {
+    "errors": [],
+    "rows": 3596,
+    "source": "/Users/casehawts/conductor/workspaces/conductor-playground-v2/philadelphia/data/raw/raw_fighter_details.csv"
+  },
+  "manual": {
+    "duplicates": 0,
+    "fights": 10584,
+    "new_fights": 10584,
+    "rows": 10584
+  },
+  "mode": "full",
+  "official_fallback": {
+    "discarded_unparseable": 0,
+    "duplicates": 13,
+    "errors": [],
+    "new_fights": 37,
+    "parsed_fights": 50,
+    "rows": 50,
+    "used": true
+  },
+  "primary": {
+    "errors": [],
+    "rows": 8591,
+    "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv"
+  },
+  "primary_health": {
+    "age_days": 26,
+    "current_fight_count": 8591,
+    "drift_ratio": 0.0,
+    "drift_tolerance": 0.25,
+    "latest_event_date": "2026-03-28",
+    "ok": true,
+    "previous_fight_count": 8591,
+    "stale": true,
+    "stale_after_days": 21,
+    "stale_by_date": true,
+    "stale_by_drift": false
+  },
+  "since": null,
+  "validation": {
+    "errors": [],
+    "fight_count": 19212,
+    "fighter_count": 10229,
+    "input_hash": "1f9544ba8ea9db723ded7ee38537dadca670e7cafccf84173bf459464a4f6969",
+    "ok": true,
+    "same_name_collisions": [],
+    "suggested_alias_count": 500,
+    "warnings": [
+      "1 fights have unknown weight class."
+    ]
+  }
+}

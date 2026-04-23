@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 429,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Carl McNally",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-12-17",
+      "elo_delta": -19.5,
+      "event_name": "KSW 77: Khalidov vs. Pudzianowski",
+      "fight_id": "568203b93d659322",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Shamad Erzanukaev",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.4,
+      "red_name": "Shamad Erzanukaev",
+      "round": "2",
+      "time": "2:48",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Miłosz Melchert",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-08-20",
+      "elo_delta": 19.4,
+      "event_name": "KSW 73: Wrzosek vs. Sarara",
+      "fight_id": "a4da8e1d77600a5d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Miłosz Melchert",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Carl McNally",
+      "round": "1",
+      "time": "4:19",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-20",
+      "fight_id": "a4da8e1d77600a5d",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "a4da8e1d77600a5d",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "568203b93d659322",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "568203b93d659322",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-17",
+  "name": "Carl McNally",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "carl-mcnally",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

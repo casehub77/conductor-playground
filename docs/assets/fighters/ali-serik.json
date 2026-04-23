@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 100,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ali Serik",
+      "bout_type": "Strawweight Kickboxing Bout",
+      "date": "2023-05-12",
+      "elo_delta": -18.5,
+      "event_name": "ONE Friday Fights 16: ET vs. Kongthoranee",
+      "fight_id": "ff71df79dcd75d26",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (body kick)",
+      "opponent": "Huo Xiaolong",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Huo Xiaolong",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2023-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-12",
+      "fight_id": "ff71df79dcd75d26",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "ff71df79dcd75d26",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-12",
+  "name": "Ali Serik",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ali-serik",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

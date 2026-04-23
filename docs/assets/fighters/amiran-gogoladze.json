@@ -1,0 +1,133 @@
+{
+  "current_elo": 1570.2,
+  "divisional_rank": 39,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ion Surdu",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-04-11",
+      "elo_delta": 19.7,
+      "event_name": "Oktagon 86: Materla vs. Jungwirth",
+      "fight_id": "43a3fbe272c6860f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Ion Surdu",
+      "opponent_elo": 1554.4,
+      "outcome": "red_win",
+      "post_elo": 1570.2,
+      "pre_elo": 1550.6,
+      "red_name": "Amiran Gogoladze",
+      "round": "1",
+      "time": "2:34",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Leandro Silva",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-06-08",
+      "elo_delta": 17.2,
+      "event_name": "Oktagon 58: Vémola vs Végh 2",
+      "fight_id": "14738883462f8b87",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 30–27)",
+      "opponent": "Leandro Silva",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1550.6,
+      "pre_elo": 1533.4,
+      "red_name": "Amiran Gogoladze",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Łukasz Siwiec",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": 17.4,
+      "event_name": "Oktagon 47: Vémola vs. Langer",
+      "fight_id": "d64b5779ec9575ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–27, 30–26)",
+      "opponent": "Łukasz Siwiec",
+      "opponent_elo": 1505.0,
+      "outcome": "red_win",
+      "post_elo": 1533.4,
+      "pre_elo": 1516.0,
+      "red_name": "Amiran Gogoladze",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-05-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-20",
+      "fight_id": "cdc390deffbaa2b8",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "d64b5779ec9575ae",
+      "rating": 1533.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "d64b5779ec9575ae",
+      "rating": 1531.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "14738883462f8b87",
+      "rating": 1550.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "14738883462f8b87",
+      "rating": 1547.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "43a3fbe272c6860f",
+      "rating": 1570.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "43a3fbe272c6860f",
+      "rating": 1564.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Amiran Gogoladze",
+  "nickname": "",
+  "overall_elo": 1564.0,
+  "peak_elo": 1570.2,
+  "slug": "amiran-gogoladze",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

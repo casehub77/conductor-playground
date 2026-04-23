@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 195,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Brett Rogers",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-06-18",
+      "elo_delta": -15.8,
+      "event_name": "Strikeforce: Overeem vs. Werdum",
+      "fight_id": "84bc8953d2ae652c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm triangle choke)",
+      "opponent": "Josh Barnett",
+      "opponent_elo": 1579.1,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1513.4,
+      "red_name": "Josh Barnett",
+      "round": "2",
+      "time": "1:17",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Brett Rogers",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-05-15",
+      "elo_delta": -15.2,
+      "event_name": "Strikeforce: Heavy Artillery",
+      "fight_id": "c83c6933217801e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alistair Overeem",
+      "opponent_elo": 1605.7,
+      "outcome": "red_win",
+      "post_elo": 1513.4,
+      "pre_elo": 1528.6,
+      "red_name": "Alistair Overeem",
+      "round": "1",
+      "time": "3:40",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Brett Rogers",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-11-07",
+      "elo_delta": -15.1,
+      "event_name": "Strikeforce: Fedor vs. Rogers",
+      "fight_id": "b12bbebcd224e7ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Fedor Emelianenko",
+      "opponent_elo": 1621.8,
+      "outcome": "red_win",
+      "post_elo": 1528.6,
+      "pre_elo": 1543.8,
+      "red_name": "Fedor Emelianenko",
+      "round": "2",
+      "time": "1:48",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Andrei Arlovski",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-06-06",
+      "elo_delta": 24.3,
+      "event_name": "Strikeforce: Lawler vs. Shields",
+      "fight_id": "eea058290e065986",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Andrei Arlovski",
+      "opponent_elo": 1608.6,
+      "outcome": "red_win",
+      "post_elo": 1543.8,
+      "pre_elo": 1519.4,
+      "red_name": "Brett Rogers",
+      "round": "1",
+      "time": "0:22",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ron Humphrey",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-04-11",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Shamrock vs. Diaz",
+      "fight_id": "a4ec586ce2a5a0f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees)",
+      "opponent": "Ron Humphrey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Brett Rogers",
+      "round": "2",
+      "time": "1:38",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-04-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-11",
+      "fight_id": "a4ec586ce2a5a0f5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-04-11",
+      "fight_id": "a4ec586ce2a5a0f5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-06",
+      "fight_id": "eea058290e065986",
+      "rating": 1543.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-06-06",
+      "fight_id": "eea058290e065986",
+      "rating": 1538.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-11-07",
+      "fight_id": "b12bbebcd224e7ee",
+      "rating": 1528.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-11-07",
+      "fight_id": "b12bbebcd224e7ee",
+      "rating": 1528.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-15",
+      "fight_id": "c83c6933217801e3",
+      "rating": 1513.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-05-15",
+      "fight_id": "c83c6933217801e3",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-18",
+      "fight_id": "84bc8953d2ae652c",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-06-18",
+      "fight_id": "84bc8953d2ae652c",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-06-18",
+  "name": "Brett Rogers",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1543.8,
+  "slug": "brett-rogers",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

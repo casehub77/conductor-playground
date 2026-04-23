@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1039,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Matt Lee",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2011-04-02",
+      "elo_delta": -16.2,
+      "event_name": "Bellator 39",
+      "fight_id": "7984d3d17468688c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Ben Saunders",
+      "opponent_elo": 1526.1,
+      "outcome": "red_win",
+      "post_elo": 1451.3,
+      "pre_elo": 1467.5,
+      "red_name": "Ben Saunders",
+      "round": "3",
+      "time": "1:24",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Matt Lee",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-04-22",
+      "elo_delta": -17.1,
+      "event_name": "Bellator 15",
+      "fight_id": "bff8bc16cfb7e268",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 28–27)",
+      "opponent": "Ryan Quinn",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.6,
+      "pre_elo": 1482.7,
+      "red_name": "Ryan Quinn",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-09-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-09-29",
+      "fight_id": "ea87ea1fb3bbdef4",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-04-22",
+      "fight_id": "bff8bc16cfb7e268",
+      "rating": 1465.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-04-22",
+      "fight_id": "bff8bc16cfb7e268",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-02",
+      "fight_id": "7984d3d17468688c",
+      "rating": 1451.3,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2011-04-02",
+      "fight_id": "7984d3d17468688c",
+      "rating": 1453.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-02",
+  "name": "Matt Lee",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "matt-lee",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

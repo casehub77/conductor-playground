@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 364,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Bojan Velickovic",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-07-30",
+      "elo_delta": -1.1,
+      "event_name": "UFC 201: Lawler vs. Woodley",
+      "fight_id": "9ac7e98aeb5feca0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Bojan Velickovic",
+      "opponent_elo": 1516.0,
+      "outcome": "draw",
+      "post_elo": 1536.3,
+      "pre_elo": 1537.4,
+      "red_name": "Michael Graves",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Michael Graves",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-04-16",
+      "elo_delta": 19.4,
+      "event_name": "UFC on FOX: Teixeira vs Evans",
+      "fight_id": "ead6681ca7d059d1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Randy Brown",
+      "opponent_elo": 1517.1,
+      "outcome": "blue_win",
+      "post_elo": 1537.4,
+      "pre_elo": 1518.0,
+      "red_name": "Randy Brown",
+      "round": "2.0",
+      "time": "2:31",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Vicente Luque",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-07-12",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: American Top Team vs. Blackzilians Finale",
+      "fight_id": "4c7db35b04410095",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Vicente Luque",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Michael Graves",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2015-07-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-07-12",
+      "fight_id": "4c7db35b04410095",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-07-12",
+      "fight_id": "4c7db35b04410095",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-04-16",
+      "fight_id": "ead6681ca7d059d1",
+      "rating": 1537.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-04-16",
+      "fight_id": "ead6681ca7d059d1",
+      "rating": 1533.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-07-30",
+      "fight_id": "9ac7e98aeb5feca0",
+      "rating": 1536.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-07-30",
+      "fight_id": "9ac7e98aeb5feca0",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-07-30",
+  "name": "Michael Graves",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.4,
+  "slug": "michael-graves",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

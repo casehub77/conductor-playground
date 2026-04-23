@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.0,
+  "divisional_rank": 1013,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "David Gladfelter",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-10-25",
+      "elo_delta": -17.0,
+      "event_name": "LFA 220: Tanner vs. Cyr",
+      "fight_id": "593c1546ab116a71",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Jarom Woodbury",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.0,
+      "pre_elo": 1481.0,
+      "red_name": "Jarom Woodbury",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "David Gladfelter",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-06-20",
+      "elo_delta": -19.0,
+      "event_name": "LFA 211: Mesquita vs. Dinwoodie",
+      "fight_id": "c1114f16fb84edc6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Jake Woodley",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jake Woodley",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-06-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-06-20",
+      "fight_id": "c1114f16fb84edc6",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "c1114f16fb84edc6",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "593c1546ab116a71",
+      "rating": 1464.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "593c1546ab116a71",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-25",
+  "name": "David Gladfelter",
+  "nickname": "",
+  "overall_elo": 1468.0,
+  "peak_elo": 1500.0,
+  "slug": "david-gladfelter",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

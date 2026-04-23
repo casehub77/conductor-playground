@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.9,
+  "divisional_rank": 923,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mark Hulme",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-08-09",
+      "elo_delta": -18.5,
+      "event_name": "Oktagon 74: Bolander vs. Szabová",
+      "fight_id": "68998d6b8cec7011",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbow and punches)",
+      "opponent": "Dominik Humburger",
+      "opponent_elo": 1534.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1517.5,
+      "red_name": "Dominik Humburger",
+      "round": "2",
+      "time": "2:59",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Andreas Michailidis",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-02-22",
+      "elo_delta": 17.5,
+      "event_name": "Oktagon 67: Creasey vs. Adamia",
+      "fight_id": "b2384daff3064e04",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Andreas Michailidis",
+      "opponent_elo": 1464.4,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Hulme",
+      "round": "1",
+      "time": "2:20",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-02-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-22",
+      "fight_id": "b2384daff3064e04",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "b2384daff3064e04",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "68998d6b8cec7011",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "68998d6b8cec7011",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-09",
+  "name": "Mark Hulme",
+  "nickname": "",
+  "overall_elo": 1500.3,
+  "peak_elo": 1517.5,
+  "slug": "mark-hulme",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

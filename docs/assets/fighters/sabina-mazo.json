@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 64,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Miranda Maverick",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-03-12",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Santos vs. Ankalaev",
+      "fight_id": "fc6bc40b1bc4fd16",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Miranda Maverick",
+      "opponent_elo": 1501.4,
+      "outcome": "blue_win",
+      "post_elo": 1497.0,
+      "pre_elo": 1517.4,
+      "red_name": "Sabina Mazo",
+      "round": "2.0",
+      "time": "2:15",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mariya Agapova",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-10-09",
+      "elo_delta": -21.9,
+      "event_name": "UFC Fight Night: Dern vs. Rodriguez",
+      "fight_id": "fcd50fe6788f2797",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mariya Agapova",
+      "opponent_elo": 1495.6,
+      "outcome": "blue_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1539.2,
+      "red_name": "Sabina Mazo",
+      "round": "3.0",
+      "time": "0:53",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Sabina Mazo",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2021-02-27",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Rozenstruik vs. Gane",
+      "fight_id": "b680bd99215791b0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alexis Davis",
+      "opponent_elo": 1555.2,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1535.0,
+      "red_name": "Alexis Davis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Justine Kish",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2020-09-12",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Waterson vs. Hill",
+      "fight_id": "8f5d31113224ddba",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Justine Kish",
+      "opponent_elo": 1511.9,
+      "outcome": "red_win",
+      "post_elo": 1539.2,
+      "pre_elo": 1520.3,
+      "red_name": "Sabina Mazo",
+      "round": "3.0",
+      "time": "3:57",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "JJ Aldrich",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2020-01-18",
+      "elo_delta": 19.5,
+      "event_name": "UFC 246: McGregor vs. Cowboy",
+      "fight_id": "3fe4c62304a045b4",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "JJ Aldrich",
+      "opponent_elo": 1529.4,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1500.8,
+      "red_name": "Sabina Mazo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shana Dobson",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2019-08-17",
+      "elo_delta": 19.0,
+      "event_name": "UFC 241: Cormier vs. Miocic 2",
+      "fight_id": "b8b69b5529057e46",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Shana Dobson",
+      "opponent_elo": 1500.4,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1481.8,
+      "red_name": "Sabina Mazo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Maryna Moroz",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2019-03-30",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Barboza vs. Gaethje",
+      "fight_id": "c857292f53f05e6a",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Maryna Moroz",
+      "opponent_elo": 1496.8,
+      "outcome": "blue_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Sabina Mazo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2019-03-30",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2019-03-30",
+      "fight_id": "c857292f53f05e6a",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2019-03-30",
+      "fight_id": "c857292f53f05e6a",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-08-17",
+      "fight_id": "b8b69b5529057e46",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2019-08-17",
+      "fight_id": "b8b69b5529057e46",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-01-18",
+      "fight_id": "3fe4c62304a045b4",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2020-01-18",
+      "fight_id": "3fe4c62304a045b4",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "8f5d31113224ddba",
+      "rating": 1539.2,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "8f5d31113224ddba",
+      "rating": 1535.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-02-27",
+      "fight_id": "b680bd99215791b0",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2021-02-27",
+      "fight_id": "b680bd99215791b0",
+      "rating": 1517.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-10-09",
+      "fight_id": "fcd50fe6788f2797",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-10-09",
+      "fight_id": "fcd50fe6788f2797",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "fc6bc40b1bc4fd16",
+      "rating": 1497.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "fc6bc40b1bc4fd16",
+      "rating": 1482.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-03-12",
+  "name": "Sabina Mazo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1539.2,
+  "slug": "sabina-mazo",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

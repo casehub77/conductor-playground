@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 844,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Travis Davis",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": -17.0,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "ff23106430d0947f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–26, 30–26)",
+      "opponent": "Johnny Eblen",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Johnny Eblen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "ff23106430d0947f",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "ff23106430d0947f",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-07-16",
+  "name": "Travis Davis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "travis-davis",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

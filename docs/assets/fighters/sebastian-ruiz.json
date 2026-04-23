@@ -1,0 +1,65 @@
+{
+  "current_elo": 1503.6,
+  "divisional_rank": 266,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nick Eldridge",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 20.4,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "790365b352b1231d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Nick Eldridge",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.6,
+      "pre_elo": 1483.2,
+      "red_name": "Sebastian Ruiz",
+      "round": "2",
+      "time": "1:26",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-08-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-13",
+      "fight_id": "b9c9b32608ab8795",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "790365b352b1231d",
+      "rating": 1503.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "790365b352b1231d",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Sebastian Ruiz",
+  "nickname": "",
+  "overall_elo": 1501.3,
+  "peak_elo": 1503.6,
+  "slug": "sebastian-ruiz",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

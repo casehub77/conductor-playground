@@ -1,0 +1,92 @@
+{
+  "current_elo": 1514.4,
+  "divisional_rank": 170,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Randall Wallace",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-11-17",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 301: Amosov vs. Jackson",
+      "fight_id": "115fc5be8419e739",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Randall Wallace",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.5,
+      "pre_elo": 1519.1,
+      "red_name": "Ramazan Kuramagomedov",
+      "round": "2",
+      "time": "3:49",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jaleel Willis",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": 19.1,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "412737e668d4c120",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Jaleel Willis",
+      "opponent_elo": 1494.2,
+      "outcome": "red_win",
+      "post_elo": 1519.1,
+      "pre_elo": 1500.0,
+      "red_name": "Ramazan Kuramagomedov",
+      "round": "1",
+      "time": "1:24",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-06-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-06-16",
+      "fight_id": "412737e668d4c120",
+      "rating": 1519.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "412737e668d4c120",
+      "rating": 1517.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "115fc5be8419e739",
+      "rating": 1537.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "115fc5be8419e739",
+      "rating": 1533.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-17",
+  "name": "Ramazan Kuramagomedov",
+  "nickname": "",
+  "overall_elo": 1510.3,
+  "peak_elo": 1537.5,
+  "slug": "ramazan-kuramagomedov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

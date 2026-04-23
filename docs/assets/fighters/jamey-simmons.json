@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 874,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jamey Simmons",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-08-07",
+      "elo_delta": -19.5,
+      "event_name": "UFC 265: Lewis vs. Gane",
+      "fight_id": "c635c131652cb536",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Johnny Munoz",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1466.2,
+      "pre_elo": 1485.7,
+      "red_name": "Johnny Munoz",
+      "round": "2.0",
+      "time": "2:35",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jamey Simmons",
+      "bout_type": "Featherweight Bout",
+      "date": "2020-11-07",
+      "elo_delta": -15.7,
+      "event_name": "UFC Fight Night: Santos vs. Teixeira",
+      "fight_id": "0d96ba9444f6ddb3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Giga Chikadze",
+      "opponent_elo": 1566.9,
+      "outcome": "red_win",
+      "post_elo": 1484.3,
+      "pre_elo": 1500.0,
+      "red_name": "Giga Chikadze",
+      "round": "1.0",
+      "time": "3:51",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-11-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-11-07",
+      "fight_id": "0d96ba9444f6ddb3",
+      "rating": 1484.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-11-07",
+      "fight_id": "0d96ba9444f6ddb3",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-07",
+      "fight_id": "c635c131652cb536",
+      "rating": 1466.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-08-07",
+      "fight_id": "c635c131652cb536",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-08-07",
+  "name": "Jamey Simmons",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jamey-simmons",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

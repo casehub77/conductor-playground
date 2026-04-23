@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.7,
+  "divisional_rank": 236,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nicolle Caliari",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": -18.3,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "1bb7aa2b18910b07",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Carli Judice",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1462.7,
+      "pre_elo": 1481.0,
+      "red_name": "Carli Judice",
+      "round": "3.0",
+      "time": "1:30",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Nicolle Caliari",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-01-11",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Dern vs. Ribas 2",
+      "fight_id": "eedc02f970a98e68",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Ernesta Kareckaite",
+      "opponent_elo": 1481.0,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ernesta Kareckaite",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-01-11",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-01-11",
+      "fight_id": "eedc02f970a98e68",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "eedc02f970a98e68",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1bb7aa2b18910b07",
+      "rating": 1462.7,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1bb7aa2b18910b07",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-19",
+  "name": "Nicolle Caliari",
+  "nickname": "",
+  "overall_elo": 1466.8,
+  "peak_elo": 1500.0,
+  "slug": "nicolle-caliari",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

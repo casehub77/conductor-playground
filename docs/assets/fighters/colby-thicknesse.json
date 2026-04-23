@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.9,
+  "divisional_rank": 900,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josias Musasa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Ulberg vs. Reyes",
+      "fight_id": "bfa318dd27de6b65",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Josias Musasa",
+      "opponent_elo": 1479.7,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1482.0,
+      "red_name": "Colby Thicknesse",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Aleksandre Topuria",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": -18.0,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "a12abd59ec2a86c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aleksandre Topuria",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Colby Thicknesse",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-02-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-08",
+      "fight_id": "a12abd59ec2a86c4",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "a12abd59ec2a86c4",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "bfa318dd27de6b65",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "bfa318dd27de6b65",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-27",
+  "name": "Colby Thicknesse",
+  "nickname": "",
+  "overall_elo": 1499.9,
+  "peak_elo": 1500.0,
+  "slug": "colby-thicknesse",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

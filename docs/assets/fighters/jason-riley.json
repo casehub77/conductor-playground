@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 487,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jason Riley",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-03-05",
+      "elo_delta": -18.4,
+      "event_name": "Strikeforce: Feijao vs. Henderson",
+      "fight_id": "c2805e8228cb1b0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to strikes)",
+      "opponent": "Jason Freeman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Jason Freeman",
+      "round": "1",
+      "time": "1:52",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jason Riley",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-08-21",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Houston",
+      "fight_id": "2a9fb7fec89f6ce4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to punches)",
+      "opponent": "Daniel Cormier",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Cormier",
+      "round": "1",
+      "time": "1:02",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-08-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-21",
+      "fight_id": "2a9fb7fec89f6ce4",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "2a9fb7fec89f6ce4",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-05",
+      "fight_id": "c2805e8228cb1b0d",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-03-05",
+      "fight_id": "c2805e8228cb1b0d",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-05",
+  "name": "Jason Riley",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jason-riley",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

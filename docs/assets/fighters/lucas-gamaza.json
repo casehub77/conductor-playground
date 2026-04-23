@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 869,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Lucas Gamaza",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-01-29",
+      "elo_delta": -16.5,
+      "event_name": "Strikeforce: Diaz vs. Cyborg",
+      "fight_id": "76740111cb49b440",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "James Terry",
+      "opponent_elo": 1553.5,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "James Terry",
+      "round": "1",
+      "time": "3:26",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2011-01-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-01-29",
+      "fight_id": "76740111cb49b440",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "76740111cb49b440",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-01-29",
+  "name": "Lucas Gamaza",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "lucas-gamaza",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

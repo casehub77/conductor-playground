@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 587,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Oluwale Bamgbose",
+      "bout_type": "Middleweight Bout",
+      "date": "2017-12-16",
+      "elo_delta": -18.7,
+      "event_name": "UFC Fight Night: Lawler vs. Dos Anjos",
+      "fight_id": "3774cd07df14198a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alessio Di Chirico",
+      "opponent_elo": 1481.0,
+      "outcome": "red_win",
+      "post_elo": 1449.0,
+      "pre_elo": 1467.7,
+      "red_name": "Alessio Di Chirico",
+      "round": "2.0",
+      "time": "2:14",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Oluwale Bamgbose",
+      "bout_type": "Middleweight Bout",
+      "date": "2017-06-03",
+      "elo_delta": -17.6,
+      "event_name": "UFC 212: Aldo vs. Holloway",
+      "fight_id": "a3a82af9fdd85544",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Paulo Costa",
+      "opponent_elo": 1517.6,
+      "outcome": "red_win",
+      "post_elo": 1467.7,
+      "pre_elo": 1485.3,
+      "red_name": "Paulo Costa",
+      "round": "2.0",
+      "time": "1:06",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Cezar Ferreira",
+      "bout_type": "Middleweight Bout",
+      "date": "2016-04-16",
+      "elo_delta": -16.6,
+      "event_name": "UFC on FOX: Teixeira vs Evans",
+      "fight_id": "0c48b393cd49a1c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cezar Ferreira",
+      "opponent_elo": 1528.7,
+      "outcome": "blue_win",
+      "post_elo": 1485.3,
+      "pre_elo": 1502.0,
+      "red_name": "Oluwale Bamgbose",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Oluwale Bamgbose",
+      "bout_type": "Middleweight Bout",
+      "date": "2016-02-21",
+      "elo_delta": 20.0,
+      "event_name": "UFC Fight Night: Cowboy vs Cowboy",
+      "fight_id": "7d2bc2629681a8a9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Daniel Sarafian",
+      "opponent_elo": 1492.3,
+      "outcome": "blue_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1481.9,
+      "red_name": "Daniel Sarafian",
+      "round": "1.0",
+      "time": "1:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Oluwale Bamgbose",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-08-08",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Teixeira vs Saint Preux",
+      "fight_id": "d3ac8babb739e717",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Uriah Hall",
+      "opponent_elo": 1524.8,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Uriah Hall",
+      "round": "1.0",
+      "time": "2:32",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2015-08-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-08-08",
+      "fight_id": "d3ac8babb739e717",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-08-08",
+      "fight_id": "d3ac8babb739e717",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-02-21",
+      "fight_id": "7d2bc2629681a8a9",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-02-21",
+      "fight_id": "7d2bc2629681a8a9",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-04-16",
+      "fight_id": "0c48b393cd49a1c6",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-04-16",
+      "fight_id": "0c48b393cd49a1c6",
+      "rating": 1485.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-06-03",
+      "fight_id": "a3a82af9fdd85544",
+      "rating": 1467.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2017-06-03",
+      "fight_id": "a3a82af9fdd85544",
+      "rating": 1469.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-12-16",
+      "fight_id": "3774cd07df14198a",
+      "rating": 1449.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2017-12-16",
+      "fight_id": "3774cd07df14198a",
+      "rating": 1453.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-12-16",
+  "name": "Oluwale Bamgbose",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.0,
+  "slug": "oluwale-bamgbose",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

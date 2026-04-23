@@ -1,0 +1,126 @@
+{
+  "current_elo": 1448.7,
+  "divisional_rank": 1027,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Robin Roos",
+      "bout_type": "Catchweight (194 lb) Bout",
+      "date": "2026-04-11",
+      "elo_delta": -16.2,
+      "event_name": "Oktagon 86: Materla vs. Jungwirth",
+      "fight_id": "295adffd4dd023ff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Mateusz Janur",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1448.7,
+      "pre_elo": 1464.9,
+      "red_name": "Mateusz Janur",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Robin Roos",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": -17.1,
+      "event_name": "LFA 218: Nascimento vs. Makaev",
+      "fight_id": "f7156491791345c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Guilherme Soares",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1482.0,
+      "red_name": "Guilherme Soares",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Robin Roos",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "a6e1efaa4b92fbfb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 49–46, 49–46)",
+      "opponent": "Dario Bellandi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dario Bellandi",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-07-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-25",
+      "fight_id": "a6e1efaa4b92fbfb",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "a6e1efaa4b92fbfb",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "f7156491791345c5",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "f7156491791345c5",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "295adffd4dd023ff",
+      "rating": 1448.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "295adffd4dd023ff",
+      "rating": 1454.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Robin Roos",
+  "nickname": "",
+  "overall_elo": 1454.2,
+  "peak_elo": 1500.0,
+  "slug": "robin-roos",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

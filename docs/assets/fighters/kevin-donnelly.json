@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 610,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Donnelly",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-01",
+      "elo_delta": -19.3,
+      "event_name": "Cage Warriors: 44",
+      "fight_id": "f570f13e301f3fa4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Brad Wheeler",
+      "opponent_elo": 1521.8,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1519.4,
+      "red_name": "Brad Wheeler",
+      "round": "3",
+      "time": "1:51",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kieran Malone",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-05-28",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors: 42",
+      "fight_id": "ef0de7def3f9809b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Kieran Malone",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kevin Donnelly",
+      "round": "2",
+      "time": "1:17",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-05-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-05-28",
+      "fight_id": "ef0de7def3f9809b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-05-28",
+      "fight_id": "ef0de7def3f9809b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "f570f13e301f3fa4",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "f570f13e301f3fa4",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Kevin Donnelly",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "kevin-donnelly",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

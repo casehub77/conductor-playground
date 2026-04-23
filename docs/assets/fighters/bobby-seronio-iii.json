@@ -1,0 +1,160 @@
+{
+  "current_elo": 1541.9,
+  "divisional_rank": 89,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Alberto Garcia",
+      "bout_type": "Catchweight (138 lb) Bout",
+      "date": "2023-10-07",
+      "elo_delta": 15.3,
+      "event_name": "Bellator 300: Nurmagomedov vs. Primus",
+      "fight_id": "4e88840d810b62e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Alberto Garcia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1567.9,
+      "pre_elo": 1552.6,
+      "red_name": "Bobby Seronio III",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Miguel Peimbert",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": 16.1,
+      "event_name": "Bellator 286: Pitbull vs. Borics",
+      "fight_id": "14bac25a07941099",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Miguel Peimbert",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1552.6,
+      "pre_elo": 1536.4,
+      "red_name": "Bobby Seronio III",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Calob Ramirez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "4c779f853bce79b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Calob Ramirez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Bobby Seronio III",
+      "round": "2",
+      "time": "2:14",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Socrates Hernandez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "626893f78a20f9ab",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–26, 29–26)",
+      "opponent": "Socrates Hernandez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Bobby Seronio III",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-18",
+      "fight_id": "626893f78a20f9ab",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "626893f78a20f9ab",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "4c779f853bce79b3",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "4c779f853bce79b3",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "14bac25a07941099",
+      "rating": 1552.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "14bac25a07941099",
+      "rating": 1547.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "4e88840d810b62e7",
+      "rating": 1567.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "4e88840d810b62e7",
+      "rating": 1560.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Bobby Seronio III",
+  "nickname": "",
+  "overall_elo": 1534.9,
+  "peak_elo": 1567.9,
+  "slug": "bobby-seronio-iii",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

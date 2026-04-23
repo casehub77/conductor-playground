@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 588,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Koji Tanaka",
+      "bout_type": "Catchweight 62 kg Bout",
+      "date": "2021-12-31",
+      "elo_delta": -18.1,
+      "event_name": "Rizin 33 - Saitama",
+      "fight_id": "2f9ce2d6ae3ee734",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Ya-Man",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1501.9,
+      "red_name": "Ya-Man",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kazuma Sone",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-11-20",
+      "elo_delta": 15.9,
+      "event_name": "Rizin 32 - Okinawa",
+      "fight_id": "749be0d171fc3d28",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kazuma Sone",
+      "opponent_elo": 1446.7,
+      "outcome": "red_win",
+      "post_elo": 1503.5,
+      "pre_elo": 1487.6,
+      "red_name": "Koji Tanaka",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-12-31",
+      "fight_id": "d012a89d73a15f7f",
+      "rating": 1487.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "749be0d171fc3d28",
+      "rating": 1503.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "749be0d171fc3d28",
+      "rating": 1501.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-31",
+      "fight_id": "2f9ce2d6ae3ee734",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2021-12-31",
+      "fight_id": "2f9ce2d6ae3ee734",
+      "rating": 1485.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-12-31",
+  "name": "Koji Tanaka",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.5,
+  "slug": "koji-tanaka",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

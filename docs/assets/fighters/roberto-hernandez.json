@@ -1,0 +1,92 @@
+{
+  "current_elo": 1476.5,
+  "divisional_rank": 1188,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Roberto Hernandez",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-06-07",
+      "elo_delta": -15.4,
+      "event_name": "Cage Warriors 173: San Diego",
+      "fight_id": "a7886eb5038eefc7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Javier Garcia",
+      "opponent_elo": 1532.5,
+      "outcome": "red_win",
+      "post_elo": 1467.3,
+      "pre_elo": 1482.7,
+      "red_name": "Javier Garcia",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Roberto Hernandez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 168: Manchester",
+      "fight_id": "40803808e3b88d07",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Liam Gittins",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Liam Gittins",
+      "round": "5",
+      "time": "1:48",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-16",
+      "fight_id": "40803808e3b88d07",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "40803808e3b88d07",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-07",
+      "fight_id": "a7886eb5038eefc7",
+      "rating": 1467.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-06-07",
+      "fight_id": "a7886eb5038eefc7",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-06-07",
+  "name": "Roberto Hernandez",
+  "nickname": "",
+  "overall_elo": 1478.1,
+  "peak_elo": 1500.0,
+  "slug": "roberto-hernandez",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

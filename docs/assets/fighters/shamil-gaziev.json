@@ -1,0 +1,194 @@
+{
+  "current_elo": 1529.2,
+  "divisional_rank": 60,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Shamil Gaziev",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": -16.5,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "8d8ff2e31bd7a132",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Waldo Cortes Acosta",
+      "opponent_elo": 1599.4,
+      "outcome": "red_win",
+      "post_elo": 1529.2,
+      "pre_elo": 1545.7,
+      "red_name": "Waldo Cortes Acosta",
+      "round": "1.0",
+      "time": "1:22",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Thomas Petersen",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": 21.6,
+      "event_name": "UFC Fight Night: Adesanya vs. Imavov",
+      "fight_id": "a0bf59fb28dfe112",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Thomas Petersen",
+      "opponent_elo": 1563.6,
+      "outcome": "red_win",
+      "post_elo": 1545.7,
+      "pre_elo": 1524.0,
+      "red_name": "Shamil Gaziev",
+      "round": "1.0",
+      "time": "3:12",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Don'Tale Mayes",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-08-03",
+      "elo_delta": 18.3,
+      "event_name": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "fight_id": "3273bf9a5ae47126",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Don'Tale Mayes",
+      "opponent_elo": 1511.6,
+      "outcome": "red_win",
+      "post_elo": 1524.0,
+      "pre_elo": 1505.7,
+      "red_name": "Shamil Gaziev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Shamil Gaziev",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-03-02",
+      "elo_delta": -17.3,
+      "event_name": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "fight_id": "8cde8e93c5c2268a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jairzinho Rozenstruik",
+      "opponent_elo": 1561.2,
+      "outcome": "red_win",
+      "post_elo": 1505.7,
+      "pre_elo": 1523.0,
+      "red_name": "Jairzinho Rozenstruik",
+      "round": "4.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Shamil Gaziev",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-12-16",
+      "elo_delta": 23.0,
+      "event_name": "UFC 296: Edwards vs. Covington",
+      "fight_id": "e28fe5ad192f4556",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Martin Buday",
+      "opponent_elo": 1565.2,
+      "outcome": "blue_win",
+      "post_elo": 1523.0,
+      "pre_elo": 1500.0,
+      "red_name": "Martin Buday",
+      "round": "2.0",
+      "time": "0:56",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-12-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-16",
+      "fight_id": "e28fe5ad192f4556",
+      "rating": 1523.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-12-16",
+      "fight_id": "e28fe5ad192f4556",
+      "rating": 1520.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-02",
+      "fight_id": "8cde8e93c5c2268a",
+      "rating": 1505.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-03-02",
+      "fight_id": "8cde8e93c5c2268a",
+      "rating": 1504.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-03",
+      "fight_id": "3273bf9a5ae47126",
+      "rating": 1524.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-08-03",
+      "fight_id": "3273bf9a5ae47126",
+      "rating": 1520.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "a0bf59fb28dfe112",
+      "rating": 1545.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "a0bf59fb28dfe112",
+      "rating": 1540.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "8d8ff2e31bd7a132",
+      "rating": 1529.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "8d8ff2e31bd7a132",
+      "rating": 1525.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Shamil Gaziev",
+  "nickname": "",
+  "overall_elo": 1525.1,
+  "peak_elo": 1545.7,
+  "slug": "shamil-gaziev",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

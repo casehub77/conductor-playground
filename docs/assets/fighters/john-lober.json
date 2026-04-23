@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 481,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "John Lober",
+      "bout_type": "UFC Light Heavyweight Title Bout",
+      "date": "1998-10-16",
+      "elo_delta": -17.6,
+      "event_name": "UFC - Ultimate Brazil",
+      "fight_id": "f78fd4309dc210cb",
+      "gender": "men",
+      "is_title": true,
+      "method": "Submission",
+      "opponent": "Frank Shamrock",
+      "opponent_elo": 1562.2,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.0,
+      "red_name": "Frank Shamrock",
+      "round": "1.0",
+      "time": "7:40",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "1998-10-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1998-10-16",
+      "fight_id": "f78fd4309dc210cb",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "1998-10-16",
+      "fight_id": "f78fd4309dc210cb",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1998-10-16",
+  "name": "John Lober",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "john-lober",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 463,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Michele Martignoni",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "fcf838909f47e5d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Alessandro Giordano",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Alessandro Giordano",
+      "round": "3",
+      "time": "4:33",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Raz Bring",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-15",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 167: Unplugged",
+      "fight_id": "50c71a891b4f18e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Raz Bring",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Michele Martignoni",
+      "round": "1",
+      "time": "3:59",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-15",
+      "fight_id": "50c71a891b4f18e4",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-15",
+      "fight_id": "50c71a891b4f18e4",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "fcf838909f47e5d4",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "fcf838909f47e5d4",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-07-20",
+  "name": "Michele Martignoni",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "michele-martignoni",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 450,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alexey Shurkevich",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-04-22",
+      "elo_delta": -20.6,
+      "event_name": "Bellator 295: Stots vs. Mix",
+      "fight_id": "d86c12fe83e328aa",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Masayuki Kikuiri",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1520.4,
+      "red_name": "Masayuki Kikuiri",
+      "round": "2",
+      "time": "4:33",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Grachik Bozinyan",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-10-23",
+      "elo_delta": 20.4,
+      "event_name": "Bellator 269: Fedor vs. Johnson",
+      "fight_id": "e01459c2a880c2d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Grachik Bozinyan",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Alexey Shurkevich",
+      "round": "1",
+      "time": "2:25",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-10-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-23",
+      "fight_id": "e01459c2a880c2d0",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "e01459c2a880c2d0",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "d86c12fe83e328aa",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "d86c12fe83e328aa",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-22",
+  "name": "Alexey Shurkevich",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "slug": "alexey-shurkevich",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

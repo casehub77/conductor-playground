@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 354,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Topnoi Thanongsaklek",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2019-06-02",
+      "elo_delta": -19.4,
+      "event_name": "Rizin 16 - Kobe",
+      "fight_id": "1c40f139ec1b45cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yusaku Nakamura",
+      "opponent_elo": 1477.4,
+      "outcome": "red_win",
+      "post_elo": 1486.0,
+      "pre_elo": 1505.5,
+      "red_name": "Yusaku Nakamura",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Topnoi Thanongsaklek",
+      "bout_type": "Catchweight 59 kg Bout",
+      "date": "2018-09-30",
+      "elo_delta": -17.4,
+      "event_name": "Rizin 13 - Saitama",
+      "fight_id": "381ae1a2297cedb6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kai Asakura",
+      "opponent_elo": 1533.4,
+      "outcome": "red_win",
+      "post_elo": 1503.6,
+      "pre_elo": 1521.0,
+      "red_name": "Kai Asakura",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2018-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-07-29",
+      "fight_id": "86cee7312f106f5a",
+      "rating": 1521.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-09-30",
+      "fight_id": "381ae1a2297cedb6",
+      "rating": 1503.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2018-09-30",
+      "fight_id": "381ae1a2297cedb6",
+      "rating": 1505.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-06-02",
+      "fight_id": "1c40f139ec1b45cc",
+      "rating": 1486.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2019-06-02",
+      "fight_id": "1c40f139ec1b45cc",
+      "rating": 1488.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-06-02",
+  "name": "Topnoi Thanongsaklek",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.0,
+  "slug": "topnoi-thanongsaklek",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1521.7,
+  "divisional_rank": 160,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Chris Hayes",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-04-19",
+      "elo_delta": 19.3,
+      "event_name": "Cage Warriors 187: Glasgow",
+      "fight_id": "8a787168c018013a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Chris Hayes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1521.7,
+      "pre_elo": 1502.4,
+      "red_name": "Jordan Stronge",
+      "round": "1",
+      "time": "4:57",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Wesley Machado",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": 20.4,
+      "event_name": "Cage Warriors 176: Glasgow",
+      "fight_id": "2daf7aeb1255f5c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Wesley Machado",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Jordan Stronge",
+      "round": "1",
+      "time": "1:12",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jordan Stronge",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 171: Glasgow",
+      "fight_id": "e31cf3369bb1e9c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Jordan Little",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jordan Little",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "e31cf3369bb1e9c5",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "e31cf3369bb1e9c5",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "2daf7aeb1255f5c4",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "2daf7aeb1255f5c4",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "8a787168c018013a",
+      "rating": 1521.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "8a787168c018013a",
+      "rating": 1519.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-19",
+  "name": "Jordan Stronge",
+  "nickname": "",
+  "overall_elo": 1519.3,
+  "peak_elo": 1521.7,
+  "slug": "jordan-stronge",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

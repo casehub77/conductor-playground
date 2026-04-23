@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 961,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dean Trueman",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": 20.6,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "19f1cd148ae34f56",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Dean Trueman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.2,
+      "pre_elo": 1478.5,
+      "red_name": "Gavin Hughes",
+      "round": "2",
+      "time": "0:48",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Gavin Hughes",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": -21.5,
+      "event_name": "Bellator 280: Bader vs. Kongo 2",
+      "fight_id": "d1ef0fa62440855f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees and body kick)",
+      "opponent": "Yves Landu",
+      "opponent_elo": 1463.6,
+      "outcome": "red_win",
+      "post_elo": 1478.5,
+      "pre_elo": 1500.0,
+      "red_name": "Yves Landu",
+      "round": "1",
+      "time": "3:01",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-06",
+      "fight_id": "d1ef0fa62440855f",
+      "rating": 1478.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "d1ef0fa62440855f",
+      "rating": 1481.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "19f1cd148ae34f56",
+      "rating": 1499.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "19f1cd148ae34f56",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-21",
+  "name": "Gavin Hughes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "gavin-hughes",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

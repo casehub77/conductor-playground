@@ -1,0 +1,92 @@
+{
+  "current_elo": 1542.8,
+  "divisional_rank": 59,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yousri Belgaroui",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-03-28",
+      "elo_delta": 21.1,
+      "event_name": "UFC Fight Night: Adesanya vs. Pyfer",
+      "fight_id": "489cd533e68841e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mansur Abdul-Malik",
+      "opponent_elo": 1552.2,
+      "outcome": "blue_win",
+      "post_elo": 1542.8,
+      "pre_elo": 1521.7,
+      "red_name": "Mansur Abdul-Malik",
+      "round": "3.0",
+      "time": "3:39",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Yousri Belgaroui",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": 21.7,
+      "event_name": "UFC Fight Night: De Ridder vs. Allen",
+      "fight_id": "ae3b7e1f642170a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Azamat Bekoev",
+      "opponent_elo": 1539.9,
+      "outcome": "blue_win",
+      "post_elo": 1521.7,
+      "pre_elo": 1500.0,
+      "red_name": "Azamat Bekoev",
+      "round": "3.0",
+      "time": "0:55",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-10-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-18",
+      "fight_id": "ae3b7e1f642170a5",
+      "rating": 1521.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "ae3b7e1f642170a5",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-28",
+      "fight_id": "489cd533e68841e6",
+      "rating": 1542.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-03-28",
+      "fight_id": "489cd533e68841e6",
+      "rating": 1537.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-28",
+  "name": "Yousri Belgaroui",
+  "nickname": "",
+  "overall_elo": 1537.7,
+  "peak_elo": 1542.8,
+  "slug": "yousri-belgaroui",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

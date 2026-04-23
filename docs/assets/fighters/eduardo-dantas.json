@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 319,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Alexis Vila",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-11-26",
+      "elo_delta": 17.7,
+      "event_name": "Bellator 59",
+      "fight_id": "5b4e6a1c20d69dd4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29-28, 29-28, 29-28)",
+      "opponent": "Alexis Vila",
+      "opponent_elo": 1541.6,
+      "outcome": "red_win",
+      "post_elo": 1565.3,
+      "pre_elo": 1547.6,
+      "red_name": "Eduardo Dantas",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ed West",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-10-22",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 55",
+      "fight_id": "83a95c1f080bdbb3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (29-28, 28-29, 30-27)",
+      "opponent": "Ed West",
+      "opponent_elo": 1538.2,
+      "outcome": "red_win",
+      "post_elo": 1547.6,
+      "pre_elo": 1529.1,
+      "red_name": "Eduardo Dantas",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Wilson Reis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": 20.7,
+      "event_name": "Bellator 51",
+      "fight_id": "c4754a74dc3ae075",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee and punches)",
+      "opponent": "Wilson Reis",
+      "opponent_elo": 1530.9,
+      "outcome": "red_win",
+      "post_elo": 1529.1,
+      "pre_elo": 1508.4,
+      "red_name": "Eduardo Dantas",
+      "round": "2",
+      "time": "1:02",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Hiromasa Ougikubo",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-05-30",
+      "elo_delta": 22.6,
+      "event_name": "Shooto: The Way of Shooto 3: Like a Tiger, Like a Dragon",
+      "fight_id": "7a6385daa905e2f9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Hiromasa Ougikubo",
+      "opponent_elo": 1579.0,
+      "outcome": "red_win",
+      "post_elo": 1545.3,
+      "pre_elo": 1522.7,
+      "red_name": "Eduardo Dantas",
+      "round": "3",
+      "time": "1:21",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Eduardo Dantas",
+      "bout_type": "Bantamweight Bout",
+      "date": "2009-07-19",
+      "elo_delta": -12.3,
+      "event_name": "Shooto: Revolutionary Exchanges 1: Undefeated",
+      "fight_id": "07f0fcdfb4b99aef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Masakatsu Ueda",
+      "opponent_elo": 1634.0,
+      "outcome": "red_win",
+      "post_elo": 1508.4,
+      "pre_elo": 1520.7,
+      "red_name": "Masakatsu Ueda",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Shinichi Kojima",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-11-08",
+      "elo_delta": 22.7,
+      "event_name": "Shooto: Back To Our Roots 6",
+      "fight_id": "c2d06943364f34e9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Shinichi Kojima",
+      "opponent_elo": 1593.2,
+      "outcome": "red_win",
+      "post_elo": 1522.7,
+      "pre_elo": 1500.0,
+      "red_name": "Eduardo Dantas",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2007-11-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-11-08",
+      "fight_id": "c2d06943364f34e9",
+      "rating": 1522.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-11-08",
+      "fight_id": "c2d06943364f34e9",
+      "rating": 1520.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-07-19",
+      "fight_id": "07f0fcdfb4b99aef",
+      "rating": 1508.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2009-07-19",
+      "fight_id": "07f0fcdfb4b99aef",
+      "rating": 1509.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-30",
+      "fight_id": "7a6385daa905e2f9",
+      "rating": 1545.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-05-30",
+      "fight_id": "7a6385daa905e2f9",
+      "rating": 1529.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "c4754a74dc3ae075",
+      "rating": 1529.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "c4754a74dc3ae075",
+      "rating": 1547.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "83a95c1f080bdbb3",
+      "rating": 1547.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "83a95c1f080bdbb3",
+      "rating": 1562.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-26",
+      "fight_id": "5b4e6a1c20d69dd4",
+      "rating": 1565.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-11-26",
+      "fight_id": "5b4e6a1c20d69dd4",
+      "rating": 1577.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-26",
+  "name": "Eduardo Dantas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1577.5,
+  "slug": "eduardo-dantas",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

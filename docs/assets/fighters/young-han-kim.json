@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 509,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Young Han Kim",
+      "bout_type": "Flyweight 57kg Bout",
+      "date": "2021-09-04",
+      "elo_delta": -16.7,
+      "event_name": "ROAD FC 59",
+      "fight_id": "114a5a9687ec9997",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Jung Hyun Lee",
+      "opponent_elo": 1532.5,
+      "outcome": "red_win",
+      "post_elo": 1467.3,
+      "pre_elo": 1484.0,
+      "red_name": "Jung Hyun Lee",
+      "round": "1",
+      "time": "2:53",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-07-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-03",
+      "fight_id": "01406a1b0cd4c183",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "114a5a9687ec9997",
+      "rating": 1467.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "114a5a9687ec9997",
+      "rating": 1469.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-04",
+  "name": "Young Han Kim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "young-han-kim",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

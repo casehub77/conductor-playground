@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.2,
+  "divisional_rank": 1015,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "John Moore",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-04-03",
+      "elo_delta": -17.4,
+      "event_name": "LFA 230: Bartling vs. Cleveland",
+      "fight_id": "490ee695da339ab6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "David Wright",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1463.2,
+      "pre_elo": 1480.6,
+      "red_name": "David Wright",
+      "round": "1",
+      "time": "4:43",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "John Moore",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-08-15",
+      "elo_delta": -19.4,
+      "event_name": "LFA 214: Fernando vs. Latu",
+      "fight_id": "d8243a238f54220f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "David Allakhverdiev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "David Allakhverdiev",
+      "round": "1",
+      "time": "1:03",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-08-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-15",
+      "fight_id": "d8243a238f54220f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "d8243a238f54220f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "490ee695da339ab6",
+      "rating": 1463.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "490ee695da339ab6",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-03",
+  "name": "John Moore",
+  "nickname": "",
+  "overall_elo": 1467.2,
+  "peak_elo": 1500.0,
+  "slug": "john-moore",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

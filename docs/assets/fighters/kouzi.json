@@ -1,0 +1,194 @@
+{
+  "current_elo": 1506.9,
+  "divisional_rank": 253,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Sina Karimian",
+      "bout_type": "Catchweight 98 kg Bout",
+      "date": "2025-05-04",
+      "elo_delta": -0.5,
+      "event_name": "Rizin: Otoko Matsuri",
+      "fight_id": "d493da272d046499",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (time limit)",
+      "opponent": "Sina Karimian",
+      "opponent_elo": 1497.6,
+      "outcome": "draw",
+      "post_elo": 1506.9,
+      "pre_elo": 1507.4,
+      "red_name": "Kouzi",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kouzi",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2024-07-28",
+      "elo_delta": -20.2,
+      "event_name": "Super Rizin 3",
+      "fight_id": "9ca1d30b4263505c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ryusei Ashizawa",
+      "opponent_elo": 1484.6,
+      "outcome": "red_win",
+      "post_elo": 1507.4,
+      "pre_elo": 1527.6,
+      "red_name": "Ryusei Ashizawa",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kota Miura",
+      "bout_type": "Catchweight 65 kg Bout",
+      "date": "2023-12-31",
+      "elo_delta": 29.4,
+      "event_name": "Rizin 45",
+      "fight_id": "19144360a2b0bf66",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and soccer kicks)",
+      "opponent": "Kota Miura",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1527.6,
+      "pre_elo": 1498.2,
+      "red_name": "Kouzi",
+      "round": "2",
+      "time": "0:59",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kouzi",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2023-04-01",
+      "elo_delta": -19.8,
+      "event_name": "Rizin 41 – Osaka",
+      "fight_id": "e7647ad1fafa0e88",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Ryusei Ashizawa",
+      "opponent_elo": 1483.5,
+      "outcome": "red_win",
+      "post_elo": 1498.2,
+      "pre_elo": 1518.0,
+      "red_name": "Ryusei Ashizawa",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Genji Umeno",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-03-20",
+      "elo_delta": 18.0,
+      "event_name": "Rizin 34 – Osaka",
+      "fight_id": "7b84975307320dd9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Genji Umeno",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kouzi",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-03-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-20",
+      "fight_id": "7b84975307320dd9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-03-20",
+      "fight_id": "7b84975307320dd9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-01",
+      "fight_id": "e7647ad1fafa0e88",
+      "rating": 1498.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-04-01",
+      "fight_id": "e7647ad1fafa0e88",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-31",
+      "fight_id": "19144360a2b0bf66",
+      "rating": 1527.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-12-31",
+      "fight_id": "19144360a2b0bf66",
+      "rating": 1524.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-28",
+      "fight_id": "9ca1d30b4263505c",
+      "rating": 1507.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-28",
+      "fight_id": "9ca1d30b4263505c",
+      "rating": 1506.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-04",
+      "fight_id": "d493da272d046499",
+      "rating": 1506.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-05-04",
+      "fight_id": "d493da272d046499",
+      "rating": 1506.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-04",
+  "name": "Kouzi",
+  "nickname": "",
+  "overall_elo": 1506.5,
+  "peak_elo": 1527.6,
+  "slug": "kouzi",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

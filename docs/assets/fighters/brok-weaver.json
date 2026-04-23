@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 669,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jalin Turner",
+      "bout_type": "Catch Weight Bout",
+      "date": "2020-09-12",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Waterson vs. Hill",
+      "fight_id": "110f24d936f34dbc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jalin Turner",
+      "opponent_elo": 1507.3,
+      "outcome": "blue_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1499.9,
+      "red_name": "Brok Weaver",
+      "round": "2.0",
+      "time": "4:20",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Brok Weaver",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-05-30",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Woodley vs. Burns",
+      "fight_id": "79761eee8556f592",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Roosevelt Roberts",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1518.4,
+      "red_name": "Roosevelt Roberts",
+      "round": "2.0",
+      "time": "3:26",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kazula Vargas",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-02-15",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Anderson vs. Blachowicz",
+      "fight_id": "89efdf52cd4f50c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ",
+      "opponent": "Kazula Vargas",
+      "opponent_elo": 1481.0,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Brok Weaver",
+      "round": "1.0",
+      "time": "4:02",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2020-02-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-02-15",
+      "fight_id": "89efdf52cd4f50c5",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-02-15",
+      "fight_id": "89efdf52cd4f50c5",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-05-30",
+      "fight_id": "79761eee8556f592",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-05-30",
+      "fight_id": "79761eee8556f592",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "110f24d936f34dbc",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "110f24d936f34dbc",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-09-12",
+  "name": "Brok Weaver",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.4,
+  "slug": "brok-weaver",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1518.0,
+  "divisional_rank": 201,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Abdul-Kareem Al-Selwady",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "55087664a10c17c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Shem Rock",
+      "opponent_elo": 1520.9,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1498.8,
+      "red_name": "Shem Rock",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Loik Radzhabov",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-03-02",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "fight_id": "3502ea1997a0def1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Loik Radzhabov",
+      "opponent_elo": 1498.6,
+      "outcome": "blue_win",
+      "post_elo": 1498.8,
+      "pre_elo": 1519.4,
+      "red_name": "Abdul-Kareem Al-Selwady",
+      "round": "3.0",
+      "time": "0:49",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jake Sebastian",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-03-26",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 103: Carlyle vs. Dagvadorj",
+      "fight_id": "53da87d27a5a6ade",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jake Sebastian",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Abdul-Kareem Al-Selwady",
+      "round": "1",
+      "time": "4:12",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-03-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-26",
+      "fight_id": "53da87d27a5a6ade",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-03-26",
+      "fight_id": "53da87d27a5a6ade",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-02",
+      "fight_id": "3502ea1997a0def1",
+      "rating": 1498.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-03-02",
+      "fight_id": "3502ea1997a0def1",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "55087664a10c17c9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "55087664a10c17c9",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Abdul-Kareem Al-Selwady",
+  "nickname": "",
+  "overall_elo": 1516.7,
+  "peak_elo": 1519.4,
+  "slug": "abdul-kareem-al-selwady",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

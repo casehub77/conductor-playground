@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 872,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Anderson Dos Santos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-08-07",
+      "elo_delta": -17.7,
+      "event_name": "UFC 265: Lewis vs. Gane",
+      "fight_id": "d136df6797cfd6df",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Miles Johns",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1469.1,
+      "pre_elo": 1486.8,
+      "red_name": "Miles Johns",
+      "round": "3.0",
+      "time": "1:16",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Anderson Dos Santos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-11-28",
+      "elo_delta": 19.2,
+      "event_name": "UFC Fight Night: Smith vs. Clark",
+      "fight_id": "417632b33e92318e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Martin Day",
+      "opponent_elo": 1463.4,
+      "outcome": "blue_win",
+      "post_elo": 1486.8,
+      "pre_elo": 1467.6,
+      "red_name": "Martin Day",
+      "round": "1.0",
+      "time": "4:35",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Anderson Dos Santos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-06-22",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Moicano vs. The Korean Zombie",
+      "fight_id": "8ae36c0b39c7760d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Andre Ewell",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1467.6,
+      "pre_elo": 1484.7,
+      "red_name": "Andre Ewell",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Anderson Dos Santos",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-11-17",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Magny vs. Ponzinibbio",
+      "fight_id": "ed825421f33d5337",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nad Narimani",
+      "opponent_elo": 1517.8,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Nad Narimani",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2018-11-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-11-17",
+      "fight_id": "ed825421f33d5337",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-11-17",
+      "fight_id": "ed825421f33d5337",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-06-22",
+      "fight_id": "8ae36c0b39c7760d",
+      "rating": 1467.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-06-22",
+      "fight_id": "8ae36c0b39c7760d",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-11-28",
+      "fight_id": "417632b33e92318e",
+      "rating": 1486.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-11-28",
+      "fight_id": "417632b33e92318e",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-07",
+      "fight_id": "d136df6797cfd6df",
+      "rating": 1469.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-08-07",
+      "fight_id": "d136df6797cfd6df",
+      "rating": 1470.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-08-07",
+  "name": "Anderson Dos Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "anderson-dos-santos",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

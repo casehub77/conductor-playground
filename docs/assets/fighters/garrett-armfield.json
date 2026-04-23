@@ -1,0 +1,194 @@
+{
+  "current_elo": 1482.1,
+  "divisional_rank": 1008,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Garrett Armfield",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Moreno vs. Albazi",
+      "fight_id": "596b18f7e814d297",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Serhiy Sidey",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1482.1,
+      "pre_elo": 1501.1,
+      "red_name": "Serhiy Sidey",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Garrett Armfield",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-06-15",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Perez vs. Taira",
+      "fight_id": "3331780f21609dab",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brady Hiestand",
+      "opponent_elo": 1520.3,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1520.6,
+      "red_name": "Brady Hiestand",
+      "round": "3.0",
+      "time": "1:52",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Garrett Armfield",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-01-20",
+      "elo_delta": 18.4,
+      "event_name": "UFC 297: Strickland vs. Du Plessis",
+      "fight_id": "e43a44f67c3bae8e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Brad Katona",
+      "opponent_elo": 1510.2,
+      "outcome": "blue_win",
+      "post_elo": 1520.6,
+      "pre_elo": 1502.1,
+      "red_name": "Brad Katona",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Garrett Armfield",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-08-26",
+      "elo_delta": 19.3,
+      "event_name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+      "fight_id": "b0785af86bdf073c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Toshiomi Kazama",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1482.8,
+      "red_name": "Toshiomi Kazama",
+      "round": "1.0",
+      "time": "4:16",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Garrett Armfield",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-07-09",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "fight_id": "90136533b8ccb25c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "David Onama",
+      "opponent_elo": 1504.4,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1500.0,
+      "red_name": "David Onama",
+      "round": "2.0",
+      "time": "3:13",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-07-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-09",
+      "fight_id": "90136533b8ccb25c",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-07-09",
+      "fight_id": "90136533b8ccb25c",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "b0785af86bdf073c",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "b0785af86bdf073c",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-20",
+      "fight_id": "e43a44f67c3bae8e",
+      "rating": 1520.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-20",
+      "fight_id": "e43a44f67c3bae8e",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "3331780f21609dab",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "3331780f21609dab",
+      "rating": 1499.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "596b18f7e814d297",
+      "rating": 1482.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "596b18f7e814d297",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-02",
+  "name": "Garrett Armfield",
+  "nickname": "",
+  "overall_elo": 1482.7,
+  "peak_elo": 1520.6,
+  "slug": "garrett-armfield",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

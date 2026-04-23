@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1084,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mark Holst",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-10-16",
+      "elo_delta": -18.4,
+      "event_name": "UFC 120: Bisping vs Akiyama",
+      "fight_id": "01bf31f46ef29357",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Paul Sass",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.6,
+      "pre_elo": 1481.0,
+      "red_name": "Paul Sass",
+      "round": "1.0",
+      "time": "4:45",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Mark Holst",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-06-19",
+      "elo_delta": -19.0,
+      "event_name": "The Ultimate Fighter: Team Liddell vs Team Ortiz Finale",
+      "fight_id": "3ff04a6ec45d9308",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "John Gunderson",
+      "opponent_elo": 1481.1,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "John Gunderson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-06-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-19",
+      "fight_id": "3ff04a6ec45d9308",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-06-19",
+      "fight_id": "3ff04a6ec45d9308",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "01bf31f46ef29357",
+      "rating": 1462.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "01bf31f46ef29357",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-10-16",
+  "name": "Mark Holst",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "mark-holst",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

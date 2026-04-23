@@ -1,0 +1,92 @@
+{
+  "current_elo": 1468.4,
+  "divisional_rank": 1004,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yasubey Enomoto",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -15.6,
+      "event_name": "Oktagon 68: Todev vs. Fleury",
+      "fight_id": "9256443e192c1609",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Makhmud Muradov",
+      "opponent_elo": 1553.6,
+      "outcome": "red_win",
+      "post_elo": 1468.4,
+      "pre_elo": 1484.0,
+      "red_name": "Makhmud Muradov",
+      "round": "2",
+      "time": "0:40",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Yasubey Enomoto",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2016-03-05",
+      "elo_delta": -18.0,
+      "event_name": "KSW 34: New Order",
+      "fight_id": "46a3a227c7dd249a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Asłambek Saidow",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Asłambek Saidow",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2016-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-03-05",
+      "fight_id": "46a3a227c7dd249a",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-03-05",
+      "fight_id": "46a3a227c7dd249a",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "9256443e192c1609",
+      "rating": 1468.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "9256443e192c1609",
+      "rating": 1469.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-08",
+  "name": "Yasubey Enomoto",
+  "nickname": "",
+  "overall_elo": 1469.9,
+  "peak_elo": 1500.0,
+  "slug": "yasubey-enomoto",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 244,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Juan Puerta",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-10-14",
+      "elo_delta": 18.2,
+      "event_name": "Legacy Fighting Alliance 144: Gafurov vs. Silva",
+      "fight_id": "e7acd78fdf2c6e7e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Juan Puerta",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1540.8,
+      "pre_elo": 1522.7,
+      "red_name": "Yuma Horiuchi",
+      "round": "3",
+      "time": "1:23",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mark Climaco",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-11-05",
+      "elo_delta": 21.2,
+      "event_name": "Legacy Fighting Alliance 117: Dias vs. Tanak",
+      "fight_id": "ef2a8074a3fb99ef",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Mark Climaco",
+      "opponent_elo": 1533.2,
+      "outcome": "red_win",
+      "post_elo": 1522.7,
+      "pre_elo": 1501.4,
+      "red_name": "Yuma Horiuchi",
+      "round": "1",
+      "time": "1:52",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Yuma Horiuchi",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-07-02",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 110: Johnson vs. Horiuchi",
+      "fight_id": "0bfaa9fc281c2d99",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Charles Johnson",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Charles Johnson",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Donavon Frelow",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-04-16",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 104: McKenzie vs. Phillips",
+      "fight_id": "9cc24a6afefc2cce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Donavon Frelow",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yuma Horiuchi",
+      "round": "2",
+      "time": "1:31",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-16",
+      "fight_id": "9cc24a6afefc2cce",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-04-16",
+      "fight_id": "9cc24a6afefc2cce",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-07-02",
+      "fight_id": "0bfaa9fc281c2d99",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-07-02",
+      "fight_id": "0bfaa9fc281c2d99",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "ef2a8074a3fb99ef",
+      "rating": 1522.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "ef2a8074a3fb99ef",
+      "rating": 1520.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "e7acd78fdf2c6e7e",
+      "rating": 1540.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "e7acd78fdf2c6e7e",
+      "rating": 1536.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-14",
+  "name": "Yuma Horiuchi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1540.8,
+  "slug": "yuma-horiuchi",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

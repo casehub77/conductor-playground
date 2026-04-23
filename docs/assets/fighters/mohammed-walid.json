@@ -1,0 +1,126 @@
+{
+  "current_elo": 1477.8,
+  "divisional_rank": 652,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mohammed Walid",
+      "bout_type": "Catchweight (130 lb) Bout",
+      "date": "2026-03-07",
+      "elo_delta": -17.8,
+      "event_name": "Oktagon 85: Severino vs. Kakhorov",
+      "fight_id": "c80be27c271dd4d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Abdullah Sultani",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1477.8,
+      "pre_elo": 1495.5,
+      "red_name": "Abdullah Sultani",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Mohammed Walid",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": -20.3,
+      "event_name": "Oktagon 75: Palokaj vs. Batfalský",
+      "fight_id": "48e172bc50726be1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "David Dvořák",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1495.5,
+      "pre_elo": 1515.9,
+      "red_name": "David Dvořák",
+      "round": "1",
+      "time": "3:56",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Aaron Aby",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": 15.9,
+      "event_name": "Oktagon 69: Holzer vs. Ilbay",
+      "fight_id": "22325ffdc2482725",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Aaron Aby",
+      "opponent_elo": 1458.8,
+      "outcome": "red_win",
+      "post_elo": 1515.9,
+      "pre_elo": 1500.0,
+      "red_name": "Mohammed Walid",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-04-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-05",
+      "fight_id": "22325ffdc2482725",
+      "rating": 1515.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "22325ffdc2482725",
+      "rating": 1514.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "48e172bc50726be1",
+      "rating": 1495.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "48e172bc50726be1",
+      "rating": 1496.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "c80be27c271dd4d6",
+      "rating": 1477.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "c80be27c271dd4d6",
+      "rating": 1480.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Mohammed Walid",
+  "nickname": "",
+  "overall_elo": 1480.5,
+  "peak_elo": 1515.9,
+  "slug": "mohammed-walid",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

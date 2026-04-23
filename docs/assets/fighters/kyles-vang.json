@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 743,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kyles Vang",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": -18.1,
+      "event_name": "Legacy Fighting Alliance 129: Petersen vs. Cortes-Acosta",
+      "fight_id": "821d328a638e730a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Reshal Malik",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1463.9,
+      "pre_elo": 1482.0,
+      "red_name": "Reshal Malik",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kyles Vang",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-09-24",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 115: Silveira vs. Cummins",
+      "fight_id": "45fe674632e43760",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Quang Le",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Quang Le",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-24",
+      "fight_id": "45fe674632e43760",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "45fe674632e43760",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "821d328a638e730a",
+      "rating": 1463.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "821d328a638e730a",
+      "rating": 1467.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-15",
+  "name": "Kyles Vang",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kyles-vang",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

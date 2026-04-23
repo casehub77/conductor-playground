@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 75,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ilara Joanne",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2023-04-22",
+      "elo_delta": 17.9,
+      "event_name": "Bellator 295: Stots vs. Mix",
+      "fight_id": "d83c901682e22704",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Ilara Joanne",
+      "opponent_elo": 1515.4,
+      "outcome": "red_win",
+      "post_elo": 1535.0,
+      "pre_elo": 1517.1,
+      "red_name": "Bruna Ellen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Bruna Ellen",
+      "bout_type": "Catchweight (129 lbs) Bout",
+      "date": "2022-08-12",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 284: Gracie vs. Yamauchi",
+      "fight_id": "03f4901e8e35ddff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Ilima-Lei Macfarlane",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ilima-Lei Macfarlane",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Desiree Yanez",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-11-12",
+      "elo_delta": 17.1,
+      "event_name": "Bellator 271: Cyborg vs. Kavanagh",
+      "fight_id": "e7e58d6bd8e2a0e9",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Desiree Yanez",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Bruna Ellen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-11-12",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-11-12",
+      "fight_id": "e7e58d6bd8e2a0e9",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "e7e58d6bd8e2a0e9",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "03f4901e8e35ddff",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "03f4901e8e35ddff",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "d83c901682e22704",
+      "rating": 1535.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "d83c901682e22704",
+      "rating": 1531.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-22",
+  "name": "Bruna Ellen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.0,
+  "slug": "bruna-ellen",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

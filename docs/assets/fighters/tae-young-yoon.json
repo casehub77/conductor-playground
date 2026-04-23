@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 374,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Seung Ho Jung",
+      "bout_type": "Catchweight 86kg Bout",
+      "date": "2021-10-30",
+      "elo_delta": 17.0,
+      "event_name": "ARC 6",
+      "fight_id": "c14b4d844654d9d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Seung Ho Jung",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Tae Young Yoon",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sang Kwon Han",
+      "bout_type": "Welterweight 77kg Bout",
+      "date": "2021-06-12",
+      "elo_delta": 19.4,
+      "event_name": "ARC 5",
+      "fight_id": "1cf4733216f7f608",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine choke)",
+      "opponent": "Sang Kwon Han",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tae Young Yoon",
+      "round": "1",
+      "time": "0:45",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-06-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-12",
+      "fight_id": "1cf4733216f7f608",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "1cf4733216f7f608",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "c14b4d844654d9d7",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "c14b4d844654d9d7",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-30",
+  "name": "Tae Young Yoon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "tae-young-yoon",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

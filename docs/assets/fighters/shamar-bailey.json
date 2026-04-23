@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 503,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Shamar Bailey",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-11-19",
+      "elo_delta": -18.2,
+      "event_name": "UFC 139: Shogun vs Henderson",
+      "fight_id": "4fbd3183c1ef66db",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Danny Castillo",
+      "opponent_elo": 1535.3,
+      "outcome": "red_win",
+      "post_elo": 1494.8,
+      "pre_elo": 1513.0,
+      "red_name": "Danny Castillo",
+      "round": "1.0",
+      "time": "4:52",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Shamar Bailey",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-09-17",
+      "elo_delta": -17.5,
+      "event_name": "UFC Fight Night: Shields vs Ellenberger",
+      "fight_id": "a6637780479b4a38",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Evan Dunham",
+      "opponent_elo": 1539.2,
+      "outcome": "red_win",
+      "post_elo": 1513.0,
+      "pre_elo": 1530.5,
+      "red_name": "Evan Dunham",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Shamar Bailey",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-06-04",
+      "elo_delta": 17.2,
+      "event_name": "The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale",
+      "fight_id": "0cc3f93554c5513d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ryan Mcgillivray",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1532.4,
+      "pre_elo": 1515.2,
+      "red_name": "Ryan Mcgillivray",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "John Kolosci",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-11-07",
+      "elo_delta": 17.1,
+      "event_name": "Strikeforce: Fedor vs. Rogers",
+      "fight_id": "afb0aa6cb28a54cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–27, 29–27)",
+      "opponent": "John Kolosci",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Shamar Bailey",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-11-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-11-07",
+      "fight_id": "afb0aa6cb28a54cb",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-11-07",
+      "fight_id": "afb0aa6cb28a54cb",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-04",
+      "fight_id": "0cc3f93554c5513d",
+      "rating": 1532.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-06-04",
+      "fight_id": "0cc3f93554c5513d",
+      "rating": 1530.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "a6637780479b4a38",
+      "rating": 1513.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "a6637780479b4a38",
+      "rating": 1514.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "4fbd3183c1ef66db",
+      "rating": 1494.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "4fbd3183c1ef66db",
+      "rating": 1498.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-19",
+  "name": "Shamar Bailey",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1532.4,
+  "slug": "shamar-bailey",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1465.9,
+  "divisional_rank": 1213,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Shuya Kimura",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2026-03-07",
+      "elo_delta": -17.3,
+      "event_name": "Rizin 52",
+      "fight_id": "6dd50610e608f3a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Ryo Takagi",
+      "opponent_elo": 1521.8,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1483.2,
+      "red_name": "Ryo Takagi",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Shuya Kimura",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2025-11-03",
+      "elo_delta": -21.0,
+      "event_name": "Rizin Landmark 12",
+      "fight_id": "4587feba41febb94",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Kazumasa Majima",
+      "opponent_elo": 1476.9,
+      "outcome": "red_win",
+      "post_elo": 1483.2,
+      "pre_elo": 1504.1,
+      "red_name": "Kazumasa Majima",
+      "round": "2",
+      "time": "2:54",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Shuya Kimura",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": -15.2,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "b20853fe37198504",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Vugar Karamov",
+      "opponent_elo": 1573.9,
+      "outcome": "red_win",
+      "post_elo": 1504.1,
+      "pre_elo": 1519.3,
+      "red_name": "Vugar Karamov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Takeji Yokoyama",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": 19.3,
+      "event_name": "Rizin 50",
+      "fight_id": "823374440a8c157a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Takeji Yokoyama",
+      "opponent_elo": 1498.0,
+      "outcome": "red_win",
+      "post_elo": 1519.3,
+      "pre_elo": 1500.0,
+      "red_name": "Shuya Kimura",
+      "round": "1",
+      "time": "0:54",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-30",
+      "fight_id": "823374440a8c157a",
+      "rating": 1519.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "823374440a8c157a",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "b20853fe37198504",
+      "rating": 1504.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "b20853fe37198504",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-03",
+      "fight_id": "4587feba41febb94",
+      "rating": 1483.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-03",
+      "fight_id": "4587feba41febb94",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "6dd50610e608f3a2",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "6dd50610e608f3a2",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Shuya Kimura",
+  "nickname": "",
+  "overall_elo": 1468.7,
+  "peak_elo": 1519.3,
+  "slug": "shuya-kimura",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

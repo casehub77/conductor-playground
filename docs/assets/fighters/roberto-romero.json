@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.2,
+  "divisional_rank": 1219,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Roberto Romero",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": -20.5,
+      "event_name": "UFC Fight Night: Machado Garry vs. Prates",
+      "fight_id": "b26a187c8e1f4666",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Timmy Cuamba",
+      "opponent_elo": 1466.0,
+      "outcome": "red_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1485.7,
+      "red_name": "Timmy Cuamba",
+      "round": "2.0",
+      "time": "3:55",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Roberto Romero",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-11-16",
+      "elo_delta": -19.0,
+      "event_name": "UFC 309: Jones vs. Miocic",
+      "fight_id": "321b9fe93bb899d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "David Onama",
+      "opponent_elo": 1481.1,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "David Onama",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-11-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-16",
+      "fight_id": "321b9fe93bb899d0",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-11-16",
+      "fight_id": "321b9fe93bb899d0",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "b26a187c8e1f4666",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "b26a187c8e1f4666",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-26",
+  "name": "Roberto Romero",
+  "nickname": "",
+  "overall_elo": 1467.6,
+  "peak_elo": 1500.0,
+  "slug": "roberto-romero",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

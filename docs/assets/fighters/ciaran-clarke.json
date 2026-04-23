@@ -1,0 +1,65 @@
+{
+  "current_elo": 1507.6,
+  "divisional_rank": 83,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Przemysław Górny",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2023-09-23",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 299: Eblen vs. Edwards",
+      "fight_id": "8b94f4a352737607",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Przemysław Górny",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Ciarán Clarke",
+      "round": "2",
+      "time": "2:52",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-25",
+      "fight_id": "739179415dfcb783",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "8b94f4a352737607",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "8b94f4a352737607",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-23",
+  "name": "Ciarán Clarke",
+  "nickname": "",
+  "overall_elo": 1505.6,
+  "peak_elo": 1534.5,
+  "slug": "ciaran-clarke",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

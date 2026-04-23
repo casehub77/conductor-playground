@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 860,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Arthur Lima",
+      "bout_type": "Catchweight (157 lb) Bout",
+      "date": "2023-04-29",
+      "elo_delta": 1.0,
+      "event_name": "Oktagon 42: Keita vs. Tichota",
+      "fight_id": "52df2951c9bd064e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (majority) (29–28, 28–28, 28–28)",
+      "opponent": "Shem Rock",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1481.6,
+      "pre_elo": 1480.6,
+      "red_name": "Shem Rock",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Arthur Lima",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 111: De Sa vs. Bonfim",
+      "fight_id": "bab7c911bdb3edcc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Rodrigo Lidio",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Rodrigo Lidio",
+      "round": "2",
+      "time": "0:23",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "bab7c911bdb3edcc",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "bab7c911bdb3edcc",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "52df2951c9bd064e",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "52df2951c9bd064e",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-29",
+  "name": "Arthur Lima",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "arthur-lima",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

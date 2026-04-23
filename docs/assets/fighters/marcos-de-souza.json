@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 659,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Falco Neto",
+      "bout_type": "Catchweight 79 kg Bout",
+      "date": "2020-02-22",
+      "elo_delta": 20.5,
+      "event_name": "Rizin 21 – Hamamatsu",
+      "fight_id": "9b13113818b1c817",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Falco Neto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1481.9,
+      "red_name": "Marcos de Souza",
+      "round": "1",
+      "time": "1:27",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Marcos de Souza",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2019-10-12",
+      "elo_delta": -18.1,
+      "event_name": "Rizin 19 - Osaka",
+      "fight_id": "5ba3d98da96097c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Keita Nakamura",
+      "opponent_elo": 1524.1,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Keita Nakamura",
+      "round": "1",
+      "time": "1:18",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2019-10-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-10-12",
+      "fight_id": "5ba3d98da96097c9",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-10-12",
+      "fight_id": "5ba3d98da96097c9",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "9b13113818b1c817",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "9b13113818b1c817",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-02-22",
+  "name": "Marcos de Souza",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.4,
+  "slug": "marcos-de-souza",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

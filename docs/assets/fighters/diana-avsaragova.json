@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 339,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Diana Avsaragova",
+      "bout_type": "Catchweight (127 lb) Bout",
+      "date": "2023-08-11",
+      "elo_delta": -19.8,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "e4a01b7627d6dbf5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Justine Kish",
+      "opponent_elo": 1482.8,
+      "outcome": "red_win",
+      "post_elo": 1497.3,
+      "pre_elo": 1517.1,
+      "red_name": "Justine Kish",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Alejandra Lara",
+      "bout_type": "Catchweight (128.8 lb) Bout",
+      "date": "2023-02-04",
+      "elo_delta": 17.1,
+      "event_name": "Bellator 290: Bader vs. Fedor 2",
+      "fight_id": "4bf12ef8f09076c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Alejandra Lara",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Diana Avsaragova",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kyra Batara",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-03-12",
+      "elo_delta": 15.3,
+      "event_name": "Bellator 276: Borics vs. Burnell",
+      "fight_id": "34c5e343b54493ee",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Kyra Batara",
+      "opponent_elo": 1484.7,
+      "outcome": "red_win",
+      "post_elo": 1551.8,
+      "pre_elo": 1536.4,
+      "red_name": "Diana Avsaragova",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Gabriella Gulfin",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 17.0,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "7f9771c19bcec0fb",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Gabriella Gulfin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Diana Avsaragova",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Tara Graff",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-04-09",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 256: Bader vs. Machida 2",
+      "fight_id": "a9c767a99499f914",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Tara Graff",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Diana Avsaragova",
+      "round": "1",
+      "time": "0:29",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-09",
+      "fight_id": "a9c767a99499f914",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "a9c767a99499f914",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "7f9771c19bcec0fb",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "7f9771c19bcec0fb",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "34c5e343b54493ee",
+      "rating": 1551.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "34c5e343b54493ee",
+      "rating": 1546.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "4bf12ef8f09076c3",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "4bf12ef8f09076c3",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "e4a01b7627d6dbf5",
+      "rating": 1497.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "e4a01b7627d6dbf5",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Diana Avsaragova",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1551.8,
+  "slug": "diana-avsaragova",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

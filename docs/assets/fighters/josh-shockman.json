@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 510,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Josh Shockman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-11-18",
+      "elo_delta": -16.1,
+      "event_name": "UFC 65: Bad Intentions",
+      "fight_id": "dd49144723d31f6d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jake O'Brien",
+      "opponent_elo": 1536.8,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
+      "red_name": "Jake O'Brien",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-11-18",
+      "fight_id": "dd49144723d31f6d",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-11-18",
+      "fight_id": "dd49144723d31f6d",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-11-18",
+  "name": "Josh Shockman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "josh-shockman",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

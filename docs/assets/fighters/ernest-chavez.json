@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 946,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ernest Chavez",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-10-04",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Nelson vs Story",
+      "fight_id": "321626ccc64af060",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Zubaira Tukhugov",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1499.6,
+      "red_name": "Zubaira Tukhugov",
+      "round": "1.0",
+      "time": "4:21",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ernest Chavez",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-05-31",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Miocic vs Maldonado",
+      "fight_id": "193f8d1117bae4d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Elias Silverio",
+      "opponent_elo": 1535.2,
+      "outcome": "red_win",
+      "post_elo": 1499.5,
+      "pre_elo": 1518.0,
+      "red_name": "Elias Silverio",
+      "round": "3.0",
+      "time": "4:21",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Yosdenis Cedeno",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-02-22",
+      "elo_delta": 18.0,
+      "event_name": "UFC 170: Rousey vs McMann",
+      "fight_id": "437ac9f0a7b0bf7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Yosdenis Cedeno",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ernest Chavez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2014-02-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-02-22",
+      "fight_id": "437ac9f0a7b0bf7f",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-02-22",
+      "fight_id": "437ac9f0a7b0bf7f",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "193f8d1117bae4d8",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "193f8d1117bae4d8",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "321626ccc64af060",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "321626ccc64af060",
+      "rating": 1483.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-10-04",
+  "name": "Ernest Chavez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "ernest-chavez",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 301,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tomohiro Adaniya",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2021-11-20",
+      "elo_delta": 19.4,
+      "event_name": "Rizin 32 - Okinawa",
+      "fight_id": "08ec5e6e0bf834db",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Knee)",
+      "opponent": "Tomohiro Adaniya",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yuichi Miyagi",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-11-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-20",
+      "fight_id": "08ec5e6e0bf834db",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "08ec5e6e0bf834db",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-20",
+  "name": "Yuichi Miyagi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "yuichi-miyagi",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

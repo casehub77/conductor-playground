@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 101,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sofiia Bagishvili",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": -20.6,
+      "event_name": "Oktagon 44: Langer vs. Poppeck",
+      "fight_id": "788eaae494a1dd10",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jacinta Austin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1521.4,
+      "red_name": "Jacinta Austin",
+      "round": "1",
+      "time": "2:19",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Anita Bekus",
+      "bout_type": "W.Strawweight 52 kg Bout",
+      "date": "2022-09-10",
+      "elo_delta": 21.4,
+      "event_name": "KSW 74: De Fries vs. Prasel",
+      "fight_id": "54a8f5a8bb6c5222",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (Straight Armlock)",
+      "opponent": "Anita Bekus",
+      "opponent_elo": 1535.1,
+      "outcome": "red_win",
+      "post_elo": 1521.4,
+      "pre_elo": 1500.0,
+      "red_name": "Sofiia Bagishvili",
+      "round": "2",
+      "time": "1:47",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2022-09-10",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-09-10",
+      "fight_id": "54a8f5a8bb6c5222",
+      "rating": 1521.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-09-10",
+      "fight_id": "54a8f5a8bb6c5222",
+      "rating": 1518.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "788eaae494a1dd10",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "788eaae494a1dd10",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-17",
+  "name": "Sofiia Bagishvili",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.4,
+  "slug": "sofiia-bagishvili",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

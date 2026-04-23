@@ -1,0 +1,126 @@
+{
+  "current_elo": 1484.7,
+  "divisional_rank": 1110,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Aldo Pereira Aguiar",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -17.5,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "92eb0906521fad18",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Leon Hill",
+      "opponent_elo": 1537.7,
+      "outcome": "red_win",
+      "post_elo": 1484.7,
+      "pre_elo": 1502.2,
+      "red_name": "Leon Hill",
+      "round": "2",
+      "time": "3:16",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Aldo Pereira Aguiar",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": -14.6,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "ec7e20954b0e5cac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–27, 30–27)",
+      "opponent": "Anthony Orozco",
+      "opponent_elo": 1582.7,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1516.8,
+      "red_name": "Anthony Orozco",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Francesco Mazzeo",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-06-27",
+      "elo_delta": 19.0,
+      "event_name": "Cage Warriors 190: Unplugged",
+      "fight_id": "9c64fed7ff69c89d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Francesco Mazzeo",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Aldo Pereira Aguiar",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-06-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-06-27",
+      "fight_id": "9c64fed7ff69c89d",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "9c64fed7ff69c89d",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "ec7e20954b0e5cac",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "ec7e20954b0e5cac",
+      "rating": 1503.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "92eb0906521fad18",
+      "rating": 1484.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "92eb0906521fad18",
+      "rating": 1488.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Aldo Pereira Aguiar",
+  "nickname": "",
+  "overall_elo": 1488.5,
+  "peak_elo": 1519.0,
+  "slug": "aldo-pereira-aguiar",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

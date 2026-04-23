@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 247,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matthew Barro",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "236831641a36e1b5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Matthew Barro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "An Ho",
+      "round": "1",
+      "time": "0:14",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Guilherme Crossi",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 124: Formiga vs. Bunes",
+      "fight_id": "a55933e7eeea259b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (spinning backfist and punches)",
+      "opponent": "Guilherme Crossi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "An Ho",
+      "round": "1",
+      "time": "2:23",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "a55933e7eeea259b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "a55933e7eeea259b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "236831641a36e1b5",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "236831641a36e1b5",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-08",
+  "name": "An Ho",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "an-ho",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

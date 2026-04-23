@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1431,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matthias Riccio",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-11-12",
+      "elo_delta": -17.9,
+      "event_name": "Shooto: R.E.A.D. 12",
+      "fight_id": "a4335ef1041addaa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Takayuki Okochi",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1461.7,
+      "pre_elo": 1479.6,
+      "red_name": "Takayuki Okochi",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Matthias Riccio",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-10-09",
+      "elo_delta": -20.4,
+      "event_name": "Shooto: R.E.A.D. 11",
+      "fight_id": "8c23c4a38dac9f36",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Shiko Yamashita",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1479.6,
+      "pre_elo": 1500.0,
+      "red_name": "Shiko Yamashita",
+      "round": "1",
+      "time": "1:18",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2000-10-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-10-09",
+      "fight_id": "8c23c4a38dac9f36",
+      "rating": 1479.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-10-09",
+      "fight_id": "8c23c4a38dac9f36",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-11-12",
+      "fight_id": "a4335ef1041addaa",
+      "rating": 1461.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-11-12",
+      "fight_id": "a4335ef1041addaa",
+      "rating": 1466.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-11-12",
+  "name": "Matthias Riccio",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "matthias-riccio",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 666,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Katsuomi Inagaki",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-12-08",
+      "elo_delta": 19.3,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 4",
+      "fight_id": "fd18a07290093e3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Katsuomi Inagaki",
+      "opponent_elo": 1479.5,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1482.7,
+      "red_name": "Takaku Fuke",
+      "round": "1",
+      "time": "6:18",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Takaku Fuke",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-11-08",
+      "elo_delta": -17.3,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 3",
+      "fight_id": "2a32da3b98d8e6a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Ken Shamrock",
+      "opponent_elo": 1538.9,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Ken Shamrock",
+      "round": "1",
+      "time": "0:44",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Takaku Fuke",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-10-14",
+      "elo_delta": -19.4,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 2",
+      "fight_id": "3c95d0d2242de62a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee to the body)",
+      "opponent": "Bas Rutten",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Bas Rutten",
+      "round": "1",
+      "time": "2:03",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Vernon White",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-09-21",
+      "elo_delta": 19.4,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 1",
+      "fight_id": "db98c101d8534834",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Vernon White",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Takaku Fuke",
+      "round": "1",
+      "time": "1:19",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1993-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1993-09-21",
+      "fight_id": "db98c101d8534834",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-09-21",
+      "fight_id": "db98c101d8534834",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1993-10-14",
+      "fight_id": "3c95d0d2242de62a",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-10-14",
+      "fight_id": "3c95d0d2242de62a",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1993-11-08",
+      "fight_id": "2a32da3b98d8e6a4",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-11-08",
+      "fight_id": "2a32da3b98d8e6a4",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1993-12-08",
+      "fight_id": "fd18a07290093e3a",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-12-08",
+      "fight_id": "fd18a07290093e3a",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1993-12-08",
+  "name": "Takaku Fuke",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "takaku-fuke",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

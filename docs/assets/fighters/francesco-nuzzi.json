@@ -1,0 +1,92 @@
+{
+  "current_elo": 1519.4,
+  "divisional_rank": 164,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Manoel Silva",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-04-11",
+      "elo_delta": 0.0,
+      "event_name": "Cage Warriors 204: Rome",
+      "fight_id": "a91cf1cd5a766f7c",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental knee to groin)",
+      "opponent": "Manoel Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1519.4,
+      "pre_elo": 1519.4,
+      "red_name": "Francesco Nuzzi",
+      "round": "1",
+      "time": "3:37",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Lucas Rodrigues Melo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 195: Rome",
+      "fight_id": "86bc5fe69d71d8f7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and knee)",
+      "opponent": "Lucas Rodrigues Melo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Francesco Nuzzi",
+      "round": "1",
+      "time": "3:52",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-04",
+      "fight_id": "86bc5fe69d71d8f7",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "86bc5fe69d71d8f7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "a91cf1cd5a766f7c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "a91cf1cd5a766f7c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Francesco Nuzzi",
+  "nickname": "",
+  "overall_elo": 1517.3,
+  "peak_elo": 1519.4,
+  "slug": "francesco-nuzzi",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

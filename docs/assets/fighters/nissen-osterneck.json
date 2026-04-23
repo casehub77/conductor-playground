@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 793,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nissen Osterneck",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-04-01",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Condit vs Kampmann",
+      "fight_id": "8b1f21915b5d7bda",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Jorge Rivera",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Jorge Rivera",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Nissen Osterneck",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-11-05",
+      "elo_delta": -19.4,
+      "event_name": "WEC 36: Faber vs. Brown",
+      "fight_id": "694ee6a512c92373",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jake Rosholt",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jake Rosholt",
+      "round": "2",
+      "time": "3:48",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2008-11-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-11-05",
+      "fight_id": "694ee6a512c92373",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-11-05",
+      "fight_id": "694ee6a512c92373",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-01",
+      "fight_id": "8b1f21915b5d7bda",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-04-01",
+      "fight_id": "8b1f21915b5d7bda",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-01",
+  "name": "Nissen Osterneck",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "nissen-osterneck",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

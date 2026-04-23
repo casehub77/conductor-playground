@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 227,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Maciej Różański",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": 17.6,
+      "event_name": "Bellator 300: Nurmagomedov vs. Primus",
+      "fight_id": "c84021651ff36795",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Maciej Różański",
+      "opponent_elo": 1500.3,
+      "outcome": "red_win",
+      "post_elo": 1525.5,
+      "pre_elo": 1507.9,
+      "red_name": "Dovletdzhan Yagshimuradov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Julius Anglickas",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-03-10",
+      "elo_delta": 17.7,
+      "event_name": "Bellator 292: Nurmagomedov vs. Henderson",
+      "fight_id": "365ca3a324d7987a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Julius Anglickas",
+      "opponent_elo": 1485.3,
+      "outcome": "red_win",
+      "post_elo": 1507.9,
+      "pre_elo": 1490.2,
+      "red_name": "Dovletdzhan Yagshimuradov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Rafael Carvalho",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 20.3,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "c0fcb4e9aaf463f7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Rafael Carvalho",
+      "opponent_elo": 1486.0,
+      "outcome": "red_win",
+      "post_elo": 1490.2,
+      "pre_elo": 1469.8,
+      "red_name": "Dovletdzhan Yagshimuradov",
+      "round": "2",
+      "time": "4:04",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Dovletdzhan Yagshimuradov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-10-16",
+      "elo_delta": -15.4,
+      "event_name": "Bellator 268: Nemkov vs. Anglickas",
+      "fight_id": "f4c27e49e527b7ad",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Karl Albrektsson",
+      "opponent_elo": 1535.5,
+      "outcome": "red_win",
+      "post_elo": 1469.8,
+      "pre_elo": 1485.3,
+      "red_name": "Karl Albrektsson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Dovletdzhan Yagshimuradov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-04-16",
+      "elo_delta": -14.7,
+      "event_name": "Bellator 257: Nemkov vs. Davis 2",
+      "fight_id": "5e38eae028f95a6f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Corey Anderson",
+      "opponent_elo": 1585.7,
+      "outcome": "red_win",
+      "post_elo": 1485.3,
+      "pre_elo": 1500.0,
+      "red_name": "Corey Anderson",
+      "round": "3",
+      "time": "2:15",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-16",
+      "fight_id": "5e38eae028f95a6f",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-04-16",
+      "fight_id": "5e38eae028f95a6f",
+      "rating": 1486.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "f4c27e49e527b7ad",
+      "rating": 1469.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "f4c27e49e527b7ad",
+      "rating": 1471.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c0fcb4e9aaf463f7",
+      "rating": 1490.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c0fcb4e9aaf463f7",
+      "rating": 1489.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "365ca3a324d7987a",
+      "rating": 1507.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "365ca3a324d7987a",
+      "rating": 1505.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "c84021651ff36795",
+      "rating": 1525.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "c84021651ff36795",
+      "rating": 1521.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Dovletdzhan Yagshimuradov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1525.5,
+  "slug": "dovletdzhan-yagshimuradov",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

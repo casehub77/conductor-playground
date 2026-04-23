@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 983,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Eric Luke",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-08-12",
+      "elo_delta": -17.9,
+      "event_name": "Bellator 24",
+      "fight_id": "0ac6a300163e6a0b",
+      "gender": "men",
+      "is_title": false,
+      "method": "unanimous decision (30–27, 30–27, 30–27)",
+      "opponent": "Farkhad Sharipov",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1464.8,
+      "pre_elo": 1482.7,
+      "red_name": "Farkhad Sharipov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2010-06-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-10",
+      "fight_id": "e6b426db6d7b7b7f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-12",
+      "fight_id": "0ac6a300163e6a0b",
+      "rating": 1464.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-08-12",
+      "fight_id": "0ac6a300163e6a0b",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-12",
+  "name": "Eric Luke",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "eric-luke",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

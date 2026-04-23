@@ -1,0 +1,194 @@
+{
+  "current_elo": 1475.2,
+  "divisional_rank": 683,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Ibo Aslan",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-12-06",
+      "elo_delta": -19.1,
+      "event_name": "UFC 323: Dvalishvili vs. Yan 2",
+      "fight_id": "18f3def68f68a173",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Iwo Baraniewski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1475.2,
+      "pre_elo": 1494.3,
+      "red_name": "Iwo Baraniewski",
+      "round": "1.0",
+      "time": "1:29",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Billy Elekana",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -18.8,
+      "event_name": "UFC Fight Night: Whittaker vs. De Ridder",
+      "fight_id": "53fcd3107878cc0f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Billy Elekana",
+      "opponent_elo": 1496.9,
+      "outcome": "blue_win",
+      "post_elo": 1494.3,
+      "pre_elo": 1513.2,
+      "red_name": "Ibo Aslan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ibo Aslan",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-02-22",
+      "elo_delta": -22.0,
+      "event_name": "UFC Fight Night: Cejudo vs. Song",
+      "fight_id": "705ee33306e4178b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ion Cutelaba",
+      "opponent_elo": 1489.0,
+      "outcome": "red_win",
+      "post_elo": 1513.2,
+      "pre_elo": 1535.2,
+      "red_name": "Ion Cutelaba",
+      "round": "1.0",
+      "time": "2:51",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Rafael Cerqueira",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-10-26",
+      "elo_delta": 18.5,
+      "event_name": "UFC 308: Topuria vs. Holloway",
+      "fight_id": "a0bbb8aee0ff2e7a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Rafael Cerqueira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.2,
+      "pre_elo": 1516.7,
+      "red_name": "Ibo Aslan",
+      "round": "1.0",
+      "time": "0:51",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Anton Turkalj",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": 16.7,
+      "event_name": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "fight_id": "7c204faf015f2cd5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anton Turkalj",
+      "opponent_elo": 1450.4,
+      "outcome": "red_win",
+      "post_elo": 1516.7,
+      "pre_elo": 1500.0,
+      "red_name": "Ibo Aslan",
+      "round": "3.0",
+      "time": "1:32",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "7c204faf015f2cd5",
+      "rating": 1516.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "7c204faf015f2cd5",
+      "rating": 1515.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-26",
+      "fight_id": "a0bbb8aee0ff2e7a",
+      "rating": 1535.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-10-26",
+      "fight_id": "a0bbb8aee0ff2e7a",
+      "rating": 1531.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "705ee33306e4178b",
+      "rating": 1513.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "705ee33306e4178b",
+      "rating": 1512.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "53fcd3107878cc0f",
+      "rating": 1494.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "53fcd3107878cc0f",
+      "rating": 1495.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "18f3def68f68a173",
+      "rating": 1475.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "18f3def68f68a173",
+      "rating": 1478.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-06",
+  "name": "Ibo Aslan",
+  "nickname": "",
+  "overall_elo": 1478.4,
+  "peak_elo": 1535.2,
+  "slug": "ibo-aslan",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

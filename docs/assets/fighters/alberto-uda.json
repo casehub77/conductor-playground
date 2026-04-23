@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 606,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marvin Vettori",
+      "bout_type": "Middleweight Bout",
+      "date": "2016-08-20",
+      "elo_delta": -18.3,
+      "event_name": "UFC 202: Diaz vs. McGregor 2",
+      "fight_id": "24b61eaaddd181f3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Marvin Vettori",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1461.1,
+      "pre_elo": 1479.4,
+      "red_name": "Alberto Uda",
+      "round": "1.0",
+      "time": "4:30",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Alberto Uda",
+      "bout_type": "Middleweight Bout",
+      "date": "2016-05-29",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Almeida vs Garbrandt",
+      "fight_id": "4060c4740dd836aa",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jake Collier",
+      "opponent_elo": 1478.6,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jake Collier",
+      "round": "2.0",
+      "time": "1:06",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2016-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-05-29",
+      "fight_id": "4060c4740dd836aa",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-05-29",
+      "fight_id": "4060c4740dd836aa",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-08-20",
+      "fight_id": "24b61eaaddd181f3",
+      "rating": 1461.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-08-20",
+      "fight_id": "24b61eaaddd181f3",
+      "rating": 1465.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-08-20",
+  "name": "Alberto Uda",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "alberto-uda",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

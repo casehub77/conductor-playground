@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 180,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sebastian Ruiz",
+      "bout_type": "Catchweight (142 lb) Bout",
+      "date": "2021-08-13",
+      "elo_delta": 18.9,
+      "event_name": "Bellator 264: Mousasi vs. Salter",
+      "fight_id": "b9c9b32608ab8795",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Sebastian Ruiz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.6,
+      "pre_elo": 1482.7,
+      "red_name": "Jeffrey Glossner",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2021-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-09",
+      "fight_id": "5b2c1a4a1e93466d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-13",
+      "fight_id": "b9c9b32608ab8795",
+      "rating": 1501.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2021-08-13",
+      "fight_id": "b9c9b32608ab8795",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-08-13",
+  "name": "Jeffrey Glossner",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.6,
+  "slug": "jeffrey-glossner",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

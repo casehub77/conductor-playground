@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 589,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Rafael Rebello",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-06-20",
+      "elo_delta": -15.4,
+      "event_name": "WEC 49: Varner vs. Shalorus",
+      "fight_id": "18a86964eddc7881",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29-28, 29-28, 30-26)",
+      "opponent": "Chris Cariaso",
+      "opponent_elo": 1554.2,
+      "outcome": "red_win",
+      "post_elo": 1488.0,
+      "pre_elo": 1503.4,
+      "red_name": "Chris Cariaso",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kyle Dietz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2009-06-07",
+      "elo_delta": 20.4,
+      "event_name": "WEC 41: Brown vs. Faber 2",
+      "fight_id": "70fb6c0bb37e8692",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Kyle Dietz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1483.0,
+      "red_name": "Rafael Rebello",
+      "round": "1",
+      "time": "2:55",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Rafael Rebello",
+      "bout_type": "Bantamweight Bout",
+      "date": "2009-03-01",
+      "elo_delta": -17.0,
+      "event_name": "WEC 39: Brown vs. Garcia",
+      "fight_id": "aae2618d3eeb540e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29-28, 29-28, 27-30)",
+      "opponent": "Kenji Osawa",
+      "opponent_elo": 1520.2,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kenji Osawa",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2009-03-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-03-01",
+      "fight_id": "aae2618d3eeb540e",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2009-03-01",
+      "fight_id": "aae2618d3eeb540e",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-07",
+      "fight_id": "70fb6c0bb37e8692",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2009-06-07",
+      "fight_id": "70fb6c0bb37e8692",
+      "rating": 1502.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-20",
+      "fight_id": "18a86964eddc7881",
+      "rating": 1488.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-06-20",
+      "fight_id": "18a86964eddc7881",
+      "rating": 1488.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-06-20",
+  "name": "Rafael Rebello",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.4,
+  "slug": "rafael-rebello",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

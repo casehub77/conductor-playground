@@ -1,0 +1,228 @@
+{
+  "current_elo": 1466.6,
+  "divisional_rank": 1102,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Cody Haddon",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-10-12",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Royval vs. Taira",
+      "fight_id": "fdcd200c437da0a6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cody Haddon",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1466.1,
+      "pre_elo": 1483.2,
+      "red_name": "Dan Argueta",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jean Matsumoto",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Allen vs. Curtis 2",
+      "fight_id": "03e297da2afdaea4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jean Matsumoto",
+      "opponent_elo": 1517.1,
+      "outcome": "blue_win",
+      "post_elo": 1483.2,
+      "pre_elo": 1501.8,
+      "red_name": "Dan Argueta",
+      "round": "2.0",
+      "time": "4:59",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Miles Johns",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-09-23",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Fiziev vs. Gamrot",
+      "fight_id": "ccc6cd65b94e9a7e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Miles Johns",
+      "opponent_elo": 1532.1,
+      "outcome": "no_contest",
+      "post_elo": 1501.8,
+      "pre_elo": 1501.8,
+      "red_name": "Dan Argueta",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ronnie Lawrence",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+      "fight_id": "1efc90d96a2e5e51",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Ronnie Lawrence",
+      "opponent_elo": 1517.6,
+      "outcome": "no_contest",
+      "post_elo": 1501.8,
+      "pre_elo": 1501.8,
+      "red_name": "Dan Argueta",
+      "round": "1.0",
+      "time": "2:20",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nick Aguirre",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-01-14",
+      "elo_delta": 18.9,
+      "event_name": "UFC Fight Night: Strickland vs. Imavov",
+      "fight_id": "65133187c2b8afa5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nick Aguirre",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.3,
+      "pre_elo": 1483.5,
+      "red_name": "Dan Argueta",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Dan Argueta",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-06-04",
+      "elo_delta": -16.5,
+      "event_name": "UFC Fight Night: Volkov vs. Rozenstruik",
+      "fight_id": "815cb7ce65ecc386",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Damon Jackson",
+      "opponent_elo": 1528.2,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Damon Jackson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-06-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-04",
+      "fight_id": "815cb7ce65ecc386",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-06-04",
+      "fight_id": "815cb7ce65ecc386",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-14",
+      "fight_id": "65133187c2b8afa5",
+      "rating": 1502.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-01-14",
+      "fight_id": "65133187c2b8afa5",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "1efc90d96a2e5e51",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "1efc90d96a2e5e51",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "ccc6cd65b94e9a7e",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "ccc6cd65b94e9a7e",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "03e297da2afdaea4",
+      "rating": 1483.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "03e297da2afdaea4",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "fdcd200c437da0a6",
+      "rating": 1466.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "fdcd200c437da0a6",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-10-12",
+  "name": "Dan Argueta",
+  "nickname": "",
+  "overall_elo": 1470.4,
+  "peak_elo": 1502.3,
+  "slug": "dan-argueta",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

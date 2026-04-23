@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 499,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jimmy Meza",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-03-19",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 102: Souza vs. Johns",
+      "fight_id": "6b7fd6c46401c4b1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Jimmy Meza",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Brandon Lewis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-19",
+      "fight_id": "6b7fd6c46401c4b1",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-19",
+      "fight_id": "6b7fd6c46401c4b1",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-03-19",
+  "name": "Brandon Lewis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "brandon-lewis",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

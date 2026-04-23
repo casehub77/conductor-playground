@@ -1,0 +1,65 @@
+{
+  "current_elo": 1504.3,
+  "divisional_rank": 87,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Isaiah Skidmore",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2025-08-15",
+      "elo_delta": 20.3,
+      "event_name": "LFA 214: Fernando vs. Latu",
+      "fight_id": "6b32d1f3dfd562e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Isaiah Skidmore",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1484.0,
+      "red_name": "Brett Bye",
+      "round": "2",
+      "time": "1:36",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2022-08-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-12",
+      "fight_id": "ff06d21c7c5232bb",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "6b32d1f3dfd562e8",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "6b32d1f3dfd562e8",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-15",
+  "name": "Brett Bye",
+  "nickname": "",
+  "overall_elo": 1502.1,
+  "peak_elo": 1504.3,
+  "slug": "brett-bye",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

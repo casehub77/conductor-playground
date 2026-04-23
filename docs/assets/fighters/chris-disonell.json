@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 655,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chris Disonell",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -16.5,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "1123aaa90c1d792a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jaylon Bates",
+      "opponent_elo": 1553.2,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jaylon Bates",
+      "round": "3",
+      "time": "3:39",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-19",
+      "fight_id": "1123aaa90c1d792a",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "1123aaa90c1d792a",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-19",
+  "name": "Chris Disonell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "chris-disonell",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

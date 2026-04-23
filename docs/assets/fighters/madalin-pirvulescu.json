@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 276,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mădălin Pîrvulescu",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2022-12-17",
+      "elo_delta": -20.5,
+      "event_name": "KSW 77: Khalidov vs. Pudzianowski",
+      "fight_id": "b52c6b94caf7bb26",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick and punches)",
+      "opponent": "Bohdan Gnidko",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.8,
+      "pre_elo": 1519.4,
+      "red_name": "Bohdan Gnidko",
+      "round": "1",
+      "time": "0:38",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Adam Tomasik",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2022-10-14",
+      "elo_delta": 19.4,
+      "event_name": "KSW 75: Stasiak vs. Ruchała",
+      "fight_id": "3359da1b045f2694",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Adam Tomasik",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mădălin Pîrvulescu",
+      "round": "1",
+      "time": "1:35",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-14",
+      "fight_id": "3359da1b045f2694",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "3359da1b045f2694",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "b52c6b94caf7bb26",
+      "rating": 1498.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "b52c6b94caf7bb26",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-17",
+  "name": "Mădălin Pîrvulescu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "madalin-pirvulescu",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

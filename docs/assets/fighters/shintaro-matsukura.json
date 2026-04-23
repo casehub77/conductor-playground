@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 460,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Koji Mori",
+      "bout_type": "Catchweight 73 kg Bout",
+      "date": "2020-08-10",
+      "elo_delta": 18.4,
+      "event_name": "Rizin 23 – Calling Over",
+      "fight_id": "7d297c15bd516522",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Koji Mori",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Shintaro Matsukura",
+      "round": "1",
+      "time": "1:28",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Takahiro Okuyama",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2018-08-12",
+      "elo_delta": 19.4,
+      "event_name": "Rizin 12 - Nagoya",
+      "fight_id": "1ddecfa2040b2e01",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Takahiro Okuyama",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Shintaro Matsukura",
+      "round": "2",
+      "time": "5:30",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-08-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-08-12",
+      "fight_id": "1ddecfa2040b2e01",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-08-12",
+      "fight_id": "1ddecfa2040b2e01",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "7d297c15bd516522",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "7d297c15bd516522",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-08-10",
+  "name": "Shintaro Matsukura",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "shintaro-matsukura",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

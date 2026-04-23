@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 350,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dustin Joynson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-07-15",
+      "elo_delta": -14.6,
+      "event_name": "ONE Fight Night 12: Superlek vs. Khalilov",
+      "fight_id": "ed82c4c99add3d19",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to punches)",
+      "opponent": "Amir Aliakbari",
+      "opponent_elo": 1605.5,
+      "outcome": "red_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1518.0,
+      "red_name": "Amir Aliakbari",
+      "round": "1",
+      "time": "1:48",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Hugo Cunha",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": 18.0,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "5a2daccf4a927a5b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Hugo Cunha",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dustin Joynson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "5a2daccf4a927a5b",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "5a2daccf4a927a5b",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "ed82c4c99add3d19",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "ed82c4c99add3d19",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-15",
+  "name": "Dustin Joynson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "dustin-joynson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

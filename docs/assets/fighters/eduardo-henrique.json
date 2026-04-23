@@ -1,0 +1,92 @@
+{
+  "current_elo": 1504.2,
+  "divisional_rank": 185,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Devon Lozej",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-08-22",
+      "elo_delta": 22.2,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "80fa7b6b662e9da0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Devon Lozej",
+      "opponent_elo": 1532.2,
+      "outcome": "red_win",
+      "post_elo": 1504.2,
+      "pre_elo": 1482.0,
+      "red_name": "Eduardo Henrique",
+      "round": "1",
+      "time": "2:57",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Eduardo Henrique",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-07-15",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 136: Rio de Janeiro vs. São Paulo",
+      "fight_id": "0e529f6d4ea5a849",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Davi Costa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Davi Costa",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-07-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-15",
+      "fight_id": "0e529f6d4ea5a849",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-07-15",
+      "fight_id": "0e529f6d4ea5a849",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "80fa7b6b662e9da0",
+      "rating": 1504.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "80fa7b6b662e9da0",
+      "rating": 1504.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-22",
+  "name": "Eduardo Henrique",
+  "nickname": "",
+  "overall_elo": 1504.3,
+  "peak_elo": 1504.3,
+  "slug": "eduardo-henrique",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

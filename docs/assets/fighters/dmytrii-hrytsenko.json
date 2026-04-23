@@ -1,0 +1,65 @@
+{
+  "current_elo": 1509.1,
+  "divisional_rank": 79,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Justin Montalvo",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2023-10-07",
+      "elo_delta": 18.2,
+      "event_name": "Bellator 300: Nurmagomedov vs. Primus",
+      "fight_id": "16d43fe7ccdf210b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Justin Montalvo",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1535.0,
+      "pre_elo": 1516.8,
+      "red_name": "Dmytrii Hrytsenko",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-25",
+      "fight_id": "6fdbdc64a83c1702",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "16d43fe7ccdf210b",
+      "rating": 1535.0,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "16d43fe7ccdf210b",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Dmytrii Hrytsenko",
+  "nickname": "",
+  "overall_elo": 1506.9,
+  "peak_elo": 1535.0,
+  "slug": "dmytrii-hrytsenko",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

@@ -1,0 +1,167 @@
+{
+  "current_elo": 1543.8,
+  "divisional_rank": 59,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Daichi Tomizawa",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2025-12-31",
+      "elo_delta": 17.9,
+      "event_name": "Rizin: Shiwasu no Cho Tsuwamono Matsuri",
+      "fight_id": "55a602c5bff1db62",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Daichi Tomizawa",
+      "opponent_elo": 1499.0,
+      "outcome": "red_win",
+      "post_elo": 1543.8,
+      "pre_elo": 1525.8,
+      "red_name": "Tatsuki Shinotsuka",
+      "round": "2",
+      "time": "3:22",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Tatsuki Shinotsuka",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2025-05-04",
+      "elo_delta": -21.5,
+      "event_name": "Rizin: Otoko Matsuri",
+      "fight_id": "2f5e47b2c4f87816",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (corner stoppage)",
+      "opponent": "Hiroya Kondo",
+      "opponent_elo": 1510.9,
+      "outcome": "red_win",
+      "post_elo": 1525.8,
+      "pre_elo": 1547.3,
+      "red_name": "Hiroya Kondo",
+      "round": "1",
+      "time": "2:11",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Aoi Noda",
+      "bout_type": "Catchweight 58 kg Bout",
+      "date": "2024-12-31",
+      "elo_delta": 16.6,
+      "event_name": "Rizin 49: Decade",
+      "fight_id": "a97bb8e62f9ff421",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Aoi Noda",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1551.1,
+      "pre_elo": 1534.5,
+      "red_name": "Tatsuki Shinotsuka",
+      "round": "1",
+      "time": "2:04",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Justyn Martinez",
+      "bout_type": "Catchweight 58.9 kg Bout",
+      "date": "2024-04-29",
+      "elo_delta": 18.5,
+      "event_name": "Rizin 46",
+      "fight_id": "3275a7c5d659895b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Justyn Martinez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Tatsuki Shinotsuka",
+      "round": "1",
+      "time": "1:33",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-31",
+      "fight_id": "24ce80cc9952ce3d",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-29",
+      "fight_id": "3275a7c5d659895b",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-04-29",
+      "fight_id": "3275a7c5d659895b",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "a97bb8e62f9ff421",
+      "rating": 1551.1,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "a97bb8e62f9ff421",
+      "rating": 1547.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-04",
+      "fight_id": "2f5e47b2c4f87816",
+      "rating": 1525.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-04",
+      "fight_id": "2f5e47b2c4f87816",
+      "rating": 1527.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-31",
+      "fight_id": "55a602c5bff1db62",
+      "rating": 1543.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-12-31",
+      "fight_id": "55a602c5bff1db62",
+      "rating": 1543.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-31",
+  "name": "Tatsuki Shinotsuka",
+  "nickname": "",
+  "overall_elo": 1543.0,
+  "peak_elo": 1551.1,
+  "slug": "tatsuki-shinotsuka",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

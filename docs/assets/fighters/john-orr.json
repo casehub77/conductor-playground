@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 499,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "John Orr",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-06-17",
+      "elo_delta": -17.1,
+      "event_name": "Bellator 22",
+      "fight_id": "7ddabd6e1f3cbef2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Cole Konrad",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Cole Konrad",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-06-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-17",
+      "fight_id": "7ddabd6e1f3cbef2",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-06-17",
+      "fight_id": "7ddabd6e1f3cbef2",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-06-17",
+  "name": "John Orr",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "john-orr",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

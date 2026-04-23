@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 602,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marcelo Alfaya",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-06-12",
+      "elo_delta": -20.4,
+      "event_name": "Bellator 11",
+      "fight_id": "1b8621795de22bd0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Jake Ellenberger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Jake Ellenberger",
+      "round": "1",
+      "time": "0:42",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joey Gorczynski",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-04-17",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 3",
+      "fight_id": "34fbfa624354b3aa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joey Gorczynski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marcelo Alfaya",
+      "round": "1",
+      "time": "1:32",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-17",
+      "fight_id": "34fbfa624354b3aa",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-04-17",
+      "fight_id": "34fbfa624354b3aa",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-12",
+      "fight_id": "1b8621795de22bd0",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-06-12",
+      "fight_id": "1b8621795de22bd0",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-12",
+  "name": "Marcelo Alfaya",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "marcelo-alfaya",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1481.0,
+  "divisional_rank": 700,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Larry Gonzales",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": -19.0,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "a8c1ed8a702ee9cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Billy Ray Valdez",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Billy Ray Valdez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-10",
+      "fight_id": "a8c1ed8a702ee9cb",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "a8c1ed8a702ee9cb",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-10",
+  "name": "Larry Gonzales",
+  "nickname": "",
+  "overall_elo": 1483.2,
+  "peak_elo": 1500.0,
+  "slug": "larry-gonzales",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

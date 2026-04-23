@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 862,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ashe Bowman",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-09-20",
+      "elo_delta": -12.8,
+      "event_name": "Strikeforce: At the Mansion II",
+      "fight_id": "9c4e1a2f3ff6368c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Josh Thomson",
+      "opponent_elo": 1605.4,
+      "outcome": "red_win",
+      "post_elo": 1468.7,
+      "pre_elo": 1481.5,
+      "red_name": "Josh Thomson",
+      "round": "1",
+      "time": "1:14",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ashe Bowman",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-05-05",
+      "elo_delta": -18.5,
+      "event_name": "WEC 20: Cinco de Mayhem",
+      "fight_id": "b7c234846827aa8c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Cassio Werneck",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Cassio Werneck",
+      "round": "2",
+      "time": "3:05",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2006-05-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-05-05",
+      "fight_id": "b7c234846827aa8c",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "b7c234846827aa8c",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "9c4e1a2f3ff6368c",
+      "rating": 1468.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "9c4e1a2f3ff6368c",
+      "rating": 1472.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-09-20",
+  "name": "Ashe Bowman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ashe-bowman",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

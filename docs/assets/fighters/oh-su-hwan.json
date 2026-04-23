@@ -1,0 +1,92 @@
+{
+  "current_elo": 1533.9,
+  "divisional_rank": 117,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ken Maezono",
+      "bout_type": "Featherweight MMA Bout",
+      "date": "2024-09-13",
+      "elo_delta": 17.0,
+      "event_name": "ONE Friday Fights 79: Kongchai vs. Abdulmuslimov",
+      "fight_id": "580f8471e23a19c2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ken Maezono",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Oh Su-hwan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kazumichi Murai",
+      "bout_type": "Featherweight MMA Bout",
+      "date": "2024-04-19",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 59: Yamin vs. Ouraghi",
+      "fight_id": "c17c3ace73ca1113",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Kazumichi Murai",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Oh Su-hwan",
+      "round": "1",
+      "time": "0:28",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-04-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-19",
+      "fight_id": "c17c3ace73ca1113",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-04-19",
+      "fight_id": "c17c3ace73ca1113",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-13",
+      "fight_id": "580f8471e23a19c2",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-13",
+      "fight_id": "580f8471e23a19c2",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-13",
+  "name": "Oh Su-hwan",
+  "nickname": "",
+  "overall_elo": 1530.0,
+  "peak_elo": 1536.4,
+  "slug": "oh-su-hwan",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

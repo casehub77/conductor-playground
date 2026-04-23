@@ -1,0 +1,126 @@
+{
+  "current_elo": 1554.3,
+  "divisional_rank": 30,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Gabriel Thimoteo",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-03-13",
+      "elo_delta": 17.4,
+      "event_name": "LFA 228: Natividad vs. Garcia",
+      "fight_id": "79927ea06ce24313",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Gabriel Thimoteo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1554.3,
+      "pre_elo": 1536.9,
+      "red_name": "Alik Lorenz",
+      "round": "1",
+      "time": "0:24",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ryan Parker",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-11-08",
+      "elo_delta": 17.4,
+      "event_name": "LFA 196: Tanner vs. Ureña",
+      "fight_id": "e01873787336a392",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Ryan Parker",
+      "opponent_elo": 1482.8,
+      "outcome": "red_win",
+      "post_elo": 1536.9,
+      "pre_elo": 1519.5,
+      "red_name": "Alik Lorenz",
+      "round": "3",
+      "time": "4:46",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ben Parrish",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-03-29",
+      "elo_delta": 19.5,
+      "event_name": "LFA 180: Lawrence vs. Ward",
+      "fight_id": "0aeada6a80b1ebf0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Ben Parrish",
+      "opponent_elo": 1501.0,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Alik Lorenz",
+      "round": "1",
+      "time": "4:15",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-29",
+      "fight_id": "0aeada6a80b1ebf0",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "0aeada6a80b1ebf0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-08",
+      "fight_id": "e01873787336a392",
+      "rating": 1536.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-11-08",
+      "fight_id": "e01873787336a392",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "79927ea06ce24313",
+      "rating": 1554.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "79927ea06ce24313",
+      "rating": 1548.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Alik Lorenz",
+  "nickname": "",
+  "overall_elo": 1548.5,
+  "peak_elo": 1554.3,
+  "slug": "alik-lorenz",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

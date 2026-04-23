@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 724,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jose Santibanez",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-08-21",
+      "elo_delta": -20.4,
+      "event_name": "Strikeforce: Houston",
+      "fight_id": "866a8d965bb0e891",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Rey Trujillo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Rey Trujillo",
+      "round": "1",
+      "time": "0:28",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Dustin Phillips",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-05-08",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 6",
+      "fight_id": "a34bec4e19f659de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Dustin Phillips",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jose Santibanez",
+      "round": "1",
+      "time": "3:34",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-05-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-08",
+      "fight_id": "a34bec4e19f659de",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-05-08",
+      "fight_id": "a34bec4e19f659de",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "866a8d965bb0e891",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "866a8d965bb0e891",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-21",
+  "name": "Jose Santibanez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "jose-santibanez",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

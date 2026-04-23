@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.5,
+  "divisional_rank": 1015,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Elton Armindo",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": -17.1,
+      "event_name": "Cage Warriors 197: Unplugged",
+      "fight_id": "b0950a3b471f30a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Giuseppe Mastrogiacomo",
+      "opponent_elo": 1532.7,
+      "outcome": "red_win",
+      "post_elo": 1498.5,
+      "pre_elo": 1515.6,
+      "red_name": "Giuseppe Mastrogiacomo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Reece McEwan",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": 17.3,
+      "event_name": "Cage Warriors 193: Newcastle",
+      "fight_id": "d9f7ff478b81ed82",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch to the body)",
+      "opponent": "Reece McEwan",
+      "opponent_elo": 1461.7,
+      "outcome": "red_win",
+      "post_elo": 1517.3,
+      "pre_elo": 1500.0,
+      "red_name": "Elton Armindo",
+      "round": "2",
+      "time": "1:42",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-09-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-13",
+      "fight_id": "d9f7ff478b81ed82",
+      "rating": 1517.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "d9f7ff478b81ed82",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "b0950a3b471f30a5",
+      "rating": 1498.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "b0950a3b471f30a5",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Elton Armindo",
+  "nickname": "",
+  "overall_elo": 1500.2,
+  "peak_elo": 1517.3,
+  "slug": "elton-armindo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

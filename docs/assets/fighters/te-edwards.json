@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1184,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Te Edwards",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-01-19",
+      "elo_delta": -15.8,
+      "event_name": "UFC Fight Night: Cejudo vs. Dillashaw",
+      "fight_id": "31d8ccf1730a1757",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dennis Bermudez",
+      "opponent_elo": 1523.0,
+      "outcome": "red_win",
+      "post_elo": 1464.7,
+      "pre_elo": 1480.6,
+      "red_name": "Dennis Bermudez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Don Madge",
+      "bout_type": "Lightweight Bout",
+      "date": "2018-10-27",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Oezdemir vs. Smith",
+      "fight_id": "38ba22c02e4e584d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Don Madge",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Te Edwards",
+      "round": "2.0",
+      "time": "0:14",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-10-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-10-27",
+      "fight_id": "38ba22c02e4e584d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-10-27",
+      "fight_id": "38ba22c02e4e584d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-01-19",
+      "fight_id": "31d8ccf1730a1757",
+      "rating": 1464.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-01-19",
+      "fight_id": "31d8ccf1730a1757",
+      "rating": 1468.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-01-19",
+  "name": "Te Edwards",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "te-edwards",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

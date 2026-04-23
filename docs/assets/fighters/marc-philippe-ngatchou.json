@@ -1,0 +1,92 @@
+{
+  "current_elo": 1503.2,
+  "divisional_rank": 276,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yusuf Nazokatov",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 21.2,
+      "event_name": "Cage Warriors 197: Unplugged",
+      "fight_id": "d974f45b6dd64a4f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (spinning backfist)",
+      "opponent": "Yusuf Nazokatov",
+      "opponent_elo": 1512.9,
+      "outcome": "red_win",
+      "post_elo": 1503.2,
+      "pre_elo": 1482.0,
+      "red_name": "Marc-Philippe Ngatchou",
+      "round": "2",
+      "time": "0:12",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Marc-Philippe Ngatchou",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "35acb52493e71398",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Shay Ingram",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Shay Ingram",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-21",
+      "fight_id": "35acb52493e71398",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "35acb52493e71398",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "d974f45b6dd64a4f",
+      "rating": 1503.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "d974f45b6dd64a4f",
+      "rating": 1502.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Marc-Philippe Ngatchou",
+  "nickname": "",
+  "overall_elo": 1502.7,
+  "peak_elo": 1503.2,
+  "slug": "marc-philippe-ngatchou",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

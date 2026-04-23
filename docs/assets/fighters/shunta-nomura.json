@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.8,
+  "divisional_rank": 111,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Patricky Pitbull",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2025-07-27",
+      "elo_delta": 17.5,
+      "event_name": "Super Rizin 4",
+      "fight_id": "603b7244194a4899",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Patricky Pitbull",
+      "opponent_elo": 1510.1,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1520.3,
+      "red_name": "Shunta Nomura",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Luiz Gustavo",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": 20.3,
+      "event_name": "Rizin 50",
+      "fight_id": "b6df3a32812bbbf2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Decision (unanimous)",
+      "opponent": "Luiz Gustavo",
+      "opponent_elo": 1545.1,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1500.0,
+      "red_name": "Shunta Nomura",
+      "round": "3",
+      "time": "2:29",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-30",
+      "fight_id": "b6df3a32812bbbf2",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "b6df3a32812bbbf2",
+      "rating": 1517.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "603b7244194a4899",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "603b7244194a4899",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-27",
+  "name": "Shunta Nomura",
+  "nickname": "",
+  "overall_elo": 1533.4,
+  "peak_elo": 1537.8,
+  "slug": "shunta-nomura",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

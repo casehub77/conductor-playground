@@ -1,0 +1,92 @@
+{
+  "current_elo": 1484.8,
+  "divisional_rank": 953,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Herbert Rogers-Williams",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-01-12",
+      "elo_delta": -18.5,
+      "event_name": "LFA 174: Jones vs. Gennrich",
+      "fight_id": "af564f11657e2fab",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ (knee to groin)",
+      "opponent": "Zeb Vincent",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.5,
+      "pre_elo": 1484.0,
+      "red_name": "Zeb Vincent",
+      "round": "1",
+      "time": "3:17",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Herbert Rogers-Williams",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-09-24",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 115: Silveira vs. Cummins",
+      "fight_id": "d35b1e93ebbd30bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Aleksander Keca",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Aleksander Keca",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-24",
+      "fight_id": "d35b1e93ebbd30bb",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "d35b1e93ebbd30bb",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "af564f11657e2fab",
+      "rating": 1465.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "af564f11657e2fab",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-12",
+  "name": "Herbert Rogers-Williams",
+  "nickname": "",
+  "overall_elo": 1486.8,
+  "peak_elo": 1500.0,
+  "slug": "herbert-rogers-williams",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 781,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Edilberto De Oliveira",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-09-19",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Thomas vs Florian",
+      "fight_id": "3d6096fa5aae29be",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Luke Cummo",
+      "opponent_elo": 1504.1,
+      "outcome": "red_win",
+      "post_elo": 1462.4,
+      "pre_elo": 1480.6,
+      "red_name": "Luke Cummo",
+      "round": "1.0",
+      "time": "1:45",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Edilberto De Oliveira",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-04-21",
+      "elo_delta": -19.4,
+      "event_name": "UFC 70: Nations Collide",
+      "fight_id": "ae8be1e9d9577901",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Paul Taylor",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Paul Taylor",
+      "round": "3.0",
+      "time": "0:37",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-04-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-04-21",
+      "fight_id": "ae8be1e9d9577901",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-04-21",
+      "fight_id": "ae8be1e9d9577901",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-09-19",
+      "fight_id": "3d6096fa5aae29be",
+      "rating": 1462.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-09-19",
+      "fight_id": "3d6096fa5aae29be",
+      "rating": 1466.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-09-19",
+  "name": "Edilberto De Oliveira",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "edilberto-de-oliveira",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1513.3,
+  "divisional_rank": 233,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Chris Mecate",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2025-08-22",
+      "elo_delta": -20.3,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "8e4137a6e68696aa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Erick Visconde",
+      "opponent_elo": 1518.7,
+      "outcome": "red_win",
+      "post_elo": 1513.3,
+      "pre_elo": 1533.6,
+      "red_name": "Erick Visconde",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Javier Reyes",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2025-05-09",
+      "elo_delta": 16.1,
+      "event_name": "LFA 208: Mecate vs. Reyes",
+      "fight_id": "e665b6d918913c2c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Javier Reyes",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1533.6,
+      "pre_elo": 1517.5,
+      "red_name": "Chris Mecate",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Shaheen Santana",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-12-06",
+      "elo_delta": 19.6,
+      "event_name": "LFA 198: Miranda vs. Oyarzún",
+      "fight_id": "ec08446731047cd4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Shaheen Santana",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1498.0,
+      "red_name": "Chris Mecate",
+      "round": "2",
+      "time": "2:18",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Motaz Askar",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2022-08-05",
+      "elo_delta": 19.1,
+      "event_name": "Legacy Fighting Alliance 138: Farias vs. Tanaka",
+      "fight_id": "f910deb076394cab",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Motaz Askar",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1478.9,
+      "red_name": "Chris Mecate",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Chris Mecate",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-03-19",
+      "elo_delta": -21.1,
+      "event_name": "Legacy Fighting Alliance 102: Souza vs. Johns",
+      "fight_id": "68113ee8290c26cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alberto Rodriguez",
+      "opponent_elo": 1469.5,
+      "outcome": "red_win",
+      "post_elo": 1478.9,
+      "pre_elo": 1500.0,
+      "red_name": "Alberto Rodriguez",
+      "round": "1",
+      "time": "1:12",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-19",
+      "fight_id": "68113ee8290c26cf",
+      "rating": 1478.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-03-19",
+      "fight_id": "68113ee8290c26cf",
+      "rating": 1481.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-05",
+      "fight_id": "f910deb076394cab",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-08-05",
+      "fight_id": "f910deb076394cab",
+      "rating": 1498.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-06",
+      "fight_id": "ec08446731047cd4",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-12-06",
+      "fight_id": "ec08446731047cd4",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "e665b6d918913c2c",
+      "rating": 1533.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "e665b6d918913c2c",
+      "rating": 1529.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "8e4137a6e68696aa",
+      "rating": 1513.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "8e4137a6e68696aa",
+      "rating": 1512.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-22",
+  "name": "Chris Mecate",
+  "nickname": "",
+  "overall_elo": 1512.0,
+  "peak_elo": 1533.6,
+  "slug": "chris-mecate",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

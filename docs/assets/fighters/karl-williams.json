@@ -1,0 +1,160 @@
+{
+  "current_elo": 1523.5,
+  "divisional_rank": 67,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Karl Williams",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-08-10",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Tybura vs. Spivac 2",
+      "fight_id": "a219ecd4b7280a64",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jhonata Diniz",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1528.3,
+      "pre_elo": 1547.8,
+      "red_name": "Jhonata Diniz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Justin Tafa",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-03-23",
+      "elo_delta": 17.7,
+      "event_name": "UFC Fight Night: Ribas vs. Namajunas",
+      "fight_id": "310ca1bcdacc1034",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Justin Tafa",
+      "opponent_elo": 1524.5,
+      "outcome": "red_win",
+      "post_elo": 1547.8,
+      "pre_elo": 1530.1,
+      "red_name": "Karl Williams",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Chase Sherman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-05-13",
+      "elo_delta": 13.0,
+      "event_name": "UFC Fight Night: Rozenstruik vs. Almeida",
+      "fight_id": "7493b62301c046cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chase Sherman",
+      "opponent_elo": 1418.5,
+      "outcome": "red_win",
+      "post_elo": 1530.1,
+      "pre_elo": 1517.1,
+      "red_name": "Karl Williams",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Lukasz Brzeski",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-03-11",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: Yan vs. Dvalishvili",
+      "fight_id": "43bad66af05faa19",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lukasz Brzeski",
+      "opponent_elo": 1482.9,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Karl Williams",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-11",
+      "fight_id": "43bad66af05faa19",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-03-11",
+      "fight_id": "43bad66af05faa19",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-13",
+      "fight_id": "7493b62301c046cb",
+      "rating": 1530.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-05-13",
+      "fight_id": "7493b62301c046cb",
+      "rating": 1527.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "310ca1bcdacc1034",
+      "rating": 1547.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "310ca1bcdacc1034",
+      "rating": 1543.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "a219ecd4b7280a64",
+      "rating": 1528.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "a219ecd4b7280a64",
+      "rating": 1525.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-08-10",
+  "name": "Karl Williams",
+  "nickname": "",
+  "overall_elo": 1520.9,
+  "peak_elo": 1547.8,
+  "slug": "karl-williams",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

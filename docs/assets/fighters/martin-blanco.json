@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 848,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Martin Blanco",
+      "bout_type": "Featherweight 57 kg Bout",
+      "date": "2019-06-02",
+      "elo_delta": -12.8,
+      "event_name": "Rizin 16 - Kobe",
+      "fight_id": "5a7324a1d9cd4651",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Knee to the Body)",
+      "opponent": "Tenshin Nasukawa",
+      "opponent_elo": 1624.0,
+      "outcome": "red_win",
+      "post_elo": 1487.2,
+      "pre_elo": 1500.0,
+      "red_name": "Tenshin Nasukawa",
+      "round": "2",
+      "time": "5:19",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2019-06-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-02",
+      "fight_id": "5a7324a1d9cd4651",
+      "rating": 1487.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2019-06-02",
+      "fight_id": "5a7324a1d9cd4651",
+      "rating": 1488.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-06-02",
+  "name": "Martin Blanco",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "martin-blanco",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

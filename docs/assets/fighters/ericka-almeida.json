@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 182,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ericka Almeida",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2015-10-24",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Holohan vs Smolka",
+      "fight_id": "4f7da49003510b05",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aisling Daly",
+      "opponent_elo": 1484.3,
+      "outcome": "red_win",
+      "post_elo": 1464.2,
+      "pre_elo": 1482.0,
+      "red_name": "Aisling Daly",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Ericka Almeida",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2015-05-30",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Condit vs Alves",
+      "fight_id": "309d967c79cbf5a0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Juliana Lima",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Juliana Lima",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2015-05-30",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2015-05-30",
+      "fight_id": "309d967c79cbf5a0",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2015-05-30",
+      "fight_id": "309d967c79cbf5a0",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-10-24",
+      "fight_id": "4f7da49003510b05",
+      "rating": 1464.2,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2015-10-24",
+      "fight_id": "4f7da49003510b05",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-10-24",
+  "name": "Ericka Almeida",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ericka-almeida",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

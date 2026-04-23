@@ -1,0 +1,160 @@
+{
+  "current_elo": 1499.5,
+  "divisional_rank": 1006,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jeongyeong Lee",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-05-10",
+      "elo_delta": -17.9,
+      "event_name": "UFC 315: Muhammad vs. Della Maddalena",
+      "fight_id": "80b2da4679eb5f75",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daniel Santos",
+      "opponent_elo": 1519.8,
+      "outcome": "red_win",
+      "post_elo": 1499.5,
+      "pre_elo": 1517.3,
+      "red_name": "Daniel Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Hyder Amil",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -17.6,
+      "event_name": "UFC Fight Night: Lemos vs. Jandiroba",
+      "fight_id": "3f84f71331c4ed38",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Hyder Amil",
+      "opponent_elo": 1568.6,
+      "outcome": "blue_win",
+      "post_elo": 1517.3,
+      "pre_elo": 1534.9,
+      "red_name": "Jeongyeong Lee",
+      "round": "1.0",
+      "time": "1:05",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Blake Bilder",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-02-03",
+      "elo_delta": 16.9,
+      "event_name": "UFC Fight Night: Dolidze vs. Imavov",
+      "fight_id": "4d95c2c35b217a90",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Blake Bilder",
+      "opponent_elo": 1496.8,
+      "outcome": "red_win",
+      "post_elo": 1534.9,
+      "pre_elo": 1518.0,
+      "red_name": "Jeongyeong Lee",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Yizha",
+      "bout_type": "Road To UFC 1 Featherweight Tournament Title Bout",
+      "date": "2023-02-04",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Lewis vs. Spivac",
+      "fight_id": "09904efa4777ae0e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Yizha",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jeongyeong Lee",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-04",
+      "fight_id": "09904efa4777ae0e",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "09904efa4777ae0e",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "4d95c2c35b217a90",
+      "rating": 1534.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "4d95c2c35b217a90",
+      "rating": 1531.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "3f84f71331c4ed38",
+      "rating": 1517.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "3f84f71331c4ed38",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-10",
+      "fight_id": "80b2da4679eb5f75",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-05-10",
+      "fight_id": "80b2da4679eb5f75",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-10",
+  "name": "Jeongyeong Lee",
+  "nickname": "",
+  "overall_elo": 1499.5,
+  "peak_elo": 1534.9,
+  "slug": "jeongyeong-lee",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

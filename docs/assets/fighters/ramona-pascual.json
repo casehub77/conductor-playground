@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 128,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ramona Pascual",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2022-11-05",
+      "elo_delta": -16.7,
+      "event_name": "UFC Fight Night: Rodriguez vs. Lemos",
+      "fight_id": "43c93615a02d24fe",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tamires Vidal",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1452.2,
+      "pre_elo": 1468.9,
+      "red_name": "Tamires Vidal",
+      "round": "1.0",
+      "time": "3:06",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Joselyne Edwards",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2022-06-11",
+      "elo_delta": -17.9,
+      "event_name": "UFC 275: Teixeira vs. Prochazka",
+      "fight_id": "3bc519a3d8f4813a",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Joselyne Edwards",
+      "opponent_elo": 1484.6,
+      "outcome": "blue_win",
+      "post_elo": 1465.1,
+      "pre_elo": 1483.0,
+      "red_name": "Ramona Pascual",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ramona Pascual",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2022-02-26",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Makhachev vs. Green",
+      "fight_id": "bfbe20b263dc0697",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Josiane Nunes",
+      "opponent_elo": 1518.8,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Josiane Nunes",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-02-26",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-02-26",
+      "fight_id": "bfbe20b263dc0697",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "bfbe20b263dc0697",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-06-11",
+      "fight_id": "3bc519a3d8f4813a",
+      "rating": 1465.1,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2022-06-11",
+      "fight_id": "3bc519a3d8f4813a",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-11-05",
+      "fight_id": "43c93615a02d24fe",
+      "rating": 1452.2,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2022-11-05",
+      "fight_id": "43c93615a02d24fe",
+      "rating": 1453.9,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-05",
+  "name": "Ramona Pascual",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ramona-pascual",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

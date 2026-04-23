@@ -1,0 +1,58 @@
+{
+  "current_elo": 1499.2,
+  "divisional_rank": 919,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Maurice Morris",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-01-12",
+      "elo_delta": -20.1,
+      "event_name": "LFA 174: Jones vs. Gennrich",
+      "fight_id": "8d66c03cfef60cc0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Wes Schultz",
+      "opponent_elo": 1488.0,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1500.0,
+      "red_name": "Wes Schultz",
+      "round": "1",
+      "time": "1:52",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-01-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-12",
+      "fight_id": "8d66c03cfef60cc0",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "8d66c03cfef60cc0",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-12",
+  "name": "Maurice Morris",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "maurice-morris",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

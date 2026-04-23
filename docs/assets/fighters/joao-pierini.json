@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1011,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Joao Pierini",
+      "bout_type": "Lightweight Bout",
+      "date": "2002-06-22",
+      "elo_delta": -21.3,
+      "event_name": "UFC 37.5: As Real As It Gets",
+      "fight_id": "06b3dc05ab048cea",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yves Edwards",
+      "opponent_elo": 1466.1,
+      "outcome": "red_win",
+      "post_elo": 1478.7,
+      "pre_elo": 1500.0,
+      "red_name": "Yves Edwards",
+      "round": "1.0",
+      "time": "1:19",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2002-06-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-06-22",
+      "fight_id": "06b3dc05ab048cea",
+      "rating": 1478.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2002-06-22",
+      "fight_id": "06b3dc05ab048cea",
+      "rating": 1481.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-06-22",
+  "name": "Joao Pierini",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "joao-pierini",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 314,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Arash Mardani",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-05-12",
+      "elo_delta": -21.5,
+      "event_name": "ONE Friday Fights 16: ET vs. Kongthoranee",
+      "fight_id": "3b62e1e9aa38c288",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Magomedmurad Khasaev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1515.0,
+      "pre_elo": 1536.4,
+      "red_name": "Magomedmurad Khasaev",
+      "round": "1",
+      "time": "4:25",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Mamurjon Khamidov",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-03-03",
+      "elo_delta": 17.0,
+      "event_name": "ONE Friday Fights 7: Rambolek vs. Theeradet",
+      "fight_id": "2779bede1246779c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Mamurjon Khamidov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Arash Mardani",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Harry Grech",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-01-27",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 2: Sangmanee vs. Kulabdam 2",
+      "fight_id": "01c9723a06aeb0dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ (inactivity)",
+      "opponent": "Harry Grech",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Arash Mardani",
+      "round": "3",
+      "time": "3:20",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-01-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-27",
+      "fight_id": "01c9723a06aeb0dc",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-01-27",
+      "fight_id": "01c9723a06aeb0dc",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-03",
+      "fight_id": "2779bede1246779c",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-03-03",
+      "fight_id": "2779bede1246779c",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "3b62e1e9aa38c288",
+      "rating": 1515.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "3b62e1e9aa38c288",
+      "rating": 1513.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-12",
+  "name": "Arash Mardani",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "arash-mardani",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

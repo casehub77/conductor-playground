@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 489,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Gerald Meerschaert",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-04-17",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Whittaker vs. Gastelum",
+      "fight_id": "5b64ddc1b447a556",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gerald Meerschaert",
+      "opponent_elo": 1497.6,
+      "outcome": "blue_win",
+      "post_elo": 1479.1,
+      "pre_elo": 1498.6,
+      "red_name": "Bartosz Fabinski",
+      "round": "1.0",
+      "time": "2:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Bartosz Fabinski",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-09-05",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Overeem vs. Sakai",
+      "fight_id": "b69e24af18173d20",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Andre Muniz",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1498.6,
+      "pre_elo": 1518.0,
+      "red_name": "Andre Muniz",
+      "round": "1.0",
+      "time": "2:42",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Bartosz Fabinski",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-11-17",
+      "elo_delta": -22.0,
+      "event_name": "UFC Fight Night: Magny vs. Ponzinibbio",
+      "fight_id": "625e66a580319ee7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Michel Prazeres",
+      "opponent_elo": 1504.4,
+      "outcome": "red_win",
+      "post_elo": 1528.7,
+      "pre_elo": 1550.7,
+      "red_name": "Michel Prazeres",
+      "round": "1.0",
+      "time": "1:02",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Bartosz Fabinski",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-07-22",
+      "elo_delta": 16.6,
+      "event_name": "UFC Fight Night: Shogun vs. Smith",
+      "fight_id": "009a8b75f3340733",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Emil Meek",
+      "opponent_elo": 1506.9,
+      "outcome": "blue_win",
+      "post_elo": 1550.7,
+      "pre_elo": 1534.1,
+      "red_name": "Emil Meek",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Bartosz Fabinski",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-11-21",
+      "elo_delta": 18.1,
+      "event_name": "UFC Fight Night: Magny vs Gastelum",
+      "fight_id": "790c72010125a4ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Hector Urbina",
+      "opponent_elo": 1518.4,
+      "outcome": "blue_win",
+      "post_elo": 1534.1,
+      "pre_elo": 1516.0,
+      "red_name": "Hector Urbina",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Garreth Mclellan",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-04-11",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Gonzaga vs Cro Cop 2",
+      "fight_id": "a0b15b01050bd428",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Garreth Mclellan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Bartosz Fabinski",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2015-04-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-04-11",
+      "fight_id": "a0b15b01050bd428",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "a0b15b01050bd428",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-11-21",
+      "fight_id": "790c72010125a4ae",
+      "rating": 1534.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-11-21",
+      "fight_id": "790c72010125a4ae",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-07-22",
+      "fight_id": "009a8b75f3340733",
+      "rating": 1550.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-07-22",
+      "fight_id": "009a8b75f3340733",
+      "rating": 1546.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-11-17",
+      "fight_id": "625e66a580319ee7",
+      "rating": 1528.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-11-17",
+      "fight_id": "625e66a580319ee7",
+      "rating": 1532.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-09-05",
+      "fight_id": "b69e24af18173d20",
+      "rating": 1498.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-09-05",
+      "fight_id": "b69e24af18173d20",
+      "rating": 1514.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-17",
+      "fight_id": "5b64ddc1b447a556",
+      "rating": 1479.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-04-17",
+      "fight_id": "5b64ddc1b447a556",
+      "rating": 1496.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-04-17",
+  "name": "Bartosz Fabinski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1550.7,
+  "slug": "bartosz-fabinski",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

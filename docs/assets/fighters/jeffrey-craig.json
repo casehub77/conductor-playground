@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 384,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Orlando Sanders",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": 18.5,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "c07be10334b50855",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Orlando Sanders",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Jeffrey Craig",
+      "round": "1",
+      "time": "4:51",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-11-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-05",
+      "fight_id": "c384b8e746ace4b5",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "c07be10334b50855",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "c07be10334b50855",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-29",
+  "name": "Jeffrey Craig",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.5,
+  "slug": "jeffrey-craig",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

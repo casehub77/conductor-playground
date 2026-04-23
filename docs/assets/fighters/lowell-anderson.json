@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 764,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Lowell Anderson",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": -19.4,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "70095ca674abe852",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "John Lewis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "John Lewis",
+      "round": "3.0",
+      "time": "0:13",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "1999-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-09-24",
+      "fight_id": "70095ca674abe852",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "70095ca674abe852",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-09-24",
+  "name": "Lowell Anderson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "lowell-anderson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

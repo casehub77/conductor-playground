@@ -1,0 +1,92 @@
+{
+  "current_elo": 1470.8,
+  "divisional_rank": 1197,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Greg Fischer",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-18",
+      "elo_delta": -13.2,
+      "event_name": "LFA 207: Lewis vs. Miranda",
+      "fight_id": "0fac6bf7e0c534e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Mitchell McKee",
+      "opponent_elo": 1579.1,
+      "outcome": "red_win",
+      "post_elo": 1470.8,
+      "pre_elo": 1484.0,
+      "red_name": "Mitchell McKee",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Greg Fischer",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-07-30",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 113: Lewis vs. Petersen",
+      "fight_id": "9b87a3dd5b526eef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Ricky Camp",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ricky Camp",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-07-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-30",
+      "fight_id": "9b87a3dd5b526eef",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-07-30",
+      "fight_id": "9b87a3dd5b526eef",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-18",
+      "fight_id": "0fac6bf7e0c534e8",
+      "rating": 1470.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-18",
+      "fight_id": "0fac6bf7e0c534e8",
+      "rating": 1472.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-18",
+  "name": "Greg Fischer",
+  "nickname": "",
+  "overall_elo": 1472.3,
+  "peak_elo": 1500.0,
+  "slug": "greg-fischer",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

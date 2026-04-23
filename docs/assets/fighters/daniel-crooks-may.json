@@ -1,0 +1,92 @@
+{
+  "current_elo": 1517.1,
+  "divisional_rank": 219,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Cameron Stewart",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-03-21",
+      "elo_delta": 17.1,
+      "event_name": "Cage Warriors 186: London",
+      "fight_id": "535c825563cd7328",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Cameron Stewart",
+      "opponent_elo": 1482.9,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Crooks-May",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jordan Little",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": 0.0,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "f1aa362c3b01260e",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (illegal knee)",
+      "opponent": "Jordan Little",
+      "opponent_elo": 1518.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Crooks-May",
+      "round": "2",
+      "time": "4:04",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-07-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-20",
+      "fight_id": "f1aa362c3b01260e",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "f1aa362c3b01260e",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "535c825563cd7328",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "535c825563cd7328",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-21",
+  "name": "Daniel Crooks-May",
+  "nickname": "",
+  "overall_elo": 1515.3,
+  "peak_elo": 1517.1,
+  "slug": "daniel-crooks-may",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

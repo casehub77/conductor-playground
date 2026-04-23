@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 517,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Miguel Firmino",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-09-30",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 143: Lopes vs. Paiva",
+      "fight_id": "90c8bfb6e0e887e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Vitor Costa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Vitor Costa",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-09-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-30",
+      "fight_id": "90c8bfb6e0e887e6",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-09-30",
+      "fight_id": "90c8bfb6e0e887e6",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-30",
+  "name": "Miguel Firmino",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "miguel-firmino",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

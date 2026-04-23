@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 55,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nanaka Kawamura",
+      "bout_type": "Super Atomweight 49 kg Bout",
+      "date": "2018-12-31",
+      "elo_delta": 19.4,
+      "event_name": "Rizin - Heisei's Last Yarennoka!",
+      "fight_id": "1b01ba063d10ba4d",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Nanaka Kawamura",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ai",
+      "round": "1",
+      "time": "3:01",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2018-12-31",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2018-12-31",
+      "fight_id": "1b01ba063d10ba4d",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "1b01ba063d10ba4d",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-12-31",
+  "name": "Ai",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "ai",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

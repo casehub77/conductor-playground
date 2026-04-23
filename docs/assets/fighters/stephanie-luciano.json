@@ -1,0 +1,160 @@
+{
+  "current_elo": 1533.9,
+  "divisional_rank": 36,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ravena Oliveira",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": 17.7,
+      "event_name": "UFC Fight Night: De Ridder vs. Allen",
+      "fight_id": "e6442a97fd8282f5",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ravena Oliveira",
+      "opponent_elo": 1484.8,
+      "outcome": "red_win",
+      "post_elo": 1533.9,
+      "pre_elo": 1516.2,
+      "red_name": "Stephanie Luciano",
+      "round": "3.0",
+      "time": "2:50",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Sam Hughes",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": -19.8,
+      "event_name": "UFC Fight Night: Vettori vs. Dolidze 2",
+      "fight_id": "7f45a1feaf6e7f66",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Sam Hughes",
+      "opponent_elo": 1501.9,
+      "outcome": "blue_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1536.0,
+      "red_name": "Stephanie Luciano",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Talita Alencar",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-08-10",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Tybura vs. Spivac 2",
+      "fight_id": "d39562c738c0e61b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Talita Alencar",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1536.0,
+      "pre_elo": 1518.0,
+      "red_name": "Stephanie Luciano",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Michelle Oliveira",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 111: De Sa vs. Bonfim",
+      "fight_id": "bb797ff5052f877b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Michelle Oliveira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Stephanie Luciano",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "bb797ff5052f877b",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "bb797ff5052f877b",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "d39562c738c0e61b",
+      "rating": 1536.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "d39562c738c0e61b",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "7f45a1feaf6e7f66",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "7f45a1feaf6e7f66",
+      "rating": 1514.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "e6442a97fd8282f5",
+      "rating": 1533.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "e6442a97fd8282f5",
+      "rating": 1530.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-18",
+  "name": "Stephanie Luciano",
+  "nickname": "",
+  "overall_elo": 1530.3,
+  "peak_elo": 1536.0,
+  "slug": "stephanie-luciano",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

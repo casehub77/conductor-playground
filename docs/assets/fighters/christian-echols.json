@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 381,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Pat Downey",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-12-09",
+      "elo_delta": 20.5,
+      "event_name": "Bellator 289: Stots vs. Sabatello",
+      "fight_id": "62fd880a6ec5f1e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Pat Downey",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Christian Echols",
+      "round": "1",
+      "time": "2:27",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-12-09",
+      "fight_id": "62fd880a6ec5f1e0",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "62fd880a6ec5f1e0",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-09",
+  "name": "Christian Echols",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.5,
+  "slug": "christian-echols",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

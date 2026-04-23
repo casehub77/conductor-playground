@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 341,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Drew Dimanlig",
+      "bout_type": "Catchweight (194 lb) Bout",
+      "date": "2006-12-08",
+      "elo_delta": 16.1,
+      "event_name": "Strikeforce: Triple Threat",
+      "fight_id": "653c8d4796e08df9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Drew Dimanlig",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1535.5,
+      "pre_elo": 1519.4,
+      "red_name": "Scott Graham",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Scott Graham",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-06-09",
+      "elo_delta": -20.4,
+      "event_name": "Strikeforce: Revenge",
+      "fight_id": "03aec5a08bda46ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Jared Hamman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Jared Hamman",
+      "round": "2",
+      "time": "1:36",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Chris Yee",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-03-10",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Shamrock vs. Gracie",
+      "fight_id": "c67c93a979d2c461",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Chris Yee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Scott Graham",
+      "round": "2",
+      "time": "2:37",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-10",
+      "fight_id": "c67c93a979d2c461",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-03-10",
+      "fight_id": "c67c93a979d2c461",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-06-09",
+      "fight_id": "03aec5a08bda46ed",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-06-09",
+      "fight_id": "03aec5a08bda46ed",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "653c8d4796e08df9",
+      "rating": 1535.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "653c8d4796e08df9",
+      "rating": 1514.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-12-08",
+  "name": "Scott Graham",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.5,
+  "slug": "scott-graham",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

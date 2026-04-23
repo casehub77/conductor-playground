@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 156,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Alex Polizzi",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": -17.5,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "7107550380840a86",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Karl Moore",
+      "opponent_elo": 1540.1,
+      "outcome": "red_win",
+      "post_elo": 1513.3,
+      "pre_elo": 1530.9,
+      "red_name": "Karl Moore",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Alex Polizzi",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": -24.2,
+      "event_name": "Bellator 280: Bader vs. Kongo 2",
+      "fight_id": "3ec704a490642a88",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Yoel Romero",
+      "opponent_elo": 1468.0,
+      "outcome": "red_win",
+      "post_elo": 1530.9,
+      "pre_elo": 1555.1,
+      "red_name": "Yoel Romero",
+      "round": "3",
+      "time": "4:59",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "José Augusto Azevedo",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-03-12",
+      "elo_delta": 17.6,
+      "event_name": "Bellator 276: Borics vs. Burnell",
+      "fight_id": "dfb74ca65e77ede1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "José Augusto Azevedo",
+      "opponent_elo": 1505.1,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.4,
+      "red_name": "Alex Polizzi",
+      "round": "3",
+      "time": "0:49",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Grant Neal",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "3fa3e86d59aeead2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Grant Neal",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1537.4,
+      "pre_elo": 1519.4,
+      "red_name": "Alex Polizzi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Gustavo Trujillo",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-06-11",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 260: Lima vs. Amosov",
+      "fight_id": "26ddc3ed7a9d1403",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (straight armbar)",
+      "opponent": "Gustavo Trujillo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Alex Polizzi",
+      "round": "1",
+      "time": "4:22",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-06-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-11",
+      "fight_id": "26ddc3ed7a9d1403",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-06-11",
+      "fight_id": "26ddc3ed7a9d1403",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "3fa3e86d59aeead2",
+      "rating": 1537.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "3fa3e86d59aeead2",
+      "rating": 1533.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "dfb74ca65e77ede1",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "dfb74ca65e77ede1",
+      "rating": 1549.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "3ec704a490642a88",
+      "rating": 1530.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "3ec704a490642a88",
+      "rating": 1532.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "7107550380840a86",
+      "rating": 1513.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "7107550380840a86",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-16",
+  "name": "Alex Polizzi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1555.1,
+  "slug": "alex-polizzi",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 747,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jason Witt",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-10-31",
+      "elo_delta": -19.7,
+      "event_name": "UFC Fight Night: Hall vs. Silva",
+      "fight_id": "5b6d21a88c0b2cdd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jason Witt",
+      "opponent_elo": 1480.8,
+      "outcome": "blue_win",
+      "post_elo": 1465.0,
+      "pre_elo": 1484.7,
+      "red_name": "Cole Williams",
+      "round": "2.0",
+      "time": "2:09",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Cole Williams",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-08-03",
+      "elo_delta": -15.3,
+      "event_name": "UFC Fight Night: Covington vs. Lawler",
+      "fight_id": "a42e2c04463187f8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Claudio Silva",
+      "opponent_elo": 1574.5,
+      "outcome": "red_win",
+      "post_elo": 1484.7,
+      "pre_elo": 1500.0,
+      "red_name": "Claudio Silva",
+      "round": "1.0",
+      "time": "2:35",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2019-08-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-08-03",
+      "fight_id": "a42e2c04463187f8",
+      "rating": 1484.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-08-03",
+      "fight_id": "a42e2c04463187f8",
+      "rating": 1486.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-31",
+      "fight_id": "5b6d21a88c0b2cdd",
+      "rating": 1465.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-10-31",
+      "fight_id": "5b6d21a88c0b2cdd",
+      "rating": 1468.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-10-31",
+  "name": "Cole Williams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "cole-williams",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

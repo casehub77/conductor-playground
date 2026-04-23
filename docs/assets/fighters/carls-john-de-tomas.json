@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 877,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alex Perez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2017-12-09",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Swanson vs. Ortega",
+      "fight_id": "8af81ae997b9ced1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Alex Perez",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1465.5,
+      "pre_elo": 1484.0,
+      "red_name": "Carls John De Tomas",
+      "round": "2.0",
+      "time": "1:54",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Carls John De Tomas",
+      "bout_type": "Flyweight Bout",
+      "date": "2017-06-17",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Holm vs. Correia",
+      "fight_id": "0c4043db670d4b51",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Naoki Inoue",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Naoki Inoue",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2017-06-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-06-17",
+      "fight_id": "0c4043db670d4b51",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2017-06-17",
+      "fight_id": "0c4043db670d4b51",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-12-09",
+      "fight_id": "8af81ae997b9ced1",
+      "rating": 1465.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-12-09",
+      "fight_id": "8af81ae997b9ced1",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-12-09",
+  "name": "Carls John De Tomas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "carls-john-de-tomas",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.6,
+  "divisional_rank": 1116,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yohan Salvador",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -17.0,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "de3052379861588c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Pietro Mochetti",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Pietro Mochetti",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Yohan Salvador",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 169: London",
+      "fight_id": "89ba43e68f1cb3f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Jimmy Quinn",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jimmy Quinn",
+      "round": "2",
+      "time": "0:57",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "89ba43e68f1cb3f1",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "89ba43e68f1cb3f1",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "de3052379861588c",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "de3052379861588c",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-08",
+  "name": "Yohan Salvador",
+  "nickname": "",
+  "overall_elo": 1467.5,
+  "peak_elo": 1500.0,
+  "slug": "yohan-salvador",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

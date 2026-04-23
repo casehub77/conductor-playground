@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 608,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jae Hoon Moon",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2018-12-31",
+      "elo_delta": -15.6,
+      "event_name": "Rizin - Heisei's Last Yarennoka!",
+      "fight_id": "673b2ebe9803bf70",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kai Asakura",
+      "opponent_elo": 1546.9,
+      "outcome": "red_win",
+      "post_elo": 1485.2,
+      "pre_elo": 1500.8,
+      "red_name": "Kai Asakura",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Anthony Birchak",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2017-12-29",
+      "elo_delta": 18.8,
+      "event_name": "Rizin World Grand Prix 2017: 2nd round",
+      "fight_id": "46c8cb084f6d917b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Anthony Birchak",
+      "opponent_elo": 1498.1,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1482.0,
+      "red_name": "Jae Hoon Moon",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jae Hoon Moon",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2017-10-15",
+      "elo_delta": -18.0,
+      "event_name": "Rizin Fighting World Grand Prix 2017: opening round - Aki no Jin",
+      "fight_id": "1eeb2ebb0e05a04f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Kevin Petshi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kevin Petshi",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2017-10-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-10-15",
+      "fight_id": "1eeb2ebb0e05a04f",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-10-15",
+      "fight_id": "1eeb2ebb0e05a04f",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-12-29",
+      "fight_id": "46c8cb084f6d917b",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-12-29",
+      "fight_id": "46c8cb084f6d917b",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "673b2ebe9803bf70",
+      "rating": 1485.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "673b2ebe9803bf70",
+      "rating": 1486.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-12-31",
+  "name": "Jae Hoon Moon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.8,
+  "slug": "jae-hoon-moon",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

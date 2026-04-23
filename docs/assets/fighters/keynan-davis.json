@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 287,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Walter Saragosa",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-10-27",
+      "elo_delta": 19.4,
+      "event_name": "LFA 170: Talundžić vs. Frunză",
+      "fight_id": "03f0f4d6ae7b2b53",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Walter Saragosa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Keynan Davis",
+      "round": "1",
+      "time": "0:43",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-10-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-27",
+      "fight_id": "03f0f4d6ae7b2b53",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "03f0f4d6ae7b2b53",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-27",
+  "name": "Keynan Davis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "keynan-davis",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

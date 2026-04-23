@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 552,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chris Lytle",
+      "bout_type": "Welterweight Bout",
+      "date": "2000-11-17",
+      "elo_delta": 18.0,
+      "event_name": "UFC 28: High Stakes",
+      "fight_id": "db174f19a1bb8365",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chris Lytle",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ben Earwood",
+      "round": "2.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2000-11-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-11-17",
+      "fight_id": "db174f19a1bb8365",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2000-11-17",
+      "fight_id": "db174f19a1bb8365",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-11-17",
+  "name": "Ben Earwood",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "ben-earwood",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

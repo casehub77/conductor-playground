@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 896,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Royce Alger",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-07-16",
+      "elo_delta": -18.5,
+      "event_name": "UFC 21: Return of the Champions",
+      "fight_id": "9a4ff8f7917d930f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eugene Jackson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.2,
+      "pre_elo": 1482.7,
+      "red_name": "Eugene Jackson",
+      "round": "2.0",
+      "time": "1:19",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Royce Alger",
+      "bout_type": "Lightweight Bout",
+      "date": "1997-05-30",
+      "elo_delta": -19.4,
+      "event_name": "UFC 13: The Ultimate Force",
+      "fight_id": "7f3010fffc0980a6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Enson Inoue",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Enson Inoue",
+      "round": "1.0",
+      "time": "1:36",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "1997-05-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-05-30",
+      "fight_id": "7f3010fffc0980a6",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1997-05-30",
+      "fight_id": "7f3010fffc0980a6",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "9a4ff8f7917d930f",
+      "rating": 1464.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "9a4ff8f7917d930f",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-07-16",
+  "name": "Royce Alger",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "royce-alger",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 919,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Theodore Macuka",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "dc77284693423a21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Isaiah Hokit",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1481.6,
+      "red_name": "Isaiah Hokit",
+      "round": "1",
+      "time": "3:57",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Theodore Macuka",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "98ceec95e3d3acd5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Cody Law",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Cody Law",
+      "round": "1",
+      "time": "1:54",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "98ceec95e3d3acd5",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "98ceec95e3d3acd5",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "dc77284693423a21",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "dc77284693423a21",
+      "rating": 1466.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-19",
+  "name": "Theodore Macuka",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "theodore-macuka",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

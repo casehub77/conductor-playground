@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 898,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tomasz Jakubiec",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2022-03-19",
+      "elo_delta": -17.0,
+      "event_name": "KSW 68: Parnasse vs. Rutkowski",
+      "fight_id": "248fa7b13b1ee905",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Damian Janikowski",
+      "opponent_elo": 1526.1,
+      "outcome": "red_win",
+      "post_elo": 1465.7,
+      "pre_elo": 1482.7,
+      "red_name": "Damian Janikowski",
+      "round": "1",
+      "time": "3:42",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tomasz Jakubiec",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2020-07-11",
+      "elo_delta": -19.4,
+      "event_name": "KSW 53: Reborn",
+      "fight_id": "da442c15f4dfe332",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Andrzej Grzebyk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Andrzej Grzebyk",
+      "round": "2",
+      "time": "0:15",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2020-07-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-07-11",
+      "fight_id": "da442c15f4dfe332",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-07-11",
+      "fight_id": "da442c15f4dfe332",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-19",
+      "fight_id": "248fa7b13b1ee905",
+      "rating": 1465.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-03-19",
+      "fight_id": "248fa7b13b1ee905",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-03-19",
+  "name": "Tomasz Jakubiec",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tomasz-jakubiec",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

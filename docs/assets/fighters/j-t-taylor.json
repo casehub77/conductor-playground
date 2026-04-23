@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 915,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Drew Dimanlig",
+      "bout_type": "Catchweight (178 lbs) Bout",
+      "date": "2006-07-28",
+      "elo_delta": 19.3,
+      "event_name": "WEC 22: The Hitman",
+      "fight_id": "29e12f9372612bfe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Drew Dimanlig",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1522.3,
+      "pre_elo": 1503.1,
+      "red_name": "J.T. Taylor",
+      "round": "1",
+      "time": "3:47",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "J.T. Taylor",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-10-21",
+      "elo_delta": -19.4,
+      "event_name": "WEC 12: Halloween Fury 3",
+      "fight_id": "2750125ba7fe5979",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Forearm Choke)",
+      "opponent": "Chris Lytle",
+      "opponent_elo": 1503.0,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1502.5,
+      "red_name": "Chris Lytle",
+      "round": "1",
+      "time": "2:53",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "J.T. Taylor",
+      "bout_type": "Welterweight Bout",
+      "date": "2003-10-17",
+      "elo_delta": -16.4,
+      "event_name": "WEC 8: Halloween Fury 2",
+      "fight_id": "c87f081af1eed2e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Shonie Carter",
+      "opponent_elo": 1551.1,
+      "outcome": "red_win",
+      "post_elo": 1503.1,
+      "pre_elo": 1519.4,
+      "red_name": "Shonie Carter",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ryan Schultz",
+      "bout_type": "Welterweight Bout",
+      "date": "2003-08-09",
+      "elo_delta": 19.4,
+      "event_name": "WEC 7 – This Time It's Personal",
+      "fight_id": "38fac5535096f98e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Ryan Schultz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "J.T. Taylor",
+      "round": "2",
+      "time": "1:56",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2003-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-08-09",
+      "fight_id": "38fac5535096f98e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2003-08-09",
+      "fight_id": "38fac5535096f98e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-10-17",
+      "fight_id": "c87f081af1eed2e8",
+      "rating": 1503.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2003-10-17",
+      "fight_id": "c87f081af1eed2e8",
+      "rating": 1502.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-10-21",
+      "fight_id": "2750125ba7fe5979",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-10-21",
+      "fight_id": "2750125ba7fe5979",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-07-28",
+      "fight_id": "29e12f9372612bfe",
+      "rating": 1522.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2006-07-28",
+      "fight_id": "29e12f9372612bfe",
+      "rating": 1503.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-07-28",
+  "name": "J.T. Taylor",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.3,
+  "slug": "j-t-taylor",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

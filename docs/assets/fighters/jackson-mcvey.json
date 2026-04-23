@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.0,
+  "divisional_rank": 1011,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jackson Mcvey",
+      "bout_type": "Catch Weight Bout",
+      "date": "2025-11-08",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Bonfim vs. Brown",
+      "fight_id": "a1a8e26f14eeefe5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Zach Reese",
+      "opponent_elo": 1514.6,
+      "outcome": "red_win",
+      "post_elo": 1465.0,
+      "pre_elo": 1482.6,
+      "red_name": "Zach Reese",
+      "round": "2.0",
+      "time": "1:38",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jackson Mcvey",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": -17.4,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "ff384313926680e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brunno Ferreira",
+      "opponent_elo": 1536.9,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Brunno Ferreira",
+      "round": "1.0",
+      "time": "3:35",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-07-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-07-19",
+      "fight_id": "ff384313926680e4",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "ff384313926680e4",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "a1a8e26f14eeefe5",
+      "rating": 1465.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "a1a8e26f14eeefe5",
+      "rating": 1468.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-08",
+  "name": "Jackson Mcvey",
+  "nickname": "",
+  "overall_elo": 1468.5,
+  "peak_elo": 1500.0,
+  "slug": "jackson-mcvey",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

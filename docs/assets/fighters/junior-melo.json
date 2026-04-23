@@ -1,0 +1,160 @@
+{
+  "current_elo": 1496.7,
+  "divisional_rank": 1312,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Junior Melo",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-04-17",
+      "elo_delta": -18.4,
+      "event_name": "LFA 231: Lozej vs. Ibarra",
+      "fight_id": "4a4a57656ec13c39",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Nikita Kulshin",
+      "opponent_elo": 1533.3,
+      "outcome": "red_win",
+      "post_elo": 1496.7,
+      "pre_elo": 1515.1,
+      "red_name": "Nikita Kulshin",
+      "round": "1",
+      "time": "0:36",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Junior Melo",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": -21.5,
+      "event_name": "Legacy Fighting Alliance 147: Melo vs. Costa",
+      "fight_id": "347f9af9480c8215",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Melquizael Costa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1515.1,
+      "pre_elo": 1536.6,
+      "red_name": "Melquizael Costa",
+      "round": "3",
+      "time": "2:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Adam Assenza",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-08-19",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 139: Assenza vs. Melo",
+      "fight_id": "5988339c637e476c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Adam Assenza",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.6,
+      "pre_elo": 1518.1,
+      "red_name": "Junior Melo",
+      "round": "3",
+      "time": "0:59",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tommy Aaron",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-03-25",
+      "elo_delta": 20.4,
+      "event_name": "Legacy Fighting Alliance 127: Diaz vs. Assis",
+      "fight_id": "6a08ffdc9f154263",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Tommy Aaron",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Junior Melo",
+      "round": "1",
+      "time": "1:37",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-25",
+      "fight_id": "6a08ffdc9f154263",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "6a08ffdc9f154263",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "5988339c637e476c",
+      "rating": 1536.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "5988339c637e476c",
+      "rating": 1534.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "347f9af9480c8215",
+      "rating": 1515.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "347f9af9480c8215",
+      "rating": 1515.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "4a4a57656ec13c39",
+      "rating": 1496.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "4a4a57656ec13c39",
+      "rating": 1499.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-17",
+  "name": "Junior Melo",
+  "nickname": "",
+  "overall_elo": 1499.0,
+  "peak_elo": 1536.6,
+  "slug": "junior-melo",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

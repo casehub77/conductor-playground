@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.6,
+  "divisional_rank": 208,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sam Creasey",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-02-22",
+      "elo_delta": -17.3,
+      "event_name": "Oktagon 67: Creasey vs. Adamia",
+      "fight_id": "ec3c28f117aafc39",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (48–47, 47–48, 48–47)",
+      "opponent": "Beno Adamia",
+      "opponent_elo": 1531.9,
+      "outcome": "red_win",
+      "post_elo": 1500.6,
+      "pre_elo": 1517.9,
+      "red_name": "Beno Adamia",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Aaron Aby",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": 17.9,
+      "event_name": "Oktagon 56: Aby vs. Creasey",
+      "fight_id": "8db60f84947dcff0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (50–45, 50–45, 50–45)",
+      "opponent": "Aaron Aby",
+      "opponent_elo": 1497.5,
+      "outcome": "red_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1500.0,
+      "red_name": "Sam Creasey",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "8db60f84947dcff0",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "8db60f84947dcff0",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "ec3c28f117aafc39",
+      "rating": 1500.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "ec3c28f117aafc39",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-22",
+  "name": "Sam Creasey",
+  "nickname": "",
+  "overall_elo": 1500.5,
+  "peak_elo": 1517.9,
+  "slug": "sam-creasey",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

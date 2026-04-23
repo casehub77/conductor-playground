@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 303,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mike Bruno",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-08-23",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors: USA Unleashed",
+      "fight_id": "ffb4e99e479779b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Mike Bruno",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Bruce Connors",
+      "round": "1",
+      "time": "0:51",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Chino Duran",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-03-29",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors: USA Battle Royale",
+      "fight_id": "9a4ef5e45f1ca26b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Chino Duran",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bruce Connors",
+      "round": "1",
+      "time": "1:54",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-29",
+      "fight_id": "9a4ef5e45f1ca26b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-03-29",
+      "fight_id": "9a4ef5e45f1ca26b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-08-23",
+      "fight_id": "ffb4e99e479779b6",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-08-23",
+      "fight_id": "ffb4e99e479779b6",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-08-23",
+  "name": "Bruce Connors",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "bruce-connors",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

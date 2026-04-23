@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 792,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Naritoshi Kakuta",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-06-05",
+      "elo_delta": -19.4,
+      "event_name": "Shooto: Gig West 13",
+      "fight_id": "9e21df51da76316b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Teruto Ishihara",
+      "opponent_elo": 1518.8,
+      "outcome": "red_win",
+      "post_elo": 1498.6,
+      "pre_elo": 1518.0,
+      "red_name": "Teruto Ishihara",
+      "round": "1",
+      "time": "4:56",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yuki Kosaka",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-12-26",
+      "elo_delta": 18.0,
+      "event_name": "Shooto: Border: Season 2: Immovable",
+      "fight_id": "85e68c8408b2a517",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Yuki Kosaka",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Naritoshi Kakuta",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-12-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-12-26",
+      "fight_id": "85e68c8408b2a517",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-12-26",
+      "fight_id": "85e68c8408b2a517",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-05",
+      "fight_id": "9e21df51da76316b",
+      "rating": 1498.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-06-05",
+      "fight_id": "9e21df51da76316b",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-06-05",
+  "name": "Naritoshi Kakuta",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "naritoshi-kakuta",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

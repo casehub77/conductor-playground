@@ -1,0 +1,126 @@
+{
+  "current_elo": 1465.2,
+  "divisional_rank": 1207,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Leon Aliu",
+      "bout_type": "Catchweight (161 lb) Bout",
+      "date": "2026-03-13",
+      "elo_delta": -25.9,
+      "event_name": "Cage Warriors 201: Unplugged",
+      "fight_id": "6880fb7b11b5030e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Konstantinos Ntelis",
+      "opponent_elo": 1519.1,
+      "outcome": "red_win",
+      "post_elo": 1454.6,
+      "pre_elo": 1480.6,
+      "red_name": "Konstantinos Ntelis",
+      "round": "1",
+      "time": "1:08",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Leon Aliu",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -17.5,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "c68eca25fccdb8f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (retirement)",
+      "opponent": "Khadim Dia",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1482.7,
+      "red_name": "Khadim Dia",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Leon Aliu",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 169: London",
+      "fight_id": "6c5631f8ebf90656",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (retirement)",
+      "opponent": "Will Currie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Will Currie",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "6c5631f8ebf90656",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "6c5631f8ebf90656",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "c68eca25fccdb8f2",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "c68eca25fccdb8f2",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "6880fb7b11b5030e",
+      "rating": 1454.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "6880fb7b11b5030e",
+      "rating": 1444.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Leon Aliu",
+  "nickname": "",
+  "overall_elo": 1444.9,
+  "peak_elo": 1500.0,
+  "slug": "leon-aliu",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

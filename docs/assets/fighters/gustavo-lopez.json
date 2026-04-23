@@ -1,0 +1,201 @@
+{
+  "current_elo": 1477.9,
+  "divisional_rank": 1076,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Gustavo Lopez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": -16.4,
+      "event_name": "Oktagon 47: Vémola vs. Langer",
+      "fight_id": "cf3d4e30706d9305",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Beno Adamia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1452.0,
+      "pre_elo": 1468.4,
+      "red_name": "Beno Adamia",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Gustavo Lopez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-04-15",
+      "elo_delta": -18.7,
+      "event_name": "Oktagon 41: Mågård vs. Lopez",
+      "fight_id": "cfefea803b57d93b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jonas Mågård",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1468.4,
+      "pre_elo": 1487.1,
+      "red_name": "Jonas Mågård",
+      "round": "2",
+      "time": "0:31",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Alatengheili",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 1.7,
+      "event_name": "UFC Fight Night: Smith vs. Spann",
+      "fight_id": "40bd14c15429187c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alatengheili",
+      "opponent_elo": 1517.6,
+      "outcome": "draw",
+      "post_elo": 1487.1,
+      "pre_elo": 1485.4,
+      "red_name": "Gustavo Lopez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Gustavo Lopez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-03-20",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Brunson vs. Holland",
+      "fight_id": "5f9188fd649701fe",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Adrian Yanez",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1485.4,
+      "pre_elo": 1504.0,
+      "red_name": "Adrian Yanez",
+      "round": "3.0",
+      "time": "0:27",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Anthony Birchak",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-11-07",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Santos vs. Teixeira",
+      "fight_id": "2897f9d912c8863c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Anthony Birchak",
+      "opponent_elo": 1479.3,
+      "outcome": "red_win",
+      "post_elo": 1504.0,
+      "pre_elo": 1484.9,
+      "red_name": "Gustavo Lopez",
+      "round": "1.0",
+      "time": "2:43",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-06-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-06-13",
+      "fight_id": "592435a8dceacc51",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-11-07",
+      "fight_id": "2897f9d912c8863c",
+      "rating": 1504.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-11-07",
+      "fight_id": "2897f9d912c8863c",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-03-20",
+      "fight_id": "5f9188fd649701fe",
+      "rating": 1485.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-20",
+      "fight_id": "5f9188fd649701fe",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "40bd14c15429187c",
+      "rating": 1487.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "40bd14c15429187c",
+      "rating": 1486.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-15",
+      "fight_id": "cfefea803b57d93b",
+      "rating": 1468.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-04-15",
+      "fight_id": "cfefea803b57d93b",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "cf3d4e30706d9305",
+      "rating": 1452.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "cf3d4e30706d9305",
+      "rating": 1455.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Gustavo Lopez",
+  "nickname": "",
+  "overall_elo": 1481.1,
+  "peak_elo": 1504.0,
+  "slug": "gustavo-lopez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

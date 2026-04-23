@@ -1,0 +1,92 @@
+{
+  "current_elo": 1535.8,
+  "divisional_rank": 121,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Adam Cullen",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": 19.8,
+      "event_name": "Cage Warriors 191: Manchester",
+      "fight_id": "919152a01e0c4adf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Adam Cullen",
+      "opponent_elo": 1521.7,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1516.0,
+      "red_name": "Lukas Cruz",
+      "round": "2",
+      "time": "3:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tayo Odunjo",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 39: Jungwirth vs. Oliveira",
+      "fight_id": "76e5bc556077bc39",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Tayo Odunjo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Lukas Cruz",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "76e5bc556077bc39",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "76e5bc556077bc39",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "919152a01e0c4adf",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "919152a01e0c4adf",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-28",
+  "name": "Lukas Cruz",
+  "nickname": "",
+  "overall_elo": 1533.4,
+  "peak_elo": 1535.8,
+  "slug": "lukas-cruz",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

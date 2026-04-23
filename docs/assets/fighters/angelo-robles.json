@@ -1,0 +1,92 @@
+{
+  "current_elo": 1502.4,
+  "divisional_rank": 273,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dalton Goins",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-06-13",
+      "elo_delta": 20.4,
+      "event_name": "LFA 210: Lawrence vs. Reyes",
+      "fight_id": "137c3979aaba083f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (body kick and punches)",
+      "opponent": "Dalton Goins",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Angelo Robles",
+      "round": "1",
+      "time": "1:01",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Angelo Robles",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-29",
+      "elo_delta": -18.0,
+      "event_name": "LFA 180: Lawrence vs. Ward",
+      "fight_id": "e7f9bc7926c030cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Kibedy Gordon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kibedy Gordon",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-29",
+      "fight_id": "e7f9bc7926c030cc",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "e7f9bc7926c030cc",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-13",
+      "fight_id": "137c3979aaba083f",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-06-13",
+      "fight_id": "137c3979aaba083f",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-13",
+  "name": "Angelo Robles",
+  "nickname": "",
+  "overall_elo": 1502.1,
+  "peak_elo": 1502.4,
+  "slug": "angelo-robles",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

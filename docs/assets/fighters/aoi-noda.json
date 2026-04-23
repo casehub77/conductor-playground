@@ -1,0 +1,65 @@
+{
+  "current_elo": 1466.2,
+  "divisional_rank": 268,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Aoi Noda",
+      "bout_type": "Catchweight 58 kg Bout",
+      "date": "2024-12-31",
+      "elo_delta": -16.6,
+      "event_name": "Rizin 49: Decade",
+      "fight_id": "a97bb8e62f9ff421",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Tatsuki Shinotsuka",
+      "opponent_elo": 1534.5,
+      "outcome": "red_win",
+      "post_elo": 1466.2,
+      "pre_elo": 1482.7,
+      "red_name": "Tatsuki Shinotsuka",
+      "round": "1",
+      "time": "2:04",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-03-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-23",
+      "fight_id": "c895a75e1d1a4bd6",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "a97bb8e62f9ff421",
+      "rating": 1466.2,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "a97bb8e62f9ff421",
+      "rating": 1467.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-31",
+  "name": "Aoi Noda",
+  "nickname": "",
+  "overall_elo": 1467.9,
+  "peak_elo": 1500.0,
+  "slug": "aoi-noda",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

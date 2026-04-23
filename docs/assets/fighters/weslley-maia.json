@@ -1,0 +1,160 @@
+{
+  "current_elo": 1545.3,
+  "divisional_rank": 83,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ollie Sarwa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-03-20",
+      "elo_delta": 20.3,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "23acd811a536d2f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (48–47, 48–47, 48–47)",
+      "opponent": "Ollie Sarwa",
+      "opponent_elo": 1569.9,
+      "outcome": "red_win",
+      "post_elo": 1545.3,
+      "pre_elo": 1525.0,
+      "red_name": "Weslley Maia",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Aidan Stephen",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": 20.7,
+      "event_name": "Cage Warriors 192: London",
+      "fight_id": "be949fa3ae659eef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Aidan Stephen",
+      "opponent_elo": 1526.8,
+      "outcome": "red_win",
+      "post_elo": 1525.0,
+      "pre_elo": 1504.3,
+      "red_name": "Weslley Maia",
+      "round": "1",
+      "time": "4:53",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Alexander Lööf",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-11-15",
+      "elo_delta": 20.4,
+      "event_name": "Cage Warriors 180: London",
+      "fight_id": "be28c99f598ccdc3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Alexander Lööf",
+      "opponent_elo": 1501.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1483.9,
+      "red_name": "Weslley Maia",
+      "round": "1",
+      "time": "4:19",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Weslley Maia",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -16.1,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "5508ebd0ccea067f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Ex. Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Shirzad Qadrian",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
+      "red_name": "Shirzad Qadrian",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-07-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-20",
+      "fight_id": "5508ebd0ccea067f",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "5508ebd0ccea067f",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-15",
+      "fight_id": "be28c99f598ccdc3",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-15",
+      "fight_id": "be28c99f598ccdc3",
+      "rating": 1503.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "be949fa3ae659eef",
+      "rating": 1525.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "be949fa3ae659eef",
+      "rating": 1521.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "23acd811a536d2f4",
+      "rating": 1545.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "23acd811a536d2f4",
+      "rating": 1539.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Weslley Maia",
+  "nickname": "",
+  "overall_elo": 1539.7,
+  "peak_elo": 1545.3,
+  "slug": "weslley-maia",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

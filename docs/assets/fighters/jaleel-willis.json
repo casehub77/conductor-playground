@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 563,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Jaleel Willis",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": -19.1,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "412737e668d4c120",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Ramazan Kuramagomedov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1475.1,
+      "pre_elo": 1494.2,
+      "red_name": "Ramazan Kuramagomedov",
+      "round": "1",
+      "time": "1:24",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kyle Crutchmer",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-12-09",
+      "elo_delta": 21.9,
+      "event_name": "Bellator 289: Stots vs. Sabatello",
+      "fight_id": "608a1bbae9fb67a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Kyle Crutchmer",
+      "opponent_elo": 1549.6,
+      "outcome": "red_win",
+      "post_elo": 1494.2,
+      "pre_elo": 1472.3,
+      "red_name": "Jaleel Willis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jaleel Willis",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-01-29",
+      "elo_delta": -25.3,
+      "event_name": "Bellator 273: Bader vs. Moldavsky",
+      "fight_id": "21fa43790a256171",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Sabah Homasi",
+      "opponent_elo": 1389.8,
+      "outcome": "red_win",
+      "post_elo": 1472.3,
+      "pre_elo": 1497.6,
+      "red_name": "Sabah Homasi",
+      "round": "1",
+      "time": "1:42",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jaleel Willis",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-10-16",
+      "elo_delta": -20.4,
+      "event_name": "Bellator 268: Nemkov vs. Anglickas",
+      "fight_id": "b035a7e225bddff1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Mukhamed Berkhamov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Mukhamed Berkhamov",
+      "round": "1",
+      "time": "4:05",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Maycon Mendonça",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 259: Cyborg vs. Smith 2",
+      "fight_id": "c030c110e0e4122e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29-28, 29-28, 30-27)",
+      "opponent": "Maycon Mendonça",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jaleel Willis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "c030c110e0e4122e",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "c030c110e0e4122e",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "b035a7e225bddff1",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "b035a7e225bddff1",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "21fa43790a256171",
+      "rating": 1472.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "21fa43790a256171",
+      "rating": 1475.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "608a1bbae9fb67a4",
+      "rating": 1494.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "608a1bbae9fb67a4",
+      "rating": 1495.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "412737e668d4c120",
+      "rating": 1475.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "412737e668d4c120",
+      "rating": 1478.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-16",
+  "name": "Jaleel Willis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "jaleel-willis",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

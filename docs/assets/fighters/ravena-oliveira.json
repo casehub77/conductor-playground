@@ -1,0 +1,126 @@
+{
+  "current_elo": 1449.5,
+  "divisional_rank": 301,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ravena Oliveira",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": -17.6,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "d95d7d7e7938ec17",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Shanelle Dyer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1449.5,
+      "pre_elo": 1467.1,
+      "red_name": "Shanelle Dyer",
+      "round": "2.0",
+      "time": "1:17",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Ravena Oliveira",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: De Ridder vs. Allen",
+      "fight_id": "e6442a97fd8282f5",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Stephanie Luciano",
+      "opponent_elo": 1516.2,
+      "outcome": "red_win",
+      "post_elo": 1467.1,
+      "pre_elo": 1484.8,
+      "red_name": "Stephanie Luciano",
+      "round": "3.0",
+      "time": "2:50",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Ravena Oliveira",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2023-10-14",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Yusuff vs. Barboza",
+      "fight_id": "d3657a39f9f88be1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tainara Lisboa",
+      "opponent_elo": 1518.6,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Tainara Lisboa",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-10-14",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-10-14",
+      "fight_id": "d3657a39f9f88be1",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2023-10-14",
+      "fight_id": "d3657a39f9f88be1",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "e6442a97fd8282f5",
+      "rating": 1467.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "e6442a97fd8282f5",
+      "rating": 1469.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "d95d7d7e7938ec17",
+      "rating": 1449.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "d95d7d7e7938ec17",
+      "rating": 1453.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Ravena Oliveira",
+  "nickname": "",
+  "overall_elo": 1453.2,
+  "peak_elo": 1500.0,
+  "slug": "ravena-oliveira",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

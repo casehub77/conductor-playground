@@ -1,0 +1,126 @@
+{
+  "current_elo": 1445.6,
+  "divisional_rank": 705,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Stewart Nicoll",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "8bd275f2103da84d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alessandro Costa",
+      "opponent_elo": 1487.9,
+      "outcome": "red_win",
+      "post_elo": 1445.6,
+      "pre_elo": 1463.7,
+      "red_name": "Alessandro Costa",
+      "round": "2",
+      "time": "4:56",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Stewart Nicoll",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-10-11",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+      "fight_id": "53fd4db25c2361c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lucas Rocha",
+      "opponent_elo": 1483.4,
+      "outcome": "red_win",
+      "post_elo": 1463.7,
+      "pre_elo": 1481.6,
+      "red_name": "Lucas Rocha",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jesus Aguilar",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-08-17",
+      "elo_delta": -18.4,
+      "event_name": "UFC 305: Du Plessis vs. Adesanya",
+      "fight_id": "c08f9696846bb250",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jesus Aguilar",
+      "opponent_elo": 1518.1,
+      "outcome": "blue_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Stewart Nicoll",
+      "round": "1.0",
+      "time": "2:39",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-08-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-17",
+      "fight_id": "c08f9696846bb250",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "c08f9696846bb250",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "53fd4db25c2361c9",
+      "rating": 1463.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "53fd4db25c2361c9",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "8bd275f2103da84d",
+      "rating": 1445.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "8bd275f2103da84d",
+      "rating": 1451.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Stewart Nicoll",
+  "nickname": "",
+  "overall_elo": 1451.3,
+  "peak_elo": 1500.0,
+  "slug": "stewart-nicoll",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

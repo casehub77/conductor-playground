@@ -1,0 +1,92 @@
+{
+  "current_elo": 1544.0,
+  "divisional_rank": 84,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jakub Wiklacz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-02-07",
+      "elo_delta": 20.5,
+      "event_name": "UFC Fight Night: Bautista vs. Oliveira",
+      "fight_id": "ed52e7a4133e8756",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Muin Gafurov",
+      "opponent_elo": 1542.7,
+      "outcome": "blue_win",
+      "post_elo": 1544.0,
+      "pre_elo": 1523.5,
+      "red_name": "Muin Gafurov",
+      "round": "3.0",
+      "time": "4:59",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jakub Wiklacz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": 23.5,
+      "event_name": "UFC 320: Ankalaev vs. Pereira 2",
+      "fight_id": "0efb13c669250edf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Patchy Mix",
+      "opponent_elo": 1609.8,
+      "outcome": "blue_win",
+      "post_elo": 1523.5,
+      "pre_elo": 1500.0,
+      "red_name": "Patchy Mix",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-04",
+      "fight_id": "0efb13c669250edf",
+      "rating": 1523.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "0efb13c669250edf",
+      "rating": 1520.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "ed52e7a4133e8756",
+      "rating": 1544.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "ed52e7a4133e8756",
+      "rating": 1538.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-07",
+  "name": "Jakub Wiklacz",
+  "nickname": "",
+  "overall_elo": 1538.7,
+  "peak_elo": 1544.0,
+  "slug": "jakub-wiklacz",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 125,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Vanessa Porto",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-07-22",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 283: Lima vs. Jackson",
+      "fight_id": "84d87c14bcb58f84",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Veta Arteaga",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.9,
+      "red_name": "Veta Arteaga",
+      "round": "2",
+      "time": "3:47",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ilara Joanne",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-07-31",
+      "elo_delta": 18.9,
+      "event_name": "Bellator 263: Pitbull vs. McKee",
+      "fight_id": "5be6c611da27ce5e",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Ilara Joanne",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1481.9,
+      "red_name": "Vanessa Porto",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Vanessa Porto",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-04-09",
+      "elo_delta": -18.1,
+      "event_name": "Bellator 256: Bader vs. Machida 2",
+      "fight_id": "53089b5cbb07f093",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Liz Carmouche",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Liz Carmouche",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-04-09",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-04-09",
+      "fight_id": "53089b5cbb07f093",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "53089b5cbb07f093",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-07-31",
+      "fight_id": "5be6c611da27ce5e",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-07-31",
+      "fight_id": "5be6c611da27ce5e",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-07-22",
+      "fight_id": "84d87c14bcb58f84",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-07-22",
+      "fight_id": "84d87c14bcb58f84",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-22",
+  "name": "Vanessa Porto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "slug": "vanessa-porto",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

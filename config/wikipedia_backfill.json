@@ -1,0 +1,142 @@
+{
+  "sources": [
+    {
+      "name": "strikeforce",
+      "discovery": "page_links",
+      "list_page": "List of Strikeforce events",
+      "title_patterns": [
+        "^Strikeforce:"
+      ]
+    },
+    {
+      "name": "wec",
+      "discovery": "page_links",
+      "list_page": "List of WEC events",
+      "title_patterns": [
+        "^WEC \\d+"
+      ]
+    },
+    {
+      "name": "pride",
+      "discovery": "page_links",
+      "list_page": "List of Pride FC events",
+      "title_patterns": [
+        "^Pride "
+      ]
+    },
+    {
+      "name": "bellator",
+      "discovery": "page_links",
+      "list_page": "List of Bellator MMA events",
+      "title_patterns": [
+        "^Bellator \\d+"
+      ]
+    },
+    {
+      "name": "pfl",
+      "discovery": "page_links",
+      "list_page": "List of Professional Fighters League events",
+      "title_patterns": [
+        "^20\\d\\d in Professional Fighters League$"
+      ],
+      "parse_mode": "year_page"
+    },
+    {
+      "name": "dream",
+      "discovery": "allpages_prefix",
+      "prefix": "Dream ",
+      "title_patterns": [
+        "^Dream (?:[1-9]|1[0-9])(?:$|:)"
+      ]
+    },
+    {
+      "name": "one",
+      "discovery": "page_links",
+      "list_page": "List of ONE Championship events",
+      "title_patterns": [
+        "^ONE[: ]"
+      ]
+    },
+    {
+      "name": "pancrase",
+      "discovery": "page_links",
+      "list_page": "List of Pancrase events",
+      "title_patterns": [
+        "^Pancrase[: ]"
+      ]
+    },
+    {
+      "name": "shooto",
+      "discovery": "page_links",
+      "list_page": "List of Shooto events",
+      "title_patterns": [
+        "^20\\d\\d in Shooto$"
+      ],
+      "parse_mode": "year_page"
+    },
+    {
+      "name": "road_fc",
+      "discovery": "page_links",
+      "list_page": "List of Road FC events",
+      "title_patterns": [
+        "^20\\d\\d in Road FC$"
+      ],
+      "parse_mode": "year_page"
+    },
+    {
+      "name": "cage_warriors",
+      "discovery": "page_links",
+      "list_page": "Cage Warriors",
+      "title_patterns": [
+        "^20\\d\\d in Cage Warriors$"
+      ],
+      "parse_mode": "year_page"
+    },
+    {
+      "name": "ksw",
+      "discovery": "page_links",
+      "list_page": "Konfrontacja Sztuk Walki",
+      "title_patterns": [
+        "^20\\d\\d in Konfrontacja Sztuk Walki(?: events)?$"
+      ],
+      "parse_mode": "year_page"
+    },
+    {
+      "name": "rizin_years",
+      "discovery": "page_links",
+      "list_page": "Rizin Fighting Federation",
+      "title_patterns": [
+        "^20\\d\\d in Rizin Fighting Federation$"
+      ],
+      "parse_mode": "year_page"
+    },
+    {
+      "name": "rizin_events",
+      "discovery": "allpages_prefix",
+      "prefix": "Rizin ",
+      "title_patterns": [
+        "^Rizin "
+      ]
+    },
+    {
+      "name": "lfa",
+      "discovery": "search",
+      "query": "Legacy Fighting Alliance",
+      "search_limit": 50,
+      "title_patterns": [
+        "^20\\d\\d in Legacy Fighting Alliance$"
+      ],
+      "parse_mode": "year_page"
+    },
+    {
+      "name": "oktagon",
+      "discovery": "search",
+      "query": "Oktagon MMA",
+      "search_limit": 50,
+      "title_patterns": [
+        "^20\\d\\d in Oktagon MMA$"
+      ],
+      "parse_mode": "year_page"
+    }
+  ]
+}

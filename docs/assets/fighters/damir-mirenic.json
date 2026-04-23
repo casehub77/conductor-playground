@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 260,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jason Guida",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2005-09-10",
+      "elo_delta": 17.9,
+      "event_name": "KSW IV: Konfrontacja",
+      "fight_id": "0b84f3b01fe67dd6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jason Guida",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.3,
+      "pre_elo": 1501.4,
+      "red_name": "Damir Mirenic",
+      "round": "3",
+      "time": "Tournament Semi-Finals 2",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Damir Mirenic",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2005-09-10",
+      "elo_delta": -18.1,
+      "event_name": "KSW IV: Konfrontacja",
+      "fight_id": "af1d13e8a50bdd58",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jacek Buczko",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Jacek Buczko",
+      "round": "3",
+      "time": "Tournament Final",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Carlos Eduardo",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2005-09-10",
+      "elo_delta": 19.4,
+      "event_name": "KSW IV: Konfrontacja",
+      "fight_id": "8c0f13f7021b06d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Carlos Eduardo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Damir Mirenic",
+      "round": "2",
+      "time": "Tournament Quarter-Finals 4",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-09-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-09-10",
+      "fight_id": "8c0f13f7021b06d7",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-09-10",
+      "fight_id": "af1d13e8a50bdd58",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-09-10",
+      "fight_id": "0b84f3b01fe67dd6",
+      "rating": 1519.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-09-10",
+      "fight_id": "8c0f13f7021b06d7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-09-10",
+      "fight_id": "af1d13e8a50bdd58",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-09-10",
+      "fight_id": "0b84f3b01fe67dd6",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-09-10",
+  "name": "Damir Mirenic",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "damir-mirenic",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

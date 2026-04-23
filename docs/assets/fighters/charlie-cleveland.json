@@ -1,0 +1,126 @@
+{
+  "current_elo": 1554.1,
+  "divisional_rank": 37,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Nyle Bartling",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-04-03",
+      "elo_delta": 17.4,
+      "event_name": "LFA 230: Bartling vs. Cleveland",
+      "fight_id": "2d45d14334d3105f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Nyle Bartling",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1554.1,
+      "pre_elo": 1536.7,
+      "red_name": "Charlie Cleveland",
+      "round": "1",
+      "time": "3:09",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ben Wunder",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-02-06",
+      "elo_delta": 17.3,
+      "event_name": "LFA 226: Allakhverdiev vs. Kropschot",
+      "fight_id": "2fd0fb30d17a186b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ben Wunder",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1519.4,
+      "red_name": "Charlie Cleveland",
+      "round": "1",
+      "time": "1:03",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Alexander Collett",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-03-29",
+      "elo_delta": 19.4,
+      "event_name": "LFA 180: Lawrence vs. Ward",
+      "fight_id": "78b3e21e2ce6388e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alexander Collett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Charlie Cleveland",
+      "round": "1",
+      "time": "1:53",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-29",
+      "fight_id": "78b3e21e2ce6388e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "78b3e21e2ce6388e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "2fd0fb30d17a186b",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "2fd0fb30d17a186b",
+      "rating": 1532.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "2d45d14334d3105f",
+      "rating": 1554.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "2d45d14334d3105f",
+      "rating": 1548.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-03",
+  "name": "Charlie Cleveland",
+  "nickname": "",
+  "overall_elo": 1548.5,
+  "peak_elo": 1554.1,
+  "slug": "charlie-cleveland",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

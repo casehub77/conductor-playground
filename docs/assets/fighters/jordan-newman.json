@@ -1,0 +1,160 @@
+{
+  "current_elo": 1536.6,
+  "divisional_rank": 74,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Matthew Perry",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": 16.5,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "d67f3617405f947b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (keylock)",
+      "opponent": "Matthew Perry",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1570.3,
+      "pre_elo": 1553.8,
+      "red_name": "Jordan Newman",
+      "round": "1",
+      "time": "4:20",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jayden Taulker",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": 17.4,
+      "event_name": "Bellator 288: Nemkov vs. Anderson 2",
+      "fight_id": "5f63c64616f9ac5a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jayden Taulker",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1536.4,
+      "red_name": "Jordan Newman",
+      "round": "2",
+      "time": "3:20",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Cody Herbert",
+      "bout_type": "Catchweight (188.6 lb) Bout",
+      "date": "2022-02-19",
+      "elo_delta": 17.0,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "826f6ce85954ed06",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–27, 30–27)",
+      "opponent": "Cody Herbert",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Jordan Newman",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Branko Busick",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-04-02",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 255: Pitbull vs. Sanchez 2",
+      "fight_id": "20fa88600743e1a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Branko Busick",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jordan Newman",
+      "round": "2",
+      "time": "2:30",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-02",
+      "fight_id": "20fa88600743e1a4",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-04-02",
+      "fight_id": "20fa88600743e1a4",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "826f6ce85954ed06",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "826f6ce85954ed06",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "5f63c64616f9ac5a",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "5f63c64616f9ac5a",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "d67f3617405f947b",
+      "rating": 1570.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "d67f3617405f947b",
+      "rating": 1563.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-16",
+  "name": "Jordan Newman",
+  "nickname": "",
+  "overall_elo": 1529.4,
+  "peak_elo": 1570.3,
+  "slug": "jordan-newman",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

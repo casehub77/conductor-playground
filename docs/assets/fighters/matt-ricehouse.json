@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 467,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Matt Ricehouse",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-08-18",
+      "elo_delta": -19.8,
+      "event_name": "Strikeforce: Rousey vs. Kaufman",
+      "fight_id": "2aa865863d3b14e2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Bobby Green",
+      "opponent_elo": 1502.7,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1537.3,
+      "red_name": "Bobby Green",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tom Aaron",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-12-04",
+      "elo_delta": 17.9,
+      "event_name": "Strikeforce: Henderson vs. Babalu II",
+      "fight_id": "a4ddc1d664f7f5ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 29–28)",
+      "opponent": "Tom Aaron",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1537.3,
+      "pre_elo": 1519.4,
+      "red_name": "Matt Ricehouse",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Greg Wilson Jr.",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-05-15",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Heavy Artillery",
+      "fight_id": "5808f0c8db84427a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Greg Wilson Jr.",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Matt Ricehouse",
+      "round": "3",
+      "time": "0:45",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-05-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-05-15",
+      "fight_id": "5808f0c8db84427a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-05-15",
+      "fight_id": "5808f0c8db84427a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "a4ddc1d664f7f5ae",
+      "rating": 1537.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "a4ddc1d664f7f5ae",
+      "rating": 1533.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "2aa865863d3b14e2",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "2aa865863d3b14e2",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-08-18",
+  "name": "Matt Ricehouse",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.3,
+  "slug": "matt-ricehouse",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

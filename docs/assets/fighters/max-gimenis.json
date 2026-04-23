@@ -1,0 +1,58 @@
+{
+  "current_elo": 1484.5,
+  "divisional_rank": 674,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Max Gimenis",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-11-08",
+      "elo_delta": -15.5,
+      "event_name": "UFC Fight Night: Bonfim vs. Brown",
+      "fight_id": "0f68e64e60870342",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Josh Hokit",
+      "opponent_elo": 1571.5,
+      "outcome": "red_win",
+      "post_elo": 1484.5,
+      "pre_elo": 1500.0,
+      "red_name": "Josh Hokit",
+      "round": "1.0",
+      "time": "0:56",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-11-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-08",
+      "fight_id": "0f68e64e60870342",
+      "rating": 1484.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "0f68e64e60870342",
+      "rating": 1485.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-08",
+  "name": "Max Gimenis",
+  "nickname": "",
+  "overall_elo": 1485.9,
+  "peak_elo": 1500.0,
+  "slug": "max-gimenis",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 343,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Adlan Amagov",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-10-19",
+      "elo_delta": 20.8,
+      "event_name": "UFC 166: Velasquez vs Dos Santos 3",
+      "fight_id": "e27807622b550c06",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tj Waldburger",
+      "opponent_elo": 1542.6,
+      "outcome": "blue_win",
+      "post_elo": 1539.2,
+      "pre_elo": 1518.5,
+      "red_name": "Tj Waldburger",
+      "round": "1.0",
+      "time": "3:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Adlan Amagov",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-04-06",
+      "elo_delta": 17.1,
+      "event_name": "UFC on FUEL TV: Mousasi vs Latifi",
+      "fight_id": "0d91bf82789e1498",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chris Spang",
+      "opponent_elo": 1484.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1501.4,
+      "red_name": "Chris Spang",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Keith Berry",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-08-18",
+      "elo_delta": 21.5,
+      "event_name": "Strikeforce: Rousey vs. Kaufman",
+      "fight_id": "70c24de95dcb3550",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kick and punches)",
+      "opponent": "Keith Berry",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1503.6,
+      "pre_elo": 1482.0,
+      "red_name": "Adlan Amagov",
+      "round": "1",
+      "time": "0:48",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Adlan Amagov",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-01-07",
+      "elo_delta": -18.0,
+      "event_name": "Strikeforce: Rockhold vs. Jardine",
+      "fight_id": "da5c64ea9f301653",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (flying knee and punches)",
+      "opponent": "Robbie Lawler",
+      "opponent_elo": 1526.6,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Robbie Lawler",
+      "round": "1",
+      "time": "1:48",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2012-01-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-01-07",
+      "fight_id": "da5c64ea9f301653",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-01-07",
+      "fight_id": "da5c64ea9f301653",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "70c24de95dcb3550",
+      "rating": 1503.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "70c24de95dcb3550",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-04-06",
+      "fight_id": "0d91bf82789e1498",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-04-06",
+      "fight_id": "0d91bf82789e1498",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-10-19",
+      "fight_id": "e27807622b550c06",
+      "rating": 1539.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-10-19",
+      "fight_id": "e27807622b550c06",
+      "rating": 1534.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-10-19",
+  "name": "Adlan Amagov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1539.2,
+  "slug": "adlan-amagov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

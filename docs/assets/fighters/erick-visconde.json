@@ -1,0 +1,92 @@
+{
+  "current_elo": 1539.0,
+  "divisional_rank": 92,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chris Mecate",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2025-08-22",
+      "elo_delta": 20.3,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "8e4137a6e68696aa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Chris Mecate",
+      "opponent_elo": 1533.6,
+      "outcome": "red_win",
+      "post_elo": 1539.0,
+      "pre_elo": 1518.7,
+      "red_name": "Erick Visconde",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Ary Farias",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 18.7,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "4b6de33bb1567167",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (spinning back elbow)",
+      "opponent": "Ary Farias",
+      "opponent_elo": 1486.7,
+      "outcome": "red_win",
+      "post_elo": 1518.7,
+      "pre_elo": 1500.0,
+      "red_name": "Erick Visconde",
+      "round": "2",
+      "time": "1:08",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-10",
+      "fight_id": "4b6de33bb1567167",
+      "rating": 1518.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "4b6de33bb1567167",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "8e4137a6e68696aa",
+      "rating": 1539.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "8e4137a6e68696aa",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-22",
+  "name": "Erick Visconde",
+  "nickname": "",
+  "overall_elo": 1534.6,
+  "peak_elo": 1539.0,
+  "slug": "erick-visconde",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

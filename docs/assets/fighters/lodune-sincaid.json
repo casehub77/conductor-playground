@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 237,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Lodune Sincaid",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-08-17",
+      "elo_delta": -20.1,
+      "event_name": "WEC 23: Hot August Fights",
+      "fight_id": "a98e66daeb38bc6b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Doug Marshall",
+      "opponent_elo": 1509.9,
+      "outcome": "red_win",
+      "post_elo": 1502.3,
+      "pre_elo": 1522.5,
+      "red_name": "Doug Marshall",
+      "round": "2",
+      "time": "0:51",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Dan Molina",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-05-05",
+      "elo_delta": 19.3,
+      "event_name": "WEC 20: Cinco de Mayhem",
+      "fight_id": "8da7582d684411a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Dan Molina",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1522.5,
+      "pre_elo": 1503.2,
+      "red_name": "Lodune Sincaid",
+      "round": "1",
+      "time": "3:17",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "James Irvin",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-03-17",
+      "elo_delta": 20.5,
+      "event_name": "WEC 19: Undisputed",
+      "fight_id": "fdc8d7181d099fec",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "James Irvin",
+      "opponent_elo": 1531.3,
+      "outcome": "red_win",
+      "post_elo": 1503.2,
+      "pre_elo": 1482.7,
+      "red_name": "Lodune Sincaid",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Lodune Sincaid",
+      "bout_type": "Middleweight Bout",
+      "date": "2005-04-09",
+      "elo_delta": -19.4,
+      "event_name": "The Ultimate Fighter: Team Couture vs. Team Liddell Finale",
+      "fight_id": "0691d43b61434b8c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nate Quarry",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Nate Quarry",
+      "round": "1.0",
+      "time": "3:17",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2005-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-04-09",
+      "fight_id": "0691d43b61434b8c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2005-04-09",
+      "fight_id": "0691d43b61434b8c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "fdc8d7181d099fec",
+      "rating": 1503.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "fdc8d7181d099fec",
+      "rating": 1501.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "8da7582d684411a5",
+      "rating": 1522.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "8da7582d684411a5",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "a98e66daeb38bc6b",
+      "rating": 1502.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "a98e66daeb38bc6b",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-08-17",
+  "name": "Lodune Sincaid",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.5,
+  "slug": "lodune-sincaid",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

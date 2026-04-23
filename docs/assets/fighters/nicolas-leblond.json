@@ -1,0 +1,160 @@
+{
+  "current_elo": 1556.0,
+  "divisional_rank": 42,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Shajidul Haque",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-12-06",
+      "elo_delta": 18.6,
+      "event_name": "Cage Warriors 199: Newcastle",
+      "fight_id": "4c60351605b4ca25",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Shajidul Haque",
+      "opponent_elo": 1521.6,
+      "outcome": "red_win",
+      "post_elo": 1556.0,
+      "pre_elo": 1537.4,
+      "red_name": "Nicolas Leblond",
+      "round": "5",
+      "time": "4:10",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mateus Brauns",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "8e2b6c89624a5811",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Mateus Brauns",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1537.4,
+      "pre_elo": 1519.4,
+      "red_name": "Nicolas Leblond",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Gerasimos Sioutis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": 17.1,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "49e6d7194657f054",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Gerasimos Sioutis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.3,
+      "red_name": "Nicolas Leblond",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Scott Malone",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 171: Glasgow",
+      "fight_id": "3292b9321e8dd1c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Scott Malone",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Nicolas Leblond",
+      "round": "3",
+      "time": "1:27",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "3292b9321e8dd1c6",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "3292b9321e8dd1c6",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "49e6d7194657f054",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "49e6d7194657f054",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "8e2b6c89624a5811",
+      "rating": 1537.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "8e2b6c89624a5811",
+      "rating": 1547.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "4c60351605b4ca25",
+      "rating": 1556.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "4c60351605b4ca25",
+      "rating": 1563.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-06",
+  "name": "Nicolas Leblond",
+  "nickname": "",
+  "overall_elo": 1563.6,
+  "peak_elo": 1563.6,
+  "slug": "nicolas-leblond",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,262 @@
+{
+  "current_elo": 1553.5,
+  "divisional_rank": 63,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Themba Gorimbo",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "fight_id": "c181354fbc802157",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Themba Gorimbo",
+      "opponent_elo": 1536.1,
+      "outcome": "red_win",
+      "post_elo": 1553.5,
+      "pre_elo": 1535.5,
+      "red_name": "Jeremiah Wells",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jeremiah Wells",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-02-10",
+      "elo_delta": -19.7,
+      "event_name": "UFC Fight Night: Hermansson vs. Pyfer",
+      "fight_id": "1868578bc4724f13",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Max Griffin",
+      "opponent_elo": 1522.0,
+      "outcome": "red_win",
+      "post_elo": 1535.5,
+      "pre_elo": 1555.2,
+      "red_name": "Max Griffin",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Carlston Harris",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-08-05",
+      "elo_delta": -21.8,
+      "event_name": "UFC Fight Night: Sandhagen vs. Font",
+      "fight_id": "3c112ba6eedb0c6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Carlston Harris",
+      "opponent_elo": 1535.1,
+      "outcome": "blue_win",
+      "post_elo": 1555.2,
+      "pre_elo": 1577.0,
+      "red_name": "Jeremiah Wells",
+      "round": "3.0",
+      "time": "1:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Matthew Semelsberger",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-04-22",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Pavlovich vs. Blaydes",
+      "fight_id": "c377b1062d2fc877",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Matthew Semelsberger",
+      "opponent_elo": 1557.7,
+      "outcome": "red_win",
+      "post_elo": 1577.0,
+      "pre_elo": 1559.1,
+      "red_name": "Jeremiah Wells",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jeremiah Wells",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-06-18",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Kattar vs. Emmett",
+      "fight_id": "219a7188ecda2e1d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Court Mcgee",
+      "opponent_elo": 1513.4,
+      "outcome": "blue_win",
+      "post_elo": 1559.1,
+      "pre_elo": 1541.2,
+      "red_name": "Court Mcgee",
+      "round": "1.0",
+      "time": "1:34",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Blood Diamond",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-12",
+      "elo_delta": 18.2,
+      "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+      "fight_id": "eead6f0af8898ebd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Blood Diamond",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1541.2,
+      "pre_elo": 1523.0,
+      "red_name": "Jeremiah Wells",
+      "round": "1.0",
+      "time": "4:38",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jeremiah Wells",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-06-26",
+      "elo_delta": 23.0,
+      "event_name": "UFC Fight Night: Gane vs. Volkov",
+      "fight_id": "fd21e57e06ffbdca",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Warlley Alves",
+      "opponent_elo": 1565.1,
+      "outcome": "blue_win",
+      "post_elo": 1523.0,
+      "pre_elo": 1500.0,
+      "red_name": "Warlley Alves",
+      "round": "2.0",
+      "time": "0:30",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-06-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-26",
+      "fight_id": "fd21e57e06ffbdca",
+      "rating": 1523.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-06-26",
+      "fight_id": "fd21e57e06ffbdca",
+      "rating": 1520.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "eead6f0af8898ebd",
+      "rating": 1541.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "eead6f0af8898ebd",
+      "rating": 1536.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "219a7188ecda2e1d",
+      "rating": 1559.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "219a7188ecda2e1d",
+      "rating": 1552.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "c377b1062d2fc877",
+      "rating": 1577.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "c377b1062d2fc877",
+      "rating": 1568.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-05",
+      "fight_id": "3c112ba6eedb0c6e",
+      "rating": 1555.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-08-05",
+      "fight_id": "3c112ba6eedb0c6e",
+      "rating": 1549.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-10",
+      "fight_id": "1868578bc4724f13",
+      "rating": 1535.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-02-10",
+      "fight_id": "1868578bc4724f13",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "c181354fbc802157",
+      "rating": 1553.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "c181354fbc802157",
+      "rating": 1548.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-01",
+  "name": "Jeremiah Wells",
+  "nickname": "",
+  "overall_elo": 1548.0,
+  "peak_elo": 1577.0,
+  "slug": "jeremiah-wells",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

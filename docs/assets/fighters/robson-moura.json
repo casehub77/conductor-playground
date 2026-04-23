@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 266,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Robson Moura",
+      "bout_type": "Flyweight Bout",
+      "date": "2004-09-26",
+      "elo_delta": 2.3,
+      "event_name": "Shooto: 9/26 in Kourakuen Hall",
+      "fight_id": "6efd4029519c3c02",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Mamoru Yamaguchi",
+      "opponent_elo": 1565.9,
+      "outcome": "draw",
+      "post_elo": 1524.4,
+      "pre_elo": 1522.2,
+      "red_name": "Mamoru Yamaguchi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Junji Ikoma",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-12-14",
+      "elo_delta": 19.8,
+      "event_name": "Shooto: Year End Show 2003",
+      "fight_id": "e340ccf034dc6529",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Junji Ikoma",
+      "opponent_elo": 1541.4,
+      "outcome": "red_win",
+      "post_elo": 1525.9,
+      "pre_elo": 1506.0,
+      "red_name": "Robson Moura",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Robson Moura",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-05-04",
+      "elo_delta": -14.9,
+      "event_name": "Shooto: 5/4 in Korakuen Hall",
+      "fight_id": "c32a0c20d6de8bc9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Yasuhiro Urushitani",
+      "opponent_elo": 1581.3,
+      "outcome": "red_win",
+      "post_elo": 1506.0,
+      "pre_elo": 1520.9,
+      "red_name": "Yasuhiro Urushitani",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Mamoru Yamaguchi",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-09-16",
+      "elo_delta": 20.9,
+      "event_name": "Shooto: Treasure Hunt 10",
+      "fight_id": "beaca08beff69ff1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Mamoru Yamaguchi",
+      "opponent_elo": 1557.2,
+      "outcome": "red_win",
+      "post_elo": 1520.9,
+      "pre_elo": 1500.0,
+      "red_name": "Robson Moura",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-09-16",
+      "fight_id": "beaca08beff69ff1",
+      "rating": 1520.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-09-16",
+      "fight_id": "beaca08beff69ff1",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-05-04",
+      "fight_id": "c32a0c20d6de8bc9",
+      "rating": 1506.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-05-04",
+      "fight_id": "c32a0c20d6de8bc9",
+      "rating": 1504.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-12-14",
+      "fight_id": "e340ccf034dc6529",
+      "rating": 1525.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-12-14",
+      "fight_id": "e340ccf034dc6529",
+      "rating": 1522.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-09-26",
+      "fight_id": "6efd4029519c3c02",
+      "rating": 1524.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2004-09-26",
+      "fight_id": "6efd4029519c3c02",
+      "rating": 1524.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-09-26",
+  "name": "Robson Moura",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1525.9,
+  "slug": "robson-moura",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

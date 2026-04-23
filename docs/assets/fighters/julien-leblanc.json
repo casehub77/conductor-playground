@@ -1,0 +1,92 @@
+{
+  "current_elo": 1460.6,
+  "divisional_rank": 1018,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Robert Valentin",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-04-18",
+      "elo_delta": -21.4,
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "e03efe2e5d3f1746",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Robert Valentin",
+      "opponent_elo": 1447.2,
+      "outcome": "blue_win",
+      "post_elo": 1460.6,
+      "pre_elo": 1482.0,
+      "red_name": "Julien Leblanc",
+      "round": "1",
+      "time": "2:22",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Julien Leblanc",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-04-16",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 104: McKenzie vs. Phillips",
+      "fight_id": "8016535c3ed116fe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Joel Bauman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Joel Bauman",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-16",
+      "fight_id": "8016535c3ed116fe",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-04-16",
+      "fight_id": "8016535c3ed116fe",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "e03efe2e5d3f1746",
+      "rating": 1460.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "e03efe2e5d3f1746",
+      "rating": 1465.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-18",
+  "name": "Julien Leblanc",
+  "nickname": "",
+  "overall_elo": 1465.2,
+  "peak_elo": 1500.0,
+  "slug": "julien-leblanc",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

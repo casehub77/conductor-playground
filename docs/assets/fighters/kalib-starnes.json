@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 364,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Kalib Starnes",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-04-19",
+      "elo_delta": -15.3,
+      "event_name": "UFC 83: Serra vs St-Pierre 2",
+      "fight_id": "fc5659744bdc43c0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nate Quarry",
+      "opponent_elo": 1555.4,
+      "outcome": "red_win",
+      "post_elo": 1487.0,
+      "pre_elo": 1502.2,
+      "red_name": "Nate Quarry",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Kalib Starnes",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-10-20",
+      "elo_delta": -21.5,
+      "event_name": "UFC 77: Hostile Territory",
+      "fight_id": "86cb40fe10e50a27",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Alan Belcher",
+      "opponent_elo": 1486.7,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1523.7,
+      "red_name": "Alan Belcher",
+      "round": "2.0",
+      "time": "1:39",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Chris Leben",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-05-26",
+      "elo_delta": 22.0,
+      "event_name": "UFC 71: Liddell vs Jackson",
+      "fight_id": "78ade0e3bc2627db",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chris Leben",
+      "opponent_elo": 1580.5,
+      "outcome": "red_win",
+      "post_elo": 1523.7,
+      "pre_elo": 1501.7,
+      "red_name": "Kalib Starnes",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Kalib Starnes",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-10-14",
+      "elo_delta": -17.7,
+      "event_name": "UFC 64: Unstoppable",
+      "fight_id": "82e9e891edf58450",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yushin Okami",
+      "opponent_elo": 1550.4,
+      "outcome": "red_win",
+      "post_elo": 1501.7,
+      "pre_elo": 1519.4,
+      "red_name": "Yushin Okami",
+      "round": "3.0",
+      "time": "1:40",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Danny Abbadi",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-06-24",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale",
+      "fight_id": "7d9e8dcd86c96534",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Danny Abbadi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kalib Starnes",
+      "round": "1.0",
+      "time": "2:56",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-24",
+      "fight_id": "7d9e8dcd86c96534",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-06-24",
+      "fight_id": "7d9e8dcd86c96534",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-10-14",
+      "fight_id": "82e9e891edf58450",
+      "rating": 1501.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-10-14",
+      "fight_id": "82e9e891edf58450",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-05-26",
+      "fight_id": "78ade0e3bc2627db",
+      "rating": 1523.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-05-26",
+      "fight_id": "78ade0e3bc2627db",
+      "rating": 1520.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-10-20",
+      "fight_id": "86cb40fe10e50a27",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-10-20",
+      "fight_id": "86cb40fe10e50a27",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-04-19",
+      "fight_id": "fc5659744bdc43c0",
+      "rating": 1487.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-04-19",
+      "fight_id": "fc5659744bdc43c0",
+      "rating": 1489.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-04-19",
+  "name": "Kalib Starnes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1523.7,
+  "slug": "kalib-starnes",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

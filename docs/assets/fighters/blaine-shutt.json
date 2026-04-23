@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 635,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Blaine Shutt",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-01-29",
+      "elo_delta": -17.4,
+      "event_name": "Bellator 273: Bader vs. Moldavsky",
+      "fight_id": "4c4425c83087f944",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Nikita Mikhailov",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1464.6,
+      "pre_elo": 1482.0,
+      "red_name": "Nikita Mikhailov",
+      "round": "3",
+      "time": "3:23",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Blaine Shutt",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-05-07",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 258: Archuleta vs. Pettis",
+      "fight_id": "16b45b128a0cd385",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–27, 30–27)",
+      "opponent": "Erik Pérez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Erik Pérez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-05-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-07",
+      "fight_id": "16b45b128a0cd385",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-05-07",
+      "fight_id": "16b45b128a0cd385",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "4c4425c83087f944",
+      "rating": 1464.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "4c4425c83087f944",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-29",
+  "name": "Blaine Shutt",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "blaine-shutt",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

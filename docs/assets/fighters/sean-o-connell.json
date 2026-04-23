@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 364,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-12-09",
+      "elo_delta": -15.2,
+      "event_name": "UFC Fight Night: Lewis vs. Abdurakhimov",
+      "fight_id": "d23bc5425882315d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Corey Anderson",
+      "opponent_elo": 1549.7,
+      "outcome": "red_win",
+      "post_elo": 1456.9,
+      "pre_elo": 1472.1,
+      "red_name": "Corey Anderson",
+      "round": "2.0",
+      "time": "2:36",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-06-18",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: MacDonald vs Thompson",
+      "fight_id": "526aa1d451cb315e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Steve Bosse",
+      "opponent_elo": 1506.3,
+      "outcome": "red_win",
+      "post_elo": 1472.1,
+      "pre_elo": 1489.2,
+      "red_name": "Steve Bosse",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-01-17",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Dillashaw vs Cruz",
+      "fight_id": "1dad5bcf9576359b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ilir Latifi",
+      "opponent_elo": 1527.0,
+      "outcome": "red_win",
+      "post_elo": 1489.2,
+      "pre_elo": 1507.6,
+      "red_name": "Ilir Latifi",
+      "round": "1.0",
+      "time": "0:30",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2015-05-09",
+      "elo_delta": 21.4,
+      "event_name": "UFC Fight Night: Miocic vs Hunt",
+      "fight_id": "f90e943d6e8e6287",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anthony Perosh",
+      "opponent_elo": 1520.8,
+      "outcome": "blue_win",
+      "post_elo": 1507.6,
+      "pre_elo": 1486.2,
+      "red_name": "Anthony Perosh",
+      "round": "1.0",
+      "time": "0:56",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2015-01-18",
+      "elo_delta": 22.2,
+      "event_name": "UFC Fight Night: McGregor vs Siver",
+      "fight_id": "f90037c5df46f231",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Matt Van Buren",
+      "opponent_elo": 1514.3,
+      "outcome": "blue_win",
+      "post_elo": 1486.2,
+      "pre_elo": 1463.9,
+      "red_name": "Matt Van Buren",
+      "round": "3.0",
+      "time": "2:11",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2014-06-28",
+      "elo_delta": -16.8,
+      "event_name": "UFC Fight Night: Te Huna vs Marquardt",
+      "fight_id": "2597508bdf5372b5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Gian Villante",
+      "opponent_elo": 1503.2,
+      "outcome": "red_win",
+      "post_elo": 1463.9,
+      "pre_elo": 1480.8,
+      "red_name": "Gian Villante",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2014-04-16",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Bisping vs Kennedy",
+      "fight_id": "1f14340b487db453",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ryan Jimmo",
+      "opponent_elo": 1503.9,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1500.0,
+      "red_name": "Ryan Jimmo",
+      "round": "1.0",
+      "time": "4:27",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2014-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-04-16",
+      "fight_id": "1f14340b487db453",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2014-04-16",
+      "fight_id": "1f14340b487db453",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-06-28",
+      "fight_id": "2597508bdf5372b5",
+      "rating": 1463.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2014-06-28",
+      "fight_id": "2597508bdf5372b5",
+      "rating": 1467.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-01-18",
+      "fight_id": "f90037c5df46f231",
+      "rating": 1486.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2015-01-18",
+      "fight_id": "f90037c5df46f231",
+      "rating": 1487.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-09",
+      "fight_id": "f90e943d6e8e6287",
+      "rating": 1507.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2015-05-09",
+      "fight_id": "f90e943d6e8e6287",
+      "rating": 1505.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-01-17",
+      "fight_id": "1dad5bcf9576359b",
+      "rating": 1489.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-01-17",
+      "fight_id": "1dad5bcf9576359b",
+      "rating": 1489.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "526aa1d451cb315e",
+      "rating": 1472.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "526aa1d451cb315e",
+      "rating": 1474.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-12-09",
+      "fight_id": "d23bc5425882315d",
+      "rating": 1456.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-12-09",
+      "fight_id": "d23bc5425882315d",
+      "rating": 1460.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-12-09",
+  "name": "Sean O'Connell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1507.6,
+  "slug": "sean-o-connell",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

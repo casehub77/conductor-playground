@@ -1,0 +1,126 @@
+{
+  "current_elo": 1555.1,
+  "divisional_rank": 61,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jeferson Santos Barbosa",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-05",
+      "elo_delta": 17.3,
+      "event_name": "LFA 216: Silva vs. Bertolso",
+      "fight_id": "aaf39c3192cd9c54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jeferson Santos Barbosa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.8,
+      "red_name": "Eduardo Fiuza Dutra",
+      "round": "2",
+      "time": "1:53",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Luis Carlos Dietrich",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-28",
+      "elo_delta": 18.4,
+      "event_name": "LFA 205: Pires vs. Abojer",
+      "fight_id": "a42d2efb071ecd2c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Luis Carlos Dietrich",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Eduardo Fiuza Dutra",
+      "round": "1",
+      "time": "3:50",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Sergio Murilo",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-02-07",
+      "elo_delta": 19.4,
+      "event_name": "LFA 201: Conceição vs. Silva",
+      "fight_id": "701a9443627958a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Sergio Murilo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Eduardo Fiuza Dutra",
+      "round": "1",
+      "time": "1:50",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-02-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-07",
+      "fight_id": "701a9443627958a0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "701a9443627958a0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "a42d2efb071ecd2c",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "a42d2efb071ecd2c",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "aaf39c3192cd9c54",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "aaf39c3192cd9c54",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-05",
+  "name": "Eduardo Fiuza Dutra",
+  "nickname": "",
+  "overall_elo": 1549.3,
+  "peak_elo": 1555.1,
+  "slug": "eduardo-fiuza-dutra",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

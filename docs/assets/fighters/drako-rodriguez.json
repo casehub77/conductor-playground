@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 677,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Drako Rodriguez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-08-07",
+      "elo_delta": -17.7,
+      "event_name": "UFC 265: Lewis vs. Gane",
+      "fight_id": "4bf7d6f8f2cef75d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Vince Morales",
+      "opponent_elo": 1484.5,
+      "outcome": "red_win",
+      "post_elo": 1461.7,
+      "pre_elo": 1479.4,
+      "red_name": "Vince Morales",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Drako Rodriguez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-02-20",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Blaydes vs. Lewis",
+      "fight_id": "a43cec2a743ee665",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Aiemann Zahabi",
+      "opponent_elo": 1479.9,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Aiemann Zahabi",
+      "round": "1.0",
+      "time": "3:05",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-02-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-02-20",
+      "fight_id": "a43cec2a743ee665",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-02-20",
+      "fight_id": "a43cec2a743ee665",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-07",
+      "fight_id": "4bf7d6f8f2cef75d",
+      "rating": 1461.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-08-07",
+      "fight_id": "4bf7d6f8f2cef75d",
+      "rating": 1465.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-08-07",
+  "name": "Drako Rodriguez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "drako-rodriguez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

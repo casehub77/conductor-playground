@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 314,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Khalil Rountree Jr.",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2018-07-07",
+      "elo_delta": -20.2,
+      "event_name": "UFC 226: Miocic vs. Cormier",
+      "fight_id": "eef6eeae6cfa3672",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Khalil Rountree Jr.",
+      "opponent_elo": 1504.4,
+      "outcome": "blue_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1518.2,
+      "red_name": "Gokhan Saki",
+      "round": "1.0",
+      "time": "1:36",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Henrique Da Silva",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2017-09-22",
+      "elo_delta": 18.2,
+      "event_name": "UFC Fight Night: Saint Preux vs. Okami",
+      "fight_id": "2b0e8d9c87a972e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Henrique Da Silva",
+      "opponent_elo": 1478.0,
+      "outcome": "red_win",
+      "post_elo": 1518.2,
+      "pre_elo": 1500.0,
+      "red_name": "Gokhan Saki",
+      "round": "1.0",
+      "time": "4:45",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-09-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-09-22",
+      "fight_id": "2b0e8d9c87a972e7",
+      "rating": 1518.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2017-09-22",
+      "fight_id": "2b0e8d9c87a972e7",
+      "rating": 1516.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-07-07",
+      "fight_id": "eef6eeae6cfa3672",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-07-07",
+      "fight_id": "eef6eeae6cfa3672",
+      "rating": 1498.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-07-07",
+  "name": "Gokhan Saki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.2,
+  "slug": "gokhan-saki",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

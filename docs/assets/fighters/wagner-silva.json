@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1044,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Colby Covington",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-11-08",
+      "elo_delta": -17.3,
+      "event_name": "UFC Fight Night 56: Shogun vs Saint Preux",
+      "fight_id": "a085f41d3951410a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Colby Covington",
+      "opponent_elo": 1520.5,
+      "outcome": "blue_win",
+      "post_elo": 1465.4,
+      "pre_elo": 1482.7,
+      "red_name": "Wagner Silva",
+      "round": "3.0",
+      "time": "3:26",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Wagner Silva",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-05-31",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Miocic vs Maldonado",
+      "fight_id": "cd7daa1440013dcc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ricardo Abreu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ricardo Abreu",
+      "round": "2.0",
+      "time": "1:06",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2014-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-05-31",
+      "fight_id": "cd7daa1440013dcc",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "cd7daa1440013dcc",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-11-08",
+      "fight_id": "a085f41d3951410a",
+      "rating": 1465.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-11-08",
+      "fight_id": "a085f41d3951410a",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-11-08",
+  "name": "Wagner Silva",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "wagner-silva",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1504.3,
+  "divisional_rank": 269,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josh Harvey",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-14",
+      "elo_delta": 20.3,
+      "event_name": "LFA 222: Pires vs. Belakh",
+      "fight_id": "b226897f24210c14",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee to the body and elbows)",
+      "opponent": "Josh Harvey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1484.0,
+      "red_name": "Nathan Ghareeb",
+      "round": "2",
+      "time": "2:58",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nathan Ghareeb",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-04-09",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 256: Bader vs. Machida 2",
+      "fight_id": "360701bb5e8b36e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Cody Law",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Cody Law",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-09",
+      "fight_id": "360701bb5e8b36e1",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "360701bb5e8b36e1",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "b226897f24210c14",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "b226897f24210c14",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-14",
+  "name": "Nathan Ghareeb",
+  "nickname": "",
+  "overall_elo": 1502.1,
+  "peak_elo": 1504.3,
+  "slug": "nathan-ghareeb",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

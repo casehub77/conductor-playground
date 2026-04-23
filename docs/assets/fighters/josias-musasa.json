@@ -1,0 +1,92 @@
+{
+  "current_elo": 1461.8,
+  "divisional_rank": 1121,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josias Musasa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Ulberg vs. Reyes",
+      "fight_id": "bfa318dd27de6b65",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Colby Thicknesse",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1461.8,
+      "pre_elo": 1479.7,
+      "red_name": "Colby Thicknesse",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Josias Musasa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Vettori vs. Dolidze 2",
+      "fight_id": "8dbe794317192166",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Carlos Vera",
+      "opponent_elo": 1483.8,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Carlos Vera",
+      "round": "1.0",
+      "time": "3:16",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-03-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-15",
+      "fight_id": "8dbe794317192166",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "8dbe794317192166",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "bfa318dd27de6b65",
+      "rating": 1461.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "bfa318dd27de6b65",
+      "rating": 1466.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-27",
+  "name": "Josias Musasa",
+  "nickname": "",
+  "overall_elo": 1466.1,
+  "peak_elo": 1500.0,
+  "slug": "josias-musasa",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1479.9,
+  "divisional_rank": 1462,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Thomas Paull",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-15",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 196: London",
+      "fight_id": "ea3b73aa5b67c45f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch to the body)",
+      "opponent": "Marin Vetrila",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1499.3,
+      "red_name": "Marin Vetrila",
+      "round": "1",
+      "time": "1:25",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Thomas Paull",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -18.9,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "acb49af44804c713",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Milad Ahady",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Milad Ahady",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Dimitry Solimeis",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 169: London",
+      "fight_id": "5169a4a1f8bfa272",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Dimitry Solimeis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Thomas Paull",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "5169a4a1f8bfa272",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "5169a4a1f8bfa272",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "acb49af44804c713",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "acb49af44804c713",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "ea3b73aa5b67c45f",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "ea3b73aa5b67c45f",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-15",
+  "name": "Thomas Paull",
+  "nickname": "",
+  "overall_elo": 1482.0,
+  "peak_elo": 1518.0,
+  "slug": "thomas-paull",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

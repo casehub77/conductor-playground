@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 548,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Benito Lopez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-11-05",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Rodriguez vs. Lemos",
+      "fight_id": "79ea1d027cd9f43e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mario Bautista",
+      "opponent_elo": 1538.7,
+      "outcome": "red_win",
+      "post_elo": 1498.8,
+      "pre_elo": 1517.1,
+      "red_name": "Mario Bautista",
+      "round": "1.0",
+      "time": "4:54",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Vince Morales",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-07-13",
+      "elo_delta": 18.2,
+      "event_name": "UFC Fight Night: De Randamie vs. Ladd",
+      "fight_id": "3d5aa317dd8cd8c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Vince Morales",
+      "opponent_elo": 1502.7,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1498.9,
+      "red_name": "Benito Lopez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Manny Bermudez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-02-17",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Ngannou vs. Velasquez",
+      "fight_id": "541804c0d00dc76f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Manny Bermudez",
+      "opponent_elo": 1535.1,
+      "outcome": "blue_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1517.3,
+      "red_name": "Benito Lopez",
+      "round": "1.0",
+      "time": "3:09",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Benito Lopez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2017-12-09",
+      "elo_delta": 17.3,
+      "event_name": "UFC Fight Night: Swanson vs. Ortega",
+      "fight_id": "9739b5d32c38744e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Albert Morales",
+      "opponent_elo": 1486.8,
+      "outcome": "blue_win",
+      "post_elo": 1517.3,
+      "pre_elo": 1500.0,
+      "red_name": "Albert Morales",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2017-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-12-09",
+      "fight_id": "9739b5d32c38744e",
+      "rating": 1517.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-12-09",
+      "fight_id": "9739b5d32c38744e",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-02-17",
+      "fight_id": "541804c0d00dc76f",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-02-17",
+      "fight_id": "541804c0d00dc76f",
+      "rating": 1499.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-07-13",
+      "fight_id": "3d5aa317dd8cd8c3",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-07-13",
+      "fight_id": "3d5aa317dd8cd8c3",
+      "rating": 1515.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-05",
+      "fight_id": "79ea1d027cd9f43e",
+      "rating": 1498.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-11-05",
+      "fight_id": "79ea1d027cd9f43e",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-05",
+  "name": "Benito Lopez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "benito-lopez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

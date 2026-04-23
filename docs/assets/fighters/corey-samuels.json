@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 586,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Corey Samuels",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -19.5,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "7bd197646deb7daa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Justin Montalvo",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.4,
+      "red_name": "Justin Montalvo",
+      "round": "1",
+      "time": "2:43",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Isaiah Hokit",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-06-25",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 261: Johnson vs. Moldavsky",
+      "fight_id": "34110d4911e18f80",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Isaiah Hokit",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Corey Samuels",
+      "round": "1",
+      "time": "0:10",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-06-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-25",
+      "fight_id": "34110d4911e18f80",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-06-25",
+      "fight_id": "34110d4911e18f80",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "7bd197646deb7daa",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "7bd197646deb7daa",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-19",
+  "name": "Corey Samuels",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "corey-samuels",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

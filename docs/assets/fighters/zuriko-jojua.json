@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 355,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Antun Račić",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-11-12",
+      "elo_delta": 19.6,
+      "event_name": "KSW 76: Parnasse vs. Rajewski",
+      "fight_id": "28c2d0030ee7dcc2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Antun Račić",
+      "opponent_elo": 1550.3,
+      "outcome": "red_win",
+      "post_elo": 1539.0,
+      "pre_elo": 1519.4,
+      "red_name": "Zuriko Jojua",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Shamil Banukayev",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-02-26",
+      "elo_delta": 19.4,
+      "event_name": "KSW 67: De Fries vs. Stošić",
+      "fight_id": "982cce3a5c9fe753",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Shamil Banukayev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Zuriko Jojua",
+      "round": "3",
+      "time": "1:57",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-26",
+      "fight_id": "982cce3a5c9fe753",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "982cce3a5c9fe753",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "28c2d0030ee7dcc2",
+      "rating": 1539.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "28c2d0030ee7dcc2",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-12",
+  "name": "Zuriko Jojua",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1539.0,
+  "slug": "zuriko-jojua",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

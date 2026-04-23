@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 252,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alberto Mendez",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 17.0,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "f62b055e01d5b9e2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Alberto Mendez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Edwin De Los Santos",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jon Adams",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "64fd226fa92337c0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (body kick and punches)",
+      "opponent": "Jon Adams",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Edwin De Los Santos",
+      "round": "1",
+      "time": "3:29",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-18",
+      "fight_id": "64fd226fa92337c0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "64fd226fa92337c0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "f62b055e01d5b9e2",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "f62b055e01d5b9e2",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-15",
+  "name": "Edwin De Los Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "edwin-de-los-santos",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

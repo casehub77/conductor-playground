@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 49,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jessica Borga",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": -17.1,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "e166a4df31d1d7c2",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Leah McCourt",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1482.0,
+      "red_name": "Leah McCourt",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jessica Borga",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2021-04-09",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 256: Bader vs. Machida 2",
+      "fight_id": "61350255700a754c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–27, 29–27)",
+      "opponent": "Talita Nogueira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Talita Nogueira",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-04-09",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-04-09",
+      "fight_id": "61350255700a754c",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "61350255700a754c",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "e166a4df31d1d7c2",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "e166a4df31d1d7c2",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-01",
+  "name": "Jessica Borga",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jessica-borga",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

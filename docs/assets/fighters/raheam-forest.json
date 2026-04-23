@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 505,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Raheam Forest",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": -19.4,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "040bb8e76daebea0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbows and punches)",
+      "opponent": "Martin Camilo",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Martin Camilo",
+      "round": "1",
+      "time": "3:39",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Colin Parr",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-08-27",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 114: Souza vs. Garcia",
+      "fight_id": "cf59bb3b7e1f9fef",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Colin Parr",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Raheam Forest",
+      "round": "1",
+      "time": "1:31",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-08-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-27",
+      "fight_id": "cf59bb3b7e1f9fef",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "cf59bb3b7e1f9fef",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "040bb8e76daebea0",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "040bb8e76daebea0",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-10",
+  "name": "Raheam Forest",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "raheam-forest",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

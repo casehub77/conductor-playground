@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 475,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jeff Newton",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2005-11-19",
+      "elo_delta": -19.5,
+      "event_name": "UFC 56: Full Force",
+      "fight_id": "b4efa02e99594d2f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Sam Hoger",
+      "opponent_elo": 1498.1,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Sam Hoger",
+      "round": "2.0",
+      "time": "2:05",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-11-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-11-19",
+      "fight_id": "b4efa02e99594d2f",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-11-19",
+      "fight_id": "b4efa02e99594d2f",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-11-19",
+  "name": "Jeff Newton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jeff-newton",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

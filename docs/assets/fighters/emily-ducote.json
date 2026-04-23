@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 126,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Emily Ducote",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-05-18",
+      "elo_delta": -15.3,
+      "event_name": "UFC Fight Night: Barboza vs. Murphy",
+      "fight_id": "5510f472117a624f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Vanessa Demopoulos",
+      "opponent_elo": 1565.3,
+      "outcome": "red_win",
+      "post_elo": 1496.8,
+      "pre_elo": 1512.1,
+      "red_name": "Vanessa Demopoulos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Emily Ducote",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-10-14",
+      "elo_delta": 15.0,
+      "event_name": "UFC Fight Night: Yusuff vs. Barboza",
+      "fight_id": "ffb7191867711993",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ashley Yoder",
+      "opponent_elo": 1438.2,
+      "outcome": "blue_win",
+      "post_elo": 1512.1,
+      "pre_elo": 1497.1,
+      "red_name": "Ashley Yoder",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Loopy Godinez",
+      "bout_type": "Catch Weight Bout",
+      "date": "2023-05-20",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Dern vs. Hill",
+      "fight_id": "061bc57bf1320f82",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Loopy Godinez",
+      "opponent_elo": 1482.0,
+      "outcome": "blue_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Emily Ducote",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Emily Ducote",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": -21.2,
+      "event_name": "UFC Fight Night: Thompson vs. Holland",
+      "fight_id": "34044aa01c03888b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Angela Hill",
+      "opponent_elo": 1455.3,
+      "outcome": "red_win",
+      "post_elo": 1497.1,
+      "pre_elo": 1518.3,
+      "red_name": "Angela Hill",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Emily Ducote",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-07-16",
+      "elo_delta": 18.3,
+      "event_name": "UFC Fight Night: Ortega vs. Rodriguez",
+      "fight_id": "7ed3d5a7c0d1d37c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jessica Penne",
+      "opponent_elo": 1506.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.3,
+      "pre_elo": 1500.0,
+      "red_name": "Jessica Penne",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2022-07-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-07-16",
+      "fight_id": "7ed3d5a7c0d1d37c",
+      "rating": 1518.3,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-07-16",
+      "fight_id": "7ed3d5a7c0d1d37c",
+      "rating": 1516.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "34044aa01c03888b",
+      "rating": 1497.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "34044aa01c03888b",
+      "rating": 1497.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-05-20",
+      "fight_id": "061bc57bf1320f82",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2023-05-20",
+      "fight_id": "061bc57bf1320f82",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-14",
+      "fight_id": "ffb7191867711993",
+      "rating": 1512.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-10-14",
+      "fight_id": "ffb7191867711993",
+      "rating": 1511.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-05-18",
+      "fight_id": "5510f472117a624f",
+      "rating": 1496.8,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-05-18",
+      "fight_id": "5510f472117a624f",
+      "rating": 1496.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": "https://www.instagram.com/emducote1/",
+  "instagram_featured": false,
+  "last_fight_date": "2024-05-18",
+  "name": "Emily Ducote",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.3,
+  "slug": "emily-ducote",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

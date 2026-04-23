@@ -1,0 +1,92 @@
+{
+  "current_elo": 1507.4,
+  "divisional_rank": 85,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shealor Ladd",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 23.4,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "4209707573ab97c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Shealor Ladd",
+      "opponent_elo": 1556.3,
+      "outcome": "red_win",
+      "post_elo": 1507.4,
+      "pre_elo": 1484.0,
+      "red_name": "Joe Taylor",
+      "round": "1",
+      "time": "0:35",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Joe Taylor",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-21",
+      "elo_delta": -18.0,
+      "event_name": "LFA 202: Nkuta vs. Garcia",
+      "fight_id": "27763ce0e6920efd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Phillip Latu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Phillip Latu",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-02-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-21",
+      "fight_id": "27763ce0e6920efd",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-21",
+      "fight_id": "27763ce0e6920efd",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "4209707573ab97c1",
+      "rating": 1507.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "4209707573ab97c1",
+      "rating": 1504.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Joe Taylor",
+  "nickname": "",
+  "overall_elo": 1504.5,
+  "peak_elo": 1507.4,
+  "slug": "joe-taylor",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

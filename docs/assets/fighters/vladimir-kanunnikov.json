@@ -1,0 +1,92 @@
+{
+  "current_elo": 1518.0,
+  "divisional_rank": 211,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paulo Henrique Laia",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-02-07",
+      "elo_delta": 0.0,
+      "event_name": "LFA 201: Conceição vs. Silva",
+      "fight_id": "5931cf842a2031cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (illegal choke)",
+      "opponent": "Paulo Henrique Laia",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1518.0,
+      "pre_elo": 1518.0,
+      "red_name": "Vladimir Kanunnikov",
+      "round": "1",
+      "time": "2:57",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jason Ponet",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-03-10",
+      "elo_delta": 18.0,
+      "event_name": "ONE Friday Fights 8: Petsukumvit vs. Petchmuangsri",
+      "fight_id": "99f3e7918693d8d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jason Ponet",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Vladimir Kanunnikov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-10",
+      "fight_id": "99f3e7918693d8d6",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "99f3e7918693d8d6",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "5931cf842a2031cc",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "5931cf842a2031cc",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-07",
+  "name": "Vladimir Kanunnikov",
+  "nickname": "",
+  "overall_elo": 1516.0,
+  "peak_elo": 1518.0,
+  "slug": "vladimir-kanunnikov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

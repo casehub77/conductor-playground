@@ -1,0 +1,126 @@
+{
+  "current_elo": 1447.8,
+  "divisional_rank": 1530,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "James Llontop",
+      "bout_type": "Catch Weight Bout",
+      "date": "2024-11-16",
+      "elo_delta": -15.1,
+      "event_name": "UFC 309: Jones vs. Miocic",
+      "fight_id": "c49c113076f49c52",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mauricio Ruffy",
+      "opponent_elo": 1519.9,
+      "outcome": "red_win",
+      "post_elo": 1447.8,
+      "pre_elo": 1462.9,
+      "red_name": "Mauricio Ruffy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "James Llontop",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-08-24",
+      "elo_delta": -17.6,
+      "event_name": "UFC Fight Night: Cannonier vs. Borralho",
+      "fight_id": "ddf0354d01ecaa1e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Viacheslav Borshchev",
+      "opponent_elo": 1487.4,
+      "outcome": "red_win",
+      "post_elo": 1462.9,
+      "pre_elo": 1480.6,
+      "red_name": "Viacheslav Borshchev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Chris Padilla",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-04-27",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Nicolau vs. Perez",
+      "fight_id": "bc1ce8876ba19247",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Chris Padilla",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "James Llontop",
+      "round": "1.0",
+      "time": "4:33",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-04-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-27",
+      "fight_id": "bc1ce8876ba19247",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "bc1ce8876ba19247",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "ddf0354d01ecaa1e",
+      "rating": 1462.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "ddf0354d01ecaa1e",
+      "rating": 1467.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-16",
+      "fight_id": "c49c113076f49c52",
+      "rating": 1447.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-11-16",
+      "fight_id": "c49c113076f49c52",
+      "rating": 1453.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-16",
+  "name": "James Llontop",
+  "nickname": "",
+  "overall_elo": 1453.3,
+  "peak_elo": 1500.0,
+  "slug": "james-llontop",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

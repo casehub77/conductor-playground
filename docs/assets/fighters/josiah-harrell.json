@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.0,
+  "divisional_rank": 203,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josiah Harrell",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Strickland vs. Hernandez",
+      "fight_id": "b39c8933e0e4a05f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jacobe Smith",
+      "opponent_elo": 1537.7,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1519.4,
+      "red_name": "Jacobe Smith",
+      "round": "1.0",
+      "time": "3:01",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Bekmyrza Dosmatov",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-01-16",
+      "elo_delta": 19.4,
+      "event_name": "LFA 224: Adams vs. Bilalov",
+      "fight_id": "17bc445cb2070008",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (corner stoppage)",
+      "opponent": "Bekmyrza Dosmatov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Josiah Harrell",
+      "round": "3",
+      "time": "3:28",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2026-01-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-01-16",
+      "fight_id": "17bc445cb2070008",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "17bc445cb2070008",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "b39c8933e0e4a05f",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "b39c8933e0e4a05f",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Josiah Harrell",
+  "nickname": "",
+  "overall_elo": 1500.8,
+  "peak_elo": 1519.4,
+  "slug": "josiah-harrell",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 603,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Luis Saldana",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-08-20",
+      "elo_delta": 0.7,
+      "event_name": "UFC 278: Usman vs. Edwards",
+      "fight_id": "349514fc459c9e93",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Sean Woodson",
+      "opponent_elo": 1530.5,
+      "outcome": "draw",
+      "post_elo": 1517.5,
+      "pre_elo": 1516.8,
+      "red_name": "Sean Woodson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Bruno Souza",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-03-26",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Blaydes vs. Daukaus",
+      "fight_id": "4f13f983166dd9f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bruno Souza",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1516.8,
+      "pre_elo": 1497.8,
+      "red_name": "Luis Saldana",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Luis Saldana",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-08-21",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Cannonier vs. Gastelum",
+      "fight_id": "d38b4307df1dc7b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Austin Lingo",
+      "opponent_elo": 1499.9,
+      "outcome": "red_win",
+      "post_elo": 1497.8,
+      "pre_elo": 1516.6,
+      "red_name": "Austin Lingo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jordan Griffin",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-04-10",
+      "elo_delta": 16.6,
+      "event_name": "UFC Fight Night: Vettori vs. Holland",
+      "fight_id": "57a60a38e8777971",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jordan Griffin",
+      "opponent_elo": 1473.4,
+      "outcome": "red_win",
+      "post_elo": 1516.6,
+      "pre_elo": 1500.0,
+      "red_name": "Luis Saldana",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-04-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-10",
+      "fight_id": "57a60a38e8777971",
+      "rating": 1516.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "57a60a38e8777971",
+      "rating": 1514.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "d38b4307df1dc7b0",
+      "rating": 1497.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "d38b4307df1dc7b0",
+      "rating": 1498.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "4f13f983166dd9f2",
+      "rating": 1516.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "4f13f983166dd9f2",
+      "rating": 1515.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "349514fc459c9e93",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "349514fc459c9e93",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-20",
+  "name": "Luis Saldana",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.5,
+  "slug": "luis-saldana",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

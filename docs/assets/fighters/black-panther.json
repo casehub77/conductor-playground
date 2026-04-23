@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 274,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Suriyanlek Por.Yenying",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-09-29",
+      "elo_delta": 19.8,
+      "event_name": "ONE Friday Fights 35: Kongsuk vs. Dedduanglek",
+      "fight_id": "bbc3d7d2b1b3dc03",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Suriyanlek Por.Yenying",
+      "opponent_elo": 1534.5,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1499.8,
+      "red_name": "Black Panther",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mohammad Sadeghi",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-07-07",
+      "elo_delta": 19.0,
+      "event_name": "ONE Friday Fights 24: Reis vs. Pongsiri 2",
+      "fight_id": "505bca76db6a42b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Mohammad Sadeghi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.8,
+      "pre_elo": 1480.8,
+      "red_name": "Black Panther",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Black Panther",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-03-17",
+      "elo_delta": -19.2,
+      "event_name": "ONE Friday Fights 9: Eersel vs. Sinsamut 2",
+      "fight_id": "cad1ef98b5483c25",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch to the body)",
+      "opponent": "Tagir Khalilov",
+      "opponent_elo": 1503.6,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1500.0,
+      "red_name": "Tagir Khalilov",
+      "round": "1",
+      "time": "2:04",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-03-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-17",
+      "fight_id": "cad1ef98b5483c25",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-03-17",
+      "fight_id": "cad1ef98b5483c25",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-07",
+      "fight_id": "505bca76db6a42b6",
+      "rating": 1499.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-07-07",
+      "fight_id": "505bca76db6a42b6",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-29",
+      "fight_id": "bbc3d7d2b1b3dc03",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-09-29",
+      "fight_id": "bbc3d7d2b1b3dc03",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-29",
+  "name": "Black Panther",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.6,
+  "slug": "black-panther",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

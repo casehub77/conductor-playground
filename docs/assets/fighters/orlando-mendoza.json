@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1042,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Orlando Mendoza",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "d4fab56bafef92e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Jonathan DiLorenzo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.2,
+      "pre_elo": 1482.7,
+      "red_name": "Jonathan DiLorenzo",
+      "round": "1",
+      "time": "1:07",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-08-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-13",
+      "fight_id": "039f58a864b9fd7b",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "d4fab56bafef92e1",
+      "rating": 1464.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "d4fab56bafef92e1",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-19",
+  "name": "Orlando Mendoza",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "orlando-mendoza",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

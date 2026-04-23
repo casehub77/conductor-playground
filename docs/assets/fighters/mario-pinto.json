@@ -1,0 +1,126 @@
+{
+  "current_elo": 1555.1,
+  "divisional_rank": 35,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Felipe Franco",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": 16.0,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "681e08b76e838410",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Felipe Franco",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1539.2,
+      "red_name": "Mario Pinto",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mario Pinto",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-10-11",
+      "elo_delta": 20.7,
+      "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+      "fight_id": "cc7c474a02da29fa",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jhonata Diniz",
+      "opponent_elo": 1541.2,
+      "outcome": "blue_win",
+      "post_elo": 1539.2,
+      "pre_elo": 1518.5,
+      "red_name": "Jhonata Diniz",
+      "round": "2.0",
+      "time": "4:10",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mario Pinto",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-03-01",
+      "elo_delta": 18.5,
+      "event_name": "UFC Fight Night: Kape vs. Almabayev",
+      "fight_id": "c45f268381ef6134",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Austen Lane",
+      "opponent_elo": 1482.5,
+      "outcome": "blue_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Austen Lane",
+      "round": "2.0",
+      "time": "0:39",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-03-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-01",
+      "fight_id": "c45f268381ef6134",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "c45f268381ef6134",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "cc7c474a02da29fa",
+      "rating": 1539.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "cc7c474a02da29fa",
+      "rating": 1534.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "681e08b76e838410",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "681e08b76e838410",
+      "rating": 1549.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Mario Pinto",
+  "nickname": "",
+  "overall_elo": 1549.2,
+  "peak_elo": 1555.1,
+  "slug": "mario-pinto",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

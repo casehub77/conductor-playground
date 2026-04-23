@@ -1,0 +1,160 @@
+{
+  "current_elo": 1532.0,
+  "divisional_rank": 99,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "George McManus",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-03-20",
+      "elo_delta": 18.8,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "1249a4502f1dc5b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Japanese necktie)",
+      "opponent": "George McManus",
+      "opponent_elo": 1501.9,
+      "outcome": "red_win",
+      "post_elo": 1532.0,
+      "pre_elo": 1513.2,
+      "red_name": "Joe Middleton",
+      "round": "1",
+      "time": "2:53",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joe Middleton",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": -21.4,
+      "event_name": "Cage Warriors 192: London",
+      "fight_id": "8d71cd819b37561b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Naglis Kanišauskas",
+      "opponent_elo": 1501.4,
+      "outcome": "red_win",
+      "post_elo": 1514.4,
+      "pre_elo": 1535.7,
+      "red_name": "Naglis Kanišauskas",
+      "round": "1",
+      "time": "2:37",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Craig Rawlins",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-21",
+      "elo_delta": 16.3,
+      "event_name": "Cage Warriors 186: London",
+      "fight_id": "b08e2caeeb622068",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (anaconda choke)",
+      "opponent": "Craig Rawlins",
+      "opponent_elo": 1462.2,
+      "outcome": "red_win",
+      "post_elo": 1535.7,
+      "pre_elo": 1519.4,
+      "red_name": "Joe Middleton",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Joan Arastey",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 177: Unplugged",
+      "fight_id": "de34b4817e582b39",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Joan Arastey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Joe Middleton",
+      "round": "1",
+      "time": "1:27",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-09-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-20",
+      "fight_id": "de34b4817e582b39",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "de34b4817e582b39",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "b08e2caeeb622068",
+      "rating": 1535.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "b08e2caeeb622068",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "8d71cd819b37561b",
+      "rating": 1514.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "8d71cd819b37561b",
+      "rating": 1513.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "1249a4502f1dc5b0",
+      "rating": 1532.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "1249a4502f1dc5b0",
+      "rating": 1529.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Joe Middleton",
+  "nickname": "",
+  "overall_elo": 1529.9,
+  "peak_elo": 1535.7,
+  "slug": "joe-middleton",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

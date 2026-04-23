@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 222,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marino Eatman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-04-08",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 128: McKenzie vs. Clay",
+      "fight_id": "4832d32d99cc33b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Marino Eatman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1518.4,
+      "red_name": "Jimmy Lawson",
+      "round": "1",
+      "time": "0:34",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Anthony Garrett",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-08-27",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 114: Souza vs. Garcia",
+      "fight_id": "64c24e8c7bf2ae19",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Anthony Garrett",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jimmy Lawson",
+      "round": "1",
+      "time": "0:18",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-08-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-27",
+      "fight_id": "64c24e8c7bf2ae19",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "64c24e8c7bf2ae19",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "4832d32d99cc33b4",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "4832d32d99cc33b4",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-08",
+  "name": "Jimmy Lawson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.8,
+  "slug": "jimmy-lawson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

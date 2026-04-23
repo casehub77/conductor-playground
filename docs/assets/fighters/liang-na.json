@@ -1,0 +1,160 @@
+{
+  "current_elo": 1441.9,
+  "divisional_rank": 241,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Liang Na",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-04-27",
+      "elo_delta": -17.5,
+      "event_name": "UFC Fight Night: Nicolau vs. Perez",
+      "fight_id": "fbf6eef0f969a3f4",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ivana Petrovic",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1429.8,
+      "pre_elo": 1447.4,
+      "red_name": "Ivana Petrovic",
+      "round": "3.0",
+      "time": "1:29",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "JJ Aldrich",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2023-08-26",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+      "fight_id": "fe36a52471946212",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "JJ Aldrich",
+      "opponent_elo": 1520.3,
+      "outcome": "blue_win",
+      "post_elo": 1447.4,
+      "pre_elo": 1463.7,
+      "red_name": "Liang Na",
+      "round": "2.0",
+      "time": "4:49",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Silvana Gomez Juarez",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-06-11",
+      "elo_delta": -20.4,
+      "event_name": "UFC 275: Teixeira vs. Prochazka",
+      "fight_id": "ecae256e8a021a56",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Silvana Gomez Juarez",
+      "opponent_elo": 1462.2,
+      "outcome": "blue_win",
+      "post_elo": 1458.9,
+      "pre_elo": 1479.3,
+      "red_name": "Liang Na",
+      "round": "1.0",
+      "time": "1:22",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Ariane Carnelossi",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-04-24",
+      "elo_delta": -20.7,
+      "event_name": "UFC 261: Usman vs. Masvidal 2",
+      "fight_id": "a506374a07f91a4f",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ariane Carnelossi",
+      "opponent_elo": 1478.0,
+      "outcome": "blue_win",
+      "post_elo": 1479.3,
+      "pre_elo": 1500.0,
+      "red_name": "Liang Na",
+      "round": "2.0",
+      "time": "1:28",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-04-24",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-04-24",
+      "fight_id": "a506374a07f91a4f",
+      "rating": 1479.3,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-04-24",
+      "fight_id": "a506374a07f91a4f",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-06-11",
+      "fight_id": "ecae256e8a021a56",
+      "rating": 1458.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-06-11",
+      "fight_id": "ecae256e8a021a56",
+      "rating": 1463.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "fe36a52471946212",
+      "rating": 1447.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "fe36a52471946212",
+      "rating": 1449.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "fbf6eef0f969a3f4",
+      "rating": 1429.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "fbf6eef0f969a3f4",
+      "rating": 1433.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-04-27",
+  "name": "Liang Na",
+  "nickname": "",
+  "overall_elo": 1445.7,
+  "peak_elo": 1500.0,
+  "slug": "liang-na",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

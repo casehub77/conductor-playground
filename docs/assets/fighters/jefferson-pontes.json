@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 797,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jefferson Pontes",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-11-17",
+      "elo_delta": -15.7,
+      "event_name": "Bellator 301: Amosov vs. Jackson",
+      "fight_id": "6fda1f61296d3789",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Cody Law",
+      "opponent_elo": 1543.8,
+      "outcome": "red_win",
+      "post_elo": 1484.3,
+      "pre_elo": 1500.0,
+      "red_name": "Cody Law",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-11-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-17",
+      "fight_id": "6fda1f61296d3789",
+      "rating": 1484.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "6fda1f61296d3789",
+      "rating": 1485.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-17",
+  "name": "Jefferson Pontes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jefferson-pontes",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

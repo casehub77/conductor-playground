@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.8,
+  "divisional_rank": 100,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brennan Gait",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2025-12-06",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 199: Newcastle",
+      "fight_id": "42710de92c8f514b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Brennan Gait",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Jack Foote",
+      "round": "2",
+      "time": "2:32",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Aaron Towns",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-04-19",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 187: Glasgow",
+      "fight_id": "4e56443942570f1a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Aaron Towns",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jack Foote",
+      "round": "2",
+      "time": "1:36",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-04-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-19",
+      "fight_id": "4e56443942570f1a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "4e56443942570f1a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "42710de92c8f514b",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "42710de92c8f514b",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-06",
+  "name": "Jack Foote",
+  "nickname": "",
+  "overall_elo": 1533.7,
+  "peak_elo": 1537.8,
+  "slug": "jack-foote",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

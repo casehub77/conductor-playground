@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 598,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Dhiego Lima",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-10-05",
+      "elo_delta": -19.9,
+      "event_name": "UFC 243: Whittaker vs. Adesanya",
+      "fight_id": "539fb0a436b177a8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Dhiego Lima",
+      "opponent_elo": 1481.2,
+      "outcome": "blue_win",
+      "post_elo": 1497.5,
+      "pre_elo": 1517.4,
+      "red_name": "Luke Jumeau",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Daichi Abe",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-02-10",
+      "elo_delta": 19.0,
+      "event_name": "UFC 221: Romero vs. Rockhold",
+      "fight_id": "97ae2d80d657b90b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daichi Abe",
+      "opponent_elo": 1518.2,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1498.4,
+      "red_name": "Luke Jumeau",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Luke Jumeau",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-09-22",
+      "elo_delta": -18.8,
+      "event_name": "UFC Fight Night: Saint Preux vs. Okami",
+      "fight_id": "8a73acb1113573dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Shinsho Anzai",
+      "opponent_elo": 1501.1,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1517.2,
+      "red_name": "Shinsho Anzai",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Dominique Steele",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-06-10",
+      "elo_delta": 17.2,
+      "event_name": "UFC Fight Night: Lewis vs. Hunt",
+      "fight_id": "e26501079b754f67",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dominique Steele",
+      "opponent_elo": 1485.0,
+      "outcome": "red_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Luke Jumeau",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2017-06-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-06-10",
+      "fight_id": "e26501079b754f67",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-06-10",
+      "fight_id": "e26501079b754f67",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-09-22",
+      "fight_id": "8a73acb1113573dc",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-09-22",
+      "fight_id": "8a73acb1113573dc",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-02-10",
+      "fight_id": "97ae2d80d657b90b",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-02-10",
+      "fight_id": "97ae2d80d657b90b",
+      "rating": 1515.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-10-05",
+      "fight_id": "539fb0a436b177a8",
+      "rating": 1497.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-10-05",
+      "fight_id": "539fb0a436b177a8",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-10-05",
+  "name": "Luke Jumeau",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.4,
+  "slug": "luke-jumeau",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1770,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andrei Semenov",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-07-17",
+      "elo_delta": -17.0,
+      "event_name": "Pride: Bushido 8",
+      "fight_id": "ef4ab74f949c0b27",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Denis Kang",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1498.4,
+      "red_name": "Denis Kang",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Andrei Semenov",
+      "bout_type": "Middleweight Bout",
+      "date": "2002-05-10",
+      "elo_delta": -21.4,
+      "event_name": "UFC 37: High Impact",
+      "fight_id": "3669588e3c4e0d23",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ivan Salaverry",
+      "opponent_elo": 1484.3,
+      "outcome": "red_win",
+      "post_elo": 1498.2,
+      "pre_elo": 1519.6,
+      "red_name": "Ivan Salaverry",
+      "round": "3.0",
+      "time": "2:27",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ricardo Almeida",
+      "bout_type": "Middleweight Bout",
+      "date": "2002-01-11",
+      "elo_delta": 19.6,
+      "event_name": "UFC 35: Throwdown",
+      "fight_id": "44f589d4429004e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ricardo Almeida",
+      "opponent_elo": 1503.6,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1500.0,
+      "red_name": "Andrei Semenov",
+      "round": "2.0",
+      "time": "2:01",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2002-01-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-01-11",
+      "fight_id": "44f589d4429004e6",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2002-01-11",
+      "fight_id": "44f589d4429004e6",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-05-10",
+      "fight_id": "3669588e3c4e0d23",
+      "rating": 1498.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2002-05-10",
+      "fight_id": "3669588e3c4e0d23",
+      "rating": 1498.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-07-17",
+      "fight_id": "ef4ab74f949c0b27",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-07-17",
+      "fight_id": "ef4ab74f949c0b27",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-07-17",
+  "name": "Andrei Semenov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.6,
+  "slug": "andrei-semenov",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 767,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mike Jackson",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-04-23",
+      "elo_delta": -20.5,
+      "event_name": "UFC Fight Night: Lemos vs. Andrade",
+      "fight_id": "12d123cf5fbfd45a",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ",
+      "opponent": "Mike Jackson",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Dean Barry",
+      "round": "1.0",
+      "time": "3:52",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-04-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-23",
+      "fight_id": "12d123cf5fbfd45a",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "12d123cf5fbfd45a",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-23",
+  "name": "Dean Barry",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "dean-barry",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

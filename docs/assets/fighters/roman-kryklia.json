@@ -1,0 +1,228 @@
+{
+  "current_elo": 1565.4,
+  "divisional_rank": 27,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Roman Kryklia",
+      "bout_type": "Heavyweight Kickboxing Bout",
+      "date": "2025-11-08",
+      "elo_delta": -22.5,
+      "event_name": "ONE Fight Night 37: Kryklia vs. Agdeve",
+      "fight_id": "bb52a9be9fa550b8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Samet Agdeve",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1565.4,
+      "pre_elo": 1587.8,
+      "red_name": "Samet Agdeve",
+      "round": "5",
+      "time": "3:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Lyndon Knowles",
+      "bout_type": "Heavyweight Muay Thai Bout",
+      "date": "2025-04-05",
+      "elo_delta": 15.4,
+      "event_name": "ONE Fight Night 30: Kryklia vs. Knowles",
+      "fight_id": "495f2dcd6f014bb6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Lyndon Knowles",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1587.8,
+      "pre_elo": 1572.4,
+      "red_name": "Roman Kryklia",
+      "round": "1",
+      "time": "2:10",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Alex Roberts",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": 16.3,
+      "event_name": "ONE Fight Night 17: Kryklia vs. Roberts",
+      "fight_id": "557bca0de37e7fa7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Alex Roberts",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1572.4,
+      "pre_elo": 1556.0,
+      "red_name": "Roman Kryklia",
+      "round": "2",
+      "time": "0:25",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Iraj Azizpour",
+      "bout_type": "Heavyweight Kickboxing Bout",
+      "date": "2022-11-19",
+      "elo_delta": 19.3,
+      "event_name": "ONE 163: Akimoto vs. Petchtanong",
+      "fight_id": "a7b5342937f88780",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Iraj Azizpour",
+      "opponent_elo": 1534.4,
+      "outcome": "red_win",
+      "post_elo": 1556.0,
+      "pre_elo": 1536.7,
+      "red_name": "Roman Kryklia",
+      "round": "2",
+      "time": "1:28",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Guto Inocente",
+      "bout_type": "Heavyweight Kickboxing Bout",
+      "date": "2022-09-29",
+      "elo_delta": 19.4,
+      "event_name": "ONE 161: Petchmorakot vs. Tawanchai",
+      "fight_id": "efea0f38783ad9ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick)",
+      "opponent": "Guto Inocente",
+      "opponent_elo": 1517.2,
+      "outcome": "red_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1517.3,
+      "red_name": "Roman Kryklia",
+      "round": "1",
+      "time": "0:52",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Murat Aygün",
+      "bout_type": "Light Heavyweight Kickboxing Bout",
+      "date": "2022-02-25",
+      "elo_delta": 19.4,
+      "event_name": "ONE: Full Circle",
+      "fight_id": "3b38c6ca195e2202",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (body kick and punches)",
+      "opponent": "Murat Aygün",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Kryklia",
+      "round": "1",
+      "time": "2:32",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-25",
+      "fight_id": "3b38c6ca195e2202",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "3b38c6ca195e2202",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "efea0f38783ad9ea",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "efea0f38783ad9ea",
+      "rating": 1533.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "a7b5342937f88780",
+      "rating": 1556.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "a7b5342937f88780",
+      "rating": 1551.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "557bca0de37e7fa7",
+      "rating": 1572.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "557bca0de37e7fa7",
+      "rating": 1565.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "495f2dcd6f014bb6",
+      "rating": 1587.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "495f2dcd6f014bb6",
+      "rating": 1579.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "bb52a9be9fa550b8",
+      "rating": 1565.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "bb52a9be9fa550b8",
+      "rating": 1560.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-08",
+  "name": "Roman Kryklia",
+  "nickname": "",
+  "overall_elo": 1560.2,
+  "peak_elo": 1587.8,
+  "slug": "roman-kryklia",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

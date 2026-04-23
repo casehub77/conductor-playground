@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 320,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dave Campos",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-12-09",
+      "elo_delta": 18.4,
+      "event_name": "CWFC: Enter The Rough House",
+      "fight_id": "f8a73affda9c0533",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Dave Campos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Tamai Harding",
+      "round": "1",
+      "time": "2:27",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Wesley Scarrett",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-09-16",
+      "elo_delta": 19.4,
+      "event_name": "CWFC: Showdown",
+      "fight_id": "c5938b9311f3b21b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Wesley Scarrett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tamai Harding",
+      "round": "1",
+      "time": "1:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-09-16",
+      "fight_id": "c5938b9311f3b21b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-09-16",
+      "fight_id": "c5938b9311f3b21b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-09",
+      "fight_id": "f8a73affda9c0533",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-12-09",
+      "fight_id": "f8a73affda9c0533",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-12-09",
+  "name": "Tamai Harding",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "tamai-harding",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

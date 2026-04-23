@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 680,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jeff Nielsen",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-10-14",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 144: Gafurov vs. Silva",
+      "fight_id": "3df5e95f46e5ed64",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Ben Schauer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1500.5,
+      "red_name": "Ben Schauer",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jeff Nielsen",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": -19.0,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "f3cc8ed71fe8e381",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Billy Elekana",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Billy Elekana",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "C.J. Hays",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 108: Fremd vs. Rodrigues",
+      "fight_id": "c02346d64303956a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "C.J. Hays",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jeff Nielsen",
+      "round": "2",
+      "time": "2:39",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "c02346d64303956a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "c02346d64303956a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "f3cc8ed71fe8e381",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "f3cc8ed71fe8e381",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "3df5e95f46e5ed64",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "3df5e95f46e5ed64",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-14",
+  "name": "Jeff Nielsen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "jeff-nielsen",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

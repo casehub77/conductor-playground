@@ -1,0 +1,92 @@
+{
+  "current_elo": 1496.2,
+  "divisional_rank": 538,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Amir Abdulmuslimov",
+      "bout_type": "Catchweight (126 lbs) Muay Thai Bout",
+      "date": "2024-09-13",
+      "elo_delta": -26.8,
+      "event_name": "ONE Friday Fights 79: Kongchai vs. Abdulmuslimov",
+      "fight_id": "a879e8c161646910",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kongchai Chanaidonmuang",
+      "opponent_elo": 1522.6,
+      "outcome": "red_win",
+      "post_elo": 1493.7,
+      "pre_elo": 1520.5,
+      "red_name": "Kongchai Chanaidonmuang",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jaising Sitnayokpunsak",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-07-07",
+      "elo_delta": 20.5,
+      "event_name": "ONE Friday Fights 24: Reis vs. Pongsiri 2",
+      "fight_id": "86ac74c2b97a1f14",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (left hook to the body & right hook)",
+      "opponent": "Jaising Sitnayokpunsak",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Amir Abdulmuslimov",
+      "round": "3",
+      "time": "2:28",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-07-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-07",
+      "fight_id": "86ac74c2b97a1f14",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-07-07",
+      "fight_id": "86ac74c2b97a1f14",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-13",
+      "fight_id": "a879e8c161646910",
+      "rating": 1493.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-09-13",
+      "fight_id": "a879e8c161646910",
+      "rating": 1494.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-13",
+  "name": "Amir Abdulmuslimov",
+  "nickname": "",
+  "overall_elo": 1496.9,
+  "peak_elo": 1520.5,
+  "slug": "amir-abdulmuslimov",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

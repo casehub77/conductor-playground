@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 337,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Naoya",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2020-02-22",
+      "elo_delta": 17.2,
+      "event_name": "Rizin 21 – Hamamatsu",
+      "fight_id": "f6e33c8a7f83f914",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Naoya",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Kenichi Takeuchi",
+      "round": "3",
+      "time": "9:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2020-02-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-02-22",
+      "fight_id": "f6e33c8a7f83f914",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "f6e33c8a7f83f914",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-02-22",
+  "name": "Kenichi Takeuchi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.2,
+  "slug": "kenichi-takeuchi",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 490,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Pakorn P.K.Saenchai",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2024-09-06",
+      "elo_delta": -21.5,
+      "event_name": "ONE Friday Fights 78: Pakorn vs. Reis",
+      "fight_id": "4aba3ee23504fecd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch to the body)",
+      "opponent": "Fabio Reis",
+      "opponent_elo": 1481.4,
+      "outcome": "red_win",
+      "post_elo": 1497.0,
+      "pre_elo": 1518.5,
+      "red_name": "Fabio Reis",
+      "round": "2",
+      "time": "2:04",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Rafi Bohic",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2024-06-28",
+      "elo_delta": 18.5,
+      "event_name": "ONE Friday Fights 68: Prajanchai vs. Di Bella",
+      "fight_id": "058ed1826a49fcb4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (right hook)",
+      "opponent": "Rafi Bohic",
+      "opponent_elo": 1483.1,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Pakorn P.K.Saenchai",
+      "round": "1",
+      "time": "2:15",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-06-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-06-28",
+      "fight_id": "058ed1826a49fcb4",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-06-28",
+      "fight_id": "058ed1826a49fcb4",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-06",
+      "fight_id": "4aba3ee23504fecd",
+      "rating": 1497.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-09-06",
+      "fight_id": "4aba3ee23504fecd",
+      "rating": 1497.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-06",
+  "name": "Pakorn P.K.Saenchai",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "slug": "pakorn-p-k-saenchai",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

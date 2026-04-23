@@ -1,0 +1,65 @@
+{
+  "current_elo": 1498.2,
+  "divisional_rank": 916,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Seiya Inoue",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2026-04-12",
+      "elo_delta": -17.8,
+      "event_name": "Rizin Landmark 13 in Fukuoka",
+      "fight_id": "8075b7dc94da6e03",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Hyuga Miyagawa",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1498.2,
+      "pre_elo": 1516.0,
+      "red_name": "Hyuga Miyagawa",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-31",
+      "fight_id": "018e033aa3e80da0",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-12",
+      "fight_id": "8075b7dc94da6e03",
+      "rating": 1498.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-12",
+      "fight_id": "8075b7dc94da6e03",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-12",
+  "name": "Seiya Inoue",
+  "nickname": "",
+  "overall_elo": 1500.1,
+  "peak_elo": 1516.0,
+  "slug": "seiya-inoue",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

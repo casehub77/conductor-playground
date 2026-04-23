@@ -1,0 +1,126 @@
+{
+  "current_elo": 1501.5,
+  "divisional_rank": 199,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Oscar Jurado Sánchez",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-09-16",
+      "elo_delta": 16.0,
+      "event_name": "Legacy Fighting Alliance 142: Amorim vs. Nichols",
+      "fight_id": "c2667c45097af56d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Decision (split)",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1537.8,
+      "red_name": "Dan Moriarty",
+      "round": "3",
+      "time": "2:21",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jett Shell",
+      "bout_type": "Catchweight (130 lbs) Bout",
+      "date": "2022-01-21",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 122: Johnson vs. Mota",
+      "fight_id": "770b79a60a5813c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Jett Shell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Dan Moriarty",
+      "round": "2",
+      "time": "0:48",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Joey Scanlan",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-08-27",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 114: Souza vs. Garcia",
+      "fight_id": "c694178f546bad06",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joey Scanlan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dan Moriarty",
+      "round": "1",
+      "time": "3:20",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-08-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-27",
+      "fight_id": "c694178f546bad06",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "c694178f546bad06",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "770b79a60a5813c5",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "770b79a60a5813c5",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "c2667c45097af56d",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "c2667c45097af56d",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-16",
+  "name": "Dan Moriarty",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1553.8,
+  "slug": "dan-moriarty",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

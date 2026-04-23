@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 824,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ji Ho Yang",
+      "bout_type": "Catchweight 72kg Bout",
+      "date": "2021-10-30",
+      "elo_delta": 19.9,
+      "event_name": "ARC 6",
+      "fight_id": "49aa8456c80548ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Ji Ho Yang",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1480.6,
+      "red_name": "Kyung Bin Jang",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kyung Bin Jang",
+      "bout_type": "Lightweight 70kg Bout",
+      "date": "2021-06-12",
+      "elo_delta": -19.4,
+      "event_name": "ARC 5",
+      "fight_id": "640664d420ea5759",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Ji Un Choi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ji Un Choi",
+      "round": "3",
+      "time": "0:38",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-06-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-12",
+      "fight_id": "640664d420ea5759",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "640664d420ea5759",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "49aa8456c80548ce",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "49aa8456c80548ce",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-30",
+  "name": "Kyung Bin Jang",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.5,
+  "slug": "kyung-bin-jang",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 841,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tommy Quinn",
+      "bout_type": "Catchweight 85.5 kg Bout",
+      "date": "2022-05-28",
+      "elo_delta": -32.2,
+      "event_name": "KSW 70: Pudzianowski vs. Materla",
+      "fight_id": "fbb655357b5ebc08",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Arm Injury)",
+      "opponent": "Albert Odzimkowski",
+      "opponent_elo": 1463.6,
+      "outcome": "red_win",
+      "post_elo": 1467.8,
+      "pre_elo": 1500.0,
+      "red_name": "Albert Odzimkowski",
+      "round": "1",
+      "time": "2:56",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Tommy Quinn",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2022-03-19",
+      "elo_delta": 0.0,
+      "event_name": "KSW 68: Parnasse vs. Rutkowski",
+      "fight_id": "32342936fb2b8b1e",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (Overturned)",
+      "opponent": "Albert Odzimkowski",
+      "opponent_elo": 1449.9,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Albert Odzimkowski",
+      "round": "1",
+      "time": "2:45",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-19",
+      "fight_id": "32342936fb2b8b1e",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-03-19",
+      "fight_id": "32342936fb2b8b1e",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-28",
+      "fight_id": "fbb655357b5ebc08",
+      "rating": 1467.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-05-28",
+      "fight_id": "fbb655357b5ebc08",
+      "rating": 1470.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-28",
+  "name": "Tommy Quinn",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tommy-quinn",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 543,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Eduard Folayang",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": 20.4,
+      "event_name": "ONE on Prime Video 5: de Ridder vs. Malykhin",
+      "fight_id": "90dd8197e6e37ba5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Eduard Folayang",
+      "opponent_elo": 1517.2,
+      "outcome": "red_win",
+      "post_elo": 1521.1,
+      "pre_elo": 1500.7,
+      "red_name": "Edson Marques",
+      "round": "2",
+      "time": "2:53",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kim Kyung-lock",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": 18.0,
+      "event_name": "ONE 158: Tawanchai vs. Larsen",
+      "fight_id": "b04987b44808f4ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kim Kyung-lock",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1482.7,
+      "red_name": "Edson Marques",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Edson Marques",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-01-28",
+      "elo_delta": -19.4,
+      "event_name": "ONE: Only the Brave",
+      "fight_id": "53e66468b3d76caf",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Hiroyuki Tetsuka",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Hiroyuki Tetsuka",
+      "round": "3",
+      "time": "1:05",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-01-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-28",
+      "fight_id": "53e66468b3d76caf",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-01-28",
+      "fight_id": "53e66468b3d76caf",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "b04987b44808f4ba",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "b04987b44808f4ba",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "90dd8197e6e37ba5",
+      "rating": 1521.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "90dd8197e6e37ba5",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-03",
+  "name": "Edson Marques",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.1,
+  "slug": "edson-marques",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

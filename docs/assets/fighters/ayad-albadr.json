@@ -1,0 +1,126 @@
+{
+  "current_elo": 1485.1,
+  "divisional_rank": 154,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Banna Hayashi",
+      "bout_type": "Strawweight Muay Thai Bout",
+      "date": "2025-01-17",
+      "elo_delta": 20.7,
+      "event_name": "ONE Friday Fights 94: Puengluang vs. Guluzada",
+      "fight_id": "e8432c35c787ce76",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Banna Hayashi",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1485.1,
+      "pre_elo": 1464.4,
+      "red_name": "Ayad Albadr",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Ayad Albadr",
+      "bout_type": "Catchweight (129 lbs) Muay Thai Bout",
+      "date": "2023-09-15",
+      "elo_delta": -21.5,
+      "event_name": "ONE Friday Fights 33: Yod-IQ vs. Balyko",
+      "fight_id": "d0672f6ab98345bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Teeyai P.K.Saenchai",
+      "opponent_elo": 1553.8,
+      "outcome": "red_win",
+      "post_elo": 1460.5,
+      "pre_elo": 1482.0,
+      "red_name": "Teeyai P.K.Saenchai",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Ayad Albadr",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-01-27",
+      "elo_delta": -18.0,
+      "event_name": "ONE Friday Fights 2: Sangmanee vs. Kulabdam 2",
+      "fight_id": "3ba00d7998dbc249",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Elias Ghazali",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Elias Ghazali",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-01-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-27",
+      "fight_id": "3ba00d7998dbc249",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-01-27",
+      "fight_id": "3ba00d7998dbc249",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-15",
+      "fight_id": "d0672f6ab98345bb",
+      "rating": 1460.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-09-15",
+      "fight_id": "d0672f6ab98345bb",
+      "rating": 1464.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-17",
+      "fight_id": "e8432c35c787ce76",
+      "rating": 1485.1,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2025-01-17",
+      "fight_id": "e8432c35c787ce76",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-17",
+  "name": "Ayad Albadr",
+  "nickname": "",
+  "overall_elo": 1482.8,
+  "peak_elo": 1500.0,
+  "slug": "ayad-albadr",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

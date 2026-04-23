@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 225,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Baruto Kaito",
+      "bout_type": "Open Weight Bout",
+      "date": "2016-12-31",
+      "elo_delta": -10.0,
+      "event_name": "Rizin World Grand-Prix 2016: Final Round",
+      "fight_id": "ee681597aa1e8488",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Knee to the Body)",
+      "opponent": "Mirko Cro Cop",
+      "opponent_elo": 1734.8,
+      "outcome": "red_win",
+      "post_elo": 1540.7,
+      "pre_elo": 1550.7,
+      "red_name": "Mirko Cro Cop",
+      "round": "1",
+      "time": "0:49",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tsuyoshi Kosaka",
+      "bout_type": "Open Weight Bout",
+      "date": "2016-12-29",
+      "elo_delta": 15.8,
+      "event_name": "Rizin World Grand-Prix 2016: 2nd Round",
+      "fight_id": "6c59d5875ef3f64d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Tsuyoshi Kosaka",
+      "opponent_elo": 1492.0,
+      "outcome": "red_win",
+      "post_elo": 1550.7,
+      "pre_elo": 1534.9,
+      "red_name": "Baruto Kaito",
+      "round": "2",
+      "time": "10:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kazuyuki Fujita",
+      "bout_type": "Open Weight Bout",
+      "date": "2016-09-25",
+      "elo_delta": 16.9,
+      "event_name": "Rizin World Grand-Prix 2016: 1st Round",
+      "fight_id": "4ac5a175144823a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kazuyuki Fujita",
+      "opponent_elo": 1496.4,
+      "outcome": "red_win",
+      "post_elo": 1534.9,
+      "pre_elo": 1518.0,
+      "red_name": "Baruto Kaito",
+      "round": "2",
+      "time": "10:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Peter Aerts",
+      "bout_type": "Open Weight Bout",
+      "date": "2015-12-31",
+      "elo_delta": 18.0,
+      "event_name": "Rizin World Grand Prix 2015: Part 2 - Iza",
+      "fight_id": "836dfc9ff2d0707e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Peter Aerts",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Baruto Kaito",
+      "round": "3",
+      "time": "9:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2015-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-12-31",
+      "fight_id": "836dfc9ff2d0707e",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2015-12-31",
+      "fight_id": "836dfc9ff2d0707e",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-09-25",
+      "fight_id": "4ac5a175144823a5",
+      "rating": 1534.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2016-09-25",
+      "fight_id": "4ac5a175144823a5",
+      "rating": 1531.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-12-29",
+      "fight_id": "6c59d5875ef3f64d",
+      "rating": 1550.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2016-12-29",
+      "fight_id": "6c59d5875ef3f64d",
+      "rating": 1546.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-12-31",
+      "fight_id": "ee681597aa1e8488",
+      "rating": 1540.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2016-12-31",
+      "fight_id": "ee681597aa1e8488",
+      "rating": 1536.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-12-31",
+  "name": "Baruto Kaito",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1550.7,
+  "slug": "baruto-kaito",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

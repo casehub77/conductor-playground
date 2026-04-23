@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 70,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Milena Galvão",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2026-03-27",
+      "elo_delta": -19.0,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "56e2db176af8452b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Djulia Ariana",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.0,
+      "red_name": "Djulia Ariana",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ramana Toscanelli",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-11-07",
+      "elo_delta": 19.0,
+      "event_name": "LFA 221: Clark vs. Consuli",
+      "fight_id": "06ad4b8aff3213da",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Ramana Toscanelli",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Milena Galvão",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-11-07",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-11-07",
+      "fight_id": "06ad4b8aff3213da",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "06ad4b8aff3213da",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "56e2db176af8452b",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "56e2db176af8452b",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Milena Galvão",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.0,
+  "slug": "milena-galvao",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

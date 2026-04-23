@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 449,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paul Jones",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": -20.8,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "5cd710d4683d3f6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Chuck Liddell",
+      "opponent_elo": 1495.6,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1519.4,
+      "red_name": "Chuck Liddell",
+      "round": "1.0",
+      "time": "3:53",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Flavio Luiz Moura",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-07-16",
+      "elo_delta": 19.4,
+      "event_name": "UFC 21: Return of the Champions",
+      "fight_id": "d79c5cfc1730c184",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Flavio Luiz Moura",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Paul Jones",
+      "round": "1.0",
+      "time": "4:20",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "1999-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-07-16",
+      "fight_id": "d79c5cfc1730c184",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "d79c5cfc1730c184",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "5cd710d4683d3f6e",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "5cd710d4683d3f6e",
+      "rating": 1499.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-09-24",
+  "name": "Paul Jones",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "paul-jones",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

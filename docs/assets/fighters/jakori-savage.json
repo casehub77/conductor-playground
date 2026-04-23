@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 212,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Taylor Escamilla",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-06-10",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 134: Gafurov vs. Sousa",
+      "fight_id": "8f3daf748cb6767d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Taylor Escamilla",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Jakori Savage",
+      "round": "1",
+      "time": "2:42",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Siteu Senghor",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-01-14",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 121: Brown vs. Jones",
+      "fight_id": "3bf68be3832c1506",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Siteu Senghor",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jakori Savage",
+      "round": "1",
+      "time": "3:53",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-01-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-14",
+      "fight_id": "3bf68be3832c1506",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "3bf68be3832c1506",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-10",
+      "fight_id": "8f3daf748cb6767d",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-06-10",
+      "fight_id": "8f3daf748cb6767d",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-10",
+  "name": "Jakori Savage",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "jakori-savage",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

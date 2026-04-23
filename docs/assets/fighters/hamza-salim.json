@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 325,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hamza Salim",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-08-11",
+      "elo_delta": -17.6,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "fb48aa6bf8a1ae6d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (arm triangle choke)",
+      "opponent": "Sullivan Cauley",
+      "opponent_elo": 1550.1,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1518.0,
+      "red_name": "Sullivan Cauley",
+      "round": "1",
+      "time": "4:24",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Wes Schultz",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 131: Argueta vs. Silva",
+      "fight_id": "9e5601f4e8e0def3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Wes Schultz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Hamza Salim",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-06",
+      "fight_id": "9e5601f4e8e0def3",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "9e5601f4e8e0def3",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "fb48aa6bf8a1ae6d",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "fb48aa6bf8a1ae6d",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Hamza Salim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "hamza-salim",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

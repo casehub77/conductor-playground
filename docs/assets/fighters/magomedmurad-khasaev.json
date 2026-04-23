@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 528,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Magomedmurad Khasaev",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-08-18",
+      "elo_delta": -20.4,
+      "event_name": "ONE Friday Fights 29: Saeksan vs. Araya",
+      "fight_id": "460d588f8c239452",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Agilan Thani",
+      "opponent_elo": 1501.1,
+      "outcome": "red_win",
+      "post_elo": 1498.5,
+      "pre_elo": 1518.9,
+      "red_name": "Agilan Thani",
+      "round": "2",
+      "time": "3:14",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Arash Mardani",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-05-12",
+      "elo_delta": 21.5,
+      "event_name": "ONE Friday Fights 16: ET vs. Kongthoranee",
+      "fight_id": "3b62e1e9aa38c288",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Arash Mardani",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1521.5,
+      "pre_elo": 1500.0,
+      "red_name": "Magomedmurad Khasaev",
+      "round": "1",
+      "time": "4:25",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-12",
+      "fight_id": "3b62e1e9aa38c288",
+      "rating": 1521.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "3b62e1e9aa38c288",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-18",
+      "fight_id": "460d588f8c239452",
+      "rating": 1498.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-08-18",
+      "fight_id": "460d588f8c239452",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-18",
+  "name": "Magomedmurad Khasaev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.5,
+  "slug": "magomedmurad-khasaev",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

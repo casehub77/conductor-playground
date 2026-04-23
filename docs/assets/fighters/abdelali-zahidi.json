@@ -1,0 +1,65 @@
+{
+  "current_elo": 1495.5,
+  "divisional_rank": 220,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Abdelali Zahidi",
+      "bout_type": "Catchweight (159 lbs) Kickboxing Bout",
+      "date": "2024-12-20",
+      "elo_delta": -20.9,
+      "event_name": "ONE Friday Fights 92: Sitthichai vs. Shadow",
+      "fight_id": "e0c9b3896820f6f9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Marat Grigorian",
+      "opponent_elo": 1489.7,
+      "outcome": "red_win",
+      "post_elo": 1495.5,
+      "pre_elo": 1516.5,
+      "red_name": "Marat Grigorian",
+      "round": "2",
+      "time": "2:36",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-22",
+      "fight_id": "0a5a81095b10b471",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-20",
+      "fight_id": "e0c9b3896820f6f9",
+      "rating": 1495.5,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-12-20",
+      "fight_id": "e0c9b3896820f6f9",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-20",
+  "name": "Abdelali Zahidi",
+  "nickname": "",
+  "overall_elo": 1497.9,
+  "peak_elo": 1516.5,
+  "slug": "abdelali-zahidi",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

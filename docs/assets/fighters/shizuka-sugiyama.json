@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 482,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shizuka Sugiyama",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2018-12-31",
+      "elo_delta": -19.4,
+      "event_name": "Rizin - Heisei's Last Yarennoka!",
+      "fight_id": "cc54d2dc239693dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punch)",
+      "opponent": "Kana Watanabe",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kana Watanabe",
+      "round": "1",
+      "time": "0:11",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shizuka Sugiyama",
+      "bout_type": "Women's Flyweight 57 kg Bout",
+      "date": "2017-12-29",
+      "elo_delta": -18.0,
+      "event_name": "Rizin World Grand Prix 2017: 2nd round",
+      "fight_id": "764e83825f7e96ed",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kana Watanabe",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kana Watanabe",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2017-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-12-29",
+      "fight_id": "764e83825f7e96ed",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2017-12-29",
+      "fight_id": "764e83825f7e96ed",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "cc54d2dc239693dc",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "cc54d2dc239693dc",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-12-31",
+  "name": "Shizuka Sugiyama",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "shizuka-sugiyama",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

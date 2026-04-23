@@ -1,0 +1,126 @@
+{
+  "current_elo": 1465.7,
+  "divisional_rank": 677,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Shannon Ross",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": -16.2,
+      "event_name": "UFC Fight Night: Song vs. Gutierrez",
+      "fight_id": "a1d6af68bf8c67e9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Hyunsung Park",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1444.1,
+      "pre_elo": 1460.2,
+      "red_name": "Hyunsung Park",
+      "round": "2.0",
+      "time": "3:59",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jesus Aguilar",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-07-08",
+      "elo_delta": -19.3,
+      "event_name": "UFC 290: Volkanovski vs. Rodriguez",
+      "fight_id": "dd6cf83aeafeaf22",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jesus Aguilar",
+      "opponent_elo": 1482.6,
+      "outcome": "blue_win",
+      "post_elo": 1460.2,
+      "pre_elo": 1479.5,
+      "red_name": "Shannon Ross",
+      "round": "1.0",
+      "time": "0:17",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Kleydson Rodrigues",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": -20.5,
+      "event_name": "UFC 284: Makhachev vs. Volkanovski",
+      "fight_id": "d612720ab7d0f40b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Kleydson Rodrigues",
+      "opponent_elo": 1481.0,
+      "outcome": "blue_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Shannon Ross",
+      "round": "1.0",
+      "time": "0:59",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "d612720ab7d0f40b",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "d612720ab7d0f40b",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-08",
+      "fight_id": "dd6cf83aeafeaf22",
+      "rating": 1460.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-07-08",
+      "fight_id": "dd6cf83aeafeaf22",
+      "rating": 1464.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "a1d6af68bf8c67e9",
+      "rating": 1444.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "a1d6af68bf8c67e9",
+      "rating": 1450.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-12-09",
+  "name": "Shannon Ross",
+  "nickname": "",
+  "overall_elo": 1471.7,
+  "peak_elo": 1500.0,
+  "slug": "shannon-ross",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

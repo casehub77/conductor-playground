@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 395,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Marcus Hicks",
+      "bout_type": "Catchweight (159 lb) Bout",
+      "date": "2009-08-09",
+      "elo_delta": -18.2,
+      "event_name": "WEC 42: Torres vs. Bowles",
+      "fight_id": "83f42bd3c9a84bd9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Shane Roller",
+      "opponent_elo": 1517.7,
+      "outcome": "red_win",
+      "post_elo": 1502.9,
+      "pre_elo": 1521.0,
+      "red_name": "Shane Roller",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Marcus Hicks",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-03-01",
+      "elo_delta": -16.3,
+      "event_name": "WEC 39: Brown vs. Garcia",
+      "fight_id": "035c06ace67f264f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority) (29-29, 30–27, 29-28)",
+      "opponent": "Rob McCullough",
+      "opponent_elo": 1570.4,
+      "outcome": "red_win",
+      "post_elo": 1521.0,
+      "pre_elo": 1537.3,
+      "red_name": "Rob McCullough",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Marcus Hicks",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-08-03",
+      "elo_delta": -19.9,
+      "event_name": "WEC 35: Condit vs. Miura",
+      "fight_id": "23082f0345ec915d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jamie Varner",
+      "opponent_elo": 1548.3,
+      "outcome": "red_win",
+      "post_elo": 1537.3,
+      "pre_elo": 1557.3,
+      "red_name": "Jamie Varner",
+      "round": "1",
+      "time": "2:08",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ed Ratcliff",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-03-26",
+      "elo_delta": 19.5,
+      "event_name": "WEC 33: Marshall vs. Stann",
+      "fight_id": "0547d9b35c6e3bf4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Ed Ratcliff",
+      "opponent_elo": 1538.3,
+      "outcome": "red_win",
+      "post_elo": 1557.3,
+      "pre_elo": 1537.8,
+      "red_name": "Marcus Hicks",
+      "round": "1",
+      "time": "1:42",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Scott McAfee",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-09-05",
+      "elo_delta": 18.4,
+      "event_name": "WEC 30: McCullough vs. Crunkilton",
+      "fight_id": "89cebe37bf923e47",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Scott McAfee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Marcus Hicks",
+      "round": "1",
+      "time": "2:13",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Sergio Gomez",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-05-12",
+      "elo_delta": 19.4,
+      "event_name": "WEC 27: Marshall vs. McElfresh",
+      "fight_id": "7b8723a814fd9107",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Sergio Gomez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marcus Hicks",
+      "round": "2",
+      "time": "3:20",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2007-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-05-12",
+      "fight_id": "7b8723a814fd9107",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-05-12",
+      "fight_id": "7b8723a814fd9107",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-09-05",
+      "fight_id": "89cebe37bf923e47",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-09-05",
+      "fight_id": "89cebe37bf923e47",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-03-26",
+      "fight_id": "0547d9b35c6e3bf4",
+      "rating": 1557.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-03-26",
+      "fight_id": "0547d9b35c6e3bf4",
+      "rating": 1551.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-08-03",
+      "fight_id": "23082f0345ec915d",
+      "rating": 1537.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-08-03",
+      "fight_id": "23082f0345ec915d",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-03-01",
+      "fight_id": "035c06ace67f264f",
+      "rating": 1521.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-03-01",
+      "fight_id": "035c06ace67f264f",
+      "rating": 1518.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-08-09",
+      "fight_id": "83f42bd3c9a84bd9",
+      "rating": 1502.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-08-09",
+      "fight_id": "83f42bd3c9a84bd9",
+      "rating": 1502.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-08-09",
+  "name": "Marcus Hicks",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1557.3,
+  "slug": "marcus-hicks",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

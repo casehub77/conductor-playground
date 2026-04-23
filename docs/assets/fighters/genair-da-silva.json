@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 763,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Bryan Goldsby",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2011-10-01",
+      "elo_delta": 9.7,
+      "event_name": "Bellator 52",
+      "fight_id": "051560f159c71902",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (D'arce choke)",
+      "opponent": "Bryan Goldsby",
+      "opponent_elo": 1479.8,
+      "outcome": "red_win",
+      "post_elo": 1491.7,
+      "pre_elo": 1482.0,
+      "red_name": "Genair da Silva",
+      "round": "1",
+      "time": "3:51",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Genair da Silva",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-06-25",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 46",
+      "fight_id": "47acc2345ebb7079",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (30–27, 28–29, 29–28)",
+      "opponent": "Marlon Sandro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Marlon Sandro",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-06-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-06-25",
+      "fight_id": "47acc2345ebb7079",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-06-25",
+      "fight_id": "47acc2345ebb7079",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "051560f159c71902",
+      "rating": 1491.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "051560f159c71902",
+      "rating": 1492.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Genair da Silva",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "genair-da-silva",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

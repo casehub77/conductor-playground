@@ -1,0 +1,126 @@
+{
+  "current_elo": 1527.3,
+  "divisional_rank": 107,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ronald Paradeiser",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-14",
+      "elo_delta": 25.3,
+      "event_name": "Oktagon 84: Paradeiser vs. Brito",
+      "fight_id": "c4dd53b227fc0bf0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (spinning backfist)",
+      "opponent": "Ronald Paradeiser",
+      "opponent_elo": 1610.4,
+      "outcome": "red_win",
+      "post_elo": 1527.3,
+      "pre_elo": 1502.0,
+      "red_name": "Kaik Brito",
+      "round": "3",
+      "time": "1:18",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joilton Lutterbach",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 73: Eckerlin vs. Pukač",
+      "fight_id": "792af9c164c5d834",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Joilton Lutterbach",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1481.5,
+      "red_name": "Kaik Brito",
+      "round": "1",
+      "time": "1:43",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kaik Brito",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-12-07",
+      "elo_delta": -18.5,
+      "event_name": "Oktagon 64: Brito vs. Surdu",
+      "fight_id": "6dfc83b3d9f387cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Ion Surdu",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ion Surdu",
+      "round": "1",
+      "time": "2:34",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-12-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "fight_id": "6dfc83b3d9f387cc",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "6dfc83b3d9f387cc",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "792af9c164c5d834",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "792af9c164c5d834",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-14",
+      "fight_id": "c4dd53b227fc0bf0",
+      "rating": 1527.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-14",
+      "fight_id": "c4dd53b227fc0bf0",
+      "rating": 1523.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-14",
+  "name": "Kaik Brito",
+  "nickname": "",
+  "overall_elo": 1523.9,
+  "peak_elo": 1527.3,
+  "slug": "kaik-brito",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 419,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Duane Johnson",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-01-29",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 273: Bader vs. Moldavsky",
+      "fight_id": "5b4bdb73404b48cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Dalton Rosta",
+      "opponent_elo": 1518.8,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Dalton Rosta",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Deven Fisher",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-08-20",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 265: Kongo vs. Kharitonov",
+      "fight_id": "83768ab95ec3f545",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Deven Fisher",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Duane Johnson",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-20",
+      "fight_id": "83768ab95ec3f545",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-08-20",
+      "fight_id": "83768ab95ec3f545",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "5b4bdb73404b48cc",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "5b4bdb73404b48cc",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-29",
+  "name": "Duane Johnson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "duane-johnson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

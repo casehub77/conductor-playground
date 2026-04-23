@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 328,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Patrick Quadros",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "42b5e19e13e8603a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Patrick Quadros",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Leo Leite",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-13",
+      "fight_id": "42b5e19e13e8603a",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "42b5e19e13e8603a",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-13",
+  "name": "Leo Leite",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "leo-leite",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

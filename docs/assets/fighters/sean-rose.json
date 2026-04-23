@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 594,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chadricc Kindle",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-06-07",
+      "elo_delta": 19.6,
+      "event_name": "Cage Warriors 173: San Diego",
+      "fight_id": "60d9c6d1764a6127",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Chadricc Kindle",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1479.5,
+      "red_name": "Sean Rose",
+      "round": "1",
+      "time": "2:04",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sean Rose",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-02-23",
+      "elo_delta": -20.5,
+      "event_name": "Cage Warriors 166: San Diego",
+      "fight_id": "406ecd24800f0ed5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Diego Vazquez",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Diego Vazquez",
+      "round": "2",
+      "time": "3:09",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-02-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-02-23",
+      "fight_id": "406ecd24800f0ed5",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-02-23",
+      "fight_id": "406ecd24800f0ed5",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-07",
+      "fight_id": "60d9c6d1764a6127",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-06-07",
+      "fight_id": "60d9c6d1764a6127",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-06-07",
+  "name": "Sean Rose",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "sean-rose",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

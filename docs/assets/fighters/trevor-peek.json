@@ -1,0 +1,194 @@
+{
+  "current_elo": 1484.8,
+  "divisional_rank": 1365,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Yanal Ashmouz",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Burns vs. Brady",
+      "fight_id": "862f813994374f98",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yanal Ashmouz",
+      "opponent_elo": 1501.4,
+      "outcome": "blue_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1499.8,
+      "red_name": "Trevor Peek",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Charlie Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Allen vs. Curtis 2",
+      "fight_id": "afa6953dfb7cdce7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Charlie Campbell",
+      "opponent_elo": 1536.9,
+      "outcome": "blue_win",
+      "post_elo": 1499.8,
+      "pre_elo": 1516.7,
+      "red_name": "Trevor Peek",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Trevor Peek",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-10-21",
+      "elo_delta": 18.1,
+      "event_name": "UFC 294: Makhachev vs. Volkanovski 2",
+      "fight_id": "7b52d702dc53a348",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mohammad Yahya",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1516.7,
+      "pre_elo": 1498.6,
+      "red_name": "Mohammad Yahya",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-06-24",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Emmett vs. Topuria",
+      "fight_id": "ddbc88f72ad2e41a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chepe Mariscal",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1498.6,
+      "pre_elo": 1517.6,
+      "red_name": "Trevor Peek",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Trevor Peek",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": 17.6,
+      "event_name": "UFC Fight Night: Muniz vs. Allen",
+      "fight_id": "7f575071092ab698",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Erick Gonzalez",
+      "opponent_elo": 1466.3,
+      "outcome": "blue_win",
+      "post_elo": 1517.6,
+      "pre_elo": 1500.0,
+      "red_name": "Erick Gonzalez",
+      "round": "1.0",
+      "time": "4:59",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-25",
+      "fight_id": "7f575071092ab698",
+      "rating": 1517.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "7f575071092ab698",
+      "rating": 1515.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "ddbc88f72ad2e41a",
+      "rating": 1498.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "ddbc88f72ad2e41a",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-21",
+      "fight_id": "7b52d702dc53a348",
+      "rating": 1516.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-10-21",
+      "fight_id": "7b52d702dc53a348",
+      "rating": 1515.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "afa6953dfb7cdce7",
+      "rating": 1499.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "afa6953dfb7cdce7",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "862f813994374f98",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "862f813994374f98",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-07",
+  "name": "Trevor Peek",
+  "nickname": "",
+  "overall_elo": 1486.9,
+  "peak_elo": 1517.6,
+  "slug": "trevor-peek",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

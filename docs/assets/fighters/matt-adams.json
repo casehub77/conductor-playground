@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.9,
+  "divisional_rank": 652,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matt Adams",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-01-16",
+      "elo_delta": -20.5,
+      "event_name": "LFA 224: Adams vs. Bilalov",
+      "fight_id": "dbe152651f2ef51a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Arslan Bilalov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Arslan Bilalov",
+      "round": "1",
+      "time": "4:47",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ben Wunder",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": 19.4,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "3cbc1cfb9927c697",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ben Wunder",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Matt Adams",
+      "round": "1",
+      "time": "4:01",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "3cbc1cfb9927c697",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "3cbc1cfb9927c697",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "dbe152651f2ef51a",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "dbe152651f2ef51a",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-16",
+  "name": "Matt Adams",
+  "nickname": "",
+  "overall_elo": 1499.1,
+  "peak_elo": 1519.4,
+  "slug": "matt-adams",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

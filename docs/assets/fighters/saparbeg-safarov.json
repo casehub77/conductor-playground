@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 872,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Saparbeg Safarov",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-03-07",
+      "elo_delta": -17.5,
+      "event_name": "UFC 248: Adesanya vs. Romero",
+      "fight_id": "2756a17052c9be43",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Rodolfo Vieira",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1468.0,
+      "pre_elo": 1485.5,
+      "red_name": "Rodolfo Vieira",
+      "round": "1.0",
+      "time": "2:58",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Saparbeg Safarov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-03-16",
+      "elo_delta": 19.8,
+      "event_name": "UFC Fight Night: Till vs. Masvidal",
+      "fight_id": "7b20f0911bedfe51",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nicolae Negumereanu",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1484.3,
+      "pre_elo": 1464.4,
+      "red_name": "Nicolae Negumereanu",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Saparbeg Safarov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2018-02-10",
+      "elo_delta": -17.3,
+      "event_name": "UFC 221: Romero vs. Rockhold",
+      "fight_id": "bfe7571d8fee7a68",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tyson Pedro",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1464.4,
+      "pre_elo": 1481.7,
+      "red_name": "Tyson Pedro",
+      "round": "1.0",
+      "time": "3:54",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Saparbeg Safarov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-12-09",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Lewis vs. Abdurakhimov",
+      "fight_id": "f124b1d71560b301",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gian Villante",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Gian Villante",
+      "round": "2.0",
+      "time": "2:54",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2016-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-12-09",
+      "fight_id": "f124b1d71560b301",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-12-09",
+      "fight_id": "f124b1d71560b301",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-02-10",
+      "fight_id": "bfe7571d8fee7a68",
+      "rating": 1464.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-02-10",
+      "fight_id": "bfe7571d8fee7a68",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-03-16",
+      "fight_id": "7b20f0911bedfe51",
+      "rating": 1484.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-03-16",
+      "fight_id": "7b20f0911bedfe51",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-03-07",
+      "fight_id": "2756a17052c9be43",
+      "rating": 1468.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-03-07",
+      "fight_id": "2756a17052c9be43",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-03-07",
+  "name": "Saparbeg Safarov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "saparbeg-safarov",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

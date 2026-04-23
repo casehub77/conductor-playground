@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 840,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tim Eschtruth",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2019-06-02",
+      "elo_delta": -21.6,
+      "event_name": "Rizin 16 - Kobe",
+      "fight_id": "bbc41874062e8ae5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Elbow and Punches)",
+      "opponent": "Erson Yamamoto",
+      "opponent_elo": 1461.6,
+      "outcome": "red_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1500.0,
+      "red_name": "Erson Yamamoto",
+      "round": "1",
+      "time": "2:04",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2019-06-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-02",
+      "fight_id": "bbc41874062e8ae5",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-06-02",
+      "fight_id": "bbc41874062e8ae5",
+      "rating": 1480.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-06-02",
+  "name": "Tim Eschtruth",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tim-eschtruth",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

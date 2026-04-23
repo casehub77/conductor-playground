@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 684,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Vladimir Malko",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-05-28",
+      "elo_delta": -19.5,
+      "event_name": "Cage Warriors: 42",
+      "fight_id": "88c9ae4a2e6845bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Cathal Pendred",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.4,
+      "red_name": "Cathal Pendred",
+      "round": "2",
+      "time": "3:14",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tom Sullivan",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-11-27",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 39: The Uprising",
+      "fight_id": "16a5eae0abeb3928",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Achilles Lock)",
+      "opponent": "Tom Sullivan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Vladimir Malko",
+      "round": "1",
+      "time": "1:57",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-11-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-11-27",
+      "fight_id": "16a5eae0abeb3928",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-11-27",
+      "fight_id": "16a5eae0abeb3928",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-05-28",
+      "fight_id": "88c9ae4a2e6845bc",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-05-28",
+      "fight_id": "88c9ae4a2e6845bc",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-05-28",
+  "name": "Vladimir Malko",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "vladimir-malko",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

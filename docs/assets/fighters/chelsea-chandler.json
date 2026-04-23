@@ -1,0 +1,167 @@
+{
+  "current_elo": 1469.4,
+  "divisional_rank": 155,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Joselyne Edwards",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Machado Garry vs. Prates",
+      "fight_id": "f84d5691eb1b9552",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joselyne Edwards",
+      "opponent_elo": 1503.3,
+      "outcome": "blue_win",
+      "post_elo": 1469.4,
+      "pre_elo": 1488.0,
+      "red_name": "Chelsea Chandler",
+      "round": "1.0",
+      "time": "2:31",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chelsea Chandler",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-08-10",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Tybura vs. Spivac 2",
+      "fight_id": "f626cfdb8b535487",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yana Santos",
+      "opponent_elo": 1504.1,
+      "outcome": "red_win",
+      "post_elo": 1488.0,
+      "pre_elo": 1506.1,
+      "red_name": "Yana Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chelsea Chandler",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 19.8,
+      "event_name": "UFC Fight Night: Tuivasa vs. Tybura",
+      "fight_id": "ad54936f3ff0863c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Josiane Nunes",
+      "opponent_elo": 1521.4,
+      "outcome": "blue_win",
+      "post_elo": 1506.1,
+      "pre_elo": 1486.3,
+      "red_name": "Josiane Nunes",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chelsea Chandler",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2023-07-15",
+      "elo_delta": -16.0,
+      "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+      "fight_id": "bc1c076e7948b75c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Norma Dumont",
+      "opponent_elo": 1539.4,
+      "outcome": "red_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1500.0,
+      "red_name": "Norma Dumont",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-10-01",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-10-01",
+      "fight_id": "7ffb2e18b98537b2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "bc1c076e7948b75c",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "bc1c076e7948b75c",
+      "rating": 1486.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "ad54936f3ff0863c",
+      "rating": 1506.1,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "ad54936f3ff0863c",
+      "rating": 1505.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "f626cfdb8b535487",
+      "rating": 1488.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "f626cfdb8b535487",
+      "rating": 1488.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "f84d5691eb1b9552",
+      "rating": 1469.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "f84d5691eb1b9552",
+      "rating": 1472.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-26",
+  "name": "Chelsea Chandler",
+  "nickname": "",
+  "overall_elo": 1472.1,
+  "peak_elo": 1517.3,
+  "slug": "chelsea-chandler",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

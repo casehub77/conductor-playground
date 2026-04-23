@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 622,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lorenzo Borgomeo",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": -19.0,
+      "event_name": "Bellator 7/8",
+      "fight_id": "0e2d61fb1158b08d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Troy Gerhart",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Troy Gerhart",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Daniel Morales",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-04-03",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 1",
+      "fight_id": "f0bbd307880aaab1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Daniel Morales",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lorenzo Borgomeo",
+      "round": "3",
+      "time": "3:46",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-04-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-03",
+      "fight_id": "f0bbd307880aaab1",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-04-03",
+      "fight_id": "f0bbd307880aaab1",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "0e2d61fb1158b08d",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "0e2d61fb1158b08d",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-15",
+  "name": "Lorenzo Borgomeo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "lorenzo-borgomeo",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

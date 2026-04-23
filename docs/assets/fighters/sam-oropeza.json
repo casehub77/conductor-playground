@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 508,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sam Oropeza",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-05-14",
+      "elo_delta": -20.5,
+      "event_name": "Bellator 44",
+      "fight_id": "26c276168db16e9a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (scarf hold armlock)",
+      "opponent": "Giedrius Karavackas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Giedrius Karavackas",
+      "round": "3",
+      "time": "3:59",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Don Carlo-Clauss",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-02-12",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Fedor vs. Bigfoot",
+      "fight_id": "ed2a97c40249ff03",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to strikes)",
+      "opponent": "Don Carlo-Clauss",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Sam Oropeza",
+      "round": "1",
+      "time": "4:10",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2011-02-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-02-12",
+      "fight_id": "ed2a97c40249ff03",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-02-12",
+      "fight_id": "ed2a97c40249ff03",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-05-14",
+      "fight_id": "26c276168db16e9a",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-05-14",
+      "fight_id": "26c276168db16e9a",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-05-14",
+  "name": "Sam Oropeza",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "sam-oropeza",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

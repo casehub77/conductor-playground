@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 523,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Panrit Lookjaomaesaiwaree",
+      "bout_type": "Catchweight (143 lbs) Muay Thai Bout",
+      "date": "2023-08-18",
+      "elo_delta": -18.9,
+      "event_name": "ONE Friday Fights 29: Saeksan vs. Araya",
+      "fight_id": "dce579a7858ed80f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority)",
+      "opponent": "Komawut FA Group",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Komawut FA Group",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Paedsanlek P.K.Saenchai",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2023-03-24",
+      "elo_delta": 18.0,
+      "event_name": "ONE Friday Fights 10: Yodkrisada vs. Thepthaksin",
+      "fight_id": "adfa3aa05542fa5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Paedsanlek P.K.Saenchai",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Panrit Lookjaomaesaiwaree",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-03-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-24",
+      "fight_id": "adfa3aa05542fa5c",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-03-24",
+      "fight_id": "adfa3aa05542fa5c",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-18",
+      "fight_id": "dce579a7858ed80f",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-08-18",
+      "fight_id": "dce579a7858ed80f",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-18",
+  "name": "Panrit Lookjaomaesaiwaree",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "panrit-lookjaomaesaiwaree",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

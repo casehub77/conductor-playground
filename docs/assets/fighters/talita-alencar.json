@@ -1,0 +1,160 @@
+{
+  "current_elo": 1540.6,
+  "divisional_rank": 30,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ariane Carnelossi",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "fight_id": "bbdcee6953e93b4c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ariane Carnelossi",
+      "opponent_elo": 1521.5,
+      "outcome": "red_win",
+      "post_elo": 1540.6,
+      "pre_elo": 1521.1,
+      "red_name": "Talita Alencar",
+      "round": "3.0",
+      "time": "4:36",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Talita Alencar",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": 21.1,
+      "event_name": "UFC Fight Night: Emmett vs. Murphy",
+      "fight_id": "349f2fbe5f789952",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Vanessa Demopoulos",
+      "opponent_elo": 1561.4,
+      "outcome": "blue_win",
+      "post_elo": 1521.1,
+      "pre_elo": 1500.0,
+      "red_name": "Vanessa Demopoulos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Talita Alencar",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-08-10",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Tybura vs. Spivac 2",
+      "fight_id": "d39562c738c0e61b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Stephanie Luciano",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1518.0,
+      "red_name": "Stephanie Luciano",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Talita Alencar",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Song vs. Gutierrez",
+      "fight_id": "31fe51c884c5d540",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Rayanne Dos Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Rayanne Dos Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2023-12-09",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-12-09",
+      "fight_id": "31fe51c884c5d540",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "31fe51c884c5d540",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "d39562c738c0e61b",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "d39562c738c0e61b",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "349f2fbe5f789952",
+      "rating": 1521.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "349f2fbe5f789952",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "bbdcee6953e93b4c",
+      "rating": 1540.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "bbdcee6953e93b4c",
+      "rating": 1535.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-01",
+  "name": "Talita Alencar",
+  "nickname": "",
+  "overall_elo": 1535.3,
+  "peak_elo": 1540.6,
+  "slug": "talita-alencar",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

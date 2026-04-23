@@ -1,0 +1,194 @@
+{
+  "current_elo": 1484.7,
+  "divisional_rank": 574,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Ger Harris",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -18.1,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "7c1f785e36eff920",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 30–27)",
+      "opponent": "Tanio Pagliariccio",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1484.7,
+      "pre_elo": 1502.8,
+      "red_name": "Tanio Pagliariccio",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jonny Touma",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "d002a5fa6714dba6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jonny Touma",
+      "opponent_elo": 1483.5,
+      "outcome": "red_win",
+      "post_elo": 1502.8,
+      "pre_elo": 1483.4,
+      "red_name": "Ger Harris",
+      "round": "1",
+      "time": "2:58",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ger Harris",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": -18.1,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "e6c0f0a8504e515f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Marcus Vinicius Ferreira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1501.4,
+      "red_name": "Marcus Vinicius Ferreira",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ger Harris",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "d5171d132d0ea3f6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 30–27)",
+      "opponent": "Jawany Scott",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Jawany Scott",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Gregory Wamytan",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 170: Dublin",
+      "fight_id": "98093c1f7075c076",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Gregory Wamytan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ger Harris",
+      "round": "1",
+      "time": "3:32",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-04-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-06",
+      "fight_id": "98093c1f7075c076",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "98093c1f7075c076",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "d5171d132d0ea3f6",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "d5171d132d0ea3f6",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "e6c0f0a8504e515f",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "e6c0f0a8504e515f",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "d002a5fa6714dba6",
+      "rating": 1502.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "d002a5fa6714dba6",
+      "rating": 1502.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "7c1f785e36eff920",
+      "rating": 1484.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "7c1f785e36eff920",
+      "rating": 1486.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Ger Harris",
+  "nickname": "",
+  "overall_elo": 1486.4,
+  "peak_elo": 1519.4,
+  "slug": "ger-harris",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

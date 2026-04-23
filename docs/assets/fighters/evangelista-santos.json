@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 456,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Evangelista Santos",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-09-10",
+      "elo_delta": -19.9,
+      "event_name": "Strikeforce: Barnett vs. Kharitonov",
+      "fight_id": "c38f781fdd4905ef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Jordan Mein",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1488.2,
+      "pre_elo": 1508.1,
+      "red_name": "Jordan Mein",
+      "round": "3",
+      "time": "3:18",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Evangelista Santos",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-01-29",
+      "elo_delta": -12.1,
+      "event_name": "Strikeforce: Diaz vs. Cyborg",
+      "fight_id": "94746237d5c4a428",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Nick Diaz",
+      "opponent_elo": 1658.8,
+      "outcome": "red_win",
+      "post_elo": 1508.1,
+      "pre_elo": 1520.1,
+      "red_name": "Nick Diaz",
+      "round": "2",
+      "time": "4:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Marius Žaromskis",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-06-16",
+      "elo_delta": 18.6,
+      "event_name": "Strikeforce: Los Angeles",
+      "fight_id": "0a93f36bf49f937c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Marius Žaromskis",
+      "opponent_elo": 1486.9,
+      "outcome": "red_win",
+      "post_elo": 1520.1,
+      "pre_elo": 1501.5,
+      "red_name": "Evangelista Santos",
+      "round": "1",
+      "time": "2:38",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Yosuke Nishijima",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-09-10",
+      "elo_delta": 18.7,
+      "event_name": "Pride: Final Conflict Absolute",
+      "fight_id": "037ab3dbba691efc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Yosuke Nishijima",
+      "opponent_elo": 1470.1,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1483.5,
+      "red_name": "Evangelista Santos",
+      "round": "1",
+      "time": "3:24",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Evangelista Santos",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-07-01",
+      "elo_delta": -16.5,
+      "event_name": "Pride: Critical Countdown Absolute",
+      "fight_id": "12243824fd6bb032",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Keylock)",
+      "opponent": "Kazuhiro Nakamura",
+      "opponent_elo": 1552.4,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Kazuhiro Nakamura",
+      "round": "1",
+      "time": "4:49",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-07-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-07-01",
+      "fight_id": "12243824fd6bb032",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-07-01",
+      "fight_id": "12243824fd6bb032",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-09-10",
+      "fight_id": "037ab3dbba691efc",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-09-10",
+      "fight_id": "037ab3dbba691efc",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-16",
+      "fight_id": "0a93f36bf49f937c",
+      "rating": 1520.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-06-16",
+      "fight_id": "0a93f36bf49f937c",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "94746237d5c4a428",
+      "rating": 1508.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "94746237d5c4a428",
+      "rating": 1506.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-10",
+      "fight_id": "c38f781fdd4905ef",
+      "rating": 1488.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-09-10",
+      "fight_id": "c38f781fdd4905ef",
+      "rating": 1489.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-10",
+  "name": "Evangelista Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.1,
+  "slug": "evangelista-santos",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

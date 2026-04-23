@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 501,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marcin Trzciński",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2022-03-19",
+      "elo_delta": -18.0,
+      "event_name": "KSW 68: Parnasse vs. Rutkowski",
+      "fight_id": "fa802967023e5cde",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Adam Tomasik",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1462.6,
+      "pre_elo": 1480.6,
+      "red_name": "Adam Tomasik",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Marcin Trzciński",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2021-09-04",
+      "elo_delta": -19.4,
+      "event_name": "KSW 63: Crime of The Century",
+      "fight_id": "fbd14957013a3bbd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Damian Piwowarczyk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Damian Piwowarczyk",
+      "round": "2",
+      "time": "2:06",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-09-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-04",
+      "fight_id": "fbd14957013a3bbd",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "fbd14957013a3bbd",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-19",
+      "fight_id": "fa802967023e5cde",
+      "rating": 1462.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-03-19",
+      "fight_id": "fa802967023e5cde",
+      "rating": 1466.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-03-19",
+  "name": "Marcin Trzciński",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "marcin-trzcinski",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

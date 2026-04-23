@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.8,
+  "divisional_rank": 722,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hugo Cunha",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": -17.2,
+      "event_name": "LFA 204: Cunha vs. Freeman",
+      "fight_id": "dd73b428e409ebda",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Denzel Freeman",
+      "opponent_elo": 1521.5,
+      "outcome": "red_win",
+      "post_elo": 1464.8,
+      "pre_elo": 1482.0,
+      "red_name": "Denzel Freeman",
+      "round": "2",
+      "time": "2:10",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Hugo Cunha",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": -18.0,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "5a2daccf4a927a5b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Dustin Joynson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dustin Joynson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "5a2daccf4a927a5b",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "5a2daccf4a927a5b",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "dd73b428e409ebda",
+      "rating": 1464.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "dd73b428e409ebda",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-22",
+  "name": "Hugo Cunha",
+  "nickname": "",
+  "overall_elo": 1468.4,
+  "peak_elo": 1500.0,
+  "slug": "hugo-cunha",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

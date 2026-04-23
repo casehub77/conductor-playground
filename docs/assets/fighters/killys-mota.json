@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 489,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Killys Mota",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2023-11-17",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 301: Amosov vs. Jackson",
+      "fight_id": "c4d79c6c9e7e7769",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Islam Mamedov",
+      "opponent_elo": 1507.8,
+      "outcome": "red_win",
+      "post_elo": 1516.1,
+      "pre_elo": 1535.5,
+      "red_name": "Islam Mamedov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kenneth Cross",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-04-21",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 294: Carmouche vs. Bennett 2",
+      "fight_id": "4ff450f8ee96d0de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Kenneth Cross",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.5,
+      "pre_elo": 1517.0,
+      "red_name": "Killys Mota",
+      "round": "2",
+      "time": "2:14",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jairo Pacheco",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": 19.1,
+      "event_name": "Bellator 288: Nemkov vs. Anderson 2",
+      "fight_id": "c767152bfceef4c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Jairo Pacheco",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1497.9,
+      "red_name": "Killys Mota",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Dan Moret",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-06-24",
+      "elo_delta": 15.9,
+      "event_name": "Bellator 282: Mousasi vs. Eblen",
+      "fight_id": "c12a7ee70f7326bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Dan Moret",
+      "opponent_elo": 1440.8,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1482.0,
+      "red_name": "Killys Mota",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Killys Mota",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 272: Pettis vs. Horiguchi",
+      "fight_id": "b6a00017b251f995",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (28–29, 29–28, 30–27)",
+      "opponent": "Mike Hamel",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Hamel",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-03",
+      "fight_id": "b6a00017b251f995",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "b6a00017b251f995",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "c12a7ee70f7326bc",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "c12a7ee70f7326bc",
+      "rating": 1498.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "c767152bfceef4c9",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "c767152bfceef4c9",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "4ff450f8ee96d0de",
+      "rating": 1535.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "4ff450f8ee96d0de",
+      "rating": 1531.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "c4d79c6c9e7e7769",
+      "rating": 1516.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "c4d79c6c9e7e7769",
+      "rating": 1514.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-17",
+  "name": "Killys Mota",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.5,
+  "slug": "killys-mota",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

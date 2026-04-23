@@ -1,0 +1,126 @@
+{
+  "current_elo": 1481.2,
+  "divisional_rank": 226,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tereza Bleda",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-12-13",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Royval vs. Kape",
+      "fight_id": "4f28e2b42ac2e7bc",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jamey-Lyn Horth",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1481.2,
+      "pre_elo": 1499.6,
+      "red_name": "Jamey-Lyn Horth",
+      "round": "1.0",
+      "time": "2:05",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Gabriella Fernandes",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+      "fight_id": "0b505f44df00a2b3",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Gabriella Fernandes",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1481.6,
+      "red_name": "Tereza Bleda",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Tereza Bleda",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-11-19",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Nzechukwu vs. Cutelaba",
+      "fight_id": "4d345777e7c43801",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Natalia Silva",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Natalia Silva",
+      "round": "3.0",
+      "time": "1:27",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-11-19",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-11-19",
+      "fight_id": "4d345777e7c43801",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "4d345777e7c43801",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "0b505f44df00a2b3",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "0b505f44df00a2b3",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-12-13",
+      "fight_id": "4f28e2b42ac2e7bc",
+      "rating": 1481.2,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-12-13",
+      "fight_id": "4f28e2b42ac2e7bc",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-13",
+  "name": "Tereza Bleda",
+  "nickname": "",
+  "overall_elo": 1483.2,
+  "peak_elo": 1500.0,
+  "slug": "tereza-bleda",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

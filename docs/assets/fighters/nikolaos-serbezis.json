@@ -1,0 +1,126 @@
+{
+  "current_elo": 1477.5,
+  "divisional_rank": 1185,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Nikolaos Serbezis",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": -20.3,
+      "event_name": "Oktagon 75: Palokaj vs. Batfalský",
+      "fight_id": "75c35ba43b2233f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Henrique Madureira",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1477.5,
+      "pre_elo": 1497.8,
+      "red_name": "Henrique Madureira",
+      "round": "1",
+      "time": "2:35",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Nikolaos Serbezis",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-23",
+      "elo_delta": -21.6,
+      "event_name": "Oktagon 55: Jungwirth vs. Pukač 2",
+      "fight_id": "453cdfdc51e97478",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Michael Deiga-Scheck",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1497.8,
+      "pre_elo": 1519.4,
+      "red_name": "Michael Deiga-Scheck",
+      "round": "1",
+      "time": "0:53",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ivan Klevets",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-07-29",
+      "elo_delta": 19.4,
+      "event_name": "Oktagon 45: Sanikidze vs. Keita",
+      "fight_id": "3a481d7aaaf26553",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Ivan Klevets",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Nikolaos Serbezis",
+      "round": "2",
+      "time": "4:13",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-29",
+      "fight_id": "3a481d7aaaf26553",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-07-29",
+      "fight_id": "3a481d7aaaf26553",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "453cdfdc51e97478",
+      "rating": 1497.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "453cdfdc51e97478",
+      "rating": 1498.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "75c35ba43b2233f1",
+      "rating": 1477.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "75c35ba43b2233f1",
+      "rating": 1480.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-13",
+  "name": "Nikolaos Serbezis",
+  "nickname": "",
+  "overall_elo": 1480.2,
+  "peak_elo": 1519.4,
+  "slug": "nikolaos-serbezis",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

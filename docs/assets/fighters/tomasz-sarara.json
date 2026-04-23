@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 320,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tomasz Sarara",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2022-08-20",
+      "elo_delta": -20.5,
+      "event_name": "KSW 73: Wrzosek vs. Sarara",
+      "fight_id": "e72e9e98d454b44e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knees and Punches)",
+      "opponent": "Arkadiusz Wrzosek",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Arkadiusz Wrzosek",
+      "round": "3",
+      "time": "3:55",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Filip Bradaric",
+      "bout_type": "Heavyweight 93 kg Bout",
+      "date": "2021-07-17",
+      "elo_delta": 19.4,
+      "event_name": "KSW 62: Kołecki vs. Szostak",
+      "fight_id": "c7ce03d27f9c5adb",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Retirement)",
+      "opponent": "Filip Bradaric",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tomasz Sarara",
+      "round": "3",
+      "time": "1:51",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-07-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-17",
+      "fight_id": "c7ce03d27f9c5adb",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-07-17",
+      "fight_id": "c7ce03d27f9c5adb",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "e72e9e98d454b44e",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "e72e9e98d454b44e",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-20",
+  "name": "Tomasz Sarara",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "tomasz-sarara",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

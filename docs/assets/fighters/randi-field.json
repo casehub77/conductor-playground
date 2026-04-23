@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 128,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ashley Cummins",
+      "bout_type": "Women's Catchweight (120 lb) Bout",
+      "date": "2023-03-31",
+      "elo_delta": 18.9,
+      "event_name": "Bellator 293: Golm vs. James",
+      "fight_id": "0b373011b9220b55",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Ashley Cummins",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.6,
+      "pre_elo": 1481.6,
+      "red_name": "Randi Field",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Maraya Miller",
+      "bout_type": "Catchweight (120 lb) Bout",
+      "date": "2022-04-23",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 279: Cyborg vs. Blencowe 2",
+      "fight_id": "2ac2a6ee70fc3106",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Maraya Miller",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Randi Field",
+      "round": "2",
+      "time": "0:48",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Randi Field",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-10-16",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 268: Nemkov vs. Anglickas",
+      "fight_id": "3bb1580cbaa164d3",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Sumiko Inaba",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Sumiko Inaba",
+      "round": "2",
+      "time": "2:02",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-10-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-10-16",
+      "fight_id": "3bb1580cbaa164d3",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "3bb1580cbaa164d3",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "2ac2a6ee70fc3106",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "2ac2a6ee70fc3106",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "0b373011b9220b55",
+      "rating": 1500.6,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "0b373011b9220b55",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-31",
+  "name": "Randi Field",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "randi-field",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

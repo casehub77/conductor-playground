@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 885,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ray Rodriguez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-03-13",
+      "elo_delta": -14.3,
+      "event_name": "UFC Fight Night: Edwards vs. Muhammad",
+      "fight_id": "e1975e85192f6cef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Rani Yahya",
+      "opponent_elo": 1576.8,
+      "outcome": "red_win",
+      "post_elo": 1469.1,
+      "pre_elo": 1483.5,
+      "red_name": "Rani Yahya",
+      "round": "2.0",
+      "time": "3:09",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ray Rodriguez",
+      "bout_type": "Featherweight Bout",
+      "date": "2020-09-05",
+      "elo_delta": -18.7,
+      "event_name": "UFC Fight Night: Overeem vs. Sakai",
+      "fight_id": "09cac92c5ebaf890",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brian Kelleher",
+      "opponent_elo": 1513.3,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Brian Kelleher",
+      "round": "1.0",
+      "time": "0:39",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-09-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-09-05",
+      "fight_id": "09cac92c5ebaf890",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-09-05",
+      "fight_id": "09cac92c5ebaf890",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-03-13",
+      "fight_id": "e1975e85192f6cef",
+      "rating": 1469.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-13",
+      "fight_id": "e1975e85192f6cef",
+      "rating": 1471.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-03-13",
+  "name": "Ray Rodriguez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ray-rodriguez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 167,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Justin Ledet",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-10-31",
+      "elo_delta": -20.7,
+      "event_name": "UFC Fight Night: Hall vs. Silva",
+      "fight_id": "68ddac917ad89c8b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dustin Jacoby",
+      "opponent_elo": 1467.5,
+      "outcome": "red_win",
+      "post_elo": 1469.3,
+      "pre_elo": 1490.0,
+      "red_name": "Dustin Jacoby",
+      "round": "1.0",
+      "time": "2:38",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Justin Ledet",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-01-18",
+      "elo_delta": -18.4,
+      "event_name": "UFC 246: McGregor vs. Cowboy",
+      "fight_id": "4d525be195c15f94",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aleksa Camur",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1490.0,
+      "pre_elo": 1508.5,
+      "red_name": "Aleksa Camur",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Justin Ledet",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-02-02",
+      "elo_delta": -19.9,
+      "event_name": "UFC Fight Night: Assuncao vs. Moraes 2",
+      "fight_id": "3a6e7e4ac45acd35",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Johnny Walker",
+      "opponent_elo": 1520.8,
+      "outcome": "red_win",
+      "post_elo": 1508.5,
+      "pre_elo": 1528.3,
+      "red_name": "Johnny Walker",
+      "round": "1.0",
+      "time": "0:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Aleksandar Rakic",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2018-07-22",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Shogun vs. Smith",
+      "fight_id": "d2c864887eba461e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aleksandar Rakic",
+      "opponent_elo": 1519.7,
+      "outcome": "blue_win",
+      "post_elo": 1528.3,
+      "pre_elo": 1547.8,
+      "red_name": "Justin Ledet",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Azunna Anyanwu",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-09-16",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: Rockhold vs. Branch",
+      "fight_id": "5eedf01752c1d608",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Azunna Anyanwu",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1553.6,
+      "pre_elo": 1536.4,
+      "red_name": "Justin Ledet",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mark Godbeer",
+      "bout_type": "Heavyweight Bout",
+      "date": "2016-11-19",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Mousasi vs. Hall 2",
+      "fight_id": "44533abf2cbee503",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mark Godbeer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Justin Ledet",
+      "round": "1.0",
+      "time": "2:16",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Justin Ledet",
+      "bout_type": "Heavyweight Bout",
+      "date": "2016-08-06",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Rodriguez vs. Caceres",
+      "fight_id": "4bba3e2624073c74",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chase Sherman",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Chase Sherman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2016-08-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-08-06",
+      "fight_id": "4bba3e2624073c74",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2016-08-06",
+      "fight_id": "4bba3e2624073c74",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-11-19",
+      "fight_id": "44533abf2cbee503",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2016-11-19",
+      "fight_id": "44533abf2cbee503",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-09-16",
+      "fight_id": "5eedf01752c1d608",
+      "rating": 1553.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-09-16",
+      "fight_id": "5eedf01752c1d608",
+      "rating": 1547.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-07-22",
+      "fight_id": "d2c864887eba461e",
+      "rating": 1528.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-07-22",
+      "fight_id": "d2c864887eba461e",
+      "rating": 1530.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-02-02",
+      "fight_id": "3a6e7e4ac45acd35",
+      "rating": 1508.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-02-02",
+      "fight_id": "3a6e7e4ac45acd35",
+      "rating": 1512.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-01-18",
+      "fight_id": "4d525be195c15f94",
+      "rating": 1490.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-01-18",
+      "fight_id": "4d525be195c15f94",
+      "rating": 1495.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-31",
+      "fight_id": "68ddac917ad89c8b",
+      "rating": 1469.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-10-31",
+      "fight_id": "68ddac917ad89c8b",
+      "rating": 1477.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-10-31",
+  "name": "Justin Ledet",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1553.6,
+  "slug": "justin-ledet",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

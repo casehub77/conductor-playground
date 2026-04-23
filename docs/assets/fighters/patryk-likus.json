@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 414,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Patryk Likus",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-12-17",
+      "elo_delta": -21.3,
+      "event_name": "KSW 77: Khalidov vs. Pudzianowski",
+      "fight_id": "de17369496454572",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (triangle choke)",
+      "opponent": "Michał Domin",
+      "opponent_elo": 1480.2,
+      "outcome": "red_win",
+      "post_elo": 1492.6,
+      "pre_elo": 1513.9,
+      "red_name": "Michał Domin",
+      "round": "3",
+      "time": "4:33",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Patryk Likus",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-08-20",
+      "elo_delta": -22.5,
+      "event_name": "KSW 73: Wrzosek vs. Sarara",
+      "fight_id": "bfa251fd4cad25c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Pascal Hintzen",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1513.9,
+      "pre_elo": 1536.4,
+      "red_name": "Pascal Hintzen",
+      "round": "2",
+      "time": "2:07",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Piotr Olszynka",
+      "bout_type": "Catchweight 68 kg Bout",
+      "date": "2021-12-18",
+      "elo_delta": 18.4,
+      "event_name": "KSW 65: Khalidov vs. Soldić",
+      "fight_id": "d3e23c5db7ca271c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Spinning Back Elbow)",
+      "opponent": "Piotr Olszynka",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Patryk Likus",
+      "round": "2",
+      "time": "4:59",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Cyprian Wieczorek",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-03-20",
+      "elo_delta": 18.0,
+      "event_name": "KSW 59: Fight Code",
+      "fight_id": "02a115e294290f1e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Cyprian Wieczorek",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Patryk Likus",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-03-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-20",
+      "fight_id": "02a115e294290f1e",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-03-20",
+      "fight_id": "02a115e294290f1e",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "d3e23c5db7ca271c",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "d3e23c5db7ca271c",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "bfa251fd4cad25c3",
+      "rating": 1513.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "bfa251fd4cad25c3",
+      "rating": 1512.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "de17369496454572",
+      "rating": 1492.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "de17369496454572",
+      "rating": 1494.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-17",
+  "name": "Patryk Likus",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "patryk-likus",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

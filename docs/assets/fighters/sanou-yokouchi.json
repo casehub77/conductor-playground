@@ -1,0 +1,92 @@
+{
+  "current_elo": 1508.1,
+  "divisional_rank": 250,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sanou Yokouchi",
+      "bout_type": "Catchweight 59 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": -11.4,
+      "event_name": "Rizin 50",
+      "fight_id": "102ecfaa0558e3b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Yoshiro Maeda",
+      "opponent_elo": 1460.2,
+      "outcome": "red_win",
+      "post_elo": 1508.1,
+      "pre_elo": 1519.4,
+      "red_name": "Yoshiro Maeda",
+      "round": "3",
+      "time": "2:55",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kenshin Saito",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2024-12-31",
+      "elo_delta": 19.4,
+      "event_name": "Rizin 49: Decade",
+      "fight_id": "4a040250b62964e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Kenshin Saito",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Sanou Yokouchi",
+      "round": "1",
+      "time": "3:03",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-31",
+      "fight_id": "4a040250b62964e4",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "4a040250b62964e4",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "102ecfaa0558e3b7",
+      "rating": 1508.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "102ecfaa0558e3b7",
+      "rating": 1507.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-30",
+  "name": "Sanou Yokouchi",
+  "nickname": "",
+  "overall_elo": 1507.3,
+  "peak_elo": 1519.4,
+  "slug": "sanou-yokouchi",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

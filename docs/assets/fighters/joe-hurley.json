@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1275,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Joe Hurley",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-06-15",
+      "elo_delta": -15.5,
+      "event_name": "WEC 21: Tapout",
+      "fight_id": "9908306e42e9c70f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Nate Diaz",
+      "opponent_elo": 1553.2,
+      "outcome": "red_win",
+      "post_elo": 1466.5,
+      "pre_elo": 1482.0,
+      "red_name": "Nate Diaz",
+      "round": "2",
+      "time": "2:03",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Joe Hurley",
+      "bout_type": "Welterweight Bout",
+      "date": "2003-03-27",
+      "elo_delta": -20.2,
+      "event_name": "WEC 6: Return of a Legend",
+      "fight_id": "bed804cdfd5d8fc8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kimura)",
+      "opponent": "Nick Diaz",
+      "opponent_elo": 1486.1,
+      "outcome": "red_win",
+      "post_elo": 1479.8,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Diaz",
+      "round": "1",
+      "time": "1:55",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2003-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-03-27",
+      "fight_id": "bed804cdfd5d8fc8",
+      "rating": 1479.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2003-03-27",
+      "fight_id": "bed804cdfd5d8fc8",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-06-15",
+      "fight_id": "9908306e42e9c70f",
+      "rating": 1466.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-06-15",
+      "fight_id": "9908306e42e9c70f",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-06-15",
+  "name": "Joe Hurley",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "joe-hurley",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

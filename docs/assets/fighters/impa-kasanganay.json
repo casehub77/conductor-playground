@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 607,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Carlston Harris",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": -19.3,
+      "event_name": "UFC Fight Night: Smith vs. Spann",
+      "fight_id": "15ec2bc42f546fad",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Carlston Harris",
+      "opponent_elo": 1519.5,
+      "outcome": "blue_win",
+      "post_elo": 1497.8,
+      "pre_elo": 1517.2,
+      "red_name": "Impa Kasanganay",
+      "round": "1.0",
+      "time": "2:38",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sasha Palatnikov",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-04-10",
+      "elo_delta": 20.7,
+      "event_name": "UFC Fight Night: Vettori vs. Holland",
+      "fight_id": "648faf9c0875afa8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Sasha Palatnikov",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1496.4,
+      "red_name": "Impa Kasanganay",
+      "round": "2.0",
+      "time": "0:26",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joaquin Buckley",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-10-10",
+      "elo_delta": -21.4,
+      "event_name": "UFC Fight Night: Moraes vs. Sandhagen",
+      "fight_id": "08527a6869dbc1f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joaquin Buckley",
+      "opponent_elo": 1482.7,
+      "outcome": "blue_win",
+      "post_elo": 1495.8,
+      "pre_elo": 1517.1,
+      "red_name": "Impa Kasanganay",
+      "round": "2.0",
+      "time": "2:03",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Impa Kasanganay",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-08-29",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: Smith vs. Rakic",
+      "fight_id": "32d00c8066cdf5dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Maki Pitolo",
+      "opponent_elo": 1483.4,
+      "outcome": "blue_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Maki Pitolo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2020-08-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-29",
+      "fight_id": "32d00c8066cdf5dd",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "32d00c8066cdf5dd",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-10",
+      "fight_id": "08527a6869dbc1f1",
+      "rating": 1495.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-10-10",
+      "fight_id": "08527a6869dbc1f1",
+      "rating": 1496.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "648faf9c0875afa8",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "648faf9c0875afa8",
+      "rating": 1514.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "15ec2bc42f546fad",
+      "rating": 1497.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "15ec2bc42f546fad",
+      "rating": 1497.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-18",
+  "name": "Impa Kasanganay",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.2,
+  "slug": "impa-kasanganay",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

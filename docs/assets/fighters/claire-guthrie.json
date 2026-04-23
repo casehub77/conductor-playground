@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 106,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nadine Mandiau",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-01-15",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 97: Browne vs. Estrázulas",
+      "fight_id": "dcaccf637e6732b0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Nadine Mandiau",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Claire Guthrie",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-01-15",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-01-15",
+      "fight_id": "dcaccf637e6732b0",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-01-15",
+      "fight_id": "dcaccf637e6732b0",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-01-15",
+  "name": "Claire Guthrie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "claire-guthrie",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

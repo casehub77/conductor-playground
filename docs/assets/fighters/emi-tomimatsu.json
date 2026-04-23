@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 180,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Emi Tomimatsu",
+      "bout_type": "W. Strawweight 52 kg Bout",
+      "date": "2020-09-27",
+      "elo_delta": -17.0,
+      "event_name": "Rizin 24 - Saitama",
+      "fight_id": "218172c2f7941a44",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Rena Kubota",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Rena Kubota",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Emi Tomimatsu",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-01-26",
+      "elo_delta": -15.5,
+      "event_name": "Shooto: Battle Mix Tokyo 1",
+      "fight_id": "43dd71fcf514d720",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Eri Kaneya",
+      "opponent_elo": 1554.3,
+      "outcome": "red_win",
+      "post_elo": 1467.3,
+      "pre_elo": 1482.8,
+      "red_name": "Eri Kaneya",
+      "round": "2",
+      "time": "3:46",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Emi Tomimatsu",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-10-20",
+      "elo_delta": -17.2,
+      "event_name": "G-Shooto: Special 02",
+      "fight_id": "41b3662dbf7dc30b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Masako Yoshida",
+      "opponent_elo": 1540.9,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Masako Yoshida",
+      "round": "1",
+      "time": "3:35",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-10-20",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2006-10-20",
+      "fight_id": "41b3662dbf7dc30b",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-10-20",
+      "fight_id": "41b3662dbf7dc30b",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-01-26",
+      "fight_id": "43dd71fcf514d720",
+      "rating": 1467.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-01-26",
+      "fight_id": "43dd71fcf514d720",
+      "rating": 1470.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-09-27",
+      "fight_id": "218172c2f7941a44",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2020-09-27",
+      "fight_id": "218172c2f7941a44",
+      "rating": 1486.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-09-27",
+  "name": "Emi Tomimatsu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "emi-tomimatsu",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

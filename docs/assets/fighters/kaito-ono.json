@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 429,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Masaaki Noiri",
+      "bout_type": "Catchweight 68.5 kg Bout",
+      "date": "2022-06-19",
+      "elo_delta": 16.1,
+      "event_name": "The Match 2022",
+      "fight_id": "dd09f22c485a510a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Ext R. Decision (Unanimous)",
+      "opponent": "Masaaki Noiri",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1552.6,
+      "pre_elo": 1536.4,
+      "red_name": "Kaito Ono",
+      "round": "4",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Daryl Lokoku",
+      "bout_type": "Catchweight 73 kg Bout",
+      "date": "2020-08-10",
+      "elo_delta": 17.0,
+      "event_name": "Rizin 23 – Calling Over",
+      "fight_id": "59805a0a86ce8e40",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Daryl Lokoku",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Kaito Ono",
+      "round": "3",
+      "time": "9:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sho Ogawa",
+      "bout_type": "Featherweight 65 kg Bout",
+      "date": "2018-08-12",
+      "elo_delta": 17.1,
+      "event_name": "Rizin 12 - Nagoya",
+      "fight_id": "8647d05d22222608",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Sho Ogawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.3,
+      "red_name": "Kaito Ono",
+      "round": "3",
+      "time": "9:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Yoshiya Uzatsuyo",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2018-07-29",
+      "elo_delta": 19.4,
+      "event_name": "Rizin 11 - Saitama",
+      "fight_id": "07a2c737457b7c6b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Yoshiya Uzatsuyo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kaito Ono",
+      "round": "2",
+      "time": "4:22",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-07-29",
+      "fight_id": "07a2c737457b7c6b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-07-29",
+      "fight_id": "07a2c737457b7c6b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-08-12",
+      "fight_id": "8647d05d22222608",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-08-12",
+      "fight_id": "8647d05d22222608",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "59805a0a86ce8e40",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "59805a0a86ce8e40",
+      "rating": 1547.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-19",
+      "fight_id": "dd09f22c485a510a",
+      "rating": 1552.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-19",
+      "fight_id": "dd09f22c485a510a",
+      "rating": 1560.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-19",
+  "name": "Kaito Ono",
+  "nickname": "",
+  "overall_elo": 1502.4,
+  "peak_elo": 1560.8,
+  "slug": "kaito-ono",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

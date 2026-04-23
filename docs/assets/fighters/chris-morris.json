@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.4,
+  "divisional_rank": 91,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mariusz Mikołajewski",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-03-14",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 202: Manchester",
+      "fight_id": "cd1a128c3cd758bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Mariusz Mikołajewski",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Chris Morris",
+      "round": "2",
+      "time": "4:11",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Theo Pino",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 198: Manchester",
+      "fight_id": "236b67b6b42eefdf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–26)",
+      "opponent": "Theo Pino",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Morris",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-22",
+      "fight_id": "236b67b6b42eefdf",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "236b67b6b42eefdf",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "cd1a128c3cd758bc",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "cd1a128c3cd758bc",
+      "rating": 1532.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-14",
+  "name": "Chris Morris",
+  "nickname": "",
+  "overall_elo": 1532.4,
+  "peak_elo": 1536.4,
+  "slug": "chris-morris",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

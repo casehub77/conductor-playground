@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 132,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Zhang Weili",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2018-08-04",
+      "elo_delta": -18.0,
+      "event_name": "UFC 227: Dillashaw vs. Garbrandt 2",
+      "fight_id": "dcf95649096bf89f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Zhang Weili",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1481.2,
+      "pre_elo": 1499.1,
+      "red_name": "Danielle Taylor",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "JJ Aldrich",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2018-01-14",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Stephens vs. Choi",
+      "fight_id": "f3cfdc411bffd8b1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "JJ Aldrich",
+      "opponent_elo": 1500.9,
+      "outcome": "blue_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Danielle Taylor",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Danielle Taylor",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2017-04-22",
+      "elo_delta": 17.0,
+      "event_name": "UFC Fight Night: Swanson vs. Lobov",
+      "fight_id": "c6f759133c98d5a9",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jessica Penne",
+      "opponent_elo": 1481.2,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1501.0,
+      "red_name": "Jessica Penne",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Danielle Taylor",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2016-11-26",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Whittaker vs. Brunson",
+      "fight_id": "5ba6bcd280186891",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Seo Hee Ham",
+      "opponent_elo": 1482.0,
+      "outcome": "blue_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1483.1,
+      "red_name": "Seo Hee Ham",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Danielle Taylor",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2016-08-06",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Rodriguez vs. Caceres",
+      "fight_id": "a95d2cf55855cedd",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Maryna Moroz",
+      "opponent_elo": 1520.9,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Maryna Moroz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2016-08-06",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2016-08-06",
+      "fight_id": "a95d2cf55855cedd",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2016-08-06",
+      "fight_id": "a95d2cf55855cedd",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2016-11-26",
+      "fight_id": "5ba6bcd280186891",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2016-11-26",
+      "fight_id": "5ba6bcd280186891",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2017-04-22",
+      "fight_id": "c6f759133c98d5a9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2017-04-22",
+      "fight_id": "c6f759133c98d5a9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-01-14",
+      "fight_id": "f3cfdc411bffd8b1",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2018-01-14",
+      "fight_id": "f3cfdc411bffd8b1",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-08-04",
+      "fight_id": "dcf95649096bf89f",
+      "rating": 1481.2,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2018-08-04",
+      "fight_id": "dcf95649096bf89f",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-08-04",
+  "name": "Danielle Taylor",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "danielle-taylor",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

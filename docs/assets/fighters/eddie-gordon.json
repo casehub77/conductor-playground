@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 420,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Eddie Gordon",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-06-27",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Machida vs Romero",
+      "fight_id": "ea6de9e954f42bb7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Antonio Carlos Junior",
+      "opponent_elo": 1501.0,
+      "outcome": "red_win",
+      "post_elo": 1462.1,
+      "pre_elo": 1480.4,
+      "red_name": "Antonio Carlos Junior",
+      "round": "3.0",
+      "time": "4:37",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Chris Dempsey",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-04-18",
+      "elo_delta": -18.8,
+      "event_name": "UFC on FOX: Machida vs Rockhold",
+      "fight_id": "1437b73c55f75c3d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Chris Dempsey",
+      "opponent_elo": 1483.2,
+      "outcome": "blue_win",
+      "post_elo": 1480.4,
+      "pre_elo": 1499.2,
+      "red_name": "Eddie Gordon",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Josh Samman",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-12-06",
+      "elo_delta": -20.2,
+      "event_name": "UFC 181: Hendricks vs Lawler II",
+      "fight_id": "82529840478edb59",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Josh Samman",
+      "opponent_elo": 1505.0,
+      "outcome": "blue_win",
+      "post_elo": 1499.2,
+      "pre_elo": 1519.4,
+      "red_name": "Eddie Gordon",
+      "round": "2.0",
+      "time": "3:08",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Eddie Gordon",
+      "bout_type": "Ultimate Fighter 19 Middleweight Tournament Title Bout",
+      "date": "2014-07-06",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Edgar vs. Team Penn Finale",
+      "fight_id": "fd30a48233c31c56",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dhiego Lima",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dhiego Lima",
+      "round": "1.0",
+      "time": "1:11",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2014-07-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-07-06",
+      "fight_id": "fd30a48233c31c56",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-07-06",
+      "fight_id": "fd30a48233c31c56",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "82529840478edb59",
+      "rating": 1499.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "82529840478edb59",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-04-18",
+      "fight_id": "1437b73c55f75c3d",
+      "rating": 1480.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-04-18",
+      "fight_id": "1437b73c55f75c3d",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-06-27",
+      "fight_id": "ea6de9e954f42bb7",
+      "rating": 1462.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-06-27",
+      "fight_id": "ea6de9e954f42bb7",
+      "rating": 1466.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-06-27",
+  "name": "Eddie Gordon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "eddie-gordon",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

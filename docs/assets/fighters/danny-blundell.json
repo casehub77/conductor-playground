@@ -1,0 +1,92 @@
+{
+  "current_elo": 1460.3,
+  "divisional_rank": 1219,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Danny Blundell",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-03-21",
+      "elo_delta": -19.3,
+      "event_name": "Cage Warriors 186: London",
+      "fight_id": "59379a046b1f8fbc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Rafael Aronov",
+      "opponent_elo": 1481.7,
+      "outcome": "red_win",
+      "post_elo": 1460.3,
+      "pre_elo": 1479.7,
+      "red_name": "Rafael Aronov",
+      "round": "1",
+      "time": "4:02",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Danny Blundell",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-15",
+      "elo_delta": -20.3,
+      "event_name": "Cage Warriors 180: London",
+      "fight_id": "9632c8c6b8deb754",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (body kick)",
+      "opponent": "Tariq Pell",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Tariq Pell",
+      "round": "1",
+      "time": "3:57",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-11-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-15",
+      "fight_id": "9632c8c6b8deb754",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-15",
+      "fight_id": "9632c8c6b8deb754",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "59379a046b1f8fbc",
+      "rating": 1460.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "59379a046b1f8fbc",
+      "rating": 1464.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-21",
+  "name": "Danny Blundell",
+  "nickname": "",
+  "overall_elo": 1464.7,
+  "peak_elo": 1500.0,
+  "slug": "danny-blundell",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

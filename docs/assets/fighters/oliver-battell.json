@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 350,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ben Rees",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-04-24",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors: 41",
+      "fight_id": "69ca70c9b7bbf1d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Ben Rees",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Oliver Battell",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "George Tidmarsh",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-10-01",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 38: Young Guns",
+      "fight_id": "aa196557adbc4d27",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "George Tidmarsh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Oliver Battell",
+      "round": "1",
+      "time": "1:59",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-10-01",
+      "fight_id": "aa196557adbc4d27",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-10-01",
+      "fight_id": "aa196557adbc4d27",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-24",
+      "fight_id": "69ca70c9b7bbf1d0",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-04-24",
+      "fight_id": "69ca70c9b7bbf1d0",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-24",
+  "name": "Oliver Battell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "oliver-battell",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 512,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Matt Smith",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-08-19",
+      "elo_delta": -18.5,
+      "event_name": "Legacy Fighting Alliance 139: Assenza vs. Melo",
+      "fight_id": "ead640868342bb4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Austin Ross",
+      "opponent_elo": 1516.5,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Austin Ross",
+      "round": "3",
+      "time": "2:12",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-08-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-19",
+      "fight_id": "ead640868342bb4a",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "ead640868342bb4a",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-19",
+  "name": "Matt Smith",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "matt-smith",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 428,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chris Field",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2018-06-09",
+      "elo_delta": -21.3,
+      "event_name": "KSW 44: The Game",
+      "fight_id": "10eebe56ed6252eb",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Wagner Prado",
+      "opponent_elo": 1466.1,
+      "outcome": "red_win",
+      "post_elo": 1478.7,
+      "pre_elo": 1500.0,
+      "red_name": "Wagner Prado",
+      "round": "2",
+      "time": "2:17",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-06-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-06-09",
+      "fight_id": "10eebe56ed6252eb",
+      "rating": 1478.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "10eebe56ed6252eb",
+      "rating": 1481.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-06-09",
+  "name": "Chris Field",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "chris-field",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

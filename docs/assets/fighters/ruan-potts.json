@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 586,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ruan Potts",
+      "bout_type": "Heavyweight Bout",
+      "date": "2015-02-28",
+      "elo_delta": -17.0,
+      "event_name": "UFC 184: Rousey vs Zingano",
+      "fight_id": "47061f47bd20da9e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Derrick Lewis",
+      "opponent_elo": 1505.5,
+      "outcome": "red_win",
+      "post_elo": 1444.5,
+      "pre_elo": 1461.5,
+      "red_name": "Derrick Lewis",
+      "round": "2.0",
+      "time": "3:18",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Anthony Hamilton",
+      "bout_type": "Heavyweight Bout",
+      "date": "2014-08-30",
+      "elo_delta": -19.5,
+      "event_name": "UFC 177: Dillashaw vs Soto",
+      "fight_id": "761d7846a2821e35",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anthony Hamilton",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1461.5,
+      "pre_elo": 1481.0,
+      "red_name": "Ruan Potts",
+      "round": "2.0",
+      "time": "4:17",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ruan Potts",
+      "bout_type": "Heavyweight Bout",
+      "date": "2014-05-10",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Brown vs Silva",
+      "fight_id": "42c319695fec536c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Soa Palelei",
+      "opponent_elo": 1507.6,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Soa Palelei",
+      "round": "1.0",
+      "time": "2:20",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2014-05-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-05-10",
+      "fight_id": "42c319695fec536c",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-05-10",
+      "fight_id": "42c319695fec536c",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-08-30",
+      "fight_id": "761d7846a2821e35",
+      "rating": 1461.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-08-30",
+      "fight_id": "761d7846a2821e35",
+      "rating": 1465.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-02-28",
+      "fight_id": "47061f47bd20da9e",
+      "rating": 1444.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-02-28",
+      "fight_id": "47061f47bd20da9e",
+      "rating": 1450.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-02-28",
+  "name": "Ruan Potts",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ruan-potts",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

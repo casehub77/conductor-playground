@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 440,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Austin Wourms",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": -20.7,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "f15226f7d2d295e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees)",
+      "opponent": "Lucas Clay",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1520.0,
+      "pre_elo": 1540.7,
+      "red_name": "Lucas Clay",
+      "round": "1",
+      "time": "2:59",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jacobi Jones",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2022-02-11",
+      "elo_delta": 21.3,
+      "event_name": "Legacy Fighting Alliance 124: Formiga vs. Bunes",
+      "fight_id": "dd139ea2346319da",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Jacobi Jones",
+      "opponent_elo": 1552.6,
+      "outcome": "red_win",
+      "post_elo": 1540.7,
+      "pre_elo": 1519.4,
+      "red_name": "Austin Wourms",
+      "round": "1",
+      "time": "1:18",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Chris Renteria",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 119: Silveira vs. Revel",
+      "fight_id": "950f5c8d9dd16500",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Chris Renteria",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Austin Wourms",
+      "round": "1",
+      "time": "1:01",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-03",
+      "fight_id": "950f5c8d9dd16500",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "950f5c8d9dd16500",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "dd139ea2346319da",
+      "rating": 1540.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "dd139ea2346319da",
+      "rating": 1536.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "f15226f7d2d295e0",
+      "rating": 1520.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "f15226f7d2d295e0",
+      "rating": 1517.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-08",
+  "name": "Austin Wourms",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1540.7,
+  "slug": "austin-wourms",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

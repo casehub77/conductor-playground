@@ -1,0 +1,194 @@
+{
+  "current_elo": 1571.2,
+  "divisional_rank": 34,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Nursulton Ruziboev",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": 13.9,
+      "event_name": "UFC Fight Night: Burns vs. Morales",
+      "fight_id": "39aedeaa3b031627",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dustin Stoltzfus",
+      "opponent_elo": 1477.3,
+      "outcome": "blue_win",
+      "post_elo": 1571.2,
+      "pre_elo": 1557.2,
+      "red_name": "Dustin Stoltzfus",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Eric Mcconico",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-02-22",
+      "elo_delta": 17.2,
+      "event_name": "UFC Fight Night: Cejudo vs. Song",
+      "fight_id": "ae792fce3a9d4b65",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eric Mcconico",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1557.2,
+      "pre_elo": 1540.0,
+      "red_name": "Nursulton Ruziboev",
+      "round": "2.0",
+      "time": "0:33",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Nursulton Ruziboev",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-05-11",
+      "elo_delta": -15.7,
+      "event_name": "UFC Fight Night: Lewis vs. Nascimento",
+      "fight_id": "ca624d0c532a8544",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Joaquin Buckley",
+      "opponent_elo": 1580.9,
+      "outcome": "red_win",
+      "post_elo": 1519.8,
+      "pre_elo": 1535.5,
+      "red_name": "Joaquin Buckley",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sedriques Dumas",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": 19.2,
+      "event_name": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "fight_id": "8356feaea0431883",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Sedriques Dumas",
+      "opponent_elo": 1517.0,
+      "outcome": "red_win",
+      "post_elo": 1540.0,
+      "pre_elo": 1520.8,
+      "red_name": "Nursulton Ruziboev",
+      "round": "1.0",
+      "time": "3:18",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Nursulton Ruziboev",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-07-01",
+      "elo_delta": 20.8,
+      "event_name": "UFC Fight Night: Strickland vs. Magomedov",
+      "fight_id": "dae367a236b884cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Brunno Ferreira",
+      "opponent_elo": 1524.2,
+      "outcome": "blue_win",
+      "post_elo": 1520.8,
+      "pre_elo": 1500.0,
+      "red_name": "Brunno Ferreira",
+      "round": "1.0",
+      "time": "1:17",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-07-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-01",
+      "fight_id": "dae367a236b884cb",
+      "rating": 1520.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-07-01",
+      "fight_id": "dae367a236b884cb",
+      "rating": 1518.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "8356feaea0431883",
+      "rating": 1540.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "8356feaea0431883",
+      "rating": 1535.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-11",
+      "fight_id": "ca624d0c532a8544",
+      "rating": 1519.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-05-11",
+      "fight_id": "ca624d0c532a8544",
+      "rating": 1521.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "ae792fce3a9d4b65",
+      "rating": 1557.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "ae792fce3a9d4b65",
+      "rating": 1537.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "39aedeaa3b031627",
+      "rating": 1571.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "39aedeaa3b031627",
+      "rating": 1550.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-17",
+  "name": "Nursulton Ruziboev",
+  "nickname": "",
+  "overall_elo": 1550.7,
+  "peak_elo": 1571.2,
+  "slug": "nursulton-ruziboev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

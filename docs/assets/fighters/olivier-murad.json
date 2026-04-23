@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 871,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Olivier Murad",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-06-10",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 134: Gafurov vs. Sousa",
+      "fight_id": "e92ae2c7dc761dfe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Milko Tucto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Milko Tucto",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-06-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-10",
+      "fight_id": "e92ae2c7dc761dfe",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-06-10",
+      "fight_id": "e92ae2c7dc761dfe",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-10",
+  "name": "Olivier Murad",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "olivier-murad",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

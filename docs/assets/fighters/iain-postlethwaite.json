@@ -1,0 +1,92 @@
+{
+  "current_elo": 1496.5,
+  "divisional_rank": 926,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Iain Postlethwaite",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-04-19",
+      "elo_delta": -21.5,
+      "event_name": "Cage Warriors 187: Glasgow",
+      "fight_id": "d9a65b81a2166b88",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Tom Wright",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1496.5,
+      "pre_elo": 1518.0,
+      "red_name": "Tom Wright",
+      "round": "1",
+      "time": "3:34",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Pav Singh Sahota",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 171: Glasgow",
+      "fight_id": "3ccfcb4482c645bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Pav Singh Sahota",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Iain Postlethwaite",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "3ccfcb4482c645bc",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "3ccfcb4482c645bc",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "d9a65b81a2166b88",
+      "rating": 1496.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "d9a65b81a2166b88",
+      "rating": 1497.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-19",
+  "name": "Iain Postlethwaite",
+  "nickname": "",
+  "overall_elo": 1497.1,
+  "peak_elo": 1518.0,
+  "slug": "iain-postlethwaite",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

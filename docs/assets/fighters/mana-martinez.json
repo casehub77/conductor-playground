@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 564,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Cameron Saaiman",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-03-04",
+      "elo_delta": -17.7,
+      "event_name": "UFC 285: Jones vs. Gane",
+      "fight_id": "c139c1d4b9006f77",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Cameron Saaiman",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1496.6,
+      "pre_elo": 1514.3,
+      "red_name": "Mana Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Brandon Davis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-15",
+      "elo_delta": 16.1,
+      "event_name": "UFC Fight Night: Grasso vs. Araujo",
+      "fight_id": "91f2c627f5f018a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Brandon Davis",
+      "opponent_elo": 1461.0,
+      "outcome": "red_win",
+      "post_elo": 1514.3,
+      "pre_elo": 1498.2,
+      "red_name": "Mana Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ronnie Lawrence",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-12",
+      "elo_delta": -17.9,
+      "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+      "fight_id": "009db2ab7d809fb0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ronnie Lawrence",
+      "opponent_elo": 1518.5,
+      "outcome": "blue_win",
+      "post_elo": 1498.2,
+      "pre_elo": 1516.1,
+      "red_name": "Mana Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Guido Cannetti",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-08-28",
+      "elo_delta": 16.1,
+      "event_name": "UFC Fight Night: Barboza vs. Chikadze",
+      "fight_id": "192f72e4ce25d152",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Guido Cannetti",
+      "opponent_elo": 1463.3,
+      "outcome": "red_win",
+      "post_elo": 1516.1,
+      "pre_elo": 1500.0,
+      "red_name": "Mana Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-28",
+      "fight_id": "192f72e4ce25d152",
+      "rating": 1516.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-08-28",
+      "fight_id": "192f72e4ce25d152",
+      "rating": 1514.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "009db2ab7d809fb0",
+      "rating": 1498.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "009db2ab7d809fb0",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-15",
+      "fight_id": "91f2c627f5f018a0",
+      "rating": 1514.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-15",
+      "fight_id": "91f2c627f5f018a0",
+      "rating": 1512.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-04",
+      "fight_id": "c139c1d4b9006f77",
+      "rating": 1496.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-03-04",
+      "fight_id": "c139c1d4b9006f77",
+      "rating": 1496.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-04",
+  "name": "Mana Martinez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.1,
+  "slug": "mana-martinez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

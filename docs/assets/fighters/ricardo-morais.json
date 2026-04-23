@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 371,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tae Hyun Lee",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-09-10",
+      "elo_delta": 20.4,
+      "event_name": "Pride: Final Conflict Absolute",
+      "fight_id": "ba625538b7570705",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Corner Stoppage)",
+      "opponent": "Tae Hyun Lee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.0,
+      "pre_elo": 1483.7,
+      "red_name": "Ricardo Morais",
+      "round": "1",
+      "time": "8:08",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ricardo Morais",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-04-03",
+      "elo_delta": -18.2,
+      "event_name": "Pride: Bushido 6",
+      "fight_id": "94fe5c6a065ad8fb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Alexander Emelianenko",
+      "opponent_elo": 1522.2,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Alexander Emelianenko",
+      "round": "1",
+      "time": "0:15",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-04-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-04-03",
+      "fight_id": "94fe5c6a065ad8fb",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-04-03",
+      "fight_id": "94fe5c6a065ad8fb",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-09-10",
+      "fight_id": "ba625538b7570705",
+      "rating": 1504.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-09-10",
+      "fight_id": "ba625538b7570705",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-09-10",
+  "name": "Ricardo Morais",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.0,
+  "slug": "ricardo-morais",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

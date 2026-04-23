@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1067,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Marc Diakiese",
+      "bout_type": "Lightweight Bout",
+      "date": "2016-10-08",
+      "elo_delta": -17.5,
+      "event_name": "UFC 204: Bisping vs. Henderson",
+      "fight_id": "2d16b0cb64399569",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marc Diakiese",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1448.1,
+      "pre_elo": 1465.6,
+      "red_name": "Lukasz Sajewski",
+      "round": "2.0",
+      "time": "4:40",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Lukasz Sajewski",
+      "bout_type": "Lightweight Bout",
+      "date": "2016-07-07",
+      "elo_delta": -16.5,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "fight_id": "7ed5cb8516479e02",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gilbert Burns",
+      "opponent_elo": 1534.3,
+      "outcome": "red_win",
+      "post_elo": 1465.6,
+      "pre_elo": 1482.1,
+      "red_name": "Gilbert Burns",
+      "round": "1.0",
+      "time": "4:57",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Lukasz Sajewski",
+      "bout_type": "Lightweight Bout",
+      "date": "2015-06-20",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Jedrzejczyk vs Penne",
+      "fight_id": "815a46a74d92c36a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nick Hein",
+      "opponent_elo": 1502.8,
+      "outcome": "red_win",
+      "post_elo": 1482.1,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Hein",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2015-06-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-06-20",
+      "fight_id": "815a46a74d92c36a",
+      "rating": 1482.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-06-20",
+      "fight_id": "815a46a74d92c36a",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-07-07",
+      "fight_id": "7ed5cb8516479e02",
+      "rating": 1465.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-07-07",
+      "fight_id": "7ed5cb8516479e02",
+      "rating": 1469.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-10-08",
+      "fight_id": "2d16b0cb64399569",
+      "rating": 1448.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-10-08",
+      "fight_id": "2d16b0cb64399569",
+      "rating": 1453.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-10-08",
+  "name": "Lukasz Sajewski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "lukasz-sajewski",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1514.3,
+  "divisional_rank": 152,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Hyunsung Park",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": -21.0,
+      "event_name": "UFC Fight Night: De Ridder vs. Allen",
+      "fight_id": "03695cfff5c23b80",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Bruno Silva",
+      "opponent_elo": 1507.6,
+      "outcome": "red_win",
+      "post_elo": 1514.3,
+      "pre_elo": 1535.3,
+      "red_name": "Bruno Silva",
+      "round": "3.0",
+      "time": "2:15",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Hyunsung Park",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": -17.8,
+      "event_name": "UFC Fight Night: Taira vs. Park",
+      "fight_id": "bc27d569c282131c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tatsuro Taira",
+      "opponent_elo": 1583.0,
+      "outcome": "red_win",
+      "post_elo": 1535.3,
+      "pre_elo": 1553.0,
+      "red_name": "Tatsuro Taira",
+      "round": "2.0",
+      "time": "1:06",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Carlos Hernandez",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": 17.4,
+      "event_name": "UFC Fight Night: Burns vs. Morales",
+      "fight_id": "9b70b713b8eaf4f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Carlos Hernandez",
+      "opponent_elo": 1499.4,
+      "outcome": "red_win",
+      "post_elo": 1553.0,
+      "pre_elo": 1535.6,
+      "red_name": "Hyunsung Park",
+      "round": "1.0",
+      "time": "2:26",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shannon Ross",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": 16.2,
+      "event_name": "UFC Fight Night: Song vs. Gutierrez",
+      "fight_id": "a1d6af68bf8c67e9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Shannon Ross",
+      "opponent_elo": 1460.2,
+      "outcome": "red_win",
+      "post_elo": 1535.6,
+      "pre_elo": 1519.4,
+      "red_name": "Hyunsung Park",
+      "round": "2.0",
+      "time": "3:59",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Hyunsung Park",
+      "bout_type": "Road to UFC 1 Flyweight Tournament Title Bout",
+      "date": "2023-02-04",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Lewis vs. Spivac",
+      "fight_id": "2eb3dc77641592a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Seungguk Choi",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Seungguk Choi",
+      "round": "3.0",
+      "time": "3:11",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-04",
+      "fight_id": "2eb3dc77641592a2",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "2eb3dc77641592a2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "a1d6af68bf8c67e9",
+      "rating": 1535.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "a1d6af68bf8c67e9",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "9b70b713b8eaf4f4",
+      "rating": 1553.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "9b70b713b8eaf4f4",
+      "rating": 1547.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "bc27d569c282131c",
+      "rating": 1535.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "bc27d569c282131c",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "03695cfff5c23b80",
+      "rating": 1514.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "03695cfff5c23b80",
+      "rating": 1511.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-18",
+  "name": "Hyunsung Park",
+  "nickname": "",
+  "overall_elo": 1511.1,
+  "peak_elo": 1553.0,
+  "slug": "hyunsung-park",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

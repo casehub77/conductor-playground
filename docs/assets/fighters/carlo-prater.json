@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1231,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Carlo Prater",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-10-05",
+      "elo_delta": -17.7,
+      "event_name": "UFC on FX: Browne vs Bigfoot",
+      "fight_id": "a2f01732117edeb2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Marcus Levesseur",
+      "opponent_elo": 1479.6,
+      "outcome": "red_win",
+      "post_elo": 1455.7,
+      "pre_elo": 1473.4,
+      "red_name": "Marcus Levesseur",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Carlo Prater",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-05-15",
+      "elo_delta": -16.1,
+      "event_name": "UFC on FUEL TV: Korean Zombie vs Poirier",
+      "fight_id": "2677a35316847e54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tj Grant",
+      "opponent_elo": 1526.9,
+      "outcome": "red_win",
+      "post_elo": 1473.4,
+      "pre_elo": 1489.5,
+      "red_name": "Tj Grant",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Carlo Prater",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-01-14",
+      "elo_delta": 22.4,
+      "event_name": "UFC 142: Aldo vs Mendes",
+      "fight_id": "76b06b448b85e56b",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ",
+      "opponent": "Erick Silva",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1489.1,
+      "pre_elo": 1466.7,
+      "red_name": "Erick Silva",
+      "round": "1.0",
+      "time": "0:29",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Carlo Prater",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-08-03",
+      "elo_delta": -16.9,
+      "event_name": "WEC 35: Condit vs. Miura",
+      "fight_id": "7c99c8387bf8bbdf",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Brock Larson",
+      "opponent_elo": 1529.4,
+      "outcome": "red_win",
+      "post_elo": 1466.7,
+      "pre_elo": 1483.6,
+      "red_name": "Brock Larson",
+      "round": "1",
+      "time": "0:37",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Carlo Prater",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-02-13",
+      "elo_delta": -16.4,
+      "event_name": "WEC 32: New Mexico",
+      "fight_id": "ddafcc7e7847be06",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Carlos Condit",
+      "opponent_elo": 1555.5,
+      "outcome": "red_win",
+      "post_elo": 1483.6,
+      "pre_elo": 1500.0,
+      "red_name": "Carlos Condit",
+      "round": "1",
+      "time": "3:48",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2008-02-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-02-13",
+      "fight_id": "ddafcc7e7847be06",
+      "rating": 1483.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-02-13",
+      "fight_id": "ddafcc7e7847be06",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-08-03",
+      "fight_id": "7c99c8387bf8bbdf",
+      "rating": 1466.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-08-03",
+      "fight_id": "7c99c8387bf8bbdf",
+      "rating": 1469.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-01-14",
+      "fight_id": "76b06b448b85e56b",
+      "rating": 1489.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-01-14",
+      "fight_id": "76b06b448b85e56b",
+      "rating": 1489.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-05-15",
+      "fight_id": "2677a35316847e54",
+      "rating": 1473.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-05-15",
+      "fight_id": "2677a35316847e54",
+      "rating": 1475.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-10-05",
+      "fight_id": "a2f01732117edeb2",
+      "rating": 1455.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-10-05",
+      "fight_id": "a2f01732117edeb2",
+      "rating": 1459.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-10-05",
+  "name": "Carlo Prater",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "carlo-prater",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

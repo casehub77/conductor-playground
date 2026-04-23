@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 289,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Fernando Gonzalez",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-01-20",
+      "elo_delta": 18.6,
+      "event_name": "2007 in WEC",
+      "fight_id": "e29ec2b85a08254d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Fernando Gonzalez",
+      "opponent_elo": 1532.5,
+      "outcome": "red_win",
+      "post_elo": 1539.3,
+      "pre_elo": 1520.7,
+      "red_name": "Brendan Seguin",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Fernando Gonzalez",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-01-20",
+      "elo_delta": 20.7,
+      "event_name": "WEC 25: McCullough vs. Cope",
+      "fight_id": "0a1ee66813d895cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Fernando Gonzalez",
+      "opponent_elo": 1553.2,
+      "outcome": "red_win",
+      "post_elo": 1520.7,
+      "pre_elo": 1500.0,
+      "red_name": "Brendan Seguin",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2007-01-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-01-20",
+      "fight_id": "0a1ee66813d895cd",
+      "rating": 1520.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "e29ec2b85a08254d",
+      "rating": 1539.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "0a1ee66813d895cd",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "e29ec2b85a08254d",
+      "rating": 1534.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-01-20",
+  "name": "Brendan Seguin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1539.3,
+  "slug": "brendan-seguin",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

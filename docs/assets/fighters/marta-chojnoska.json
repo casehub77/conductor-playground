@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 449,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Marta Chojnoska",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2019-03-23",
+      "elo_delta": -18.0,
+      "event_name": "KSW 47: The X-Warriors",
+      "fight_id": "07b94fda865638d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Karolina Owczarz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Karolina Owczarz",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Marta Chojnoska",
+      "bout_type": "Catch Weight Bout",
+      "date": "2013-06-08",
+      "elo_delta": -19.5,
+      "event_name": "KSW 23: Khalidov vs. Manhoef",
+      "fight_id": "7e8bbd6549d183b5",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (Rear-naked Choke)",
+      "opponent": "Karolina Kowalkiewicz",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1497.8,
+      "pre_elo": 1517.3,
+      "red_name": "Karolina Kowalkiewicz",
+      "round": "1",
+      "time": "1:11",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2012-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-05-12",
+      "fight_id": "224d225fda383671",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2013-06-08",
+      "fight_id": "7e8bbd6549d183b5",
+      "rating": 1497.8,
+      "scope": "division",
+      "system": "women:Catch Weight"
+    },
+    {
+      "date": "2013-06-08",
+      "fight_id": "7e8bbd6549d183b5",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-03-23",
+      "fight_id": "07b94fda865638d7",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2019-03-23",
+      "fight_id": "07b94fda865638d7",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": true,
+  "last_fight_date": "2019-03-23",
+  "name": "Marta Chojnoska",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "marta-chojnoska",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

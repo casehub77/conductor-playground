@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 413,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Billy Swanson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-08-20",
+      "elo_delta": -21.5,
+      "event_name": "Bellator 265: Kongo vs. Kharitonov",
+      "fight_id": "2f23f8f16524a3de",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Marcelo Golm",
+      "opponent_elo": 1462.2,
+      "outcome": "red_win",
+      "post_elo": 1478.5,
+      "pre_elo": 1500.0,
+      "red_name": "Marcelo Golm",
+      "round": "1",
+      "time": "4:57",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-20",
+      "fight_id": "2f23f8f16524a3de",
+      "rating": 1478.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-08-20",
+      "fight_id": "2f23f8f16524a3de",
+      "rating": 1481.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-08-20",
+  "name": "Billy Swanson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "billy-swanson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 278,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chaongoh Jitmuangnon",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-03-17",
+      "elo_delta": -20.5,
+      "event_name": "ONE Friday Fights 9: Eersel vs. Sinsamut 2",
+      "fight_id": "8b9d2c677f898857",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Sulaiman Looksuan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Sulaiman Looksuan",
+      "round": "2",
+      "time": "1:30",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "An Bunhour",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-02-10",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 4: Duangsompong vs. Batman",
+      "fight_id": "c1a6af30ddbdb868",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "An Bunhour",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Chaongoh Jitmuangnon",
+      "round": "1",
+      "time": "1:07",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "c1a6af30ddbdb868",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-02-10",
+      "fight_id": "c1a6af30ddbdb868",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-17",
+      "fight_id": "8b9d2c677f898857",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-03-17",
+      "fight_id": "8b9d2c677f898857",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-17",
+  "name": "Chaongoh Jitmuangnon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "chaongoh-jitmuangnon",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

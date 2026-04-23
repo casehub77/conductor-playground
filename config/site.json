@@ -1,0 +1,37 @@
+{
+  "title": "ELO Pit Fighter Ratings",
+  "description": "Unofficial MMA fighter Elo ratings built from public fight result data, with fallback ingestion and manual overrides.",
+  "ad_network": {
+    "provider": "",
+    "enabled": false,
+    "script_url": "",
+    "client": "",
+    "auto_ads": false
+  },
+  "ad_slots": {
+    "home_top": {
+      "label": "Leaderboard",
+      "format": "leaderboard",
+      "width": 970,
+      "height": 90,
+      "responsive": true,
+      "slot_id": ""
+    },
+    "fighter_top": {
+      "label": "Leaderboard",
+      "format": "leaderboard",
+      "width": 970,
+      "height": 90,
+      "responsive": true,
+      "slot_id": ""
+    },
+    "footer": {
+      "label": "Wide footer",
+      "format": "footer",
+      "width": 970,
+      "height": 90,
+      "responsive": true,
+      "slot_id": ""
+    }
+  }
+}

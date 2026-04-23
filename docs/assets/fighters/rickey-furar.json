@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 551,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rickey Furar",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": -20.5,
+      "event_name": "Legacy Fighting Alliance 147: Melo vs. Costa",
+      "fight_id": "97919d0ed5810017",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Askar Askar",
+      "opponent_elo": 1497.8,
+      "outcome": "red_win",
+      "post_elo": 1496.8,
+      "pre_elo": 1517.3,
+      "red_name": "Askar Askar",
+      "round": "2",
+      "time": "4:37",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-11-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-12",
+      "fight_id": "6f06045abc25c334",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "97919d0ed5810017",
+      "rating": 1496.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "97919d0ed5810017",
+      "rating": 1499.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-18",
+  "name": "Rickey Furar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "rickey-furar",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

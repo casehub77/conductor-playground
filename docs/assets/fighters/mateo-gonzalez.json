@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 461,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mateo Gonzalez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-14",
+      "elo_delta": -19.0,
+      "event_name": "Legacy Fighting Alliance 144: Gafurov vs. Silva",
+      "fight_id": "cbaebfc406cc9fbe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–25)",
+      "opponent": "Adamu Isah",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Adamu Isah",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cody Rondeau",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-06-10",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 134: Gafurov vs. Sousa",
+      "fight_id": "bc569f22356b1b60",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Cody Rondeau",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mateo Gonzalez",
+      "round": "2",
+      "time": "3:06",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-06-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-10",
+      "fight_id": "bc569f22356b1b60",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-06-10",
+      "fight_id": "bc569f22356b1b60",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "cbaebfc406cc9fbe",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "cbaebfc406cc9fbe",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-14",
+  "name": "Mateo Gonzalez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "mateo-gonzalez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

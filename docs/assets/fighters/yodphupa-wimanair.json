@@ -1,0 +1,194 @@
+{
+  "current_elo": 1498.4,
+  "divisional_rank": 913,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Yodphupa Wimanair",
+      "bout_type": "Catchweight (143 lbs) Muay Thai Bout",
+      "date": "2024-02-02",
+      "elo_delta": -17.9,
+      "event_name": "ONE Friday Fights 50: Yodphupa vs. Komawut",
+      "fight_id": "cb44a0d0a0678f87",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Komawut FA.Group",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1498.4,
+      "red_name": "Komawut FA.Group",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Yodphupa Wimanair",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2023-10-27",
+      "elo_delta": -17.8,
+      "event_name": "ONE Friday Fights 38: Otop vs. Musaev",
+      "fight_id": "c5ca0051e0b2ca3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority)",
+      "opponent": "Mavlud Tupiev",
+      "opponent_elo": 1519.6,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1516.2,
+      "red_name": "Mavlud Tupiev",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Yodphupa Wimanair",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2023-08-11",
+      "elo_delta": -21.5,
+      "event_name": "ONE Friday Fights 28: Kongsuk vs. Jaosuayai",
+      "fight_id": "daaecd24450d99e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (right hook)",
+      "opponent": "Antar Kacem",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1537.8,
+      "red_name": "Antar Kacem",
+      "round": "2",
+      "time": "2:36",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Andrey Khromov",
+      "bout_type": "Catchweight (147 lbs) Muay Thai Bout",
+      "date": "2023-05-12",
+      "elo_delta": 18.4,
+      "event_name": "ONE Friday Fights 16: ET vs. Kongthoranee",
+      "fight_id": "02d351e9687a06ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Andrey Khromov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Yodphupa Wimanair",
+      "round": "2",
+      "time": "1:30",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Samuel Toscano",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2023-04-07",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 12: Petsukumvit vs. Kongthoranee",
+      "fight_id": "6b74e151261c2e5e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Samuel Toscano",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yodphupa Wimanair",
+      "round": "1",
+      "time": "2:20",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-04-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-07",
+      "fight_id": "6b74e151261c2e5e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-04-07",
+      "fight_id": "6b74e151261c2e5e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "02d351e9687a06ec",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "02d351e9687a06ec",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "daaecd24450d99e0",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "daaecd24450d99e0",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "c5ca0051e0b2ca3a",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "c5ca0051e0b2ca3a",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-02",
+      "fight_id": "cb44a0d0a0678f87",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-02-02",
+      "fight_id": "cb44a0d0a0678f87",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-02-02",
+  "name": "Yodphupa Wimanair",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "yodphupa-wimanair",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

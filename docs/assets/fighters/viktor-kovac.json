@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.2,
+  "divisional_rank": 1215,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Viktor Kováč",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-12-28",
+      "elo_delta": -18.4,
+      "event_name": "Oktagon 81: Fleury vs. Buday",
+      "fight_id": "26fd9714c2324feb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Alex Hutyra",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Alex Hutyra",
+      "round": "2",
+      "time": "2:52",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Viktor Kováč",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": -19.4,
+      "event_name": "Oktagon 66: Engizek vs. Oniszczuk",
+      "fight_id": "1c96b97b700e05d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Emir-Can Al",
+      "opponent_elo": 1500.3,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Emir-Can Al",
+      "round": "1",
+      "time": "3:47",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-02-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-01",
+      "fight_id": "1c96b97b700e05d4",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "1c96b97b700e05d4",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "26fd9714c2324feb",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "26fd9714c2324feb",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-28",
+  "name": "Viktor Kováč",
+  "nickname": "",
+  "overall_elo": 1466.3,
+  "peak_elo": 1500.0,
+  "slug": "viktor-kovac",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

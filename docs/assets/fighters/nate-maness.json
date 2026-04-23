@@ -1,0 +1,262 @@
+{
+  "current_elo": 1532.0,
+  "divisional_rank": 94,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Nate Maness",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-06-15",
+      "elo_delta": 17.6,
+      "event_name": "UFC Fight Night: Perez vs. Taira",
+      "fight_id": "a23e394cdc6e4593",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jimmy Flick",
+      "opponent_elo": 1515.1,
+      "outcome": "blue_win",
+      "post_elo": 1540.7,
+      "pre_elo": 1523.2,
+      "red_name": "Jimmy Flick",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mateus Mendonca",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Dawson vs. Green",
+      "fight_id": "7d83bf9a9f7cf77a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mateus Mendonca",
+      "opponent_elo": 1485.5,
+      "outcome": "red_win",
+      "post_elo": 1523.2,
+      "pre_elo": 1504.8,
+      "red_name": "Nate Maness",
+      "round": "1.0",
+      "time": "4:40",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Nate Maness",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-11-05",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: Rodriguez vs. Lemos",
+      "fight_id": "73782c856fe237af",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tagir Ulanbekov",
+      "opponent_elo": 1511.2,
+      "outcome": "red_win",
+      "post_elo": 1504.8,
+      "pre_elo": 1525.0,
+      "red_name": "Tagir Ulanbekov",
+      "round": "1.0",
+      "time": "2:11",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Umar Nurmagomedov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-06-25",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "fight_id": "46a1e3cfaaadef5b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Umar Nurmagomedov",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1524.2,
+      "pre_elo": 1543.5,
+      "red_name": "Nate Maness",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tony Gravely",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Smith vs. Spann",
+      "fight_id": "ab73143c4d860114",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tony Gravely",
+      "opponent_elo": 1517.6,
+      "outcome": "red_win",
+      "post_elo": 1543.5,
+      "pre_elo": 1524.4,
+      "red_name": "Nate Maness",
+      "round": "2.0",
+      "time": "2:10",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nate Maness",
+      "bout_type": "Catch Weight Bout",
+      "date": "2020-11-28",
+      "elo_delta": 9.4,
+      "event_name": "UFC Fight Night: Smith vs. Clark",
+      "fight_id": "ea658afe6b8199f9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Luke Sanders",
+      "opponent_elo": 1506.2,
+      "outcome": "blue_win",
+      "post_elo": 1527.4,
+      "pre_elo": 1518.0,
+      "red_name": "Luke Sanders",
+      "round": "2.0",
+      "time": "2:29",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Nate Maness",
+      "bout_type": "Featherweight Bout",
+      "date": "2020-08-01",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Brunson vs. Shahbazyan",
+      "fight_id": "63459321ef05b9bd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Johnny Munoz",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Johnny Munoz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-08-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-01",
+      "fight_id": "63459321ef05b9bd",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-08-01",
+      "fight_id": "63459321ef05b9bd",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-11-28",
+      "fight_id": "ea658afe6b8199f9",
+      "rating": 1527.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-11-28",
+      "fight_id": "ea658afe6b8199f9",
+      "rating": 1524.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "ab73143c4d860114",
+      "rating": 1543.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "ab73143c4d860114",
+      "rating": 1541.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-25",
+      "fight_id": "46a1e3cfaaadef5b",
+      "rating": 1524.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-06-25",
+      "fight_id": "46a1e3cfaaadef5b",
+      "rating": 1525.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-05",
+      "fight_id": "73782c856fe237af",
+      "rating": 1504.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-11-05",
+      "fight_id": "73782c856fe237af",
+      "rating": 1507.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "7d83bf9a9f7cf77a",
+      "rating": 1523.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "7d83bf9a9f7cf77a",
+      "rating": 1523.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "a23e394cdc6e4593",
+      "rating": 1540.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "a23e394cdc6e4593",
+      "rating": 1538.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-06-15",
+  "name": "Nate Maness",
+  "nickname": "",
+  "overall_elo": 1530.1,
+  "peak_elo": 1543.5,
+  "slug": "nate-maness",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

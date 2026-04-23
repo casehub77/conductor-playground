@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 233,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Eiji Murayama",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-09-08",
+      "elo_delta": 16.3,
+      "event_name": "Shooto 2006: 9/8 in Korakuen Hall",
+      "fight_id": "2dcc4b36f7303651",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Eiji Murayama",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1549.3,
+      "pre_elo": 1533.0,
+      "red_name": "Fanjin Son",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kyotaro Nakao",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-03-24",
+      "elo_delta": 15.9,
+      "event_name": "Shooto: 3/24 in Korakuen Hall",
+      "fight_id": "4c8fb66beaaf23b8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kyotaro Nakao",
+      "opponent_elo": 1476.7,
+      "outcome": "red_win",
+      "post_elo": 1533.0,
+      "pre_elo": 1517.1,
+      "red_name": "Fanjin Son",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hirotaka Tomiyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-11-29",
+      "elo_delta": 17.1,
+      "event_name": "Shooto 2005: 11/29 in Kitazawa Town Hall",
+      "fight_id": "14e0d1024901b9d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Hirotaka Tomiyama",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Fanjin Son",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Fanjin Son",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-07-30",
+      "elo_delta": -19.1,
+      "event_name": "Shooto 2005: 7/30 in Korakuen Hall",
+      "fight_id": "dcc4c937759acd8b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Akitoshi Tamura",
+      "opponent_elo": 1498.1,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.1,
+      "red_name": "Akitoshi Tamura",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tsutomu Shiiki",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-08",
+      "elo_delta": 19.1,
+      "event_name": "Shooto: 5/8 in Osaka Prefectural Gymnasium",
+      "fight_id": "c9ff395cd0913b38",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Tsutomu Shiiki",
+      "opponent_elo": 1493.4,
+      "outcome": "red_win",
+      "post_elo": 1519.1,
+      "pre_elo": 1500.0,
+      "red_name": "Fanjin Son",
+      "round": "1",
+      "time": "3:13",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-08",
+      "fight_id": "c9ff395cd0913b38",
+      "rating": 1519.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-08",
+      "fight_id": "c9ff395cd0913b38",
+      "rating": 1516.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-07-30",
+      "fight_id": "dcc4c937759acd8b",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-07-30",
+      "fight_id": "dcc4c937759acd8b",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-11-29",
+      "fight_id": "14e0d1024901b9d5",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-11-29",
+      "fight_id": "14e0d1024901b9d5",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-24",
+      "fight_id": "4c8fb66beaaf23b8",
+      "rating": 1533.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-03-24",
+      "fight_id": "4c8fb66beaaf23b8",
+      "rating": 1529.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-09-08",
+      "fight_id": "2dcc4b36f7303651",
+      "rating": 1549.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-09-08",
+      "fight_id": "2dcc4b36f7303651",
+      "rating": 1544.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-09-08",
+  "name": "Fanjin Son",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1549.3,
+  "slug": "fanjin-son",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

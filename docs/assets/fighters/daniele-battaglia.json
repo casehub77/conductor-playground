@@ -1,0 +1,92 @@
+{
+  "current_elo": 1461.1,
+  "divisional_rank": 1217,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Daniele Battaglia",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 195: Rome",
+      "fight_id": "64a6ea0d7160dd62",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Theodor Berggren",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1461.1,
+      "pre_elo": 1480.6,
+      "red_name": "Theodor Berggren",
+      "round": "2",
+      "time": "4:44",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Daniele Battaglia",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "84f9b16544043b4c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Luca Mele",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Luca Mele",
+      "round": "2",
+      "time": "3:04",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-11-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-02",
+      "fight_id": "84f9b16544043b4c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "84f9b16544043b4c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "64a6ea0d7160dd62",
+      "rating": 1461.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "64a6ea0d7160dd62",
+      "rating": 1465.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-04",
+  "name": "Daniele Battaglia",
+  "nickname": "",
+  "overall_elo": 1465.4,
+  "peak_elo": 1500.0,
+  "slug": "daniele-battaglia",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

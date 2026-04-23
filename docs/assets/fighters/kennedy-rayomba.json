@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.8,
+  "divisional_rank": 1007,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kennedy Rayomba",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": -14.6,
+      "event_name": "Oktagon 78: Eckerlin vs. Trušček",
+      "fight_id": "a7deb1a409b48abb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (spinning back elbow)",
+      "opponent": "Marek Bartl",
+      "opponent_elo": 1568.0,
+      "outcome": "red_win",
+      "post_elo": 1465.8,
+      "pre_elo": 1480.4,
+      "red_name": "Marek Bartl",
+      "round": "1",
+      "time": "2:59",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Kennedy Rayomba",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": -19.6,
+      "event_name": "Oktagon 66: Engizek vs. Oniszczuk",
+      "fight_id": "48afab5b8d1d3426",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Hojat Khajevand",
+      "opponent_elo": 1498.0,
+      "outcome": "red_win",
+      "post_elo": 1480.4,
+      "pre_elo": 1500.0,
+      "red_name": "Hojat Khajevand",
+      "round": "1",
+      "time": "2:12",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-02-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-01",
+      "fight_id": "48afab5b8d1d3426",
+      "rating": 1480.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "48afab5b8d1d3426",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "a7deb1a409b48abb",
+      "rating": 1465.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "a7deb1a409b48abb",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-18",
+  "name": "Kennedy Rayomba",
+  "nickname": "",
+  "overall_elo": 1469.5,
+  "peak_elo": 1500.0,
+  "slug": "kennedy-rayomba",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 896,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Wallid Ismail",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-02-24",
+      "elo_delta": -18.0,
+      "event_name": "Pride 19",
+      "fight_id": "3dda929d09162611",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Alex Stiebling",
+      "opponent_elo": 1503.4,
+      "outcome": "red_win",
+      "post_elo": 1486.3,
+      "pre_elo": 1504.3,
+      "red_name": "Alex Stiebling",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Shungo Oyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-07-29",
+      "elo_delta": 20.3,
+      "event_name": "Pride 15",
+      "fight_id": "f78891f683f3664b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Arm-Triangle Choke)",
+      "opponent": "Shungo Oyama",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1484.0,
+      "red_name": "Wallid Ismail",
+      "round": "2",
+      "time": "2:30",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Wallid Ismail",
+      "bout_type": "Lightweight Bout",
+      "date": "1997-02-07",
+      "elo_delta": -18.0,
+      "event_name": "UFC 12: Judgement Day",
+      "fight_id": "b9db5793378bf7f8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yoshiki Takahashi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Yoshiki Takahashi",
+      "round": "2.0",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "1997-02-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-02-07",
+      "fight_id": "b9db5793378bf7f8",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1997-02-07",
+      "fight_id": "b9db5793378bf7f8",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-07-29",
+      "fight_id": "f78891f683f3664b",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-07-29",
+      "fight_id": "f78891f683f3664b",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-02-24",
+      "fight_id": "3dda929d09162611",
+      "rating": 1486.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-02-24",
+      "fight_id": "3dda929d09162611",
+      "rating": 1486.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-02-24",
+  "name": "Wallid Ismail",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.3,
+  "slug": "wallid-ismail",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

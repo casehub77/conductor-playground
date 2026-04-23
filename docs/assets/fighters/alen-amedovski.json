@@ -1,0 +1,160 @@
+{
+  "current_elo": 1479.7,
+  "divisional_rank": 991,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Alen Amedovski",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-09-17",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Sandhagen vs. Song",
+      "fight_id": "605e0543b6eb7e77",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joe Pyfer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1427.4,
+      "pre_elo": 1443.7,
+      "red_name": "Joe Pyfer",
+      "round": "1.0",
+      "time": "3:55",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Alen Amedovski",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-05-21",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Holm vs. Vieira",
+      "fight_id": "a00c40b94b7ce8df",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Joseph Holmes",
+      "opponent_elo": 1497.5,
+      "outcome": "red_win",
+      "post_elo": 1443.7,
+      "pre_elo": 1461.1,
+      "red_name": "Joseph Holmes",
+      "round": "1.0",
+      "time": "1:04",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "John Phillips",
+      "bout_type": "Middleweight Bout",
+      "date": "2019-09-28",
+      "elo_delta": -22.4,
+      "event_name": "UFC Fight Night: Hermansson vs. Cannonier",
+      "fight_id": "0b67e44c762d194a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "John Phillips",
+      "opponent_elo": 1430.9,
+      "outcome": "blue_win",
+      "post_elo": 1461.1,
+      "pre_elo": 1483.5,
+      "red_name": "Alen Amedovski",
+      "round": "1.0",
+      "time": "0:17",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Alen Amedovski",
+      "bout_type": "Middleweight Bout",
+      "date": "2019-04-20",
+      "elo_delta": -16.5,
+      "event_name": "UFC Fight Night: Overeem vs. Oleinik",
+      "fight_id": "c890f9a7fe421dbc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Krzysztof Jotko",
+      "opponent_elo": 1528.2,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Krzysztof Jotko",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2019-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-04-20",
+      "fight_id": "c890f9a7fe421dbc",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2019-04-20",
+      "fight_id": "c890f9a7fe421dbc",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-09-28",
+      "fight_id": "0b67e44c762d194a",
+      "rating": 1461.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2019-09-28",
+      "fight_id": "0b67e44c762d194a",
+      "rating": 1465.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-21",
+      "fight_id": "a00c40b94b7ce8df",
+      "rating": 1443.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-05-21",
+      "fight_id": "a00c40b94b7ce8df",
+      "rating": 1449.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-17",
+      "fight_id": "605e0543b6eb7e77",
+      "rating": 1427.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-09-17",
+      "fight_id": "605e0543b6eb7e77",
+      "rating": 1435.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-17",
+  "name": "Alen Amedovski",
+  "nickname": "",
+  "overall_elo": 1487.4,
+  "peak_elo": 1500.0,
+  "slug": "alen-amedovski",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

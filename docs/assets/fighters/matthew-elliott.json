@@ -1,0 +1,194 @@
+{
+  "current_elo": 1553.5,
+  "divisional_rank": 67,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Jake McHugh",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-03-13",
+      "elo_delta": 19.5,
+      "event_name": "Cage Warriors 201: Unplugged",
+      "fight_id": "939f7ba849cda78f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Jake McHugh",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1553.5,
+      "pre_elo": 1533.9,
+      "red_name": "Matthew Elliott",
+      "round": "1",
+      "time": "0:59",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Matthew Elliott",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": -20.8,
+      "event_name": "Cage Warriors 193: Newcastle",
+      "fight_id": "f42175a903a81c90",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Alexios Tsarmantidis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1533.9,
+      "pre_elo": 1554.8,
+      "red_name": "Alexios Tsarmantidis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kenny Mokhonoana",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "5062b7a134710bb5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Kenny Mokhonoana",
+      "opponent_elo": 1517.8,
+      "outcome": "red_win",
+      "post_elo": 1554.8,
+      "pre_elo": 1537.8,
+      "red_name": "Matthew Elliott",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Luca Borando",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "47a22abd4b701937",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Luca Borando",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Matthew Elliott",
+      "round": "2",
+      "time": "4:24",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Valentino Riva",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 170: Dublin",
+      "fight_id": "e5b415224b6aba9b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Valentino Riva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Matthew Elliott",
+      "round": "2",
+      "time": "1:06",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-04-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-06",
+      "fight_id": "e5b415224b6aba9b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "e5b415224b6aba9b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "47a22abd4b701937",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "47a22abd4b701937",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "5062b7a134710bb5",
+      "rating": 1554.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "5062b7a134710bb5",
+      "rating": 1548.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "f42175a903a81c90",
+      "rating": 1533.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "f42175a903a81c90",
+      "rating": 1530.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "939f7ba849cda78f",
+      "rating": 1553.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "939f7ba849cda78f",
+      "rating": 1548.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Matthew Elliott",
+  "nickname": "",
+  "overall_elo": 1548.0,
+  "peak_elo": 1554.8,
+  "slug": "matthew-elliott",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

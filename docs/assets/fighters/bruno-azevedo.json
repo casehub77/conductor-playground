@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 428,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Bruno Azevedo",
+      "bout_type": "Catchweight (139 lbs) Submission Grappling Bout",
+      "date": "2024-05-24",
+      "elo_delta": -19.5,
+      "event_name": "ONE Friday Fights 64: Gheirati vs. Godtfredsen",
+      "fight_id": "ed39612aae3c5753",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Shoya Ishiguro",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.4,
+      "red_name": "Shoya Ishiguro",
+      "round": "1",
+      "time": "9:17",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Talekh Gamidov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-02-10",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 4: Duangsompong vs. Batman",
+      "fight_id": "8d570a5f882e4bbd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (arm-triangle choke)",
+      "opponent": "Talekh Gamidov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bruno Azevedo",
+      "round": "2",
+      "time": "2:02",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "8d570a5f882e4bbd",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-02-10",
+      "fight_id": "8d570a5f882e4bbd",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-24",
+      "fight_id": "ed39612aae3c5753",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-05-24",
+      "fight_id": "ed39612aae3c5753",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-05-24",
+  "name": "Bruno Azevedo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "bruno-azevedo",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

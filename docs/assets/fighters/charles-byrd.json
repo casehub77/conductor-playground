@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 479,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Maki Pitolo",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-06-06",
+      "elo_delta": -19.2,
+      "event_name": "UFC 250: Nunes vs. Spencer",
+      "fight_id": "4441b10ed2b37560",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Maki Pitolo",
+      "opponent_elo": 1483.2,
+      "outcome": "blue_win",
+      "post_elo": 1459.0,
+      "pre_elo": 1478.1,
+      "red_name": "Charles Byrd",
+      "round": "2.0",
+      "time": "1:10",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Charles Byrd",
+      "bout_type": "Middleweight Bout",
+      "date": "2019-03-02",
+      "elo_delta": -18.3,
+      "event_name": "UFC 235: Jones vs. Smith",
+      "fight_id": "015602ff1fbce87b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Edmen Shahbazyan",
+      "opponent_elo": 1517.6,
+      "outcome": "red_win",
+      "post_elo": 1478.1,
+      "pre_elo": 1496.4,
+      "red_name": "Edmen Shahbazyan",
+      "round": "1.0",
+      "time": "0:38",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Darren Stewart",
+      "bout_type": "Middleweight Bout",
+      "date": "2018-09-08",
+      "elo_delta": -22.1,
+      "event_name": "UFC 228: Woodley vs. Till",
+      "fight_id": "838f06b53ce8987f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Darren Stewart",
+      "opponent_elo": 1470.1,
+      "outcome": "blue_win",
+      "post_elo": 1496.4,
+      "pre_elo": 1518.5,
+      "red_name": "Charles Byrd",
+      "round": "2.0",
+      "time": "2:17",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Charles Byrd",
+      "bout_type": "Middleweight Bout",
+      "date": "2018-03-17",
+      "elo_delta": 18.5,
+      "event_name": "UFC Fight Night: Werdum vs. Volkov",
+      "fight_id": "59803455f8450186",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "John Phillips",
+      "opponent_elo": 1483.6,
+      "outcome": "blue_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "John Phillips",
+      "round": "1.0",
+      "time": "3:58",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2018-03-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-03-17",
+      "fight_id": "59803455f8450186",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2018-03-17",
+      "fight_id": "59803455f8450186",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-09-08",
+      "fight_id": "838f06b53ce8987f",
+      "rating": 1496.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2018-09-08",
+      "fight_id": "838f06b53ce8987f",
+      "rating": 1497.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-03-02",
+      "fight_id": "015602ff1fbce87b",
+      "rating": 1478.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2019-03-02",
+      "fight_id": "015602ff1fbce87b",
+      "rating": 1480.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-06-06",
+      "fight_id": "4441b10ed2b37560",
+      "rating": 1459.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-06-06",
+      "fight_id": "4441b10ed2b37560",
+      "rating": 1463.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-06-06",
+  "name": "Charles Byrd",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "slug": "charles-byrd",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

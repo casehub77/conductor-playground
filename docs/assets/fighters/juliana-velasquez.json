@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 110,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Juliana Velasquez",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-12-09",
+      "elo_delta": -16.3,
+      "event_name": "Bellator 289: Stots vs. Sabatello",
+      "fight_id": "be30efbd973d5799",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Liz Carmouche",
+      "opponent_elo": 1555.7,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1499.6,
+      "red_name": "Liz Carmouche",
+      "round": "2",
+      "time": "4:24",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Juliana Velasquez",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 278: Velasquez vs. Carmouche",
+      "fight_id": "fc9bde6265162343",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Liz Carmouche",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1518.0,
+      "red_name": "Liz Carmouche",
+      "round": "4",
+      "time": "4:47",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Denise Kielholtz",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "49970d6be3ad7a4d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (48–47, 47–48, 48–47)",
+      "opponent": "Denise Kielholtz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Juliana Velasquez",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "49970d6be3ad7a4d",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "49970d6be3ad7a4d",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "fc9bde6265162343",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "fc9bde6265162343",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "be30efbd973d5799",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "be30efbd973d5799",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-09",
+  "name": "Juliana Velasquez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "juliana-velasquez",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

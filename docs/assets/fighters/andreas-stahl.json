@@ -1,0 +1,126 @@
+{
+  "current_elo": 1446.4,
+  "divisional_rank": 1223,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andreas Stahl",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -17.3,
+      "event_name": "Oktagon 68: Todev vs. Fleury",
+      "fight_id": "f0849a8ed4f6da54",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jessin Ayari",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1446.4,
+      "pre_elo": 1463.7,
+      "red_name": "Jessin Ayari",
+      "round": "3",
+      "time": "4:01",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Andreas Stahl",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-12-10",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Namajunas vs. VanZant",
+      "fight_id": "1322708116975b15",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Santiago Ponzinibbio",
+      "opponent_elo": 1502.2,
+      "outcome": "red_win",
+      "post_elo": 1463.7,
+      "pre_elo": 1482.0,
+      "red_name": "Santiago Ponzinibbio",
+      "round": "1.0",
+      "time": "4:25",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gilbert Burns",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-07-26",
+      "elo_delta": -18.0,
+      "event_name": "UFC on FOX: Lawler vs Brown",
+      "fight_id": "b75009170da5e1d9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Gilbert Burns",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Andreas Stahl",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2014-07-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-07-26",
+      "fight_id": "b75009170da5e1d9",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-07-26",
+      "fight_id": "b75009170da5e1d9",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-12-10",
+      "fight_id": "1322708116975b15",
+      "rating": 1463.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-12-10",
+      "fight_id": "1322708116975b15",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "f0849a8ed4f6da54",
+      "rating": 1446.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "f0849a8ed4f6da54",
+      "rating": 1450.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-08",
+  "name": "Andreas Stahl",
+  "nickname": "",
+  "overall_elo": 1450.4,
+  "peak_elo": 1500.0,
+  "slug": "andreas-stahl",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

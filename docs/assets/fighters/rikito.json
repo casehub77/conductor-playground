@@ -1,0 +1,65 @@
+{
+  "current_elo": 1495.6,
+  "divisional_rank": 927,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rikito",
+      "bout_type": "Bantamweight Kickboxing Bout",
+      "date": "2024-11-29",
+      "elo_delta": -19.6,
+      "event_name": "ONE Friday Fights 89: Yod-IQ vs. Khomutov",
+      "fight_id": "363a07978e2dd146",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Uzair Ismoiljonov",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1495.6,
+      "pre_elo": 1515.2,
+      "red_name": "Uzair Ismoiljonov",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-02-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-02-24",
+      "fight_id": "68d3d785a3ecd264",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-29",
+      "fight_id": "363a07978e2dd146",
+      "rating": 1495.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-29",
+      "fight_id": "363a07978e2dd146",
+      "rating": 1497.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-29",
+  "name": "Rikito",
+  "nickname": "",
+  "overall_elo": 1497.8,
+  "peak_elo": 1515.2,
+  "slug": "rikito",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

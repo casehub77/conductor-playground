@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 825,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Quinn Mulhern",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-01-04",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Saffiedine vs Lim",
+      "fight_id": "1d8b0369776ede9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Katsunori Kikuno",
+      "opponent_elo": 1505.5,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.5,
+      "red_name": "Katsunori Kikuno",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Quinn Mulhern",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-03-16",
+      "elo_delta": -17.3,
+      "event_name": "UFC 158: St-Pierre vs Diaz",
+      "fight_id": "6d0c132d2a5560b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Rick Story",
+      "opponent_elo": 1556.9,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1518.0,
+      "red_name": "Rick Story",
+      "round": "1.0",
+      "time": "3:05",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Yuri Villefort",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-05-19",
+      "elo_delta": 18.0,
+      "event_name": "Strikeforce: Barnett vs. Cormier",
+      "fight_id": "33b94b3d114f4e66",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 28–29, 29–28)",
+      "opponent": "Yuri Villefort",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Quinn Mulhern",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2012-05-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-05-19",
+      "fight_id": "33b94b3d114f4e66",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-05-19",
+      "fight_id": "33b94b3d114f4e66",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-03-16",
+      "fight_id": "6d0c132d2a5560b0",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-03-16",
+      "fight_id": "6d0c132d2a5560b0",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-01-04",
+      "fight_id": "1d8b0369776ede9d",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-01-04",
+      "fight_id": "1d8b0369776ede9d",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-01-04",
+  "name": "Quinn Mulhern",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "quinn-mulhern",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

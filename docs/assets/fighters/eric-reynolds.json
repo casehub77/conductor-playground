@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 555,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Eric Reynolds",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-06-19",
+      "elo_delta": -18.1,
+      "event_name": "Bellator 12",
+      "fight_id": "0774eafefee5f941",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jorge Masvidal",
+      "opponent_elo": 1528.2,
+      "outcome": "red_win",
+      "post_elo": 1486.2,
+      "pre_elo": 1504.4,
+      "red_name": "Jorge Masvidal",
+      "round": "3",
+      "time": "3:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Eric Reynolds",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-05-01",
+      "elo_delta": -16.1,
+      "event_name": "Bellator 5",
+      "fight_id": "6eecd26e6e55df21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Eddie Alvarez",
+      "opponent_elo": 1581.5,
+      "outcome": "red_win",
+      "post_elo": 1504.4,
+      "pre_elo": 1520.4,
+      "red_name": "Eddie Alvarez",
+      "round": "3",
+      "time": "1:30",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Thomas Schulte",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-04-10",
+      "elo_delta": 20.4,
+      "event_name": "Bellator 2",
+      "fight_id": "2f56abe42ec070e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Thomas Schulte",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Eric Reynolds",
+      "round": "1",
+      "time": "4:18",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-04-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-10",
+      "fight_id": "2f56abe42ec070e8",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-04-10",
+      "fight_id": "2f56abe42ec070e8",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-01",
+      "fight_id": "6eecd26e6e55df21",
+      "rating": 1504.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-05-01",
+      "fight_id": "6eecd26e6e55df21",
+      "rating": 1503.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-19",
+      "fight_id": "0774eafefee5f941",
+      "rating": 1486.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-06-19",
+      "fight_id": "0774eafefee5f941",
+      "rating": 1487.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-19",
+  "name": "Eric Reynolds",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "slug": "eric-reynolds",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

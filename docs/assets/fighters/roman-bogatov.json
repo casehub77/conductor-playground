@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1161,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Roman Bogatov",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-07-11",
+      "elo_delta": -13.1,
+      "event_name": "UFC 251: Usman vs. Masvidal",
+      "fight_id": "d69138642b00d100",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Leonardo Santos",
+      "opponent_elo": 1597.8,
+      "outcome": "red_win",
+      "post_elo": 1486.9,
+      "pre_elo": 1500.0,
+      "red_name": "Leonardo Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2020-07-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-07-11",
+      "fight_id": "d69138642b00d100",
+      "rating": 1486.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-07-11",
+      "fight_id": "d69138642b00d100",
+      "rating": 1487.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-07-11",
+  "name": "Roman Bogatov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "roman-bogatov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

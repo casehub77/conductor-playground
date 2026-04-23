@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 878,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mahmoud Fawzy",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-11-12",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 271: Cyborg vs. Kavanagh",
+      "fight_id": "e0c217e198947b8b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ethan Hughes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ethan Hughes",
+      "round": "3",
+      "time": "4:05",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-11-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-12",
+      "fight_id": "e0c217e198947b8b",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "e0c217e198947b8b",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-12",
+  "name": "Mahmoud Fawzy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "mahmoud-fawzy",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

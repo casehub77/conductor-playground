@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 300,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Brian Ebersole",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-12-10",
+      "elo_delta": -18.8,
+      "event_name": "UFC 140: Jones vs Machida",
+      "fight_id": "500729ef86aeed2f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Brian Ebersole",
+      "opponent_elo": 1539.2,
+      "outcome": "blue_win",
+      "post_elo": 1535.9,
+      "pre_elo": 1554.7,
+      "red_name": "Claude Patrick",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Claude Patrick",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-04-30",
+      "elo_delta": 18.1,
+      "event_name": "UFC 129: St-Pierre vs Shields",
+      "fight_id": "8e72846d322b98f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daniel Roberts",
+      "opponent_elo": 1539.2,
+      "outcome": "blue_win",
+      "post_elo": 1554.7,
+      "pre_elo": 1536.6,
+      "red_name": "Daniel Roberts",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Claude Patrick",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-10-16",
+      "elo_delta": 18.0,
+      "event_name": "UFC 120: Bisping vs Akiyama",
+      "fight_id": "17da10f38430f733",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "James Wilks",
+      "opponent_elo": 1518.0,
+      "outcome": "blue_win",
+      "post_elo": 1536.6,
+      "pre_elo": 1518.6,
+      "red_name": "James Wilks",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Claude Patrick",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-06-12",
+      "elo_delta": 18.6,
+      "event_name": "UFC 115: Liddell vs Franklin",
+      "fight_id": "198228c2b224ea96",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ricardo Funch",
+      "opponent_elo": 1484.9,
+      "outcome": "blue_win",
+      "post_elo": 1518.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ricardo Funch",
+      "round": "2.0",
+      "time": "1:48",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-06-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-12",
+      "fight_id": "198228c2b224ea96",
+      "rating": 1518.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-06-12",
+      "fight_id": "198228c2b224ea96",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "17da10f38430f733",
+      "rating": 1536.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "17da10f38430f733",
+      "rating": 1532.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-30",
+      "fight_id": "8e72846d322b98f1",
+      "rating": 1554.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-04-30",
+      "fight_id": "8e72846d322b98f1",
+      "rating": 1548.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-12-10",
+      "fight_id": "500729ef86aeed2f",
+      "rating": 1535.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-12-10",
+      "fight_id": "500729ef86aeed2f",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-12-10",
+  "name": "Claude Patrick",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1554.7,
+  "slug": "claude-patrick",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

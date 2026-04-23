@@ -1,0 +1,194 @@
+{
+  "current_elo": 1485.3,
+  "divisional_rank": 979,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Taichi Nakajima",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2025-11-03",
+      "elo_delta": -17.9,
+      "event_name": "Rizin Landmark 12",
+      "fight_id": "92b16f4e579902e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Joji Goto",
+      "opponent_elo": 1530.8,
+      "outcome": "red_win",
+      "post_elo": 1485.3,
+      "pre_elo": 1503.2,
+      "red_name": "Joji Goto",
+      "round": "1",
+      "time": "1:49",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kosuke Terashima",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": 21.3,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "83ae893c0099e95a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Kosuke Terashima",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1503.2,
+      "pre_elo": 1481.9,
+      "red_name": "Taichi Nakajima",
+      "round": "1",
+      "time": "1:17",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Taichi Nakajima",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2024-04-29",
+      "elo_delta": -19.5,
+      "event_name": "Rizin 46",
+      "fight_id": "b5e2d480f1dd4185",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Kim Soo-chul",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1501.4,
+      "red_name": "Kim Soo-chul",
+      "round": "2",
+      "time": "0:06",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ryo Okada",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2023-09-24",
+      "elo_delta": 17.9,
+      "event_name": "Rizin 44",
+      "fight_id": "5ea699536c409a3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Ryo Okada",
+      "opponent_elo": 1481.4,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1483.5,
+      "red_name": "Taichi Nakajima",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Taichi Nakajima",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-04-17",
+      "elo_delta": -18.4,
+      "event_name": "Rizin 35",
+      "fight_id": "b1f26e3a62897409",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Triangle Choke)",
+      "opponent": "Vugar Karamov",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Vugar Karamov",
+      "round": "1",
+      "time": "2:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-17",
+      "fight_id": "b1f26e3a62897409",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-17",
+      "fight_id": "b1f26e3a62897409",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "5ea699536c409a3f",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "5ea699536c409a3f",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-29",
+      "fight_id": "b5e2d480f1dd4185",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-04-29",
+      "fight_id": "b5e2d480f1dd4185",
+      "rating": 1482.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "83ae893c0099e95a",
+      "rating": 1503.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "83ae893c0099e95a",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-03",
+      "fight_id": "92b16f4e579902e7",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-11-03",
+      "fight_id": "92b16f4e579902e7",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-03",
+  "name": "Taichi Nakajima",
+  "nickname": "",
+  "overall_elo": 1485.3,
+  "peak_elo": 1503.2,
+  "slug": "taichi-nakajima",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

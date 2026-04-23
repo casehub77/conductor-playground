@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 706,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Anthony Ivy",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-09-12",
+      "elo_delta": -16.4,
+      "event_name": "UFC Fight Night: Waterson vs. Hill",
+      "fight_id": "827ea15e9617cc1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bryan Barberena",
+      "opponent_elo": 1510.7,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1480.6,
+      "red_name": "Bryan Barberena",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Christian Aguilera",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-06-13",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Eye vs. Calvillo",
+      "fight_id": "d18cdd357f16f588",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Christian Aguilera",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Anthony Ivy",
+      "round": "1.0",
+      "time": "0:59",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2020-06-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-06-13",
+      "fight_id": "d18cdd357f16f588",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-06-13",
+      "fight_id": "d18cdd357f16f588",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "827ea15e9617cc1c",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "827ea15e9617cc1c",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-09-12",
+  "name": "Anthony Ivy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "anthony-ivy",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 598,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Levan Makashvili",
+      "bout_type": "Featherweight Bout",
+      "date": "2016-01-30",
+      "elo_delta": -0.9,
+      "event_name": "UFC on FOX: Johnson vs. Bader",
+      "fight_id": "a2ea38073ab5cbbf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Damon Jackson",
+      "opponent_elo": 1482.1,
+      "outcome": "draw",
+      "post_elo": 1498.8,
+      "pre_elo": 1499.7,
+      "red_name": "Damon Jackson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Levan Makashvili",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-06-27",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Machida vs Romero",
+      "fight_id": "bb56f7d0c234e64f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Hacran Dias",
+      "opponent_elo": 1513.9,
+      "outcome": "red_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1517.9,
+      "red_name": "Hacran Dias",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Levan Makashvili",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-05-16",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Edgar vs Faber",
+      "fight_id": "0a1ccfff96f91140",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Mark Eddiva",
+      "opponent_elo": 1498.6,
+      "outcome": "blue_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Eddiva",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2015-05-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-05-16",
+      "fight_id": "0a1ccfff96f91140",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-05-16",
+      "fight_id": "0a1ccfff96f91140",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-06-27",
+      "fight_id": "bb56f7d0c234e64f",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-06-27",
+      "fight_id": "bb56f7d0c234e64f",
+      "rating": 1499.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-01-30",
+      "fight_id": "a2ea38073ab5cbbf",
+      "rating": 1498.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-01-30",
+      "fight_id": "a2ea38073ab5cbbf",
+      "rating": 1498.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-01-30",
+  "name": "Levan Makashvili",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.9,
+  "slug": "levan-makashvili",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

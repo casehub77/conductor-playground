@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 862,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jordan Radev",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-12-29",
+      "elo_delta": -17.7,
+      "event_name": "UFC 79: Nemesis",
+      "fight_id": "ea1a15db0b7bf434",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dean Lister",
+      "opponent_elo": 1485.3,
+      "outcome": "red_win",
+      "post_elo": 1461.6,
+      "pre_elo": 1479.3,
+      "red_name": "Dean Lister",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jordan Radev",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-06-12",
+      "elo_delta": -19.3,
+      "event_name": "UFC Fight Night: Stout vs Fisher",
+      "fight_id": "6dedef3d1a6df7bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Drew Mcfedries",
+      "opponent_elo": 1500.5,
+      "outcome": "red_win",
+      "post_elo": 1479.3,
+      "pre_elo": 1498.6,
+      "red_name": "Drew Mcfedries",
+      "round": "1.0",
+      "time": "0:33",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jordan Radev",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2006-06-03",
+      "elo_delta": -19.8,
+      "event_name": "KSW V: Konfrontacja",
+      "fight_id": "8031566ed99414c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Robert Jocz",
+      "opponent_elo": 1483.9,
+      "outcome": "red_win",
+      "post_elo": 1498.2,
+      "pre_elo": 1518.0,
+      "red_name": "Robert Jocz",
+      "round": "2",
+      "time": "Tournament Semi-Finals 2",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Martin Malkhasyan",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2006-06-03",
+      "elo_delta": 18.0,
+      "event_name": "KSW V: Konfrontacja",
+      "fight_id": "f33d30b06f46a827",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Martin Malkhasyan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jordan Radev",
+      "round": "2",
+      "time": "Tournament Quarter-Finals 3",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-03",
+      "fight_id": "f33d30b06f46a827",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-06-03",
+      "fight_id": "8031566ed99414c5",
+      "rating": 1498.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-06-03",
+      "fight_id": "f33d30b06f46a827",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-06-03",
+      "fight_id": "8031566ed99414c5",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-06-12",
+      "fight_id": "6dedef3d1a6df7bb",
+      "rating": 1479.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-06-12",
+      "fight_id": "6dedef3d1a6df7bb",
+      "rating": 1481.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-12-29",
+      "fight_id": "ea1a15db0b7bf434",
+      "rating": 1461.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-12-29",
+      "fight_id": "ea1a15db0b7bf434",
+      "rating": 1466.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-12-29",
+  "name": "Jordan Radev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "jordan-radev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,133 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 460,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Weber Almeida",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-08-11",
+      "elo_delta": -16.8,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "a50a04ac97a36c4f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Lucas Brennan",
+      "opponent_elo": 1569.5,
+      "outcome": "red_win",
+      "post_elo": 1505.3,
+      "pre_elo": 1522.1,
+      "red_name": "Lucas Brennan",
+      "round": "3",
+      "time": "3:32",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ryan Lilley",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": 17.8,
+      "event_name": "Bellator 286: Pitbull vs. Borics",
+      "fight_id": "ee3b8a6d06ed8524",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Ryan Lilley",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1522.1,
+      "pre_elo": 1504.3,
+      "red_name": "Weber Almeida",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Fabricio Franco",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": 20.3,
+      "event_name": "Bellator 278: Velasquez vs. Carmouche",
+      "fight_id": "3e2ba7d832b7b169",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kick)",
+      "opponent": "Fabricio Franco",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1484.0,
+      "red_name": "Weber Almeida",
+      "round": "1",
+      "time": "3:01",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-05-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-07",
+      "fight_id": "3c471946adc9fe90",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "3e2ba7d832b7b169",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "3e2ba7d832b7b169",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "ee3b8a6d06ed8524",
+      "rating": 1522.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "ee3b8a6d06ed8524",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "a50a04ac97a36c4f",
+      "rating": 1505.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "a50a04ac97a36c4f",
+      "rating": 1503.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Weber Almeida",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.1,
+  "slug": "weber-almeida",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

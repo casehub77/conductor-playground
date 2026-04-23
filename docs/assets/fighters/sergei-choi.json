@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 159,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sergei Choi",
+      "bout_type": "Catchweight 60kg Bout",
+      "date": "2021-10-30",
+      "elo_delta": -17.0,
+      "event_name": "ARC 6",
+      "fight_id": "95da3ac96949ddfe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jung Hyun Lee",
+      "opponent_elo": 1534.4,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1516.0,
+      "red_name": "Jung Hyun Lee",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2021-07-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-03",
+      "fight_id": "01406a1b0cd4c183",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "95da3ac96949ddfe",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "95da3ac96949ddfe",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-30",
+  "name": "Sergei Choi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.0,
+  "slug": "sergei-choi",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

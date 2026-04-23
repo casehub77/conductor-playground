@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 329,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Taylor Turner",
+      "bout_type": "Catchweight (128 lb) Bout",
+      "date": "2021-11-12",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 271: Cyborg vs. Kavanagh",
+      "fight_id": "6032eceb53e67d76",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 30–27)",
+      "opponent": "Taylor Turner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Valerie Loureda",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Valerie Loureda",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 259: Cyborg vs. Smith 2",
+      "fight_id": "c211cdcd6dc79922",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 29-28, 29-28)",
+      "opponent": "Hannah Guy",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Hannah Guy",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "c211cdcd6dc79922",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "c211cdcd6dc79922",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "6032eceb53e67d76",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "6032eceb53e67d76",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-12",
+  "name": "Valerie Loureda",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "valerie-loureda",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

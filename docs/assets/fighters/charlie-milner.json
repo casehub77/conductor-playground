@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 426,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Charlie Milner",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-11-05",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 270: Queally vs. Pitbull 2",
+      "fight_id": "0c2b70f8bfe779dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Gökhan Saricam",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Gökhan Saricam",
+      "round": "1",
+      "time": "0:15",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-11-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-05",
+      "fight_id": "0c2b70f8bfe779dc",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "0c2b70f8bfe779dc",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-05",
+  "name": "Charlie Milner",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "charlie-milner",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

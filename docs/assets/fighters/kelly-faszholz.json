@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 101,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ketlen Vieira",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2016-10-01",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Lineker vs. Dodson",
+      "fight_id": "e90088256c66a509",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Ketlen Vieira",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1461.6,
+      "pre_elo": 1478.5,
+      "red_name": "Kelly Faszholz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kelly Faszholz",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2016-02-21",
+      "elo_delta": -21.5,
+      "event_name": "UFC Fight Night: Cowboy vs Cowboy",
+      "fight_id": "e211083c9daa7a33",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Lauren Murphy",
+      "opponent_elo": 1462.6,
+      "outcome": "red_win",
+      "post_elo": 1478.5,
+      "pre_elo": 1500.0,
+      "red_name": "Lauren Murphy",
+      "round": "3.0",
+      "time": "4:55",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2016-02-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2016-02-21",
+      "fight_id": "e211083c9daa7a33",
+      "rating": 1478.5,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2016-02-21",
+      "fight_id": "e211083c9daa7a33",
+      "rating": 1481.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "e90088256c66a509",
+      "rating": 1461.6,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "e90088256c66a509",
+      "rating": 1465.9,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-10-01",
+  "name": "Kelly Faszholz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kelly-faszholz",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

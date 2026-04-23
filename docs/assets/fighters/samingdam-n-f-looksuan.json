@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.3,
+  "divisional_rank": 203,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Moe Htet Aung",
+      "bout_type": "Catchweight (137 lbs) Muay Thai Bout",
+      "date": "2025-01-31",
+      "elo_delta": 20.8,
+      "event_name": "ONE Friday Fights 95: Yodlekpet vs. Jaosuayai",
+      "fight_id": "13677e1a104b0f30",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Moe Htet Aung",
+      "opponent_elo": 1534.4,
+      "outcome": "red_win",
+      "post_elo": 1501.3,
+      "pre_elo": 1480.6,
+      "red_name": "Samingdam N.F.Looksuan",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Samingdam N.F.Looksuan",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2024-11-01",
+      "elo_delta": -19.4,
+      "event_name": "ONE Friday Fights 85: Yodlekpet vs. Puengluang",
+      "fight_id": "0d538ee4bc6ce39c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Akif Guluzada",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Akif Guluzada",
+      "round": "1",
+      "time": "2:41",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-11-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-01",
+      "fight_id": "0d538ee4bc6ce39c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-11-01",
+      "fight_id": "0d538ee4bc6ce39c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-31",
+      "fight_id": "13677e1a104b0f30",
+      "rating": 1501.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-01-31",
+      "fight_id": "13677e1a104b0f30",
+      "rating": 1501.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-31",
+  "name": "Samingdam N.F.Looksuan",
+  "nickname": "",
+  "overall_elo": 1501.0,
+  "peak_elo": 1501.3,
+  "slug": "samingdam-n-f-looksuan",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

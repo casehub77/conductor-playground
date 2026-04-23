@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 373,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Emmanueli Adzoh",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "800eb7c3ad427be0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Emmanueli Adzoh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1518.4,
+      "red_name": "Tyson Miller",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Rhalan Gracie",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "e71987740684b13c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Rhalan Gracie",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tyson Miller",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-15",
+      "fight_id": "e71987740684b13c",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "e71987740684b13c",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "800eb7c3ad427be0",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "800eb7c3ad427be0",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-29",
+  "name": "Tyson Miller",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.8,
+  "slug": "tyson-miller",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

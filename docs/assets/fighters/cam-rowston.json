@@ -1,0 +1,92 @@
+{
+  "current_elo": 1542.7,
+  "divisional_rank": 60,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Cody Brundage",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": 19.3,
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "fight_id": "2f20a69ae7a0ac8e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cody Brundage",
+      "opponent_elo": 1520.7,
+      "outcome": "red_win",
+      "post_elo": 1542.7,
+      "pre_elo": 1523.4,
+      "red_name": "Cam Rowston",
+      "round": "2.0",
+      "time": "4:08",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Andre Petroski",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 23.4,
+      "event_name": "UFC Fight Night: Ulberg vs. Reyes",
+      "fight_id": "062c1186062aa5e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Andre Petroski",
+      "opponent_elo": 1571.5,
+      "outcome": "red_win",
+      "post_elo": 1523.4,
+      "pre_elo": 1500.0,
+      "red_name": "Cam Rowston",
+      "round": "1.0",
+      "time": "2:41",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-09-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-27",
+      "fight_id": "062c1186062aa5e6",
+      "rating": 1523.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "062c1186062aa5e6",
+      "rating": 1520.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "2f20a69ae7a0ac8e",
+      "rating": 1542.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "2f20a69ae7a0ac8e",
+      "rating": 1536.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Cam Rowston",
+  "nickname": "",
+  "overall_elo": 1536.8,
+  "peak_elo": 1542.7,
+  "slug": "cam-rowston",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

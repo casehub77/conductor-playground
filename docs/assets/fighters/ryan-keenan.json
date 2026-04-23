@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 941,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Keenan",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-09-17",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 50",
+      "fight_id": "7f0c0cc88ca5ec10",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Ailton Barbosa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Ailton Barbosa",
+      "round": "1",
+      "time": "1:55",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ryan Keenan",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-01-30",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Miami",
+      "fight_id": "8c2bc0185f2b6025",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Hayder Hassan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Hayder Hassan",
+      "round": "2",
+      "time": "2:42",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-30",
+      "fight_id": "8c2bc0185f2b6025",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-01-30",
+      "fight_id": "8c2bc0185f2b6025",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "7f0c0cc88ca5ec10",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "7f0c0cc88ca5ec10",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-17",
+  "name": "Ryan Keenan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ryan-keenan",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

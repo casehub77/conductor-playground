@@ -1,0 +1,65 @@
+{
+  "current_elo": 1496.9,
+  "divisional_rank": 1076,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Elton Dedaj",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-14",
+      "elo_delta": -20.4,
+      "event_name": "LFA 222: Pires vs. Belakh",
+      "fight_id": "4a670a35f0473e98",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Jonathan Di Lorenzo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Jonathan Di Lorenzo",
+      "round": "1",
+      "time": "3:45",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-06-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-06-20",
+      "fight_id": "75f7bf3f0c8c9beb",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "4a670a35f0473e98",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "4a670a35f0473e98",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-14",
+  "name": "Elton Dedaj",
+  "nickname": "",
+  "overall_elo": 1499.1,
+  "peak_elo": 1517.3,
+  "slug": "elton-dedaj",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

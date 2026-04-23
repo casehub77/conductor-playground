@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 547,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Hiroki Yamashita",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-11-28",
+      "elo_delta": -19.4,
+      "event_name": "Rizin Trigger 1",
+      "fight_id": "6edbf0b1e7daa250",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch and Soccer Kick)",
+      "opponent": "Mamoru Uoi",
+      "opponent_elo": 1498.1,
+      "outcome": "red_win",
+      "post_elo": 1478.3,
+      "pre_elo": 1497.7,
+      "red_name": "Mamoru Uoi",
+      "round": "1",
+      "time": "4:53",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Hiroki Yamashita",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-06-27",
+      "elo_delta": -19.7,
+      "event_name": "Rizin 29 – Osaka",
+      "fight_id": "ca0e4ffefb5a9e5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Takafumi Otsuka",
+      "opponent_elo": 1484.6,
+      "outcome": "red_win",
+      "post_elo": 1497.7,
+      "pre_elo": 1517.4,
+      "red_name": "Takafumi Otsuka",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kazuma Sone",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-03-21",
+      "elo_delta": 17.4,
+      "event_name": "Rizin 27 – Nagoya",
+      "fight_id": "2c7c1b36c9151391",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Kazuma Sone",
+      "opponent_elo": 1464.1,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1500.0,
+      "red_name": "Hiroki Yamashita",
+      "round": "1",
+      "time": "0:27",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-03-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-21",
+      "fight_id": "2c7c1b36c9151391",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-21",
+      "fight_id": "2c7c1b36c9151391",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-27",
+      "fight_id": "ca0e4ffefb5a9e5c",
+      "rating": 1497.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-06-27",
+      "fight_id": "ca0e4ffefb5a9e5c",
+      "rating": 1498.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-28",
+      "fight_id": "6edbf0b1e7daa250",
+      "rating": 1478.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-11-28",
+      "fight_id": "6edbf0b1e7daa250",
+      "rating": 1480.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-28",
+  "name": "Hiroki Yamashita",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.4,
+  "slug": "hiroki-yamashita",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

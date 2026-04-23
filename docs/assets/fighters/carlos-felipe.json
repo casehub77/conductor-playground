@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 236,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Carlos Felipe",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-10-16",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Ladd vs. Dumont",
+      "fight_id": "ebc17030a4eff54d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Andrei Arlovski",
+      "opponent_elo": 1541.0,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1535.1,
+      "red_name": "Andrei Arlovski",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jake Collier",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-06-12",
+      "elo_delta": 16.9,
+      "event_name": "UFC 263: Adesanya vs. Vettori 2",
+      "fight_id": "09d7eb6cf0bafc04",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Jake Collier",
+      "opponent_elo": 1497.7,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.1,
+      "red_name": "Carlos Felipe",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Justin Tafa",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-01-16",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Holloway vs. Kattar",
+      "fight_id": "0d07a17b03220b59",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Justin Tafa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.1,
+      "pre_elo": 1500.1,
+      "red_name": "Carlos Felipe",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Carlos Felipe",
+      "bout_type": "Heavyweight Bout",
+      "date": "2020-10-03",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Holm vs. Aldana",
+      "fight_id": "5d1cff0465355bdd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yorgan De Castro",
+      "opponent_elo": 1500.5,
+      "outcome": "blue_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1481.1,
+      "red_name": "Yorgan De Castro",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Serghei Spivac",
+      "bout_type": "Heavyweight Bout",
+      "date": "2020-07-18",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Figueiredo vs. Benavidez 2",
+      "fight_id": "12a42eedd60ccdf4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Serghei Spivac",
+      "opponent_elo": 1483.2,
+      "outcome": "blue_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Carlos Felipe",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2020-07-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-07-18",
+      "fight_id": "12a42eedd60ccdf4",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2020-07-18",
+      "fight_id": "12a42eedd60ccdf4",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "5d1cff0465355bdd",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "5d1cff0465355bdd",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-01-16",
+      "fight_id": "0d07a17b03220b59",
+      "rating": 1518.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-01-16",
+      "fight_id": "0d07a17b03220b59",
+      "rating": 1516.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "09d7eb6cf0bafc04",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "09d7eb6cf0bafc04",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "ebc17030a4eff54d",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "ebc17030a4eff54d",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-16",
+  "name": "Carlos Felipe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.1,
+  "slug": "carlos-felipe",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

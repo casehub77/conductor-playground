@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 599,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Singh Jaideep",
+      "bout_type": "Catchweight 98 kg Bout",
+      "date": "2016-04-17",
+      "elo_delta": -17.0,
+      "event_name": "Rizin Fighting Federation 1",
+      "fight_id": "a0ca49b11e6ab280",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Teodoras Aukštuolis",
+      "opponent_elo": 1503.6,
+      "outcome": "red_win",
+      "post_elo": 1467.5,
+      "pre_elo": 1484.5,
+      "red_name": "Teodoras Aukštuolis",
+      "round": "3",
+      "time": "20:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Singh Jaideep",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2015-12-31",
+      "elo_delta": -15.5,
+      "event_name": "Rizin World Grand Prix 2015: Part 2 - Iza",
+      "fight_id": "6169ddeffa56261a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO（Punches）",
+      "opponent": "Fedor Emelianenko",
+      "opponent_elo": 1571.4,
+      "outcome": "red_win",
+      "post_elo": 1484.5,
+      "pre_elo": 1500.0,
+      "red_name": "Fedor Emelianenko",
+      "round": "1",
+      "time": "3:02",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2015-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-12-31",
+      "fight_id": "6169ddeffa56261a",
+      "rating": 1484.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-12-31",
+      "fight_id": "6169ddeffa56261a",
+      "rating": 1489.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-04-17",
+      "fight_id": "a0ca49b11e6ab280",
+      "rating": 1467.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2016-04-17",
+      "fight_id": "a0ca49b11e6ab280",
+      "rating": 1474.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-04-17",
+  "name": "Singh Jaideep",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "singh-jaideep",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

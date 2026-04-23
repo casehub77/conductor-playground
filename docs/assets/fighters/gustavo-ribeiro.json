@@ -1,0 +1,58 @@
+{
+  "current_elo": 1480.6,
+  "divisional_rank": 1158,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gustavo Ribeiro",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-28",
+      "elo_delta": -19.4,
+      "event_name": "LFA 205: Pires vs. Abojer",
+      "fight_id": "de62a3d4ab361fd3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "João Pedro Moreira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "João Pedro Moreira",
+      "round": "1",
+      "time": "1:30",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-03-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-28",
+      "fight_id": "de62a3d4ab361fd3",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "de62a3d4ab361fd3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-28",
+  "name": "Gustavo Ribeiro",
+  "nickname": "",
+  "overall_elo": 1482.7,
+  "peak_elo": 1500.0,
+  "slug": "gustavo-ribeiro",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

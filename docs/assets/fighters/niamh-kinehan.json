@@ -1,0 +1,92 @@
+{
+  "current_elo": 1509.7,
+  "divisional_rank": 243,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Emilia Czerwińska",
+      "bout_type": "Catchweight (130 lb) Bout",
+      "date": "2026-04-11",
+      "elo_delta": 9.7,
+      "event_name": "Oktagon 86: Materla vs. Jungwirth",
+      "fight_id": "7fb392a0040ba187",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Emilia Czerwińska",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1509.7,
+      "pre_elo": 1500.0,
+      "red_name": "Niamh Kinehan",
+      "round": "3",
+      "time": "4:48",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Michaela Hlaváčiková",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-08-09",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 74: Bolander vs. Szabová",
+      "fight_id": "15809ecf121c770b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Michaela Hlaváčiková",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Niamh Kinehan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-09",
+      "fight_id": "15809ecf121c770b",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "15809ecf121c770b",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "7fb392a0040ba187",
+      "rating": 1509.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "7fb392a0040ba187",
+      "rating": 1508.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Niamh Kinehan",
+  "nickname": "",
+  "overall_elo": 1508.6,
+  "peak_elo": 1518.0,
+  "slug": "niamh-kinehan",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

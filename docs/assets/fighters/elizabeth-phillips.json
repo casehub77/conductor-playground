@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 97,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Elizabeth Phillips",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2016-08-20",
+      "elo_delta": -15.2,
+      "event_name": "UFC 202: Diaz vs. McGregor 2",
+      "fight_id": "4c39c3c5da9d7196",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Raquel Pennington",
+      "opponent_elo": 1538.7,
+      "outcome": "red_win",
+      "post_elo": 1468.5,
+      "pre_elo": 1483.6,
+      "red_name": "Raquel Pennington",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Elizabeth Phillips",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2015-07-25",
+      "elo_delta": 18.7,
+      "event_name": "UFC on FOX: Dillashaw vs. Barao II",
+      "fight_id": "8248d3ddfb2a80dc",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jessamyn Duke",
+      "opponent_elo": 1478.4,
+      "outcome": "blue_win",
+      "post_elo": 1483.6,
+      "pre_elo": 1464.9,
+      "red_name": "Jessamyn Duke",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Milana Dudieva",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2014-08-23",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Bisping vs Le",
+      "fight_id": "db9747045426d67d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Milana Dudieva",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1482.0,
+      "red_name": "Elizabeth Phillips",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Elizabeth Phillips",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2014-06-14",
+      "elo_delta": -18.0,
+      "event_name": "UFC 174: Johnson vs Bagautinov",
+      "fight_id": "be89ff20b5eefb72",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Valerie Letourneau",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Valerie Letourneau",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2014-06-14",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2014-06-14",
+      "fight_id": "be89ff20b5eefb72",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2014-06-14",
+      "fight_id": "be89ff20b5eefb72",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2014-08-23",
+      "fight_id": "db9747045426d67d",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2014-08-23",
+      "fight_id": "db9747045426d67d",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-07-25",
+      "fight_id": "8248d3ddfb2a80dc",
+      "rating": 1483.6,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2015-07-25",
+      "fight_id": "8248d3ddfb2a80dc",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2016-08-20",
+      "fight_id": "4c39c3c5da9d7196",
+      "rating": 1468.5,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2016-08-20",
+      "fight_id": "4c39c3c5da9d7196",
+      "rating": 1471.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-08-20",
+  "name": "Elizabeth Phillips",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "elizabeth-phillips",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

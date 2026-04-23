@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 366,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Marcos Breno",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-04-21",
+      "elo_delta": -19.3,
+      "event_name": "Bellator 294: Carmouche vs. Bennett 2",
+      "fight_id": "df4573d054b4f653",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Danny Sabatello",
+      "opponent_elo": 1539.0,
+      "outcome": "red_win",
+      "post_elo": 1517.3,
+      "pre_elo": 1536.6,
+      "red_name": "Danny Sabatello",
+      "round": "2",
+      "time": "4:10",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Josh Hill",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-08-12",
+      "elo_delta": 17.1,
+      "event_name": "Bellator 284: Gracie vs. Yamauchi",
+      "fight_id": "b5085a53e9a73b76",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Josh Hill",
+      "opponent_elo": 1502.4,
+      "outcome": "red_win",
+      "post_elo": 1536.6,
+      "pre_elo": 1519.4,
+      "red_name": "Marcos Breno",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ary Farias",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 111: De Sa vs. Bonfim",
+      "fight_id": "5fe64aeb66e22e2b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Ary Farias",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marcos Breno",
+      "round": "1",
+      "time": "0:56",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "5fe64aeb66e22e2b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "5fe64aeb66e22e2b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "b5085a53e9a73b76",
+      "rating": 1536.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "b5085a53e9a73b76",
+      "rating": 1532.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "df4573d054b4f653",
+      "rating": 1517.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "df4573d054b4f653",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-21",
+  "name": "Marcos Breno",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.6,
+  "slug": "marcos-breno",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

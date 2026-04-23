@@ -1,0 +1,65 @@
+{
+  "current_elo": 1498.0,
+  "divisional_rank": 133,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Phạm Văn Nam",
+      "bout_type": "Strawweight MMA Bout",
+      "date": "2024-12-13",
+      "elo_delta": -19.3,
+      "event_name": "ONE Friday Fights 91: Komawut vs. Balyko",
+      "fight_id": "3a4b4d2fc2446599",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Lee Seung-chul",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1517.3,
+      "red_name": "Lee Seung-chul",
+      "round": "2",
+      "time": "3:15",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2024-08-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-23",
+      "fight_id": "103a141345f1c50f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "3a4b4d2fc2446599",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "3a4b4d2fc2446599",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-13",
+  "name": "Phạm Văn Nam",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "pham-van-nam",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

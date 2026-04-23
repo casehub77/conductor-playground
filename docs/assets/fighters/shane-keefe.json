@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 586,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Rhalan Gracie",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "c1d9dc808f9d33ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Rhalan Gracie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Shane Keefe",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-18",
+      "fight_id": "c1d9dc808f9d33ae",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "c1d9dc808f9d33ae",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-18",
+  "name": "Shane Keefe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "shane-keefe",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

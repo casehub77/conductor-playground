@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 601,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jordan Johnson",
+      "bout_type": "Middleweight Bout",
+      "date": "2018-09-15",
+      "elo_delta": -16.8,
+      "event_name": "UFC Fight Night: Hunt vs. Oleinik",
+      "fight_id": "eaf4e55817d75ec9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jordan Johnson",
+      "opponent_elo": 1548.0,
+      "outcome": "blue_win",
+      "post_elo": 1483.2,
+      "pre_elo": 1500.0,
+      "red_name": "Adam Yandiev",
+      "round": "2.0",
+      "time": "0:42",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2018-09-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-09-15",
+      "fight_id": "eaf4e55817d75ec9",
+      "rating": 1483.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2018-09-15",
+      "fight_id": "eaf4e55817d75ec9",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-09-15",
+  "name": "Adam Yandiev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "adam-yandiev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

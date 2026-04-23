@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 413,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Andrew D Johnson",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-09-24",
+      "elo_delta": 17.0,
+      "event_name": "Legacy Fighting Alliance 115: Silveira vs. Cummins",
+      "fight_id": "18765813c50c42db",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Andrew D Johnson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Edwin Cooper Jr.",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Robson Junior",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-06-05",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 109: McKinney vs. Irizarry",
+      "fight_id": "c3c146883a783cef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Robson Junior",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Edwin Cooper Jr.",
+      "round": "2",
+      "time": "1:31",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-06-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-05",
+      "fight_id": "c3c146883a783cef",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-06-05",
+      "fight_id": "c3c146883a783cef",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "18765813c50c42db",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "18765813c50c42db",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-24",
+  "name": "Edwin Cooper Jr.",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "edwin-cooper-jr",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

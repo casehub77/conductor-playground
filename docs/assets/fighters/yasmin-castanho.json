@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 118,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yasmin Castanho",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": -19.0,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "e76e06530de2ee67",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Bruna Emanuele Brasil",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Bruna Emanuele Brasil",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Maristela Alves",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 111: De Sa vs. Bonfim",
+      "fight_id": "7b20f7b03765afe6",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Maristela Alves",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yasmin Castanho",
+      "round": "1",
+      "time": "4:20",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "7b20f7b03765afe6",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "7b20f7b03765afe6",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "e76e06530de2ee67",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "e76e06530de2ee67",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-13",
+  "name": "Yasmin Castanho",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "yasmin-castanho",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 267,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Hector Sandoval",
+      "bout_type": "Flyweight Bout",
+      "date": "2017-08-05",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Pettis vs. Moreno",
+      "fight_id": "e71762fb17836f72",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dustin Ortiz",
+      "opponent_elo": 1519.8,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1521.5,
+      "red_name": "Dustin Ortiz",
+      "round": "1.0",
+      "time": "0:15",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Matt Schnell",
+      "bout_type": "Flyweight Bout",
+      "date": "2017-04-22",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Swanson vs. Lobov",
+      "fight_id": "fae26a528cd253b8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Matt Schnell",
+      "opponent_elo": 1483.7,
+      "outcome": "red_win",
+      "post_elo": 1521.5,
+      "pre_elo": 1503.1,
+      "red_name": "Hector Sandoval",
+      "round": "1.0",
+      "time": "4:24",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Fredy Serrano",
+      "bout_type": "Flyweight Bout",
+      "date": "2016-12-17",
+      "elo_delta": 19.7,
+      "event_name": "UFC on FOX: VanZant vs. Waterson",
+      "fight_id": "d6ab8301e57a6fee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Fredy Serrano",
+      "opponent_elo": 1517.2,
+      "outcome": "red_win",
+      "post_elo": 1503.1,
+      "pre_elo": 1483.4,
+      "red_name": "Hector Sandoval",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Hector Sandoval",
+      "bout_type": "Flyweight Bout",
+      "date": "2016-07-30",
+      "elo_delta": -16.6,
+      "event_name": "UFC 201: Lawler vs. Woodley",
+      "fight_id": "2cd198b019301ea0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Wilson Reis",
+      "opponent_elo": 1550.4,
+      "outcome": "red_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1500.0,
+      "red_name": "Wilson Reis",
+      "round": "1.0",
+      "time": "1:49",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2016-07-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-07-30",
+      "fight_id": "2cd198b019301ea0",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2016-07-30",
+      "fight_id": "2cd198b019301ea0",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-12-17",
+      "fight_id": "d6ab8301e57a6fee",
+      "rating": 1503.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2016-12-17",
+      "fight_id": "d6ab8301e57a6fee",
+      "rating": 1502.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-04-22",
+      "fight_id": "fae26a528cd253b8",
+      "rating": 1521.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2017-04-22",
+      "fight_id": "fae26a528cd253b8",
+      "rating": 1518.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-08-05",
+      "fight_id": "e71762fb17836f72",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2017-08-05",
+      "fight_id": "e71762fb17836f72",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-08-05",
+  "name": "Hector Sandoval",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.5,
+  "slug": "hector-sandoval",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

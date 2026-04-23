@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 215,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mehdi Barghi",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": 18.4,
+      "event_name": "ONE 158: Tawanchai vs. Larsen",
+      "fight_id": "53d7e628643d8be6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (straight armlock)",
+      "opponent": "Mehdi Barghi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Odie Delaney",
+      "round": "2",
+      "time": "2:22",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Thomas Narmo",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": 19.4,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "681e305ff2929747",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (hammerlock)",
+      "opponent": "Thomas Narmo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Odie Delaney",
+      "round": "1",
+      "time": "1:06",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "681e305ff2929747",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "681e305ff2929747",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "53d7e628643d8be6",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "53d7e628643d8be6",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-03",
+  "name": "Odie Delaney",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "odie-delaney",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

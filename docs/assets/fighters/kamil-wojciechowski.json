@@ -1,0 +1,92 @@
+{
+  "current_elo": 1472.7,
+  "divisional_rank": 1001,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kamil Wojciechowski",
+      "bout_type": "Catchweight (194 lb) Bout",
+      "date": "2024-06-08",
+      "elo_delta": -17.0,
+      "event_name": "Oktagon 58: Vémola vs Végh 2",
+      "fight_id": "e182b7999d127aee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Miloš Petrášek",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Miloš Petrášek",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kamil Wojciechowski",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": -19.4,
+      "event_name": "Oktagon 56: Aby vs. Creasey",
+      "fight_id": "f9b6ad3ea28eb34f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Mick Stanton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mick Stanton",
+      "round": "3",
+      "time": "4:01",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "f9b6ad3ea28eb34f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "f9b6ad3ea28eb34f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "e182b7999d127aee",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "e182b7999d127aee",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-06-08",
+  "name": "Kamil Wojciechowski",
+  "nickname": "",
+  "overall_elo": 1476.7,
+  "peak_elo": 1500.0,
+  "slug": "kamil-wojciechowski",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

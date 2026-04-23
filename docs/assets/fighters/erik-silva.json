@@ -1,0 +1,126 @@
+{
+  "current_elo": 1443.2,
+  "divisional_rank": 1250,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Francis Marshall",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "abcafba0a9f68579",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Francis Marshall",
+      "opponent_elo": 1464.0,
+      "outcome": "blue_win",
+      "post_elo": 1443.2,
+      "pre_elo": 1462.5,
+      "red_name": "Erik Silva",
+      "round": "1.0",
+      "time": "2:29",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Muhammad Naimov",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-02-24",
+      "elo_delta": -16.1,
+      "event_name": "UFC Fight Night: Moreno vs. Royval 2",
+      "fight_id": "dd2374f83fbdad3d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Muhammad Naimov",
+      "opponent_elo": 1539.7,
+      "outcome": "blue_win",
+      "post_elo": 1462.5,
+      "pre_elo": 1478.6,
+      "red_name": "Erik Silva",
+      "round": "1.0",
+      "time": "0:44",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Erik Silva",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-12-10",
+      "elo_delta": -21.4,
+      "event_name": "UFC 282: Blachowicz vs. Ankalaev",
+      "fight_id": "7c9db40481235e1b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tj Brown",
+      "opponent_elo": 1464.5,
+      "outcome": "red_win",
+      "post_elo": 1478.6,
+      "pre_elo": 1500.0,
+      "red_name": "Tj Brown",
+      "round": "3.0",
+      "time": "3:41",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-12-10",
+      "fight_id": "7c9db40481235e1b",
+      "rating": 1478.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-12-10",
+      "fight_id": "7c9db40481235e1b",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "dd2374f83fbdad3d",
+      "rating": 1462.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "dd2374f83fbdad3d",
+      "rating": 1467.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "abcafba0a9f68579",
+      "rating": 1443.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "abcafba0a9f68579",
+      "rating": 1450.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Erik Silva",
+  "nickname": "",
+  "overall_elo": 1450.8,
+  "peak_elo": 1500.0,
+  "slug": "erik-silva",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1519.8,
+  "divisional_rank": 160,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Georgios Daskalakis",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2026-03-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "15f833cd56141ae5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Georgios Daskalakis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.8,
+      "pre_elo": 1500.4,
+      "red_name": "Connor Patterson",
+      "round": "1",
+      "time": "1:29",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Connor Patterson",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": -19.0,
+      "event_name": "Cage Warriors 193: Newcastle",
+      "fight_id": "a304bcce65dc370e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Jack McHugh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Jack McHugh",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jan Mašek",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 177: Unplugged",
+      "fight_id": "ff6b34bc89859935",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (arm-triangle choke)",
+      "opponent": "Jan Mašek",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Connor Patterson",
+      "round": "3",
+      "time": "3:39",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-09-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-20",
+      "fight_id": "ff6b34bc89859935",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "ff6b34bc89859935",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "a304bcce65dc370e",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "a304bcce65dc370e",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "15f833cd56141ae5",
+      "rating": 1519.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "15f833cd56141ae5",
+      "rating": 1517.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Connor Patterson",
+  "nickname": "",
+  "overall_elo": 1517.7,
+  "peak_elo": 1519.8,
+  "slug": "connor-patterson",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

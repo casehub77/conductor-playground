@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.9,
+  "divisional_rank": 680,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hugo Paiva",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-24",
+      "elo_delta": -17.1,
+      "event_name": "LFA 209: De Lara vs. Henrique",
+      "fight_id": "57596f0872fac5fb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 28–29, 30–27)",
+      "opponent": "Paulo Henrique da Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1482.0,
+      "red_name": "Paulo Henrique da Silva",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Hugo Paiva",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-11-04",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 146: Barbosa vs. Santos",
+      "fight_id": "3ced3291eb168231",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Felipe dos Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Felipe dos Santos",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-11-04",
+      "fight_id": "3ced3291eb168231",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-11-04",
+      "fight_id": "3ced3291eb168231",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-24",
+      "fight_id": "57596f0872fac5fb",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-24",
+      "fight_id": "57596f0872fac5fb",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-24",
+  "name": "Hugo Paiva",
+  "nickname": "",
+  "overall_elo": 1468.7,
+  "peak_elo": 1500.0,
+  "slug": "hugo-paiva",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

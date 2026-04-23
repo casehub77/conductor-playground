@@ -1,0 +1,262 @@
+{
+  "current_elo": 1516.1,
+  "divisional_rank": 229,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Grant Dawson",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-07-01",
+      "elo_delta": -15.4,
+      "event_name": "UFC Fight Night: Strickland vs. Magomedov",
+      "fight_id": "85f3e3cf92287e66",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Grant Dawson",
+      "opponent_elo": 1615.6,
+      "outcome": "blue_win",
+      "post_elo": 1548.8,
+      "pre_elo": 1564.1,
+      "red_name": "Damir Ismagulov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Damir Ismagulov",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-12-17",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Cannonier vs. Strickland",
+      "fight_id": "3710aacf0a6e2f3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Arman Tsarukyan",
+      "opponent_elo": 1570.9,
+      "outcome": "red_win",
+      "post_elo": 1564.1,
+      "pre_elo": 1582.7,
+      "red_name": "Arman Tsarukyan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Guram Kutateladze",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-06-18",
+      "elo_delta": 15.9,
+      "event_name": "UFC Fight Night: Kattar vs. Emmett",
+      "fight_id": "1e9824573751ffee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Guram Kutateladze",
+      "opponent_elo": 1526.5,
+      "outcome": "red_win",
+      "post_elo": 1582.7,
+      "pre_elo": 1566.8,
+      "red_name": "Damir Ismagulov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Damir Ismagulov",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-05-22",
+      "elo_delta": 15.4,
+      "event_name": "UFC Fight Night: Font vs. Garbrandt",
+      "fight_id": "81151ae50e32cb85",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rafael Alves",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1566.8,
+      "pre_elo": 1551.4,
+      "red_name": "Rafael Alves",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Thiago Moises",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-08-31",
+      "elo_delta": 16.4,
+      "event_name": "UFC Fight Night: Andrade vs. Zhang",
+      "fight_id": "92882794e20d4597",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Thiago Moises",
+      "opponent_elo": 1503.6,
+      "outcome": "red_win",
+      "post_elo": 1551.4,
+      "pre_elo": 1535.1,
+      "red_name": "Damir Ismagulov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Joel Alvarez",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-02-23",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: Blachowicz vs. Santos",
+      "fight_id": "182b326e51e74c2d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Joel Alvarez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.0,
+      "red_name": "Damir Ismagulov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Damir Ismagulov",
+      "bout_type": "Lightweight Bout",
+      "date": "2018-12-01",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Dos Santos vs. Tuivasa",
+      "fight_id": "1463962ca8e6837f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alex Gorgees",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Alex Gorgees",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-12-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-12-01",
+      "fight_id": "1463962ca8e6837f",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "1463962ca8e6837f",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-02-23",
+      "fight_id": "182b326e51e74c2d",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-02-23",
+      "fight_id": "182b326e51e74c2d",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-08-31",
+      "fight_id": "92882794e20d4597",
+      "rating": 1551.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-08-31",
+      "fight_id": "92882794e20d4597",
+      "rating": 1545.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-22",
+      "fight_id": "81151ae50e32cb85",
+      "rating": 1566.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-05-22",
+      "fight_id": "81151ae50e32cb85",
+      "rating": 1559.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "1e9824573751ffee",
+      "rating": 1582.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "1e9824573751ffee",
+      "rating": 1574.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "3710aacf0a6e2f3f",
+      "rating": 1564.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "3710aacf0a6e2f3f",
+      "rating": 1557.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-01",
+      "fight_id": "85f3e3cf92287e66",
+      "rating": 1548.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-07-01",
+      "fight_id": "85f3e3cf92287e66",
+      "rating": 1544.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-01",
+  "name": "Damir Ismagulov",
+  "nickname": "",
+  "overall_elo": 1511.4,
+  "peak_elo": 1582.7,
+  "slug": "damir-ismagulov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

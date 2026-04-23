@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1076,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marcos Mariano",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-09-21",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Rodriguez vs. Stephens",
+      "fight_id": "f47a2f7d34e5831d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Claudio Puelles",
+      "opponent_elo": 1501.2,
+      "outcome": "red_win",
+      "post_elo": 1462.5,
+      "pre_elo": 1479.4,
+      "red_name": "Claudio Puelles",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Marcos Mariano",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-02-09",
+      "elo_delta": -20.6,
+      "event_name": "UFC 234: Adesanya vs. Silva",
+      "fight_id": "90927a85796ab189",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Lando Vannata",
+      "opponent_elo": 1479.5,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lando Vannata",
+      "round": "1.0",
+      "time": "4:55",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2019-02-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-02-09",
+      "fight_id": "90927a85796ab189",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-02-09",
+      "fight_id": "90927a85796ab189",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-09-21",
+      "fight_id": "f47a2f7d34e5831d",
+      "rating": 1462.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-09-21",
+      "fight_id": "f47a2f7d34e5831d",
+      "rating": 1466.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-09-21",
+  "name": "Marcos Mariano",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "marcos-mariano",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

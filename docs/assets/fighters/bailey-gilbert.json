@@ -1,0 +1,92 @@
+{
+  "current_elo": 1497.4,
+  "divisional_rank": 1026,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Bailey Gilbert",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-19",
+      "elo_delta": -17.8,
+      "event_name": "Cage Warriors 187: Glasgow",
+      "fight_id": "e3af377fc005a62a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Paull McBain",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1497.4,
+      "pre_elo": 1515.2,
+      "red_name": "Paull McBain",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Alberth Dias",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": 17.1,
+      "event_name": "Cage Warriors 181: Newcastle",
+      "fight_id": "718ee99a88dbc45d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (28–27, 28–27, 28–27)",
+      "opponent": "Alberth Dias",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Bailey Gilbert",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-11-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-23",
+      "fight_id": "718ee99a88dbc45d",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "718ee99a88dbc45d",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "e3af377fc005a62a",
+      "rating": 1497.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "e3af377fc005a62a",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-19",
+  "name": "Bailey Gilbert",
+  "nickname": "",
+  "overall_elo": 1499.3,
+  "peak_elo": 1517.1,
+  "slug": "bailey-gilbert",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

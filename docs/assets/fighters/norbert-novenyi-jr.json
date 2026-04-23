@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 484,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kamil Oniszczuk",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "3562a5f9240a974d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Kamil Oniszczuk",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Norbert Növényi Jr.",
+      "round": "1",
+      "time": "0:46",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-06-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-06-16",
+      "fight_id": "3562a5f9240a974d",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "3562a5f9240a974d",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-16",
+  "name": "Norbert Növényi Jr.",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.4,
+  "slug": "norbert-novenyi-jr",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

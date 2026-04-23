@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 845,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Julio Paulino",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-09-25",
+      "elo_delta": -16.9,
+      "event_name": "UFC 119: Mir vs Cro Cop",
+      "fight_id": "defe773f84bf7bed",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tj Grant",
+      "opponent_elo": 1504.4,
+      "outcome": "red_win",
+      "post_elo": 1466.5,
+      "pre_elo": 1483.4,
+      "red_name": "Tj Grant",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Julio Paulino",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-03-21",
+      "elo_delta": -16.6,
+      "event_name": "UFC Live: Vera vs Jones",
+      "fight_id": "b29d22a84a694612",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mike Pierce",
+      "opponent_elo": 1526.9,
+      "outcome": "red_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Pierce",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-03-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-03-21",
+      "fight_id": "b29d22a84a694612",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-03-21",
+      "fight_id": "b29d22a84a694612",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-25",
+      "fight_id": "defe773f84bf7bed",
+      "rating": 1466.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-09-25",
+      "fight_id": "defe773f84bf7bed",
+      "rating": 1469.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-25",
+  "name": "Julio Paulino",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "julio-paulino",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

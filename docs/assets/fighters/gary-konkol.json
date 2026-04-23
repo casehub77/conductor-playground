@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 662,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Gary Konkol",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": -19.1,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "14c719eaf5a86bcc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–26, 30–27)",
+      "opponent": "Isaac Thomson",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1502.4,
+      "red_name": "Isaac Thomson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Sam Hernandez",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-09-16",
+      "elo_delta": 20.4,
+      "event_name": "Legacy Fighting Alliance 142: Amorim vs. Nichols",
+      "fight_id": "ba70a8220554153e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Sam Hernandez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Gary Konkol",
+      "round": "2",
+      "time": "3:10",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Gary Konkol",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 131: Argueta vs. Silva",
+      "fight_id": "4b94b3934c542342",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "David Evans",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "David Evans",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-06",
+      "fight_id": "4b94b3934c542342",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "4b94b3934c542342",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "ba70a8220554153e",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "ba70a8220554153e",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "14c719eaf5a86bcc",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "14c719eaf5a86bcc",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Gary Konkol",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.4,
+  "slug": "gary-konkol",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1538.6,
+  "divisional_rank": 95,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Angel Pacheco",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": 15.9,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "8f306176e9c93e9f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Angel Pacheco",
+      "opponent_elo": 1481.2,
+      "outcome": "red_win",
+      "post_elo": 1538.6,
+      "pre_elo": 1522.8,
+      "red_name": "Santiago Luna",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Quang Le",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": 22.8,
+      "event_name": "UFC Fight Night: Lopes vs. Silva",
+      "fight_id": "6827c426c91baec9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Quang Le",
+      "opponent_elo": 1560.0,
+      "outcome": "red_win",
+      "post_elo": 1522.8,
+      "pre_elo": 1500.0,
+      "red_name": "Santiago Luna",
+      "round": "1.0",
+      "time": "2:48",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-09-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-13",
+      "fight_id": "6827c426c91baec9",
+      "rating": 1522.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "6827c426c91baec9",
+      "rating": 1520.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "8f306176e9c93e9f",
+      "rating": 1538.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "8f306176e9c93e9f",
+      "rating": 1534.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Santiago Luna",
+  "nickname": "",
+  "overall_elo": 1534.3,
+  "peak_elo": 1538.6,
+  "slug": "santiago-luna",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

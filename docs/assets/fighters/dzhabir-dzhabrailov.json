@@ -1,0 +1,126 @@
+{
+  "current_elo": 1554.5,
+  "divisional_rank": 77,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Nicolas Alejandro Vigna",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-07",
+      "elo_delta": 16.7,
+      "event_name": "ONE Fight Night 32: Nakrob vs. Jaosuayai",
+      "fight_id": "010ca5086797e57e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Nicolas Alejandro Vigna",
+      "opponent_elo": 1488.5,
+      "outcome": "red_win",
+      "post_elo": 1554.5,
+      "pre_elo": 1537.8,
+      "red_name": "Dzhabir Dzhabrailov",
+      "round": "1",
+      "time": "1:43",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Khusan Urakov",
+      "bout_type": "Catchweight (176 lbs) MMA Bout",
+      "date": "2025-01-10",
+      "elo_delta": 18.4,
+      "event_name": "ONE Friday Fights 93: Kongchai vs. Ondash",
+      "fight_id": "14b8c0c912e7b136",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (slam and punches)",
+      "opponent": "Khusan Urakov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Dzhabir Dzhabrailov",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Eduardo Freitas",
+      "bout_type": "Lightweight MMA Bout",
+      "date": "2024-09-13",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 79: Kongchai vs. Abdulmuslimov",
+      "fight_id": "a2921d50eebb8d61",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Eduardo Freitas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dzhabir Dzhabrailov",
+      "round": "1",
+      "time": "0:20",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-09-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-13",
+      "fight_id": "a2921d50eebb8d61",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-13",
+      "fight_id": "a2921d50eebb8d61",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "14b8c0c912e7b136",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "14b8c0c912e7b136",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "010ca5086797e57e",
+      "rating": 1554.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "010ca5086797e57e",
+      "rating": 1548.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-07",
+  "name": "Dzhabir Dzhabrailov",
+  "nickname": "",
+  "overall_elo": 1548.7,
+  "peak_elo": 1554.5,
+  "slug": "dzhabir-dzhabrailov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

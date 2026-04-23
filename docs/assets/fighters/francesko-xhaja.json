@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 376,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Andrei Stoica",
+      "bout_type": "Light Heavyweight Kickboxing Bout",
+      "date": "2023-02-25",
+      "elo_delta": 19.9,
+      "event_name": "ONE Fight Night 7: Lineker vs. Andrade 2",
+      "fight_id": "b110d485ec6fcf34",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Andrei Stoica",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1502.6,
+      "pre_elo": 1482.7,
+      "red_name": "Françesko Xhaja",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Françesko Xhaja",
+      "bout_type": "Heavyweight Kickboxing Bout",
+      "date": "2022-01-28",
+      "elo_delta": -19.4,
+      "event_name": "ONE: Only the Brave",
+      "fight_id": "a192b11cb5e15947",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (3 knockdown rules)",
+      "opponent": "Rade Opačić",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Rade Opačić",
+      "round": "2",
+      "time": "2:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-01-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-28",
+      "fight_id": "a192b11cb5e15947",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-01-28",
+      "fight_id": "a192b11cb5e15947",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "b110d485ec6fcf34",
+      "rating": 1502.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "b110d485ec6fcf34",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-25",
+  "name": "Françesko Xhaja",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.6,
+  "slug": "francesko-xhaja",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

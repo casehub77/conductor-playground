@@ -1,0 +1,194 @@
+{
+  "current_elo": 1516.1,
+  "divisional_rank": 218,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Sebastian Przybysz",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-12-17",
+      "elo_delta": 21.4,
+      "event_name": "KSW 77: Khalidov vs. Pudzianowski",
+      "fight_id": "7712199b79e714d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Sebastian Przybysz",
+      "opponent_elo": 1606.4,
+      "outcome": "red_win",
+      "post_elo": 1562.2,
+      "pre_elo": 1540.8,
+      "red_name": "Jakub Wikłacz",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Bruno Augusto dos Santos",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-06-18",
+      "elo_delta": 16.9,
+      "event_name": "KSW 71: Ziółkowski vs. Rajewski",
+      "fight_id": "cc9245317c280678",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Bruno Augusto dos Santos",
+      "opponent_elo": 1502.8,
+      "outcome": "red_win",
+      "post_elo": 1540.8,
+      "pre_elo": 1523.9,
+      "red_name": "Jakub Wikłacz",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Antun Račić",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-09-04",
+      "elo_delta": 23.5,
+      "event_name": "KSW 63: Crime of The Century",
+      "fight_id": "db495b30c92d10a6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Antun Račić",
+      "opponent_elo": 1573.8,
+      "outcome": "red_win",
+      "post_elo": 1523.9,
+      "pre_elo": 1500.5,
+      "red_name": "Jakub Wikłacz",
+      "round": "1",
+      "time": "1:57",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Patryk Surdyn",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-04-24",
+      "elo_delta": 17.8,
+      "event_name": "KSW 60: De Fries vs. Narkun 2",
+      "fight_id": "5dfaa71c3fbef572",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Patryk Surdyn",
+      "opponent_elo": 1478.0,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1482.7,
+      "red_name": "Jakub Wikłacz",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jakub Wikłacz",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2020-07-11",
+      "elo_delta": -17.3,
+      "event_name": "KSW 53: Reborn",
+      "fight_id": "70f5f624b90c9147",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches to the Body)",
+      "opponent": "Sebastian Przybysz",
+      "opponent_elo": 1538.4,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Sebastian Przybysz",
+      "round": "3",
+      "time": "1:18",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-07-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-07-11",
+      "fight_id": "70f5f624b90c9147",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-07-11",
+      "fight_id": "70f5f624b90c9147",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-24",
+      "fight_id": "5dfaa71c3fbef572",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-04-24",
+      "fight_id": "5dfaa71c3fbef572",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "db495b30c92d10a6",
+      "rating": 1523.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "db495b30c92d10a6",
+      "rating": 1520.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "cc9245317c280678",
+      "rating": 1540.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "cc9245317c280678",
+      "rating": 1535.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "7712199b79e714d8",
+      "rating": 1562.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "7712199b79e714d8",
+      "rating": 1554.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-17",
+  "name": "Jakub Wikłacz",
+  "nickname": "",
+  "overall_elo": 1508.6,
+  "peak_elo": 1562.2,
+  "slug": "jakub-wikacz",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

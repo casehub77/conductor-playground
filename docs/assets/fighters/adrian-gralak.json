@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 837,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Adrian Gralak",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2022-12-17",
+      "elo_delta": -17.6,
+      "event_name": "KSW 77: Khalidov vs. Pudzianowski",
+      "fight_id": "9e70bb76132793a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Yann Liasse",
+      "opponent_elo": 1532.2,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yann Liasse",
+      "round": "2",
+      "time": "2:37",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-14",
+      "fight_id": "b1364f7910ef786f",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "9e70bb76132793a1",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "9e70bb76132793a1",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-17",
+  "name": "Adrian Gralak",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "adrian-gralak",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

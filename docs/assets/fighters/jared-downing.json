@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 370,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Danny Tims",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-10-14",
+      "elo_delta": 17.0,
+      "event_name": "Bellator 32",
+      "fight_id": "f07f1eb9409b6b76",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (30–27, 28–29, 30–27).",
+      "opponent": "Danny Tims",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Jared Downing",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chad Vandenberg",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-06-17",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 22",
+      "fight_id": "f900855d0d51bf65",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Chad Vandenberg",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jared Downing",
+      "round": "3",
+      "time": "1:35",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2010-06-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-17",
+      "fight_id": "f900855d0d51bf65",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-06-17",
+      "fight_id": "f900855d0d51bf65",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-14",
+      "fight_id": "f07f1eb9409b6b76",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-10-14",
+      "fight_id": "f07f1eb9409b6b76",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-10-14",
+  "name": "Jared Downing",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "jared-downing",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

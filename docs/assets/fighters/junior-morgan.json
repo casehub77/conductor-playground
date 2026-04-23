@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1035,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Junior Morgan",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 275: Mousasi vs. Vanderford",
+      "fight_id": "16c92ffd1b8836b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Darragh Kelly",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Darragh Kelly",
+      "round": "1",
+      "time": "1:47",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-25",
+      "fight_id": "16c92ffd1b8836b7",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "16c92ffd1b8836b7",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-25",
+  "name": "Junior Morgan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "junior-morgan",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

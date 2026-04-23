@@ -1,0 +1,160 @@
+{
+  "current_elo": 1502.1,
+  "divisional_rank": 164,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Pavel Tóth",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-12-28",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 81: Fleury vs. Buday",
+      "fight_id": "67963ee8b32d2804",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Pavel Tóth",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1481.6,
+      "red_name": "Ondřej Raška",
+      "round": "1",
+      "time": "1:19",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ondřej Raška",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -19.5,
+      "event_name": "Oktagon 59: Summer Party",
+      "fight_id": "054eb4309a54b602",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Milan Ďatelinka",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1501.1,
+      "red_name": "Milan Ďatelinka",
+      "round": "1",
+      "time": "0:14",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Michal Kotalík",
+      "bout_type": "Catchweight (196 lb) Bout",
+      "date": "2023-12-09",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 50: Keita vs. Samsonidse",
+      "fight_id": "8910ed08b34d7b7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (foot injury)",
+      "opponent": "Michal Kotalík",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Ondřej Raška",
+      "round": "2",
+      "time": "0:28",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Ondřej Raška",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-04-15",
+      "elo_delta": -19.4,
+      "event_name": "Oktagon 41: Mågård vs. Lopez",
+      "fight_id": "cc0bdda19229833c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Jamie Cordero",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jamie Cordero",
+      "round": "1",
+      "time": "1:07",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-15",
+      "fight_id": "cc0bdda19229833c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-04-15",
+      "fight_id": "cc0bdda19229833c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "8910ed08b34d7b7f",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "8910ed08b34d7b7f",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "054eb4309a54b602",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "054eb4309a54b602",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "67963ee8b32d2804",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "67963ee8b32d2804",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-28",
+  "name": "Ondřej Raška",
+  "nickname": "",
+  "overall_elo": 1501.6,
+  "peak_elo": 1502.1,
+  "slug": "ondrej-raska",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

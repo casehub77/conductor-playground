@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 605,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Akhmed Magomedov",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-02-04",
+      "elo_delta": -17.9,
+      "event_name": "Bellator 290: Bader vs. Fedor 2",
+      "fight_id": "dd8e791c5efb6c7b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Henry Corrales",
+      "opponent_elo": 1519.6,
+      "outcome": "red_win",
+      "post_elo": 1499.4,
+      "pre_elo": 1517.3,
+      "red_name": "Henry Corrales",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-07-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-22",
+      "fight_id": "18034760aa443899",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "dd8e791c5efb6c7b",
+      "rating": 1499.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "dd8e791c5efb6c7b",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-04",
+  "name": "Akhmed Magomedov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "akhmed-magomedov",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

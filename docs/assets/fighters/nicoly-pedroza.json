@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.4,
+  "divisional_rank": 20,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Thalita Diniz",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-11-22",
+      "elo_delta": 18.4,
+      "event_name": "LFA 197: Kuziutina vs. Guimarães",
+      "fight_id": "2a7f036f687c880e",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Thalita Diniz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Nicoly Pedroza",
+      "round": "1",
+      "time": "4:25",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Andreyna Rocha",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": 18.0,
+      "event_name": "LFA 175: Lopes vs. Brigagão",
+      "fight_id": "5c11d55826871e21",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (28–26, 29–26, 28–27)",
+      "opponent": "Andreyna Rocha",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Nicoly Pedroza",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-01-27",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-01-27",
+      "fight_id": "5c11d55826871e21",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "5c11d55826871e21",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "2a7f036f687c880e",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "2a7f036f687c880e",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-22",
+  "name": "Nicoly Pedroza",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1536.4,
+  "slug": "nicoly-pedroza",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

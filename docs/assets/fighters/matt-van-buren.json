@@ -1,0 +1,133 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 203,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2015-01-18",
+      "elo_delta": -22.2,
+      "event_name": "UFC Fight Night: McGregor vs Siver",
+      "fight_id": "f90037c5df46f231",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Sean O'Connell",
+      "opponent_elo": 1463.9,
+      "outcome": "blue_win",
+      "post_elo": 1492.1,
+      "pre_elo": 1514.3,
+      "red_name": "Matt Van Buren",
+      "round": "3.0",
+      "time": "2:11",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Matt Van Buren",
+      "bout_type": "Ultimate Fighter 19 Light Heavyweight Tournament Title Bout",
+      "date": "2014-07-06",
+      "elo_delta": -21.4,
+      "event_name": "The Ultimate Fighter: Team Edgar vs. Team Penn Finale",
+      "fight_id": "7b3131987f1a8efb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Corey Anderson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1514.3,
+      "pre_elo": 1535.8,
+      "red_name": "Corey Anderson",
+      "round": "1.0",
+      "time": "1:01",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Shawn Levesque",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-11-12",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 57",
+      "fight_id": "442f78b34d9ddc1b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear naked choke)",
+      "opponent": "Shawn Levesque",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Matt Van Buren",
+      "round": "1",
+      "time": "4:38",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-10-01",
+      "fight_id": "a3d3a35ce99188a3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "442f78b34d9ddc1b",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "442f78b34d9ddc1b",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-07-06",
+      "fight_id": "7b3131987f1a8efb",
+      "rating": 1514.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2014-07-06",
+      "fight_id": "7b3131987f1a8efb",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-01-18",
+      "fight_id": "f90037c5df46f231",
+      "rating": 1492.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2015-01-18",
+      "fight_id": "f90037c5df46f231",
+      "rating": 1495.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-01-18",
+  "name": "Matt Van Buren",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.8,
+  "slug": "matt-van-buren",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

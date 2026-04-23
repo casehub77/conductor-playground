@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 351,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Scott Writz",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": 20.6,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "0df4a424a085ba87",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (guillotine choke)",
+      "opponent": "Scott Writz",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1538.4,
+      "pre_elo": 1517.8,
+      "red_name": "Jalin Fuller",
+      "round": "1",
+      "time": "1:14",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jalin Fuller",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": -20.0,
+      "event_name": "Legacy Fighting Alliance 131: Argueta vs. Silva",
+      "fight_id": "347bf0eeb2cc17e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Myktybek Orolbay",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.8,
+      "pre_elo": 1537.8,
+      "red_name": "Myktybek Orolbay",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gage Saunders",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 130: Ksiazkiewicz vs. Gambulino",
+      "fight_id": "8af855673201f918",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Gage Saunders",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Jalin Fuller",
+      "round": "1",
+      "time": "2:18",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jalin Fuller",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": -18.9,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "1cc4ae8cf7d4fc96",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Bruno Assis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1517.3,
+      "red_name": "Bruno Assis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Treston Vines",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-03-12",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 101: Kalani vs. Cummins",
+      "fight_id": "bf30ed6c1e50fb52",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Treston Vines",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jalin Fuller",
+      "round": "1",
+      "time": "2:32",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-03-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-12",
+      "fight_id": "bf30ed6c1e50fb52",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-03-12",
+      "fight_id": "bf30ed6c1e50fb52",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "1cc4ae8cf7d4fc96",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "1cc4ae8cf7d4fc96",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "8af855673201f918",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "8af855673201f918",
+      "rating": 1517.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "347bf0eeb2cc17e4",
+      "rating": 1517.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "347bf0eeb2cc17e4",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "0df4a424a085ba87",
+      "rating": 1538.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "0df4a424a085ba87",
+      "rating": 1519.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Jalin Fuller",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.4,
+  "slug": "jalin-fuller",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

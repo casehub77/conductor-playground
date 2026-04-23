@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 984,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hiroki Kita",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-10-18",
+      "elo_delta": 18.1,
+      "event_name": "Shooto: Gig Tokyo 3",
+      "fight_id": "d95689740a3ebeea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Hiroki Kita",
+      "opponent_elo": 1457.7,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1482.4,
+      "red_name": "Yoshitaka Okigi",
+      "round": "1",
+      "time": "3:28",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshitaka Okigi",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-07-19",
+      "elo_delta": -17.6,
+      "event_name": "Shooto: Revolutionary Exchanges 1: Undefeated",
+      "fight_id": "d2b4e9256700665a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Tsuneo Kimura",
+      "opponent_elo": 1532.5,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tsuneo Kimura",
+      "round": "2",
+      "time": "1:04",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2009-07-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-07-19",
+      "fight_id": "d2b4e9256700665a",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-07-19",
+      "fight_id": "d2b4e9256700665a",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-10-18",
+      "fight_id": "d95689740a3ebeea",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-10-18",
+      "fight_id": "d95689740a3ebeea",
+      "rating": 1500.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-10-18",
+  "name": "Yoshitaka Okigi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.4,
+  "slug": "yoshitaka-okigi",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

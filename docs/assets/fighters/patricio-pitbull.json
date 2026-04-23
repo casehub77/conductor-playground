@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 544,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Patrício Pitbull",
+      "bout_type": "Catchweight 70 kg Bout",
+      "date": "2023-07-30",
+      "elo_delta": -19.7,
+      "event_name": "Super Rizin.2: Rizin X Bellator",
+      "fight_id": "33ab2e1ddbab8228",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Chihiro Suzuki",
+      "opponent_elo": 1515.8,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1520.5,
+      "red_name": "Chihiro Suzuki",
+      "round": "1",
+      "time": "2:32",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Patrício Pitbull",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": -15.9,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "0deb012eb1d6ea56",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 50–45, 50–45)",
+      "opponent": "Sergio Pettis",
+      "opponent_elo": 1559.1,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1517.8,
+      "red_name": "Sergio Pettis",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ádám Borics",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": 19.9,
+      "event_name": "Bellator 286: Pitbull vs. Borics",
+      "fight_id": "9d0b02862deff78d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (48–47, 49–46, 50–45)",
+      "opponent": "Ádám Borics",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.6,
+      "red_name": "Patrício Pitbull",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "A. J. McKee",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 20.0,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "c7ad7398bef0ad0e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 48–47, 48–47)",
+      "opponent": "A. J. McKee",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.6,
+      "pre_elo": 1480.6,
+      "red_name": "Patrício Pitbull",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Patrício Pitbull",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-07-31",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 263: Pitbull vs. McKee",
+      "fight_id": "4b3732abb3735e7d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (guillotine choke)",
+      "opponent": "A. J. McKee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "A. J. McKee",
+      "round": "1",
+      "time": "1:57",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-07-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-31",
+      "fight_id": "4b3732abb3735e7d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-07-31",
+      "fight_id": "4b3732abb3735e7d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c7ad7398bef0ad0e",
+      "rating": 1500.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c7ad7398bef0ad0e",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "9d0b02862deff78d",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "9d0b02862deff78d",
+      "rating": 1517.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "0deb012eb1d6ea56",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "0deb012eb1d6ea56",
+      "rating": 1505.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-30",
+      "fight_id": "33ab2e1ddbab8228",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-07-30",
+      "fight_id": "33ab2e1ddbab8228",
+      "rating": 1488.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-30",
+  "name": "Patrício Pitbull",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.5,
+  "slug": "patricio-pitbull",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

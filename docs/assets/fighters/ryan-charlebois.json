@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 584,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Charlebois",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-08-19",
+      "elo_delta": -17.8,
+      "event_name": "Legacy Fighting Alliance 139: Assenza vs. Melo",
+      "fight_id": "f167f099be77c659",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Logan Urban",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1478.7,
+      "pre_elo": 1496.5,
+      "red_name": "Logan Urban",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ryan Charlebois",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": -21.5,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "c2725d7d183fc539",
+      "gender": "men",
+      "is_title": false,
+      "method": "Disqualification (elbows to back of head)",
+      "opponent": "Jeremiah Curtright",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1496.5,
+      "pre_elo": 1518.0,
+      "red_name": "Jeremiah Curtright",
+      "round": "1",
+      "time": "3:15",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joseph Galaviz",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-04-30",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 106: Silveira vs. Viana",
+      "fight_id": "c4600e9308e8e1be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Joseph Galaviz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ryan Charlebois",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-04-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-30",
+      "fight_id": "c4600e9308e8e1be",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-04-30",
+      "fight_id": "c4600e9308e8e1be",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "c2725d7d183fc539",
+      "rating": 1496.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "c2725d7d183fc539",
+      "rating": 1497.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "f167f099be77c659",
+      "rating": 1478.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "f167f099be77c659",
+      "rating": 1481.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-19",
+  "name": "Ryan Charlebois",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "ryan-charlebois",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

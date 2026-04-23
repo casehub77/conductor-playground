@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 881,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Edwin Dewees",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-11-11",
+      "elo_delta": -17.9,
+      "event_name": "The Ultimate Fighter: The Comeback Finale",
+      "fight_id": "a0dfa3701c2e834e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jorge Rivera",
+      "opponent_elo": 1497.1,
+      "outcome": "red_win",
+      "post_elo": 1451.2,
+      "pre_elo": 1469.0,
+      "red_name": "Jorge Rivera",
+      "round": "1.0",
+      "time": "2:37",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Edwin Dewees",
+      "bout_type": "Middleweight Bout",
+      "date": "2005-10-03",
+      "elo_delta": -14.7,
+      "event_name": "UFC Fight Night 2",
+      "fight_id": "ab26c826942fa3b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Chris Leben",
+      "opponent_elo": 1569.6,
+      "outcome": "red_win",
+      "post_elo": 1469.0,
+      "pre_elo": 1483.8,
+      "red_name": "Chris Leben",
+      "round": "1.0",
+      "time": "3:26",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Edwin Dewees",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2003-09-26",
+      "elo_delta": -18.1,
+      "event_name": "UFC 44: Undisputed",
+      "fight_id": "c1cfc808d4fdb035",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Rich Franklin",
+      "opponent_elo": 1523.8,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Rich Franklin",
+      "round": "1.0",
+      "time": "3:35",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2003-09-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-09-26",
+      "fight_id": "c1cfc808d4fdb035",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2003-09-26",
+      "fight_id": "c1cfc808d4fdb035",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-10-03",
+      "fight_id": "ab26c826942fa3b7",
+      "rating": 1469.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2005-10-03",
+      "fight_id": "ab26c826942fa3b7",
+      "rating": 1470.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-11-11",
+      "fight_id": "a0dfa3701c2e834e",
+      "rating": 1451.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-11-11",
+      "fight_id": "a0dfa3701c2e834e",
+      "rating": 1454.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-11-11",
+  "name": "Edwin Dewees",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "edwin-dewees",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

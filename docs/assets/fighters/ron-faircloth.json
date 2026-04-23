@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 613,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ron Faircloth",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2005-10-07",
+      "elo_delta": 0.0,
+      "event_name": "UFC 55: Fury",
+      "fight_id": "18b59970e2c9e30b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Could Not Continue",
+      "opponent": "Alessio Sakara",
+      "opponent_elo": 1499.1,
+      "outcome": "no_contest",
+      "post_elo": 1483.6,
+      "pre_elo": 1483.6,
+      "red_name": "Alessio Sakara",
+      "round": "2.0",
+      "time": "0:10",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ron Faircloth",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-10-04",
+      "elo_delta": -18.4,
+      "event_name": "WEC 2: Clash of the Titans",
+      "fight_id": "edc748a06370da2b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Gan McGee",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Gan McGee",
+      "round": "1",
+      "time": "0:12",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-10-04",
+      "fight_id": "edc748a06370da2b",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-10-04",
+      "fight_id": "edc748a06370da2b",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-10-07",
+      "fight_id": "18b59970e2c9e30b",
+      "rating": 1483.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-10-07",
+      "fight_id": "18b59970e2c9e30b",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-10-07",
+  "name": "Ron Faircloth",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ron-faircloth",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

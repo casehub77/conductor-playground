@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 204,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Nikita Krylov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2014-07-19",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: McGregor vs Brandao",
+      "fight_id": "57eb91e7af95b698",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nikita Krylov",
+      "opponent_elo": 1481.4,
+      "outcome": "blue_win",
+      "post_elo": 1474.6,
+      "pre_elo": 1494.8,
+      "red_name": "Cody Donovan",
+      "round": "1.0",
+      "time": "4:57",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Gian Villante",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2013-11-16",
+      "elo_delta": -20.2,
+      "event_name": "UFC 167: St-Pierre vs Hendricks",
+      "fight_id": "2d53cf5a72dccfa6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gian Villante",
+      "opponent_elo": 1501.8,
+      "outcome": "blue_win",
+      "post_elo": 1494.8,
+      "pre_elo": 1515.0,
+      "red_name": "Cody Donovan",
+      "round": "2.0",
+      "time": "1:22",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ovince Saint Preux",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2013-08-17",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Shogun vs Sonnen",
+      "fight_id": "4d1fbffcbbf9eddd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ovince Saint Preux",
+      "opponent_elo": 1519.1,
+      "outcome": "blue_win",
+      "post_elo": 1515.0,
+      "pre_elo": 1535.3,
+      "red_name": "Cody Donovan",
+      "round": "1.0",
+      "time": "2:07",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Cody Donovan",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2012-12-14",
+      "elo_delta": 17.3,
+      "event_name": "UFC on FX: Sotiropoulos vs Pearson",
+      "fight_id": "c4103df185ccfd3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nick Penner",
+      "opponent_elo": 1480.5,
+      "outcome": "blue_win",
+      "post_elo": 1535.3,
+      "pre_elo": 1518.0,
+      "red_name": "Nick Penner",
+      "round": "1.0",
+      "time": "4:35",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Brian Albin",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-03-26",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 38",
+      "fight_id": "881785002d6ed967",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (30–27, 30–27, 30–27).",
+      "opponent": "Brian Albin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Cody Donovan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-03-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-03-26",
+      "fight_id": "881785002d6ed967",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-03-26",
+      "fight_id": "881785002d6ed967",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-12-14",
+      "fight_id": "c4103df185ccfd3e",
+      "rating": 1535.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2012-12-14",
+      "fight_id": "c4103df185ccfd3e",
+      "rating": 1531.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-17",
+      "fight_id": "4d1fbffcbbf9eddd",
+      "rating": 1515.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2013-08-17",
+      "fight_id": "4d1fbffcbbf9eddd",
+      "rating": 1513.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-11-16",
+      "fight_id": "2d53cf5a72dccfa6",
+      "rating": 1494.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2013-11-16",
+      "fight_id": "2d53cf5a72dccfa6",
+      "rating": 1495.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-07-19",
+      "fight_id": "57eb91e7af95b698",
+      "rating": 1474.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2014-07-19",
+      "fight_id": "57eb91e7af95b698",
+      "rating": 1477.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-07-19",
+  "name": "Cody Donovan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.3,
+  "slug": "cody-donovan",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

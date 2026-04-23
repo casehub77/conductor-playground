@@ -1,0 +1,92 @@
+{
+  "current_elo": 1486.2,
+  "divisional_rank": 669,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Quentin Domingos",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2023-11-04",
+      "elo_delta": -18.4,
+      "event_name": "Rizin Landmark 7",
+      "fight_id": "c76a9010947ab196",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Retirement)",
+      "opponent": "Shota Betlemidze",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Shota Betlemidze",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Quentin Domingos",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2020-08-29",
+      "elo_delta": -19.4,
+      "event_name": "KSW 54: Gamrot vs. Ziółkowski",
+      "fight_id": "cab3de8adf83d339",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Leg Injury)",
+      "opponent": "Izu Ugonoh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Izu Ugonoh",
+      "round": "1",
+      "time": "2:22",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2020-08-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-29",
+      "fight_id": "cab3de8adf83d339",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "cab3de8adf83d339",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "c76a9010947ab196",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "c76a9010947ab196",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-04",
+  "name": "Quentin Domingos",
+  "nickname": "",
+  "overall_elo": 1490.3,
+  "peak_elo": 1500.0,
+  "slug": "quentin-domingos",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

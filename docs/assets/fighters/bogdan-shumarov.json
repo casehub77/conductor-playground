@@ -1,0 +1,126 @@
+{
+  "current_elo": 1510.5,
+  "divisional_rank": 249,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Bogdan Shumarov",
+      "bout_type": "Lightweight Kickboxing Bout",
+      "date": "2024-05-04",
+      "elo_delta": -17.6,
+      "event_name": "ONE Fight Night 22: Sundell vs. Diachkova",
+      "fight_id": "dc5ac581d8275eaf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Rungrawee Sitsongpeenong",
+      "opponent_elo": 1546.9,
+      "outcome": "red_win",
+      "post_elo": 1522.1,
+      "pre_elo": 1539.7,
+      "red_name": "Rungrawee Sitsongpeenong",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Constantin Rusu",
+      "bout_type": "Lightweight Kickboxing Bout",
+      "date": "2023-07-15",
+      "elo_delta": 20.3,
+      "event_name": "ONE Fight Night 12: Superlek vs. Khalilov",
+      "fight_id": "aa24f60ff1f7c2df",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick)",
+      "opponent": "Constantin Rusu",
+      "opponent_elo": 1534.1,
+      "outcome": "red_win",
+      "post_elo": 1539.7,
+      "pre_elo": 1519.4,
+      "red_name": "Bogdan Shumarov",
+      "round": "3",
+      "time": "1:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Marwen Houli",
+      "bout_type": "Lightweight Kickboxing Bout",
+      "date": "2023-02-24",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 6: Gingsanglek vs. Kongthoranee",
+      "fight_id": "b0c5a3304bd44503",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Marwen Houli",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bogdan Shumarov",
+      "round": "1",
+      "time": "1:15",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-02-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-24",
+      "fight_id": "b0c5a3304bd44503",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-02-24",
+      "fight_id": "b0c5a3304bd44503",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "aa24f60ff1f7c2df",
+      "rating": 1539.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "aa24f60ff1f7c2df",
+      "rating": 1535.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "dc5ac581d8275eaf",
+      "rating": 1522.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "dc5ac581d8275eaf",
+      "rating": 1519.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-05-04",
+  "name": "Bogdan Shumarov",
+  "nickname": "",
+  "overall_elo": 1508.0,
+  "peak_elo": 1539.7,
+  "slug": "bogdan-shumarov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

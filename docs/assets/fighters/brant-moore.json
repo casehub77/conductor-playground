@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 677,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brant Moore",
+      "bout_type": "Catchweight (165 lbs) Bout",
+      "date": "2022-01-21",
+      "elo_delta": -21.4,
+      "event_name": "Legacy Fighting Alliance 122: Johnson vs. Mota",
+      "fight_id": "0454fe19520c7c9b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Arthur Estrázulas",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1496.6,
+      "pre_elo": 1518.0,
+      "red_name": "Arthur Estrázulas",
+      "round": "1",
+      "time": "1:08",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Ago Huskić",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-02-12",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 99: Dennis vs. Cherant",
+      "fight_id": "7173cc2997439ecd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ago Huskić",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Brant Moore",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-02-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-02-12",
+      "fight_id": "7173cc2997439ecd",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-02-12",
+      "fight_id": "7173cc2997439ecd",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "0454fe19520c7c9b",
+      "rating": 1496.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "0454fe19520c7c9b",
+      "rating": 1497.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-21",
+  "name": "Brant Moore",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "brant-moore",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

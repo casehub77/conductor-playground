@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 655,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Christian Fulgium",
+      "bout_type": "Catchweight (179 lbs) Bout",
+      "date": "2010-05-13",
+      "elo_delta": -18.2,
+      "event_name": "Bellator 18",
+      "fight_id": "212c3b176d9d5488",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Charlie Rader",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1460.2,
+      "pre_elo": 1478.5,
+      "red_name": "Charlie Rader",
+      "round": "1",
+      "time": "3:27",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Christian Fulgium",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-05-29",
+      "elo_delta": -21.5,
+      "event_name": "Bellator 9",
+      "fight_id": "800b9789fb4376ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alex Andrade",
+      "opponent_elo": 1462.8,
+      "outcome": "red_win",
+      "post_elo": 1478.5,
+      "pre_elo": 1500.0,
+      "red_name": "Alex Andrade",
+      "round": "1",
+      "time": "2:01",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-29",
+      "fight_id": "800b9789fb4376ec",
+      "rating": 1478.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-05-29",
+      "fight_id": "800b9789fb4376ec",
+      "rating": 1480.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-13",
+      "fight_id": "212c3b176d9d5488",
+      "rating": 1460.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-05-13",
+      "fight_id": "212c3b176d9d5488",
+      "rating": 1464.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-05-13",
+  "name": "Christian Fulgium",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "christian-fulgium",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

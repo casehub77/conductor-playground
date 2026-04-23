@@ -1,0 +1,92 @@
+{
+  "current_elo": 1539.7,
+  "divisional_rank": 14,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Phạm Văn Nam",
+      "bout_type": "Strawweight MMA Bout",
+      "date": "2024-12-13",
+      "elo_delta": 19.3,
+      "event_name": "ONE Friday Fights 91: Komawut vs. Balyko",
+      "fight_id": "3a4b4d2fc2446599",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Phạm Văn Nam",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1539.7,
+      "pre_elo": 1520.5,
+      "red_name": "Lee Seung-chul",
+      "round": "2",
+      "time": "3:15",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Moises Lois Ilogon",
+      "bout_type": "Strawweight MMA Bout",
+      "date": "2024-08-09",
+      "elo_delta": 20.5,
+      "event_name": "ONE Friday Fights 74: Yodphupha vs. Gheirati",
+      "fight_id": "7a65a4fd68e113a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Moises Lois Ilogon",
+      "opponent_elo": 1518.5,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Lee Seung-chul",
+      "round": "1",
+      "time": "2:49",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2024-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-09",
+      "fight_id": "7a65a4fd68e113a5",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2024-08-09",
+      "fight_id": "7a65a4fd68e113a5",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "3a4b4d2fc2446599",
+      "rating": 1539.7,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "3a4b4d2fc2446599",
+      "rating": 1535.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-13",
+  "name": "Lee Seung-chul",
+  "nickname": "",
+  "overall_elo": 1535.3,
+  "peak_elo": 1539.7,
+  "slug": "lee-seung-chul",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

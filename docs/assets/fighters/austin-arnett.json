@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 706,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Austin Arnett",
+      "bout_type": "Featherweight Bout",
+      "date": "2019-02-09",
+      "elo_delta": -16.8,
+      "event_name": "UFC 234: Adesanya vs. Silva",
+      "fight_id": "db08c37f5e5360ad",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Shane Young",
+      "opponent_elo": 1505.0,
+      "outcome": "red_win",
+      "post_elo": 1465.8,
+      "pre_elo": 1482.6,
+      "red_name": "Shane Young",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Austin Arnett",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-11-17",
+      "elo_delta": 20.0,
+      "event_name": "UFC Fight Night: Magny vs. Ponzinibbio",
+      "fight_id": "3c52bce8f39a6406",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Humberto Bandenay",
+      "opponent_elo": 1501.8,
+      "outcome": "blue_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1462.6,
+      "red_name": "Humberto Bandenay",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Austin Arnett",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-07-28",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Alvarez vs. Poirier 2",
+      "fight_id": "df4bb1b19d34e7d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Hakeem Dawodu",
+      "opponent_elo": 1481.5,
+      "outcome": "red_win",
+      "post_elo": 1462.6,
+      "pre_elo": 1480.6,
+      "red_name": "Hakeem Dawodu",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Cory Sandhagen",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-01-27",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Jacare vs. Brunson 2",
+      "fight_id": "880e705c21fad72f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cory Sandhagen",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Austin Arnett",
+      "round": "2.0",
+      "time": "3:48",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2018-01-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-01-27",
+      "fight_id": "880e705c21fad72f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-01-27",
+      "fight_id": "880e705c21fad72f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-07-28",
+      "fight_id": "df4bb1b19d34e7d0",
+      "rating": 1462.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-07-28",
+      "fight_id": "df4bb1b19d34e7d0",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-11-17",
+      "fight_id": "3c52bce8f39a6406",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-11-17",
+      "fight_id": "3c52bce8f39a6406",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-02-09",
+      "fight_id": "db08c37f5e5360ad",
+      "rating": 1465.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2019-02-09",
+      "fight_id": "db08c37f5e5360ad",
+      "rating": 1469.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-02-09",
+  "name": "Austin Arnett",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "austin-arnett",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

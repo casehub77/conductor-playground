@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.9,
+  "divisional_rank": 50,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Taila Santos",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2023-08-26",
+      "elo_delta": -15.4,
+      "event_name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+      "fight_id": "5af9f4e2af0d7acb",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Erin Blanchfield",
+      "opponent_elo": 1596.5,
+      "outcome": "red_win",
+      "post_elo": 1529.7,
+      "pre_elo": 1545.0,
+      "red_name": "Erin Blanchfield",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Taila Santos",
+      "bout_type": "UFC Women's Flyweight Title Bout",
+      "date": "2022-06-11",
+      "elo_delta": -13.7,
+      "event_name": "UFC 275: Teixeira vs. Prochazka",
+      "fight_id": "6730c56f4c8a74d5",
+      "gender": "women",
+      "is_title": true,
+      "method": "Decision - Split",
+      "opponent": "Valentina Shevchenko",
+      "opponent_elo": 1670.2,
+      "outcome": "red_win",
+      "post_elo": 1545.0,
+      "pre_elo": 1558.7,
+      "red_name": "Valentina Shevchenko",
+      "round": "5.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Taila Santos",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-11-20",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Vieira vs. Tate",
+      "fight_id": "814ee103c8dd8f90",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Joanne Wood",
+      "opponent_elo": 1540.5,
+      "outcome": "blue_win",
+      "post_elo": 1558.7,
+      "pre_elo": 1539.2,
+      "red_name": "Joanne Wood",
+      "round": "1.0",
+      "time": "4:49",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Taila Santos",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-09-25",
+      "elo_delta": 15.3,
+      "event_name": "UFC 266: Volkanovski vs. Ortega",
+      "fight_id": "118a7e0c0b637920",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Roxanne Modafferi",
+      "opponent_elo": 1471.4,
+      "outcome": "blue_win",
+      "post_elo": 1539.2,
+      "pre_elo": 1523.9,
+      "red_name": "Roxanne Modafferi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Taila Santos",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2020-12-19",
+      "elo_delta": 21.2,
+      "event_name": "UFC Fight Night: Thompson vs. Neal",
+      "fight_id": "ac252ea0fe5dd8fe",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Gillian Robertson",
+      "opponent_elo": 1564.5,
+      "outcome": "blue_win",
+      "post_elo": 1523.9,
+      "pre_elo": 1502.7,
+      "red_name": "Gillian Robertson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Taila Santos",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2020-07-15",
+      "elo_delta": 20.7,
+      "event_name": "UFC Fight Night: Kattar vs. Ige",
+      "fight_id": "030ecfafa37008ea",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Molly Mccann",
+      "opponent_elo": 1534.0,
+      "outcome": "blue_win",
+      "post_elo": 1502.7,
+      "pre_elo": 1482.0,
+      "red_name": "Molly Mccann",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Taila Santos",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2019-02-02",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Assuncao vs. Moraes 2",
+      "fight_id": "b6b11c9862f7ffe3",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Mara Romero Borella",
+      "opponent_elo": 1500.4,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mara Romero Borella",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2019-02-02",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2019-02-02",
+      "fight_id": "b6b11c9862f7ffe3",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2019-02-02",
+      "fight_id": "b6b11c9862f7ffe3",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-07-15",
+      "fight_id": "030ecfafa37008ea",
+      "rating": 1502.7,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2020-07-15",
+      "fight_id": "030ecfafa37008ea",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-12-19",
+      "fight_id": "ac252ea0fe5dd8fe",
+      "rating": 1523.9,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2020-12-19",
+      "fight_id": "ac252ea0fe5dd8fe",
+      "rating": 1520.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-09-25",
+      "fight_id": "118a7e0c0b637920",
+      "rating": 1539.2,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-09-25",
+      "fight_id": "118a7e0c0b637920",
+      "rating": 1534.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "814ee103c8dd8f90",
+      "rating": 1558.7,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "814ee103c8dd8f90",
+      "rating": 1550.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-06-11",
+      "fight_id": "6730c56f4c8a74d5",
+      "rating": 1545.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-06-11",
+      "fight_id": "6730c56f4c8a74d5",
+      "rating": 1538.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "5af9f4e2af0d7acb",
+      "rating": 1529.7,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "5af9f4e2af0d7acb",
+      "rating": 1524.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-26",
+  "name": "Taila Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1558.7,
+  "slug": "taila-santos",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

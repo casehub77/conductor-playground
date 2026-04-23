@@ -1,0 +1,126 @@
+{
+  "current_elo": 1549.2,
+  "divisional_rank": 68,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Alexandre Junior",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 16.7,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "226dcb3b1639c872",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Alexandre Junior",
+      "opponent_elo": 1483.5,
+      "outcome": "red_win",
+      "post_elo": 1549.2,
+      "pre_elo": 1532.5,
+      "red_name": "Maximus Lally",
+      "round": "1",
+      "time": "2:05",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ben Ellis",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "d5894004f158df00",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 30–27)",
+      "opponent": "Ben Ellis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Maximus Lally",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Alexis Tsarmantidis",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "1d27ec8de628fdfd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Alexis Tsarmantidis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Maximus Lally",
+      "round": "1",
+      "time": "3:52",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-04-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-26",
+      "fight_id": "1d27ec8de628fdfd",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "1d27ec8de628fdfd",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "d5894004f158df00",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "d5894004f158df00",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "226dcb3b1639c872",
+      "rating": 1549.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "226dcb3b1639c872",
+      "rating": 1547.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Maximus Lally",
+  "nickname": "",
+  "overall_elo": 1547.3,
+  "peak_elo": 1549.2,
+  "slug": "maximus-lally",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 245,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Marco Beltran",
+      "bout_type": "Flyweight Bout",
+      "date": "2017-10-07",
+      "elo_delta": -20.7,
+      "event_name": "UFC 216: Ferguson vs. Lee",
+      "fight_id": "29031c98947a1cdf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Matt Schnell",
+      "opponent_elo": 1465.4,
+      "outcome": "red_win",
+      "post_elo": 1497.4,
+      "pre_elo": 1518.1,
+      "red_name": "Matt Schnell",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Deiveson Figueiredo",
+      "bout_type": "Flyweight Bout",
+      "date": "2017-06-03",
+      "elo_delta": -21.7,
+      "event_name": "UFC 212: Aldo vs. Holloway",
+      "fight_id": "b9752db418ad8bd2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Deiveson Figueiredo",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.1,
+      "pre_elo": 1539.7,
+      "red_name": "Marco Beltran",
+      "round": "2.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Joe Soto",
+      "bout_type": "Catch Weight Bout",
+      "date": "2016-11-05",
+      "elo_delta": -9.8,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "fight_id": "742159157f0c89cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Joe Soto",
+      "opponent_elo": 1551.2,
+      "outcome": "blue_win",
+      "post_elo": 1545.5,
+      "pre_elo": 1555.3,
+      "red_name": "Marco Beltran",
+      "round": "1.0",
+      "time": "1:37",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Reginaldo Vieira",
+      "bout_type": "Bantamweight Bout",
+      "date": "2016-07-07",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "fight_id": "fe1c32e23447e61d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Reginaldo Vieira",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1555.3,
+      "pre_elo": 1537.0,
+      "red_name": "Marco Beltran",
+      "round": "2.0",
+      "time": "3:04",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Marco Beltran",
+      "bout_type": "Bantamweight Bout",
+      "date": "2015-11-28",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Henderson vs Masvidal",
+      "fight_id": "bfdc316ba77e709d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Guangyou Ning",
+      "opponent_elo": 1536.5,
+      "outcome": "blue_win",
+      "post_elo": 1537.0,
+      "pre_elo": 1518.0,
+      "red_name": "Guangyou Ning",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Marlon Vera",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-11-15",
+      "elo_delta": 18.0,
+      "event_name": "UFC 180: Werdum vs Hunt",
+      "fight_id": "8df1077cc6159247",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Marlon Vera",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Marco Beltran",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2014-11-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-11-15",
+      "fight_id": "8df1077cc6159247",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-11-15",
+      "fight_id": "8df1077cc6159247",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-11-28",
+      "fight_id": "bfdc316ba77e709d",
+      "rating": 1537.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2015-11-28",
+      "fight_id": "bfdc316ba77e709d",
+      "rating": 1532.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-07-07",
+      "fight_id": "fe1c32e23447e61d",
+      "rating": 1555.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2016-07-07",
+      "fight_id": "fe1c32e23447e61d",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "742159157f0c89cf",
+      "rating": 1545.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "742159157f0c89cf",
+      "rating": 1539.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-06-03",
+      "fight_id": "b9752db418ad8bd2",
+      "rating": 1518.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2017-06-03",
+      "fight_id": "b9752db418ad8bd2",
+      "rating": 1520.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-10-07",
+      "fight_id": "29031c98947a1cdf",
+      "rating": 1497.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2017-10-07",
+      "fight_id": "29031c98947a1cdf",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-10-07",
+  "name": "Marco Beltran",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1555.3,
+  "slug": "marco-beltran",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

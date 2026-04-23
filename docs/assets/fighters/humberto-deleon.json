@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 879,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Humberto DeLeon",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-08-21",
+      "elo_delta": -17.2,
+      "event_name": "Strikeforce: Houston",
+      "fight_id": "089afd8059b26388",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Chad Robichaux",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1466.8,
+      "pre_elo": 1484.0,
+      "red_name": "Chad Robichaux",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Humberto DeLeon",
+      "bout_type": "Flyweight Bout",
+      "date": "2010-05-27",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 20",
+      "fight_id": "f7e5553ae415a8ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Jimmy Flick",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jimmy Flick",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2010-05-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-05-27",
+      "fight_id": "f7e5553ae415a8ee",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2010-05-27",
+      "fight_id": "f7e5553ae415a8ee",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "089afd8059b26388",
+      "rating": 1466.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "089afd8059b26388",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-21",
+  "name": "Humberto DeLeon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "humberto-deleon",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

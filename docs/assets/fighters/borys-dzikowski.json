@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.4,
+  "divisional_rank": 169,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Borys Dzikowski",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -19.0,
+      "event_name": "XTB KSW 115: Przybysz vs. Yakymenko",
+      "fight_id": "2e4e3c37851f3122",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–26, 30–27)",
+      "opponent": "Kacper Pakeltys",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Kacper Pakeltys",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Arkadiusz Mruk",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2022-09-10",
+      "elo_delta": 19.4,
+      "event_name": "KSW 74: De Fries vs. Prasel",
+      "fight_id": "93740da61a54f4e9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Head Kick and Punches)",
+      "opponent": "Arkadiusz Mruk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Borys Dzikowski",
+      "round": "1",
+      "time": "0:40",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-09-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-10",
+      "fight_id": "93740da61a54f4e9",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-09-10",
+      "fight_id": "93740da61a54f4e9",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "2e4e3c37851f3122",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "2e4e3c37851f3122",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Borys Dzikowski",
+  "nickname": "",
+  "overall_elo": 1500.5,
+  "peak_elo": 1519.4,
+  "slug": "borys-dzikowski",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

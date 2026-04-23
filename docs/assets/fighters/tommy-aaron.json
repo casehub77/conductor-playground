@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 605,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tommy Aaron",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-03-25",
+      "elo_delta": -20.4,
+      "event_name": "Legacy Fighting Alliance 127: Diaz vs. Assis",
+      "fight_id": "6a08ffdc9f154263",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Junior Melo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Junior Melo",
+      "round": "1",
+      "time": "1:37",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gerald Scott",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-02-19",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 100: Altamirano vs. Smith",
+      "fight_id": "9377b70ac64362bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Gerald Scott",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tommy Aaron",
+      "round": "3",
+      "time": "3:57",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-02-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-02-19",
+      "fight_id": "9377b70ac64362bc",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-02-19",
+      "fight_id": "9377b70ac64362bc",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "6a08ffdc9f154263",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "6a08ffdc9f154263",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-03-25",
+  "name": "Tommy Aaron",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "tommy-aaron",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

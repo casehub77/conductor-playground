@@ -1,0 +1,92 @@
+{
+  "current_elo": 1503.4,
+  "divisional_rank": 161,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Ligocki",
+      "bout_type": "Catchweight (190 lb) Bout",
+      "date": "2025-11-01",
+      "elo_delta": 21.4,
+      "event_name": "Oktagon 79: Surdu vs. Kalašnik",
+      "fight_id": "03a59679ff0e06a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Daniel Ligocki",
+      "opponent_elo": 1547.9,
+      "outcome": "red_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1482.0,
+      "red_name": "Pedro Oliveira",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Pedro Oliveira",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "1d7c737fae18c528",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "José Henrique Souza",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "José Henrique Souza",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-13",
+      "fight_id": "1d7c737fae18c528",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "1d7c737fae18c528",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "03a59679ff0e06a5",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "03a59679ff0e06a5",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-01",
+  "name": "Pedro Oliveira",
+  "nickname": "",
+  "overall_elo": 1502.9,
+  "peak_elo": 1503.4,
+  "slug": "pedro-oliveira",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

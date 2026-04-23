@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 511,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Tafon Nchukwi",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-08-12",
+      "elo_delta": -19.8,
+      "event_name": "UFC Fight Night: Luque vs. Dos Anjos",
+      "fight_id": "80bef360d3140681",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aj Dobson",
+      "opponent_elo": 1465.1,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1499.7,
+      "red_name": "Aj Dobson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tafon Nchukwi",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-06-25",
+      "elo_delta": -19.3,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "fight_id": "f7c1f2d530b62f81",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Carlos Ulberg",
+      "opponent_elo": 1498.3,
+      "outcome": "red_win",
+      "post_elo": 1476.4,
+      "pre_elo": 1495.7,
+      "red_name": "Carlos Ulberg",
+      "round": "1.0",
+      "time": "1:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Azamat Murzakanov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-03-12",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Santos vs. Ankalaev",
+      "fight_id": "289a8fde0a40b26e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Azamat Murzakanov",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1495.7,
+      "pre_elo": 1516.0,
+      "red_name": "Tafon Nchukwi",
+      "round": "3.0",
+      "time": "0:44",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tafon Nchukwi",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 16.3,
+      "event_name": "UFC Fight Night: Smith vs. Spann",
+      "fight_id": "c0687a07b50ee6fe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mike Rodriguez",
+      "opponent_elo": 1466.4,
+      "outcome": "blue_win",
+      "post_elo": 1516.0,
+      "pre_elo": 1499.8,
+      "red_name": "Mike Rodriguez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tafon Nchukwi",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-05-08",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Rodriguez vs. Waterson",
+      "fight_id": "2bbc5dcc49271d72",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Junyong Park",
+      "opponent_elo": 1511.7,
+      "outcome": "red_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1518.0,
+      "red_name": "Junyong Park",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jamie Pickett",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-12-19",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Thompson vs. Neal",
+      "fight_id": "b573a5b5477eb799",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jamie Pickett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Tafon Nchukwi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2020-12-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-12-19",
+      "fight_id": "b573a5b5477eb799",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-12-19",
+      "fight_id": "b573a5b5477eb799",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-08",
+      "fight_id": "2bbc5dcc49271d72",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-05-08",
+      "fight_id": "2bbc5dcc49271d72",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "c0687a07b50ee6fe",
+      "rating": 1516.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "c0687a07b50ee6fe",
+      "rating": 1514.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "289a8fde0a40b26e",
+      "rating": 1495.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "289a8fde0a40b26e",
+      "rating": 1496.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-25",
+      "fight_id": "f7c1f2d530b62f81",
+      "rating": 1476.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-06-25",
+      "fight_id": "f7c1f2d530b62f81",
+      "rating": 1479.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-12",
+      "fight_id": "80bef360d3140681",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-08-12",
+      "fight_id": "80bef360d3140681",
+      "rating": 1462.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-12",
+  "name": "Tafon Nchukwi",
+  "nickname": "",
+  "overall_elo": 1492.5,
+  "peak_elo": 1518.0,
+  "slug": "tafon-nchukwi",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

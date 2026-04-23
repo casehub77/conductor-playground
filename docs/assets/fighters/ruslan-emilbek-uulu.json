@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 442,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Isi Fitikefu",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-11-19",
+      "elo_delta": 17.8,
+      "event_name": "ONE on Prime Video 4: Abbasov vs. Lee",
+      "fight_id": "57ce220ab1f1af8e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Isi Fitikefu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1520.8,
+      "pre_elo": 1503.0,
+      "red_name": "Ruslan Emilbek Uulu",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ben Wilhelm",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-10-21",
+      "elo_delta": 20.4,
+      "event_name": "ONE 162: Zhang vs. Di Bella",
+      "fight_id": "444097ee314f50a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Ben Wilhelm",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.0,
+      "pre_elo": 1482.6,
+      "red_name": "Ruslan Emilbek Uulu",
+      "round": "1",
+      "time": "4:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ruslan Emilbek Uulu",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-01-28",
+      "elo_delta": -19.7,
+      "event_name": "ONE: Only the Brave",
+      "fight_id": "989bc2c836f96c32",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Zhang Lipeng",
+      "opponent_elo": 1494.7,
+      "outcome": "red_win",
+      "post_elo": 1480.3,
+      "pre_elo": 1500.0,
+      "red_name": "Zhang Lipeng",
+      "round": "1",
+      "time": "0:32",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-01-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-28",
+      "fight_id": "989bc2c836f96c32",
+      "rating": 1480.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-01-28",
+      "fight_id": "989bc2c836f96c32",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "444097ee314f50a1",
+      "rating": 1503.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "444097ee314f50a1",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "57ce220ab1f1af8e",
+      "rating": 1520.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "57ce220ab1f1af8e",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-19",
+  "name": "Ruslan Emilbek Uulu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.8,
+  "slug": "ruslan-emilbek-uulu",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

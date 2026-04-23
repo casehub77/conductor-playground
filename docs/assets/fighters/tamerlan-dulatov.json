@@ -1,0 +1,99 @@
+{
+  "current_elo": 1535.8,
+  "divisional_rank": 94,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Stefan Končar",
+      "bout_type": "Catchweight (180 lb) Bout",
+      "date": "2026-01-17",
+      "elo_delta": 17.6,
+      "event_name": "Oktagon 82: Engizek vs. Jotko",
+      "fight_id": "149be2d3133e0be5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Stefan Končar",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1551.3,
+      "pre_elo": 1533.7,
+      "red_name": "Tamerlan Dulatov",
+      "round": "1",
+      "time": "4:46",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Henrique Melo",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": 18.5,
+      "event_name": "Oktagon 78: Eckerlin vs. Trušček",
+      "fight_id": "d55efa5c70688b23",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Henrique Melo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Tamerlan Dulatov",
+      "round": "1",
+      "time": "0:52",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-02-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-01",
+      "fight_id": "6288b472d669d95f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "d55efa5c70688b23",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "d55efa5c70688b23",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "149be2d3133e0be5",
+      "rating": 1551.3,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "149be2d3133e0be5",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-17",
+  "name": "Tamerlan Dulatov",
+  "nickname": "",
+  "overall_elo": 1549.3,
+  "peak_elo": 1551.3,
+  "slug": "tamerlan-dulatov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

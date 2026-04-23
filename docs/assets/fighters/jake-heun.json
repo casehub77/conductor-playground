@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 195,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Satoshi Ishii",
+      "bout_type": "Catchweight 105 kg Bout",
+      "date": "2019-12-31",
+      "elo_delta": 31.7,
+      "event_name": "Rizin 20 - Saitama",
+      "fight_id": "b3f1730a68edb600",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Satoshi Ishii",
+      "opponent_elo": 1536.0,
+      "outcome": "red_win",
+      "post_elo": 1537.2,
+      "pre_elo": 1505.5,
+      "red_name": "Jake Heun",
+      "round": "1",
+      "time": "1:12",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Vitaly Shemetov",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2019-07-28",
+      "elo_delta": 20.3,
+      "event_name": "Rizin 17 - Saitama",
+      "fight_id": "0c87783153ac6e8a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Cut)",
+      "opponent": "Vitaly Shemetov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1505.5,
+      "pre_elo": 1485.2,
+      "red_name": "Jake Heun",
+      "round": "3",
+      "time": "12:20",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Roque Martinez",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2019-06-02",
+      "elo_delta": 19.5,
+      "event_name": "Rizin 16 - Kobe",
+      "fight_id": "7fb004ccff958d62",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Roque Martinez",
+      "opponent_elo": 1515.9,
+      "outcome": "red_win",
+      "post_elo": 1506.1,
+      "pre_elo": 1486.6,
+      "red_name": "Jake Heun",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jake Heun",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2018-09-30",
+      "elo_delta": -14.8,
+      "event_name": "Rizin 13 - Saitama",
+      "fight_id": "977d4710108275ca",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Jiří Procházka",
+      "opponent_elo": 1584.2,
+      "outcome": "red_win",
+      "post_elo": 1485.2,
+      "pre_elo": 1500.0,
+      "red_name": "Jiří Procházka",
+      "round": "1",
+      "time": "4:29",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-09-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-09-30",
+      "fight_id": "977d4710108275ca",
+      "rating": 1485.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-09-30",
+      "fight_id": "977d4710108275ca",
+      "rating": 1486.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-06-02",
+      "fight_id": "7fb004ccff958d62",
+      "rating": 1506.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2019-06-02",
+      "fight_id": "7fb004ccff958d62",
+      "rating": 1504.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-07-28",
+      "fight_id": "0c87783153ac6e8a",
+      "rating": 1505.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-07-28",
+      "fight_id": "0c87783153ac6e8a",
+      "rating": 1521.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-12-31",
+      "fight_id": "b3f1730a68edb600",
+      "rating": 1537.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-12-31",
+      "fight_id": "b3f1730a68edb600",
+      "rating": 1547.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-12-31",
+  "name": "Jake Heun",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1547.9,
+  "slug": "jake-heun",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

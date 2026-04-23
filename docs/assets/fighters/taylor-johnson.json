@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 458,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Taylor Johnson",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-08-20",
+      "elo_delta": -19.8,
+      "event_name": "Bellator 265: Kongo vs. Kharitonov",
+      "fight_id": "b25a6d6a3ba0fe94",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (28-29, 29-28, 29-28)",
+      "opponent": "Fabio Aguiar",
+      "opponent_elo": 1484.9,
+      "outcome": "red_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1519.4,
+      "red_name": "Fabio Aguiar",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Lance Wright",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-06-25",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 261: Johnson vs. Moldavsky",
+      "fight_id": "f1a8fe50c7e706d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Lance Wright",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Taylor Johnson",
+      "round": "1",
+      "time": "2:58",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-06-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-25",
+      "fight_id": "f1a8fe50c7e706d0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-06-25",
+      "fight_id": "f1a8fe50c7e706d0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-20",
+      "fight_id": "b25a6d6a3ba0fe94",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-08-20",
+      "fight_id": "b25a6d6a3ba0fe94",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-08-20",
+  "name": "Taylor Johnson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "taylor-johnson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 181,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Emily Kagan",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2015-12-10",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Namajunas vs. VanZant",
+      "fight_id": "cecca2319cfde7f7",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kailin Curran",
+      "opponent_elo": 1461.1,
+      "outcome": "red_win",
+      "post_elo": 1461.4,
+      "pre_elo": 1482.0,
+      "red_name": "Kailin Curran",
+      "round": "2.0",
+      "time": "4:13",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Angela Hill",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2014-12-12",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: A Champion Will Be Crowned Finale",
+      "fight_id": "e8676d68c2da505e",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Angela Hill",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Emily Kagan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2014-12-12",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2014-12-12",
+      "fight_id": "e8676d68c2da505e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2014-12-12",
+      "fight_id": "e8676d68c2da505e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-12-10",
+      "fight_id": "cecca2319cfde7f7",
+      "rating": 1461.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2015-12-10",
+      "fight_id": "cecca2319cfde7f7",
+      "rating": 1465.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-12-10",
+  "name": "Emily Kagan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "emily-kagan",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

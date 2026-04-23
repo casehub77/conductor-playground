@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.3,
+  "divisional_rank": 684,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Bolat Zamanbekov",
+      "bout_type": "Catchweight (128 lbs) MMA Bout",
+      "date": "2025-02-28",
+      "elo_delta": -16.2,
+      "event_name": "ONE Friday Fights 98: Chartpayak vs. Kongchai",
+      "fight_id": "f26526cca87fe0c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Avazbek Kholmirzaev",
+      "opponent_elo": 1538.3,
+      "outcome": "red_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1480.6,
+      "red_name": "Avazbek Kholmirzaev",
+      "round": "1",
+      "time": "1:31",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Bolat Zamanbekov",
+      "bout_type": "Flyweight MMA Bout",
+      "date": "2024-08-30",
+      "elo_delta": -19.4,
+      "event_name": "ONE Friday Fights 77: Yodlekpet vs. Kongsuk",
+      "fight_id": "51868bc3ee3ae092",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (flying knee and punches)",
+      "opponent": "Valmir Galiev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Valmir Galiev",
+      "round": "2",
+      "time": "0:13",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-08-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-30",
+      "fight_id": "51868bc3ee3ae092",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-08-30",
+      "fight_id": "51868bc3ee3ae092",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-28",
+      "fight_id": "f26526cca87fe0c5",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-02-28",
+      "fight_id": "f26526cca87fe0c5",
+      "rating": 1468.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-28",
+  "name": "Bolat Zamanbekov",
+  "nickname": "",
+  "overall_elo": 1468.6,
+  "peak_elo": 1500.0,
+  "slug": "bolat-zamanbekov",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

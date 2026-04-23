@@ -1,0 +1,160 @@
+{
+  "current_elo": 1537.1,
+  "divisional_rank": 50,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Denzel Freeman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-01-24",
+      "elo_delta": -17.6,
+      "event_name": "UFC 324: Gaethje vs. Pimblett",
+      "fight_id": "aeb9b0e56b4561f3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Josh Hokit",
+      "opponent_elo": 1587.0,
+      "outcome": "red_win",
+      "post_elo": 1537.1,
+      "pre_elo": 1554.7,
+      "red_name": "Josh Hokit",
+      "round": "1.0",
+      "time": "4:59",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Denzel Freeman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 16.0,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "40da4b21be0644ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Marek Bujlo",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1554.7,
+      "pre_elo": 1538.7,
+      "red_name": "Marek Bujlo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Hugo Cunha",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": 17.2,
+      "event_name": "LFA 204: Cunha vs. Freeman",
+      "fight_id": "dd73b428e409ebda",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Hugo Cunha",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1538.7,
+      "pre_elo": 1521.5,
+      "red_name": "Denzel Freeman",
+      "round": "2",
+      "time": "2:10",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Steven Asplund",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": 21.5,
+      "event_name": "LFA 193: Bowers vs. Borisova",
+      "fight_id": "c742cdba913c4b6c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Steven Asplund",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1521.5,
+      "pre_elo": 1500.0,
+      "red_name": "Denzel Freeman",
+      "round": "2",
+      "time": "1:17",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-09-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-20",
+      "fight_id": "c742cdba913c4b6c",
+      "rating": 1521.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "c742cdba913c4b6c",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "dd73b428e409ebda",
+      "rating": 1538.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "dd73b428e409ebda",
+      "rating": 1534.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "40da4b21be0644ec",
+      "rating": 1554.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "40da4b21be0644ec",
+      "rating": 1548.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "aeb9b0e56b4561f3",
+      "rating": 1537.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "aeb9b0e56b4561f3",
+      "rating": 1533.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-24",
+  "name": "Denzel Freeman",
+  "nickname": "",
+  "overall_elo": 1533.0,
+  "peak_elo": 1554.7,
+  "slug": "denzel-freeman",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

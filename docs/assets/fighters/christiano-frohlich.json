@@ -1,0 +1,92 @@
+{
+  "current_elo": 1466.3,
+  "divisional_rank": 1006,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Christiano Frohlich",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-06",
+      "elo_delta": -17.0,
+      "event_name": "LFA 203: Satybaldiev vs. Soares",
+      "fight_id": "f24658d494e63196",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Sharaf Davlatmurodov",
+      "opponent_elo": 1502.1,
+      "outcome": "red_win",
+      "post_elo": 1466.3,
+      "pre_elo": 1483.3,
+      "red_name": "Sharaf Davlatmurodov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Christiano Frohlich",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2019-04-21",
+      "elo_delta": -18.0,
+      "event_name": "Rizin 15 - Yokohama",
+      "fight_id": "c847354bac1dcaa0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Karl Albrektsson",
+      "opponent_elo": 1500.5,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Karl Albrektsson",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-04-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-04-21",
+      "fight_id": "c847354bac1dcaa0",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-04-21",
+      "fight_id": "c847354bac1dcaa0",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-06",
+      "fight_id": "f24658d494e63196",
+      "rating": 1466.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-06",
+      "fight_id": "f24658d494e63196",
+      "rating": 1468.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-06",
+  "name": "Christiano Frohlich",
+  "nickname": "",
+  "overall_elo": 1468.2,
+  "peak_elo": 1500.0,
+  "slug": "christiano-frohlich",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

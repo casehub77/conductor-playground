@@ -1,0 +1,228 @@
+{
+  "current_elo": 1461.6,
+  "divisional_rank": 1238,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Alberto Montes",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-03-07",
+      "elo_delta": -18.3,
+      "event_name": "UFC 326: Holloway vs. Oliveira 2",
+      "fight_id": "674473ed7e6bcb4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Alberto Montes",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1461.6,
+      "pre_elo": 1479.9,
+      "red_name": "Ricky Turcios",
+      "round": "2.0",
+      "time": "0:40",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Benardo Sopaj",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-01-18",
+      "elo_delta": -18.8,
+      "event_name": "UFC 311: Makhachev vs. Moicano",
+      "fight_id": "f465554159c48b79",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Benardo Sopaj",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1477.1,
+      "pre_elo": 1495.9,
+      "red_name": "Ricky Turcios",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ricky Turcios",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-06-08",
+      "elo_delta": -19.3,
+      "event_name": "UFC Fight Night: Cannonier vs. Imavov",
+      "fight_id": "9f20cd4690cba7dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Raul Rosas Jr.",
+      "opponent_elo": 1517.4,
+      "outcome": "red_win",
+      "post_elo": 1495.9,
+      "pre_elo": 1515.2,
+      "red_name": "Raul Rosas Jr.",
+      "round": "2.0",
+      "time": "2:22",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kevin Natividad",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-11-19",
+      "elo_delta": 16.1,
+      "event_name": "UFC Fight Night: Nzechukwu vs. Cutelaba",
+      "fight_id": "3ebf5f3cb0aca017",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Kevin Natividad",
+      "opponent_elo": 1462.2,
+      "outcome": "red_win",
+      "post_elo": 1515.2,
+      "pre_elo": 1499.1,
+      "red_name": "Ricky Turcios",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ricky Turcios",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-07-09",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "fight_id": "d8388bbab39b9938",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aiemann Zahabi",
+      "opponent_elo": 1500.5,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Aiemann Zahabi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Brady Hiestand",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-08-28",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Barboza vs. Chikadze",
+      "fight_id": "242abfc4574aeb7d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Brady Hiestand",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ricky Turcios",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-28",
+      "fight_id": "242abfc4574aeb7d",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-08-28",
+      "fight_id": "242abfc4574aeb7d",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-09",
+      "fight_id": "d8388bbab39b9938",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-07-09",
+      "fight_id": "d8388bbab39b9938",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "3ebf5f3cb0aca017",
+      "rating": 1515.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "3ebf5f3cb0aca017",
+      "rating": 1513.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "9f20cd4690cba7dc",
+      "rating": 1495.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "9f20cd4690cba7dc",
+      "rating": 1496.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "f465554159c48b79",
+      "rating": 1477.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "f465554159c48b79",
+      "rating": 1479.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "674473ed7e6bcb4a",
+      "rating": 1461.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "674473ed7e6bcb4a",
+      "rating": 1463.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Ricky Turcios",
+  "nickname": "",
+  "overall_elo": 1463.7,
+  "peak_elo": 1518.0,
+  "slug": "ricky-turcios",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

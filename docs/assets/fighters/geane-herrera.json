@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 357,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Geane Herrera",
+      "bout_type": "Flyweight Bout",
+      "date": "2016-11-26",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Whittaker vs. Brunson",
+      "fight_id": "b4650cd224b6b3cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ben Nguyen",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1470.6,
+      "pre_elo": 1487.0,
+      "red_name": "Ben Nguyen",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Geane Herrera",
+      "bout_type": "Flyweight Bout",
+      "date": "2016-06-18",
+      "elo_delta": -16.7,
+      "event_name": "UFC Fight Night: MacDonald vs Thompson",
+      "fight_id": "334507b03c528ab1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ali Bagautinov",
+      "opponent_elo": 1528.9,
+      "outcome": "red_win",
+      "post_elo": 1487.0,
+      "pre_elo": 1503.7,
+      "red_name": "Ali Bagautinov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Geane Herrera",
+      "bout_type": "Flyweight Bout",
+      "date": "2015-12-11",
+      "elo_delta": 20.4,
+      "event_name": "The Ultimate Fighter: Team McGregor vs. Team Faber Finale",
+      "fight_id": "0190dbe97701fbed",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joby Sanchez",
+      "opponent_elo": 1500.8,
+      "outcome": "blue_win",
+      "post_elo": 1503.7,
+      "pre_elo": 1483.3,
+      "red_name": "Joby Sanchez",
+      "round": "2.0",
+      "time": "4:28",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Geane Herrera",
+      "bout_type": "Flyweight Bout",
+      "date": "2015-08-08",
+      "elo_delta": -16.7,
+      "event_name": "UFC Fight Night: Teixeira vs Saint Preux",
+      "fight_id": "b689c7d86e3f36cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ray Borg",
+      "opponent_elo": 1524.5,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Ray Borg",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2015-08-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-08-08",
+      "fight_id": "b689c7d86e3f36cb",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2015-08-08",
+      "fight_id": "b689c7d86e3f36cb",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-12-11",
+      "fight_id": "0190dbe97701fbed",
+      "rating": 1503.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2015-12-11",
+      "fight_id": "0190dbe97701fbed",
+      "rating": 1503.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "334507b03c528ab1",
+      "rating": 1487.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "334507b03c528ab1",
+      "rating": 1488.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-11-26",
+      "fight_id": "b4650cd224b6b3cd",
+      "rating": 1470.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2016-11-26",
+      "fight_id": "b4650cd224b6b3cd",
+      "rating": 1473.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-11-26",
+  "name": "Geane Herrera",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.7,
+  "slug": "geane-herrera",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

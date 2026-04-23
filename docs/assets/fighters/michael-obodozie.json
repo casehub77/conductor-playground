@@ -1,0 +1,65 @@
+{
+  "current_elo": 1535.8,
+  "divisional_rank": 93,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sebastian Horvath",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-03-07",
+      "elo_delta": 18.5,
+      "event_name": "Oktagon 85: Severino vs. Kakhorov",
+      "fight_id": "c7ba86f0f524ca47",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Sebastian Horvath",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Michael Obodozie",
+      "round": "1",
+      "time": "1:53",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-10-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-18",
+      "fight_id": "19de177e899fec03",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "c7ba86f0f524ca47",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "c7ba86f0f524ca47",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Michael Obodozie",
+  "nickname": "",
+  "overall_elo": 1533.7,
+  "peak_elo": 1535.8,
+  "slug": "michael-obodozie",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

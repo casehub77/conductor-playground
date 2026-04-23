@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 295,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Brian Rogers",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-10-15",
+      "elo_delta": -17.5,
+      "event_name": "Bellator 54",
+      "fight_id": "83ecc50a8bb603f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees)",
+      "opponent": "Alexander Shlemenko",
+      "opponent_elo": 1573.4,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1537.8,
+      "red_name": "Alexander Shlemenko",
+      "round": "2",
+      "time": "2:30",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Victor O'Donnell",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-09-17",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 50",
+      "fight_id": "97e087f2d9f80a4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Victor O'Donnell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Brian Rogers",
+      "round": "1",
+      "time": "1:56",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ian Rammel",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-03-05",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Feijao vs. Henderson",
+      "fight_id": "aea01d9c9e8a207e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Ian Rammel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Brian Rogers",
+      "round": "1",
+      "time": "4:23",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2011-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-03-05",
+      "fight_id": "aea01d9c9e8a207e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-03-05",
+      "fight_id": "aea01d9c9e8a207e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "97e087f2d9f80a4a",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "97e087f2d9f80a4a",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-15",
+      "fight_id": "83ecc50a8bb603f2",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-10-15",
+      "fight_id": "83ecc50a8bb603f2",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-15",
+  "name": "Brian Rogers",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "brian-rogers",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

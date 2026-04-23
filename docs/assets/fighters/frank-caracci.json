@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 954,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Frank Caracci",
+      "bout_type": "Lightweight Bout",
+      "date": "1999-01-08",
+      "elo_delta": -19.4,
+      "event_name": "UFC 18: The Road to the Heavyweight Title",
+      "fight_id": "da713e6010cf4398",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Laverne Clark",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Laverne Clark",
+      "round": "1.0",
+      "time": "6:52",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "1999-01-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-01-08",
+      "fight_id": "da713e6010cf4398",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1999-01-08",
+      "fight_id": "da713e6010cf4398",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-01-08",
+  "name": "Frank Caracci",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "frank-caracci",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

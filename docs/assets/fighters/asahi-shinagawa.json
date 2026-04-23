@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 177,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rui Botelho",
+      "bout_type": "Catchweight (126 lbs) Muay Thai Bout",
+      "date": "2022-11-19",
+      "elo_delta": 18.9,
+      "event_name": "ONE 163: Akimoto vs. Petchtanong",
+      "fight_id": "083848c15fecee2f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Rui Botelho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.6,
+      "pre_elo": 1482.7,
+      "red_name": "Asahi Shinagawa",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2021-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-03",
+      "fight_id": "7c8d919128128075",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "083848c15fecee2f",
+      "rating": 1501.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "083848c15fecee2f",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-19",
+  "name": "Asahi Shinagawa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.6,
+  "slug": "asahi-shinagawa",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

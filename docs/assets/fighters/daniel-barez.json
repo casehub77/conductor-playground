@@ -1,0 +1,126 @@
+{
+  "current_elo": 1481.9,
+  "divisional_rank": 613,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andre Lima",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": -16.4,
+      "event_name": "UFC Fight Night: Vettori vs. Dolidze 2",
+      "fight_id": "60d47fe48d33c6ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Andre Lima",
+      "opponent_elo": 1552.7,
+      "outcome": "blue_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1498.4,
+      "red_name": "Daniel Barez",
+      "round": "3.0",
+      "time": "3:05",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Victor Altamirano",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-09-28",
+      "elo_delta": 18.7,
+      "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
+      "fight_id": "77fb2ac3143f3aae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Victor Altamirano",
+      "opponent_elo": 1493.2,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1479.7,
+      "red_name": "Daniel Barez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Daniel Barez",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-07-22",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Aspinall vs. Tybura",
+      "fight_id": "8cdfd38f2017eedb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jafel Filho",
+      "opponent_elo": 1483.8,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Jafel Filho",
+      "round": "1.0",
+      "time": "3:26",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-07-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-22",
+      "fight_id": "8cdfd38f2017eedb",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-07-22",
+      "fight_id": "8cdfd38f2017eedb",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "77fb2ac3143f3aae",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "77fb2ac3143f3aae",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "60d47fe48d33c6ba",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "60d47fe48d33c6ba",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-15",
+  "name": "Daniel Barez",
+  "nickname": "",
+  "overall_elo": 1483.7,
+  "peak_elo": 1500.0,
+  "slug": "daniel-barez",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

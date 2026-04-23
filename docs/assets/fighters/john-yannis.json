@@ -1,0 +1,92 @@
+{
+  "current_elo": 1502.4,
+  "divisional_rank": 274,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "John Yannis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-04-18",
+      "elo_delta": 20.4,
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "a294481b1a6deed8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jamie Siraj",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Jamie Siraj",
+      "round": "1",
+      "time": "2:43",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "John Yannis",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": -20.5,
+      "event_name": "UFC Fight Night: Taira vs. Park",
+      "fight_id": "328884463937c74e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Austin Bashi",
+      "opponent_elo": 1481.2,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Austin Bashi",
+      "round": "1.0",
+      "time": "3:39",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-08-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-02",
+      "fight_id": "328884463937c74e",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "328884463937c74e",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "a294481b1a6deed8",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "a294481b1a6deed8",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-18",
+  "name": "John Yannis",
+  "nickname": "",
+  "overall_elo": 1500.2,
+  "peak_elo": 1502.4,
+  "slug": "john-yannis",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

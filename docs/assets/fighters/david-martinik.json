@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 488,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "David Martinik",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-10-14",
+      "elo_delta": -19.0,
+      "event_name": "KSW 75: Stasiak vs. Ruchała",
+      "fight_id": "6cbeae2ce262dfaa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kamil Szkaradek",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.5,
+      "pre_elo": 1518.5,
+      "red_name": "Kamil Szkaradek",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Lemmy Krušič",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-07-17",
+      "elo_delta": 18.5,
+      "event_name": "KSW 62: Kołecki vs. Szostak",
+      "fight_id": "1b554ae2c04aa3ca",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Lemmy Krušič",
+      "opponent_elo": 1483.1,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "David Martinik",
+      "round": "1",
+      "time": "2:45",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-07-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-17",
+      "fight_id": "1b554ae2c04aa3ca",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-07-17",
+      "fight_id": "1b554ae2c04aa3ca",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "6cbeae2ce262dfaa",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "6cbeae2ce262dfaa",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-14",
+  "name": "David Martinik",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "slug": "david-martinik",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

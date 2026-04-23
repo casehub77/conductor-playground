@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 593,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Genji Umeno",
+      "bout_type": "Catchweight (62.5 kg) Bout",
+      "date": "2023-06-24",
+      "elo_delta": 20.5,
+      "event_name": "Rizin 43 – Sapporo",
+      "fight_id": "60d1550381de2710",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Genji Umeno",
+      "opponent_elo": 1500.4,
+      "outcome": "red_win",
+      "post_elo": 1502.5,
+      "pre_elo": 1482.0,
+      "red_name": "Hiroki Suzuki",
+      "round": "2",
+      "time": "2:43",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Hiroki Suzuki",
+      "bout_type": "Bantamweight Kickboxing Bout",
+      "date": "2023-02-10",
+      "elo_delta": -18.0,
+      "event_name": "ONE Friday Fights 4: Duangsompong vs. Batman",
+      "fight_id": "f196bbf45ed188a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Fariyar Aminipour",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Fariyar Aminipour",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "f196bbf45ed188a5",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-02-10",
+      "fight_id": "f196bbf45ed188a5",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "60d1550381de2710",
+      "rating": 1502.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "60d1550381de2710",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-24",
+  "name": "Hiroki Suzuki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.5,
+  "slug": "hiroki-suzuki",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 942,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Laurent Bonafoux",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-07-27",
+      "elo_delta": 20.5,
+      "event_name": "CWFC 4: UK vs. France",
+      "fight_id": "ee37eab630005e35",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Knee)",
+      "opponent": "Laurent Bonafoux",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Andy Lagden",
+      "round": "1",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Andy Lagden",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-11-30",
+      "elo_delta": -19.4,
+      "event_name": "CWFC 2: Fists of Fury",
+      "fight_id": "88254eda63bee12e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Jorge Rivera",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jorge Rivera",
+      "round": "1",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-11-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-11-30",
+      "fight_id": "88254eda63bee12e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-11-30",
+      "fight_id": "88254eda63bee12e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-07-27",
+      "fight_id": "ee37eab630005e35",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-07-27",
+      "fight_id": "ee37eab630005e35",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-07-27",
+  "name": "Andy Lagden",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.1,
+  "slug": "andy-lagden",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

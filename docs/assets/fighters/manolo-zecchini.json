@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.2,
+  "divisional_rank": 1236,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Manolo Zecchini",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "39b2fcd6ad3be7f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tommy McMillen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Tommy McMillen",
+      "round": "1",
+      "time": "3:57",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Manolo Zecchini",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-09-02",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Gane vs. Spivac",
+      "fight_id": "7dd40483d78e2d7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Morgan Charriere",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Morgan Charriere",
+      "round": "1.0",
+      "time": "3:51",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-09-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-09-02",
+      "fight_id": "7dd40483d78e2d7f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-09-02",
+      "fight_id": "7dd40483d78e2d7f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "39b2fcd6ad3be7f2",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "39b2fcd6ad3be7f2",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Manolo Zecchini",
+  "nickname": "",
+  "overall_elo": 1466.3,
+  "peak_elo": 1500.0,
+  "slug": "manolo-zecchini",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

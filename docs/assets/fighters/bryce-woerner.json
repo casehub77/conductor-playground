@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.8,
+  "divisional_rank": 73,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Randy Rivera-Santiago",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-02-06",
+      "elo_delta": 17.4,
+      "event_name": "LFA 226: Allakhverdiev vs. Kropschot",
+      "fight_id": "fda0589d1d06fea1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Randy Rivera-Santiago",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1519.4,
+      "red_name": "Bryce Woerner",
+      "round": "3",
+      "time": "3:36",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Trevor Grice",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": 19.4,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "3534b3f9ef13e582",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Trevor Grice",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bryce Woerner",
+      "round": "2",
+      "time": "4:50",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "3534b3f9ef13e582",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "3534b3f9ef13e582",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "fda0589d1d06fea1",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "fda0589d1d06fea1",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-06",
+  "name": "Bryce Woerner",
+  "nickname": "",
+  "overall_elo": 1532.9,
+  "peak_elo": 1536.8,
+  "slug": "bryce-woerner",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

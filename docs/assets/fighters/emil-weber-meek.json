@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 519,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kacper Koziorzębski",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2022-09-10",
+      "elo_delta": 19.3,
+      "event_name": "KSW 74: De Fries vs. Prasel",
+      "fight_id": "a2e3cbe731b03853",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Kacper Koziorzębski",
+      "opponent_elo": 1497.7,
+      "outcome": "red_win",
+      "post_elo": 1519.3,
+      "pre_elo": 1500.0,
+      "red_name": "Emil Weber Meek",
+      "round": "2",
+      "time": "2:01",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-09-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-10",
+      "fight_id": "a2e3cbe731b03853",
+      "rating": 1519.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-09-10",
+      "fight_id": "a2e3cbe731b03853",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-10",
+  "name": "Emil Weber Meek",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.3,
+  "slug": "emil-weber-meek",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

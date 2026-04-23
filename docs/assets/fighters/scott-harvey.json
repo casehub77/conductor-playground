@@ -1,0 +1,126 @@
+{
+  "current_elo": 1515.5,
+  "divisional_rank": 224,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Scott Harvey",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -19.6,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "12ee79e40abea331",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alexander O'Sullivan",
+      "opponent_elo": 1532.2,
+      "outcome": "red_win",
+      "post_elo": 1515.5,
+      "pre_elo": 1535.1,
+      "red_name": "Alexander O'Sullivan",
+      "round": "1",
+      "time": "4:37",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Leon Armes",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 19.1,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "f7495708f136f203",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Leon Armes",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1516.0,
+      "red_name": "Scott Harvey",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Enrico Di Gangi",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 170: Dublin",
+      "fight_id": "56b89ec53071619f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Enrico Di Gangi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Scott Harvey",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-04-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-06",
+      "fight_id": "56b89ec53071619f",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "56b89ec53071619f",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "f7495708f136f203",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "f7495708f136f203",
+      "rating": 1532.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "12ee79e40abea331",
+      "rating": 1515.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "12ee79e40abea331",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Scott Harvey",
+  "nickname": "",
+  "overall_elo": 1515.4,
+  "peak_elo": 1535.1,
+  "slug": "scott-harvey",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

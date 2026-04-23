@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.9,
+  "divisional_rank": 1232,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Karol Kutyła",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": -18.4,
+      "event_name": "Oktagon 79: Surdu vs. Kalašnik",
+      "fight_id": "0744a1b65a268bf3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kimura)",
+      "opponent": "Václav Štěpán",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.9,
+      "pre_elo": 1481.3,
+      "red_name": "Václav Štěpán",
+      "round": "2",
+      "time": "3:46",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Karol Kutyła",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": -18.7,
+      "event_name": "Oktagon 70: Krištofič vs. Humburger",
+      "fight_id": "2ffe880971fec06f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Radek Roušal",
+      "opponent_elo": 1513.6,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Radek Roušal",
+      "round": "2",
+      "time": "3:36",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-04-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-26",
+      "fight_id": "2ffe880971fec06f",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "2ffe880971fec06f",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "0744a1b65a268bf3",
+      "rating": 1462.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "0744a1b65a268bf3",
+      "rating": 1466.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-01",
+  "name": "Karol Kutyła",
+  "nickname": "",
+  "overall_elo": 1466.9,
+  "peak_elo": 1500.0,
+  "slug": "karol-kutya",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

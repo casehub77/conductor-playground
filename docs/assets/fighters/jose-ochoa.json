@@ -1,0 +1,126 @@
+{
+  "current_elo": 1487.0,
+  "divisional_rank": 565,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jose Ochoa",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -15.4,
+      "event_name": "UFC Fight Night: Whittaker vs. De Ridder",
+      "fight_id": "8b4fc924f7e7a2b8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Asu Almabayev",
+      "opponent_elo": 1552.1,
+      "outcome": "red_win",
+      "post_elo": 1487.0,
+      "pre_elo": 1502.4,
+      "red_name": "Asu Almabayev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jose Ochoa",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-06-14",
+      "elo_delta": 20.4,
+      "event_name": "UFC Fight Night: Usman vs. Buckley",
+      "fight_id": "b845d7071f3cd6e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cody Durden",
+      "opponent_elo": 1499.3,
+      "outcome": "blue_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Cody Durden",
+      "round": "2.0",
+      "time": "0:11",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jose Ochoa",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Yan vs. Figueiredo",
+      "fight_id": "51504991a151eaf4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lone'Er Kavanagh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Lone'Er Kavanagh",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-11-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-23",
+      "fight_id": "51504991a151eaf4",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "51504991a151eaf4",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "b845d7071f3cd6e6",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "b845d7071f3cd6e6",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "8b4fc924f7e7a2b8",
+      "rating": 1487.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "8b4fc924f7e7a2b8",
+      "rating": 1488.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Jose Ochoa",
+  "nickname": "",
+  "overall_elo": 1488.9,
+  "peak_elo": 1502.8,
+  "slug": "jose-ochoa",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

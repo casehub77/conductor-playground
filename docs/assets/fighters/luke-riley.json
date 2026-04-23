@@ -1,0 +1,194 @@
+{
+  "current_elo": 1584.9,
+  "divisional_rank": 32,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Michael Aswell Jr.",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": 14.6,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "a7b455948832d065",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Michael Aswell Jr.",
+      "opponent_elo": 1504.4,
+      "outcome": "red_win",
+      "post_elo": 1584.9,
+      "pre_elo": 1570.3,
+      "red_name": "Luke Riley",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Luke Riley",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 16.6,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "1aeeac14740a9e92",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Bogdan Grad",
+      "opponent_elo": 1501.9,
+      "outcome": "blue_win",
+      "post_elo": 1570.3,
+      "pre_elo": 1553.7,
+      "red_name": "Bogdan Grad",
+      "round": "2.0",
+      "time": "0:30",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Tariel Abbasov",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": 17.4,
+      "event_name": "Cage Warriors 185: Manchester",
+      "fight_id": "5245ac34cc3e8881",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Tariel Abbasov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.7,
+      "pre_elo": 1536.3,
+      "red_name": "Luke Riley",
+      "round": "2",
+      "time": "3:09",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Alexandre Junior",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "0261f5b00c371a68",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Alexandre Junior",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.3,
+      "pre_elo": 1517.9,
+      "red_name": "Luke Riley",
+      "round": "1",
+      "time": "2:05",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "John de Jesus",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 17.9,
+      "event_name": "Cage Warriors 168: Manchester",
+      "fight_id": "50c17c8ae2974548",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "John de Jesus",
+      "opponent_elo": 1497.9,
+      "outcome": "red_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1500.0,
+      "red_name": "Luke Riley",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-16",
+      "fight_id": "50c17c8ae2974548",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "50c17c8ae2974548",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "0261f5b00c371a68",
+      "rating": 1536.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "0261f5b00c371a68",
+      "rating": 1532.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "5245ac34cc3e8881",
+      "rating": 1553.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "5245ac34cc3e8881",
+      "rating": 1548.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "1aeeac14740a9e92",
+      "rating": 1570.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "1aeeac14740a9e92",
+      "rating": 1563.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "a7b455948832d065",
+      "rating": 1584.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "a7b455948832d065",
+      "rating": 1576.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Luke Riley",
+  "nickname": "",
+  "overall_elo": 1576.3,
+  "peak_elo": 1584.9,
+  "slug": "luke-riley",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

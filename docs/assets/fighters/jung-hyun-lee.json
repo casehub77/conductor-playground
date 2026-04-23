@@ -1,0 +1,167 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 241,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Jung Hyun Lee",
+      "bout_type": "Catchweight 68 kg Bout",
+      "date": "2022-01-18",
+      "elo_delta": -23.3,
+      "event_name": "ARC 7",
+      "fight_id": "5e393597367436fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Von Flue choke)",
+      "opponent": "Jin Guk Kim",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1528.2,
+      "pre_elo": 1551.4,
+      "red_name": "Jin Guk Kim",
+      "round": "2",
+      "time": "1:47",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sergei Choi",
+      "bout_type": "Catchweight 60kg Bout",
+      "date": "2021-10-30",
+      "elo_delta": 17.0,
+      "event_name": "ARC 6",
+      "fight_id": "95da3ac96949ddfe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Sergei Choi",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1551.4,
+      "pre_elo": 1534.4,
+      "red_name": "Jung Hyun Lee",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Young Han Kim",
+      "bout_type": "Flyweight 57kg Bout",
+      "date": "2021-09-04",
+      "elo_delta": 16.7,
+      "event_name": "ROAD FC 59",
+      "fight_id": "114a5a9687ec9997",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Young Han Kim",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1549.2,
+      "pre_elo": 1532.5,
+      "red_name": "Jung Hyun Lee",
+      "round": "1",
+      "time": "2:53",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jo Min Su",
+      "bout_type": "Catchweight 60kg Bout",
+      "date": "2021-06-12",
+      "elo_delta": 17.1,
+      "event_name": "ARC 5",
+      "fight_id": "e6b163a81e67c3ab",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jo Min Su",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.3,
+      "red_name": "Jung Hyun Lee",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2021-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-27",
+      "fight_id": "b9cf6ba10338091f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "e6b163a81e67c3ab",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "e6b163a81e67c3ab",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "114a5a9687ec9997",
+      "rating": 1549.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "114a5a9687ec9997",
+      "rating": 1547.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "95da3ac96949ddfe",
+      "rating": 1551.4,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "95da3ac96949ddfe",
+      "rating": 1561.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-18",
+      "fight_id": "5e393597367436fc",
+      "rating": 1528.2,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2022-01-18",
+      "fight_id": "5e393597367436fc",
+      "rating": 1540.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-18",
+  "name": "Jung Hyun Lee",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1561.9,
+  "slug": "jung-hyun-lee",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

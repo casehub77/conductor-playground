@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.3,
+  "divisional_rank": 724,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ben Wunder",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-02-06",
+      "elo_delta": -17.3,
+      "event_name": "LFA 226: Allakhverdiev vs. Kropschot",
+      "fight_id": "2fd0fb30d17a186b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Charlie Cleveland",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1463.3,
+      "pre_elo": 1480.6,
+      "red_name": "Charlie Cleveland",
+      "round": "1",
+      "time": "1:03",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ben Wunder",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": -19.4,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "3cbc1cfb9927c697",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Matt Adams",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Matt Adams",
+      "round": "1",
+      "time": "4:01",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "3cbc1cfb9927c697",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "3cbc1cfb9927c697",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "2fd0fb30d17a186b",
+      "rating": 1463.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "2fd0fb30d17a186b",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-06",
+  "name": "Ben Wunder",
+  "nickname": "",
+  "overall_elo": 1467.2,
+  "peak_elo": 1500.0,
+  "slug": "ben-wunder",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

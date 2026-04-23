@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 217,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Steve Mowry",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-08-11",
+      "elo_delta": -19.0,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "dcdd63d5bbdb6ac6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Valentin Moldavsky",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1516.9,
+      "pre_elo": 1535.8,
+      "red_name": "Valentin Moldavsky",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Steve Mowry",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-02-04",
+      "elo_delta": -2.0,
+      "event_name": "Bellator 290: Bader vs. Fedor 2",
+      "fight_id": "b364a39d27cf0996",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (unanimous) (28–28, 28–28, 28–28)",
+      "opponent": "Ali Isaev",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1535.8,
+      "pre_elo": 1537.8,
+      "red_name": "Ali Isaev",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Steve Mowry",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-08-12",
+      "elo_delta": 0.0,
+      "event_name": "Bellator 284: Gracie vs. Yamauchi",
+      "fight_id": "0c7e85b8d568d132",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental eye poke)",
+      "opponent": "Valentin Moldavsky",
+      "opponent_elo": 1536.0,
+      "outcome": "no_contest",
+      "post_elo": 1537.8,
+      "pre_elo": 1537.8,
+      "red_name": "Valentin Moldavsky",
+      "round": "1",
+      "time": "0:54",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Rakim Cleveland",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-11-12",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 271: Cyborg vs. Kavanagh",
+      "fight_id": "e76c430f0dbaa813",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kimura)",
+      "opponent": "Rakim Cleveland",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Steve Mowry",
+      "round": "1",
+      "time": "3:28",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Shaun Asher",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-04-16",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 257: Nemkov vs. Davis 2",
+      "fight_id": "06732cdcab295aef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Shaun Asher",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Steve Mowry",
+      "round": "1",
+      "time": "0:55",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-16",
+      "fight_id": "06732cdcab295aef",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-04-16",
+      "fight_id": "06732cdcab295aef",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "e76c430f0dbaa813",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "e76c430f0dbaa813",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "0c7e85b8d568d132",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "0c7e85b8d568d132",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "b364a39d27cf0996",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "b364a39d27cf0996",
+      "rating": 1532.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "dcdd63d5bbdb6ac6",
+      "rating": 1516.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "dcdd63d5bbdb6ac6",
+      "rating": 1515.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Steve Mowry",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "steve-mowry",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

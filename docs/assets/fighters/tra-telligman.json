@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 378,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Tra Telligman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2005-08-20",
+      "elo_delta": -16.4,
+      "event_name": "UFC 54: Boiling Point",
+      "fight_id": "68a4967e266550b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tim Sylvia",
+      "opponent_elo": 1523.1,
+      "outcome": "red_win",
+      "post_elo": 1451.4,
+      "pre_elo": 1467.8,
+      "red_name": "Tim Sylvia",
+      "round": "1.0",
+      "time": "4:59",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tra Telligman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2003-06-06",
+      "elo_delta": -17.1,
+      "event_name": "UFC 43: Meltdown",
+      "fight_id": "cc85054a889f91d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Pedro Rizzo",
+      "opponent_elo": 1526.5,
+      "outcome": "red_win",
+      "post_elo": 1467.8,
+      "pre_elo": 1484.9,
+      "red_name": "Pedro Rizzo",
+      "round": "2.0",
+      "time": "4:24",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tra Telligman",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-05-07",
+      "elo_delta": -17.3,
+      "event_name": "UFC 20: Battle for the Gold",
+      "fight_id": "e72ba4cc05a913a6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Pedro Rizzo",
+      "opponent_elo": 1541.2,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1502.2,
+      "red_name": "Pedro Rizzo",
+      "round": "1.0",
+      "time": "4:30",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Brad Kohler",
+      "bout_type": "Heavyweight Bout",
+      "date": "1997-12-21",
+      "elo_delta": 20.5,
+      "event_name": "UFC - Ultimate Japan",
+      "fight_id": "1fbba6379c408b27",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brad Kohler",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1481.7,
+      "red_name": "Tra Telligman",
+      "round": "1.0",
+      "time": "10:05",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tra Telligman",
+      "bout_type": "Heavyweight Bout",
+      "date": "1997-02-07",
+      "elo_delta": -18.3,
+      "event_name": "UFC 12: Judgement Day",
+      "fight_id": "c9bca22638cb8f30",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Vitor Belfort",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Vitor Belfort",
+      "round": "1.0",
+      "time": "1:17",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1997-02-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-02-07",
+      "fight_id": "c9bca22638cb8f30",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1997-02-07",
+      "fight_id": "c9bca22638cb8f30",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1997-12-21",
+      "fight_id": "1fbba6379c408b27",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1997-12-21",
+      "fight_id": "1fbba6379c408b27",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-05-07",
+      "fight_id": "e72ba4cc05a913a6",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-05-07",
+      "fight_id": "e72ba4cc05a913a6",
+      "rating": 1486.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-06-06",
+      "fight_id": "cc85054a889f91d4",
+      "rating": 1467.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2003-06-06",
+      "fight_id": "cc85054a889f91d4",
+      "rating": 1470.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-08-20",
+      "fight_id": "68a4967e266550b4",
+      "rating": 1451.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2005-08-20",
+      "fight_id": "68a4967e266550b4",
+      "rating": 1456.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-08-20",
+  "name": "Tra Telligman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.2,
+  "slug": "tra-telligman",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

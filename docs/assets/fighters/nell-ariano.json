@@ -1,0 +1,194 @@
+{
+  "current_elo": 1586.4,
+  "divisional_rank": 11,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Riku Urholin",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 15.5,
+      "event_name": "Cage Warriors 197: Unplugged",
+      "fight_id": "dc150f71e114e136",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Riku Urholin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1586.4,
+      "pre_elo": 1570.8,
+      "red_name": "Nell Ariano",
+      "round": "3",
+      "time": "1:19",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Charles Joyner",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-06-27",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors 190: Unplugged",
+      "fight_id": "adc1dce9b8312fbd",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Charles Joyner",
+      "opponent_elo": 1509.9,
+      "outcome": "red_win",
+      "post_elo": 1570.8,
+      "pre_elo": 1553.8,
+      "red_name": "Nell Ariano",
+      "round": "3",
+      "time": "3:30",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Danny Hartwell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-03-14",
+      "elo_delta": 17.4,
+      "event_name": "Cage Warriors 184: Unplugged",
+      "fight_id": "17c370aabaca1ad6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbows)",
+      "opponent": "Danny Hartwell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1536.4,
+      "red_name": "Nell Ariano",
+      "round": "2",
+      "time": "0:48",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Farshad Nazarnia",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors 177: Unplugged",
+      "fight_id": "6ec5e6448acd7270",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Farshad Nazarnia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Nell Ariano",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Jamie MacDonald",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 171: Glasgow",
+      "fight_id": "3d4aea135eb4c158",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jamie MacDonald",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Nell Ariano",
+      "round": "2",
+      "time": "3:45",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "3d4aea135eb4c158",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "3d4aea135eb4c158",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "6ec5e6448acd7270",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "6ec5e6448acd7270",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "17c370aabaca1ad6",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "17c370aabaca1ad6",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "adc1dce9b8312fbd",
+      "rating": 1570.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "adc1dce9b8312fbd",
+      "rating": 1563.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "dc150f71e114e136",
+      "rating": 1586.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "dc150f71e114e136",
+      "rating": 1577.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Nell Ariano",
+  "nickname": "",
+  "overall_elo": 1577.7,
+  "peak_elo": 1586.4,
+  "slug": "nell-ariano",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

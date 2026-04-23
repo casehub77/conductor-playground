@@ -1,0 +1,194 @@
+{
+  "current_elo": 1542.7,
+  "divisional_rank": 83,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Mairon Santos",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-12-06",
+      "elo_delta": 21.9,
+      "event_name": "UFC 323: Dvalishvili vs. Yan 2",
+      "fight_id": "f9bcbf56107d0aa0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Muhammad Naimov",
+      "opponent_elo": 1565.7,
+      "outcome": "blue_win",
+      "post_elo": 1542.7,
+      "pre_elo": 1520.7,
+      "red_name": "Muhammad Naimov",
+      "round": "3.0",
+      "time": "0:21",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mairon Santos",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": 19.6,
+      "event_name": "UFC Fight Night: Burns vs. Morales",
+      "fight_id": "a24761603c2716dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sodiq Yusuff",
+      "opponent_elo": 1548.6,
+      "outcome": "blue_win",
+      "post_elo": 1537.1,
+      "pre_elo": 1517.5,
+      "red_name": "Sodiq Yusuff",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Francis Marshall",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 16.8,
+      "event_name": "UFC 313: Pereira vs. Ankalaev",
+      "fight_id": "3ec4729ec20d9efa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Francis Marshall",
+      "opponent_elo": 1480.8,
+      "outcome": "red_win",
+      "post_elo": 1520.7,
+      "pre_elo": 1503.9,
+      "red_name": "Mairon Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mairon Santos",
+      "bout_type": "Ultimate Fighter 32 Featherweight Tournament Title Bout",
+      "date": "2024-08-24",
+      "elo_delta": 20.4,
+      "event_name": "UFC Fight Night: Cannonier vs. Borralho",
+      "fight_id": "6de8c86f6d53b757",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Kaan Ofli",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1483.6,
+      "red_name": "Kaan Ofli",
+      "round": "2.0",
+      "time": "1:30",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mairon Santos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-04",
+      "elo_delta": -18.5,
+      "event_name": "Legacy Fighting Alliance 123: Argueta vs. Santos",
+      "fight_id": "22ad2ff7659edd2d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Daniel Argueta",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Argueta",
+      "round": "3",
+      "time": "2:40",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-04",
+      "fight_id": "22ad2ff7659edd2d",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-04",
+      "fight_id": "22ad2ff7659edd2d",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "6de8c86f6d53b757",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "6de8c86f6d53b757",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "3ec4729ec20d9efa",
+      "rating": 1520.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "3ec4729ec20d9efa",
+      "rating": 1517.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "a24761603c2716dd",
+      "rating": 1537.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "a24761603c2716dd",
+      "rating": 1535.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "f9bcbf56107d0aa0",
+      "rating": 1542.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "f9bcbf56107d0aa0",
+      "rating": 1553.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-06",
+  "name": "Mairon Santos",
+  "nickname": "",
+  "overall_elo": 1553.5,
+  "peak_elo": 1553.5,
+  "slug": "mairon-santos",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

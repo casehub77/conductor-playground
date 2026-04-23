@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.3,
+  "divisional_rank": 1214,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sergio Gavinelli",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -17.2,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "77b78f0639f66969",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (anaconda choke)",
+      "opponent": "Manuel del Valle",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1463.3,
+      "pre_elo": 1480.6,
+      "red_name": "Manuel del Valle",
+      "round": "1",
+      "time": "3:23",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sergio Gavinelli",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "73e231cd57448ad9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Craig Edwards",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Craig Edwards",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-07-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-20",
+      "fight_id": "73e231cd57448ad9",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "73e231cd57448ad9",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "77b78f0639f66969",
+      "rating": 1463.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "77b78f0639f66969",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-02",
+  "name": "Sergio Gavinelli",
+  "nickname": "",
+  "overall_elo": 1467.2,
+  "peak_elo": 1500.0,
+  "slug": "sergio-gavinelli",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

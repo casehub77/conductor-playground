@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 669,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "DeMarcus Patterson",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-10-22",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 116: Fremd vs. Valente",
+      "fight_id": "02ed6e147c5407c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Luis Gurule",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Luis Gurule",
+      "round": "1",
+      "time": "1:45",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-10-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-22",
+      "fight_id": "02ed6e147c5407c9",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-10-22",
+      "fight_id": "02ed6e147c5407c9",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-22",
+  "name": "DeMarcus Patterson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "demarcus-patterson",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

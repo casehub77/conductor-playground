@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 392,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Giannis Stoforidis",
+      "bout_type": "Heavyweight Kickboxing Bout",
+      "date": "2022-10-01",
+      "elo_delta": -19.5,
+      "event_name": "ONE on Prime Video 2: Xiong vs. Lee 3",
+      "fight_id": "c8214c21c93978d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Rade Opačić",
+      "opponent_elo": 1498.7,
+      "outcome": "red_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1500.5,
+      "red_name": "Rade Opačić",
+      "round": "2",
+      "time": "1:52",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Giannis Stoforidis",
+      "bout_type": "Light Heavyweight Kickboxing Bout",
+      "date": "2022-04-22",
+      "elo_delta": -19.0,
+      "event_name": "ONE 156: Eersel vs. Sadiković",
+      "fight_id": "42982e77c9ef2652",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority)",
+      "opponent": "Andrei Stoica",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Andrei Stoica",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Beybulat Isaev",
+      "bout_type": "Light Heavyweight Kickboxing Bout",
+      "date": "2022-01-14",
+      "elo_delta": 19.4,
+      "event_name": "ONE: Heavy Hitters",
+      "fight_id": "feb0c33fc171feec",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Beybulat Isaev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Giannis Stoforidis",
+      "round": "1",
+      "time": "0:31",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-01-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-14",
+      "fight_id": "feb0c33fc171feec",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "feb0c33fc171feec",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "42982e77c9ef2652",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "42982e77c9ef2652",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "c8214c21c93978d8",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "c8214c21c93978d8",
+      "rating": 1483.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-01",
+  "name": "Giannis Stoforidis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "giannis-stoforidis",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

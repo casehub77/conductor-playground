@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 214,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lawrence Philips",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-08-04",
+      "elo_delta": -21.5,
+      "event_name": "ONE Friday Fights 27: Tapaokaew vs. Harrison",
+      "fight_id": "9ad54c66e2e4594c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kneebar)",
+      "opponent": "Roman Lukashevich",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1537.8,
+      "red_name": "Roman Lukashevich",
+      "round": "3",
+      "time": "4:07",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Dalir Moradian",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-06-30",
+      "elo_delta": 18.4,
+      "event_name": "ONE Friday Fights 23: Paedsanlek vs. Kongklai",
+      "fight_id": "0893f08544526923",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches & elbows)",
+      "opponent": "Dalir Moradian",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Lawrence Philips",
+      "round": "1",
+      "time": "3:47",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ben Parker",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-03-03",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 7: Rambolek vs. Theeradet",
+      "fight_id": "cabc66c91946a4ab",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (slam)",
+      "opponent": "Ben Parker",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lawrence Philips",
+      "round": "1",
+      "time": "0:18",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-03-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-03",
+      "fight_id": "cabc66c91946a4ab",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-03-03",
+      "fight_id": "cabc66c91946a4ab",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-30",
+      "fight_id": "0893f08544526923",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-06-30",
+      "fight_id": "0893f08544526923",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-04",
+      "fight_id": "9ad54c66e2e4594c",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-08-04",
+      "fight_id": "9ad54c66e2e4594c",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-04",
+  "name": "Lawrence Philips",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "lawrence-philips",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

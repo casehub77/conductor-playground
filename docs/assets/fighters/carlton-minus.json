@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 734,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Carlton Minus",
+      "bout_type": "Catch Weight Bout",
+      "date": "2020-12-19",
+      "elo_delta": -26.0,
+      "event_name": "UFC Fight Night: Thompson vs. Neal",
+      "fight_id": "6cabe5038841bf65",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Christos Giagos",
+      "opponent_elo": 1494.3,
+      "outcome": "red_win",
+      "post_elo": 1456.0,
+      "pre_elo": 1482.0,
+      "red_name": "Christos Giagos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Matthew Semelsberger",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-08-22",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Munhoz vs. Edgar",
+      "fight_id": "a3cb0f4b96d0113a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Matthew Semelsberger",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Carlton Minus",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2020-08-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-22",
+      "fight_id": "a3cb0f4b96d0113a",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-08-22",
+      "fight_id": "a3cb0f4b96d0113a",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-12-19",
+      "fight_id": "6cabe5038841bf65",
+      "rating": 1456.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-12-19",
+      "fight_id": "6cabe5038841bf65",
+      "rating": 1460.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-12-19",
+  "name": "Carlton Minus",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "carlton-minus",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

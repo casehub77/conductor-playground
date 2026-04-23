@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 984,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Wendell Giácomo",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": -18.7,
+      "event_name": "Bellator 281: MVP vs. Storley",
+      "fight_id": "5dd018a619a74722",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Paul Daley",
+      "opponent_elo": 1513.4,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Paul Daley",
+      "round": "2",
+      "time": "4:09",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-13",
+      "fight_id": "5dd018a619a74722",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "5dd018a619a74722",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-13",
+  "name": "Wendell Giácomo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "wendell-giacomo",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

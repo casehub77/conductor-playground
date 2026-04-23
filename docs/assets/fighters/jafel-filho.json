@@ -1,0 +1,194 @@
+{
+  "current_elo": 1526.2,
+  "divisional_rank": 101,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Clayton Carpenter",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-10-11",
+      "elo_delta": 21.9,
+      "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+      "fight_id": "1327aacb41857f21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Clayton Carpenter",
+      "opponent_elo": 1549.1,
+      "outcome": "red_win",
+      "post_elo": 1526.2,
+      "pre_elo": 1504.3,
+      "red_name": "Jafel Filho",
+      "round": "1.0",
+      "time": "4:42",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Allan Nascimento",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": -18.8,
+      "event_name": "UFC Fight Night: Blanchfield vs. Barber",
+      "fight_id": "b5bccf4be98f3ea6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Allan Nascimento",
+      "opponent_elo": 1507.9,
+      "outcome": "blue_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1523.1,
+      "red_name": "Jafel Filho",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ode Osbourne",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Tuivasa vs. Tybura",
+      "fight_id": "0e1dbdbf33190bef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ode Osbourne",
+      "opponent_elo": 1495.7,
+      "outcome": "red_win",
+      "post_elo": 1523.1,
+      "pre_elo": 1504.1,
+      "red_name": "Jafel Filho",
+      "round": "1.0",
+      "time": "4:27",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Daniel Barez",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-07-22",
+      "elo_delta": 20.3,
+      "event_name": "UFC Fight Night: Aspinall vs. Tybura",
+      "fight_id": "8cdfd38f2017eedb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Daniel Barez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.1,
+      "pre_elo": 1483.8,
+      "red_name": "Jafel Filho",
+      "round": "1.0",
+      "time": "3:26",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jafel Filho",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-03-18",
+      "elo_delta": -16.2,
+      "event_name": "UFC 286: Edwards vs. Usman 3",
+      "fight_id": "e5278a4dd1b7e1a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Muhammad Mokaev",
+      "opponent_elo": 1557.7,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "Muhammad Mokaev",
+      "round": "3.0",
+      "time": "4:32",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-03-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-18",
+      "fight_id": "e5278a4dd1b7e1a7",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-03-18",
+      "fight_id": "e5278a4dd1b7e1a7",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-22",
+      "fight_id": "8cdfd38f2017eedb",
+      "rating": 1504.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-07-22",
+      "fight_id": "8cdfd38f2017eedb",
+      "rating": 1503.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "0e1dbdbf33190bef",
+      "rating": 1523.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "0e1dbdbf33190bef",
+      "rating": 1520.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "b5bccf4be98f3ea6",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "b5bccf4be98f3ea6",
+      "rating": 1503.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "1327aacb41857f21",
+      "rating": 1526.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "1327aacb41857f21",
+      "rating": 1523.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-11",
+  "name": "Jafel Filho",
+  "nickname": "",
+  "overall_elo": 1523.0,
+  "peak_elo": 1526.2,
+  "slug": "jafel-filho",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

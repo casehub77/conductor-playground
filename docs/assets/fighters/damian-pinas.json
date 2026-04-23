@@ -1,0 +1,58 @@
+{
+  "current_elo": 1519.9,
+  "divisional_rank": 111,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Wes Schultz",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": 19.9,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "8bfddee78e5db570",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Wes Schultz",
+      "opponent_elo": 1508.1,
+      "outcome": "red_win",
+      "post_elo": 1519.9,
+      "pre_elo": 1500.0,
+      "red_name": "Damian Pinas",
+      "round": "1.0",
+      "time": "2:30",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2026-02-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-02-28",
+      "fight_id": "8bfddee78e5db570",
+      "rating": 1519.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "8bfddee78e5db570",
+      "rating": 1517.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Damian Pinas",
+  "nickname": "",
+  "overall_elo": 1517.5,
+  "peak_elo": 1519.9,
+  "slug": "damian-pinas",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

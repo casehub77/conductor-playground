@@ -1,0 +1,126 @@
+{
+  "current_elo": 1470.1,
+  "divisional_rank": 1198,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Felipe Martinez Donis",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-01-25",
+      "elo_delta": -18.8,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "706a1d00d0ab313c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees and punches)",
+      "opponent": "Alex Coover",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1470.1,
+      "pre_elo": 1488.9,
+      "red_name": "Alex Coover",
+      "round": "1",
+      "time": "2:19",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Felipe Martinez Donis",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2024-09-20",
+      "elo_delta": -29.1,
+      "event_name": "LFA 193: Bowers vs. Borisova",
+      "fight_id": "9b571df9c7dced0b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Santos Verdinez",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1488.9,
+      "pre_elo": 1518.0,
+      "red_name": "Santos Verdinez",
+      "round": "1",
+      "time": "3:24",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Henry Huff",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "6588f5db308c1110",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Henry Huff",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Felipe Martinez Donis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-10",
+      "fight_id": "6588f5db308c1110",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "6588f5db308c1110",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "9b571df9c7dced0b",
+      "rating": 1488.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "9b571df9c7dced0b",
+      "rating": 1490.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "706a1d00d0ab313c",
+      "rating": 1470.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "706a1d00d0ab313c",
+      "rating": 1473.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-25",
+  "name": "Felipe Martinez Donis",
+  "nickname": "",
+  "overall_elo": 1473.3,
+  "peak_elo": 1518.0,
+  "slug": "felipe-martinez-donis",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

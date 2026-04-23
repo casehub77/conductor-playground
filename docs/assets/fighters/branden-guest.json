@@ -1,0 +1,92 @@
+{
+  "current_elo": 1497.9,
+  "divisional_rank": 631,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Branden Guest",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-03-13",
+      "elo_delta": -21.5,
+      "event_name": "Cage Warriors 201: Unplugged",
+      "fight_id": "ad05797f4e417e2b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Danny Hartwell",
+      "opponent_elo": 1482.6,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1519.4,
+      "red_name": "Danny Hartwell",
+      "round": "3",
+      "time": "4:43",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Loic Pillon",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-03-14",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 184: Unplugged",
+      "fight_id": "d5cdfbe6e8488477",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Loic Pillon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Branden Guest",
+      "round": "2",
+      "time": "3:56",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-03-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-14",
+      "fight_id": "d5cdfbe6e8488477",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "d5cdfbe6e8488477",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "ad05797f4e417e2b",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "ad05797f4e417e2b",
+      "rating": 1498.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Branden Guest",
+  "nickname": "",
+  "overall_elo": 1498.4,
+  "peak_elo": 1519.4,
+  "slug": "branden-guest",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

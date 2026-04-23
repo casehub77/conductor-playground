@@ -1,0 +1,133 @@
+{
+  "current_elo": 1520.8,
+  "divisional_rank": 148,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jonatan Kujawa",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-04-11",
+      "elo_delta": 17.8,
+      "event_name": "Oktagon 86: Materla vs. Jungwirth",
+      "fight_id": "0ea8cd8674879d23",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–26, 30–26)",
+      "opponent": "Jonatan Kujawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1520.8,
+      "pre_elo": 1503.0,
+      "red_name": "Henrique Madureira",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Eriglent Prizreni",
+      "bout_type": "Catchweight (152 lb) Bout",
+      "date": "2025-11-22",
+      "elo_delta": 19.4,
+      "event_name": "Oktagon 80: Legierski vs. Korkmaz",
+      "fight_id": "998a24efd1aa82d2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (inverted triangle choke)",
+      "opponent": "Eriglent Prizreni",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1520.2,
+      "pre_elo": 1500.8,
+      "red_name": "Henrique Madureira",
+      "round": "1",
+      "time": "1:10",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Nikolaos Serbezis",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": 20.3,
+      "event_name": "Oktagon 75: Palokaj vs. Batfalský",
+      "fight_id": "75c35ba43b2233f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Nikolaos Serbezis",
+      "opponent_elo": 1497.8,
+      "outcome": "red_win",
+      "post_elo": 1503.0,
+      "pre_elo": 1482.7,
+      "red_name": "Henrique Madureira",
+      "round": "1",
+      "time": "2:35",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-29",
+      "fight_id": "8b09b1b688087889",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "75c35ba43b2233f1",
+      "rating": 1503.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "75c35ba43b2233f1",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "998a24efd1aa82d2",
+      "rating": 1520.2,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "998a24efd1aa82d2",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "0ea8cd8674879d23",
+      "rating": 1520.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "0ea8cd8674879d23",
+      "rating": 1533.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Henrique Madureira",
+  "nickname": "",
+  "overall_elo": 1533.2,
+  "peak_elo": 1533.2,
+  "slug": "henrique-madureira",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

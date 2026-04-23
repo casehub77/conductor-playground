@@ -1,0 +1,126 @@
+{
+  "current_elo": 1485.3,
+  "divisional_rank": 1358,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Carrier",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": -17.1,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "aea9376a1fad764b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Kelton Sneve",
+      "opponent_elo": 1519.8,
+      "outcome": "red_win",
+      "post_elo": 1485.3,
+      "pre_elo": 1502.4,
+      "red_name": "Kelton Sneve",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Dey McIntosh",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-20",
+      "elo_delta": 20.4,
+      "event_name": "LFA 211: Mesquita vs. Dinwoodie",
+      "fight_id": "291552f6f33fc2de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Dey McIntosh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Kevin Carrier",
+      "round": "3",
+      "time": "4:34",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kevin Carrier",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": -18.0,
+      "event_name": "LFA 204: Cunha vs. Freeman",
+      "fight_id": "ba6210dd851abc0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Kyle Pufahl",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kyle Pufahl",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-03-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-22",
+      "fight_id": "ba6210dd851abc0d",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "ba6210dd851abc0d",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "291552f6f33fc2de",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "291552f6f33fc2de",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "aea9376a1fad764b",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "aea9376a1fad764b",
+      "rating": 1486.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Kevin Carrier",
+  "nickname": "",
+  "overall_elo": 1486.8,
+  "peak_elo": 1502.4,
+  "slug": "kevin-carrier",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

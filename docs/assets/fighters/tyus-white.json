@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 361,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tyus White",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-10-21",
+      "elo_delta": -15.4,
+      "event_name": "Legacy Fighting Alliance 145: Assis vs. Murray",
+      "fight_id": "78c4814e59d74ee8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Miguel Sanson",
+      "opponent_elo": 1553.5,
+      "outcome": "red_win",
+      "post_elo": 1487.1,
+      "pre_elo": 1502.4,
+      "red_name": "Miguel Sanson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jeff Jepsen",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 20.4,
+      "event_name": "Legacy Fighting Alliance 129: Petersen vs. Cortes-Acosta",
+      "fight_id": "c17d6e0a1fec0451",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Jeff Jepsen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Tyus White",
+      "round": "1",
+      "time": "4:44",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Tyus White",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "6d00cd23e1ebfb4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Tony Laramie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Tony Laramie",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-10",
+      "fight_id": "6d00cd23e1ebfb4a",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "6d00cd23e1ebfb4a",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c17d6e0a1fec0451",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c17d6e0a1fec0451",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "78c4814e59d74ee8",
+      "rating": 1487.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "78c4814e59d74ee8",
+      "rating": 1488.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-21",
+  "name": "Tyus White",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.4,
+  "slug": "tyus-white",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

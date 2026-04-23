@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.0,
+  "divisional_rank": 1302,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ednilson Santos",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": -20.5,
+      "event_name": "LFA 204: Cunha vs. Freeman",
+      "fight_id": "d46913eb6b96a67a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Dylan Mantello",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1518.5,
+      "red_name": "Dylan Mantello",
+      "round": "2",
+      "time": "2:36",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kamuela Kirk",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-11-08",
+      "elo_delta": 18.5,
+      "event_name": "LFA 196: Tanner vs. Ureña",
+      "fight_id": "9a5691f99c8a2526",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Kamuela Kirk",
+      "opponent_elo": 1510.1,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ednilson Santos",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-11-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-08",
+      "fight_id": "9a5691f99c8a2526",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-11-08",
+      "fight_id": "9a5691f99c8a2526",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "d46913eb6b96a67a",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "d46913eb6b96a67a",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-22",
+  "name": "Ednilson Santos",
+  "nickname": "",
+  "overall_elo": 1498.5,
+  "peak_elo": 1518.5,
+  "slug": "ednilson-santos",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

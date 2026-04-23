@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 364,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Konstantin Gluhov",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2010-05-07",
+      "elo_delta": -17.0,
+      "event_name": "KSW 13: Kumite",
+      "fight_id": "6a2ca66424d8e47d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "David Oliva",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1517.1,
+      "red_name": "David Oliva",
+      "round": "3",
+      "time": "Heavyweight Tournament Final",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Daniel Omielanczuk",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2009-12-11",
+      "elo_delta": 17.1,
+      "event_name": "KSW 12: Pudzianowski vs. Najman",
+      "fight_id": "bcc16508e30e5c5d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Daniel Omielanczuk",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Konstantin Gluhov",
+      "round": "2",
+      "time": "Heavyweight Tournament Quarter-Finals 4",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-12-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-12-11",
+      "fight_id": "bcc16508e30e5c5d",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-12-11",
+      "fight_id": "bcc16508e30e5c5d",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "6a2ca66424d8e47d",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "6a2ca66424d8e47d",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-05-07",
+  "name": "Konstantin Gluhov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.1,
+  "slug": "konstantin-gluhov",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 328,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Justin Mccully",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-08-29",
+      "elo_delta": -19.8,
+      "event_name": "UFC 102: Couture vs Nogueira",
+      "fight_id": "39e0f2d7b2695b90",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mike Russow",
+      "opponent_elo": 1483.5,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1519.1,
+      "red_name": "Mike Russow",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Eddie Sanchez",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-12-10",
+      "elo_delta": 18.9,
+      "event_name": "UFC Fight Night - Fight for the Troops",
+      "fight_id": "1a4080c5764e06dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Eddie Sanchez",
+      "opponent_elo": 1517.2,
+      "outcome": "red_win",
+      "post_elo": 1519.1,
+      "pre_elo": 1500.2,
+      "red_name": "Justin Mccully",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Justin Mccully",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-07-05",
+      "elo_delta": -18.8,
+      "event_name": "UFC 86: Jackson vs Griffin",
+      "fight_id": "cda603a09e80e6fa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gabriel Gonzaga",
+      "opponent_elo": 1530.6,
+      "outcome": "red_win",
+      "post_elo": 1500.2,
+      "pre_elo": 1519.0,
+      "red_name": "Gabriel Gonzaga",
+      "round": "1.0",
+      "time": "1:57",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Antoni Hardonk",
+      "bout_type": "Heavyweight Bout",
+      "date": "2007-04-05",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Stevenson vs Guillard",
+      "fight_id": "f2b5c5f46eea7e33",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Antoni Hardonk",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Mccully",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-04-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-04-05",
+      "fight_id": "f2b5c5f46eea7e33",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2007-04-05",
+      "fight_id": "f2b5c5f46eea7e33",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-07-05",
+      "fight_id": "cda603a09e80e6fa",
+      "rating": 1500.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-07-05",
+      "fight_id": "cda603a09e80e6fa",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-10",
+      "fight_id": "1a4080c5764e06dc",
+      "rating": 1519.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-12-10",
+      "fight_id": "1a4080c5764e06dc",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-08-29",
+      "fight_id": "39e0f2d7b2695b90",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-08-29",
+      "fight_id": "39e0f2d7b2695b90",
+      "rating": 1499.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-08-29",
+  "name": "Justin Mccully",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.1,
+  "slug": "justin-mccully",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

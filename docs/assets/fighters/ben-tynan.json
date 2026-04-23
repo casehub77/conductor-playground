@@ -1,0 +1,160 @@
+{
+  "current_elo": 1535.6,
+  "divisional_rank": 54,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ben Tynan",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": -20.6,
+      "event_name": "ONE Fight Night 34: Eersel vs. Jarvis",
+      "fight_id": "8cb1d9df8cef7e50",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kirill Grishenko",
+      "opponent_elo": 1505.7,
+      "outcome": "red_win",
+      "post_elo": 1535.6,
+      "pre_elo": 1556.2,
+      "red_name": "Kirill Grishenko",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Kang Ji-won",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": 18.4,
+      "event_name": "ONE Fight Night 16: Haggerty vs. Andrade",
+      "fight_id": "6e45d20614abafa4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Kang Ji-won",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1556.2,
+      "pre_elo": 1537.7,
+      "red_name": "Ben Tynan",
+      "round": "3",
+      "time": "1:22",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Lance Lee",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-09-09",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 141: Talundžić vs. Brown",
+      "fight_id": "0192795c1d4bdeb7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Lance Lee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.7,
+      "pre_elo": 1519.4,
+      "red_name": "Ben Tynan",
+      "round": "1",
+      "time": "1:20",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Trevor Wallace",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "cd122041f86afabc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Trevor Wallace",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ben Tynan",
+      "round": "1",
+      "time": "1:33",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-03",
+      "fight_id": "cd122041f86afabc",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "cd122041f86afabc",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-09",
+      "fight_id": "0192795c1d4bdeb7",
+      "rating": 1537.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-09-09",
+      "fight_id": "0192795c1d4bdeb7",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "6e45d20614abafa4",
+      "rating": 1556.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "6e45d20614abafa4",
+      "rating": 1550.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "8cb1d9df8cef7e50",
+      "rating": 1535.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "8cb1d9df8cef7e50",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-02",
+  "name": "Ben Tynan",
+  "nickname": "",
+  "overall_elo": 1532.0,
+  "peak_elo": 1556.2,
+  "slug": "ben-tynan",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.4,
+  "divisional_rank": 290,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Suleyman Suleymanov",
+      "bout_type": "Featherweight MMA Bout",
+      "date": "2024-11-01",
+      "elo_delta": -19.0,
+      "event_name": "ONE Friday Fights 85: Yodlekpet vs. Puengluang",
+      "fight_id": "c2c7510012db8eb2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ivan Bondarchuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Ivan Bondarchuk",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Nursultan Toktorov",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-12-15",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 45: Otop vs. Şen",
+      "fight_id": "ee97159900a1406d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Nursultan Toktorov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Suleyman Suleymanov",
+      "round": "2",
+      "time": "0:12",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-12-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-15",
+      "fight_id": "ee97159900a1406d",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-12-15",
+      "fight_id": "ee97159900a1406d",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-01",
+      "fight_id": "c2c7510012db8eb2",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-11-01",
+      "fight_id": "c2c7510012db8eb2",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-01",
+  "name": "Suleyman Suleymanov",
+  "nickname": "",
+  "overall_elo": 1500.5,
+  "peak_elo": 1519.4,
+  "slug": "suleyman-suleymanov",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

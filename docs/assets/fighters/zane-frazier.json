@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 640,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Zane Frazier",
+      "bout_type": "Heavyweight Bout",
+      "date": "2002-06-07",
+      "elo_delta": -19.5,
+      "event_name": "2002 in WEC",
+      "fight_id": "153f3ce7ca57ac89",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1462.3,
+      "pre_elo": 1481.9,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "time": "1:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Zane Frazier",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-05-17",
+      "elo_delta": -20.5,
+      "event_name": "UFC 9: Motor City Madness",
+      "fight_id": "8097faebb26f0608",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cal Worsham",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Cal Worsham",
+      "round": "1.0",
+      "time": "3:14",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1996-05-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1996-05-17",
+      "fight_id": "8097faebb26f0608",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-05-17",
+      "fight_id": "8097faebb26f0608",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-06-07",
+      "fight_id": "153f3ce7ca57ac89",
+      "rating": 1462.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2002-06-07",
+      "fight_id": "153f3ce7ca57ac89",
+      "rating": 1464.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-06-07",
+  "name": "Zane Frazier",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "zane-frazier",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1492.7,
+  "divisional_rank": 948,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Emanuele Tetti",
+      "bout_type": "Catchweight (130 lb) Bout",
+      "date": "2025-10-04",
+      "elo_delta": 11.2,
+      "event_name": "Cage Warriors 195: Rome",
+      "fight_id": "18526afe2cb9ef0c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kicks)",
+      "opponent": "Emanuele Tetti",
+      "opponent_elo": 1535.1,
+      "outcome": "red_win",
+      "post_elo": 1492.7,
+      "pre_elo": 1481.5,
+      "red_name": "Dimitrios Tzeiranidis",
+      "round": "1",
+      "time": "2:52",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Dimitrios Tzeiranidis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": -18.5,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "391803cd2ec2bb15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Von Flue choke)",
+      "opponent": "Pietro Mochetti",
+      "opponent_elo": 1517.0,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Pietro Mochetti",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-31",
+      "fight_id": "391803cd2ec2bb15",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "391803cd2ec2bb15",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "18526afe2cb9ef0c",
+      "rating": 1492.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "18526afe2cb9ef0c",
+      "rating": 1493.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-04",
+  "name": "Dimitrios Tzeiranidis",
+  "nickname": "",
+  "overall_elo": 1493.3,
+  "peak_elo": 1500.0,
+  "slug": "dimitrios-tzeiranidis",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

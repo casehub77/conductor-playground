@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 966,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Boyd Allen",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2023-05-06",
+      "elo_delta": -18.5,
+      "event_name": "Rizin 42",
+      "fight_id": "1ba88e860edb8a8b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Ulka Sasaki",
+      "opponent_elo": 1475.4,
+      "outcome": "red_win",
+      "post_elo": 1465.8,
+      "pre_elo": 1484.3,
+      "red_name": "Ulka Sasaki",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Boyd Allen",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2022-10-23",
+      "elo_delta": -18.2,
+      "event_name": "Rizin 39",
+      "fight_id": "cb0d66105b714c07",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yusuke Yachi",
+      "opponent_elo": 1496.1,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Yusuke Yachi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-10-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-23",
+      "fight_id": "cb0d66105b714c07",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-10-23",
+      "fight_id": "cb0d66105b714c07",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-06",
+      "fight_id": "1ba88e860edb8a8b",
+      "rating": 1465.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-05-06",
+      "fight_id": "1ba88e860edb8a8b",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-06",
+  "name": "Boyd Allen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "boyd-allen",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

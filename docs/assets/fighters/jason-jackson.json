@@ -1,0 +1,160 @@
+{
+  "current_elo": 1549.4,
+  "divisional_rank": 67,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Yaroslav Amosov",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-11-17",
+      "elo_delta": 18.7,
+      "event_name": "Bellator 301: Amosov vs. Jackson",
+      "fight_id": "3476426cdc6c0d18",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Yaroslav Amosov",
+      "opponent_elo": 1540.7,
+      "outcome": "red_win",
+      "post_elo": 1572.6,
+      "pre_elo": 1553.9,
+      "red_name": "Jason Jackson",
+      "round": "3",
+      "time": "2:08",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Douglas Lima",
+      "bout_type": "Catchweight (172.8 lbs) Bout",
+      "date": "2022-07-22",
+      "elo_delta": 17.1,
+      "event_name": "Bellator 283: Lima vs. Jackson",
+      "fight_id": "90e3f9f2db516fc5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (50–45, 50–45, 50–45)",
+      "opponent": "Douglas Lima",
+      "opponent_elo": 1519.9,
+      "outcome": "red_win",
+      "post_elo": 1553.9,
+      "pre_elo": 1536.7,
+      "red_name": "Jason Jackson",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Paul Daley",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2021-06-11",
+      "elo_delta": 18.7,
+      "event_name": "Bellator 260: Lima vs. Amosov",
+      "fight_id": "2d074fed235d04ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Paul Daley",
+      "opponent_elo": 1532.2,
+      "outcome": "red_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1518.0,
+      "red_name": "Jason Jackson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Neiman Gracie",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-04-02",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 255: Pitbull vs. Sanchez 2",
+      "fight_id": "d5f2eac4490c0a36",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Neiman Gracie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jason Jackson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-02",
+      "fight_id": "d5f2eac4490c0a36",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-04-02",
+      "fight_id": "d5f2eac4490c0a36",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-11",
+      "fight_id": "2d074fed235d04ba",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-06-11",
+      "fight_id": "2d074fed235d04ba",
+      "rating": 1533.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-22",
+      "fight_id": "90e3f9f2db516fc5",
+      "rating": 1553.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-22",
+      "fight_id": "90e3f9f2db516fc5",
+      "rating": 1548.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "3476426cdc6c0d18",
+      "rating": 1572.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "3476426cdc6c0d18",
+      "rating": 1565.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-17",
+  "name": "Jason Jackson",
+  "nickname": "",
+  "overall_elo": 1541.9,
+  "peak_elo": 1572.6,
+  "slug": "jason-jackson",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

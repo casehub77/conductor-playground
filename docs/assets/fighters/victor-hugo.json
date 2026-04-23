@@ -1,0 +1,126 @@
+{
+  "current_elo": 1485.2,
+  "divisional_rank": 1074,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Victor Hugo",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-10-26",
+      "elo_delta": -15.5,
+      "event_name": "UFC 308: Topuria vs. Holloway",
+      "fight_id": "7995c8a70866c7ff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Farid Basharat",
+      "opponent_elo": 1549.3,
+      "outcome": "red_win",
+      "post_elo": 1485.2,
+      "pre_elo": 1500.7,
+      "red_name": "Farid Basharat",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Victor Hugo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Allen vs. Curtis 2",
+      "fight_id": "aa2017141ee9d8e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Pedro Falcao",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1502.8,
+      "pre_elo": 1484.0,
+      "red_name": "Pedro Falcao",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Victor Hugo",
+      "bout_type": "Lightweight Muay Thai Bout",
+      "date": "2023-05-26",
+      "elo_delta": -18.0,
+      "event_name": "ONE Friday Fights 18: Harrison vs. Pongsiri",
+      "fight_id": "b5a70b3d48dabd58",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Chanajon PK.Saenchai",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Chanajon PK.Saenchai",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-05-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-26",
+      "fight_id": "b5a70b3d48dabd58",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-05-26",
+      "fight_id": "b5a70b3d48dabd58",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "aa2017141ee9d8e8",
+      "rating": 1502.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "aa2017141ee9d8e8",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-26",
+      "fight_id": "7995c8a70866c7ff",
+      "rating": 1485.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-10-26",
+      "fight_id": "7995c8a70866c7ff",
+      "rating": 1487.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-10-26",
+  "name": "Victor Hugo",
+  "nickname": "",
+  "overall_elo": 1487.0,
+  "peak_elo": 1502.8,
+  "slug": "victor-hugo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

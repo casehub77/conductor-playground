@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.3,
+  "divisional_rank": 281,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Blake Smith",
+      "bout_type": "Catchweight (152.4 lb) Bout",
+      "date": "2023-04-21",
+      "elo_delta": 18.3,
+      "event_name": "Bellator 294: Carmouche vs. Bennett 2",
+      "fight_id": "f679fd6a327749e2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (inverted triangle choke)",
+      "opponent": "Blake Smith",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1520.5,
+      "red_name": "Cris Lencioni",
+      "round": "2",
+      "time": "3:39",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Cody Law",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-12-09",
+      "elo_delta": 20.5,
+      "event_name": "Bellator 289: Stots vs. Sabatello",
+      "fight_id": "88f1edb5689b8c32",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 28–29, 30–27)",
+      "opponent": "Cody Law",
+      "opponent_elo": 1548.7,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Cris Lencioni",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-12-09",
+      "fight_id": "88f1edb5689b8c32",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "88f1edb5689b8c32",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "f679fd6a327749e2",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "f679fd6a327749e2",
+      "rating": 1534.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-21",
+  "name": "Cris Lencioni",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.8,
+  "slug": "cris-lencioni",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

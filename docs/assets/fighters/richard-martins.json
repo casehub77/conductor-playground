@@ -1,0 +1,126 @@
+{
+  "current_elo": 1555.1,
+  "divisional_rank": 57,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Vanderlei Gonçalves",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-03-27",
+      "elo_delta": 17.3,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "1013c0af97823150",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Vanderlei Gonçalves",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.8,
+      "red_name": "Richard Martins",
+      "round": "3",
+      "time": "4:04",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Argemiro Delmandes",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-07",
+      "elo_delta": 18.4,
+      "event_name": "LFA 221: Clark vs. Consuli",
+      "fight_id": "c6134405ec7833a3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (retirement)",
+      "opponent": "Argemiro Delmandes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Richard Martins",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Lucas Batista",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-22",
+      "elo_delta": 19.4,
+      "event_name": "LFA 197: Kuziutina vs. Guimarães",
+      "fight_id": "50f3a5a4b7d0c0ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Lucas Batista",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Richard Martins",
+      "round": "2",
+      "time": "4:29",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-22",
+      "fight_id": "50f3a5a4b7d0c0ec",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "50f3a5a4b7d0c0ec",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "c6134405ec7833a3",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "c6134405ec7833a3",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "1013c0af97823150",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "1013c0af97823150",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Richard Martins",
+  "nickname": "",
+  "overall_elo": 1549.3,
+  "peak_elo": 1555.1,
+  "slug": "richard-martins",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

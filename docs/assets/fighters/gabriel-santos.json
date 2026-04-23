@@ -1,0 +1,194 @@
+{
+  "current_elo": 1523.2,
+  "divisional_rank": 142,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Gabriel Santos",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": 21.1,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "296d705a1f26e6c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jack Jenkins",
+      "opponent_elo": 1532.0,
+      "outcome": "blue_win",
+      "post_elo": 1523.2,
+      "pre_elo": 1502.1,
+      "red_name": "Jack Jenkins",
+      "round": "3.0",
+      "time": "2:06",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Gabriel Santos",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Burns vs. Brady",
+      "fight_id": "88b45b7d8845da17",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yizha",
+      "opponent_elo": 1482.0,
+      "outcome": "blue_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1484.2,
+      "red_name": "Yizha",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Gabriel Santos",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-06-24",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Emmett vs. Topuria",
+      "fight_id": "818afe976f39d942",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "David Onama",
+      "opponent_elo": 1504.6,
+      "outcome": "red_win",
+      "post_elo": 1484.2,
+      "pre_elo": 1503.5,
+      "red_name": "David Onama",
+      "round": "2.0",
+      "time": "4:13",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Gabriel Santos",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-03-18",
+      "elo_delta": -15.9,
+      "event_name": "UFC 286: Edwards vs. Usman 3",
+      "fight_id": "5e6775fac7166187",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Lerone Murphy",
+      "opponent_elo": 1560.4,
+      "outcome": "red_win",
+      "post_elo": 1503.5,
+      "pre_elo": 1519.4,
+      "red_name": "Lerone Murphy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Márcio Barbosa",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-11-04",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 146: Barbosa vs. Santos",
+      "fight_id": "0df2d05cd1d62d56",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Márcio Barbosa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Gabriel Santos",
+      "round": "2",
+      "time": "0:09",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-11-04",
+      "fight_id": "0df2d05cd1d62d56",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-11-04",
+      "fight_id": "0df2d05cd1d62d56",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-18",
+      "fight_id": "5e6775fac7166187",
+      "rating": 1503.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-03-18",
+      "fight_id": "5e6775fac7166187",
+      "rating": 1503.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "818afe976f39d942",
+      "rating": 1484.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "818afe976f39d942",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "88b45b7d8845da17",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "88b45b7d8845da17",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "296d705a1f26e6c5",
+      "rating": 1523.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "296d705a1f26e6c5",
+      "rating": 1520.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-08",
+  "name": "Gabriel Santos",
+  "nickname": "",
+  "overall_elo": 1520.2,
+  "peak_elo": 1523.2,
+  "slug": "gabriel-santos",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

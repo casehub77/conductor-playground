@@ -1,0 +1,92 @@
+{
+  "current_elo": 1504.2,
+  "divisional_rank": 263,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josias Musasa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": 20.3,
+      "event_name": "UFC Fight Night: Vettori vs. Dolidze 2",
+      "fight_id": "8dbe794317192166",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Josias Musasa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.2,
+      "pre_elo": 1483.8,
+      "red_name": "Carlos Vera",
+      "round": "1.0",
+      "time": "3:16",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Carlos Vera",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-02-17",
+      "elo_delta": -16.2,
+      "event_name": "UFC 298: Volkanovski vs. Topuria",
+      "fight_id": "252cafe686e7f6c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rinya Nakamura",
+      "opponent_elo": 1535.3,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "Rinya Nakamura",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-02-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-02-17",
+      "fight_id": "252cafe686e7f6c6",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "252cafe686e7f6c6",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "8dbe794317192166",
+      "rating": 1504.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "8dbe794317192166",
+      "rating": 1503.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-15",
+  "name": "Carlos Vera",
+  "nickname": "",
+  "overall_elo": 1503.5,
+  "peak_elo": 1504.2,
+  "slug": "carlos-vera",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

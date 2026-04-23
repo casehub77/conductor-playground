@@ -1,0 +1,92 @@
+{
+  "current_elo": 1502.0,
+  "divisional_rank": 92,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Pedro Lay Jr.",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -18.5,
+      "event_name": "LFA 213: Gonzalez vs. Rosales",
+      "fight_id": "e5f942a9745f7dce",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Shealor Ladd",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1520.4,
+      "red_name": "Shealor Ladd",
+      "round": "1",
+      "time": "4:23",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Emilio Vallecillo",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-06-13",
+      "elo_delta": 20.4,
+      "event_name": "LFA 210: Lawrence vs. Reyes",
+      "fight_id": "bad56a1fa92db235",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Emilio Vallecillo",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Pedro Lay Jr.",
+      "round": "1",
+      "time": "4:49",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-06-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-06-13",
+      "fight_id": "bad56a1fa92db235",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-06-13",
+      "fight_id": "bad56a1fa92db235",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "e5f942a9745f7dce",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "e5f942a9745f7dce",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Pedro Lay Jr.",
+  "nickname": "",
+  "overall_elo": 1501.6,
+  "peak_elo": 1520.4,
+  "slug": "pedro-lay-jr",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

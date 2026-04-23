@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 670,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Corey Hill",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-12-10",
+      "elo_delta": -20.4,
+      "event_name": "UFC Fight Night - Fight for the Troops",
+      "fight_id": "0af7667bf723a509",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dale Hartt",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1476.5,
+      "pre_elo": 1496.9,
+      "red_name": "Dale Hartt",
+      "round": "2.0",
+      "time": "0:20",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Corey Hill",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-07-05",
+      "elo_delta": -21.5,
+      "event_name": "UFC 86: Jackson vs Griffin",
+      "fight_id": "943e7dba0d2ec03d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Justin Buchholz",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1518.4,
+      "red_name": "Justin Buchholz",
+      "round": "2.0",
+      "time": "3:57",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Joe Veres",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-01-23",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Swick vs Burkman",
+      "fight_id": "093a4901ee30fa57",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joe Veres",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Corey Hill",
+      "round": "2.0",
+      "time": "0:37",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2008-01-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-01-23",
+      "fight_id": "093a4901ee30fa57",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-01-23",
+      "fight_id": "093a4901ee30fa57",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-07-05",
+      "fight_id": "943e7dba0d2ec03d",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-07-05",
+      "fight_id": "943e7dba0d2ec03d",
+      "rating": 1497.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-10",
+      "fight_id": "0af7667bf723a509",
+      "rating": 1476.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-12-10",
+      "fight_id": "0af7667bf723a509",
+      "rating": 1479.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-10",
+  "name": "Corey Hill",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.4,
+  "slug": "corey-hill",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

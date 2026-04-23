@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 291,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dwayne Cason",
+      "bout_type": "UFC 15 Heavyweight Tournament Title Bout",
+      "date": "1997-10-17",
+      "elo_delta": -18.4,
+      "event_name": "UFC 15: Collision Course",
+      "fight_id": "417ec827e522e5b8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mark Kerr",
+      "opponent_elo": 1537.9,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1519.4,
+      "red_name": "Mark Kerr",
+      "round": "1.0",
+      "time": "0:53",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Houston Dorr",
+      "bout_type": "Heavyweight Bout",
+      "date": "1997-10-17",
+      "elo_delta": 19.4,
+      "event_name": "UFC 15: Collision Course",
+      "fight_id": "91975fa1fb556d7a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Houston Dorr",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dwayne Cason",
+      "round": "1.0",
+      "time": "3:43",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1997-10-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-10-17",
+      "fight_id": "91975fa1fb556d7a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1997-10-17",
+      "fight_id": "417ec827e522e5b8",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1997-10-17",
+      "fight_id": "91975fa1fb556d7a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1997-10-17",
+      "fight_id": "417ec827e522e5b8",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1997-10-17",
+  "name": "Dwayne Cason",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "dwayne-cason",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

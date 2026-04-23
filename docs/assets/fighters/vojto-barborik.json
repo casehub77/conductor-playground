@@ -1,0 +1,92 @@
+{
+  "current_elo": 1497.2,
+  "divisional_rank": 1027,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Vojto Barborík",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2025-06-28",
+      "elo_delta": -21.3,
+      "event_name": "Oktagon 73: Eckerlin vs. Pukač",
+      "fight_id": "3e89b5d68ad21409",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Richie Smullen",
+      "opponent_elo": 1485.4,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1518.5,
+      "red_name": "Richie Smullen",
+      "round": "2",
+      "time": "3:49",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Krzysztof Klaczek",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-04-24",
+      "elo_delta": 18.5,
+      "event_name": "KSW 60: De Fries vs. Narkun 2",
+      "fight_id": "f83754bc9dce0377",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Krzysztof Klaczek",
+      "opponent_elo": 1482.4,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Vojto Barborík",
+      "round": "2",
+      "time": "2:30",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-04-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-24",
+      "fight_id": "f83754bc9dce0377",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-04-24",
+      "fight_id": "f83754bc9dce0377",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "3e89b5d68ad21409",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "3e89b5d68ad21409",
+      "rating": 1497.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-28",
+  "name": "Vojto Barborík",
+  "nickname": "",
+  "overall_elo": 1497.7,
+  "peak_elo": 1518.5,
+  "slug": "vojto-barborik",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

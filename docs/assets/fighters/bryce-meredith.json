@@ -1,0 +1,194 @@
+{
+  "current_elo": 1559.1,
+  "divisional_rank": 57,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Miguel Peimbert",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": 13.6,
+      "event_name": "Bellator 300: Nurmagomedov vs. Primus",
+      "fight_id": "e78fbe3dae66edcd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–27, 30–27)",
+      "opponent": "Miguel Peimbert",
+      "opponent_elo": 1483.9,
+      "outcome": "red_win",
+      "post_elo": 1585.1,
+      "pre_elo": 1571.5,
+      "red_name": "Bryce Meredith",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Brandon Carrillo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-03-31",
+      "elo_delta": 16.4,
+      "event_name": "Bellator 293: Golm vs. James",
+      "fight_id": "4c74b1a4156c04ca",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Brandon Carrillo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1571.5,
+      "pre_elo": 1555.1,
+      "red_name": "Bryce Meredith",
+      "round": "2",
+      "time": "3:11",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nathan Fought",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-09-09",
+      "elo_delta": 17.3,
+      "event_name": "Legacy Fighting Alliance 141: Talundžić vs. Brown",
+      "fight_id": "903a0fa49b2e2cce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Nathan Fought",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.8,
+      "red_name": "Bryce Meredith",
+      "round": "1",
+      "time": "4:36",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jay Viola",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2022-04-08",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 128: McKenzie vs. Clay",
+      "fight_id": "ee5d78dcc99c69fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jay Viola",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Bryce Meredith",
+      "round": "3",
+      "time": "1:04",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Steven Merrill",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 108: Fremd vs. Rodrigues",
+      "fight_id": "7fd3c848d58e418f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Steven Merrill",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bryce Meredith",
+      "round": "1",
+      "time": "3:35",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "7fd3c848d58e418f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "7fd3c848d58e418f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "ee5d78dcc99c69fc",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "ee5d78dcc99c69fc",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-09",
+      "fight_id": "903a0fa49b2e2cce",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-09-09",
+      "fight_id": "903a0fa49b2e2cce",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "4c74b1a4156c04ca",
+      "rating": 1571.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "4c74b1a4156c04ca",
+      "rating": 1564.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "e78fbe3dae66edcd",
+      "rating": 1585.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "e78fbe3dae66edcd",
+      "rating": 1576.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Bryce Meredith",
+  "nickname": "",
+  "overall_elo": 1550.7,
+  "peak_elo": 1585.1,
+  "slug": "bryce-meredith",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

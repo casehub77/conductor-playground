@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1448,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mike Bencic",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-02-15",
+      "elo_delta": -18.4,
+      "event_name": "Pride: Bushido 2",
+      "fight_id": "b649bda400193719",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Mario Sperry",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1482.7,
+      "red_name": "Mario Sperry",
+      "round": "1",
+      "time": "0:11",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Mike Bencic",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-06-08",
+      "elo_delta": -17.3,
+      "event_name": "Pride 26",
+      "fight_id": "b26dd9763dd0a882",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to Knee to the Body and Punches)",
+      "opponent": "Alistair Overeem",
+      "opponent_elo": 1537.7,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Alistair Overeem",
+      "round": "1",
+      "time": "3:44",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-06-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-06-08",
+      "fight_id": "b26dd9763dd0a882",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-06-08",
+      "fight_id": "b26dd9763dd0a882",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-02-15",
+      "fight_id": "b649bda400193719",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-02-15",
+      "fight_id": "b649bda400193719",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-02-15",
+  "name": "Mike Bencic",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "mike-bencic",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

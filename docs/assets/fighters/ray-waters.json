@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 305,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Leivon Lewis",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-08-26",
+      "elo_delta": 16.0,
+      "event_name": "Legacy Fighting Alliance 140: Mota vs. Abuev",
+      "fight_id": "0129ff712e291f39",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Leivon Lewis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1537.8,
+      "red_name": "Ray Waters",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ovidio Bojorquez",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 119: Silveira vs. Revel",
+      "fight_id": "6fe70af92ea47b57",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Ovidio Bojorquez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Ray Waters",
+      "round": "1",
+      "time": "4:43",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "L.J. Portée",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-05-14",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 107: Kirk vs. Swain",
+      "fight_id": "eddea16f2de9cfbb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "L.J. Portée",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ray Waters",
+      "round": "1",
+      "time": "1:02",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-05-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-14",
+      "fight_id": "eddea16f2de9cfbb",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-05-14",
+      "fight_id": "eddea16f2de9cfbb",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "6fe70af92ea47b57",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "6fe70af92ea47b57",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-26",
+      "fight_id": "0129ff712e291f39",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-08-26",
+      "fight_id": "0129ff712e291f39",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-26",
+  "name": "Ray Waters",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1553.8,
+  "slug": "ray-waters",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

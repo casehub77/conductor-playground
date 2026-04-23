@@ -1,0 +1,262 @@
+{
+  "current_elo": 1614.4,
+  "divisional_rank": 8,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Manel Kape",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-07-27",
+      "elo_delta": 15.6,
+      "event_name": "UFC 304: Edwards vs. Muhammad 2",
+      "fight_id": "e376a1bda9e89955",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Manel Kape",
+      "opponent_elo": 1558.0,
+      "outcome": "red_win",
+      "post_elo": 1620.2,
+      "pre_elo": 1604.6,
+      "red_name": "Muhammad Mokaev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Muhammad Mokaev",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-03-02",
+      "elo_delta": 15.5,
+      "event_name": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "fight_id": "c0335b9bc71a1752",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alex Perez",
+      "opponent_elo": 1541.1,
+      "outcome": "blue_win",
+      "post_elo": 1604.6,
+      "pre_elo": 1589.1,
+      "red_name": "Alex Perez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Muhammad Mokaev",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-10-21",
+      "elo_delta": 15.2,
+      "event_name": "UFC 294: Makhachev vs. Volkanovski 2",
+      "fight_id": "cdef5f45b0e0af58",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tim Elliott",
+      "opponent_elo": 1496.1,
+      "outcome": "blue_win",
+      "post_elo": 1589.1,
+      "pre_elo": 1573.9,
+      "red_name": "Tim Elliott",
+      "round": "3.0",
+      "time": "3:03",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jafel Filho",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-03-18",
+      "elo_delta": 16.2,
+      "event_name": "UFC 286: Edwards vs. Usman 3",
+      "fight_id": "e5278a4dd1b7e1a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jafel Filho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1573.9,
+      "pre_elo": 1557.7,
+      "red_name": "Muhammad Mokaev",
+      "round": "3.0",
+      "time": "4:32",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Malcolm Gordon",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-10-22",
+      "elo_delta": 17.5,
+      "event_name": "UFC 280: Oliveira vs. Makhachev",
+      "fight_id": "63891f25f87043d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Malcolm Gordon",
+      "opponent_elo": 1505.2,
+      "outcome": "red_win",
+      "post_elo": 1557.7,
+      "pre_elo": 1540.2,
+      "red_name": "Muhammad Mokaev",
+      "round": "3.0",
+      "time": "4:26",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Charles Johnson",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-07-23",
+      "elo_delta": 20.7,
+      "event_name": "UFC Fight Night: Blaydes vs. Aspinall",
+      "fight_id": "2ddc02d915f116a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Charles Johnson",
+      "opponent_elo": 1572.1,
+      "outcome": "red_win",
+      "post_elo": 1540.2,
+      "pre_elo": 1519.5,
+      "red_name": "Muhammad Mokaev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Cody Durden",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-03-19",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Volkov vs. Aspinall",
+      "fight_id": "ea00bc992314efc3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Cody Durden",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Muhammad Mokaev",
+      "round": "1.0",
+      "time": "0:58",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-19",
+      "fight_id": "ea00bc992314efc3",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-03-19",
+      "fight_id": "ea00bc992314efc3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-23",
+      "fight_id": "2ddc02d915f116a2",
+      "rating": 1540.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-07-23",
+      "fight_id": "2ddc02d915f116a2",
+      "rating": 1535.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-22",
+      "fight_id": "63891f25f87043d7",
+      "rating": 1557.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-10-22",
+      "fight_id": "63891f25f87043d7",
+      "rating": 1551.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-18",
+      "fight_id": "e5278a4dd1b7e1a7",
+      "rating": 1573.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-03-18",
+      "fight_id": "e5278a4dd1b7e1a7",
+      "rating": 1565.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-21",
+      "fight_id": "cdef5f45b0e0af58",
+      "rating": 1589.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-10-21",
+      "fight_id": "cdef5f45b0e0af58",
+      "rating": 1580.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-02",
+      "fight_id": "c0335b9bc71a1752",
+      "rating": 1604.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-03-02",
+      "fight_id": "c0335b9bc71a1752",
+      "rating": 1594.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-27",
+      "fight_id": "e376a1bda9e89955",
+      "rating": 1620.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-07-27",
+      "fight_id": "e376a1bda9e89955",
+      "rating": 1610.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": "https://www.instagram.com/mokaev_muhammad/",
+  "instagram_featured": true,
+  "last_fight_date": "2024-07-27",
+  "name": "Muhammad Mokaev",
+  "nickname": "",
+  "overall_elo": 1604.4,
+  "peak_elo": 1620.2,
+  "slug": "muhammad-mokaev",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

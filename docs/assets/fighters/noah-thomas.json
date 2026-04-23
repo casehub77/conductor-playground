@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 780,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Noah Thomas",
+      "bout_type": "Bantamweight Bout",
+      "date": "2009-10-10",
+      "elo_delta": -18.0,
+      "event_name": "WEC 43: Cerrone vs. Henderson",
+      "fight_id": "b1a911eb97eb3d61",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Scott Jorgensen",
+      "opponent_elo": 1505.9,
+      "outcome": "red_win",
+      "post_elo": 1461.5,
+      "pre_elo": 1479.5,
+      "red_name": "Scott Jorgensen",
+      "round": "1",
+      "time": "3:13",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Noah Thomas",
+      "bout_type": "Bantamweight Bout",
+      "date": "2009-06-07",
+      "elo_delta": -20.5,
+      "event_name": "WEC 41: Brown vs. Faber 2",
+      "fight_id": "215c4da336ae47b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Frank Gomez",
+      "opponent_elo": 1480.7,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Frank Gomez",
+      "round": "2",
+      "time": "3:12",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2009-06-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-06-07",
+      "fight_id": "215c4da336ae47b0",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2009-06-07",
+      "fight_id": "215c4da336ae47b0",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-10-10",
+      "fight_id": "b1a911eb97eb3d61",
+      "rating": 1461.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2009-10-10",
+      "fight_id": "b1a911eb97eb3d61",
+      "rating": 1465.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-10-10",
+  "name": "Noah Thomas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "noah-thomas",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 799,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hugo Viana",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-01-25",
+      "elo_delta": -16.2,
+      "event_name": "UFC on FOX: Henderson vs Thomson",
+      "fight_id": "10564c261323ab5d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Hugo Viana",
+      "opponent_elo": 1515.6,
+      "outcome": "blue_win",
+      "post_elo": 1464.5,
+      "pre_elo": 1480.7,
+      "red_name": "Ramiro Hernandez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ramiro Hernandez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2013-09-04",
+      "elo_delta": -19.3,
+      "event_name": "UFC Fight Night: Teixeira vs Bader",
+      "fight_id": "dc3a500fc68747e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Lucas Martins",
+      "opponent_elo": 1502.2,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Lucas Martins",
+      "round": "1.0",
+      "time": "1:10",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2013-09-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-09-04",
+      "fight_id": "dc3a500fc68747e8",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "dc3a500fc68747e8",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-01-25",
+      "fight_id": "10564c261323ab5d",
+      "rating": 1464.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-01-25",
+      "fight_id": "10564c261323ab5d",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-01-25",
+  "name": "Ramiro Hernandez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ramiro-hernandez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

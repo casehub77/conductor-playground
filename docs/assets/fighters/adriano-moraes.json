@@ -1,0 +1,194 @@
+{
+  "current_elo": 1503.5,
+  "divisional_rank": 194,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Adriano Moraes",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-23",
+      "elo_delta": -18.7,
+      "event_name": "ONE 172: Takeru vs. Rodtang",
+      "fight_id": "a0e0b209d3db5aad",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Yuya Wakamatsu",
+      "opponent_elo": 1535.2,
+      "outcome": "red_win",
+      "post_elo": 1503.5,
+      "pre_elo": 1522.2,
+      "red_name": "Yuya Wakamatsu",
+      "round": "1",
+      "time": "3:39",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Danny Kingad",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-11-09",
+      "elo_delta": 18.4,
+      "event_name": "ONE 169: Malykhin vs. Reug Reug",
+      "fight_id": "030959eb720c135a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Danny Kingad",
+      "opponent_elo": 1484.6,
+      "outcome": "red_win",
+      "post_elo": 1522.2,
+      "pre_elo": 1503.9,
+      "red_name": "Adriano Moraes",
+      "round": "2",
+      "time": "4:14",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Adriano Moraes",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-05-05",
+      "elo_delta": -7.6,
+      "event_name": "ONE Fight Night 10: Johnson vs. Moraes 3",
+      "fight_id": "a38d60c291e2c8b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Demetrious Johnson",
+      "opponent_elo": 1739.3,
+      "outcome": "red_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1511.5,
+      "red_name": "Demetrious Johnson",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Adriano Moraes",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-08-27",
+      "elo_delta": -8.9,
+      "event_name": "ONE on Prime Video 1: Moraes vs. Johnson 2",
+      "fight_id": "33da2cf48ee58581",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Demetrious Johnson",
+      "opponent_elo": 1730.4,
+      "outcome": "red_win",
+      "post_elo": 1511.5,
+      "pre_elo": 1520.4,
+      "red_name": "Demetrious Johnson",
+      "round": "4",
+      "time": "3:50",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Yuya Wakamatsu",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-03-26",
+      "elo_delta": 20.4,
+      "event_name": "ONE X: 10 Years Anniversary",
+      "fight_id": "c9df2c68eddff58e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Yuya Wakamatsu",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Adriano Moraes",
+      "round": "3",
+      "time": "3:58",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-26",
+      "fight_id": "c9df2c68eddff58e",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "c9df2c68eddff58e",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "33da2cf48ee58581",
+      "rating": 1511.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "33da2cf48ee58581",
+      "rating": 1509.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "a38d60c291e2c8b4",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "a38d60c291e2c8b4",
+      "rating": 1502.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "030959eb720c135a",
+      "rating": 1522.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "030959eb720c135a",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-23",
+      "fight_id": "a0e0b209d3db5aad",
+      "rating": 1503.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-23",
+      "fight_id": "a0e0b209d3db5aad",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-23",
+  "name": "Adriano Moraes",
+  "nickname": "",
+  "overall_elo": 1502.2,
+  "peak_elo": 1522.2,
+  "slug": "adriano-moraes",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

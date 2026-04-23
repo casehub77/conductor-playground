@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.1,
+  "divisional_rank": 1224,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Inglesson de Lara",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-03-13",
+      "elo_delta": -17.9,
+      "event_name": "Cage Warriors 201: Unplugged",
+      "fight_id": "7954fadf09499663",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Aiden Lee",
+      "opponent_elo": 1509.4,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1482.0,
+      "red_name": "Aiden Lee",
+      "round": "1",
+      "time": "3:36",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Inglesson de Lara",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-05-24",
+      "elo_delta": -18.0,
+      "event_name": "LFA 209: De Lara vs. Henrique",
+      "fight_id": "dea861cbc8d44aef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Bruno Henrique",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Bruno Henrique",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-05-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-24",
+      "fight_id": "dea861cbc8d44aef",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-05-24",
+      "fight_id": "dea861cbc8d44aef",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "7954fadf09499663",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "7954fadf09499663",
+      "rating": 1467.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Inglesson de Lara",
+  "nickname": "",
+  "overall_elo": 1467.9,
+  "peak_elo": 1500.0,
+  "slug": "inglesson-de-lara",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 977,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Uyran Carlos",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": -17.1,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "b5310ecdab85556a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jefferson Todynho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1483.0,
+      "red_name": "Jefferson Todynho",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Uyran Carlos",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-07-19",
+      "elo_delta": -17.0,
+      "event_name": "Legacy Fighting Alliance 112: Welterweight Tournament",
+      "fight_id": "b07c684077cfcb22",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Carlos Leal",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Carlos Leal",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-07-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-19",
+      "fight_id": "b07c684077cfcb22",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-07-19",
+      "fight_id": "b07c684077cfcb22",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "b5310ecdab85556a",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "b5310ecdab85556a",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-13",
+  "name": "Uyran Carlos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "uyran-carlos",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

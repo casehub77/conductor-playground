@@ -1,0 +1,126 @@
+{
+  "current_elo": 1555.1,
+  "divisional_rank": 62,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Gabriel Ramos",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 17.3,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "6f273a12a155ac7d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Gabriel Ramos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.8,
+      "red_name": "Keith Keogh",
+      "round": "3",
+      "time": "2:16",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Damien McKenna",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "198cc73e9e32ca21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Damien McKenna",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Keith Keogh",
+      "round": "1",
+      "time": "2:01",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Joe Doyle",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "90e1d80d448fa0b5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Joe Doyle",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Keith Keogh",
+      "round": "1",
+      "time": "1:37",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-04-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-26",
+      "fight_id": "90e1d80d448fa0b5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "90e1d80d448fa0b5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "198cc73e9e32ca21",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "198cc73e9e32ca21",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "6f273a12a155ac7d",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "6f273a12a155ac7d",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Keith Keogh",
+  "nickname": "",
+  "overall_elo": 1549.3,
+  "peak_elo": 1555.1,
+  "slug": "keith-keogh",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

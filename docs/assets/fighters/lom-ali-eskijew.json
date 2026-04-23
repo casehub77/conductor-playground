@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 411,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Damian Stasiak",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-12-18",
+      "elo_delta": 17.1,
+      "event_name": "KSW 65: Khalidov vs. Soldić",
+      "fight_id": "b4396453c1844d58",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Damian Stasiak",
+      "opponent_elo": 1501.7,
+      "outcome": "red_win",
+      "post_elo": 1536.5,
+      "pre_elo": 1519.4,
+      "red_name": "Lom-Ali Eskijew",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Gilber Ordoñez Huila",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-07-17",
+      "elo_delta": 19.4,
+      "event_name": "KSW 62: Kołecki vs. Szostak",
+      "fight_id": "41d417923361f75c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Arm-Triangle Choke)",
+      "opponent": "Gilber Ordoñez Huila",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lom-Ali Eskijew",
+      "round": "1",
+      "time": "4:25",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-07-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-17",
+      "fight_id": "41d417923361f75c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-07-17",
+      "fight_id": "41d417923361f75c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "b4396453c1844d58",
+      "rating": 1536.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "b4396453c1844d58",
+      "rating": 1532.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-12-18",
+  "name": "Lom-Ali Eskijew",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.5,
+  "slug": "lom-ali-eskijew",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

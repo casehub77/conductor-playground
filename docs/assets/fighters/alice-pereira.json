@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.5,
+  "divisional_rank": 43,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hailey Cowan",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": 18.5,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "513a0c838dfba61c",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Hailey Cowan",
+      "opponent_elo": 1464.6,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1482.0,
+      "red_name": "Alice Pereira",
+      "round": "2",
+      "time": "4:24",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Alice Pereira",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Lopes vs. Silva",
+      "fight_id": "2899f08216d9aae0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Montse Rendon",
+      "opponent_elo": 1500.8,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Montse Rendon",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-09-13",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-09-13",
+      "fight_id": "2899f08216d9aae0",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "2899f08216d9aae0",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "513a0c838dfba61c",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "513a0c838dfba61c",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Alice Pereira",
+  "nickname": "",
+  "overall_elo": 1500.5,
+  "peak_elo": 1500.5,
+  "slug": "alice-pereira",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

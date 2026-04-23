@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 579,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nick Piedmont",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-10-22",
+      "elo_delta": -18.9,
+      "event_name": "Bellator 55",
+      "fight_id": "071a2126e156f4ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29-28, 30-27, 30-27)",
+      "opponent": "Jade Porter",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Jade Porter",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Michael Parker",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-04-16",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 41",
+      "fight_id": "40f3ad48b69d73a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (30–27, 28–29, 29–28)",
+      "opponent": "Michael Parker",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Piedmont",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-04-16",
+      "fight_id": "40f3ad48b69d73a0",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-04-16",
+      "fight_id": "40f3ad48b69d73a0",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "071a2126e156f4ba",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "071a2126e156f4ba",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-22",
+  "name": "Nick Piedmont",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "nick-piedmont",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

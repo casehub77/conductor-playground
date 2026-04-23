@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1464,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kinuka Sasaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-05-26",
+      "elo_delta": 19.0,
+      "event_name": "Shooto: Battle Mix Tokyo 3",
+      "fight_id": "e8a8bd405c0a5af9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Kinuka Sasaki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1481.0,
+      "red_name": "Mizuho Sato",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Mizuho Sato",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-03-30",
+      "elo_delta": -19.0,
+      "event_name": "Shooto: Battle Mix Tokyo 2",
+      "fight_id": "78ea7af4e24046be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Megumi Yabushita",
+      "opponent_elo": 1481.1,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Megumi Yabushita",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2007-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-03-30",
+      "fight_id": "78ea7af4e24046be",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-03-30",
+      "fight_id": "78ea7af4e24046be",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-05-26",
+      "fight_id": "e8a8bd405c0a5af9",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-05-26",
+      "fight_id": "e8a8bd405c0a5af9",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-05-26",
+  "name": "Mizuho Sato",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "mizuho-sato",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

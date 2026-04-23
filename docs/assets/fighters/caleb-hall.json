@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 895,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Caleb Hall",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": -18.5,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "38d728c81b92b079",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (scarf hold armlock)",
+      "opponent": "Jean-Paul Lebosnoyani",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.5,
+      "pre_elo": 1483.0,
+      "red_name": "Jean-Paul Lebosnoyani",
+      "round": "1",
+      "time": "1:21",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Caleb Hall",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-06-05",
+      "elo_delta": -17.0,
+      "event_name": "Legacy Fighting Alliance 109: McKinney vs. Irizarry",
+      "fight_id": "df882357abc67341",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jacobi Jones",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jacobi Jones",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-06-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-05",
+      "fight_id": "df882357abc67341",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-06-05",
+      "fight_id": "df882357abc67341",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "38d728c81b92b079",
+      "rating": 1464.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "38d728c81b92b079",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-29",
+  "name": "Caleb Hall",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "caleb-hall",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1550.4,
+  "divisional_rank": 37,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Isaiah Pinson",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-02-27",
+      "elo_delta": 17.5,
+      "event_name": "LFA 227: Nascimento vs. Kamikubo",
+      "fight_id": "ed7926909b1e9887",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Isaiah Pinson",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1550.4,
+      "pre_elo": 1532.8,
+      "red_name": "Shealor Ladd",
+      "round": "2",
+      "time": "3:17",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Shealor Ladd",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": -23.4,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "4209707573ab97c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Joe Taylor",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1532.8,
+      "pre_elo": 1556.3,
+      "red_name": "Joe Taylor",
+      "round": "1",
+      "time": "0:35",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Pedro Lay Jr.",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": 18.5,
+      "event_name": "LFA 213: Gonzalez vs. Rosales",
+      "fight_id": "e5f942a9745f7dce",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Pedro Lay Jr.",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1556.3,
+      "pre_elo": 1537.8,
+      "red_name": "Shealor Ladd",
+      "round": "1",
+      "time": "4:23",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Roman Kiziuk",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-05-09",
+      "elo_delta": 18.4,
+      "event_name": "LFA 208: Mecate vs. Reyes",
+      "fight_id": "3d4e79e70a242d43",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Roman Kiziuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Shealor Ladd",
+      "round": "2",
+      "time": "4:01",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tylando Mattress",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 19.4,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "1e367568c070e9e2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Tylando Mattress",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Shealor Ladd",
+      "round": "2",
+      "time": "1:43",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-10",
+      "fight_id": "1e367568c070e9e2",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "1e367568c070e9e2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "3d4e79e70a242d43",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "3d4e79e70a242d43",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "e5f942a9745f7dce",
+      "rating": 1556.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "e5f942a9745f7dce",
+      "rating": 1550.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "4209707573ab97c1",
+      "rating": 1532.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "4209707573ab97c1",
+      "rating": 1529.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "ed7926909b1e9887",
+      "rating": 1550.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "ed7926909b1e9887",
+      "rating": 1545.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-27",
+  "name": "Shealor Ladd",
+  "nickname": "",
+  "overall_elo": 1545.4,
+  "peak_elo": 1556.3,
+  "slug": "shealor-ladd",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

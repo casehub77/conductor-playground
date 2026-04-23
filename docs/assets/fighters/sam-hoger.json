@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 332,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Sam Hoger",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-02-03",
+      "elo_delta": -18.0,
+      "event_name": "UFC 67: All or Nothing",
+      "fight_id": "f140044cc80ba149",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lyoto Machida",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1499.7,
+      "red_name": "Lyoto Machida",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sam Hoger",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-04-06",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night 4",
+      "fight_id": "e754487a9fee3e5f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Rashad Evans",
+      "opponent_elo": 1518.2,
+      "outcome": "red_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1517.7,
+      "red_name": "Rashad Evans",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Jeff Newton",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2005-11-19",
+      "elo_delta": 19.5,
+      "event_name": "UFC 56: Full Force",
+      "fight_id": "b4efa02e99594d2f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jeff Newton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.7,
+      "pre_elo": 1498.1,
+      "red_name": "Sam Hoger",
+      "round": "2.0",
+      "time": "2:05",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sam Hoger",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2005-08-06",
+      "elo_delta": -19.9,
+      "event_name": "UFC Fight Night 1",
+      "fight_id": "338f490d9df6057e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Stephan Bonnar",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1498.1,
+      "pre_elo": 1518.0,
+      "red_name": "Stephan Bonnar",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Bobby Southworth",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2005-04-09",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: Team Couture vs. Team Liddell Finale",
+      "fight_id": "1d6f57e85cb333ad",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bobby Southworth",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Sam Hoger",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-04-09",
+      "fight_id": "1d6f57e85cb333ad",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-04-09",
+      "fight_id": "1d6f57e85cb333ad",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-08-06",
+      "fight_id": "338f490d9df6057e",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-08-06",
+      "fight_id": "338f490d9df6057e",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-11-19",
+      "fight_id": "b4efa02e99594d2f",
+      "rating": 1517.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-11-19",
+      "fight_id": "b4efa02e99594d2f",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-04-06",
+      "fight_id": "e754487a9fee3e5f",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-04-06",
+      "fight_id": "e754487a9fee3e5f",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-02-03",
+      "fight_id": "f140044cc80ba149",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-02-03",
+      "fight_id": "f140044cc80ba149",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-02-03",
+  "name": "Sam Hoger",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "sam-hoger",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

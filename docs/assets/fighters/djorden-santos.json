@@ -1,0 +1,92 @@
+{
+  "current_elo": 1502.8,
+  "divisional_rank": 162,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Djorden Santos",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": 19.7,
+      "event_name": "UFC Fight Night: De Ridder vs. Allen",
+      "fight_id": "a870472a1a668641",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Danny Barlow",
+      "opponent_elo": 1516.5,
+      "outcome": "blue_win",
+      "post_elo": 1502.8,
+      "pre_elo": 1483.1,
+      "red_name": "Danny Barlow",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ozzy Diaz",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -16.9,
+      "event_name": "UFC 313: Pereira vs. Ankalaev",
+      "fight_id": "1bba6c42ea0c9cf1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ozzy Diaz",
+      "opponent_elo": 1520.5,
+      "outcome": "blue_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Djorden Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-03-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-08",
+      "fight_id": "1bba6c42ea0c9cf1",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "1bba6c42ea0c9cf1",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "a870472a1a668641",
+      "rating": 1502.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "a870472a1a668641",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-18",
+  "name": "Djorden Santos",
+  "nickname": "",
+  "overall_elo": 1501.5,
+  "peak_elo": 1502.8,
+  "slug": "djorden-santos",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

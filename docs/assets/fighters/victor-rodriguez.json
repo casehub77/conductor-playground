@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 514,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Victor Rodriguez",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-05-22",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Font vs. Garbrandt",
+      "fight_id": "319f7a2991b1255c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Bruno Silva",
+      "opponent_elo": 1486.3,
+      "outcome": "red_win",
+      "post_elo": 1463.5,
+      "pre_elo": 1482.7,
+      "red_name": "Bruno Silva",
+      "round": "1.0",
+      "time": "1:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Victor Rodriguez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-10-31",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Hall vs. Silva",
+      "fight_id": "b8fef8f5956d32ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Adrian Yanez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Adrian Yanez",
+      "round": "1.0",
+      "time": "2:46",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-10-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-10-31",
+      "fight_id": "b8fef8f5956d32ae",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-10-31",
+      "fight_id": "b8fef8f5956d32ae",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-22",
+      "fight_id": "319f7a2991b1255c",
+      "rating": 1463.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-05-22",
+      "fight_id": "319f7a2991b1255c",
+      "rating": 1465.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-05-22",
+  "name": "Victor Rodriguez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "victor-rodriguez",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1521.4,
+  "divisional_rank": 118,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lorenz Larkin",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-07-30",
+      "elo_delta": 19.9,
+      "event_name": "Super Rizin.2: Rizin X Bellator",
+      "fight_id": "760eeaa0cb3664f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Lorenz Larkin",
+      "opponent_elo": 1569.6,
+      "outcome": "red_win",
+      "post_elo": 1552.0,
+      "pre_elo": 1532.1,
+      "red_name": "Andrey Koreshkov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Chance Rencountre",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": 19.0,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "d9c9aca404254527",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (spinning body kick and punches)",
+      "opponent": "Chance Rencountre",
+      "opponent_elo": 1505.0,
+      "outcome": "red_win",
+      "post_elo": 1532.1,
+      "pre_elo": 1513.1,
+      "red_name": "Andrey Koreshkov",
+      "round": "1",
+      "time": "0:38",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sabah Homasi",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-08-13",
+      "elo_delta": 13.1,
+      "event_name": "Bellator 264: Mousasi vs. Salter",
+      "fight_id": "6d63eb0b9aca4c60",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–26, 30–26)",
+      "opponent": "Sabah Homasi",
+      "opponent_elo": 1402.9,
+      "outcome": "red_win",
+      "post_elo": 1513.1,
+      "pre_elo": 1500.0,
+      "red_name": "Andrey Koreshkov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-08-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-13",
+      "fight_id": "6d63eb0b9aca4c60",
+      "rating": 1513.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-08-13",
+      "fight_id": "6d63eb0b9aca4c60",
+      "rating": 1512.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "d9c9aca404254527",
+      "rating": 1532.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "d9c9aca404254527",
+      "rating": 1528.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-30",
+      "fight_id": "760eeaa0cb3664f0",
+      "rating": 1552.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-07-30",
+      "fight_id": "760eeaa0cb3664f0",
+      "rating": 1547.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-30",
+  "name": "Andrey Koreshkov",
+  "nickname": "",
+  "overall_elo": 1516.9,
+  "peak_elo": 1552.0,
+  "slug": "andrey-koreshkov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

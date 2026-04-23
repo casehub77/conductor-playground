@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.6,
+  "divisional_rank": 1213,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Gates Cook",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-13",
+      "elo_delta": -18.4,
+      "event_name": "LFA 210: Lawrence vs. Reyes",
+      "fight_id": "b463b459f041d4b9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Todd Pickett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.0,
+      "red_name": "Todd Pickett",
+      "round": "1",
+      "time": "1:45",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gates Cook",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": -18.0,
+      "event_name": "LFA 204: Cunha vs. Freeman",
+      "fight_id": "7b6878b78aede32a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–27)",
+      "opponent": "Melvin Jovel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Melvin Jovel",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-03-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-22",
+      "fight_id": "7b6878b78aede32a",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "7b6878b78aede32a",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-13",
+      "fight_id": "b463b459f041d4b9",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-13",
+      "fight_id": "b463b459f041d4b9",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-13",
+  "name": "Gates Cook",
+  "nickname": "",
+  "overall_elo": 1467.5,
+  "peak_elo": 1500.0,
+  "slug": "gates-cook",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 901,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Marvin Eastman",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-06-21",
+      "elo_delta": -18.3,
+      "event_name": "The Ultimate Fighter: Team Rampage vs Team Forrest Finale",
+      "fight_id": "161d36cb2dbb0f43",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Drew Mcfedries",
+      "opponent_elo": 1498.4,
+      "outcome": "red_win",
+      "post_elo": 1460.3,
+      "pre_elo": 1478.6,
+      "red_name": "Drew Mcfedries",
+      "round": "1.0",
+      "time": "1:08",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Terry Martin",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-02-02",
+      "elo_delta": 21.4,
+      "event_name": "UFC 81: Breaking Point",
+      "fight_id": "1e508d58395ea5a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Terry Martin",
+      "opponent_elo": 1524.4,
+      "outcome": "red_win",
+      "post_elo": 1478.6,
+      "pre_elo": 1457.2,
+      "red_name": "Marvin Eastman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Marvin Eastman",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-02-03",
+      "elo_delta": -12.6,
+      "event_name": "UFC 67: All or Nothing",
+      "fight_id": "4f763a8de4fdee80",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Quinton Jackson",
+      "opponent_elo": 1592.4,
+      "outcome": "red_win",
+      "post_elo": 1452.1,
+      "pre_elo": 1464.6,
+      "red_name": "Quinton Jackson",
+      "round": "2.0",
+      "time": "3:49",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Marvin Eastman",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2004-10-22",
+      "elo_delta": -18.5,
+      "event_name": "UFC 50: The War Of '04",
+      "fight_id": "a3ccae0d9d80693f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Travis Lutter",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.6,
+      "pre_elo": 1483.1,
+      "red_name": "Travis Lutter",
+      "round": "2.0",
+      "time": "0:33",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Marvin Eastman",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2003-06-06",
+      "elo_delta": -16.9,
+      "event_name": "UFC 43: Meltdown",
+      "fight_id": "b3583fa32aaa99ab",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Vitor Belfort",
+      "opponent_elo": 1546.4,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Vitor Belfort",
+      "round": "1.0",
+      "time": "1:07",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2003-06-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-06-06",
+      "fight_id": "b3583fa32aaa99ab",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2003-06-06",
+      "fight_id": "b3583fa32aaa99ab",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-10-22",
+      "fight_id": "a3ccae0d9d80693f",
+      "rating": 1464.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2004-10-22",
+      "fight_id": "a3ccae0d9d80693f",
+      "rating": 1468.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-02-03",
+      "fight_id": "4f763a8de4fdee80",
+      "rating": 1452.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-02-03",
+      "fight_id": "4f763a8de4fdee80",
+      "rating": 1457.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-02-02",
+      "fight_id": "1e508d58395ea5a2",
+      "rating": 1478.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-02-02",
+      "fight_id": "1e508d58395ea5a2",
+      "rating": 1476.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-06-21",
+      "fight_id": "161d36cb2dbb0f43",
+      "rating": 1460.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-06-21",
+      "fight_id": "161d36cb2dbb0f43",
+      "rating": 1460.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-06-21",
+  "name": "Marvin Eastman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "marvin-eastman",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

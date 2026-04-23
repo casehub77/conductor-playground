@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 506,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matthew Bonner",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": -19.3,
+      "event_name": "Oktagon 52: Mågård vs. Cartwright",
+      "fight_id": "ce261a24a0c46f66",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches to the body)",
+      "opponent": "Matěj Peňáz",
+      "opponent_elo": 1519.8,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1518.0,
+      "red_name": "Matěj Peňáz",
+      "round": "2",
+      "time": "4:43",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Cihad Akipa",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 49: Moeil vs. Todev",
+      "fight_id": "9e6397c9dc0dd571",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Cihad Akipa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Matthew Bonner",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-18",
+      "fight_id": "9e6397c9dc0dd571",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "9e6397c9dc0dd571",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "ce261a24a0c46f66",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "ce261a24a0c46f66",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-27",
+  "name": "Matthew Bonner",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "matthew-bonner",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

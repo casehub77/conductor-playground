@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 392,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Takahito Tomozawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-08-06",
+      "elo_delta": 16.0,
+      "event_name": "Shooto: Gig Tokyo 7",
+      "fight_id": "aa8982c8ad97b241",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Takahito Tomozawa",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1518.4,
+      "red_name": "Yamato Okada",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Takashi Murai",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-04-04",
+      "elo_delta": 18.4,
+      "event_name": "Shooto: Grapplingman 10",
+      "fight_id": "3dc6781b05204fe2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Takashi Murai",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yamato Okada",
+      "round": "1",
+      "time": "2:17",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-04-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-04",
+      "fight_id": "3dc6781b05204fe2",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-04-04",
+      "fight_id": "3dc6781b05204fe2",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-08-06",
+      "fight_id": "aa8982c8ad97b241",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-08-06",
+      "fight_id": "aa8982c8ad97b241",
+      "rating": 1530.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-08-06",
+  "name": "Yamato Okada",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.5,
+  "slug": "yamato-okada",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

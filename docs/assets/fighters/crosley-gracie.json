@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 445,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Crosley Gracie",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-22",
+      "elo_delta": -17.7,
+      "event_name": "Pride: Bushido 7",
+      "fight_id": "53604e76eeecf132",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Akihiro Gono",
+      "opponent_elo": 1528.7,
+      "outcome": "red_win",
+      "post_elo": 1505.1,
+      "pre_elo": 1522.8,
+      "red_name": "Akihiro Gono",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hayato Sakurai",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-10-14",
+      "elo_delta": 22.8,
+      "event_name": "Pride: Bushido 5",
+      "fight_id": "c0e79b7095604dc2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Hayato Sakurai",
+      "opponent_elo": 1560.2,
+      "outcome": "red_win",
+      "post_elo": 1522.8,
+      "pre_elo": 1500.0,
+      "red_name": "Crosley Gracie",
+      "round": "2",
+      "time": "1:02",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-10-14",
+      "fight_id": "c0e79b7095604dc2",
+      "rating": 1522.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-10-14",
+      "fight_id": "c0e79b7095604dc2",
+      "rating": 1518.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-05-22",
+      "fight_id": "53604e76eeecf132",
+      "rating": 1505.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-22",
+      "fight_id": "53604e76eeecf132",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-05-22",
+  "name": "Crosley Gracie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.8,
+  "slug": "crosley-gracie",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

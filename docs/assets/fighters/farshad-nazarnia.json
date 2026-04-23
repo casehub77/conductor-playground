@@ -1,0 +1,126 @@
+{
+  "current_elo": 1524.2,
+  "divisional_rank": 96,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Geoff Pavey",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-12-06",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 199: Newcastle",
+      "fight_id": "3ed7cf07bb522ca0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Geoff Pavey",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1524.2,
+      "pre_elo": 1506.2,
+      "red_name": "Farshad Nazarnia",
+      "round": "1",
+      "time": "3:50",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Mitchell Goode",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-14",
+      "elo_delta": 21.4,
+      "event_name": "Cage Warriors 184: Unplugged",
+      "fight_id": "df55f69f3c7539da",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Mitchell Goode",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1506.2,
+      "pre_elo": 1484.8,
+      "red_name": "Farshad Nazarnia",
+      "round": "1",
+      "time": "3:27",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Farshad Nazarnia",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": -17.0,
+      "event_name": "Cage Warriors 177: Unplugged",
+      "fight_id": "6ec5e6448acd7270",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Nell Ariano",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Nell Ariano",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-09-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-20",
+      "fight_id": "6ec5e6448acd7270",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "6ec5e6448acd7270",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "df55f69f3c7539da",
+      "rating": 1506.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "df55f69f3c7539da",
+      "rating": 1503.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "3ed7cf07bb522ca0",
+      "rating": 1524.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "3ed7cf07bb522ca0",
+      "rating": 1519.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-06",
+  "name": "Farshad Nazarnia",
+  "nickname": "",
+  "overall_elo": 1519.9,
+  "peak_elo": 1524.2,
+  "slug": "farshad-nazarnia",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

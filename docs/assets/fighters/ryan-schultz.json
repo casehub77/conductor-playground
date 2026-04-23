@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 682,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hannibal Adofo",
+      "bout_type": "Welterweight Bout",
+      "date": "2003-10-17",
+      "elo_delta": 19.6,
+      "event_name": "WEC 8: Halloween Fury 2",
+      "fight_id": "64492e02bf6ad8f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Hannibal Adofo",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1500.2,
+      "pre_elo": 1480.6,
+      "red_name": "Ryan Schultz",
+      "round": "1",
+      "time": "0:25",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ryan Schultz",
+      "bout_type": "Welterweight Bout",
+      "date": "2003-08-09",
+      "elo_delta": -19.4,
+      "event_name": "WEC 7 – This Time It's Personal",
+      "fight_id": "38fac5535096f98e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "J.T. Taylor",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "J.T. Taylor",
+      "round": "2",
+      "time": "1:56",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2003-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-08-09",
+      "fight_id": "38fac5535096f98e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2003-08-09",
+      "fight_id": "38fac5535096f98e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-10-17",
+      "fight_id": "64492e02bf6ad8f0",
+      "rating": 1500.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2003-10-17",
+      "fight_id": "64492e02bf6ad8f0",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-10-17",
+  "name": "Ryan Schultz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.2,
+  "slug": "ryan-schultz",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

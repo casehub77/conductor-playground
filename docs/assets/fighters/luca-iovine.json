@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 459,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Luca Iovine",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": -18.9,
+      "event_name": "Bellator 291: Amosov vs. Storley 2",
+      "fight_id": "7c32b6315c116c20",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Brian Moore",
+      "opponent_elo": 1501.9,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1519.4,
+      "red_name": "Brian Moore",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Percy Herrera",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-29",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 287: Piccolotti vs. Barnaoui",
+      "fight_id": "e51df2574e1d0205",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Percy Herrera",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Luca Iovine",
+      "round": "1",
+      "time": "3:40",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-10-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-29",
+      "fight_id": "e51df2574e1d0205",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-29",
+      "fight_id": "e51df2574e1d0205",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "7c32b6315c116c20",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "7c32b6315c116c20",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-25",
+  "name": "Luca Iovine",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "luca-iovine",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

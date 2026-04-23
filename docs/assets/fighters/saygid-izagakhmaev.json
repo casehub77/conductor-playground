@@ -1,0 +1,160 @@
+{
+  "current_elo": 1538.4,
+  "divisional_rank": 84,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Saygid Izagakhmaev",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "acd3988c8840d360",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Nicolas Dalby",
+      "opponent_elo": 1550.4,
+      "outcome": "red_win",
+      "post_elo": 1538.4,
+      "pre_elo": 1556.7,
+      "red_name": "Nicolas Dalby",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Shinya Aoki",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-11-19",
+      "elo_delta": 25.8,
+      "event_name": "ONE 163: Akimoto vs. Petchtanong",
+      "fight_id": "c6191e8f4b79715a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Shinya Aoki",
+      "opponent_elo": 1654.9,
+      "outcome": "red_win",
+      "post_elo": 1563.0,
+      "pre_elo": 1537.2,
+      "red_name": "Saygid Izagakhmaev",
+      "round": "1",
+      "time": "1:26",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Zhang Lipeng",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-09-29",
+      "elo_delta": 17.7,
+      "event_name": "ONE 161: Petchmorakot vs. Tawanchai",
+      "fight_id": "2790e77f72945719",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Zhang Lipeng",
+      "opponent_elo": 1514.4,
+      "outcome": "red_win",
+      "post_elo": 1537.2,
+      "pre_elo": 1519.4,
+      "red_name": "Saygid Izagakhmaev",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "James Nakashima",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-01-14",
+      "elo_delta": 19.4,
+      "event_name": "ONE: Heavy Hitters",
+      "fight_id": "52fb46a395ade391",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (D'Arce choke)",
+      "opponent": "James Nakashima",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Saygid Izagakhmaev",
+      "round": "2",
+      "time": "2:17",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-01-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-14",
+      "fight_id": "52fb46a395ade391",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "52fb46a395ade391",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "2790e77f72945719",
+      "rating": 1537.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "2790e77f72945719",
+      "rating": 1533.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "c6191e8f4b79715a",
+      "rating": 1563.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "c6191e8f4b79715a",
+      "rating": 1556.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "acd3988c8840d360",
+      "rating": 1538.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "acd3988c8840d360",
+      "rating": 1540.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Saygid Izagakhmaev",
+  "nickname": "",
+  "overall_elo": 1540.2,
+  "peak_elo": 1563.0,
+  "slug": "saygid-izagakhmaev",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

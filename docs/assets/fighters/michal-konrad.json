@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 854,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Michal Konrád",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": -20.5,
+      "event_name": "Oktagon 50: Keita vs. Samsonidse",
+      "fight_id": "793d1eb3e4512e42",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Marco Novák",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Marco Novák",
+      "round": "2",
+      "time": "4:07",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-09",
+      "fight_id": "793d1eb3e4512e42",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "793d1eb3e4512e42",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-12-09",
+  "name": "Michal Konrád",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "michal-konrad",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

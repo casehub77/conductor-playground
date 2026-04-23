@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 382,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tomasz Macior",
+      "bout_type": "Light Heavyweight 95 kg Bout",
+      "date": "2008-03-29",
+      "elo_delta": 20.5,
+      "event_name": "KSW Elimination II",
+      "fight_id": "5432c39c9bf72712",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Tomasz Macior",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1481.6,
+      "red_name": "Lech Zamorski",
+      "round": "1",
+      "time": "Tournament Quarter-Finals 3",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Lech Zamorski",
+      "bout_type": "Light Heavyweight 95 kg Bout",
+      "date": "2008-03-29",
+      "elo_delta": -18.4,
+      "event_name": "KSW Elimination II",
+      "fight_id": "cda5f0842fb11074",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kimura)",
+      "opponent": "Michal Fijalka",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Michal Fijalka",
+      "round": "1",
+      "time": "Tournament Semi-Finals 2",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-29",
+      "fight_id": "cda5f0842fb11074",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-03-29",
+      "fight_id": "5432c39c9bf72712",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-03-29",
+      "fight_id": "cda5f0842fb11074",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-03-29",
+      "fight_id": "5432c39c9bf72712",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-03-29",
+  "name": "Lech Zamorski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.1,
+  "slug": "lech-zamorski",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1466.8,
+  "divisional_rank": 1202,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alexandre Junior",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -16.7,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "226dcb3b1639c872",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Maximus Lally",
+      "opponent_elo": 1532.5,
+      "outcome": "red_win",
+      "post_elo": 1466.8,
+      "pre_elo": 1483.5,
+      "red_name": "Maximus Lally",
+      "round": "1",
+      "time": "2:05",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Alexandre Junior",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": -18.4,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "0261f5b00c371a68",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Luke Riley",
+      "opponent_elo": 1517.9,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Luke Riley",
+      "round": "1",
+      "time": "2:05",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-21",
+      "fight_id": "0261f5b00c371a68",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "0261f5b00c371a68",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "226dcb3b1639c872",
+      "rating": 1466.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "226dcb3b1639c872",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Alexandre Junior",
+  "nickname": "",
+  "overall_elo": 1468.7,
+  "peak_elo": 1500.0,
+  "slug": "alexandre-junior",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

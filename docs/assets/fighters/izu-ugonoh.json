@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 295,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Izu Ugonoh",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2022-05-28",
+      "elo_delta": -19.5,
+      "event_name": "KSW 70: Pudzianowski vs. Materla",
+      "fight_id": "843bf2de2d0e2f54",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Marek Samociuk",
+      "opponent_elo": 1497.4,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1498.9,
+      "red_name": "Marek Samociuk",
+      "round": "1",
+      "time": "3:38",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Izu Ugonoh",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2021-04-24",
+      "elo_delta": -20.5,
+      "event_name": "KSW 60: De Fries vs. Narkun 2",
+      "fight_id": "26027089f57b2749",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Marek Samociuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Marek Samociuk",
+      "round": "2",
+      "time": "0:27",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Quentin Domingos",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2020-08-29",
+      "elo_delta": 19.4,
+      "event_name": "KSW 54: Gamrot vs. Ziółkowski",
+      "fight_id": "cab3de8adf83d339",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Leg Injury)",
+      "opponent": "Quentin Domingos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Izu Ugonoh",
+      "round": "1",
+      "time": "2:22",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2020-08-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-29",
+      "fight_id": "cab3de8adf83d339",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "cab3de8adf83d339",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-24",
+      "fight_id": "26027089f57b2749",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-04-24",
+      "fight_id": "26027089f57b2749",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-28",
+      "fight_id": "843bf2de2d0e2f54",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-05-28",
+      "fight_id": "843bf2de2d0e2f54",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-28",
+  "name": "Izu Ugonoh",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "izu-ugonoh",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

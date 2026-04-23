@@ -1,0 +1,262 @@
+{
+  "current_elo": 1610.2,
+  "divisional_rank": 18,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Rinat Fakhretdinov",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-09-06",
+      "elo_delta": 14.6,
+      "event_name": "UFC Fight Night: Imavov vs. Borralho",
+      "fight_id": "eb4d1ee31f0ac64c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Andreas Gustafsson",
+      "opponent_elo": 1506.9,
+      "outcome": "blue_win",
+      "post_elo": 1610.2,
+      "pre_elo": 1595.6,
+      "red_name": "Andreas Gustafsson",
+      "round": "1.0",
+      "time": "0:54",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Carlos Leal",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-10-26",
+      "elo_delta": 15.8,
+      "event_name": "UFC 308: Topuria vs. Holloway",
+      "fight_id": "73306a1b3a07c7af",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Carlos Leal",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1595.6,
+      "pre_elo": 1579.9,
+      "red_name": "Rinat Fakhretdinov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Nicolas Dalby",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-06-22",
+      "elo_delta": 19.3,
+      "event_name": "UFC Fight Night: Whittaker vs. Aliskerov",
+      "fight_id": "2e0afb52a78d8955",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Nicolas Dalby",
+      "opponent_elo": 1586.3,
+      "outcome": "red_win",
+      "post_elo": 1579.9,
+      "pre_elo": 1560.5,
+      "red_name": "Rinat Fakhretdinov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Elizeu Zaleski Dos Santos",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": 2.8,
+      "event_name": "UFC Fight Night: Almeida vs. Lewis",
+      "fight_id": "0d210fd369557a40",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Elizeu Zaleski Dos Santos",
+      "opponent_elo": 1612.0,
+      "outcome": "draw",
+      "post_elo": 1560.5,
+      "pre_elo": 1557.7,
+      "red_name": "Rinat Fakhretdinov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Rinat Fakhretdinov",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-07-01",
+      "elo_delta": 21.0,
+      "event_name": "UFC Fight Night: Strickland vs. Magomedov",
+      "fight_id": "8719c57646982e41",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kevin Lee",
+      "opponent_elo": 1564.8,
+      "outcome": "blue_win",
+      "post_elo": 1557.7,
+      "pre_elo": 1536.7,
+      "red_name": "Kevin Lee",
+      "round": "1.0",
+      "time": "0:55",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Rinat Fakhretdinov",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-12-17",
+      "elo_delta": 19.7,
+      "event_name": "UFC Fight Night: Cannonier vs. Strickland",
+      "fight_id": "6a72960c0330f8e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bryan Battle",
+      "opponent_elo": 1549.5,
+      "outcome": "blue_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1517.0,
+      "red_name": "Bryan Battle",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Andreas Michailidis",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-06-04",
+      "elo_delta": 17.0,
+      "event_name": "UFC Fight Night: Volkov vs. Rozenstruik",
+      "fight_id": "05df189a36e17a4e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Andreas Michailidis",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Rinat Fakhretdinov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-06-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-04",
+      "fight_id": "05df189a36e17a4e",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-06-04",
+      "fight_id": "05df189a36e17a4e",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "6a72960c0330f8e1",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "6a72960c0330f8e1",
+      "rating": 1532.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-01",
+      "fight_id": "8719c57646982e41",
+      "rating": 1557.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-07-01",
+      "fight_id": "8719c57646982e41",
+      "rating": 1551.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "0d210fd369557a40",
+      "rating": 1560.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "0d210fd369557a40",
+      "rating": 1554.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-22",
+      "fight_id": "2e0afb52a78d8955",
+      "rating": 1579.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-06-22",
+      "fight_id": "2e0afb52a78d8955",
+      "rating": 1571.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-26",
+      "fight_id": "73306a1b3a07c7af",
+      "rating": 1595.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-10-26",
+      "fight_id": "73306a1b3a07c7af",
+      "rating": 1585.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-06",
+      "fight_id": "eb4d1ee31f0ac64c",
+      "rating": 1610.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-09-06",
+      "fight_id": "eb4d1ee31f0ac64c",
+      "rating": 1598.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-06",
+  "name": "Rinat Fakhretdinov",
+  "nickname": "",
+  "overall_elo": 1598.7,
+  "peak_elo": 1610.2,
+  "slug": "rinat-fakhretdinov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

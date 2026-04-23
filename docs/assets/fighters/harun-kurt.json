@@ -1,0 +1,92 @@
+{
+  "current_elo": 1535.1,
+  "divisional_rank": 115,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nathan Haywood",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": 17.1,
+      "event_name": "Oktagon 83: Samsonidse vs. Machaev",
+      "fight_id": "723663284dc3f715",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Nathan Haywood",
+      "opponent_elo": 1500.2,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.0,
+      "red_name": "Harun Kurt",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Šimon Bruknar",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 79: Surdu vs. Kalašnik",
+      "fight_id": "e2cc5c746feacdfa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Šimon Bruknar",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Harun Kurt",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-11-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-01",
+      "fight_id": "e2cc5c746feacdfa",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "e2cc5c746feacdfa",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "723663284dc3f715",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "723663284dc3f715",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Harun Kurt",
+  "nickname": "",
+  "overall_elo": 1531.3,
+  "peak_elo": 1535.1,
+  "slug": "harun-kurt",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

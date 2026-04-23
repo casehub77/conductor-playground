@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 703,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Andrew Wilson",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": -18.4,
+      "event_name": "Legacy Fighting Alliance 129: Petersen vs. Cortes-Acosta",
+      "fight_id": "7f990001f0fcf836",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Scott Zeller",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.0,
+      "red_name": "Scott Zeller",
+      "round": "1",
+      "time": "0:22",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Andrew Wilson",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "01e3ee52227da42b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Bodie Fitzsimonds",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Bodie Fitzsimonds",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-10",
+      "fight_id": "01e3ee52227da42b",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "01e3ee52227da42b",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "7f990001f0fcf836",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "7f990001f0fcf836",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-15",
+  "name": "Andrew Wilson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "andrew-wilson",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

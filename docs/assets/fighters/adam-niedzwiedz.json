@@ -1,0 +1,160 @@
+{
+  "current_elo": 1481.6,
+  "divisional_rank": 1148,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Adrian Zieliński",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2025-07-19",
+      "elo_delta": 0.0,
+      "event_name": "XTB KSW 108: Soldaev vs. Brichta",
+      "fight_id": "9718a837db06b537",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (Overturned)",
+      "opponent": "Adrian Zieliński",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1481.6,
+      "pre_elo": 1481.6,
+      "red_name": "Adam Niedźwiedź",
+      "round": "1",
+      "time": "2:30",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Miroslav Brož",
+      "bout_type": "Catchweight 79.5 kg Bout",
+      "date": "2021-12-18",
+      "elo_delta": 1.0,
+      "event_name": "KSW 65: Khalidov vs. Soldić",
+      "fight_id": "79e98846ed1dc0d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (Majority)",
+      "opponent": "Miroslav Brož",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1481.6,
+      "pre_elo": 1480.6,
+      "red_name": "Adam Niedźwiedź",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jakub Kamieniarz",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2021-06-05",
+      "elo_delta": 18.7,
+      "event_name": "KSW 61: To Fight or Not To Fight",
+      "fight_id": "6823f70c4a225134",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Arm-Triangle Choke)",
+      "opponent": "Jakub Kamieniarz",
+      "opponent_elo": 1469.0,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1482.7,
+      "red_name": "Adam Niedźwiedź",
+      "round": "2",
+      "time": "4:34",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Adam Niedźwiedź",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2020-08-29",
+      "elo_delta": -19.4,
+      "event_name": "KSW 54: Gamrot vs. Ziółkowski",
+      "fight_id": "d5d0531efa85915c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Leg Injury)",
+      "opponent": "Kacper Koziorzębski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kacper Koziorzębski",
+      "round": "2",
+      "time": "2:27",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2020-08-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-29",
+      "fight_id": "d5d0531efa85915c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "d5d0531efa85915c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-05",
+      "fight_id": "6823f70c4a225134",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-06-05",
+      "fight_id": "6823f70c4a225134",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "79e98846ed1dc0d8",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "79e98846ed1dc0d8",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "9718a837db06b537",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "9718a837db06b537",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-19",
+  "name": "Adam Niedźwiedź",
+  "nickname": "",
+  "overall_elo": 1499.3,
+  "peak_elo": 1501.4,
+  "slug": "adam-niedzwiedz",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

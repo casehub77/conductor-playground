@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 390,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ilya Freymanov",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": -21.5,
+      "event_name": "ONE Fight Night 15: Le vs. Freymanov",
+      "fight_id": "f3d3345a90d84d7c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Thanh Le",
+      "opponent_elo": 1501.4,
+      "outcome": "red_win",
+      "post_elo": 1517.3,
+      "pre_elo": 1538.8,
+      "red_name": "Thanh Le",
+      "round": "1",
+      "time": "1:02",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Shinechagtga Zoltsetseg",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-06-10",
+      "elo_delta": 18.3,
+      "event_name": "ONE Fight Night 11: Eersel vs. Menshikov",
+      "fight_id": "c6f00b46f4df484c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Shinechagtga Zoltsetseg",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1520.5,
+      "red_name": "Ilya Freymanov",
+      "round": "1",
+      "time": "2:18",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Martin Nguyen",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": 20.5,
+      "event_name": "ONE on Prime Video 2: Xiong vs. Lee 3",
+      "fight_id": "768b5bf329ca7018",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to knees)",
+      "opponent": "Martin Nguyen",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ilya Freymanov",
+      "round": "1",
+      "time": "3:33",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-01",
+      "fight_id": "768b5bf329ca7018",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "768b5bf329ca7018",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "c6f00b46f4df484c",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "c6f00b46f4df484c",
+      "rating": 1534.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "f3d3345a90d84d7c",
+      "rating": 1517.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "f3d3345a90d84d7c",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Ilya Freymanov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.8,
+  "slug": "ilya-freymanov",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

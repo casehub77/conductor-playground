@@ -1,0 +1,126 @@
+{
+  "current_elo": 1522.7,
+  "divisional_rank": 101,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Joe Middleton",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": 21.4,
+      "event_name": "Cage Warriors 192: London",
+      "fight_id": "8d71cd819b37561b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joe Middleton",
+      "opponent_elo": 1535.7,
+      "outcome": "red_win",
+      "post_elo": 1522.7,
+      "pre_elo": 1501.4,
+      "red_name": "Naglis Kanišauskas",
+      "round": "1",
+      "time": "2:37",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Naglis Kanišauskas",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -18.1,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "38c8b11bbf145759",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (47–48, 48–47, 48–47)",
+      "opponent": "Dario Bellandi",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Dario Bellandi",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Leon Naumann",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "fcc20b9fa9f32674",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Leon Naumann",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Naglis Kanišauskas",
+      "round": "2",
+      "time": "4:50",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-07-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-25",
+      "fight_id": "fcc20b9fa9f32674",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "fcc20b9fa9f32674",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "38c8b11bbf145759",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "38c8b11bbf145759",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "8d71cd819b37561b",
+      "rating": 1522.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "8d71cd819b37561b",
+      "rating": 1520.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-12",
+  "name": "Naglis Kanišauskas",
+  "nickname": "",
+  "overall_elo": 1520.0,
+  "peak_elo": 1522.7,
+  "slug": "naglis-kanisauskas",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

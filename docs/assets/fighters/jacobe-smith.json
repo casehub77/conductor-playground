@@ -1,0 +1,126 @@
+{
+  "current_elo": 1556.1,
+  "divisional_rank": 54,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Josiah Harrell",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Strickland vs. Hernandez",
+      "fight_id": "b39c8933e0e4a05f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Josiah Harrell",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1556.1,
+      "pre_elo": 1537.7,
+      "red_name": "Jacobe Smith",
+      "round": "1.0",
+      "time": "3:01",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jacobe Smith",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": 18.9,
+      "event_name": "UFC 317: Topuria vs. Oliveira",
+      "fight_id": "27bfe6293d507cbd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Niko Price",
+      "opponent_elo": 1509.5,
+      "outcome": "blue_win",
+      "post_elo": 1537.7,
+      "pre_elo": 1518.8,
+      "red_name": "Niko Price",
+      "round": "2.0",
+      "time": "4:03",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jacobe Smith",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-01-11",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Dern vs. Ribas 2",
+      "fight_id": "e0800829f235b45e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Preston Parsons",
+      "opponent_elo": 1488.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.8,
+      "pre_elo": 1500.0,
+      "red_name": "Preston Parsons",
+      "round": "1.0",
+      "time": "1:13",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-01-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-11",
+      "fight_id": "e0800829f235b45e",
+      "rating": 1518.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "e0800829f235b45e",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "27bfe6293d507cbd",
+      "rating": 1537.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "27bfe6293d507cbd",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "b39c8933e0e4a05f",
+      "rating": 1556.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "b39c8933e0e4a05f",
+      "rating": 1550.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Jacobe Smith",
+  "nickname": "",
+  "overall_elo": 1550.1,
+  "peak_elo": 1556.1,
+  "slug": "jacobe-smith",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

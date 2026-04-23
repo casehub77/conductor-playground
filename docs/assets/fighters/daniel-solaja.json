@@ -1,0 +1,126 @@
+{
+  "current_elo": 1479.7,
+  "divisional_rank": 1171,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Solaja",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": -18.2,
+      "event_name": "Oktagon 77: Engizek vs. Humburger",
+      "fight_id": "dc551bc7788f4f63",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Marco Novák",
+      "opponent_elo": 1519.7,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1497.9,
+      "red_name": "Marco Novák",
+      "round": "3",
+      "time": "0:30",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Daniel Solaja",
+      "bout_type": "Catchweight (159 lb) Bout",
+      "date": "2025-06-14",
+      "elo_delta": -20.5,
+      "event_name": "Oktagon 72: Vémola vs. Végh 3",
+      "fight_id": "c458d9fb1aef9cb0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Jan Stanovský",
+      "opponent_elo": 1499.1,
+      "outcome": "red_win",
+      "post_elo": 1497.5,
+      "pre_elo": 1518.0,
+      "red_name": "Jan Stanovský",
+      "round": "3",
+      "time": "4:33",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Raphael Federico",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 66: Engizek vs. Oniszczuk",
+      "fight_id": "1337e3bdd8326fd2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Raphael Federico",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Solaja",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-02-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-01",
+      "fight_id": "1337e3bdd8326fd2",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "1337e3bdd8326fd2",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "c458d9fb1aef9cb0",
+      "rating": 1497.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "c458d9fb1aef9cb0",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "dc551bc7788f4f63",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "dc551bc7788f4f63",
+      "rating": 1481.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-04",
+  "name": "Daniel Solaja",
+  "nickname": "",
+  "overall_elo": 1481.6,
+  "peak_elo": 1518.0,
+  "slug": "daniel-solaja",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

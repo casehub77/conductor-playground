@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 553,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yuto Hokamura",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2023-04-01",
+      "elo_delta": 17.2,
+      "event_name": "Rizin 41 – Osaka",
+      "fight_id": "2def4ada7a995e1b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Yuto Hokamura",
+      "opponent_elo": 1484.5,
+      "outcome": "red_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Koichi Ishizuka",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-04-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-01",
+      "fight_id": "2def4ada7a995e1b",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-04-01",
+      "fight_id": "2def4ada7a995e1b",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-01",
+  "name": "Koichi Ishizuka",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.2,
+  "slug": "koichi-ishizuka",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

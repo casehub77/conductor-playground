@@ -1,0 +1,92 @@
+{
+  "current_elo": 1539.9,
+  "divisional_rank": 46,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Szymon Bajor",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-01-17",
+      "elo_delta": 19.4,
+      "event_name": "XTB KSW 114: Parnasse vs. Held",
+      "fight_id": "f442fe292d031cb2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Szymon Bajor",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1539.9,
+      "pre_elo": 1520.5,
+      "red_name": "Arkadiusz Wrzosek",
+      "round": "2",
+      "time": "0:40",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tomasz Sarara",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2022-08-20",
+      "elo_delta": 20.5,
+      "event_name": "KSW 73: Wrzosek vs. Sarara",
+      "fight_id": "e72e9e98d454b44e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knees and Punches)",
+      "opponent": "Tomasz Sarara",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Arkadiusz Wrzosek",
+      "round": "3",
+      "time": "3:55",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-20",
+      "fight_id": "e72e9e98d454b44e",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "e72e9e98d454b44e",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "f442fe292d031cb2",
+      "rating": 1539.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "f442fe292d031cb2",
+      "rating": 1535.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-17",
+  "name": "Arkadiusz Wrzosek",
+  "nickname": "",
+  "overall_elo": 1535.4,
+  "peak_elo": 1539.9,
+  "slug": "arkadiusz-wrzosek",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

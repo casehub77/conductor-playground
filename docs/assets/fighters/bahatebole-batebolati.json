@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 644,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Leininger",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-08-26",
+      "elo_delta": 18.8,
+      "event_name": "Legacy Fighting Alliance 140: Mota vs. Abuev",
+      "fight_id": "1d46add5d677a9a9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Ryan Leininger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.6,
+      "pre_elo": 1484.8,
+      "red_name": "Bahatebole Batebolati",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Bahatebole Batebolati",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": -15.2,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "727e7232d59357b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Haris Talundžić",
+      "opponent_elo": 1553.8,
+      "outcome": "red_win",
+      "post_elo": 1484.8,
+      "pre_elo": 1500.0,
+      "red_name": "Haris Talundžić",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-03",
+      "fight_id": "727e7232d59357b0",
+      "rating": 1484.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "727e7232d59357b0",
+      "rating": 1486.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-26",
+      "fight_id": "1d46add5d677a9a9",
+      "rating": 1503.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-08-26",
+      "fight_id": "1d46add5d677a9a9",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-26",
+  "name": "Bahatebole Batebolati",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.6,
+  "slug": "bahatebole-batebolati",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

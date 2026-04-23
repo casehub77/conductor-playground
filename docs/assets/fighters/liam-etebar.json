@@ -1,0 +1,65 @@
+{
+  "current_elo": 1475.8,
+  "divisional_rank": 1192,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Liam Etebar",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": -20.7,
+      "event_name": "Oktagon 56: Aby vs. Creasey",
+      "fight_id": "2427ecc82d4e70a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punched)",
+      "opponent": "Andrej Kalašnik",
+      "opponent_elo": 1461.5,
+      "outcome": "red_win",
+      "post_elo": 1463.3,
+      "pre_elo": 1484.0,
+      "red_name": "Andrej Kalašnik",
+      "round": "1",
+      "time": "0:43",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-05-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-20",
+      "fight_id": "cdc390deffbaa2b8",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "2427ecc82d4e70a2",
+      "rating": 1463.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "2427ecc82d4e70a2",
+      "rating": 1465.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-04-20",
+  "name": "Liam Etebar",
+  "nickname": "",
+  "overall_elo": 1478.3,
+  "peak_elo": 1500.0,
+  "slug": "liam-etebar",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

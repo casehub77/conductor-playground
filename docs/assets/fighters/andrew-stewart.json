@@ -1,0 +1,92 @@
+{
+  "current_elo": 1534.5,
+  "divisional_rank": 81,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Christopher Ewert",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-03-13",
+      "elo_delta": 18.5,
+      "event_name": "LFA 228: Natividad vs. Garcia",
+      "fight_id": "a6b808175257b4ef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Christopher Ewert",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Andrew Stewart",
+      "round": "1",
+      "time": "0:58",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Johnathan Waid",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": 18.0,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "41c6e8c3c2688bfd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Johnathan Waid",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Andrew Stewart",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "41c6e8c3c2688bfd",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "41c6e8c3c2688bfd",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "a6b808175257b4ef",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "a6b808175257b4ef",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Andrew Stewart",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1534.5,
+  "slug": "andrew-stewart",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

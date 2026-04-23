@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.9,
+  "divisional_rank": 282,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Elvis Batista da Silva",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-12-28",
+      "elo_delta": -17.2,
+      "event_name": "Oktagon 81: Fleury vs. Buday",
+      "fight_id": "7e06f423d6327c20",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–25, 30–26)",
+      "opponent": "Jonas Mågård",
+      "opponent_elo": 1532.7,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1518.2,
+      "red_name": "Jonas Mågård",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Roman Paulus",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 18.2,
+      "event_name": "Oktagon 68: Todev vs. Fleury",
+      "fight_id": "0eb2ae4d53d507f8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Roman Paulus",
+      "opponent_elo": 1503.1,
+      "outcome": "red_win",
+      "post_elo": 1518.2,
+      "pre_elo": 1500.0,
+      "red_name": "Elvis Batista da Silva",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-03-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-08",
+      "fight_id": "0eb2ae4d53d507f8",
+      "rating": 1518.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "0eb2ae4d53d507f8",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "7e06f423d6327c20",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "7e06f423d6327c20",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-28",
+  "name": "Elvis Batista da Silva",
+  "nickname": "",
+  "overall_elo": 1501.4,
+  "peak_elo": 1518.2,
+  "slug": "elvis-batista-da-silva",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

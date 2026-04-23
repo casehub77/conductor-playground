@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 174,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ron Sparks",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-10-29",
+      "elo_delta": -20.6,
+      "event_name": "Bellator 56",
+      "fight_id": "1d07b2dfb89a3369",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Eric Prindle",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1557.3,
+      "red_name": "Eric Prindle",
+      "round": "1",
+      "time": "0:40",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mark Holata",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-10-01",
+      "elo_delta": 19.6,
+      "event_name": "Bellator 52",
+      "fight_id": "ff35a9de9649c3b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Mark Holata",
+      "opponent_elo": 1539.8,
+      "outcome": "red_win",
+      "post_elo": 1557.3,
+      "pre_elo": 1537.8,
+      "red_name": "Ron Sparks",
+      "round": "1",
+      "time": "1:24",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Vince Lucero",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-05-07",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 43",
+      "fight_id": "c125b538da0a37c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (keylock)",
+      "opponent": "Vince Lucero",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Ron Sparks",
+      "round": "1",
+      "time": "2:18",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Greg Maynard",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-09-23",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 30",
+      "fight_id": "b9f5f715e396fb68",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Greg Maynard",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ron Sparks",
+      "round": "1",
+      "time": "0:50",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-09-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-23",
+      "fight_id": "b9f5f715e396fb68",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-09-23",
+      "fight_id": "b9f5f715e396fb68",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-05-07",
+      "fight_id": "c125b538da0a37c6",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-05-07",
+      "fight_id": "c125b538da0a37c6",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "ff35a9de9649c3b3",
+      "rating": 1557.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "ff35a9de9649c3b3",
+      "rating": 1551.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "1d07b2dfb89a3369",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "1d07b2dfb89a3369",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-29",
+  "name": "Ron Sparks",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1557.3,
+  "slug": "ron-sparks",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 434,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Robert Gidron",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-08-19",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 139: Assenza vs. Melo",
+      "fight_id": "0d2a194ab15c09d2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Robert Gidron",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Liam Anderson",
+      "round": "1",
+      "time": "4:48",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-08-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-19",
+      "fight_id": "0d2a194ab15c09d2",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "0d2a194ab15c09d2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-19",
+  "name": "Liam Anderson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "liam-anderson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

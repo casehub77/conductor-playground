@@ -1,0 +1,92 @@
+{
+  "current_elo": 1479.5,
+  "divisional_rank": 645,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alibi Idiris",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Strickland vs. Hernandez",
+      "fight_id": "533432a2b12dffe4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Ode Osbourne",
+      "opponent_elo": 1485.3,
+      "outcome": "no_contest",
+      "post_elo": 1479.5,
+      "pre_elo": 1479.5,
+      "red_name": "Ode Osbourne",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Joseph Morales",
+      "bout_type": "Ultimate Fighter 33 Flyweight Tournament Title Bout",
+      "date": "2025-08-16",
+      "elo_delta": -20.5,
+      "event_name": "UFC 319: Du Plessis vs. Chimaev",
+      "fight_id": "163ceb770b08447a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Joseph Morales",
+      "opponent_elo": 1481.4,
+      "outcome": "blue_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Alibi Idiris",
+      "round": "2.0",
+      "time": "3:04",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-08-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-16",
+      "fight_id": "163ceb770b08447a",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-08-16",
+      "fight_id": "163ceb770b08447a",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "533432a2b12dffe4",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "533432a2b12dffe4",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Alibi Idiris",
+  "nickname": "",
+  "overall_elo": 1481.9,
+  "peak_elo": 1500.0,
+  "slug": "alibi-idiris",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

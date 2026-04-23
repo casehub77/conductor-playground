@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 828,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "John Clarke",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-01-30",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Miami",
+      "fight_id": "2d62be737a329dab",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joe Ray",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Joe Ray",
+      "round": "1",
+      "time": "3:14",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-30",
+      "fight_id": "2d62be737a329dab",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-01-30",
+      "fight_id": "2d62be737a329dab",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-01-30",
+  "name": "John Clarke",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "john-clarke",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

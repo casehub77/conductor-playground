@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 101,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Angela Magana",
+      "bout_type": "Strawweight 53 kg Bout",
+      "date": "2018-08-12",
+      "elo_delta": -18.4,
+      "event_name": "Rizin 12 - Nagoya",
+      "fight_id": "afd3fa62df7e43a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission ( Von Flue choke )",
+      "opponent": "Kanako Murata",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kanako Murata",
+      "round": "2",
+      "time": "8:52",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Angela Magana",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2017-12-02",
+      "elo_delta": -18.6,
+      "event_name": "UFC 218: Holloway vs. Aldo 2",
+      "fight_id": "9941122ea1cd7ee8",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Amanda Cooper",
+      "opponent_elo": 1479.3,
+      "outcome": "red_win",
+      "post_elo": 1445.0,
+      "pre_elo": 1463.6,
+      "red_name": "Amanda Cooper",
+      "round": "2.0",
+      "time": "4:34",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Michelle Waterson-Gomez",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2015-07-12",
+      "elo_delta": -18.4,
+      "event_name": "The Ultimate Fighter: American Top Team vs. Blackzilians Finale",
+      "fight_id": "72a918f23b237ef7",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Michelle Waterson-Gomez",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.0,
+      "red_name": "Angela Magana",
+      "round": "3.0",
+      "time": "2:38",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Angela Magana",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2014-12-12",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: A Champion Will Be Crowned Finale",
+      "fight_id": "953ccd580cc32330",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tecia Pennington",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Tecia Pennington",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2014-12-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-12-12",
+      "fight_id": "953ccd580cc32330",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2014-12-12",
+      "fight_id": "953ccd580cc32330",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-07-12",
+      "fight_id": "72a918f23b237ef7",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2015-07-12",
+      "fight_id": "72a918f23b237ef7",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2017-12-02",
+      "fight_id": "9941122ea1cd7ee8",
+      "rating": 1445.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2017-12-02",
+      "fight_id": "9941122ea1cd7ee8",
+      "rating": 1450.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-08-12",
+      "fight_id": "afd3fa62df7e43a4",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2018-08-12",
+      "fight_id": "afd3fa62df7e43a4",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-08-12",
+  "name": "Angela Magana",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "angela-magana",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

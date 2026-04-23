@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 533,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Anthony Gonzales",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-19",
+      "elo_delta": -21.4,
+      "event_name": "WEC 15: Judgment Day",
+      "fight_id": "a573526ba2915948",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Steve Ramirez",
+      "opponent_elo": 1483.6,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1519.4,
+      "red_name": "Steve Ramirez",
+      "round": "1",
+      "time": "4:38",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Pedro Tome",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-01-16",
+      "elo_delta": 19.4,
+      "event_name": "WEC 9: Cold Blooded",
+      "fight_id": "17f113351e12732e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Pedro Tome",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Anthony Gonzales",
+      "round": "1",
+      "time": "2:14",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-01-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-01-16",
+      "fight_id": "17f113351e12732e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-01-16",
+      "fight_id": "17f113351e12732e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-05-19",
+      "fight_id": "a573526ba2915948",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-19",
+      "fight_id": "a573526ba2915948",
+      "rating": 1498.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-05-19",
+  "name": "Anthony Gonzales",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "anthony-gonzales",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

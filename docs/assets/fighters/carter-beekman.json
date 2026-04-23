@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.0,
+  "divisional_rank": 1017,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Carter Beekman",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-06",
+      "elo_delta": -21.5,
+      "event_name": "LFA 226: Allakhverdiev vs. Kropschot",
+      "fight_id": "61c63f7b2fc497fd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Alexander Schenk",
+      "opponent_elo": 1483.3,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1519.4,
+      "red_name": "Alexander Schenk",
+      "round": "2",
+      "time": "4:50",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Adrian Thomas",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": 19.4,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "187c5b5b8cbe79d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (ninja choke)",
+      "opponent": "Adrian Thomas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Carter Beekman",
+      "round": "2",
+      "time": "0:37",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "187c5b5b8cbe79d8",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "187c5b5b8cbe79d8",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "61c63f7b2fc497fd",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "61c63f7b2fc497fd",
+      "rating": 1498.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-06",
+  "name": "Carter Beekman",
+  "nickname": "",
+  "overall_elo": 1498.3,
+  "peak_elo": 1519.4,
+  "slug": "carter-beekman",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

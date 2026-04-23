@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 783,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matt Hasland",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-12-09",
+      "elo_delta": -20.4,
+      "event_name": "CWFC: Enter The Rough House",
+      "fight_id": "b630173e3015ea8d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Clifford Hall",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Clifford Hall",
+      "round": "1",
+      "time": "2:01",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Chris Taylor",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-09-16",
+      "elo_delta": 18.0,
+      "event_name": "CWFC: Showdown",
+      "fight_id": "b20f9622fa1b2e01",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Chris Taylor",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Matt Hasland",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-09-16",
+      "fight_id": "b20f9622fa1b2e01",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-09-16",
+      "fight_id": "b20f9622fa1b2e01",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-09",
+      "fight_id": "b630173e3015ea8d",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-12-09",
+      "fight_id": "b630173e3015ea8d",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-12-09",
+  "name": "Matt Hasland",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "matt-hasland",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

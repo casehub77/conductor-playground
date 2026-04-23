@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 200,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "David Heath",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-02-02",
+      "elo_delta": -19.4,
+      "event_name": "UFC 81: Breaking Point",
+      "fight_id": "d1cfbb40d6e1d783",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tim Boetsch",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1479.1,
+      "pre_elo": 1498.5,
+      "red_name": "Tim Boetsch",
+      "round": "1.0",
+      "time": "4:52",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "David Heath",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-08-25",
+      "elo_delta": -19.0,
+      "event_name": "UFC 74: Respect",
+      "fight_id": "50be039aeedda3ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Renato Sobral",
+      "opponent_elo": 1525.1,
+      "outcome": "red_win",
+      "post_elo": 1498.5,
+      "pre_elo": 1517.5,
+      "red_name": "Renato Sobral",
+      "round": "2.0",
+      "time": "3:30",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "David Heath",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-04-21",
+      "elo_delta": -19.0,
+      "event_name": "UFC 70: Nations Collide",
+      "fight_id": "5cedb9646db23432",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lyoto Machida",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1536.4,
+      "red_name": "Lyoto Machida",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Victor Valimaki",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-12-13",
+      "elo_delta": 17.0,
+      "event_name": "UFC Fight Night: Sanchez vs Riggs",
+      "fight_id": "e8ea69a6ad474774",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Victor Valimaki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "David Heath",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Cory Walmsley",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-08-26",
+      "elo_delta": 19.4,
+      "event_name": "UFC 62: Liddell vs Sobral",
+      "fight_id": "7e9dddea09682108",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Cory Walmsley",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "David Heath",
+      "round": "1.0",
+      "time": "2:32",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-08-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-08-26",
+      "fight_id": "7e9dddea09682108",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-08-26",
+      "fight_id": "7e9dddea09682108",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-13",
+      "fight_id": "e8ea69a6ad474774",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-12-13",
+      "fight_id": "e8ea69a6ad474774",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-04-21",
+      "fight_id": "5cedb9646db23432",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-04-21",
+      "fight_id": "5cedb9646db23432",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-08-25",
+      "fight_id": "50be039aeedda3ce",
+      "rating": 1498.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-08-25",
+      "fight_id": "50be039aeedda3ce",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-02-02",
+      "fight_id": "d1cfbb40d6e1d783",
+      "rating": 1479.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-02-02",
+      "fight_id": "d1cfbb40d6e1d783",
+      "rating": 1481.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-02-02",
+  "name": "David Heath",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "david-heath",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.6,
+  "divisional_rank": 1227,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tun Min Aung",
+      "bout_type": "Catchweight (158 lbs) Muay Thai Bout",
+      "date": "2024-11-22",
+      "elo_delta": -18.4,
+      "event_name": "ONE Friday Fights 88: Pompet vs. Ortikov",
+      "fight_id": "0a5a81095b10b471",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Abdelali Zahidi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.0,
+      "red_name": "Abdelali Zahidi",
+      "round": "2",
+      "time": "2:40",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Tun Min Aung",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2024-05-31",
+      "elo_delta": -18.0,
+      "event_name": "ONE Friday Fights 65: Jaosuayai vs. Puengluang",
+      "fight_id": "428e9549e83a0809",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Dmitriy Kireev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dmitriy Kireev",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-31",
+      "fight_id": "428e9549e83a0809",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-05-31",
+      "fight_id": "428e9549e83a0809",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "0a5a81095b10b471",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "0a5a81095b10b471",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-22",
+  "name": "Tun Min Aung",
+  "nickname": "",
+  "overall_elo": 1467.5,
+  "peak_elo": 1500.0,
+  "slug": "tun-min-aung",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

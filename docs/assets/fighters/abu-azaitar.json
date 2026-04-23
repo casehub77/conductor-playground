@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 302,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Sedriques Dumas",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-10-21",
+      "elo_delta": -18.8,
+      "event_name": "UFC 294: Makhachev vs. Volkanovski 2",
+      "fight_id": "61ea511ed1b55417",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sedriques Dumas",
+      "opponent_elo": 1498.3,
+      "outcome": "blue_win",
+      "post_elo": 1494.5,
+      "pre_elo": 1513.3,
+      "red_name": "Abu Azaitar",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Abu Azaitar",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-03-27",
+      "elo_delta": -24.2,
+      "event_name": "UFC 260: Miocic vs. Ngannou",
+      "fight_id": "ce97f7eb610ae9e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marc-Andre Barriault",
+      "opponent_elo": 1450.3,
+      "outcome": "red_win",
+      "post_elo": 1513.3,
+      "pre_elo": 1537.5,
+      "red_name": "Marc-Andre Barriault",
+      "round": "3.0",
+      "time": "4:56",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Abu Azaitar",
+      "bout_type": "Middleweight Bout",
+      "date": "2018-07-22",
+      "elo_delta": 17.3,
+      "event_name": "UFC Fight Night: Shogun vs. Smith",
+      "fight_id": "cc42bae09e715fb1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Vitor Miranda",
+      "opponent_elo": 1506.1,
+      "outcome": "blue_win",
+      "post_elo": 1537.5,
+      "pre_elo": 1520.2,
+      "red_name": "Vitor Miranda",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Abu Azaitar",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2014-05-17",
+      "elo_delta": -0.4,
+      "event_name": "KSW 27: Cage Time",
+      "fight_id": "5e4570a5864438b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Piotr Strus",
+      "opponent_elo": 1513.4,
+      "outcome": "draw",
+      "post_elo": 1520.2,
+      "pre_elo": 1520.6,
+      "red_name": "Piotr Strus",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Krzysztof Kulak",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2013-12-07",
+      "elo_delta": 20.6,
+      "event_name": "KSW 25: Khalidov vs. Sakurai 2",
+      "fight_id": "123f580c63281546",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Krzysztof Kulak",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1520.6,
+      "pre_elo": 1500.0,
+      "red_name": "Abu Azaitar",
+      "round": "1",
+      "time": "2:20",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2013-12-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-12-07",
+      "fight_id": "123f580c63281546",
+      "rating": 1520.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-12-07",
+      "fight_id": "123f580c63281546",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-05-17",
+      "fight_id": "5e4570a5864438b7",
+      "rating": 1520.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-05-17",
+      "fight_id": "5e4570a5864438b7",
+      "rating": 1517.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-07-22",
+      "fight_id": "cc42bae09e715fb1",
+      "rating": 1537.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2018-07-22",
+      "fight_id": "cc42bae09e715fb1",
+      "rating": 1533.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-03-27",
+      "fight_id": "ce97f7eb610ae9e8",
+      "rating": 1513.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-03-27",
+      "fight_id": "ce97f7eb610ae9e8",
+      "rating": 1512.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-21",
+      "fight_id": "61ea511ed1b55417",
+      "rating": 1494.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-10-21",
+      "fight_id": "61ea511ed1b55417",
+      "rating": 1495.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-21",
+  "name": "Abu Azaitar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.5,
+  "slug": "abu-azaitar",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 90,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lisa Ward",
+      "bout_type": "Women's (115 lb) Bout",
+      "date": "2010-09-30",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 31",
+      "fight_id": "10bc21b4e3be630c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Megumi Fujii",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1536.4,
+      "red_name": "Megumi Fujii",
+      "round": "1",
+      "time": "1:39",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Aisling Daly",
+      "bout_type": "Women's (115 lb) Bout",
+      "date": "2010-08-26",
+      "elo_delta": 17.0,
+      "event_name": "Bellator 26",
+      "fight_id": "7d8be12be09cf3c1",
+      "gender": "women",
+      "is_title": false,
+      "method": "unanimous decision (30–27, 30–27, 30–27)",
+      "opponent": "Aisling Daly",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Lisa Ward",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Stephanie Frausto",
+      "bout_type": "Women's 115-pound Bout",
+      "date": "2010-06-17",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 22",
+      "fight_id": "ce9a5e38ca840b5d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Stephanie Frausto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lisa Ward",
+      "round": "1",
+      "time": "2:01",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2010-06-17",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2010-06-17",
+      "fight_id": "ce9a5e38ca840b5d",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2010-06-17",
+      "fight_id": "ce9a5e38ca840b5d",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2010-08-26",
+      "fight_id": "7d8be12be09cf3c1",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2010-08-26",
+      "fight_id": "7d8be12be09cf3c1",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2010-09-30",
+      "fight_id": "10bc21b4e3be630c",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2010-09-30",
+      "fight_id": "10bc21b4e3be630c",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-30",
+  "name": "Lisa Ward",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "lisa-ward",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

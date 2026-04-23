@@ -1,0 +1,126 @@
+{
+  "current_elo": 1451.9,
+  "divisional_rank": 1523,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jakub Tichota",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-12-29",
+      "elo_delta": -16.4,
+      "event_name": "Oktagon 65: Paradeiser vs. Keita 2",
+      "fight_id": "ab7ea68db1126506",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Ozan Aslaner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1451.9,
+      "pre_elo": 1468.3,
+      "red_name": "Ozan Aslaner",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jakub Tichota",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": -15.3,
+      "event_name": "Oktagon 61: Paradeiser vs. Duque",
+      "fight_id": "670459053e5840ad",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "George Staines",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1468.3,
+      "pre_elo": 1483.6,
+      "red_name": "George Staines",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jakub Tichota",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-04-29",
+      "elo_delta": -18.4,
+      "event_name": "Oktagon 42: Keita vs. Tichota",
+      "fight_id": "0ea98218e70e6dec",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Losene Keita",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Losene Keita",
+      "round": "4",
+      "time": "3:53",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "0ea98218e70e6dec",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "0ea98218e70e6dec",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "670459053e5840ad",
+      "rating": 1468.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "670459053e5840ad",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-29",
+      "fight_id": "ab7ea68db1126506",
+      "rating": 1451.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-12-29",
+      "fight_id": "ab7ea68db1126506",
+      "rating": 1455.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-29",
+  "name": "Jakub Tichota",
+  "nickname": "",
+  "overall_elo": 1455.2,
+  "peak_elo": 1500.0,
+  "slug": "jakub-tichota",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

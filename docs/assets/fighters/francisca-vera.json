@@ -1,0 +1,201 @@
+{
+  "current_elo": 1492.2,
+  "divisional_rank": 126,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Vero Nika",
+      "bout_type": "Women's Atomweight Muay Thai Bout",
+      "date": "2025-02-14",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 97: Kongsuk vs. Lamnamoonlek",
+      "fight_id": "7e8e6cca820c0b1f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Vero Nika",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1492.2,
+      "pre_elo": 1472.8,
+      "red_name": "Francisca Vera",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Francisca Vera",
+      "bout_type": "Women's Atomweight Muay Thai Bout",
+      "date": "2024-08-16",
+      "elo_delta": -16.4,
+      "event_name": "ONE Friday Fights 75: Kompetch vs. El Halabi",
+      "fight_id": "13dc1dd32a598799",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Shir Cohen",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1472.8,
+      "pre_elo": 1489.2,
+      "red_name": "Shir Cohen",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Celest Hansen",
+      "bout_type": "Women's Atomweight Muay Thai Bout",
+      "date": "2024-03-08",
+      "elo_delta": 19.7,
+      "event_name": "ONE Friday Fights 54: Ortikov vs. Watcharapon",
+      "fight_id": "d05624a4e11c2803",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Celest Hansen",
+      "opponent_elo": 1501.8,
+      "outcome": "red_win",
+      "post_elo": 1489.2,
+      "pre_elo": 1469.6,
+      "red_name": "Francisca Vera",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Francisca Vera",
+      "bout_type": "Women's Catchweight (112 lbs) Muay Thai Bout",
+      "date": "2023-09-01",
+      "elo_delta": -16.0,
+      "event_name": "ONE Friday Fights 31: Kongthoranee vs. Kabutov",
+      "fight_id": "4851d295144df23f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (majority)",
+      "opponent": "Nongam Fairtex",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1466.0,
+      "pre_elo": 1482.0,
+      "red_name": "Nongam Fairtex",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Francisca Vera",
+      "bout_type": "W.Catchweight (112 lbs) Muay Thai Bout",
+      "date": "2023-04-28",
+      "elo_delta": -18.0,
+      "event_name": "ONE Friday Fights 14: Gingsanglek vs. Chorfah",
+      "fight_id": "8e2fc118b91c3ef5",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Lisa Brierley",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Lisa Brierley",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "6abdc1c28c6ecd5e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-28",
+      "fight_id": "8e2fc118b91c3ef5",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Catch Weight"
+    },
+    {
+      "date": "2023-04-28",
+      "fight_id": "8e2fc118b91c3ef5",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-09-01",
+      "fight_id": "4851d295144df23f",
+      "rating": 1466.0,
+      "scope": "division",
+      "system": "women:Catch Weight"
+    },
+    {
+      "date": "2023-09-01",
+      "fight_id": "4851d295144df23f",
+      "rating": 1469.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-03-08",
+      "fight_id": "d05624a4e11c2803",
+      "rating": 1489.2,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2024-03-08",
+      "fight_id": "d05624a4e11c2803",
+      "rating": 1487.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-08-16",
+      "fight_id": "13dc1dd32a598799",
+      "rating": 1472.8,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2024-08-16",
+      "fight_id": "13dc1dd32a598799",
+      "rating": 1472.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-02-14",
+      "fight_id": "7e8e6cca820c0b1f",
+      "rating": 1492.2,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2025-02-14",
+      "fight_id": "7e8e6cca820c0b1f",
+      "rating": 1489.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": true,
+  "last_fight_date": "2025-02-14",
+  "name": "Francisca Vera",
+  "nickname": "",
+  "overall_elo": 1489.7,
+  "peak_elo": 1517.3,
+  "slug": "francisca-vera",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

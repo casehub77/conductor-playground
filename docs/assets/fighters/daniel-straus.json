@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 393,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Straus",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-05-21",
+      "elo_delta": -16.8,
+      "event_name": "Bellator 45",
+      "fight_id": "d709e91d31979aa5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29–28, 30–27, 30–27)",
+      "opponent": "Patricio Freire",
+      "opponent_elo": 1560.8,
+      "outcome": "red_win",
+      "post_elo": 1521.7,
+      "pre_elo": 1538.5,
+      "red_name": "Patricio Freire",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kenny Foster",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-04-16",
+      "elo_delta": 20.5,
+      "event_name": "Bellator 41",
+      "fight_id": "018b6e837960aca4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Kenny Foster",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1538.5,
+      "pre_elo": 1518.0,
+      "red_name": "Daniel Straus",
+      "round": "3",
+      "time": "3:48",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Nazareno Malegarie",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-03-19",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 37",
+      "fight_id": "4f5033808e2549a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29–28, 29–28, 29–28)",
+      "opponent": "Nazareno Malegarie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Straus",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-03-19",
+      "fight_id": "4f5033808e2549a0",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "4f5033808e2549a0",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-16",
+      "fight_id": "018b6e837960aca4",
+      "rating": 1538.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-04-16",
+      "fight_id": "018b6e837960aca4",
+      "rating": 1534.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-05-21",
+      "fight_id": "d709e91d31979aa5",
+      "rating": 1521.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-05-21",
+      "fight_id": "d709e91d31979aa5",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-05-21",
+  "name": "Daniel Straus",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.5,
+  "slug": "daniel-straus",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

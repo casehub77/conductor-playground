@@ -1,0 +1,160 @@
+{
+  "current_elo": 1492.5,
+  "divisional_rank": 642,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Charles Joyner",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-03-21",
+      "elo_delta": 22.9,
+      "event_name": "Cage Warriors 186: London",
+      "fight_id": "f2dae6ca4e9dcaa9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Charles Joyner",
+      "opponent_elo": 1532.8,
+      "outcome": "red_win",
+      "post_elo": 1492.5,
+      "pre_elo": 1469.5,
+      "red_name": "Yannick Bahati",
+      "round": "1",
+      "time": "0:04",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Charles Joyner",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": 3.6,
+      "event_name": "Cage Warriors 181: Newcastle",
+      "fight_id": "8935cf13903f1dbe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Draw (split) (30–28, 28–29, 29–29)",
+      "opponent": "Charles Joyner",
+      "opponent_elo": 1536.4,
+      "outcome": "draw",
+      "post_elo": 1469.5,
+      "pre_elo": 1465.9,
+      "red_name": "Yannick Bahati",
+      "round": "3",
+      "time": "2:54",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Yannick Bahati",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": -18.6,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "2253e4346d660cf1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbow and punches)",
+      "opponent": "Luke Trainer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1484.5,
+      "red_name": "Luke Trainer",
+      "round": "2",
+      "time": "2:50",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Yannick Bahati",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2018-04-14",
+      "elo_delta": -17.2,
+      "event_name": "KSW 43: Soldić vs. Du Plessis",
+      "fight_id": "ec2408e16a3d34d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Damian Janikowski",
+      "opponent_elo": 1539.7,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Damian Janikowski",
+      "round": "1",
+      "time": "0:18",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2018-04-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-04-14",
+      "fight_id": "ec2408e16a3d34d3",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "ec2408e16a3d34d3",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "2253e4346d660cf1",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "2253e4346d660cf1",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "8935cf13903f1dbe",
+      "rating": 1469.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "8935cf13903f1dbe",
+      "rating": 1470.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "f2dae6ca4e9dcaa9",
+      "rating": 1492.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "f2dae6ca4e9dcaa9",
+      "rating": 1491.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-21",
+  "name": "Yannick Bahati",
+  "nickname": "",
+  "overall_elo": 1491.1,
+  "peak_elo": 1500.0,
+  "slug": "yannick-bahati",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

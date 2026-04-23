@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.4,
+  "divisional_rank": 92,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tyler Peterick",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-14",
+      "elo_delta": 18.4,
+      "event_name": "LFA 222: Pires vs. Belakh",
+      "fight_id": "027463b64978657b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Tyler Peterick",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Melvin Jovel",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gates Cook",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": 18.0,
+      "event_name": "LFA 204: Cunha vs. Freeman",
+      "fight_id": "7b6878b78aede32a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–27)",
+      "opponent": "Gates Cook",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Melvin Jovel",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-03-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-22",
+      "fight_id": "7b6878b78aede32a",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "7b6878b78aede32a",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "027463b64978657b",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "027463b64978657b",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-14",
+  "name": "Melvin Jovel",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1536.4,
+  "slug": "melvin-jovel",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

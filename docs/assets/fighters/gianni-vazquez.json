@@ -1,0 +1,58 @@
+{
+  "current_elo": 1482.8,
+  "divisional_rank": 1006,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gianni Vazquez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-02-07",
+      "elo_delta": -17.2,
+      "event_name": "UFC Fight Night: Bautista vs. Oliveira",
+      "fight_id": "3ae01508bd889a08",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Javid Basharat",
+      "opponent_elo": 1515.3,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Javid Basharat",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2026-02-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-02-07",
+      "fight_id": "3ae01508bd889a08",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "3ae01508bd889a08",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-07",
+  "name": "Gianni Vazquez",
+  "nickname": "",
+  "overall_elo": 1484.7,
+  "peak_elo": 1500.0,
+  "slug": "gianni-vazquez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

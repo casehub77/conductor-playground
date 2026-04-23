@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 114,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Magdaléna Šormová",
+      "bout_type": "Catchweight (121 lb) Bout",
+      "date": "2023-12-29",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 51: Tipsport Gamechanger Final",
+      "fight_id": "90f3af874d8af4c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Mallory Martin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mallory Martin",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Magdaléna Šormová",
+      "bout_type": "W.Strawweight 52 kg Bout",
+      "date": "2021-12-18",
+      "elo_delta": -18.0,
+      "event_name": "KSW 65: Khalidov vs. Soldić",
+      "fight_id": "95197af218f00553",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Anita Bekus",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Anita Bekus",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-12-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-18",
+      "fight_id": "95197af218f00553",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "95197af218f00553",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-12-29",
+      "fight_id": "90f3af874d8af4c1",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2023-12-29",
+      "fight_id": "90f3af874d8af4c1",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-12-29",
+  "name": "Magdaléna Šormová",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "magdalena-sormova",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

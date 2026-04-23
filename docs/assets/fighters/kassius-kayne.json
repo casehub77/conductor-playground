@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 848,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kassius Kayne",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-06-24",
+      "elo_delta": -17.6,
+      "event_name": "Bellator 282: Mousasi vs. Eblen",
+      "fight_id": "2af181819af55947",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Brennan Ward",
+      "opponent_elo": 1533.7,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.0,
+      "red_name": "Brennan Ward",
+      "round": "2",
+      "time": "1:11",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-24",
+      "fight_id": "2af181819af55947",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "2af181819af55947",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-24",
+  "name": "Kassius Kayne",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kassius-kayne",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

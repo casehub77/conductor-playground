@@ -1,0 +1,92 @@
+{
+  "current_elo": 1519.5,
+  "divisional_rank": 126,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ty Miller",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-01-24",
+      "elo_delta": 19.5,
+      "event_name": "UFC 324: Gaethje vs. Pimblett",
+      "fight_id": "0ff1e159a894aa9b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Adam Fugitt",
+      "opponent_elo": 1500.4,
+      "outcome": "blue_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Adam Fugitt",
+      "round": "1.0",
+      "time": "4:59",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Arthur Barros",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-12-06",
+      "elo_delta": 0.0,
+      "event_name": "LFA 198: Miranda vs. Oyarzún",
+      "fight_id": "b6beea953c1b392c",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental eye poke)",
+      "opponent": "Arthur Barros",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ty Miller",
+      "round": "1",
+      "time": "3:30",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-12-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-06",
+      "fight_id": "b6beea953c1b392c",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-12-06",
+      "fight_id": "b6beea953c1b392c",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "0ff1e159a894aa9b",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "0ff1e159a894aa9b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-24",
+  "name": "Ty Miller",
+  "nickname": "",
+  "overall_elo": 1517.3,
+  "peak_elo": 1519.5,
+  "slug": "ty-miller",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1497.4,
+  "divisional_rank": 1307,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matheus Camilo",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-15",
+      "elo_delta": 17.5,
+      "event_name": "UFC 322: Della Maddalena vs. Makhachev",
+      "fight_id": "26ba138078c5ffae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Viacheslav Borshchev",
+      "opponent_elo": 1470.7,
+      "outcome": "blue_win",
+      "post_elo": 1497.4,
+      "pre_elo": 1479.9,
+      "red_name": "Viacheslav Borshchev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Matheus Camilo",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": -20.1,
+      "event_name": "UFC Fight Night: Burns vs. Morales",
+      "fight_id": "c57007d60fc61a11",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gabe Green",
+      "opponent_elo": 1487.4,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1500.0,
+      "red_name": "Gabe Green",
+      "round": "2.0",
+      "time": "3:43",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-05-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-17",
+      "fight_id": "c57007d60fc61a11",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "c57007d60fc61a11",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "26ba138078c5ffae",
+      "rating": 1497.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "26ba138078c5ffae",
+      "rating": 1497.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-15",
+  "name": "Matheus Camilo",
+  "nickname": "",
+  "overall_elo": 1497.7,
+  "peak_elo": 1500.0,
+  "slug": "matheus-camilo",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

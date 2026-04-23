@@ -1,0 +1,126 @@
+{
+  "current_elo": 1450.1,
+  "divisional_rank": 1130,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Gerasimos Sioutis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -16.5,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "2c4d28ddb4ca71ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Damiano Scogna",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1450.1,
+      "pre_elo": 1466.6,
+      "red_name": "Damiano Scogna",
+      "round": "3",
+      "time": "0:29",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Gerasimos Sioutis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -16.3,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "0df1fd6c2a9753d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Michelangelo Lupoli",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1466.6,
+      "pre_elo": 1482.9,
+      "red_name": "Michelangelo Lupoli",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Gerasimos Sioutis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -17.1,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "49e6d7194657f054",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Nicolas Leblond",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Nicolas Leblond",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-07-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-20",
+      "fight_id": "49e6d7194657f054",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "49e6d7194657f054",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "0df1fd6c2a9753d4",
+      "rating": 1466.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "0df1fd6c2a9753d4",
+      "rating": 1470.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "2c4d28ddb4ca71ec",
+      "rating": 1450.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "2c4d28ddb4ca71ec",
+      "rating": 1455.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-08",
+  "name": "Gerasimos Sioutis",
+  "nickname": "",
+  "overall_elo": 1455.3,
+  "peak_elo": 1500.0,
+  "slug": "gerasimos-sioutis",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

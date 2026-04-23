@@ -1,0 +1,126 @@
+{
+  "current_elo": 1492.4,
+  "divisional_rank": 1095,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Rinat Fakhretdinov",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-09-06",
+      "elo_delta": -14.6,
+      "event_name": "UFC Fight Night: Imavov vs. Borralho",
+      "fight_id": "eb4d1ee31f0ac64c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Rinat Fakhretdinov",
+      "opponent_elo": 1595.6,
+      "outcome": "blue_win",
+      "post_elo": 1492.4,
+      "pre_elo": 1506.9,
+      "red_name": "Andreas Gustafsson",
+      "round": "1.0",
+      "time": "0:54",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Andreas Gustafsson",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-07",
+      "elo_delta": 21.8,
+      "event_name": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "fight_id": "3676910da113b65c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Khaos Williams",
+      "opponent_elo": 1559.4,
+      "outcome": "blue_win",
+      "post_elo": 1506.9,
+      "pre_elo": 1485.2,
+      "red_name": "Khaos Williams",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Andreas Gustafsson",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2020-10-10",
+      "elo_delta": -16.7,
+      "event_name": "KSW 55: Askham vs. Khalidov 2",
+      "fight_id": "87575a2b2ea23189",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Damian Janikowski",
+      "opponent_elo": 1525.2,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Damian Janikowski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2020-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-10-10",
+      "fight_id": "87575a2b2ea23189",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-10-10",
+      "fight_id": "87575a2b2ea23189",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "3676910da113b65c",
+      "rating": 1506.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "3676910da113b65c",
+      "rating": 1504.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-06",
+      "fight_id": "eb4d1ee31f0ac64c",
+      "rating": 1492.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-09-06",
+      "fight_id": "eb4d1ee31f0ac64c",
+      "rating": 1490.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-06",
+  "name": "Andreas Gustafsson",
+  "nickname": "",
+  "overall_elo": 1490.9,
+  "peak_elo": 1506.9,
+  "slug": "andreas-gustafsson",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

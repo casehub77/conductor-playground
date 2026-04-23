@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 606,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Eric Larkin",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-03-19",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 37",
+      "fight_id": "cfcde1b869ce468e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Kenny Foster",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1517.3,
+      "red_name": "Kenny Foster",
+      "round": "1",
+      "time": "3:15",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Marcus Andrusia",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-09-09",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 28",
+      "fight_id": "991cbd06d7871e79",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Marcus Andrusia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Eric Larkin",
+      "round": "1",
+      "time": "2:46",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-09-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-09",
+      "fight_id": "991cbd06d7871e79",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-09-09",
+      "fight_id": "991cbd06d7871e79",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "cfcde1b869ce468e",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "cfcde1b869ce468e",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-19",
+  "name": "Eric Larkin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "eric-larkin",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 242,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tiani Valle",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 130: Ksiazkiewicz vs. Gambulino",
+      "fight_id": "5e4de85e9f8ee921",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Hilarie Rose",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1461.2,
+      "pre_elo": 1480.6,
+      "red_name": "Hilarie Rose",
+      "round": "2",
+      "time": "3:35",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Tiani Valle",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 108: Fremd vs. Rodrigues",
+      "fight_id": "a067916e1d846b3b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Kathryn Paprocki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kathryn Paprocki",
+      "round": "3",
+      "time": "4:01",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "a067916e1d846b3b",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "a067916e1d846b3b",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "5e4de85e9f8ee921",
+      "rating": 1461.2,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "5e4de85e9f8ee921",
+      "rating": 1465.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-22",
+  "name": "Tiani Valle",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tiani-valle",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

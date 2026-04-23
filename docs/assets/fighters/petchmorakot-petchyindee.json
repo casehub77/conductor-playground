@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 582,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Petchmorakot Petchyindee",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2022-09-29",
+      "elo_delta": -17.1,
+      "event_name": "ONE 161: Petchmorakot vs. Tawanchai",
+      "fight_id": "579ee4db56916812",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–47, 50–45, 49–46)",
+      "opponent": "Tawanchai P.K.Saenchai",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1518.0,
+      "red_name": "Tawanchai P.K.Saenchai",
+      "round": "5",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jimmy Vienot",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2022-05-20",
+      "elo_delta": 18.0,
+      "event_name": "ONE 157: Petchmorakot vs. Vienot",
+      "fight_id": "b2dddb7dfb84cdf5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Jimmy Vienot",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Petchmorakot Petchyindee",
+      "round": "5",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-05-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-20",
+      "fight_id": "b2dddb7dfb84cdf5",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-05-20",
+      "fight_id": "b2dddb7dfb84cdf5",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "579ee4db56916812",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "579ee4db56916812",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-29",
+  "name": "Petchmorakot Petchyindee",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "petchmorakot-petchyindee",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

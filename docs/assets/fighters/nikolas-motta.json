@@ -1,0 +1,262 @@
+{
+  "current_elo": 1505.7,
+  "divisional_rank": 264,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Nikolas Motta",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-21",
+      "elo_delta": -17.6,
+      "event_name": "UFC Fight Night: Hill vs. Rountree Jr.",
+      "fight_id": "289c1984bd338389",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nazim Sadykhov",
+      "opponent_elo": 1556.6,
+      "outcome": "red_win",
+      "post_elo": 1505.7,
+      "pre_elo": 1523.3,
+      "red_name": "Nazim Sadykhov",
+      "round": "2.0",
+      "time": "4:17",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nikolas Motta",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": 17.7,
+      "event_name": "UFC Fight Night: Yan vs. Figueiredo",
+      "fight_id": "dafa7e65eb847171",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Maheshate",
+      "opponent_elo": 1500.1,
+      "outcome": "blue_win",
+      "post_elo": 1523.3,
+      "pre_elo": 1505.5,
+      "red_name": "Maheshate",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tom Nolan",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-01-13",
+      "elo_delta": 20.3,
+      "event_name": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "fight_id": "6e0d169e834f7e4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tom Nolan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1505.5,
+      "pre_elo": 1485.3,
+      "red_name": "Nikolas Motta",
+      "round": "1.0",
+      "time": "1:03",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nikolas Motta",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Allen vs. Craig",
+      "fight_id": "68a077532714fefb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Trey Ogden",
+      "opponent_elo": 1485.2,
+      "outcome": "no_contest",
+      "post_elo": 1485.3,
+      "pre_elo": 1485.3,
+      "red_name": "Trey Ogden",
+      "round": "3.0",
+      "time": "3:11",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nikolas Motta",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+      "fight_id": "4e40c58d1fc9cc55",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Manuel Torres",
+      "opponent_elo": 1518.8,
+      "outcome": "red_win",
+      "post_elo": 1485.3,
+      "pre_elo": 1503.9,
+      "red_name": "Manuel Torres",
+      "round": "1.0",
+      "time": "1:50",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Cameron Vancamp",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-09-17",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Sandhagen vs. Song",
+      "fight_id": "9d853a206c8ed46f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cameron Vancamp",
+      "opponent_elo": 1483.0,
+      "outcome": "red_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1484.5,
+      "red_name": "Nikolas Motta",
+      "round": "1.0",
+      "time": "3:49",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nikolas Motta",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -15.5,
+      "event_name": "UFC Fight Night: Walker vs. Hill",
+      "fight_id": "1f6532dd6d4ec4af",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jim Miller",
+      "opponent_elo": 1572.0,
+      "outcome": "red_win",
+      "post_elo": 1484.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jim Miller",
+      "round": "2.0",
+      "time": "1:58",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-02-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-19",
+      "fight_id": "1f6532dd6d4ec4af",
+      "rating": 1484.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "1f6532dd6d4ec4af",
+      "rating": 1486.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-17",
+      "fight_id": "9d853a206c8ed46f",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-09-17",
+      "fight_id": "9d853a206c8ed46f",
+      "rating": 1503.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "4e40c58d1fc9cc55",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "4e40c58d1fc9cc55",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "68a077532714fefb",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "68a077532714fefb",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "6e0d169e834f7e4a",
+      "rating": 1505.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "6e0d169e834f7e4a",
+      "rating": 1504.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "dafa7e65eb847171",
+      "rating": 1523.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "dafa7e65eb847171",
+      "rating": 1520.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-21",
+      "fight_id": "289c1984bd338389",
+      "rating": 1505.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-21",
+      "fight_id": "289c1984bd338389",
+      "rating": 1504.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-21",
+  "name": "Nikolas Motta",
+  "nickname": "",
+  "overall_elo": 1504.6,
+  "peak_elo": 1523.3,
+  "slug": "nikolas-motta",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

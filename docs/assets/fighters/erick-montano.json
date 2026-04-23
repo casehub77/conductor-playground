@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 559,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Max Griffin",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-11-05",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "fight_id": "997e701a277e78f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Max Griffin",
+      "opponent_elo": 1483.7,
+      "outcome": "blue_win",
+      "post_elo": 1477.2,
+      "pre_elo": 1497.4,
+      "red_name": "Erick Montano",
+      "round": "1.0",
+      "time": "0:54",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Randy Brown",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-09-17",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Poirier vs. Johnson",
+      "fight_id": "1049c975c7b0f55a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Randy Brown",
+      "opponent_elo": 1497.7,
+      "outcome": "blue_win",
+      "post_elo": 1497.4,
+      "pre_elo": 1518.0,
+      "red_name": "Erick Montano",
+      "round": "3.0",
+      "time": "0:18",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Enrique Marin",
+      "bout_type": "Ultimate Fighter Latin America 2 Welterweight Tournament Title Bout",
+      "date": "2015-11-21",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Magny vs Gastelum",
+      "fight_id": "aff66f5f9a6d0b44",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Enrique Marin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Erick Montano",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2015-11-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-11-21",
+      "fight_id": "aff66f5f9a6d0b44",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-11-21",
+      "fight_id": "aff66f5f9a6d0b44",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-09-17",
+      "fight_id": "1049c975c7b0f55a",
+      "rating": 1497.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-09-17",
+      "fight_id": "1049c975c7b0f55a",
+      "rating": 1497.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "997e701a277e78f5",
+      "rating": 1477.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "997e701a277e78f5",
+      "rating": 1479.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-11-05",
+  "name": "Erick Montano",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "erick-montano",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

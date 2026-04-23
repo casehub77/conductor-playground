@@ -1,0 +1,160 @@
+{
+  "current_elo": 1569.0,
+  "divisional_rank": 33,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ayoub Nacer",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 16.2,
+      "event_name": "Cage Warriors 198: Manchester",
+      "fight_id": "fd2c6dd64b59f8c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Ayoub Nacer",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1569.0,
+      "pre_elo": 1552.8,
+      "red_name": "Fran Breen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mário Ferreira",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": 16.1,
+      "event_name": "Cage Warriors 191: Manchester",
+      "fight_id": "92fb7c717e745267",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Mário Ferreira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1552.8,
+      "pre_elo": 1536.7,
+      "red_name": "Fran Breen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Elves Oliveira",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": 17.3,
+      "event_name": "Cage Warriors 185: Manchester",
+      "fight_id": "7bbf30d5922f1a41",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Elves Oliveira",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1519.4,
+      "red_name": "Fran Breen",
+      "round": "1",
+      "time": "4:17",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Costin Buhnă",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 168: Manchester",
+      "fight_id": "77f54e9b53528470",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbow and punches)",
+      "opponent": "Costin Buhnă",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Fran Breen",
+      "round": "3",
+      "time": "1:21",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-16",
+      "fight_id": "77f54e9b53528470",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "77f54e9b53528470",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "7bbf30d5922f1a41",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "7bbf30d5922f1a41",
+      "rating": 1532.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "92fb7c717e745267",
+      "rating": 1552.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "92fb7c717e745267",
+      "rating": 1547.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "fd2c6dd64b59f8c5",
+      "rating": 1569.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "fd2c6dd64b59f8c5",
+      "rating": 1562.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Fran Breen",
+  "nickname": "",
+  "overall_elo": 1562.0,
+  "peak_elo": 1569.0,
+  "slug": "fran-breen",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

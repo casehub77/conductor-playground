@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 417,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Parker Porter",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-05-06",
+      "elo_delta": -20.0,
+      "event_name": "UFC 288: Sterling vs. Cejudo",
+      "fight_id": "af4c97835b84ece9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Parker Porter",
+      "opponent_elo": 1490.4,
+      "outcome": "blue_win",
+      "post_elo": 1480.0,
+      "pre_elo": 1500.0,
+      "red_name": "Braxton Smith",
+      "round": "1.0",
+      "time": "2:10",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-06",
+      "fight_id": "af4c97835b84ece9",
+      "rating": 1480.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-05-06",
+      "fight_id": "af4c97835b84ece9",
+      "rating": 1482.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-06",
+  "name": "Braxton Smith",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "braxton-smith",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

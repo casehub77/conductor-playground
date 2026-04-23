@@ -1,0 +1,228 @@
+{
+  "current_elo": 1553.3,
+  "divisional_rank": 48,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Luis Gurule",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 16.6,
+      "event_name": "UFC Fight Night: Strickland vs. Hernandez",
+      "fight_id": "240f0f5e1cb8f35b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Luis Gurule",
+      "opponent_elo": 1509.4,
+      "outcome": "red_win",
+      "post_elo": 1553.3,
+      "pre_elo": 1536.7,
+      "red_name": "Alden Coria",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Alden Coria",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Lopes vs. Silva",
+      "fight_id": "5ff97debb061439c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alessandro Costa",
+      "opponent_elo": 1506.7,
+      "outcome": "blue_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1517.8,
+      "red_name": "Alessandro Costa",
+      "round": "3.0",
+      "time": "0:47",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Alden Coria",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-06-10",
+      "elo_delta": -20.0,
+      "event_name": "Legacy Fighting Alliance 134: Gafurov vs. Sousa",
+      "fight_id": "db20f7d077be6e33",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Joseph Camacho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.8,
+      "pre_elo": 1537.8,
+      "red_name": "Joseph Camacho",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Alden Coria",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-01-14",
+      "elo_delta": -21.3,
+      "event_name": "Legacy Fighting Alliance 121: Brown vs. Jones",
+      "fight_id": "de732cd54ffa4c88",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Michael Cyr",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1512.4,
+      "pre_elo": 1533.7,
+      "red_name": "Michael Cyr",
+      "round": "3",
+      "time": "3:20",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Donnie Ballou",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-07-30",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 113: Lewis vs. Petersen",
+      "fight_id": "9ff4b55b98d3a832",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Donnie Ballou",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Alden Coria",
+      "round": "1",
+      "time": "3:35",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Rashaad Robinson",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-03-12",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 101: Kalani vs. Cummins",
+      "fight_id": "0e309a80af15fd59",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Rashaad Robinson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Alden Coria",
+      "round": "2",
+      "time": "1:05",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-03-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-12",
+      "fight_id": "0e309a80af15fd59",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-03-12",
+      "fight_id": "0e309a80af15fd59",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-07-30",
+      "fight_id": "9ff4b55b98d3a832",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-07-30",
+      "fight_id": "9ff4b55b98d3a832",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "de732cd54ffa4c88",
+      "rating": 1512.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "de732cd54ffa4c88",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-10",
+      "fight_id": "db20f7d077be6e33",
+      "rating": 1517.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-06-10",
+      "fight_id": "db20f7d077be6e33",
+      "rating": 1498.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "5ff97debb061439c",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "5ff97debb061439c",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "240f0f5e1cb8f35b",
+      "rating": 1553.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "240f0f5e1cb8f35b",
+      "rating": 1531.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Alden Coria",
+  "nickname": "",
+  "overall_elo": 1531.6,
+  "peak_elo": 1553.3,
+  "slug": "alden-coria",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

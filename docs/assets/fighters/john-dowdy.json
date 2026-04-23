@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1298,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "John Dowdy",
+      "bout_type": "Open Weight Bout",
+      "date": "1995-04-07",
+      "elo_delta": -18.4,
+      "event_name": "UFC 5: The Return of the Beast",
+      "fight_id": "f12aae81535c2caf",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Guy Mezger",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Guy Mezger",
+      "round": "1.0",
+      "time": "2:02",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1995-04-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1995-04-07",
+      "fight_id": "f12aae81535c2caf",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1995-04-07",
+      "fight_id": "f12aae81535c2caf",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1995-04-07",
+  "name": "John Dowdy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "john-dowdy",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

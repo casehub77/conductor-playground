@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 410,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kazakbai Tilenov",
+      "bout_type": "Bantamweight MMA Bout",
+      "date": "2024-09-06",
+      "elo_delta": -20.6,
+      "event_name": "ONE Friday Fights 78: Pakorn vs. Reis",
+      "fight_id": "30633bd9392ccbdd",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Idris Abdurashidov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1521.3,
+      "red_name": "Idris Abdurashidov",
+      "round": "2",
+      "time": "0:22",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ivan Parshikov",
+      "bout_type": "Bantamweight MMA Bout",
+      "date": "2024-02-09",
+      "elo_delta": 21.3,
+      "event_name": "ONE Friday Fights 51: Rambolek vs. Şen",
+      "fight_id": "41be65d51f356088",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ivan Parshikov",
+      "opponent_elo": 1533.1,
+      "outcome": "red_win",
+      "post_elo": 1521.3,
+      "pre_elo": 1500.0,
+      "red_name": "Kazakbai Tilenov",
+      "round": "3",
+      "time": "2:07",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-02-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-02-09",
+      "fight_id": "41be65d51f356088",
+      "rating": 1521.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-02-09",
+      "fight_id": "41be65d51f356088",
+      "rating": 1518.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-06",
+      "fight_id": "30633bd9392ccbdd",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-09-06",
+      "fight_id": "30633bd9392ccbdd",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-06",
+  "name": "Kazakbai Tilenov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.3,
+  "slug": "kazakbai-tilenov",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

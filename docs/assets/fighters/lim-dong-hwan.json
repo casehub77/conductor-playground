@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 360,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lim Dong-hwan",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2023-10-01",
+      "elo_delta": -16.5,
+      "event_name": "Rizin Landmark 6",
+      "fight_id": "7d8aa1d8e5c466f3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Tsuyoshi Sudario",
+      "opponent_elo": 1569.7,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1517.3,
+      "red_name": "Tsuyoshi Sudario",
+      "round": "3",
+      "time": "2:10",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jung Ho-yeon",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2023-02-25",
+      "elo_delta": 19.4,
+      "event_name": "Road FC 63",
+      "fight_id": "d31d49873c3c0aad",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Jung Ho-yeon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lim Dong-hwan",
+      "round": "1",
+      "time": "2:28",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-25",
+      "fight_id": "d31d49873c3c0aad",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "d31d49873c3c0aad",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-01",
+      "fight_id": "7d8aa1d8e5c466f3",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-10-01",
+      "fight_id": "7d8aa1d8e5c466f3",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-01",
+  "name": "Lim Dong-hwan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "lim-dong-hwan",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

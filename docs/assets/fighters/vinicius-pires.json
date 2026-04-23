@@ -1,0 +1,194 @@
+{
+  "current_elo": 1536.0,
+  "divisional_rank": 111,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Tawan Régis Ribeiro",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-03-27",
+      "elo_delta": 17.0,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "5ab3ab9a74b5d78f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Tawan Régis Ribeiro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.0,
+      "pre_elo": 1519.0,
+      "red_name": "Vinicius Pires",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Vinicius Pires",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-11-14",
+      "elo_delta": -18.8,
+      "event_name": "LFA 222: Pires vs. Belakh",
+      "fight_id": "daf129a171bc5488",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 48–47, 48–47)",
+      "opponent": "Artem Belakh",
+      "opponent_elo": 1521.8,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1537.8,
+      "red_name": "Artem Belakh",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Lionel Abojer",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-28",
+      "elo_delta": 18.4,
+      "event_name": "LFA 205: Pires vs. Abojer",
+      "fight_id": "82746dfe509c5982",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Lionel Abojer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Vinicius Pires",
+      "round": "3",
+      "time": "2:44",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jhon Rodríguez Tacha",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-11-22",
+      "elo_delta": 19.4,
+      "event_name": "LFA 197: Kuziutina vs. Guimarães",
+      "fight_id": "0454700b525e6879",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Jhon Rodríguez Tacha",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Vinicius Pires",
+      "round": "2",
+      "time": "4:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Vinicius Pires",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": 0.0,
+      "event_name": "LFA 175: Lopes vs. Brigagão",
+      "fight_id": "95fdd7a41b4c3544",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental eye poke)",
+      "opponent": "Apollo Gomes",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Apollo Gomes",
+      "round": "2",
+      "time": "2:35",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-01-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-27",
+      "fight_id": "95fdd7a41b4c3544",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "95fdd7a41b4c3544",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "0454700b525e6879",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "0454700b525e6879",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "82746dfe509c5982",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "82746dfe509c5982",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "daf129a171bc5488",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-11-14",
+      "fight_id": "daf129a171bc5488",
+      "rating": 1517.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "5ab3ab9a74b5d78f",
+      "rating": 1536.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "5ab3ab9a74b5d78f",
+      "rating": 1532.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Vinicius Pires",
+  "nickname": "",
+  "overall_elo": 1532.2,
+  "peak_elo": 1537.8,
+  "slug": "vinicius-pires",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

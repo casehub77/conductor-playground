@@ -1,0 +1,92 @@
+{
+  "current_elo": 1535.1,
+  "divisional_rank": 113,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Diogo Sotero",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-07",
+      "elo_delta": 17.1,
+      "event_name": "LFA 221: Clark vs. Consuli",
+      "fight_id": "a91275115b0bc54b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–25)",
+      "opponent": "Diogo Sotero",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.0,
+      "red_name": "Luan Pedroso",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Aristides Vinícius",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-28",
+      "elo_delta": 18.0,
+      "event_name": "LFA 205: Pires vs. Abojer",
+      "fight_id": "c98be115336c4dcb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Aristides Vinícius",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Luan Pedroso",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-03-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-28",
+      "fight_id": "c98be115336c4dcb",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "c98be115336c4dcb",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "a91275115b0bc54b",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "a91275115b0bc54b",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-07",
+  "name": "Luan Pedroso",
+  "nickname": "",
+  "overall_elo": 1531.3,
+  "peak_elo": 1535.1,
+  "slug": "luan-pedroso",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

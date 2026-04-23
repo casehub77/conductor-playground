@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 349,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Alexis Vila",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-11-26",
+      "elo_delta": -17.7,
+      "event_name": "Bellator 59",
+      "fight_id": "5b4e6a1c20d69dd4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29-28, 29-28, 29-28)",
+      "opponent": "Eduardo Dantas",
+      "opponent_elo": 1547.6,
+      "outcome": "red_win",
+      "post_elo": 1523.9,
+      "pre_elo": 1541.6,
+      "red_name": "Eduardo Dantas",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Marcos Galvão",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-10-22",
+      "elo_delta": 17.1,
+      "event_name": "Bellator 55",
+      "fight_id": "c911fc170d25a969",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (27-30, 29-28, 29-28)",
+      "opponent": "Marcos Galvão",
+      "opponent_elo": 1506.5,
+      "outcome": "red_win",
+      "post_elo": 1541.6,
+      "pre_elo": 1524.5,
+      "red_name": "Alexis Vila",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Joe Warren",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": 24.5,
+      "event_name": "Bellator 51",
+      "fight_id": "ca0178343a96b058",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Joe Warren",
+      "opponent_elo": 1593.3,
+      "outcome": "red_win",
+      "post_elo": 1524.5,
+      "pre_elo": 1500.0,
+      "red_name": "Alexis Vila",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2011-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-09-24",
+      "fight_id": "ca0178343a96b058",
+      "rating": 1524.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "ca0178343a96b058",
+      "rating": 1521.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "c911fc170d25a969",
+      "rating": 1541.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "c911fc170d25a969",
+      "rating": 1536.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-26",
+      "fight_id": "5b4e6a1c20d69dd4",
+      "rating": 1523.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-11-26",
+      "fight_id": "5b4e6a1c20d69dd4",
+      "rating": 1522.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-26",
+  "name": "Alexis Vila",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1541.6,
+  "slug": "alexis-vila",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

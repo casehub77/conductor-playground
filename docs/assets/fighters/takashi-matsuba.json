@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 485,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Takashi Matsuba",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2021-11-28",
+      "elo_delta": -16.1,
+      "event_name": "Rizin Trigger 1",
+      "fight_id": "c913aa0d2dae3942",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Tatsuki Saomoto",
+      "opponent_elo": 1536.3,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
+      "red_name": "Tatsuki Saomoto",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-11-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-28",
+      "fight_id": "c913aa0d2dae3942",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-11-28",
+      "fight_id": "c913aa0d2dae3942",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-28",
+  "name": "Takashi Matsuba",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "takashi-matsuba",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

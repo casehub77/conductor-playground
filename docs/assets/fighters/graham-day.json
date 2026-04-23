@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 272,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Gavin Bradley",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-07-27",
+      "elo_delta": 19.4,
+      "event_name": "CWFC 4: UK vs. France",
+      "fight_id": "3f5b99f2f43e68e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Choke)",
+      "opponent": "Gavin Bradley",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1539.9,
+      "pre_elo": 1520.5,
+      "red_name": "Graham Day",
+      "round": "1",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Graham Connelly",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-16",
+      "elo_delta": 20.5,
+      "event_name": "CWFC 3: Cage Warriors 3",
+      "fight_id": "684628eedcddb357",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Graham Connelly",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Graham Day",
+      "round": "3",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-03-16",
+      "fight_id": "684628eedcddb357",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-16",
+      "fight_id": "684628eedcddb357",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-07-27",
+      "fight_id": "3f5b99f2f43e68e8",
+      "rating": 1539.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-07-27",
+      "fight_id": "3f5b99f2f43e68e8",
+      "rating": 1535.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-07-27",
+  "name": "Graham Day",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1539.9,
+  "slug": "graham-day",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

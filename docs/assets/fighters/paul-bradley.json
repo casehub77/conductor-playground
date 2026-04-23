@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1027,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paul Bradley",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-11-12",
+      "elo_delta": -14.1,
+      "event_name": "UFC on FOX: Velasquez vs Dos Santos",
+      "fight_id": "cf44d68ee8afaefd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Mike Pierce",
+      "opponent_elo": 1560.7,
+      "outcome": "red_win",
+      "post_elo": 1469.2,
+      "pre_elo": 1483.3,
+      "red_name": "Mike Pierce",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Paul Bradley",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-08-06",
+      "elo_delta": -18.9,
+      "event_name": "UFC 133: Evans vs Ortiz 2",
+      "fight_id": "12a989b0f062a749",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rafael Natal",
+      "opponent_elo": 1483.0,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Rafael Natal",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2011-08-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-08-06",
+      "fight_id": "12a989b0f062a749",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-08-06",
+      "fight_id": "12a989b0f062a749",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "cf44d68ee8afaefd",
+      "rating": 1469.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "cf44d68ee8afaefd",
+      "rating": 1470.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-12",
+  "name": "Paul Bradley",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "paul-bradley",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

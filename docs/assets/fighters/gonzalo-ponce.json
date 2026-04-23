@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 417,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gonzalo Ponce",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": -17.4,
+      "event_name": "Legacy Fighting Alliance 129: Petersen vs. Cortes-Acosta",
+      "fight_id": "0c9577150e24b157",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (corner stoppage)",
+      "opponent": "Miguel Sanson",
+      "opponent_elo": 1536.0,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Miguel Sanson",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-15",
+      "fight_id": "0c9577150e24b157",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "0c9577150e24b157",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-15",
+  "name": "Gonzalo Ponce",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "gonzalo-ponce",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

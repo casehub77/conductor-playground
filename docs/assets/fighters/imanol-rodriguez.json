@@ -1,0 +1,58 @@
+{
+  "current_elo": 1517.7,
+  "divisional_rank": 139,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Borjas",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": 17.7,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "e1338c84721cda94",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Kevin Borjas",
+      "opponent_elo": 1468.7,
+      "outcome": "red_win",
+      "post_elo": 1517.7,
+      "pre_elo": 1500.0,
+      "red_name": "Imanol Rodriguez",
+      "round": "2.0",
+      "time": "4:21",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2026-02-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-02-28",
+      "fight_id": "e1338c84721cda94",
+      "rating": 1517.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "e1338c84721cda94",
+      "rating": 1515.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Imanol Rodriguez",
+  "nickname": "",
+  "overall_elo": 1515.8,
+  "peak_elo": 1517.7,
+  "slug": "imanol-rodriguez",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

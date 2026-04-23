@@ -1,0 +1,201 @@
+{
+  "current_elo": 1498.1,
+  "divisional_rank": 120,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Jihin Radzuan",
+      "bout_type": "Women's Atomweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": -19.9,
+      "event_name": "ONE Fight Night 30: Kryklia vs. Knowles",
+      "fight_id": "edcefeccccf20af4",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Macarena Aragon",
+      "opponent_elo": 1480.7,
+      "outcome": "red_win",
+      "post_elo": 1498.1,
+      "pre_elo": 1518.0,
+      "red_name": "Macarena Aragon",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Jihin Radzuan",
+      "bout_type": "Catchweight (120 lb) Bout",
+      "date": "2024-03-09",
+      "elo_delta": -17.9,
+      "event_name": "ONE Fight Night 20: Todd vs. Phetjeeja",
+      "fight_id": "af3451f9c1d803dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Chihiro Sawada",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1479.3,
+      "pre_elo": 1497.2,
+      "red_name": "Chihiro Sawada",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jenelyn Olsim",
+      "bout_type": "Women's Catchweight (120,8 lbs) Bout",
+      "date": "2023-09-29",
+      "elo_delta": 19.6,
+      "event_name": "ONE Friday Fights 35: Kongsuk vs. Dedduanglek",
+      "fight_id": "f5b56878aed9dbf6",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Jenelyn Olsim",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1535.6,
+      "pre_elo": 1516.0,
+      "red_name": "Jihin Radzuan",
+      "round": "3",
+      "time": "1:34",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jihin Radzuan",
+      "bout_type": "Catchweight (120.75 lbs) Bout",
+      "date": "2022-10-01",
+      "elo_delta": -18.8,
+      "event_name": "ONE on Prime Video 2: Xiong vs. Lee 3",
+      "fight_id": "68e39eacd244a10c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Stamp Fairtex",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1516.0,
+      "red_name": "Stamp Fairtex",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Itsuki Hirata",
+      "bout_type": "Women's Atomweight Bout",
+      "date": "2022-03-26",
+      "elo_delta": 18.0,
+      "event_name": "ONE X: 10 Years Anniversary",
+      "fight_id": "3bf0146bab2e0203",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Itsuki Hirata",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jihin Radzuan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "414b29184630c4b3",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "3bf0146bab2e0203",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "3bf0146bab2e0203",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "68e39eacd244a10c",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "68e39eacd244a10c",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-29",
+      "fight_id": "f5b56878aed9dbf6",
+      "rating": 1535.6,
+      "scope": "division",
+      "system": "women:Catch Weight"
+    },
+    {
+      "date": "2023-09-29",
+      "fight_id": "f5b56878aed9dbf6",
+      "rating": 1533.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-03-09",
+      "fight_id": "af3451f9c1d803dd",
+      "rating": 1479.3,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-03-09",
+      "fight_id": "af3451f9c1d803dd",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "edcefeccccf20af4",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "edcefeccccf20af4",
+      "rating": 1515.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": true,
+  "last_fight_date": "2025-04-05",
+  "name": "Jihin Radzuan",
+  "nickname": "",
+  "overall_elo": 1515.0,
+  "peak_elo": 1535.6,
+  "slug": "jihin-radzuan",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

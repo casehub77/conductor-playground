@@ -1,0 +1,160 @@
+{
+  "current_elo": 1498.2,
+  "divisional_rank": 1299,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jacob Rosales",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -18.9,
+      "event_name": "LFA 213: Gonzalez vs. Rosales",
+      "fight_id": "be7dd8bdd24c02f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Chris Gonzalez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.2,
+      "pre_elo": 1517.1,
+      "red_name": "Chris Gonzalez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Georgii Eivas",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2025-05-09",
+      "elo_delta": 19.6,
+      "event_name": "LFA 208: Mecate vs. Reyes",
+      "fight_id": "0e2909c5b47c470e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (neck crank)",
+      "opponent": "Georgii Eivas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1497.6,
+      "red_name": "Jacob Rosales",
+      "round": "1",
+      "time": "2:13",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jacob Rosales",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2022-07-29",
+      "elo_delta": -20.4,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "778d79c1dd632ab9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Darren Smith Jr.",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Darren Smith Jr.",
+      "round": "2",
+      "time": "3:56",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jose Martinez",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-01-15",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 97: Browne vs. Estrázulas",
+      "fight_id": "a053df1d92e30ff2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jose Martinez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jacob Rosales",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-01-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-01-15",
+      "fight_id": "a053df1d92e30ff2",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-01-15",
+      "fight_id": "a053df1d92e30ff2",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "778d79c1dd632ab9",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "778d79c1dd632ab9",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "0e2909c5b47c470e",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "0e2909c5b47c470e",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "be7dd8bdd24c02f4",
+      "rating": 1498.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "be7dd8bdd24c02f4",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Jacob Rosales",
+  "nickname": "",
+  "overall_elo": 1498.7,
+  "peak_elo": 1518.0,
+  "slug": "jacob-rosales",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

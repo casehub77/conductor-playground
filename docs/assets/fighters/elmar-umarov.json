@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 481,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Turner Williams",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-01-21",
+      "elo_delta": 19.5,
+      "event_name": "Legacy Fighting Alliance 122: Johnson vs. Mota",
+      "fight_id": "7a74dea70dfbf86a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Turner Williams",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1498.9,
+      "red_name": "Elmar Umarov",
+      "round": "1",
+      "time": "2:57",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Elmar Umarov",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-08-27",
+      "elo_delta": -20.5,
+      "event_name": "Legacy Fighting Alliance 114: Souza vs. Garcia",
+      "fight_id": "ba75e88704a8c075",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Benjamin Bennett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Benjamin Bennett",
+      "round": "2",
+      "time": "0:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Cody King",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-03-12",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 101: Kalani vs. Cummins",
+      "fight_id": "249080d19c66bdc7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Cody King",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Elmar Umarov",
+      "round": "1",
+      "time": "2:20",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-03-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-12",
+      "fight_id": "249080d19c66bdc7",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-03-12",
+      "fight_id": "249080d19c66bdc7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "ba75e88704a8c075",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "ba75e88704a8c075",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "7a74dea70dfbf86a",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "7a74dea70dfbf86a",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-21",
+  "name": "Elmar Umarov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "elmar-umarov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

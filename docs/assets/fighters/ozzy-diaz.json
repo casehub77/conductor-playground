@@ -1,0 +1,126 @@
+{
+  "current_elo": 1537.4,
+  "divisional_rank": 68,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ozzy Diaz",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 16.9,
+      "event_name": "UFC 313: Pereira vs. Ankalaev",
+      "fight_id": "1bba6c42ea0c9cf1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Djorden Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1537.4,
+      "pre_elo": 1520.5,
+      "red_name": "Djorden Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ozzy Diaz",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Yan vs. Figueiredo",
+      "fight_id": "d4340c902b48e81c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Zhang Mingyang",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1518.1,
+      "red_name": "Zhang Mingyang",
+      "round": "1.0",
+      "time": "2:25",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Bruno Assis",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-03-25",
+      "elo_delta": 20.5,
+      "event_name": "Legacy Fighting Alliance 127: Diaz vs. Assis",
+      "fight_id": "65bc7e572c1c51d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Bruno Assis",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ozzy Diaz",
+      "round": "1",
+      "time": "4:53",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-25",
+      "fight_id": "65bc7e572c1c51d7",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "65bc7e572c1c51d7",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "d4340c902b48e81c",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "d4340c902b48e81c",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "1bba6c42ea0c9cf1",
+      "rating": 1537.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "1bba6c42ea0c9cf1",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-08",
+  "name": "Ozzy Diaz",
+  "nickname": "",
+  "overall_elo": 1516.8,
+  "peak_elo": 1537.4,
+  "slug": "ozzy-diaz",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

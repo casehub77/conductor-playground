@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 403,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Nick Browne",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-03-31",
+      "elo_delta": -20.3,
+      "event_name": "Bellator 293: Golm vs. James",
+      "fight_id": "b7369c6340c70b51",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Mike Hamel",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1513.3,
+      "pre_elo": 1533.5,
+      "red_name": "Mike Hamel",
+      "round": "1",
+      "time": "0:42",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nick Browne",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": -20.5,
+      "event_name": "Bellator 286: Pitbull vs. Borics",
+      "fight_id": "df1bfd1cc6f8f382",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Islam Mamedov",
+      "opponent_elo": 1506.3,
+      "outcome": "red_win",
+      "post_elo": 1533.5,
+      "pre_elo": 1554.0,
+      "red_name": "Islam Mamedov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Mandel Nallo",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "836e2212607053e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Mandel Nallo",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1554.0,
+      "pre_elo": 1535.4,
+      "red_name": "Nick Browne",
+      "round": "2",
+      "time": "2:20",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Bobby Lee",
+      "bout_type": "Catchweight (156.8 lb) Bout",
+      "date": "2021-10-16",
+      "elo_delta": 17.4,
+      "event_name": "Bellator 268: Nemkov vs. Anglickas",
+      "fight_id": "cde9aec598248c19",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Bobby Lee",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1535.4,
+      "pre_elo": 1518.0,
+      "red_name": "Nick Browne",
+      "round": "1",
+      "time": "1:38",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Arthur Estrázulas",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-01-15",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 97: Browne vs. Estrázulas",
+      "fight_id": "530ea8d01a928811",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Arthur Estrázulas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Browne",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-01-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-01-15",
+      "fight_id": "530ea8d01a928811",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-01-15",
+      "fight_id": "530ea8d01a928811",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "cde9aec598248c19",
+      "rating": 1535.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "cde9aec598248c19",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "836e2212607053e8",
+      "rating": 1554.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "836e2212607053e8",
+      "rating": 1548.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "df1bfd1cc6f8f382",
+      "rating": 1533.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "df1bfd1cc6f8f382",
+      "rating": 1530.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "b7369c6340c70b51",
+      "rating": 1513.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "b7369c6340c70b51",
+      "rating": 1512.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-31",
+  "name": "Nick Browne",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1554.0,
+  "slug": "nick-browne",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

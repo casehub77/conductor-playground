@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 559,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Tom Watson",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-08-08",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Teixeira vs Saint Preux",
+      "fight_id": "b493b2a273a9d1d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chris Camozzi",
+      "opponent_elo": 1476.1,
+      "outcome": "red_win",
+      "post_elo": 1457.2,
+      "pre_elo": 1475.1,
+      "red_name": "Chris Camozzi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tom Watson",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-01-31",
+      "elo_delta": -15.7,
+      "event_name": "UFC 183: Silva vs Diaz",
+      "fight_id": "e69f7c841da612d1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rafael Natal",
+      "opponent_elo": 1534.9,
+      "outcome": "red_win",
+      "post_elo": 1475.1,
+      "pre_elo": 1490.9,
+      "red_name": "Rafael Natal",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Sam Alvey",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-08-16",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Bader vs Saint Preux",
+      "fight_id": "00fe438989c7e425",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sam Alvey",
+      "opponent_elo": 1499.2,
+      "outcome": "red_win",
+      "post_elo": 1490.9,
+      "pre_elo": 1471.4,
+      "red_name": "Tom Watson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tom Watson",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-02-01",
+      "elo_delta": -17.5,
+      "event_name": "UFC 169: Barao vs Faber 2",
+      "fight_id": "c9c57551b0f3062d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Nick Catone",
+      "opponent_elo": 1497.9,
+      "outcome": "red_win",
+      "post_elo": 1471.4,
+      "pre_elo": 1489.0,
+      "red_name": "Nick Catone",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tom Watson",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-08-03",
+      "elo_delta": -16.2,
+      "event_name": "UFC 163: Aldo vs Jung",
+      "fight_id": "7a39c9375f76bf09",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Thales Leites",
+      "opponent_elo": 1540.0,
+      "outcome": "red_win",
+      "post_elo": 1489.0,
+      "pre_elo": 1505.2,
+      "red_name": "Thales Leites",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Stanislav Nedkov",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-02-16",
+      "elo_delta": 21.4,
+      "event_name": "UFC on FUEL TV: Barao vs McDonald",
+      "fight_id": "dc6c0e4bf2936471",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Stanislav Nedkov",
+      "opponent_elo": 1518.3,
+      "outcome": "red_win",
+      "post_elo": 1505.2,
+      "pre_elo": 1483.8,
+      "red_name": "Tom Watson",
+      "round": "2.0",
+      "time": "4:42",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Brad Tavares",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-09-29",
+      "elo_delta": -16.2,
+      "event_name": "UFC on FUEL TV: Struve vs Miocic",
+      "fight_id": "2c53a3a4faacc788",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Brad Tavares",
+      "opponent_elo": 1534.7,
+      "outcome": "blue_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "Tom Watson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2012-09-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-09-29",
+      "fight_id": "2c53a3a4faacc788",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-09-29",
+      "fight_id": "2c53a3a4faacc788",
+      "rating": 1485.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-02-16",
+      "fight_id": "dc6c0e4bf2936471",
+      "rating": 1505.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-02-16",
+      "fight_id": "dc6c0e4bf2936471",
+      "rating": 1504.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-03",
+      "fight_id": "7a39c9375f76bf09",
+      "rating": 1489.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-08-03",
+      "fight_id": "7a39c9375f76bf09",
+      "rating": 1489.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-02-01",
+      "fight_id": "c9c57551b0f3062d",
+      "rating": 1471.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-02-01",
+      "fight_id": "c9c57551b0f3062d",
+      "rating": 1473.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-08-16",
+      "fight_id": "00fe438989c7e425",
+      "rating": 1490.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-08-16",
+      "fight_id": "00fe438989c7e425",
+      "rating": 1490.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-01-31",
+      "fight_id": "e69f7c841da612d1",
+      "rating": 1475.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-01-31",
+      "fight_id": "e69f7c841da612d1",
+      "rating": 1476.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-08-08",
+      "fight_id": "b493b2a273a9d1d6",
+      "rating": 1457.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-08-08",
+      "fight_id": "b493b2a273a9d1d6",
+      "rating": 1460.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-08-08",
+  "name": "Tom Watson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1505.2,
+  "slug": "tom-watson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

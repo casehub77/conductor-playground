@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 839,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tim Stout",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-04-17",
+      "elo_delta": -20.1,
+      "event_name": "Strikeforce: Nashville",
+      "fight_id": "b3a5ef416cb08d32",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jason Miller",
+      "opponent_elo": 1488.1,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1500.0,
+      "red_name": "Jason Miller",
+      "round": "1",
+      "time": "3:09",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2010-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-17",
+      "fight_id": "b3a5ef416cb08d32",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-04-17",
+      "fight_id": "b3a5ef416cb08d32",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-17",
+  "name": "Tim Stout",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tim-stout",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

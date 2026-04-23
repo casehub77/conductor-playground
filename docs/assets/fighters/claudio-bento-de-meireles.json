@@ -1,0 +1,126 @@
+{
+  "current_elo": 1553.8,
+  "divisional_rank": 46,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "João Victor Melo",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-03-27",
+      "elo_delta": 16.0,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "2fc5b83d1e97eba0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "João Victor Melo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1537.8,
+      "red_name": "Cláudio Bento de Meireles",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Matheus da Silva",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-11-07",
+      "elo_delta": 18.4,
+      "event_name": "LFA 221: Clark vs. Consuli",
+      "fight_id": "ad82d4ccff87e194",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches to the body)",
+      "opponent": "Matheus da Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Cláudio Bento de Meireles",
+      "round": "3",
+      "time": "3:46",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Neto Pinheiro",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-07-11",
+      "elo_delta": 19.4,
+      "event_name": "LFA 212: Degli vs. Severino",
+      "fight_id": "14ed2c54af8fd09b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Neto Pinheiro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Cláudio Bento de Meireles",
+      "round": "2",
+      "time": "4:36",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-07-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-07-11",
+      "fight_id": "14ed2c54af8fd09b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-07-11",
+      "fight_id": "14ed2c54af8fd09b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "ad82d4ccff87e194",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "ad82d4ccff87e194",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "2fc5b83d1e97eba0",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "2fc5b83d1e97eba0",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Cláudio Bento de Meireles",
+  "nickname": "",
+  "overall_elo": 1548.2,
+  "peak_elo": 1553.8,
+  "slug": "claudio-bento-de-meireles",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

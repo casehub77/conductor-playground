@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 256,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mariusz Pudzianowski",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2015-10-31",
+      "elo_delta": 22.1,
+      "event_name": "KSW 32: Road to Wembley",
+      "fight_id": "fcf8df16cb2a63c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches and Elbows)",
+      "opponent": "Mariusz Pudzianowski",
+      "opponent_elo": 1551.5,
+      "outcome": "red_win",
+      "post_elo": 1525.4,
+      "pre_elo": 1503.3,
+      "red_name": "Peter Graham",
+      "round": "2",
+      "time": "2:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Peter Graham",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2015-05-23",
+      "elo_delta": -16.1,
+      "event_name": "KSW 31: Materla vs. Drwal",
+      "fight_id": "abfe5a4b4aee3081",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Karol Bedorf",
+      "opponent_elo": 1555.5,
+      "outcome": "red_win",
+      "post_elo": 1503.3,
+      "pre_elo": 1519.4,
+      "red_name": "Karol Bedorf",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Marcin Różalski",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2014-10-04",
+      "elo_delta": 19.4,
+      "event_name": "KSW 28: Fighters Den",
+      "fight_id": "eba66879b4325e62",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knee Injury)",
+      "opponent": "Marcin Różalski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Peter Graham",
+      "round": "2",
+      "time": "0:43",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2014-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-10-04",
+      "fight_id": "eba66879b4325e62",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "eba66879b4325e62",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-23",
+      "fight_id": "abfe5a4b4aee3081",
+      "rating": 1503.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-05-23",
+      "fight_id": "abfe5a4b4aee3081",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-10-31",
+      "fight_id": "fcf8df16cb2a63c3",
+      "rating": 1525.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-10-31",
+      "fight_id": "fcf8df16cb2a63c3",
+      "rating": 1522.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-10-31",
+  "name": "Peter Graham",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1525.4,
+  "slug": "peter-graham",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 463,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Pineda",
+      "bout_type": "Featherweight Bout",
+      "date": "2012-03-02",
+      "elo_delta": -19.6,
+      "event_name": "UFC on FX: Alves vs Kampmann",
+      "fight_id": "c9f593c31e09fac3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Daniel Pineda",
+      "opponent_elo": 1485.9,
+      "outcome": "blue_win",
+      "post_elo": 1468.7,
+      "pre_elo": 1488.3,
+      "red_name": "Mackens Semerzier",
+      "round": "1.0",
+      "time": "2:05",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Robert Peralta",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-11-12",
+      "elo_delta": 0.0,
+      "event_name": "UFC on FOX: Velasquez vs Dos Santos",
+      "fight_id": "69e64f53033f48e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Robert Peralta",
+      "opponent_elo": 1517.1,
+      "outcome": "no_contest",
+      "post_elo": 1488.3,
+      "pre_elo": 1488.3,
+      "red_name": "Mackens Semerzier",
+      "round": "3.0",
+      "time": "1:54",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mackens Semerzier",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-03-26",
+      "elo_delta": 21.3,
+      "event_name": "UFC Fight Night: Nogueira vs Davis",
+      "fight_id": "26e02559ec4b09c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Alex Caceres",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1488.3,
+      "pre_elo": 1467.0,
+      "red_name": "Alex Caceres",
+      "round": "1.0",
+      "time": "3:18",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mackens Semerzier",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-11-11",
+      "elo_delta": -16.8,
+      "event_name": "WEC 52: Faber vs. Mizugaki",
+      "fight_id": "3711f1bfb954b009",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29-28, 28-29, 29-28)",
+      "opponent": "Cub Swanson",
+      "opponent_elo": 1506.3,
+      "outcome": "red_win",
+      "post_elo": 1467.0,
+      "pre_elo": 1483.8,
+      "red_name": "Cub Swanson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mackens Semerzier",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-08-18",
+      "elo_delta": -19.6,
+      "event_name": "WEC 50: Cruz vs. Benavidez 2",
+      "fight_id": "1b10df6e851e5375",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Javier Vazquez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1503.4,
+      "red_name": "Javier Vazquez",
+      "round": "2",
+      "time": "1:35",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mackens Semerzier",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-01-10",
+      "elo_delta": -18.2,
+      "event_name": "WEC 46: Varner vs. Henderson",
+      "fight_id": "43ee4466048e42cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Deividas Taurosevičius",
+      "opponent_elo": 1517.9,
+      "outcome": "red_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1521.6,
+      "red_name": "Deividas Taurosevičius",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Wagnney Fabiano",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-10-10",
+      "elo_delta": 21.6,
+      "event_name": "WEC 43: Cerrone vs. Henderson",
+      "fight_id": "63bfe3fae353d394",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Wagnney Fabiano",
+      "opponent_elo": 1539.5,
+      "outcome": "red_win",
+      "post_elo": 1521.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mackens Semerzier",
+      "round": "1",
+      "time": "2:14",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-10-10",
+      "fight_id": "63bfe3fae353d394",
+      "rating": 1521.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-10-10",
+      "fight_id": "63bfe3fae353d394",
+      "rating": 1519.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-01-10",
+      "fight_id": "43ee4466048e42cf",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-01-10",
+      "fight_id": "43ee4466048e42cf",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-18",
+      "fight_id": "1b10df6e851e5375",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-08-18",
+      "fight_id": "1b10df6e851e5375",
+      "rating": 1485.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "3711f1bfb954b009",
+      "rating": 1467.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "3711f1bfb954b009",
+      "rating": 1470.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-26",
+      "fight_id": "26e02559ec4b09c3",
+      "rating": 1488.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-03-26",
+      "fight_id": "26e02559ec4b09c3",
+      "rating": 1489.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "69e64f53033f48e8",
+      "rating": 1488.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "69e64f53033f48e8",
+      "rating": 1489.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-03-02",
+      "fight_id": "c9f593c31e09fac3",
+      "rating": 1468.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2012-03-02",
+      "fight_id": "c9f593c31e09fac3",
+      "rating": 1471.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-03-02",
+  "name": "Mackens Semerzier",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.6,
+  "slug": "mackens-semerzier",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

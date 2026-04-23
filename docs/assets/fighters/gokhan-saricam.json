@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 293,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Daniel James",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": 19.0,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "70dc39d7b7b771d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Daniel James",
+      "opponent_elo": 1519.8,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.4,
+      "red_name": "Gökhan Saricam",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Gökhan Saricam",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": -19.0,
+      "event_name": "Bellator 291: Amosov vs. Storley 2",
+      "fight_id": "2d9b79edb374812b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Oleg Popov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Oleg Popov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Charlie Milner",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-11-05",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 270: Queally vs. Pitbull 2",
+      "fight_id": "0c2b70f8bfe779dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Charlie Milner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Gökhan Saricam",
+      "round": "1",
+      "time": "0:15",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-11-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-05",
+      "fight_id": "0c2b70f8bfe779dc",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "0c2b70f8bfe779dc",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "2d9b79edb374812b",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "2d9b79edb374812b",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "70dc39d7b7b771d7",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "70dc39d7b7b771d7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-16",
+  "name": "Gökhan Saricam",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "gokhan-saricam",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

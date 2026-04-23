@@ -1,0 +1,167 @@
+{
+  "current_elo": 1570.2,
+  "divisional_rank": 6,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Jacqueline Cavalcanti",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-11-08",
+      "elo_delta": 16.3,
+      "event_name": "UFC Fight Night: Bonfim vs. Brown",
+      "fight_id": "9f0f53186a63a9a0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mayra Bueno Silva",
+      "opponent_elo": 1521.0,
+      "outcome": "blue_win",
+      "post_elo": 1570.2,
+      "pre_elo": 1553.8,
+      "red_name": "Mayra Bueno Silva",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jacqueline Cavalcanti",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-02-15",
+      "elo_delta": 16.7,
+      "event_name": "UFC Fight Night: Cannonier vs. Rodrigues",
+      "fight_id": "3ebe7222e6361a2b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Julia Avila",
+      "opponent_elo": 1512.2,
+      "outcome": "blue_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1537.1,
+      "red_name": "Julia Avila",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jacqueline Cavalcanti",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-09-28",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
+      "fight_id": "13bf53b13074fcdb",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Nora Cornolle",
+      "opponent_elo": 1538.4,
+      "outcome": "blue_win",
+      "post_elo": 1537.1,
+      "pre_elo": 1518.1,
+      "red_name": "Nora Cornolle",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Josiane Nunes",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-08-24",
+      "elo_delta": 18.1,
+      "event_name": "UFC Fight Night: Cannonier vs. Borralho",
+      "fight_id": "40a2b0184b6ccd69",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Josiane Nunes",
+      "opponent_elo": 1501.6,
+      "outcome": "red_win",
+      "post_elo": 1518.1,
+      "pre_elo": 1500.0,
+      "red_name": "Jacqueline Cavalcanti",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-09-02",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-09-02",
+      "fight_id": "7bbab8c42e5bf4b1",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "40a2b0184b6ccd69",
+      "rating": 1518.1,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "40a2b0184b6ccd69",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "13bf53b13074fcdb",
+      "rating": 1537.1,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "13bf53b13074fcdb",
+      "rating": 1534.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-02-15",
+      "fight_id": "3ebe7222e6361a2b",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-02-15",
+      "fight_id": "3ebe7222e6361a2b",
+      "rating": 1549.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "9f0f53186a63a9a0",
+      "rating": 1570.2,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "9f0f53186a63a9a0",
+      "rating": 1563.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": "https://www.instagram.com/jacqueline.cavalcanti/",
+  "instagram_featured": true,
+  "last_fight_date": "2025-11-08",
+  "name": "Jacqueline Cavalcanti",
+  "nickname": "",
+  "overall_elo": 1563.0,
+  "peak_elo": 1570.2,
+  "slug": "jacqueline-cavalcanti",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

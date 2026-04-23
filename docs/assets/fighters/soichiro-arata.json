@@ -1,0 +1,92 @@
+{
+  "current_elo": 1467.0,
+  "divisional_rank": 675,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Soichiro Arata",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2024-08-30",
+      "elo_delta": -18.4,
+      "event_name": "ONE Friday Fights 77: Yodlekpet vs. Kongsuk",
+      "fight_id": "475670b51ef4aa0e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Omar Drissi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.5,
+      "pre_elo": 1481.9,
+      "red_name": "Omar Drissi",
+      "round": "3",
+      "time": "2:16",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Soichiro Arata",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2024-05-31",
+      "elo_delta": -18.1,
+      "event_name": "ONE Friday Fights 65: Jaosuayai vs. Puengluang",
+      "fight_id": "32731d8680257f10",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Zhang Jinhu",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Zhang Jinhu",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-31",
+      "fight_id": "32731d8680257f10",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-05-31",
+      "fight_id": "32731d8680257f10",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-30",
+      "fight_id": "475670b51ef4aa0e",
+      "rating": 1463.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-08-30",
+      "fight_id": "475670b51ef4aa0e",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-08-30",
+  "name": "Soichiro Arata",
+  "nickname": "",
+  "overall_elo": 1471.0,
+  "peak_elo": 1500.0,
+  "slug": "soichiro-arata",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

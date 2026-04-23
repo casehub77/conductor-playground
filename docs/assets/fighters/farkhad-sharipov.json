@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1252,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Farkhad Sharipov",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-11-19",
+      "elo_delta": -16.8,
+      "event_name": "Bellator 58",
+      "fight_id": "df5ef19eaf5fbe9b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (30-27, 30-27, 30-27)",
+      "opponent": "Fabio Mello",
+      "opponent_elo": 1506.3,
+      "outcome": "red_win",
+      "post_elo": 1467.1,
+      "pre_elo": 1483.9,
+      "red_name": "Fabio Mello",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Farkhad Sharipov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 51",
+      "fight_id": "57d8f8ce4a44a86d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (29–28, 28–29, 30–27)",
+      "opponent": "Jessie Riggleman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1499.9,
+      "red_name": "Jessie Riggleman",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Eric Luke",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-08-12",
+      "elo_delta": 17.9,
+      "event_name": "Bellator 24",
+      "fight_id": "0ac6a300163e6a0b",
+      "gender": "men",
+      "is_title": false,
+      "method": "unanimous decision (30–27, 30–27, 30–27)",
+      "opponent": "Eric Luke",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1484.0,
+      "red_name": "Farkhad Sharipov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Farkhad Sharipov",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-03-29",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors: USA Battle Royale",
+      "fight_id": "46cacb03827daa86",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Brian Eckstein",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Brian Eckstein",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-29",
+      "fight_id": "46cacb03827daa86",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-03-29",
+      "fight_id": "46cacb03827daa86",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-12",
+      "fight_id": "0ac6a300163e6a0b",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-08-12",
+      "fight_id": "0ac6a300163e6a0b",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "57d8f8ce4a44a86d",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "57d8f8ce4a44a86d",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "df5ef19eaf5fbe9b",
+      "rating": 1467.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "df5ef19eaf5fbe9b",
+      "rating": 1469.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-19",
+  "name": "Farkhad Sharipov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.9,
+  "slug": "farkhad-sharipov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

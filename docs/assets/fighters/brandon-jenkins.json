@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 880,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brandon Jenkins",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-04-16",
+      "elo_delta": -15.3,
+      "event_name": "UFC Fight Night: Luque vs. Muhammad",
+      "fight_id": "d0354caccfe9b925",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Drakkar Klose",
+      "opponent_elo": 1554.5,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1479.4,
+      "red_name": "Drakkar Klose",
+      "round": "2.0",
+      "time": "0:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Brandon Jenkins",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Smith vs. Spann",
+      "fight_id": "a5676e88468088b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Rongzhu",
+      "opponent_elo": 1480.1,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Rongzhu",
+      "round": "3.0",
+      "time": "4:35",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-18",
+      "fight_id": "a5676e88468088b4",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "a5676e88468088b4",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "d0354caccfe9b925",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "d0354caccfe9b925",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-16",
+  "name": "Brandon Jenkins",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "brandon-jenkins",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

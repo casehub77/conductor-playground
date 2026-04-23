@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 218,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Edson Drago",
+      "bout_type": "Heavyweight Bout",
+      "date": "2007-04-08",
+      "elo_delta": 18.4,
+      "event_name": "Pride 34",
+      "fight_id": "86b2f67559f8e721",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (scarf hold)",
+      "opponent": "Edson Drago",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Yoshihiro Nakao",
+      "round": "1",
+      "time": "9:15",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Yoshihiro Nakao",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-09-10",
+      "elo_delta": -15.3,
+      "event_name": "Pride: Final Conflict Absolute",
+      "fight_id": "30a017c1fa50c2d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kazuhiro Nakamura",
+      "opponent_elo": 1568.9,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1517.3,
+      "red_name": "Kazuhiro Nakamura",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Eun-Su Lee",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-07-01",
+      "elo_delta": 19.4,
+      "event_name": "Pride: Critical Countdown Absolute",
+      "fight_id": "97265ed3f430dbde",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Eun-Su Lee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yoshihiro Nakao",
+      "round": "1",
+      "time": "4:16",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-07-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-07-01",
+      "fight_id": "97265ed3f430dbde",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-07-01",
+      "fight_id": "97265ed3f430dbde",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-09-10",
+      "fight_id": "30a017c1fa50c2d5",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-09-10",
+      "fight_id": "30a017c1fa50c2d5",
+      "rating": 1503.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-04-08",
+      "fight_id": "86b2f67559f8e721",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2007-04-08",
+      "fight_id": "86b2f67559f8e721",
+      "rating": 1520.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-04-08",
+  "name": "Yoshihiro Nakao",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "yoshihiro-nakao",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

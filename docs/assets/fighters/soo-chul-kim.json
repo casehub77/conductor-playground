@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 630,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Soo Chul Kim",
+      "bout_type": "Featherweight 66kg Bout",
+      "date": "2021-09-04",
+      "elo_delta": -19.2,
+      "event_name": "ROAD FC 59",
+      "fight_id": "a0982e07b94a78e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Hae Jin Park",
+      "opponent_elo": 1520.3,
+      "outcome": "red_win",
+      "post_elo": 1496.8,
+      "pre_elo": 1516.0,
+      "red_name": "Hae Jin Park",
+      "round": "1",
+      "time": "4:50",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Maike Linhares",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2015-12-31",
+      "elo_delta": 18.0,
+      "event_name": "Rizin World Grand Prix 2015: Part 2 - Iza",
+      "fight_id": "931b445d509f4a9c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Maike Linhares",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Soo Chul Kim",
+      "round": "3",
+      "time": "20:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2015-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-12-31",
+      "fight_id": "931b445d509f4a9c",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2015-12-31",
+      "fight_id": "931b445d509f4a9c",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "a0982e07b94a78e7",
+      "rating": 1496.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "a0982e07b94a78e7",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-04",
+  "name": "Soo Chul Kim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "soo-chul-kim",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

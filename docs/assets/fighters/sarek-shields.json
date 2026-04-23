@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 509,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sarek Shields",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-04-08",
+      "elo_delta": -20.5,
+      "event_name": "Legacy Fighting Alliance 128: McKenzie vs. Clay",
+      "fight_id": "470341c6cd51c5a8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Thad Jean",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Thad Jean",
+      "round": "2",
+      "time": "3:40",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jeremiah Curtright",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-01-21",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 122: Johnson vs. Mota",
+      "fight_id": "32a07c7d16a2f9af",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Jeremiah Curtright",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Sarek Shields",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-01-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-21",
+      "fight_id": "32a07c7d16a2f9af",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "32a07c7d16a2f9af",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "470341c6cd51c5a8",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "470341c6cd51c5a8",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-08",
+  "name": "Sarek Shields",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "sarek-shields",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

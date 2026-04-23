@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 420,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jerome Le Banner",
+      "bout_type": "Open Weight Bout",
+      "date": "2017-10-15",
+      "elo_delta": -21.0,
+      "event_name": "Rizin Fighting World Grand Prix 2017: opening round - Aki no Jin",
+      "fight_id": "62f8f4002b903bd8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Scarf Hold Chest Choke)",
+      "opponent": "Roque Martinez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1507.1,
+      "pre_elo": 1528.1,
+      "red_name": "Roque Martinez",
+      "round": "1",
+      "time": "2:10",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Don Frye",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-08-28",
+      "elo_delta": 28.1,
+      "event_name": "Pride Shockwave Dynamite!!",
+      "fight_id": "88da1e08f9c6a34c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Right Hook)",
+      "opponent": "Don Frye",
+      "opponent_elo": 1665.9,
+      "outcome": "red_win",
+      "post_elo": 1528.1,
+      "pre_elo": 1500.0,
+      "red_name": "Jerome Le Banner",
+      "round": "1",
+      "time": "1:30",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-08-28",
+      "fight_id": "88da1e08f9c6a34c",
+      "rating": 1528.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-08-28",
+      "fight_id": "88da1e08f9c6a34c",
+      "rating": 1524.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-10-15",
+      "fight_id": "62f8f4002b903bd8",
+      "rating": 1507.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2017-10-15",
+      "fight_id": "62f8f4002b903bd8",
+      "rating": 1505.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-10-15",
+  "name": "Jerome Le Banner",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1528.1,
+  "slug": "jerome-le-banner",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1510.5,
+  "divisional_rank": 241,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Wilson Reis",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-06-07",
+      "elo_delta": 20.7,
+      "event_name": "Cage Warriors 173: San Diego",
+      "fight_id": "0d16bbd22c8c1939",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Wilson Reis",
+      "opponent_elo": 1552.0,
+      "outcome": "red_win",
+      "post_elo": 1519.7,
+      "pre_elo": 1499.0,
+      "red_name": "Bruno Souza",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Bruno Souza",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-03-26",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Blaydes vs. Daukaus",
+      "fight_id": "4f13f983166dd9f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Luis Saldana",
+      "opponent_elo": 1497.8,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1518.0,
+      "red_name": "Luis Saldana",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Bruno Souza",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-11-06",
+      "elo_delta": -18.9,
+      "event_name": "UFC 268: Usman vs. Covington 2",
+      "fight_id": "519f15367d52c45f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Melsik Baghdasaryan",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1537.0,
+      "red_name": "Melsik Baghdasaryan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Javier Garcia",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-08-27",
+      "elo_delta": 19.0,
+      "event_name": "Legacy Fighting Alliance 114: Souza vs. Garcia",
+      "fight_id": "0c80f33a27586cfa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Javier Garcia",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1537.0,
+      "pre_elo": 1518.0,
+      "red_name": "Bruno Souza",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Elijah Johns",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-03-19",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 102: Souza vs. Johns",
+      "fight_id": "96c82b5994300520",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Elijah Johns",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Bruno Souza",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-19",
+      "fight_id": "96c82b5994300520",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-03-19",
+      "fight_id": "96c82b5994300520",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "0c80f33a27586cfa",
+      "rating": 1537.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "0c80f33a27586cfa",
+      "rating": 1532.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "519f15367d52c45f",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "519f15367d52c45f",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "4f13f983166dd9f2",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "4f13f983166dd9f2",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-07",
+      "fight_id": "0d16bbd22c8c1939",
+      "rating": 1519.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-06-07",
+      "fight_id": "0d16bbd22c8c1939",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-06-07",
+  "name": "Bruno Souza",
+  "nickname": "",
+  "overall_elo": 1508.1,
+  "peak_elo": 1537.0,
+  "slug": "bruno-souza",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

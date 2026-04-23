@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 82,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nicco Montano",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2019-07-13",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: De Randamie vs. Ladd",
+      "fight_id": "94f91d7f97a5ea97",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Julianna Pena",
+      "opponent_elo": 1548.2,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1516.0,
+      "red_name": "Julianna Pena",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Roxanne Modafferi",
+      "bout_type": "UFC Women's Flyweight Title Bout",
+      "date": "2017-12-01",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: A New World Champion Finale",
+      "fight_id": "cc7dda2596b2e8fc",
+      "gender": "women",
+      "is_title": true,
+      "method": "Decision - Unanimous",
+      "opponent": "Roxanne Modafferi",
+      "opponent_elo": 1467.5,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Nicco Montano",
+      "round": "5.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2017-12-01",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-12-01",
+      "fight_id": "cc7dda2596b2e8fc",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2017-12-01",
+      "fight_id": "cc7dda2596b2e8fc",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-07-13",
+      "fight_id": "94f91d7f97a5ea97",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2019-07-13",
+      "fight_id": "94f91d7f97a5ea97",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-07-13",
+  "name": "Nicco Montano",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "nicco-montano",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

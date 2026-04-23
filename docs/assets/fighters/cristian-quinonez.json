@@ -1,0 +1,160 @@
+{
+  "current_elo": 1499.6,
+  "divisional_rank": 905,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Kris Moutinho",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": 16.1,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "761ec15cf55f790f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kris Moutinho",
+      "opponent_elo": 1446.8,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1483.5,
+      "red_name": "Cristian Quinonez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Raoni Barcelos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-02-24",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Moreno vs. Royval 2",
+      "fight_id": "440dc8de20047f0b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Raoni Barcelos",
+      "opponent_elo": 1520.5,
+      "outcome": "blue_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1501.9,
+      "red_name": "Cristian Quinonez",
+      "round": "3.0",
+      "time": "2:04",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cristian Quinonez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": -16.4,
+      "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+      "fight_id": "4d9dc3dca570597e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kyung Ho Kang",
+      "opponent_elo": 1572.7,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1518.4,
+      "red_name": "Kyung Ho Kang",
+      "round": "1.0",
+      "time": "2:25",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cristian Quinonez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-09-03",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Gane vs. Tuivasa",
+      "fight_id": "7f725eded6467d51",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Khalid Taha",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Khalid Taha",
+      "round": "1.0",
+      "time": "3:15",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-09-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-03",
+      "fight_id": "7f725eded6467d51",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-09-03",
+      "fight_id": "7f725eded6467d51",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "4d9dc3dca570597e",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "4d9dc3dca570597e",
+      "rating": 1501.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "440dc8de20047f0b",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "440dc8de20047f0b",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "761ec15cf55f790f",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "761ec15cf55f790f",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Cristian Quinonez",
+  "nickname": "",
+  "overall_elo": 1499.2,
+  "peak_elo": 1518.4,
+  "slug": "cristian-quinonez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

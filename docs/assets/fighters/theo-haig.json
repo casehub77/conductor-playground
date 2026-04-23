@@ -1,0 +1,160 @@
+{
+  "current_elo": 1568.6,
+  "divisional_rank": 38,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Lance Wright",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-02-27",
+      "elo_delta": 15.4,
+      "event_name": "LFA 227: Nascimento vs. Kamikubo",
+      "fight_id": "d91d4abae99204cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Lance Wright",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1568.6,
+      "pre_elo": 1553.2,
+      "red_name": "Theo Haig",
+      "round": "2",
+      "time": "1:03",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Said-Magomed Abdulgaziev",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 17.4,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "5d3f6b64b4eaf040",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Said-Magomed Abdulgaziev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.2,
+      "pre_elo": 1535.8,
+      "red_name": "Theo Haig",
+      "round": "1",
+      "time": "1:49",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Adam Wamsley",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-03-10",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 292: Nurmagomedov vs. Henderson",
+      "fight_id": "8196595cfa7ff67b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Adam Wamsley",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Theo Haig",
+      "round": "1",
+      "time": "3:01",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Alan Benson",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "0c52777329d01a00",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Alan Benson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Theo Haig",
+      "round": "1",
+      "time": "2:08",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-15",
+      "fight_id": "0c52777329d01a00",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "0c52777329d01a00",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "8196595cfa7ff67b",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "8196595cfa7ff67b",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "5d3f6b64b4eaf040",
+      "rating": 1553.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "5d3f6b64b4eaf040",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "d91d4abae99204cc",
+      "rating": 1568.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "d91d4abae99204cc",
+      "rating": 1563.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-27",
+  "name": "Theo Haig",
+  "nickname": "",
+  "overall_elo": 1563.3,
+  "peak_elo": 1568.6,
+  "slug": "theo-haig",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

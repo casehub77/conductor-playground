@@ -1,0 +1,92 @@
+{
+  "current_elo": 1538.9,
+  "divisional_rank": 82,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "James Sheehan",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "06fe14019abf6661",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "James Sheehan",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1538.9,
+      "pre_elo": 1519.4,
+      "red_name": "Justin Burlinson",
+      "round": "4",
+      "time": "1:49",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Theodor Berggren",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 181: Newcastle",
+      "fight_id": "7cf6ad662542669f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Theodor Berggren",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Burlinson",
+      "round": "3",
+      "time": "2:44",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-11-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-23",
+      "fight_id": "7cf6ad662542669f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "7cf6ad662542669f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "06fe14019abf6661",
+      "rating": 1538.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "06fe14019abf6661",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-26",
+  "name": "Justin Burlinson",
+  "nickname": "",
+  "overall_elo": 1534.6,
+  "peak_elo": 1538.9,
+  "slug": "justin-burlinson",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

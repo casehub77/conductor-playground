@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 979,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Alvaro Herrera Mendoza",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-11-21",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Magny vs Gastelum",
+      "fight_id": "012dbfde51ea0899",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alvaro Herrera Mendoza",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Vernon Ramos Ho",
+      "round": "1.0",
+      "time": "0:30",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2015-11-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-11-21",
+      "fight_id": "012dbfde51ea0899",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-11-21",
+      "fight_id": "012dbfde51ea0899",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-11-21",
+  "name": "Vernon Ramos Ho",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "vernon-ramos-ho",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

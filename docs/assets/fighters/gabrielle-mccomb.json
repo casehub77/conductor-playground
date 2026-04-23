@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.8,
+  "divisional_rank": 33,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Cara Greenwell",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": 19.6,
+      "event_name": "LFA 213: Gonzalez vs. Rosales",
+      "fight_id": "14386f3a1b39f5dc",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Cara Greenwell",
+      "opponent_elo": 1519.5,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1517.3,
+      "red_name": "Gabrielle McComb",
+      "round": "2",
+      "time": "4:28",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Esmira Mammadova",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 19.4,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "3ecb157c83a7de2e",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Esmira Mammadova",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Gabrielle McComb",
+      "round": "1",
+      "time": "3:16",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-01-10",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-01-10",
+      "fight_id": "3ecb157c83a7de2e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "3ecb157c83a7de2e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "14386f3a1b39f5dc",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "14386f3a1b39f5dc",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Gabrielle McComb",
+  "nickname": "",
+  "overall_elo": 1534.6,
+  "peak_elo": 1536.8,
+  "slug": "gabrielle-mccomb",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

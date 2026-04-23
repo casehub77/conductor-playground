@@ -1,0 +1,92 @@
+{
+  "current_elo": 1539.3,
+  "divisional_rank": 79,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Seokhyeon Ko",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": 18.6,
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "fight_id": "b44483f71a5d8da1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Phil Rowe",
+      "opponent_elo": 1531.6,
+      "outcome": "blue_win",
+      "post_elo": 1539.3,
+      "pre_elo": 1520.7,
+      "red_name": "Phil Rowe",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Oban Elliott",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-21",
+      "elo_delta": 20.7,
+      "event_name": "UFC Fight Night: Hill vs. Rountree Jr.",
+      "fight_id": "572d90ffd038e047",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Oban Elliott",
+      "opponent_elo": 1552.4,
+      "outcome": "red_win",
+      "post_elo": 1520.7,
+      "pre_elo": 1500.0,
+      "red_name": "Seokhyeon Ko",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-06-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-06-21",
+      "fight_id": "572d90ffd038e047",
+      "rating": 1520.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-21",
+      "fight_id": "572d90ffd038e047",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "b44483f71a5d8da1",
+      "rating": 1539.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "b44483f71a5d8da1",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-01",
+  "name": "Seokhyeon Ko",
+  "nickname": "",
+  "overall_elo": 1534.6,
+  "peak_elo": 1539.3,
+  "slug": "seokhyeon-ko",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

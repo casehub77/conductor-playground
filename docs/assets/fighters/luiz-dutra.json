@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 874,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tom Breese",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-05-30",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Condit vs Alves",
+      "fight_id": "e442d13df967b146",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tom Breese",
+      "opponent_elo": 1517.3,
+      "outcome": "blue_win",
+      "post_elo": 1463.2,
+      "pre_elo": 1480.6,
+      "red_name": "Luiz Dutra",
+      "round": "1.0",
+      "time": "4:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Luiz Dutra",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-01-04",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Saffiedine vs Lim",
+      "fight_id": "3268610f1e4cfba2",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ",
+      "opponent": "Kiichi Kunimoto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kiichi Kunimoto",
+      "round": "1.0",
+      "time": "2:57",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2014-01-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-01-04",
+      "fight_id": "3268610f1e4cfba2",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-01-04",
+      "fight_id": "3268610f1e4cfba2",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-30",
+      "fight_id": "e442d13df967b146",
+      "rating": 1463.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-05-30",
+      "fight_id": "e442d13df967b146",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-05-30",
+  "name": "Luiz Dutra",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "luiz-dutra",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 611,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tony Halme",
+      "bout_type": "Heavyweight Bout",
+      "date": "1997-05-30",
+      "elo_delta": -18.3,
+      "event_name": "UFC 13: The Ultimate Force",
+      "fight_id": "10f03863895f2e08",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Randy Couture",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Randy Couture",
+      "round": "1.0",
+      "time": "0:56",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1997-05-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-05-30",
+      "fight_id": "10f03863895f2e08",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1997-05-30",
+      "fight_id": "10f03863895f2e08",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1997-05-30",
+  "name": "Tony Halme",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tony-halme",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

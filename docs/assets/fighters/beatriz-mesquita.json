@@ -1,0 +1,126 @@
+{
+  "current_elo": 1556.1,
+  "divisional_rank": 15,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Sierra Dinwoodie",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-06-20",
+      "elo_delta": 18.3,
+      "event_name": "LFA 211: Mesquita vs. Dinwoodie",
+      "fight_id": "2f4952e8c80a72f1",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Sierra Dinwoodie",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1556.1,
+      "pre_elo": 1537.8,
+      "red_name": "Beatriz Mesquita",
+      "round": "2",
+      "time": "3:05",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Hope Chase",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-03-06",
+      "elo_delta": 18.4,
+      "event_name": "LFA 203: Satybaldiev vs. Soares",
+      "fight_id": "8711b380f357dc9e",
+      "gender": "women",
+      "is_title": false,
+      "method": "DQ (illegal upkick)",
+      "opponent": "Hope Chase",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Beatriz Mesquita",
+      "round": "2",
+      "time": "2:20",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Fernanda Araujo",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-12-06",
+      "elo_delta": 19.4,
+      "event_name": "LFA 198: Miranda vs. Oyarzún",
+      "fight_id": "ada53b48e2a1f2f1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Fernanda Araujo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Beatriz Mesquita",
+      "round": "2",
+      "time": "4:21",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-12-06",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-12-06",
+      "fight_id": "ada53b48e2a1f2f1",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-12-06",
+      "fight_id": "ada53b48e2a1f2f1",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-03-06",
+      "fight_id": "8711b380f357dc9e",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-03-06",
+      "fight_id": "8711b380f357dc9e",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "2f4952e8c80a72f1",
+      "rating": 1556.1,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "2f4952e8c80a72f1",
+      "rating": 1550.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-20",
+  "name": "Beatriz Mesquita",
+  "nickname": "",
+  "overall_elo": 1550.1,
+  "peak_elo": 1556.1,
+  "slug": "beatriz-mesquita",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

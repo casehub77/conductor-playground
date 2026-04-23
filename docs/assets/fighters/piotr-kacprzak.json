@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.0,
+  "divisional_rank": 103,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Wojciech Kazieczko",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-01-17",
+      "elo_delta": 19.0,
+      "event_name": "XTB KSW 114: Parnasse vs. Held",
+      "fight_id": "f8d9b64d4a42e88c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority) (28–28, 29–28, 29–28)",
+      "opponent": "Wojciech Kazieczko",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1537.0,
+      "pre_elo": 1518.0,
+      "red_name": "Piotr Kacprzak",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jose Marcos Lima Santiago Jr.",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-03-19",
+      "elo_delta": 18.0,
+      "event_name": "KSW 68: Parnasse vs. Rutkowski",
+      "fight_id": "ba8eb2c331063995",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jose Marcos Lima Santiago Jr.",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Piotr Kacprzak",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-19",
+      "fight_id": "ba8eb2c331063995",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-03-19",
+      "fight_id": "ba8eb2c331063995",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "f8d9b64d4a42e88c",
+      "rating": 1537.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "f8d9b64d4a42e88c",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-17",
+  "name": "Piotr Kacprzak",
+  "nickname": "",
+  "overall_elo": 1533.4,
+  "peak_elo": 1537.0,
+  "slug": "piotr-kacprzak",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

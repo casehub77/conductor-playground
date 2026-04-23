@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 512,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Sidney Silva",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-05-12",
+      "elo_delta": 19.4,
+      "event_name": "WEC 27: Marshall vs. McElfresh",
+      "fight_id": "ebe1910e40c3f527",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Sidney Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tom Speer",
+      "round": "1",
+      "time": "4:33",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-05-12",
+      "fight_id": "ebe1910e40c3f527",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-05-12",
+      "fight_id": "ebe1910e40c3f527",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-05-12",
+  "name": "Tom Speer",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "tom-speer",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

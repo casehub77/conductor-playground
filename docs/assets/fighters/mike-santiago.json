@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 859,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Dan Ige",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-06-09",
+      "elo_delta": -18.4,
+      "event_name": "UFC 225: Whittaker vs. Romero 2",
+      "fight_id": "4e8133664494c320",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dan Ige",
+      "opponent_elo": 1482.0,
+      "outcome": "blue_win",
+      "post_elo": 1444.5,
+      "pre_elo": 1462.8,
+      "red_name": "Mike Santiago",
+      "round": "1.0",
+      "time": "0:50",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mike Santiago",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-01-14",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Stephens vs. Choi",
+      "fight_id": "7fa5da81dec550fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mads Burnell",
+      "opponent_elo": 1485.8,
+      "outcome": "red_win",
+      "post_elo": 1462.8,
+      "pre_elo": 1480.6,
+      "red_name": "Mads Burnell",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Zabit Magomedsharipov",
+      "bout_type": "Featherweight Bout",
+      "date": "2017-09-02",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Volkov vs. Struve",
+      "fight_id": "1fa1462a584bfdc0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Zabit Magomedsharipov",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Santiago",
+      "round": "2.0",
+      "time": "4:22",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2017-09-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-09-02",
+      "fight_id": "1fa1462a584bfdc0",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2017-09-02",
+      "fight_id": "1fa1462a584bfdc0",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-01-14",
+      "fight_id": "7fa5da81dec550fc",
+      "rating": 1462.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-01-14",
+      "fight_id": "7fa5da81dec550fc",
+      "rating": 1466.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "4e8133664494c320",
+      "rating": 1444.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "4e8133664494c320",
+      "rating": 1450.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-06-09",
+  "name": "Mike Santiago",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "mike-santiago",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1538.8,
+  "divisional_rank": 49,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Fabio Moraes",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-09-20",
+      "elo_delta": 18.3,
+      "event_name": "Oktagon 76: Weichel vs. Tounkara",
+      "fight_id": "85e2306a17a532d2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Fabio Moraes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1520.5,
+      "red_name": "Frederic Vosgröne",
+      "round": "1",
+      "time": "4:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Jorick Montagnac",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 69: Holzer vs. Ilbay",
+      "fight_id": "569eb56dd86a14a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (arm-triangle choke)",
+      "opponent": "Jorick Montagnac",
+      "opponent_elo": 1518.2,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Frederic Vosgröne",
+      "round": "2",
+      "time": "3:36",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-04-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-05",
+      "fight_id": "569eb56dd86a14a1",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "569eb56dd86a14a1",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-20",
+      "fight_id": "85e2306a17a532d2",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-09-20",
+      "fight_id": "85e2306a17a532d2",
+      "rating": 1534.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-20",
+  "name": "Frederic Vosgröne",
+  "nickname": "",
+  "overall_elo": 1534.5,
+  "peak_elo": 1538.8,
+  "slug": "frederic-vosgrone",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

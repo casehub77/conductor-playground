@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 871,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Luis Iniguez",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-07-22",
+      "elo_delta": -15.6,
+      "event_name": "Bellator 283: Lima vs. Jackson",
+      "fight_id": "e939d17412408e52",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Roman Faraldo",
+      "opponent_elo": 1552.2,
+      "outcome": "red_win",
+      "post_elo": 1466.4,
+      "pre_elo": 1482.0,
+      "red_name": "Roman Faraldo",
+      "round": "1",
+      "time": "3:42",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Luis Iniguez",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-03-19",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 102: Souza vs. Johns",
+      "fight_id": "f707da2c2a0bec5a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Haris Talundžić",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Haris Talundžić",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-19",
+      "fight_id": "f707da2c2a0bec5a",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-03-19",
+      "fight_id": "f707da2c2a0bec5a",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-22",
+      "fight_id": "e939d17412408e52",
+      "rating": 1466.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-22",
+      "fight_id": "e939d17412408e52",
+      "rating": 1469.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-22",
+  "name": "Luis Iniguez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "luis-iniguez",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

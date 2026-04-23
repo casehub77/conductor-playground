@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 414,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Nikita Mikhailov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-08-11",
+      "elo_delta": 21.8,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "9d353de3195a52b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Nikita Mikhailov",
+      "opponent_elo": 1541.8,
+      "outcome": "red_win",
+      "post_elo": 1520.7,
+      "pre_elo": 1498.9,
+      "red_name": "Leandro Higo",
+      "round": "2",
+      "time": "2:50",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Leandro Higo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-06-24",
+      "elo_delta": -16.7,
+      "event_name": "Bellator 282: Mousasi vs. Eblen",
+      "fight_id": "1eeb5a12e6db51cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 49–46, 49–46)",
+      "opponent": "Danny Sabatello",
+      "opponent_elo": 1540.5,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1515.6,
+      "red_name": "Danny Sabatello",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "a1d35a8dac49d5fb",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "1eeb5a12e6db51cd",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "1eeb5a12e6db51cd",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "9d353de3195a52b2",
+      "rating": 1520.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "9d353de3195a52b2",
+      "rating": 1519.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Leandro Higo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.7,
+  "slug": "leandro-higo",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

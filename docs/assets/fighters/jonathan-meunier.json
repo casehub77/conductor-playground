@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 677,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jonathan Meunier",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-11-26",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Whittaker vs. Brunson",
+      "fight_id": "161d69cae02d7eb1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Richard Walsh",
+      "opponent_elo": 1482.4,
+      "outcome": "blue_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1482.7,
+      "red_name": "Richard Walsh",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jonathan Meunier",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-06-18",
+      "elo_delta": -17.3,
+      "event_name": "UFC Fight Night: MacDonald vs Thompson",
+      "fight_id": "f836d7acc2fa6ba9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Colby Covington",
+      "opponent_elo": 1539.2,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Colby Covington",
+      "round": "3.0",
+      "time": "0:54",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2016-06-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-06-18",
+      "fight_id": "f836d7acc2fa6ba9",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "f836d7acc2fa6ba9",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-11-26",
+      "fight_id": "161d69cae02d7eb1",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-11-26",
+      "fight_id": "161d69cae02d7eb1",
+      "rating": 1500.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-11-26",
+  "name": "Jonathan Meunier",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.7,
+  "slug": "jonathan-meunier",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,41 @@
+{
+  "append": true,
+  "events": 22,
+  "existing_rows": 10584,
+  "output": "/Users/casehawts/conductor/workspaces/conductor-playground-v2/philadelphia/data/manual_events/wikipedia_backfill.csv",
+  "rows": 10584,
+  "sources": [
+    {
+      "discovered_titles": 12,
+      "discovery": "page_links",
+      "errors": [],
+      "name": "rizin_years",
+      "parsed_titles": 12,
+      "rows": 918,
+      "source_ref": "Rizin Fighting Federation"
+    },
+    {
+      "discovered_titles": 10,
+      "discovery": "search",
+      "errors": [
+        "2017 in Legacy Fighting Alliance: No Wikipedia event sections parsed for 2017 in Legacy Fighting Alliance.",
+        "2020 in Legacy Fighting Alliance: No Wikipedia event sections parsed for 2020 in Legacy Fighting Alliance.",
+        "2019 in Legacy Fighting Alliance: No Wikipedia event sections parsed for 2019 in Legacy Fighting Alliance.",
+        "2018 in Legacy Fighting Alliance: No Wikipedia event sections parsed for 2018 in Legacy Fighting Alliance."
+      ],
+      "name": "lfa",
+      "parsed_titles": 6,
+      "rows": 1040,
+      "source_ref": "Legacy Fighting Alliance"
+    },
+    {
+      "discovered_titles": 4,
+      "discovery": "search",
+      "errors": [],
+      "name": "oktagon",
+      "parsed_titles": 4,
+      "rows": 520,
+      "source_ref": "Oktagon MMA"
+    }
+  ]
+}

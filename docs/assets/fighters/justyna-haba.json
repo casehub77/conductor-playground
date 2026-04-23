@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 99,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Karolina Owczarz",
+      "bout_type": "W.Flyweight 57 kg Bout",
+      "date": "2020-11-14",
+      "elo_delta": 19.0,
+      "event_name": "KSW 56: Materla vs. Soldić",
+      "fight_id": "fb3ecaadaa8acb84",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Karolina Owczarz",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Justyna Haba",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Justyna Haba",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2019-04-21",
+      "elo_delta": -18.0,
+      "event_name": "Rizin 15 - Yokohama",
+      "fight_id": "96f9f2247068d7ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kana Watanabe",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Kana Watanabe",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shinju Nozawa Auclair",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2018-12-31",
+      "elo_delta": 19.4,
+      "event_name": "Rizin 14 - Saitama",
+      "fight_id": "8a8ef82e531bd234",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Shinju Nozawa Auclair",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Justyna Haba",
+      "round": "2",
+      "time": "8:41",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2018-12-31",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2018-12-31",
+      "fight_id": "8a8ef82e531bd234",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "8a8ef82e531bd234",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-04-21",
+      "fight_id": "96f9f2247068d7ea",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2019-04-21",
+      "fight_id": "96f9f2247068d7ea",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-11-14",
+      "fight_id": "fb3ecaadaa8acb84",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2020-11-14",
+      "fight_id": "fb3ecaadaa8acb84",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-11-14",
+  "name": "Justyna Haba",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "justyna-haba",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

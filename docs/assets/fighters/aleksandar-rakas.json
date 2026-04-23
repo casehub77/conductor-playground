@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 694,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Aleksandar Rakas",
+      "bout_type": "Catchweight 80 kg Bout",
+      "date": "2021-09-04",
+      "elo_delta": -18.5,
+      "event_name": "KSW 63: Crime of The Century",
+      "fight_id": "787955db2b2760cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Tomasz Romanowski",
+      "opponent_elo": 1498.5,
+      "outcome": "red_win",
+      "post_elo": 1463.2,
+      "pre_elo": 1481.7,
+      "red_name": "Tomasz Romanowski",
+      "round": "1",
+      "time": "1:59",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Aleksandar Rakas",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2021-01-30",
+      "elo_delta": -18.3,
+      "event_name": "KSW 58: Parnasse vs. Torres",
+      "fight_id": "457e1464ec019f3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Michał Michalski",
+      "opponent_elo": 1520.8,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Michał Michalski",
+      "round": "1",
+      "time": "4:35",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-01-30",
+      "fight_id": "457e1464ec019f3a",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-01-30",
+      "fight_id": "457e1464ec019f3a",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "787955db2b2760cf",
+      "rating": 1463.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "787955db2b2760cf",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-04",
+  "name": "Aleksandar Rakas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "aleksandar-rakas",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

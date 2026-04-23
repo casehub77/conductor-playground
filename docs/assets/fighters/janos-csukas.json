@@ -1,0 +1,92 @@
+{
+  "current_elo": 1492.3,
+  "divisional_rank": 664,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Janos Csukas",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2023-09-24",
+      "elo_delta": -17.3,
+      "event_name": "Rizin 44",
+      "fight_id": "68db57f39d1e7673",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Heel Hook)",
+      "opponent": "Shoma Shibisai",
+      "opponent_elo": 1521.3,
+      "outcome": "red_win",
+      "post_elo": 1465.5,
+      "pre_elo": 1482.8,
+      "red_name": "Shoma Shibisai",
+      "round": "1",
+      "time": "2:27",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Janos Csukas",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2022-10-23",
+      "elo_delta": -17.2,
+      "event_name": "Rizin 39",
+      "fight_id": "83138c14ccc6d8e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches and Knee)",
+      "opponent": "Tsuyoshi Sudario",
+      "opponent_elo": 1539.4,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Tsuyoshi Sudario",
+      "round": "2",
+      "time": "0:30",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-10-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-23",
+      "fight_id": "83138c14ccc6d8e3",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-10-23",
+      "fight_id": "83138c14ccc6d8e3",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "68db57f39d1e7673",
+      "rating": 1465.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "68db57f39d1e7673",
+      "rating": 1468.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-24",
+  "name": "Janos Csukas",
+  "nickname": "",
+  "overall_elo": 1495.6,
+  "peak_elo": 1500.0,
+  "slug": "janos-csukas",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

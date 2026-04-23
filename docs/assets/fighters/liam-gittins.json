@@ -1,0 +1,92 @@
+{
+  "current_elo": 1519.4,
+  "divisional_rank": 168,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alessandro Giordano",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 0.0,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "0b436491949b5ff7",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental eye poke)",
+      "opponent": "Alessandro Giordano",
+      "opponent_elo": 1553.9,
+      "outcome": "no_contest",
+      "post_elo": 1519.4,
+      "pre_elo": 1519.4,
+      "red_name": "Liam Gittins",
+      "round": "3",
+      "time": "2:18",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Roberto Hernandez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 168: Manchester",
+      "fight_id": "40803808e3b88d07",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Roberto Hernandez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Liam Gittins",
+      "round": "5",
+      "time": "1:48",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-16",
+      "fight_id": "40803808e3b88d07",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "40803808e3b88d07",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "0b436491949b5ff7",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "0b436491949b5ff7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-08",
+  "name": "Liam Gittins",
+  "nickname": "",
+  "overall_elo": 1517.3,
+  "peak_elo": 1519.4,
+  "slug": "liam-gittins",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

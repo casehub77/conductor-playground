@@ -1,0 +1,65 @@
+{
+  "current_elo": 1498.4,
+  "divisional_rank": 914,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Karol Durszlewicz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -18.9,
+      "event_name": "XTB KSW 115: Przybysz vs. Yakymenko",
+      "fight_id": "0e60a96318c14f86",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–28, 30–26)",
+      "opponent": "Mariusz Joniak",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1517.3,
+      "red_name": "Mariusz Joniak",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-07-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-07-19",
+      "fight_id": "030ea354083fa8ba",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "0e60a96318c14f86",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "0e60a96318c14f86",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Karol Durszlewicz",
+  "nickname": "",
+  "overall_elo": 1500.5,
+  "peak_elo": 1517.3,
+  "slug": "karol-durszlewicz",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

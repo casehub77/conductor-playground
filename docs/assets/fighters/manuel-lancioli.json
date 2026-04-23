@@ -1,0 +1,126 @@
+{
+  "current_elo": 1456.0,
+  "divisional_rank": 1241,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Manuel Lancioli",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2026-04-11",
+      "elo_delta": -9.7,
+      "event_name": "Cage Warriors 204: Rome",
+      "fight_id": "fbdeea1cf8c69ad9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Gianluca Rocca",
+      "opponent_elo": 1464.9,
+      "outcome": "red_win",
+      "post_elo": 1456.0,
+      "pre_elo": 1465.8,
+      "red_name": "Gianluca Rocca",
+      "round": "1",
+      "time": "0:59",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Manuel Lancioli",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": -16.2,
+      "event_name": "Cage Warriors 195: Rome",
+      "fight_id": "d42530d1b32685f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Alexander O'Sullivan",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1465.8,
+      "pre_elo": 1482.0,
+      "red_name": "Alexander O'Sullivan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Manuel Lancioli",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "badeba2db0020e78",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Antonino Amodeo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Antonino Amodeo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-31",
+      "fight_id": "badeba2db0020e78",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "badeba2db0020e78",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "d42530d1b32685f1",
+      "rating": 1465.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "d42530d1b32685f1",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "fbdeea1cf8c69ad9",
+      "rating": 1456.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "fbdeea1cf8c69ad9",
+      "rating": 1460.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Manuel Lancioli",
+  "nickname": "",
+  "overall_elo": 1460.8,
+  "peak_elo": 1500.0,
+  "slug": "manuel-lancioli",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

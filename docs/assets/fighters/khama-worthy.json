@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 437,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Jai Herbert",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-10-23",
+      "elo_delta": -21.0,
+      "event_name": "UFC Fight Night: Costa vs. Vettori",
+      "fight_id": "c62811ff95c61f36",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jai Herbert",
+      "opponent_elo": 1470.7,
+      "outcome": "blue_win",
+      "post_elo": 1477.0,
+      "pre_elo": 1497.9,
+      "red_name": "Khama Worthy",
+      "round": "1.0",
+      "time": "2:47",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Khama Worthy",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-03-27",
+      "elo_delta": -22.6,
+      "event_name": "UFC 260: Miocic vs. Ngannou",
+      "fight_id": "d4f3d6e12fb5fb39",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jamie Mullarkey",
+      "opponent_elo": 1464.1,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1520.5,
+      "red_name": "Jamie Mullarkey",
+      "round": "1.0",
+      "time": "0:46",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Khama Worthy",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-09-12",
+      "elo_delta": -20.7,
+      "event_name": "UFC Fight Night: Waterson vs. Hill",
+      "fight_id": "2b43d5574ba396f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ottman Azaitar",
+      "opponent_elo": 1518.6,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1541.2,
+      "red_name": "Ottman Azaitar",
+      "round": "1.0",
+      "time": "1:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Khama Worthy",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-06-27",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Poirier vs. Hooker",
+      "fight_id": "539604726c38f5ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Luis Pena",
+      "opponent_elo": 1523.6,
+      "outcome": "blue_win",
+      "post_elo": 1541.2,
+      "pre_elo": 1521.7,
+      "red_name": "Luis Pena",
+      "round": "3.0",
+      "time": "2:53",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Khama Worthy",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-08-17",
+      "elo_delta": 21.7,
+      "event_name": "UFC 241: Cormier vs. Miocic 2",
+      "fight_id": "3c13adfc51a93062",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Devonte Smith",
+      "opponent_elo": 1540.0,
+      "outcome": "blue_win",
+      "post_elo": 1521.7,
+      "pre_elo": 1500.0,
+      "red_name": "Devonte Smith",
+      "round": "1.0",
+      "time": "4:15",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2019-08-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-08-17",
+      "fight_id": "3c13adfc51a93062",
+      "rating": 1521.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-08-17",
+      "fight_id": "3c13adfc51a93062",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-06-27",
+      "fight_id": "539604726c38f5ce",
+      "rating": 1541.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-06-27",
+      "fight_id": "539604726c38f5ce",
+      "rating": 1537.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "2b43d5574ba396f2",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "2b43d5574ba396f2",
+      "rating": 1518.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-03-27",
+      "fight_id": "d4f3d6e12fb5fb39",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-03-27",
+      "fight_id": "d4f3d6e12fb5fb39",
+      "rating": 1499.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "c62811ff95c61f36",
+      "rating": 1477.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "c62811ff95c61f36",
+      "rating": 1480.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-23",
+  "name": "Khama Worthy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1541.2,
+  "slug": "khama-worthy",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

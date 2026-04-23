@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.7,
+  "divisional_rank": 1283,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Antonio Sheldon",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": -18.3,
+      "event_name": "Cage Warriors 185: Manchester",
+      "fight_id": "8cc090eda030b1c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Teddy Stringer",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1518.0,
+      "red_name": "Teddy Stringer",
+      "round": "1",
+      "time": "1:25",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tom Means",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 168: Manchester",
+      "fight_id": "e28e11c9f0d4b3e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Tom Means",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Antonio Sheldon",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-16",
+      "fight_id": "e28e11c9f0d4b3e5",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "e28e11c9f0d4b3e5",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "8cc090eda030b1c4",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "8cc090eda030b1c4",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-15",
+  "name": "Antonio Sheldon",
+  "nickname": "",
+  "overall_elo": 1499.6,
+  "peak_elo": 1518.0,
+  "slug": "antonio-sheldon",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

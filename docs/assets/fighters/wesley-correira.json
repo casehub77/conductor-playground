@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 514,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Walt Pels",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-17",
+      "elo_delta": 19.4,
+      "event_name": "WEC 14: Vengeance",
+      "fight_id": "0f60462f7c8a98c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Walt Pels",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1500.1,
+      "red_name": "Wesley Correira",
+      "round": "1",
+      "time": "0:23",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Wesley Correira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2004-04-02",
+      "elo_delta": -19.0,
+      "event_name": "UFC 47: It's On!",
+      "fight_id": "924396d3458bbdf1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Andrei Arlovski",
+      "opponent_elo": 1526.6,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.0,
+      "red_name": "Andrei Arlovski",
+      "round": "2.0",
+      "time": "1:15",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "David Abbott",
+      "bout_type": "Heavyweight Bout",
+      "date": "2003-11-21",
+      "elo_delta": 17.9,
+      "event_name": "UFC 45: Revolution",
+      "fight_id": "ecff32efdb4b2f8c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "David Abbott",
+      "opponent_elo": 1474.3,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1501.1,
+      "red_name": "Wesley Correira",
+      "round": "1.0",
+      "time": "2:14",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sean Alvarez",
+      "bout_type": "Heavyweight Bout",
+      "date": "2003-04-25",
+      "elo_delta": 20.5,
+      "event_name": "UFC 42: Sudden Impact",
+      "fight_id": "17be08e552b5bb03",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Sean Alvarez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Wesley Correira",
+      "round": "2.0",
+      "time": "1:46",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Wesley Correira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2002-09-27",
+      "elo_delta": -19.4,
+      "event_name": "UFC 39: The Warriors Return",
+      "fight_id": "46ee66c7a468ce5b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tim Sylvia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Tim Sylvia",
+      "round": "2.0",
+      "time": "1:43",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2002-09-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-09-27",
+      "fight_id": "46ee66c7a468ce5b",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2002-09-27",
+      "fight_id": "46ee66c7a468ce5b",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-04-25",
+      "fight_id": "17be08e552b5bb03",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2003-04-25",
+      "fight_id": "17be08e552b5bb03",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-11-21",
+      "fight_id": "ecff32efdb4b2f8c",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2003-11-21",
+      "fight_id": "ecff32efdb4b2f8c",
+      "rating": 1517.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-04-02",
+      "fight_id": "924396d3458bbdf1",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2004-04-02",
+      "fight_id": "924396d3458bbdf1",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "0f60462f7c8a98c9",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "0f60462f7c8a98c9",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-03-17",
+  "name": "Wesley Correira",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.6,
+  "slug": "wesley-correira",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

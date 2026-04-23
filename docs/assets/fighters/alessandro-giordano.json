@@ -1,0 +1,160 @@
+{
+  "current_elo": 1553.9,
+  "divisional_rank": 66,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Alessandro Giordano",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 0.0,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "0b436491949b5ff7",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental eye poke)",
+      "opponent": "Liam Gittins",
+      "opponent_elo": 1519.4,
+      "outcome": "no_contest",
+      "post_elo": 1553.9,
+      "pre_elo": 1553.9,
+      "red_name": "Liam Gittins",
+      "round": "3",
+      "time": "2:18",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Emanuele Zaccaria",
+      "bout_type": "Catchweight (141 lb) Bout",
+      "date": "2024-11-02",
+      "elo_delta": 15.0,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "727557021b40a133",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Emanuele Zaccaria",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1553.9,
+      "pre_elo": 1538.9,
+      "red_name": "Alessandro Giordano",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Michele Martignoni",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "fcf838909f47e5d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Michele Martignoni",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1538.9,
+      "pre_elo": 1519.4,
+      "red_name": "Alessandro Giordano",
+      "round": "3",
+      "time": "4:33",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Sam Kelly",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 168: Manchester",
+      "fight_id": "9452ebd57cd12a43",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Sam Kelly",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Alessandro Giordano",
+      "round": "3",
+      "time": "4:17",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-16",
+      "fight_id": "9452ebd57cd12a43",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "9452ebd57cd12a43",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "fcf838909f47e5d4",
+      "rating": 1538.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "fcf838909f47e5d4",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "727557021b40a133",
+      "rating": 1553.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "727557021b40a133",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "0b436491949b5ff7",
+      "rating": 1553.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "0b436491949b5ff7",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-08",
+  "name": "Alessandro Giordano",
+  "nickname": "",
+  "overall_elo": 1548.2,
+  "peak_elo": 1553.9,
+  "slug": "alessandro-giordano",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

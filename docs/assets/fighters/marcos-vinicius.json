@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 369,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ali Bagautinov",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-09-04",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Teixeira vs Bader",
+      "fight_id": "31ff6fb0f33f2e9a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ali Bagautinov",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.8,
+      "red_name": "Marcos Vinicius",
+      "round": "3.0",
+      "time": "3:28",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Marcos Vinicius",
+      "bout_type": "Bantamweight Bout",
+      "date": "2012-12-15",
+      "elo_delta": -18.3,
+      "event_name": "The Ultimate Fighter: Team Carwin vs. Team Nelson Finale",
+      "fight_id": "58812a999654ba89",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Johnny Bedford",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1517.3,
+      "red_name": "Johnny Bedford",
+      "round": "2.0",
+      "time": "1:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Wagner Campos",
+      "bout_type": "Featherweight Bout",
+      "date": "2012-06-23",
+      "elo_delta": 19.4,
+      "event_name": "UFC 147: Silva vs Franklin 2",
+      "fight_id": "ec72d217b3c85e7e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Wagner Campos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marcos Vinicius",
+      "round": "3.0",
+      "time": "1:04",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2012-06-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-06-23",
+      "fight_id": "ec72d217b3c85e7e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2012-06-23",
+      "fight_id": "ec72d217b3c85e7e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-12-15",
+      "fight_id": "58812a999654ba89",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2012-12-15",
+      "fight_id": "58812a999654ba89",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "31ff6fb0f33f2e9a",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "31ff6fb0f33f2e9a",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-09-04",
+  "name": "Marcos Vinicius",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "marcos-vinicius",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

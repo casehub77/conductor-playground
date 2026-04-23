@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 475,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Carlston Harris",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-05-08",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Rodriguez vs. Waterson",
+      "fight_id": "d1b2c960dd028d27",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Carlston Harris",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.9,
+      "red_name": "Christian Aguilera",
+      "round": "1.0",
+      "time": "2:52",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Christian Aguilera",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-08-29",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Smith vs. Rakic",
+      "fight_id": "6b9cc3e9ae82bcd5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Sean Brady",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1519.4,
+      "red_name": "Sean Brady",
+      "round": "2.0",
+      "time": "1:47",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Christian Aguilera",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-06-13",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Eye vs. Calvillo",
+      "fight_id": "d18cdd357f16f588",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anthony Ivy",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Anthony Ivy",
+      "round": "1.0",
+      "time": "0:59",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2020-06-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-06-13",
+      "fight_id": "d18cdd357f16f588",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-06-13",
+      "fight_id": "d18cdd357f16f588",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "6b9cc3e9ae82bcd5",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "6b9cc3e9ae82bcd5",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-08",
+      "fight_id": "d1b2c960dd028d27",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-05-08",
+      "fight_id": "d1b2c960dd028d27",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-05-08",
+  "name": "Christian Aguilera",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "christian-aguilera",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

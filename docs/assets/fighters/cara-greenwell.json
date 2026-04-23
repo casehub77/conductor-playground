@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.9,
+  "divisional_rank": 250,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Cara Greenwell",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -19.6,
+      "event_name": "LFA 213: Gonzalez vs. Rosales",
+      "fight_id": "14386f3a1b39f5dc",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Gabrielle McComb",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.5,
+      "red_name": "Gabrielle McComb",
+      "round": "2",
+      "time": "4:28",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Leslie Hernandez",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-04-18",
+      "elo_delta": 19.5,
+      "event_name": "LFA 207: Lewis vs. Miranda",
+      "fight_id": "6959a1426d4dc734",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Leslie Hernandez",
+      "opponent_elo": 1500.4,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Cara Greenwell",
+      "round": "2",
+      "time": "3:40",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2025-04-18",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-04-18",
+      "fight_id": "6959a1426d4dc734",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-04-18",
+      "fight_id": "6959a1426d4dc734",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "14386f3a1b39f5dc",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "14386f3a1b39f5dc",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Cara Greenwell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.5,
+  "slug": "cara-greenwell",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

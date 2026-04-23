@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 975,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mark Striegl",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -13.7,
+      "event_name": "UFC Fight Night: Walker vs. Hill",
+      "fight_id": "bad62ba75a7db4df",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chas Skelly",
+      "opponent_elo": 1589.6,
+      "outcome": "red_win",
+      "post_elo": 1470.0,
+      "pre_elo": 1483.7,
+      "red_name": "Chas Skelly",
+      "round": "2.0",
+      "time": "2:01",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mark Striegl",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-10-17",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Ortega vs. The Korean Zombie",
+      "fight_id": "c9a2859611c5a020",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Said Nurmagomedov",
+      "opponent_elo": 1520.3,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Said Nurmagomedov",
+      "round": "1.0",
+      "time": "0:51",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-10-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-10-17",
+      "fight_id": "c9a2859611c5a020",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-10-17",
+      "fight_id": "c9a2859611c5a020",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "bad62ba75a7db4df",
+      "rating": 1470.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "bad62ba75a7db4df",
+      "rating": 1471.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-19",
+  "name": "Mark Striegl",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "mark-striegl",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

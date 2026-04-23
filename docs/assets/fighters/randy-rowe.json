@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 278,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jason Jones",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2002-08-31",
+      "elo_delta": 19.4,
+      "event_name": "WEC 4 – Rumble Under The Sun",
+      "fight_id": "9fc7fd02ac2927bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ (punching after the bell)",
+      "opponent": "Jason Jones",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Randy Rowe",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2002-08-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-08-31",
+      "fight_id": "9fc7fd02ac2927bb",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2002-08-31",
+      "fight_id": "9fc7fd02ac2927bb",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-08-31",
+  "name": "Randy Rowe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "randy-rowe",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

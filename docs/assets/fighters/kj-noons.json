@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 757,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Kj Noons",
+      "bout_type": "Lightweight Bout",
+      "date": "2016-02-06",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: Hendricks vs Thompson",
+      "fight_id": "3df27fa2715dc23f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Joshua Burkman",
+      "opponent_elo": 1467.5,
+      "outcome": "red_win",
+      "post_elo": 1489.3,
+      "pre_elo": 1509.5,
+      "red_name": "Joshua Burkman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alex Oliveira",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-05-30",
+      "elo_delta": -21.9,
+      "event_name": "UFC Fight Night: Condit vs Alves",
+      "fight_id": "a407cc74bfa585c7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Alex Oliveira",
+      "opponent_elo": 1484.3,
+      "outcome": "blue_win",
+      "post_elo": 1506.1,
+      "pre_elo": 1528.0,
+      "red_name": "Kj Noons",
+      "round": "1.0",
+      "time": "2:51",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Daron Cruickshank",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-12-12",
+      "elo_delta": 0.0,
+      "event_name": "The Ultimate Fighter: A Champion Will Be Crowned Finale",
+      "fight_id": "bbd2ce92635c0ca3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Could Not Continue",
+      "opponent": "Daron Cruickshank",
+      "opponent_elo": 1553.6,
+      "outcome": "no_contest",
+      "post_elo": 1509.5,
+      "pre_elo": 1509.5,
+      "red_name": "Kj Noons",
+      "round": "2.0",
+      "time": "0:25",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kj Noons",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-04-16",
+      "elo_delta": 20.3,
+      "event_name": "UFC Fight Night: Bisping vs Kennedy",
+      "fight_id": "5348e745307da68e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Sam Stout",
+      "opponent_elo": 1522.6,
+      "outcome": "blue_win",
+      "post_elo": 1528.0,
+      "pre_elo": 1507.7,
+      "red_name": "Sam Stout",
+      "round": "1.0",
+      "time": "0:30",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kj Noons",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-10-19",
+      "elo_delta": 21.1,
+      "event_name": "UFC 166: Velasquez vs Dos Santos 3",
+      "fight_id": "9795c52352c1b1b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "George Sotiropoulos",
+      "opponent_elo": 1547.9,
+      "outcome": "blue_win",
+      "post_elo": 1509.5,
+      "pre_elo": 1488.4,
+      "red_name": "George Sotiropoulos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kj Noons",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-05-25",
+      "elo_delta": -11.6,
+      "event_name": "UFC 160: Velasquez vs Silva 2",
+      "fight_id": "3ca25e823c7d3ec7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Donald Cerrone",
+      "opponent_elo": 1629.4,
+      "outcome": "red_win",
+      "post_elo": 1488.4,
+      "pre_elo": 1500.0,
+      "red_name": "Donald Cerrone",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2013-05-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-05-25",
+      "fight_id": "3ca25e823c7d3ec7",
+      "rating": 1488.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-05-25",
+      "fight_id": "3ca25e823c7d3ec7",
+      "rating": 1489.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-10-19",
+      "fight_id": "9795c52352c1b1b6",
+      "rating": 1509.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-10-19",
+      "fight_id": "9795c52352c1b1b6",
+      "rating": 1507.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-04-16",
+      "fight_id": "5348e745307da68e",
+      "rating": 1528.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-04-16",
+      "fight_id": "5348e745307da68e",
+      "rating": 1525.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-12",
+      "fight_id": "bbd2ce92635c0ca3",
+      "rating": 1509.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-12-12",
+      "fight_id": "bbd2ce92635c0ca3",
+      "rating": 1525.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-30",
+      "fight_id": "a407cc74bfa585c7",
+      "rating": 1506.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-05-30",
+      "fight_id": "a407cc74bfa585c7",
+      "rating": 1506.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-02-06",
+      "fight_id": "3df27fa2715dc23f",
+      "rating": 1489.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-02-06",
+      "fight_id": "3df27fa2715dc23f",
+      "rating": 1488.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-02-06",
+  "name": "Kj Noons",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1528.0,
+  "slug": "kj-noons",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

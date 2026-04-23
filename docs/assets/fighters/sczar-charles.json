@@ -1,0 +1,92 @@
+{
+  "current_elo": 1495.7,
+  "divisional_rank": 1320,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sczar Charles",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -20.3,
+      "event_name": "LFA 213: Gonzalez vs. Rosales",
+      "fight_id": "d4328b0a578422ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Benjamin Orozco",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1495.7,
+      "pre_elo": 1516.0,
+      "red_name": "Benjamin Orozco",
+      "round": "1",
+      "time": "2:20",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ueslei Alves",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 18.0,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "6bdd8304bf82b1e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority) (29–28, 28–28, 29–28)",
+      "opponent": "Ueslei Alves",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Sczar Charles",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-10",
+      "fight_id": "6bdd8304bf82b1e7",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "6bdd8304bf82b1e7",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "d4328b0a578422ba",
+      "rating": 1495.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "d4328b0a578422ba",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Sczar Charles",
+  "nickname": "",
+  "overall_elo": 1497.9,
+  "peak_elo": 1518.0,
+  "slug": "sczar-charles",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 172,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Denpayak Detpetchsrithong",
+      "bout_type": "Catchweight (134 lbs) Muay Thai Bout",
+      "date": "2023-07-07",
+      "elo_delta": 17.8,
+      "event_name": "ONE Friday Fights 24: Reis vs. Pongsiri 2",
+      "fight_id": "ffcf678cc058987c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Denpayak Detpetchsrithong",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1502.6,
+      "pre_elo": 1484.8,
+      "red_name": "Songfangkhong F.A.Group",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-03-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-31",
+      "fight_id": "cadb8b0471478e90",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-07",
+      "fight_id": "ffcf678cc058987c",
+      "rating": 1502.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2023-07-07",
+      "fight_id": "ffcf678cc058987c",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-07",
+  "name": "Songfangkhong F.A.Group",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.6,
+  "slug": "songfangkhong-f-a-group",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

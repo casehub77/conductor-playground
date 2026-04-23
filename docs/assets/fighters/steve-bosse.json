@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 231,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Sean O'Connell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-06-18",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: MacDonald vs Thompson",
+      "fight_id": "526aa1d451cb315e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sean O'Connell",
+      "opponent_elo": 1489.2,
+      "outcome": "red_win",
+      "post_elo": 1523.4,
+      "pre_elo": 1506.3,
+      "red_name": "Steve Bosse",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Steve Bosse",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-03-19",
+      "elo_delta": 22.0,
+      "event_name": "UFC Fight Night: Hunt vs Mir",
+      "fight_id": "9d34c7116f81faf9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "James Te Huna",
+      "opponent_elo": 1531.1,
+      "outcome": "blue_win",
+      "post_elo": 1506.3,
+      "pre_elo": 1484.3,
+      "red_name": "James Te Huna",
+      "round": "1.0",
+      "time": "0:52",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Steve Bosse",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-06-27",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Machida vs Romero",
+      "fight_id": "afa250e51f7661b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Thiago Santos",
+      "opponent_elo": 1530.9,
+      "outcome": "red_win",
+      "post_elo": 1482.3,
+      "pre_elo": 1500.0,
+      "red_name": "Thiago Santos",
+      "round": "1.0",
+      "time": "0:29",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2015-06-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-06-27",
+      "fight_id": "afa250e51f7661b6",
+      "rating": 1482.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-06-27",
+      "fight_id": "afa250e51f7661b6",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-03-19",
+      "fight_id": "9d34c7116f81faf9",
+      "rating": 1506.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-03-19",
+      "fight_id": "9d34c7116f81faf9",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "526aa1d451cb315e",
+      "rating": 1523.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "526aa1d451cb315e",
+      "rating": 1518.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-06-18",
+  "name": "Steve Bosse",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1523.4,
+  "slug": "steve-bosse",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1496.3,
+  "divisional_rank": 215,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rui Kakizaki",
+      "bout_type": "Catchweight (122 lbs) Kickboxing Bout",
+      "date": "2025-03-21",
+      "elo_delta": -19.7,
+      "event_name": "ONE Friday Fights 101: Nakrob vs. Puengluang",
+      "fight_id": "5eca48e4a68755df",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Enzo Clarisse",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1496.3,
+      "pre_elo": 1516.0,
+      "red_name": "Enzo Clarisse",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-10-04",
+      "fight_id": "202fc50e8b0cda57",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "5eca48e4a68755df",
+      "rating": 1496.3,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "5eca48e4a68755df",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-21",
+  "name": "Rui Kakizaki",
+  "nickname": "",
+  "overall_elo": 1498.5,
+  "peak_elo": 1516.0,
+  "slug": "rui-kakizaki",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

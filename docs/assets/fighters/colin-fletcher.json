@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 919,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Colin Fletcher",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-03-16",
+      "elo_delta": -18.1,
+      "event_name": "UFC 158: St-Pierre vs Diaz",
+      "fight_id": "2ca64dab36cf0f8e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mike Ricci",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1463.9,
+      "pre_elo": 1482.0,
+      "red_name": "Mike Ricci",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Norman Parke",
+      "bout_type": "Ultimate Fighter Australia vs. UK Lightweight Tournament Title Bout",
+      "date": "2012-12-14",
+      "elo_delta": -18.0,
+      "event_name": "UFC on FX: Sotiropoulos vs Pearson",
+      "fight_id": "160336a237537d8e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Norman Parke",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Colin Fletcher",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2012-12-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-12-14",
+      "fight_id": "160336a237537d8e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-12-14",
+      "fight_id": "160336a237537d8e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-03-16",
+      "fight_id": "2ca64dab36cf0f8e",
+      "rating": 1463.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-03-16",
+      "fight_id": "2ca64dab36cf0f8e",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-03-16",
+  "name": "Colin Fletcher",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "colin-fletcher",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

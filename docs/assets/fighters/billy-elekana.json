@@ -1,0 +1,262 @@
+{
+  "current_elo": 1551.1,
+  "divisional_rank": 35,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Billy Elekana",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": 15.8,
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "fight_id": "0d11c27e6f61cbe9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Junior Tafa",
+      "opponent_elo": 1468.6,
+      "outcome": "blue_win",
+      "post_elo": 1551.1,
+      "pre_elo": 1535.4,
+      "red_name": "Junior Tafa",
+      "round": "2.0",
+      "time": "3:18",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Kevin Christian",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": 19.6,
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "fight_id": "92011356b84217a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kevin Christian",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1535.4,
+      "pre_elo": 1515.7,
+      "red_name": "Billy Elekana",
+      "round": "1.0",
+      "time": "3:33",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Billy Elekana",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Whittaker vs. De Ridder",
+      "fight_id": "53fcd3107878cc0f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ibo Aslan",
+      "opponent_elo": 1513.2,
+      "outcome": "blue_win",
+      "post_elo": 1515.7,
+      "pre_elo": 1496.9,
+      "red_name": "Ibo Aslan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Billy Elekana",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-01-18",
+      "elo_delta": -18.9,
+      "event_name": "UFC 311: Makhachev vs. Moicano",
+      "fight_id": "fe2c633fc488c32d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Bogdan Guskov",
+      "opponent_elo": 1526.2,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1515.7,
+      "red_name": "Bogdan Guskov",
+      "round": "2.0",
+      "time": "3:33",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Billy Elekana",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": -19.9,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "85ded7fc6bd6bded",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Daniel Compton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1537.4,
+      "red_name": "Daniel Compton",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Kohlman Scribner",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 130: Ksiazkiewicz vs. Gambulino",
+      "fight_id": "2e88a206008e9cc9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Kohlman Scribner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.4,
+      "pre_elo": 1519.0,
+      "red_name": "Billy Elekana",
+      "round": "1",
+      "time": "3:02",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jeff Nielsen",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": 19.0,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "f3cc8ed71fe8e381",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jeff Nielsen",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Billy Elekana",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-10",
+      "fight_id": "f3cc8ed71fe8e381",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "f3cc8ed71fe8e381",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "2e88a206008e9cc9",
+      "rating": 1537.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "2e88a206008e9cc9",
+      "rating": 1533.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "85ded7fc6bd6bded",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "85ded7fc6bd6bded",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "fe2c633fc488c32d",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "fe2c633fc488c32d",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "53fcd3107878cc0f",
+      "rating": 1515.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "53fcd3107878cc0f",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "92011356b84217a1",
+      "rating": 1535.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "92011356b84217a1",
+      "rating": 1532.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "0d11c27e6f61cbe9",
+      "rating": 1551.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "0d11c27e6f61cbe9",
+      "rating": 1547.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Billy Elekana",
+  "nickname": "",
+  "overall_elo": 1547.0,
+  "peak_elo": 1551.1,
+  "slug": "billy-elekana",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

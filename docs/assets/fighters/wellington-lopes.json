@@ -1,0 +1,58 @@
+{
+  "current_elo": 1483.5,
+  "divisional_rank": 1378,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Wellington Lopes",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": -16.5,
+      "event_name": "Cage Warriors 198: Manchester",
+      "fight_id": "1234f47a3dd4d1e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Shay Ingram",
+      "opponent_elo": 1552.6,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Shay Ingram",
+      "round": "2",
+      "time": "3:35",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-22",
+      "fight_id": "1234f47a3dd4d1e6",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "1234f47a3dd4d1e6",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Wellington Lopes",
+  "nickname": "",
+  "overall_elo": 1485.0,
+  "peak_elo": 1500.0,
+  "slug": "wellington-lopes",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

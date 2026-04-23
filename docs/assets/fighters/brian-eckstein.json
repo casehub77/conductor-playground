@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 342,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Brian Eckstein",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-08-12",
+      "elo_delta": -22.2,
+      "event_name": "Bellator 24",
+      "fight_id": "02b64ad226d5d396",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Tulio Quintanilla",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1526.7,
+      "pre_elo": 1548.8,
+      "red_name": "Tulio Quintanilla",
+      "round": "3",
+      "time": "2:48",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Mitchell Chamale",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-06-10",
+      "elo_delta": 16.3,
+      "event_name": "Bellator 21",
+      "fight_id": "0883e7a9ad24369d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Mitchell Chamale",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1548.8,
+      "pre_elo": 1532.5,
+      "red_name": "Brian Eckstein",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jack Murphy",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-01-30",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 36: USA Destruction",
+      "fight_id": "16916ad591b0112f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Jack Murphy",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Brian Eckstein",
+      "round": "1",
+      "time": "3:20",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Farkhad Sharipov",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-03-29",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors: USA Battle Royale",
+      "fight_id": "46cacb03827daa86",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Farkhad Sharipov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Brian Eckstein",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-29",
+      "fight_id": "46cacb03827daa86",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-03-29",
+      "fight_id": "46cacb03827daa86",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-01-30",
+      "fight_id": "16916ad591b0112f",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-01-30",
+      "fight_id": "16916ad591b0112f",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-10",
+      "fight_id": "0883e7a9ad24369d",
+      "rating": 1548.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-06-10",
+      "fight_id": "0883e7a9ad24369d",
+      "rating": 1547.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-12",
+      "fight_id": "02b64ad226d5d396",
+      "rating": 1526.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-08-12",
+      "fight_id": "02b64ad226d5d396",
+      "rating": 1527.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-12",
+  "name": "Brian Eckstein",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1548.8,
+  "slug": "brian-eckstein",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

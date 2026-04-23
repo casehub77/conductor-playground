@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 923,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Phil Johns",
+      "bout_type": "Welterweight Bout",
+      "date": "2001-02-23",
+      "elo_delta": -18.8,
+      "event_name": "UFC 30: Battle on the Boardwalk",
+      "fight_id": "35b67ff2b37cbffb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Fabiano Iha",
+      "opponent_elo": 1511.0,
+      "outcome": "red_win",
+      "post_elo": 1481.2,
+      "pre_elo": 1500.0,
+      "red_name": "Fabiano Iha",
+      "round": "1.0",
+      "time": "1:40",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2001-02-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-02-23",
+      "fight_id": "35b67ff2b37cbffb",
+      "rating": 1481.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2001-02-23",
+      "fight_id": "35b67ff2b37cbffb",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-02-23",
+  "name": "Phil Johns",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "phil-johns",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

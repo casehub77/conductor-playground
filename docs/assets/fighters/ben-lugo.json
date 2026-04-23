@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 712,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ben Lugo",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-01-29",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 273: Bader vs. Moldavsky",
+      "fight_id": "1895b34e4ffc99b5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Lucas Brennan",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Lucas Brennan",
+      "round": "1",
+      "time": "2:27",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-01-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-29",
+      "fight_id": "1895b34e4ffc99b5",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "1895b34e4ffc99b5",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-29",
+  "name": "Ben Lugo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ben-lugo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 326,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jarjis Danho",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-04-10",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Vettori vs. Holland",
+      "fight_id": "51414af6535eb814",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jarjis Danho",
+      "opponent_elo": 1481.7,
+      "outcome": "blue_win",
+      "post_elo": 1462.1,
+      "pre_elo": 1481.5,
+      "red_name": "Yorgan De Castro",
+      "round": "1.0",
+      "time": "3:02",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Carlos Felipe",
+      "bout_type": "Heavyweight Bout",
+      "date": "2020-10-03",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Holm vs. Aldana",
+      "fight_id": "5d1cff0465355bdd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Carlos Felipe",
+      "opponent_elo": 1481.1,
+      "outcome": "blue_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.5,
+      "red_name": "Yorgan De Castro",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Yorgan De Castro",
+      "bout_type": "Heavyweight Bout",
+      "date": "2020-05-09",
+      "elo_delta": -18.9,
+      "event_name": "UFC 249: Ferguson vs. Gaethje",
+      "fight_id": "8683dcadefe26dda",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Greg Hardy",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1519.4,
+      "red_name": "Greg Hardy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Yorgan De Castro",
+      "bout_type": "Heavyweight Bout",
+      "date": "2019-10-05",
+      "elo_delta": 19.4,
+      "event_name": "UFC 243: Whittaker vs. Adesanya",
+      "fight_id": "0b3e833c8afda0a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Justin Tafa",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Tafa",
+      "round": "1.0",
+      "time": "2:10",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-10-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-10-05",
+      "fight_id": "0b3e833c8afda0a0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2019-10-05",
+      "fight_id": "0b3e833c8afda0a0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-05-09",
+      "fight_id": "8683dcadefe26dda",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2020-05-09",
+      "fight_id": "8683dcadefe26dda",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "5d1cff0465355bdd",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "5d1cff0465355bdd",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "51414af6535eb814",
+      "rating": 1462.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "51414af6535eb814",
+      "rating": 1466.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-04-10",
+  "name": "Yorgan De Castro",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "yorgan-de-castro",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

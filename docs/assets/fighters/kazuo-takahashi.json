@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 622,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Kazuo Takahashi",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-07-01",
+      "elo_delta": -15.9,
+      "event_name": "Pride: Critical Countdown Absolute",
+      "fight_id": "055681749ac67eb7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Vitor Belfort",
+      "opponent_elo": 1534.3,
+      "outcome": "red_win",
+      "post_elo": 1454.9,
+      "pre_elo": 1470.8,
+      "red_name": "Vitor Belfort",
+      "round": "1",
+      "time": "0:36",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Kazuo Takahashi",
+      "bout_type": "Middleweight 93 kg Bout",
+      "date": "2005-02-20",
+      "elo_delta": -16.3,
+      "event_name": "Pride 29",
+      "fight_id": "e9a7ceecf8643552",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Igor Vovchanchyn",
+      "opponent_elo": 1541.9,
+      "outcome": "red_win",
+      "post_elo": 1469.0,
+      "pre_elo": 1485.3,
+      "red_name": "Igor Vovchanchyn",
+      "round": "1",
+      "time": "1:10",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Kazuo Takahashi",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-04-25",
+      "elo_delta": -15.5,
+      "event_name": "Pride: Total Elimination 2004",
+      "fight_id": "cb6d63a01c6a0fed",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Heath Herring",
+      "opponent_elo": 1570.8,
+      "outcome": "red_win",
+      "post_elo": 1484.5,
+      "pre_elo": 1500.0,
+      "red_name": "Heath Herring",
+      "round": "1",
+      "time": "4:53",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kazuo Takahashi",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-12-08",
+      "elo_delta": -19.4,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 4",
+      "fight_id": "5d0c596a977261f6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (palm strikes and knees)",
+      "opponent": "Masakatsu Funaki",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Masakatsu Funaki",
+      "round": "1",
+      "time": "3:09",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "James Mathews",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-11-08",
+      "elo_delta": 19.4,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 3",
+      "fight_id": "c3d020a557ac9751",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "James Mathews",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kazuo Takahashi",
+      "round": "1",
+      "time": "1:11",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kazuo Takahashi",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-10-14",
+      "elo_delta": -19.4,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 2",
+      "fight_id": "d75c5f4b16cafb75",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Ken Shamrock",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Ken Shamrock",
+      "round": "1",
+      "time": "12:23",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "George Weingeroff",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-09-21",
+      "elo_delta": 19.4,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 1",
+      "fight_id": "c7d1a63018f27a19",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "George Weingeroff",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kazuo Takahashi",
+      "round": "1",
+      "time": "1:23",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1993-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1993-09-21",
+      "fight_id": "c7d1a63018f27a19",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-09-21",
+      "fight_id": "c7d1a63018f27a19",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1993-10-14",
+      "fight_id": "d75c5f4b16cafb75",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-10-14",
+      "fight_id": "d75c5f4b16cafb75",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1993-11-08",
+      "fight_id": "c3d020a557ac9751",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-11-08",
+      "fight_id": "c3d020a557ac9751",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1993-12-08",
+      "fight_id": "5d0c596a977261f6",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-12-08",
+      "fight_id": "5d0c596a977261f6",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-04-25",
+      "fight_id": "cb6d63a01c6a0fed",
+      "rating": 1484.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-04-25",
+      "fight_id": "cb6d63a01c6a0fed",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-02-20",
+      "fight_id": "e9a7ceecf8643552",
+      "rating": 1469.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2005-02-20",
+      "fight_id": "e9a7ceecf8643552",
+      "rating": 1470.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-07-01",
+      "fight_id": "055681749ac67eb7",
+      "rating": 1454.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-07-01",
+      "fight_id": "055681749ac67eb7",
+      "rating": 1456.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-07-01",
+  "name": "Kazuo Takahashi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "kazuo-takahashi",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

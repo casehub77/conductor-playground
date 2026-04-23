@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 612,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Nick Thompson",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-04-09",
+      "elo_delta": -14.4,
+      "event_name": "Bellator 40",
+      "fight_id": "e7ad4a648a846d66",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (30–26, 30–27, 30–27)",
+      "opponent": "Ben Askren",
+      "opponent_elo": 1569.5,
+      "outcome": "red_win",
+      "post_elo": 1485.4,
+      "pre_elo": 1499.8,
+      "red_name": "Ben Askren",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Nick Thompson",
+      "bout_type": "Welterweight Bout",
+      "date": "2006-04-15",
+      "elo_delta": -17.3,
+      "event_name": "UFC 59: Reality Check",
+      "fight_id": "aee7737f84d5dab7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Karo Parisyan",
+      "opponent_elo": 1556.2,
+      "outcome": "red_win",
+      "post_elo": 1499.8,
+      "pre_elo": 1517.1,
+      "red_name": "Karo Parisyan",
+      "round": "1.0",
+      "time": "4:44",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Keith Wisniewski",
+      "bout_type": "Welterweight Bout",
+      "date": "2005-11-19",
+      "elo_delta": 17.1,
+      "event_name": "UFC 56: Full Force",
+      "fight_id": "9d626769378427ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Keith Wisniewski",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Thompson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2005-11-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-11-19",
+      "fight_id": "9d626769378427ac",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2005-11-19",
+      "fight_id": "9d626769378427ac",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-04-15",
+      "fight_id": "aee7737f84d5dab7",
+      "rating": 1499.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2006-04-15",
+      "fight_id": "aee7737f84d5dab7",
+      "rating": 1499.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "e7ad4a648a846d66",
+      "rating": 1485.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "e7ad4a648a846d66",
+      "rating": 1486.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-09",
+  "name": "Nick Thompson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.1,
+  "slug": "nick-thompson",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1487.9,
+  "divisional_rank": 948,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andrey Pulyaev",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-01-24",
+      "elo_delta": -15.5,
+      "event_name": "UFC 324: Gaethje vs. Pimblett",
+      "fight_id": "7b37be240bbe8a25",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ateba Gautier",
+      "opponent_elo": 1552.3,
+      "outcome": "red_win",
+      "post_elo": 1487.9,
+      "pre_elo": 1503.4,
+      "red_name": "Ateba Gautier",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Andrey Pulyaev",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": 20.3,
+      "event_name": "UFC Fight Night: Taira vs. Park",
+      "fight_id": "01935235a6b3ab40",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nick Klein",
+      "opponent_elo": 1498.6,
+      "outcome": "blue_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1483.1,
+      "red_name": "Nick Klein",
+      "round": "2.0",
+      "time": "1:31",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Andrey Pulyaev",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Edwards vs. Brady",
+      "fight_id": "43ffcced853a5ebd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Christian Leroy Duncan",
+      "opponent_elo": 1521.6,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Christian Leroy Duncan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-03-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-22",
+      "fight_id": "43ffcced853a5ebd",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "43ffcced853a5ebd",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "01935235a6b3ab40",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "01935235a6b3ab40",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "7b37be240bbe8a25",
+      "rating": 1487.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "7b37be240bbe8a25",
+      "rating": 1488.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-24",
+  "name": "Andrey Pulyaev",
+  "nickname": "",
+  "overall_elo": 1488.9,
+  "peak_elo": 1503.4,
+  "slug": "andrey-pulyaev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

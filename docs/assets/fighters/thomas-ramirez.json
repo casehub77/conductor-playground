@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1659,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Thomas Ramirez",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-02-16",
+      "elo_delta": -17.3,
+      "event_name": "UFC 8: David vs Goliath",
+      "fight_id": "94fc884f1a2449b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Don Frye",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Don Frye",
+      "round": "1.0",
+      "time": "0:08",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1996-02-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1996-02-16",
+      "fight_id": "94fc884f1a2449b2",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-02-16",
+      "fight_id": "94fc884f1a2449b2",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1996-02-16",
+  "name": "Thomas Ramirez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "thomas-ramirez",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

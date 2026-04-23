@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 111,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kathryn Paprocki",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-09-09",
+      "elo_delta": -18.9,
+      "event_name": "Legacy Fighting Alliance 141: Talundžić vs. Brown",
+      "fight_id": "bae6cf08e95350bf",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Kelsey Arnesen",
+      "opponent_elo": 1501.4,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1519.4,
+      "red_name": "Kelsey Arnesen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Tiani Valle",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 108: Fremd vs. Rodrigues",
+      "fight_id": "a067916e1d846b3b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Tiani Valle",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kathryn Paprocki",
+      "round": "3",
+      "time": "4:01",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "a067916e1d846b3b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "a067916e1d846b3b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-09-09",
+      "fight_id": "bae6cf08e95350bf",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-09-09",
+      "fight_id": "bae6cf08e95350bf",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-09",
+  "name": "Kathryn Paprocki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "kathryn-paprocki",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

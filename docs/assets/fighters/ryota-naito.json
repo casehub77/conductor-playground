@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 347,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryota Naito",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2023-10-01",
+      "elo_delta": -18.8,
+      "event_name": "Rizin Landmark 6",
+      "fight_id": "2214cecbd95b081c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Genki Takeno",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1516.0,
+      "red_name": "Genki Takeno",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-03-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-21",
+      "fight_id": "c2f771f323219b62",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-01",
+      "fight_id": "2214cecbd95b081c",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-10-01",
+      "fight_id": "2214cecbd95b081c",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-01",
+  "name": "Ryota Naito",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.0,
+  "slug": "ryota-naito",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

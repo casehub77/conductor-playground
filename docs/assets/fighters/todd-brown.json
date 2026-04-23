@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 568,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Todd Brown",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-03-03",
+      "elo_delta": -20.1,
+      "event_name": "UFC Live: Sanchez vs Kampmann",
+      "fight_id": "65347c351a9bf019",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Igor Pokrajac",
+      "opponent_elo": 1470.4,
+      "outcome": "red_win",
+      "post_elo": 1462.0,
+      "pre_elo": 1482.1,
+      "red_name": "Igor Pokrajac",
+      "round": "1.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tim Boetsch",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-08-07",
+      "elo_delta": -17.9,
+      "event_name": "UFC 117: Silva vs Sonnen",
+      "fight_id": "ef853b5818ddb1b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tim Boetsch",
+      "opponent_elo": 1502.2,
+      "outcome": "blue_win",
+      "post_elo": 1482.1,
+      "pre_elo": 1500.0,
+      "red_name": "Todd Brown",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-08-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-07",
+      "fight_id": "ef853b5818ddb1b2",
+      "rating": 1482.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-08-07",
+      "fight_id": "ef853b5818ddb1b2",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-03",
+      "fight_id": "65347c351a9bf019",
+      "rating": 1462.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-03-03",
+      "fight_id": "65347c351a9bf019",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-03",
+  "name": "Todd Brown",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "todd-brown",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.2,
+  "divisional_rank": 70,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mitchell Goode",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 17.8,
+      "event_name": "Cage Warriors 197: Unplugged",
+      "fight_id": "9f3b2f79a473213a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Mitchell Goode",
+      "opponent_elo": 1515.8,
+      "outcome": "red_win",
+      "post_elo": 1537.2,
+      "pre_elo": 1519.4,
+      "red_name": "Jordan O'Neill",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Thodoris Serdes",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-05-25",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 172: Newcastle",
+      "fight_id": "a86dca4a1826e437",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (body kick)",
+      "opponent": "Thodoris Serdes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jordan O'Neill",
+      "round": "1",
+      "time": "1:18",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-05-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-25",
+      "fight_id": "a86dca4a1826e437",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-05-25",
+      "fight_id": "a86dca4a1826e437",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "9f3b2f79a473213a",
+      "rating": 1537.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "9f3b2f79a473213a",
+      "rating": 1533.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Jordan O'Neill",
+  "nickname": "",
+  "overall_elo": 1533.1,
+  "peak_elo": 1537.2,
+  "slug": "jordan-o-neill",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

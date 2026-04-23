@@ -1,0 +1,126 @@
+{
+  "current_elo": 1480.7,
+  "divisional_rank": 1036,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Caperna",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": -17.9,
+      "event_name": "Cage Warriors 195: Rome",
+      "fight_id": "569d46ea8b2244d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Claudio Iancu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1498.6,
+      "red_name": "Claudio Iancu",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kevin Caperna",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": -20.5,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "5733c25777ce3b92",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (corner stoppage)",
+      "opponent": "Gabriele Lionetti",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1518.9,
+      "red_name": "Gabriele Lionetti",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jordan Molinari",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 18.9,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "78fe548c4cdb3b32",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 30–27)",
+      "opponent": "Jordan Molinari",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Kevin Caperna",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-03-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-08",
+      "fight_id": "78fe548c4cdb3b32",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "78fe548c4cdb3b32",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "5733c25777ce3b92",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "5733c25777ce3b92",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "569d46ea8b2244d5",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "569d46ea8b2244d5",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-04",
+  "name": "Kevin Caperna",
+  "nickname": "",
+  "overall_elo": 1482.7,
+  "peak_elo": 1518.9,
+  "slug": "kevin-caperna",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

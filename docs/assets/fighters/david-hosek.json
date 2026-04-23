@@ -1,0 +1,133 @@
+{
+  "current_elo": 1507.1,
+  "divisional_rank": 159,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "David Hošek",
+      "bout_type": "Catchweight (196 lb) Bout",
+      "date": "2025-11-22",
+      "elo_delta": -9.1,
+      "event_name": "Oktagon 80: Legierski vs. Korkmaz",
+      "fight_id": "e44b0ee8860efe7b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Alexander Poppeck",
+      "opponent_elo": 1540.0,
+      "outcome": "red_win",
+      "post_elo": 1507.1,
+      "pre_elo": 1516.1,
+      "red_name": "Alexander Poppeck",
+      "round": "2",
+      "time": "2:25",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Georg Bilogrevic",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-09-20",
+      "elo_delta": 18.1,
+      "event_name": "Oktagon 76: Weichel vs. Tounkara",
+      "fight_id": "53dfebb6e025e79f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Georg Bilogrevic",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1516.1,
+      "pre_elo": 1498.0,
+      "red_name": "David Hošek",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "David Hošek",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-06-14",
+      "elo_delta": -19.3,
+      "event_name": "Oktagon 72: Vémola vs. Végh 3",
+      "fight_id": "f370ea64253b1382",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Jaime Cordero",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1517.3,
+      "red_name": "Jaime Cordero",
+      "round": "2",
+      "time": "4:42",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-04-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-05",
+      "fight_id": "8461431c91534002",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "f370ea64253b1382",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "f370ea64253b1382",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-20",
+      "fight_id": "53dfebb6e025e79f",
+      "rating": 1516.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-09-20",
+      "fight_id": "53dfebb6e025e79f",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "e44b0ee8860efe7b",
+      "rating": 1507.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "e44b0ee8860efe7b",
+      "rating": 1507.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "David Hošek",
+  "nickname": "",
+  "overall_elo": 1507.9,
+  "peak_elo": 1517.3,
+  "slug": "david-hosek",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

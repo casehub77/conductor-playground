@@ -1,0 +1,194 @@
+{
+  "current_elo": 1549.2,
+  "divisional_rank": 39,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Alvin Hines",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": -20.5,
+      "event_name": "UFC 317: Topuria vs. Oliveira",
+      "fight_id": "a2eabbc0f7121995",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jhonata Diniz",
+      "opponent_elo": 1520.6,
+      "outcome": "red_win",
+      "post_elo": 1549.2,
+      "pre_elo": 1569.7,
+      "red_name": "Jhonata Diniz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Billy Ray Valdez",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-04-11",
+      "elo_delta": 16.5,
+      "event_name": "LFA 206: Gennrich vs. Lebosnoyani",
+      "fight_id": "35b451cb85660fcb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Billy Ray Valdez",
+      "opponent_elo": 1500.5,
+      "outcome": "red_win",
+      "post_elo": 1569.7,
+      "pre_elo": 1553.2,
+      "red_name": "Alvin Hines",
+      "round": "3",
+      "time": "2:09",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mark Currier",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-01-25",
+      "elo_delta": 16.4,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "944d302444053df3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Mark Currier",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1553.2,
+      "pre_elo": 1536.8,
+      "red_name": "Alvin Hines",
+      "round": "1",
+      "time": "1:48",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Taylor Escamilla",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": 17.3,
+      "event_name": "LFA 193: Bowers vs. Borisova",
+      "fight_id": "1b4a396a63344375",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Taylor Escamilla",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1519.4,
+      "red_name": "Alvin Hines",
+      "round": "2",
+      "time": "2:40",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Will Johnson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-01-12",
+      "elo_delta": 19.4,
+      "event_name": "LFA 174: Jones vs. Gennrich",
+      "fight_id": "008e60666d510c41",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (keylock)",
+      "opponent": "Will Johnson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Alvin Hines",
+      "round": "2",
+      "time": "1:02",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-01-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-12",
+      "fight_id": "008e60666d510c41",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "008e60666d510c41",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "1b4a396a63344375",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "1b4a396a63344375",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "944d302444053df3",
+      "rating": 1553.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "944d302444053df3",
+      "rating": 1547.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "35b451cb85660fcb",
+      "rating": 1569.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "35b451cb85660fcb",
+      "rating": 1562.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "a2eabbc0f7121995",
+      "rating": 1549.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "a2eabbc0f7121995",
+      "rating": 1544.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-28",
+  "name": "Alvin Hines",
+  "nickname": "",
+  "overall_elo": 1544.7,
+  "peak_elo": 1569.7,
+  "slug": "alvin-hines",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1461.0,
+  "divisional_rank": 1240,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Lucas Alexander",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Adesanya vs. Imavov",
+      "fight_id": "5bdc9bbeb5cd65c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Bogdan Grad",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1461.0,
+      "pre_elo": 1479.3,
+      "red_name": "Bogdan Grad",
+      "round": "2.0",
+      "time": "4:22",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Lucas Alexander",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": -20.4,
+      "event_name": "UFC Fight Night: Allen vs. Craig",
+      "fight_id": "95d60612e45cb0d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jeka Saragih",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1479.3,
+      "pre_elo": 1499.7,
+      "red_name": "Jeka Saragih",
+      "round": "1.0",
+      "time": "1:31",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Lucas Alexander",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-03-25",
+      "elo_delta": 18.9,
+      "event_name": "UFC Fight Night: Vera vs. Sandhagen",
+      "fight_id": "843adb71e266d134",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Steven Peterson",
+      "opponent_elo": 1497.6,
+      "outcome": "blue_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1480.8,
+      "red_name": "Steven Peterson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Lucas Alexander",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-10-15",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Grasso vs. Araujo",
+      "fight_id": "ad32f230eaee1f27",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Joanderson Brito",
+      "opponent_elo": 1504.1,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1500.0,
+      "red_name": "Joanderson Brito",
+      "round": "1.0",
+      "time": "2:02",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-10-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-15",
+      "fight_id": "ad32f230eaee1f27",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-15",
+      "fight_id": "ad32f230eaee1f27",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "843adb71e266d134",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "843adb71e266d134",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "95d60612e45cb0d5",
+      "rating": 1479.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "95d60612e45cb0d5",
+      "rating": 1481.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "5bdc9bbeb5cd65c4",
+      "rating": 1461.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "5bdc9bbeb5cd65c4",
+      "rating": 1465.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-01",
+  "name": "Lucas Alexander",
+  "nickname": "",
+  "overall_elo": 1465.1,
+  "peak_elo": 1500.0,
+  "slug": "lucas-alexander",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

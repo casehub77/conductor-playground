@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 265,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tyler Hufnagle",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-02-04",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 123: Argueta vs. Santos",
+      "fight_id": "edb781483cc706e9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Tyler Hufnagle",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Gabriel Mota",
+      "round": "1",
+      "time": "0:18",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-04",
+      "fight_id": "edb781483cc706e9",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-02-04",
+      "fight_id": "edb781483cc706e9",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-04",
+  "name": "Gabriel Mota",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "gabriel-mota",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

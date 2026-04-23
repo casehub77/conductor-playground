@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 619,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Ricco Rodriguez",
+      "bout_type": "Catchweight (230 lb) Bout",
+      "date": "2011-08-20",
+      "elo_delta": 38.6,
+      "event_name": "Bellator 48",
+      "fight_id": "1c8ba4dd56ee41d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Ricco Rodriguez",
+      "opponent_elo": 1533.3,
+      "outcome": "red_win",
+      "post_elo": 1454.7,
+      "pre_elo": 1416.0,
+      "red_name": "Seth Petruzelli",
+      "round": "1",
+      "time": "4:21",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Karlos Vemola",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-11-13",
+      "elo_delta": -16.5,
+      "event_name": "UFC 122: Marquardt vs Okami",
+      "fight_id": "6126ebdec6352cb7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Karlos Vemola",
+      "opponent_elo": 1485.4,
+      "outcome": "blue_win",
+      "post_elo": 1416.0,
+      "pre_elo": 1432.5,
+      "red_name": "Seth Petruzelli",
+      "round": "1.0",
+      "time": "3:46",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ricardo Romero",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-07-03",
+      "elo_delta": -16.6,
+      "event_name": "UFC 116: Lesnar vs Carwin",
+      "fight_id": "6f614e113d49178a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ricardo Romero",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1432.5,
+      "pre_elo": 1449.2,
+      "red_name": "Seth Petruzelli",
+      "round": "2.0",
+      "time": "3:05",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Seth Petruzelli",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-04-05",
+      "elo_delta": -17.5,
+      "event_name": "UFC Fight Night: Stevenson vs Guillard",
+      "fight_id": "59bff492236e11ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Wilson Gouveia",
+      "opponent_elo": 1502.1,
+      "outcome": "red_win",
+      "post_elo": 1449.2,
+      "pre_elo": 1466.6,
+      "red_name": "Wilson Gouveia",
+      "round": "2.0",
+      "time": "0:39",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Seth Petruzelli",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-10-10",
+      "elo_delta": -16.1,
+      "event_name": "Ortiz vs Shamrock 3: The Final Chapter",
+      "fight_id": "0d143e82bfe4fa1d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Matt Hamill",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1466.6,
+      "pre_elo": 1482.7,
+      "red_name": "Matt Hamill",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Seth Petruzelli",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-06-30",
+      "elo_delta": -19.4,
+      "event_name": "WEC 1: Princes of Pain",
+      "fight_id": "0d8ddffc262e5e45",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Gan McGee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Gan McGee",
+      "round": "1",
+      "time": "1:25",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-06-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-06-30",
+      "fight_id": "0d8ddffc262e5e45",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-06-30",
+      "fight_id": "0d8ddffc262e5e45",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-10-10",
+      "fight_id": "0d143e82bfe4fa1d",
+      "rating": 1466.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-10-10",
+      "fight_id": "0d143e82bfe4fa1d",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-04-05",
+      "fight_id": "59bff492236e11ea",
+      "rating": 1449.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-04-05",
+      "fight_id": "59bff492236e11ea",
+      "rating": 1452.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-07-03",
+      "fight_id": "6f614e113d49178a",
+      "rating": 1432.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-07-03",
+      "fight_id": "6f614e113d49178a",
+      "rating": 1437.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-11-13",
+      "fight_id": "6126ebdec6352cb7",
+      "rating": 1416.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-11-13",
+      "fight_id": "6126ebdec6352cb7",
+      "rating": 1422.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-08-20",
+      "fight_id": "1c8ba4dd56ee41d0",
+      "rating": 1454.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-08-20",
+      "fight_id": "1c8ba4dd56ee41d0",
+      "rating": 1457.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-08-20",
+  "name": "Seth Petruzelli",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "seth-petruzelli",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

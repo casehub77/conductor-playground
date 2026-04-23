@@ -1,0 +1,262 @@
+{
+  "current_elo": 1476.0,
+  "divisional_rank": 655,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Victor Altamirano",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-09-28",
+      "elo_delta": -18.7,
+      "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
+      "fight_id": "77fb2ac3143f3aae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daniel Barez",
+      "opponent_elo": 1479.7,
+      "outcome": "red_win",
+      "post_elo": 1474.5,
+      "pre_elo": 1493.2,
+      "red_name": "Daniel Barez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Felipe Dos Santos",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-02-24",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Moreno vs. Royval 2",
+      "fight_id": "36114ebd8b0364e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Felipe Dos Santos",
+      "opponent_elo": 1484.2,
+      "outcome": "blue_win",
+      "post_elo": 1493.2,
+      "pre_elo": 1512.6,
+      "red_name": "Victor Altamirano",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Victor Altamirano",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-06-03",
+      "elo_delta": -21.0,
+      "event_name": "UFC Fight Night: Kara-France vs. Albazi",
+      "fight_id": "6a9e2aa69fb36410",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tim Elliott",
+      "opponent_elo": 1475.1,
+      "outcome": "red_win",
+      "post_elo": 1512.6,
+      "pre_elo": 1533.6,
+      "red_name": "Tim Elliott",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Vinicius Salvador",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-03-25",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: Vera vs. Sandhagen",
+      "fight_id": "ebca88a6cd0c0258",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Vinicius Salvador",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1533.6,
+      "pre_elo": 1516.5,
+      "red_name": "Victor Altamirano",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Victor Altamirano",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-08-20",
+      "elo_delta": 17.4,
+      "event_name": "UFC 278: Usman vs. Edwards",
+      "fight_id": "65867716a5236161",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Daniel Lacerda",
+      "opponent_elo": 1463.0,
+      "outcome": "blue_win",
+      "post_elo": 1516.5,
+      "pre_elo": 1499.1,
+      "red_name": "Daniel Lacerda",
+      "round": "1.0",
+      "time": "3:39",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Carlos Hernandez",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-02-26",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Makhachev vs. Green",
+      "fight_id": "65fe4a3503087235",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Carlos Hernandez",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Victor Altamirano",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Nate Smith",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-02-19",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 100: Altamirano vs. Smith",
+      "fight_id": "1f69c9c293e199e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Nate Smith",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Victor Altamirano",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-02-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-02-19",
+      "fight_id": "1f69c9c293e199e0",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-02-19",
+      "fight_id": "1f69c9c293e199e0",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "65fe4a3503087235",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "65fe4a3503087235",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "65867716a5236161",
+      "rating": 1516.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "65867716a5236161",
+      "rating": 1514.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "ebca88a6cd0c0258",
+      "rating": 1533.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "ebca88a6cd0c0258",
+      "rating": 1530.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-03",
+      "fight_id": "6a9e2aa69fb36410",
+      "rating": 1512.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-06-03",
+      "fight_id": "6a9e2aa69fb36410",
+      "rating": 1512.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "36114ebd8b0364e7",
+      "rating": 1493.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "36114ebd8b0364e7",
+      "rating": 1495.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "77fb2ac3143f3aae",
+      "rating": 1474.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "77fb2ac3143f3aae",
+      "rating": 1478.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-28",
+  "name": "Victor Altamirano",
+  "nickname": "",
+  "overall_elo": 1480.1,
+  "peak_elo": 1533.6,
+  "slug": "victor-altamirano",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

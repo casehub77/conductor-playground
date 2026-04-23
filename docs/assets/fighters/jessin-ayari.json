@@ -1,0 +1,228 @@
+{
+  "current_elo": 1537.0,
+  "divisional_rank": 89,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Niklas Stolze",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": 17.6,
+      "event_name": "Oktagon 73: Eckerlin vs. Pukač",
+      "fight_id": "05ab78fe98f9ef1b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Niklas Stolze",
+      "opponent_elo": 1487.0,
+      "outcome": "red_win",
+      "post_elo": 1537.0,
+      "pre_elo": 1519.4,
+      "red_name": "Jessin Ayari",
+      "round": "2",
+      "time": "3:25",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Andreas Stahl",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 17.3,
+      "event_name": "Oktagon 68: Todev vs. Fleury",
+      "fight_id": "f0849a8ed4f6da54",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Andreas Stahl",
+      "opponent_elo": 1463.7,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1502.0,
+      "red_name": "Jessin Ayari",
+      "round": "3",
+      "time": "4:01",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jessin Ayari",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-10-03",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Holm vs. Aldana",
+      "fight_id": "f5bc4f69c4477481",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Luigi Vendramini",
+      "opponent_elo": 1486.2,
+      "outcome": "red_win",
+      "post_elo": 1466.0,
+      "pre_elo": 1485.4,
+      "red_name": "Luigi Vendramini",
+      "round": "1.0",
+      "time": "1:12",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jessin Ayari",
+      "bout_type": "Lightweight Bout",
+      "date": "2018-10-27",
+      "elo_delta": -16.4,
+      "event_name": "UFC Fight Night: Oezdemir vs. Smith",
+      "fight_id": "b26706cb7f53a84e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Stevie Ray",
+      "opponent_elo": 1532.4,
+      "outcome": "red_win",
+      "post_elo": 1485.4,
+      "pre_elo": 1501.8,
+      "red_name": "Stevie Ray",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jessin Ayari",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-05-28",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "fight_id": "80533dfa2f767473",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Darren Till",
+      "opponent_elo": 1518.3,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1520.1,
+      "red_name": "Darren Till",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jim Wallhead",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-09-03",
+      "elo_delta": 20.1,
+      "event_name": "UFC Fight Night: Arlovski vs. Barnett",
+      "fight_id": "ab192d2a9a6e8317",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Jim Wallhead",
+      "opponent_elo": 1541.6,
+      "outcome": "red_win",
+      "post_elo": 1520.1,
+      "pre_elo": 1500.0,
+      "red_name": "Jessin Ayari",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2016-09-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-09-03",
+      "fight_id": "ab192d2a9a6e8317",
+      "rating": 1520.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-09-03",
+      "fight_id": "ab192d2a9a6e8317",
+      "rating": 1517.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-05-28",
+      "fight_id": "80533dfa2f767473",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-05-28",
+      "fight_id": "80533dfa2f767473",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-10-27",
+      "fight_id": "b26706cb7f53a84e",
+      "rating": 1485.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-10-27",
+      "fight_id": "b26706cb7f53a84e",
+      "rating": 1487.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "f5bc4f69c4477481",
+      "rating": 1466.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "f5bc4f69c4477481",
+      "rating": 1469.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "f0849a8ed4f6da54",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "f0849a8ed4f6da54",
+      "rating": 1486.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "05ab78fe98f9ef1b",
+      "rating": 1537.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "05ab78fe98f9ef1b",
+      "rating": 1503.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-28",
+  "name": "Jessin Ayari",
+  "nickname": "",
+  "overall_elo": 1503.5,
+  "peak_elo": 1537.0,
+  "slug": "jessin-ayari",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

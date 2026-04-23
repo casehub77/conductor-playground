@@ -1,0 +1,126 @@
+{
+  "current_elo": 1481.1,
+  "divisional_rank": 972,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Loder",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "e5e91ada7ba41d77",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ismail Naurdiev",
+      "opponent_elo": 1508.2,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.1,
+      "red_name": "Ismail Naurdiev",
+      "round": "1.0",
+      "time": "1:26",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Azamat Bekoev",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-05-03",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Sandhagen vs. Figueiredo",
+      "fight_id": "25598b280061ab3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Azamat Bekoev",
+      "opponent_elo": 1520.5,
+      "outcome": "blue_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1519.4,
+      "red_name": "Ryan Loder",
+      "round": "1.0",
+      "time": "2:44",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ryan Loder",
+      "bout_type": "Ultimate Fighter 32 Middleweight Tournament Title Bout",
+      "date": "2024-08-24",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Cannonier vs. Borralho",
+      "fight_id": "f82a12dc35b18127",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Robert Valentin",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Robert Valentin",
+      "round": "2.0",
+      "time": "1:49",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-08-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-24",
+      "fight_id": "f82a12dc35b18127",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "f82a12dc35b18127",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-03",
+      "fight_id": "25598b280061ab3e",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-05-03",
+      "fight_id": "25598b280061ab3e",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "e5e91ada7ba41d77",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "e5e91ada7ba41d77",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Ryan Loder",
+  "nickname": "",
+  "overall_elo": 1483.2,
+  "peak_elo": 1519.4,
+  "slug": "ryan-loder",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

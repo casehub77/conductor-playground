@@ -1,0 +1,126 @@
+{
+  "current_elo": 1473.1,
+  "divisional_rank": 1194,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Joshua Onwordi",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2025-04-26",
+      "elo_delta": -25.6,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "28cb6b9116d0a674",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Conor McCarthy",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1473.1,
+      "pre_elo": 1498.7,
+      "red_name": "Conor McCarthy",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Joe Ambler",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-15",
+      "elo_delta": 18.1,
+      "event_name": "Cage Warriors 180: London",
+      "fight_id": "ec0685d386d498f9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Joe Ambler",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1480.6,
+      "red_name": "Joshua Onwordi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joshua Onwordi",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 169: London",
+      "fight_id": "30d9b4083ccdd052",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Mariusz Mikołajewski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mariusz Mikołajewski",
+      "round": "1",
+      "time": "2:10",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "30d9b4083ccdd052",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "30d9b4083ccdd052",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-15",
+      "fight_id": "ec0685d386d498f9",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-15",
+      "fight_id": "ec0685d386d498f9",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "28cb6b9116d0a674",
+      "rating": 1473.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "28cb6b9116d0a674",
+      "rating": 1475.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-26",
+  "name": "Joshua Onwordi",
+  "nickname": "",
+  "overall_elo": 1475.9,
+  "peak_elo": 1500.0,
+  "slug": "joshua-onwordi",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

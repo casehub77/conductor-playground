@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 965,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Takenori Sato",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-09-20",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Hunt vs Nelson",
+      "fight_id": "d6ef7f07f1e8042d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Hyun Gyu Lim",
+      "opponent_elo": 1525.0,
+      "outcome": "red_win",
+      "post_elo": 1464.2,
+      "pre_elo": 1481.3,
+      "red_name": "Hyun Gyu Lim",
+      "round": "1.0",
+      "time": "1:18",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Takenori Sato",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-02-15",
+      "elo_delta": -18.7,
+      "event_name": "UFC Fight Night: Machida vs Mousasi",
+      "fight_id": "4050b8456c5b2620",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Erick Silva",
+      "opponent_elo": 1512.3,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Erick Silva",
+      "round": "1.0",
+      "time": "0:52",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2014-02-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-02-15",
+      "fight_id": "4050b8456c5b2620",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-02-15",
+      "fight_id": "4050b8456c5b2620",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-09-20",
+      "fight_id": "d6ef7f07f1e8042d",
+      "rating": 1464.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-09-20",
+      "fight_id": "d6ef7f07f1e8042d",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-09-20",
+  "name": "Takenori Sato",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "takenori-sato",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

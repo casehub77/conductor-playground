@@ -1,0 +1,160 @@
+{
+  "current_elo": 1576.7,
+  "divisional_rank": 43,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jamie Mullarkey",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": 16.4,
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "fight_id": "abf151261d766102",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jamie Mullarkey",
+      "opponent_elo": 1505.1,
+      "outcome": "red_win",
+      "post_elo": 1576.7,
+      "pre_elo": 1560.4,
+      "red_name": "Quillan Salkilld",
+      "round": "1.0",
+      "time": "3:02",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Quillan Salkilld",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-10-25",
+      "elo_delta": 23.2,
+      "event_name": "UFC 321: Aspinall vs. Gane",
+      "fight_id": "81dcc3f7730e8e0e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nasrat Haqparast",
+      "opponent_elo": 1604.4,
+      "outcome": "blue_win",
+      "post_elo": 1560.4,
+      "pre_elo": 1537.2,
+      "red_name": "Nasrat Haqparast",
+      "round": "1.0",
+      "time": "2:30",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Yanal Ashmouz",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-07",
+      "elo_delta": 18.0,
+      "event_name": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "fight_id": "4e75d583c940ac47",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yanal Ashmouz",
+      "opponent_elo": 1519.3,
+      "outcome": "red_win",
+      "post_elo": 1537.2,
+      "pre_elo": 1519.2,
+      "red_name": "Quillan Salkilld",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Anshul Jubli",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": 19.2,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "674549b564ec7d52",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anshul Jubli",
+      "opponent_elo": 1496.0,
+      "outcome": "red_win",
+      "post_elo": 1519.2,
+      "pre_elo": 1500.0,
+      "red_name": "Quillan Salkilld",
+      "round": "1.0",
+      "time": "0:19",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-02-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-08",
+      "fight_id": "674549b564ec7d52",
+      "rating": 1519.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "674549b564ec7d52",
+      "rating": 1517.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "4e75d583c940ac47",
+      "rating": 1537.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "4e75d583c940ac47",
+      "rating": 1533.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "81dcc3f7730e8e0e",
+      "rating": 1560.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "81dcc3f7730e8e0e",
+      "rating": 1553.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "abf151261d766102",
+      "rating": 1576.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "abf151261d766102",
+      "rating": 1568.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Quillan Salkilld",
+  "nickname": "",
+  "overall_elo": 1568.3,
+  "peak_elo": 1576.7,
+  "slug": "quillan-salkilld",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

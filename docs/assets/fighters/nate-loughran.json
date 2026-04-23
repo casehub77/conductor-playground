@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 442,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nate Loughran",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-12-10",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night - Fight for the Troops",
+      "fight_id": "0c4c542df5bf3809",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tim Credeur",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Tim Credeur",
+      "round": "2.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Johnny Rees",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-07-19",
+      "elo_delta": 19.4,
+      "event_name": "UFC: Silva vs Irvin",
+      "fight_id": "6c1a5f44824c6bf6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Johnny Rees",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Nate Loughran",
+      "round": "1.0",
+      "time": "4:21",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2008-07-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-07-19",
+      "fight_id": "6c1a5f44824c6bf6",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-07-19",
+      "fight_id": "6c1a5f44824c6bf6",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-10",
+      "fight_id": "0c4c542df5bf3809",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-12-10",
+      "fight_id": "0c4c542df5bf3809",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-10",
+  "name": "Nate Loughran",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "nate-loughran",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

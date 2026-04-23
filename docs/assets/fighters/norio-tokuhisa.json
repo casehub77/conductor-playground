@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 979,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Norio Tokuhisa",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-01-10",
+      "elo_delta": -14.3,
+      "event_name": "Shooto: Shootor's Legacy 1",
+      "fight_id": "adbc2a4f12543a15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Koshi Matsumoto",
+      "opponent_elo": 1554.9,
+      "outcome": "red_win",
+      "post_elo": 1467.9,
+      "pre_elo": 1482.2,
+      "red_name": "Koshi Matsumoto",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Norio Tokuhisa",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-08-15",
+      "elo_delta": -18.5,
+      "event_name": "Shooto: Border: Season 2: Rhythm",
+      "fight_id": "664511c90d299dd6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Bunpei Umezono",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1482.2,
+      "pre_elo": 1500.7,
+      "red_name": "Bunpei Umezono",
+      "round": "1",
+      "time": "1:29",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tadahiro Harada",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-02-21",
+      "elo_delta": 20.0,
+      "event_name": "Shooto: Trilogy 1",
+      "fight_id": "3d311e0b185c61f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Tadahiro Harada",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1480.7,
+      "red_name": "Norio Tokuhisa",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Norio Tokuhisa",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-05-20",
+      "elo_delta": -19.3,
+      "event_name": "Shooto: Kitazawa Shooto 2009 Vol. 1",
+      "fight_id": "a13399ce9fe658b8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Shin Kochiwa",
+      "opponent_elo": 1502.3,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Shin Kochiwa",
+      "round": "2",
+      "time": "3:18",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Koji Nishioka",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-02-28",
+      "elo_delta": 0.0,
+      "event_name": "Shooto: Gig Tokyo 1",
+      "fight_id": "b156e1b57e3db213",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Koji Nishioka",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Norio Tokuhisa",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2009-02-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-02-28",
+      "fight_id": "b156e1b57e3db213",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-02-28",
+      "fight_id": "b156e1b57e3db213",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-20",
+      "fight_id": "a13399ce9fe658b8",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-05-20",
+      "fight_id": "a13399ce9fe658b8",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-02-21",
+      "fight_id": "3d311e0b185c61f4",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-02-21",
+      "fight_id": "3d311e0b185c61f4",
+      "rating": 1500.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-15",
+      "fight_id": "664511c90d299dd6",
+      "rating": 1482.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-08-15",
+      "fight_id": "664511c90d299dd6",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-01-10",
+      "fight_id": "adbc2a4f12543a15",
+      "rating": 1467.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-01-10",
+      "fight_id": "adbc2a4f12543a15",
+      "rating": 1470.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-01-10",
+  "name": "Norio Tokuhisa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.7,
+  "slug": "norio-tokuhisa",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

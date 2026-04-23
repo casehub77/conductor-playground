@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 447,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Benjamin Bennett",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": -20.6,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "2149d1ebd0619a11",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Trey Waters",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1520.5,
+      "red_name": "Trey Waters",
+      "round": "3",
+      "time": "4:37",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Elmar Umarov",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-08-27",
+      "elo_delta": 20.5,
+      "event_name": "Legacy Fighting Alliance 114: Souza vs. Garcia",
+      "fight_id": "ba75e88704a8c075",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Elmar Umarov",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Benjamin Bennett",
+      "round": "2",
+      "time": "0:58",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-08-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-27",
+      "fight_id": "ba75e88704a8c075",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "ba75e88704a8c075",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "2149d1ebd0619a11",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "2149d1ebd0619a11",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-03",
+  "name": "Benjamin Bennett",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.5,
+  "slug": "benjamin-bennett",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

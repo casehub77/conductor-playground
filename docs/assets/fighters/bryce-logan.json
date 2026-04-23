@@ -1,0 +1,194 @@
+{
+  "current_elo": 1446.0,
+  "divisional_rank": 1532,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Bryce Logan",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-04-18",
+      "elo_delta": -18.3,
+      "event_name": "LFA 207: Lewis vs. Miranda",
+      "fight_id": "045214fd41c6ab45",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Landry Ward",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1446.0,
+      "pre_elo": 1464.3,
+      "red_name": "Landry Ward",
+      "round": "1",
+      "time": "0:59",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Bryce Logan",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-02-23",
+      "elo_delta": -19.5,
+      "event_name": "Cage Warriors 166: San Diego",
+      "fight_id": "267b3b7798e24ab0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and knees)",
+      "opponent": "Mason Jones",
+      "opponent_elo": 1483.2,
+      "outcome": "red_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1483.8,
+      "red_name": "Mason Jones",
+      "round": "2",
+      "time": "2:45",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Peter Queally",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": 21.1,
+      "event_name": "Bellator 291: Amosov vs. Storley 2",
+      "fight_id": "c62cd91c6a74e34b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbow and punches)",
+      "opponent": "Peter Queally",
+      "opponent_elo": 1492.1,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1462.7,
+      "red_name": "Bryce Logan",
+      "round": "2",
+      "time": "2:31",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Bryce Logan",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-06-24",
+      "elo_delta": -18.3,
+      "event_name": "Bellator 282: Mousasi vs. Eblen",
+      "fight_id": "1dc7f8f2d995f09d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Mandel Nallo",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1462.7,
+      "pre_elo": 1481.1,
+      "red_name": "Mandel Nallo",
+      "round": "1",
+      "time": "1:07",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Bryce Logan",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-08-20",
+      "elo_delta": -18.9,
+      "event_name": "Bellator 265: Kongo vs. Kharitonov",
+      "fight_id": "365f68141df8ca7e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 29-28, 29-28)",
+      "opponent": "Mike Hamel",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Hamel",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-20",
+      "fight_id": "365f68141df8ca7e",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-08-20",
+      "fight_id": "365f68141df8ca7e",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "1dc7f8f2d995f09d",
+      "rating": 1462.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "1dc7f8f2d995f09d",
+      "rating": 1466.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "c62cd91c6a74e34b",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "c62cd91c6a74e34b",
+      "rating": 1485.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-23",
+      "fight_id": "267b3b7798e24ab0",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-02-23",
+      "fight_id": "267b3b7798e24ab0",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-18",
+      "fight_id": "045214fd41c6ab45",
+      "rating": 1446.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-04-18",
+      "fight_id": "045214fd41c6ab45",
+      "rating": 1451.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-18",
+  "name": "Bryce Logan",
+  "nickname": "",
+  "overall_elo": 1451.6,
+  "peak_elo": 1500.0,
+  "slug": "bryce-logan",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

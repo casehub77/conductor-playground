@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.7,
+  "divisional_rank": 129,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sierra Dinwoodie",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-06-20",
+      "elo_delta": -18.3,
+      "event_name": "LFA 211: Mesquita vs. Dinwoodie",
+      "fight_id": "2f4952e8c80a72f1",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Beatriz Mesquita",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1518.0,
+      "red_name": "Beatriz Mesquita",
+      "round": "2",
+      "time": "3:05",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nikol Aguirre",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-02-21",
+      "elo_delta": 18.0,
+      "event_name": "LFA 202: Nkuta vs. Garcia",
+      "fight_id": "9cbb47faa90ce3f5",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Nikol Aguirre",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Sierra Dinwoodie",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-02-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-02-21",
+      "fight_id": "9cbb47faa90ce3f5",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-02-21",
+      "fight_id": "9cbb47faa90ce3f5",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "2f4952e8c80a72f1",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "2f4952e8c80a72f1",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-20",
+  "name": "Sierra Dinwoodie",
+  "nickname": "",
+  "overall_elo": 1499.6,
+  "peak_elo": 1518.0,
+  "slug": "sierra-dinwoodie",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

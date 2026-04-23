@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 510,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Chris Cariaso",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-10-09",
+      "elo_delta": -15.5,
+      "event_name": "UFC Fight Night: Maia vs Shields",
+      "fight_id": "08b6a442df0ed49d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chris Cariaso",
+      "opponent_elo": 1536.7,
+      "outcome": "blue_win",
+      "post_elo": 1449.4,
+      "pre_elo": 1464.9,
+      "red_name": "Iliarde Santos",
+      "round": "2.0",
+      "time": "4:31",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Iliarde Santos",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-08-03",
+      "elo_delta": -18.5,
+      "event_name": "UFC 163: Aldo vs Jung",
+      "fight_id": "2f441440e1c3df99",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ian Mccall",
+      "opponent_elo": 1473.6,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1483.4,
+      "red_name": "Ian Mccall",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Iliarde Santos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2013-05-18",
+      "elo_delta": -18.7,
+      "event_name": "UFC on FX: Belfort vs. Rockhold",
+      "fight_id": "48a295a28537e2ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Iuri Alcantara",
+      "opponent_elo": 1513.3,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Iuri Alcantara",
+      "round": "1.0",
+      "time": "2:31",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2013-05-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-05-18",
+      "fight_id": "48a295a28537e2ce",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2013-05-18",
+      "fight_id": "48a295a28537e2ce",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-03",
+      "fight_id": "2f441440e1c3df99",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-08-03",
+      "fight_id": "2f441440e1c3df99",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-10-09",
+      "fight_id": "08b6a442df0ed49d",
+      "rating": 1449.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-10-09",
+      "fight_id": "08b6a442df0ed49d",
+      "rating": 1453.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-10-09",
+  "name": "Iliarde Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "iliarde-santos",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

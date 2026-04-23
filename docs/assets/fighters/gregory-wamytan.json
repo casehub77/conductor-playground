@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 371,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sheldon Ryan",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": 19.5,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "6c2cf5ecbf7f98f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Sheldon Ryan",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1480.6,
+      "red_name": "Gregory Wamytan",
+      "round": "1",
+      "time": "1:09",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Gregory Wamytan",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 170: Dublin",
+      "fight_id": "98093c1f7075c076",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Ger Harris",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ger Harris",
+      "round": "1",
+      "time": "3:32",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-04-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-06",
+      "fight_id": "98093c1f7075c076",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "98093c1f7075c076",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "6c2cf5ecbf7f98f1",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "6c2cf5ecbf7f98f1",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-21",
+  "name": "Gregory Wamytan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.1,
+  "slug": "gregory-wamytan",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

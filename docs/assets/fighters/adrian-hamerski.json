@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.9,
+  "divisional_rank": 1214,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Adrian Hamerski",
+      "bout_type": "Catchweight (152 lb) Bout",
+      "date": "2026-03-07",
+      "elo_delta": -16.4,
+      "event_name": "Oktagon 85: Severino vs. Kakhorov",
+      "fight_id": "368b166980b71c62",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Deniz Ilbay",
+      "opponent_elo": 1512.7,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1482.4,
+      "red_name": "Deniz Ilbay",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Adrian Hamerski",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-08-09",
+      "elo_delta": -17.6,
+      "event_name": "Oktagon 74: Bolander vs. Szabová",
+      "fight_id": "e806979884e5eb5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Radek Roušal",
+      "opponent_elo": 1532.3,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.0,
+      "red_name": "Radek Roušal",
+      "round": "2",
+      "time": "1:09",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-09",
+      "fight_id": "e806979884e5eb5c",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "e806979884e5eb5c",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "368b166980b71c62",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "368b166980b71c62",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Adrian Hamerski",
+  "nickname": "",
+  "overall_elo": 1469.5,
+  "peak_elo": 1500.0,
+  "slug": "adrian-hamerski",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

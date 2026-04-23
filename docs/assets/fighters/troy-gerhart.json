@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 662,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Troy Gerhart",
+      "bout_type": "Catchweight (151.5 lbs) Bout",
+      "date": "2009-06-19",
+      "elo_delta": -28.4,
+      "event_name": "Bellator 12",
+      "fight_id": "570b0bcbdf7752b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Luis Palomino",
+      "opponent_elo": 1500.6,
+      "outcome": "red_win",
+      "post_elo": 1490.6,
+      "pre_elo": 1519.0,
+      "red_name": "Luis Palomino",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Lorenzo Borgomeo",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": 19.0,
+      "event_name": "Bellator 7/8",
+      "fight_id": "0e2d61fb1158b08d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Lorenzo Borgomeo",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Troy Gerhart",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-05-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-15",
+      "fight_id": "0e2d61fb1158b08d",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "0e2d61fb1158b08d",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-19",
+      "fight_id": "570b0bcbdf7752b0",
+      "rating": 1490.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-06-19",
+      "fight_id": "570b0bcbdf7752b0",
+      "rating": 1491.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-19",
+  "name": "Troy Gerhart",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.0,
+  "slug": "troy-gerhart",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

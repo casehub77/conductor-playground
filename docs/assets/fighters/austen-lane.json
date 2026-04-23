@@ -1,0 +1,262 @@
+{
+  "current_elo": 1437.4,
+  "divisional_rank": 699,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Austen Lane",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": -15.8,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "dea6667efaa685f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Iwo Baraniewski",
+      "opponent_elo": 1519.1,
+      "outcome": "red_win",
+      "post_elo": 1437.4,
+      "pre_elo": 1453.2,
+      "red_name": "Iwo Baraniewski",
+      "round": "1.0",
+      "time": "0:28",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Austen Lane",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": -16.0,
+      "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+      "fight_id": "7a5ba38539dc83e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Vitor Petrino",
+      "opponent_elo": 1526.6,
+      "outcome": "red_win",
+      "post_elo": 1448.0,
+      "pre_elo": 1464.0,
+      "red_name": "Vitor Petrino",
+      "round": "1.0",
+      "time": "4:16",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mario Pinto",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-03-01",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Kape vs. Almabayev",
+      "fight_id": "c45f268381ef6134",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mario Pinto",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1464.0,
+      "pre_elo": 1482.5,
+      "red_name": "Austen Lane",
+      "round": "2.0",
+      "time": "0:39",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Robelis Despaigne",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-10-19",
+      "elo_delta": 20.0,
+      "event_name": "UFC Fight Night: Hernandez vs. Pereira",
+      "fight_id": "40e5b2d51e232176",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Robelis Despaigne",
+      "opponent_elo": 1501.0,
+      "outcome": "red_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1462.5,
+      "red_name": "Austen Lane",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jhonata Diniz",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-04-27",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Nicolau vs. Perez",
+      "fight_id": "fd6d237a0e3f7db9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jhonata Diniz",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1462.5,
+      "pre_elo": 1480.9,
+      "red_name": "Austen Lane",
+      "round": "2.0",
+      "time": "2:12",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Austen Lane",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-09-09",
+      "elo_delta": -19.1,
+      "event_name": "UFC 293: Adesanya vs. Strickland",
+      "fight_id": "069c016de2c937e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Justin Tafa",
+      "opponent_elo": 1505.3,
+      "outcome": "red_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Tafa",
+      "round": "1.0",
+      "time": "1:22",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Justin Tafa",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-06-24",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Emmett vs. Topuria",
+      "fight_id": "9b74219b405af6ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Could Not Continue",
+      "opponent": "Justin Tafa",
+      "opponent_elo": 1505.3,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Austen Lane",
+      "round": "1.0",
+      "time": "0:29",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-06-24",
+      "fight_id": "9b74219b405af6ac",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "9b74219b405af6ac",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-09",
+      "fight_id": "069c016de2c937e8",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-09-09",
+      "fight_id": "069c016de2c937e8",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "fd6d237a0e3f7db9",
+      "rating": 1462.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "fd6d237a0e3f7db9",
+      "rating": 1466.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-19",
+      "fight_id": "40e5b2d51e232176",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-10-19",
+      "fight_id": "40e5b2d51e232176",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "c45f268381ef6134",
+      "rating": 1464.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "c45f268381ef6134",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "7a5ba38539dc83e6",
+      "rating": 1448.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "7a5ba38539dc83e6",
+      "rating": 1453.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "dea6667efaa685f4",
+      "rating": 1437.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "dea6667efaa685f4",
+      "rating": 1439.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Austen Lane",
+  "nickname": "",
+  "overall_elo": 1439.1,
+  "peak_elo": 1500.0,
+  "slug": "austen-lane",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

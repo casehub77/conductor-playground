@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 971,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rob Fenicle",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": -17.5,
+      "event_name": "Bellator 288: Nemkov vs. Anderson 2",
+      "fight_id": "4c5c51ca938d2ed6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Laird Anderson",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1466.5,
+      "pre_elo": 1484.0,
+      "red_name": "Laird Anderson",
+      "round": "2",
+      "time": "2:28",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Rob Fenicle",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-09-16",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 142: Amorim vs. Nichols",
+      "fight_id": "6d966e21421785d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Zach Vaci",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Zach Vaci",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-16",
+      "fight_id": "6d966e21421785d6",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "6d966e21421785d6",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "4c5c51ca938d2ed6",
+      "rating": 1466.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "4c5c51ca938d2ed6",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-18",
+  "name": "Rob Fenicle",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "rob-fenicle",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

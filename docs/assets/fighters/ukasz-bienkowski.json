@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 378,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Łukasz Bieńkowski",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2020-07-11",
+      "elo_delta": -21.3,
+      "event_name": "KSW 53: Reborn",
+      "fight_id": "0d0d34586a55e08e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Tomasz Drwal",
+      "opponent_elo": 1486.9,
+      "outcome": "red_win",
+      "post_elo": 1499.5,
+      "pre_elo": 1520.9,
+      "red_name": "Tomasz Drwal",
+      "round": "2",
+      "time": "2:34",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Antoni Chmielewski",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2017-04-07",
+      "elo_delta": 20.9,
+      "event_name": "KSW 38: Live in Studio",
+      "fight_id": "7ee84b22460bce8c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Antoni Chmielewski",
+      "opponent_elo": 1555.7,
+      "outcome": "red_win",
+      "post_elo": 1520.9,
+      "pre_elo": 1500.0,
+      "red_name": "Łukasz Bieńkowski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2017-04-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-04-07",
+      "fight_id": "7ee84b22460bce8c",
+      "rating": 1520.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2017-04-07",
+      "fight_id": "7ee84b22460bce8c",
+      "rating": 1518.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-07-11",
+      "fight_id": "0d0d34586a55e08e",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-07-11",
+      "fight_id": "0d0d34586a55e08e",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-07-11",
+  "name": "Łukasz Bieńkowski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.9,
+  "slug": "ukasz-bienkowski",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 371,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ronnie Lawrence",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+      "fight_id": "1efc90d96a2e5e51",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Dan Argueta",
+      "opponent_elo": 1501.8,
+      "outcome": "no_contest",
+      "post_elo": 1517.6,
+      "pre_elo": 1517.6,
+      "red_name": "Dan Argueta",
+      "round": "1.0",
+      "time": "2:20",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Saidyokub Kakhramonov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-07-09",
+      "elo_delta": -18.8,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "fight_id": "f071af545beddee1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Saidyokub Kakhramonov",
+      "opponent_elo": 1520.6,
+      "outcome": "blue_win",
+      "post_elo": 1517.6,
+      "pre_elo": 1536.4,
+      "red_name": "Ronnie Lawrence",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ronnie Lawrence",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-12",
+      "elo_delta": 17.9,
+      "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+      "fight_id": "009db2ab7d809fb0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mana Martinez",
+      "opponent_elo": 1516.1,
+      "outcome": "blue_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.5,
+      "red_name": "Mana Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ronnie Lawrence",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-02-27",
+      "elo_delta": 18.5,
+      "event_name": "UFC Fight Night: Rozenstruik vs. Gane",
+      "fight_id": "0b40e87b1f7a718d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Vince Cachero",
+      "opponent_elo": 1483.3,
+      "outcome": "blue_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Vince Cachero",
+      "round": "3.0",
+      "time": "2:38",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-02-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-02-27",
+      "fight_id": "0b40e87b1f7a718d",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-02-27",
+      "fight_id": "0b40e87b1f7a718d",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "009db2ab7d809fb0",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "009db2ab7d809fb0",
+      "rating": 1532.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-09",
+      "fight_id": "f071af545beddee1",
+      "rating": 1517.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-07-09",
+      "fight_id": "f071af545beddee1",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "1efc90d96a2e5e51",
+      "rating": 1517.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "1efc90d96a2e5e51",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-17",
+  "name": "Ronnie Lawrence",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "ronnie-lawrence",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

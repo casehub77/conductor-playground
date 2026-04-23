@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 170,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dominic Sumner",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2021-11-05",
+      "elo_delta": 20.4,
+      "event_name": "Legacy Fighting Alliance 117: Dias vs. Tanak",
+      "fight_id": "38d2d35771df4c3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Dominic Sumner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.1,
+      "pre_elo": 1482.7,
+      "red_name": "Albert Gonzales",
+      "round": "1",
+      "time": "0:39",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2021-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-18",
+      "fight_id": "707b3b59d0dba8c9",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "38d2d35771df4c3e",
+      "rating": 1503.1,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "38d2d35771df4c3e",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-05",
+  "name": "Albert Gonzales",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.1,
+  "slug": "albert-gonzales",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

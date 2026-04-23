@@ -1,0 +1,194 @@
+{
+  "current_elo": 1493.8,
+  "divisional_rank": 1088,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Oliver Enkamp",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-05-12",
+      "elo_delta": -15.6,
+      "event_name": "Bellator 296: Mousasi vs. Edwards",
+      "fight_id": "588ecf38824906e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Luca Poclit",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1457.8,
+      "pre_elo": 1473.4,
+      "red_name": "Luca Poclit",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mark Lemminger",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": 22.0,
+      "event_name": "Bellator 281: MVP vs. Storley",
+      "fight_id": "72b6a163b8e621d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (inverted triangle)",
+      "opponent": "Mark Lemminger",
+      "opponent_elo": 1497.0,
+      "outcome": "red_win",
+      "post_elo": 1473.4,
+      "pre_elo": 1451.4,
+      "red_name": "Oliver Enkamp",
+      "round": "3",
+      "time": "0:25",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Oliver Enkamp",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": -15.4,
+      "event_name": "Bellator 272: Pettis vs. Horiguchi",
+      "fight_id": "d7d7436869d70cab",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Kyle Crutchmer",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1451.4,
+      "pre_elo": 1466.8,
+      "red_name": "Kyle Crutchmer",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Oliver Enkamp",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-03-17",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Werdum vs. Volkov",
+      "fight_id": "f3326a83a8d66421",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Danny Roberts",
+      "opponent_elo": 1528.9,
+      "outcome": "red_win",
+      "post_elo": 1466.8,
+      "pre_elo": 1483.7,
+      "red_name": "Danny Roberts",
+      "round": "1.0",
+      "time": "2:12",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Nordine Taleb",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-05-28",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "fight_id": "631681cb3bacd0be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nordine Taleb",
+      "opponent_elo": 1533.1,
+      "outcome": "blue_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Oliver Enkamp",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2017-05-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-05-28",
+      "fight_id": "631681cb3bacd0be",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-05-28",
+      "fight_id": "631681cb3bacd0be",
+      "rating": 1485.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-03-17",
+      "fight_id": "f3326a83a8d66421",
+      "rating": 1466.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-03-17",
+      "fight_id": "f3326a83a8d66421",
+      "rating": 1470.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "d7d7436869d70cab",
+      "rating": 1451.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "d7d7436869d70cab",
+      "rating": 1456.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "72b6a163b8e621d6",
+      "rating": 1473.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "72b6a163b8e621d6",
+      "rating": 1475.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "588ecf38824906e8",
+      "rating": 1457.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "588ecf38824906e8",
+      "rating": 1461.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-12",
+  "name": "Oliver Enkamp",
+  "nickname": "",
+  "overall_elo": 1497.6,
+  "peak_elo": 1500.0,
+  "slug": "oliver-enkamp",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

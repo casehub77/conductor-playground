@@ -1,0 +1,126 @@
+{
+  "current_elo": 1482.0,
+  "divisional_rank": 607,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ernesta Kareckaite",
+      "bout_type": "Catch Weight Bout",
+      "date": "2026-02-28",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "7501a3ba1130d8e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Regina Tarin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Regina Tarin",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Nicolle Caliari",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-01-11",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Dern vs. Ribas 2",
+      "fight_id": "eedc02f970a98e68",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Nicolle Caliari",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1481.0,
+      "red_name": "Ernesta Kareckaite",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ernesta Kareckaite",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-05-04",
+      "elo_delta": -19.0,
+      "event_name": "UFC 301: Pantoja vs. Erceg",
+      "fight_id": "49bdb84fdd4ceb1c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dione Barbosa",
+      "opponent_elo": 1481.0,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dione Barbosa",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-05-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-04",
+      "fight_id": "49bdb84fdd4ceb1c",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "49bdb84fdd4ceb1c",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "eedc02f970a98e68",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "eedc02f970a98e68",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "7501a3ba1130d8e7",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "7501a3ba1130d8e7",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Ernesta Kareckaite",
+  "nickname": "",
+  "overall_elo": 1484.0,
+  "peak_elo": 1500.0,
+  "slug": "ernesta-kareckaite",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

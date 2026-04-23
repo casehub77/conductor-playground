@@ -1,0 +1,126 @@
+{
+  "current_elo": 1515.0,
+  "divisional_rank": 151,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lincon Santos",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-02-07",
+      "elo_delta": -21.5,
+      "event_name": "LFA 201: Conceição vs. Silva",
+      "fight_id": "7c294d718b8eeaf9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Marcos Degli",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1515.0,
+      "pre_elo": 1536.4,
+      "red_name": "Marcos Degli",
+      "round": "1",
+      "time": "0:41",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Cristian Rodrigo Roldan",
+      "bout_type": "Catchweight (131 lb) Bout",
+      "date": "2022-05-13",
+      "elo_delta": 17.0,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "93f57913c6e3bc53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Cristian Rodrigo Roldan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Lincon Santos",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Marciano Ferreira",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-03-11",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 126: Bilharinho vs. Delano",
+      "fight_id": "6e645773c4b78397",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Marciano Ferreira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lincon Santos",
+      "round": "1",
+      "time": "2:24",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-11",
+      "fight_id": "6e645773c4b78397",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "6e645773c4b78397",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "93f57913c6e3bc53",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "93f57913c6e3bc53",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "7c294d718b8eeaf9",
+      "rating": 1515.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "7c294d718b8eeaf9",
+      "rating": 1513.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-07",
+  "name": "Lincon Santos",
+  "nickname": "",
+  "overall_elo": 1513.6,
+  "peak_elo": 1536.4,
+  "slug": "lincon-santos",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

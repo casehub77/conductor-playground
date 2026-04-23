@@ -1,0 +1,126 @@
+{
+  "current_elo": 1517.4,
+  "divisional_rank": 208,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Leon Armes",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": -19.1,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "f7495708f136f203",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Scott Harvey",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1536.4,
+      "red_name": "Scott Harvey",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Michał Folc",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 181: Newcastle",
+      "fight_id": "481dae546399a7c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Michał Folc",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Leon Armes",
+      "round": "1",
+      "time": "3:41",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Christian Tosco",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-15",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 167: Unplugged",
+      "fight_id": "5475b6a264ec720d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Christian Tosco",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Leon Armes",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-03-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-15",
+      "fight_id": "5475b6a264ec720d",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-15",
+      "fight_id": "5475b6a264ec720d",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "481dae546399a7c9",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "481dae546399a7c9",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "f7495708f136f203",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "f7495708f136f203",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-26",
+  "name": "Leon Armes",
+  "nickname": "",
+  "overall_elo": 1515.7,
+  "peak_elo": 1536.4,
+  "slug": "leon-armes",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

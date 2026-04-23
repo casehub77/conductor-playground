@@ -1,0 +1,262 @@
+{
+  "current_elo": 1557.0,
+  "divisional_rank": 40,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Kyoji Horiguchi",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-02-07",
+      "elo_delta": -10.9,
+      "event_name": "UFC Fight Night: Bautista vs. Oliveira",
+      "fight_id": "b281ea4bfa4c8c24",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kyoji Horiguchi",
+      "opponent_elo": 1713.8,
+      "outcome": "blue_win",
+      "post_elo": 1557.0,
+      "pre_elo": 1567.9,
+      "red_name": "Amir Albazi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Amir Albazi",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Moreno vs. Albazi",
+      "fight_id": "ee79e1ec5b020fc6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Brandon Moreno",
+      "opponent_elo": 1592.2,
+      "outcome": "red_win",
+      "post_elo": 1567.9,
+      "pre_elo": 1585.5,
+      "red_name": "Brandon Moreno",
+      "round": "5.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Amir Albazi",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-06-03",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: Kara-France vs. Albazi",
+      "fight_id": "c663b8b6690f1681",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Kai Kara-France",
+      "opponent_elo": 1551.5,
+      "outcome": "blue_win",
+      "post_elo": 1585.5,
+      "pre_elo": 1568.4,
+      "red_name": "Kai Kara-France",
+      "round": "5.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Alessandro Costa",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-12-17",
+      "elo_delta": 16.6,
+      "event_name": "UFC Fight Night: Cannonier vs. Strickland",
+      "fight_id": "262d939547136238",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alessandro Costa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1568.4,
+      "pre_elo": 1551.8,
+      "red_name": "Amir Albazi",
+      "round": "3.0",
+      "time": "2:13",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Francisco Figueiredo",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-08-20",
+      "elo_delta": 18.4,
+      "event_name": "UFC 278: Usman vs. Edwards",
+      "fight_id": "993e3418a64f60ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Francisco Figueiredo",
+      "opponent_elo": 1515.0,
+      "outcome": "red_win",
+      "post_elo": 1551.8,
+      "pre_elo": 1533.4,
+      "red_name": "Amir Albazi",
+      "round": "1.0",
+      "time": "4:34",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Zhalgas Zhumagulov",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-01-23",
+      "elo_delta": 16.1,
+      "event_name": "UFC 257: Poirier vs. McGregor",
+      "fight_id": "800a5554ee1d2eef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Zhalgas Zhumagulov",
+      "opponent_elo": 1481.2,
+      "outcome": "red_win",
+      "post_elo": 1533.4,
+      "pre_elo": 1517.3,
+      "red_name": "Amir Albazi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Amir Albazi",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-07-18",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Figueiredo vs. Benavidez 2",
+      "fight_id": "1ba5257d1f32cf1f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Malcolm Gordon",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Malcolm Gordon",
+      "round": "1.0",
+      "time": "4:42",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-07-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-07-18",
+      "fight_id": "1ba5257d1f32cf1f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-07-18",
+      "fight_id": "1ba5257d1f32cf1f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-01-23",
+      "fight_id": "800a5554ee1d2eef",
+      "rating": 1533.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-01-23",
+      "fight_id": "800a5554ee1d2eef",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "993e3418a64f60ac",
+      "rating": 1551.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "993e3418a64f60ac",
+      "rating": 1548.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "262d939547136238",
+      "rating": 1568.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "262d939547136238",
+      "rating": 1563.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-03",
+      "fight_id": "c663b8b6690f1681",
+      "rating": 1585.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-06-03",
+      "fight_id": "c663b8b6690f1681",
+      "rating": 1578.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "ee79e1ec5b020fc6",
+      "rating": 1567.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "ee79e1ec5b020fc6",
+      "rating": 1562.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "b281ea4bfa4c8c24",
+      "rating": 1557.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "b281ea4bfa4c8c24",
+      "rating": 1552.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-07",
+  "name": "Amir Albazi",
+  "nickname": "",
+  "overall_elo": 1552.7,
+  "peak_elo": 1585.5,
+  "slug": "amir-albazi",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

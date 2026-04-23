@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 515,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Makwan Amirkhani",
+      "bout_type": "Featherweight Bout",
+      "date": "2016-02-27",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Silva vs Bisping",
+      "fight_id": "fbab7cb73086f2b1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Makwan Amirkhani",
+      "opponent_elo": 1536.0,
+      "outcome": "blue_win",
+      "post_elo": 1502.3,
+      "pre_elo": 1519.4,
+      "red_name": "Mike Wilkinson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mike Wilkinson",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-10-04",
+      "elo_delta": 21.6,
+      "event_name": "UFC Fight Night: Nelson vs Story",
+      "fight_id": "579a61b73da38c73",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Niklas Backstrom",
+      "opponent_elo": 1537.2,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1497.8,
+      "red_name": "Niklas Backstrom",
+      "round": "1.0",
+      "time": "1:19",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mike Wilkinson",
+      "bout_type": "Featherweight Bout",
+      "date": "2013-06-08",
+      "elo_delta": -18.2,
+      "event_name": "UFC on FUEL TV: Nogueira vs. Werdum",
+      "fight_id": "d28b6c10fe91e218",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Rony Jason",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1497.8,
+      "pre_elo": 1516.0,
+      "red_name": "Rony Jason",
+      "round": "1.0",
+      "time": "1:24",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mike Wilkinson",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-12-14",
+      "elo_delta": 18.0,
+      "event_name": "UFC on FX: Sotiropoulos vs Pearson",
+      "fight_id": "91c33a9924c8f4cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Brendan Loughnane",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Brendan Loughnane",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2012-12-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-12-14",
+      "fight_id": "91c33a9924c8f4cd",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-12-14",
+      "fight_id": "91c33a9924c8f4cd",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-06-08",
+      "fight_id": "d28b6c10fe91e218",
+      "rating": 1497.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2013-06-08",
+      "fight_id": "d28b6c10fe91e218",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "579a61b73da38c73",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "579a61b73da38c73",
+      "rating": 1518.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-02-27",
+      "fight_id": "fbab7cb73086f2b1",
+      "rating": 1502.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-02-27",
+      "fight_id": "fbab7cb73086f2b1",
+      "rating": 1503.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-02-27",
+  "name": "Mike Wilkinson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "mike-wilkinson",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

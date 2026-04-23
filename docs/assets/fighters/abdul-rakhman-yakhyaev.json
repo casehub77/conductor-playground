@@ -1,0 +1,92 @@
+{
+  "current_elo": 1533.5,
+  "divisional_rank": 59,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brendson Ribeiro",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": 17.0,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "407a515cbeecaf18",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brendson Ribeiro",
+      "opponent_elo": 1472.4,
+      "outcome": "red_win",
+      "post_elo": 1533.5,
+      "pre_elo": 1516.5,
+      "red_name": "Abdul Rakhman Yakhyaev",
+      "round": "1",
+      "time": "2:52",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Rafael Cerqueira",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 16.5,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "5c9d1345722ee132",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Rafael Cerqueira",
+      "opponent_elo": 1446.7,
+      "outcome": "red_win",
+      "post_elo": 1516.5,
+      "pre_elo": 1500.0,
+      "red_name": "Abdul Rakhman Yakhyaev",
+      "round": "1.0",
+      "time": "0:33",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-22",
+      "fight_id": "5c9d1345722ee132",
+      "rating": 1516.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "5c9d1345722ee132",
+      "rating": 1514.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "407a515cbeecaf18",
+      "rating": 1533.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "407a515cbeecaf18",
+      "rating": 1530.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Abdul Rakhman Yakhyaev",
+  "nickname": "",
+  "overall_elo": 1530.2,
+  "peak_elo": 1533.5,
+  "slug": "abdul-rakhman-yakhyaev",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

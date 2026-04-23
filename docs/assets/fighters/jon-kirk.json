@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 269,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Shane Faulkner",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-09-02",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 27",
+      "fight_id": "e13e563c074c74cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Shane Faulkner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jon Kirk",
+      "round": "3",
+      "time": "2:19",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-09-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-02",
+      "fight_id": "e13e563c074c74cd",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-09-02",
+      "fight_id": "e13e563c074c74cd",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-02",
+  "name": "Jon Kirk",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "jon-kirk",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 454,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Austin Wourms",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": 20.7,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "f15226f7d2d295e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees)",
+      "opponent": "Austin Wourms",
+      "opponent_elo": 1540.7,
+      "outcome": "red_win",
+      "post_elo": 1538.2,
+      "pre_elo": 1517.5,
+      "red_name": "Lucas Clay",
+      "round": "1",
+      "time": "2:59",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Lucas Clay",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-04-08",
+      "elo_delta": -19.0,
+      "event_name": "Legacy Fighting Alliance 128: McKenzie vs. Clay",
+      "fight_id": "729d8b2793a70f80",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Aaron McKenzie",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1536.4,
+      "red_name": "Aaron McKenzie",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jake Kozorosky",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-09-24",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 115: Silveira vs. Cummins",
+      "fight_id": "736509ea49cea815",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Jake Kozorosky",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Lucas Clay",
+      "round": "2",
+      "time": "3:11",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "J.J. Okanovich",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-01-29",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 98: Fremd vs. Oliveira",
+      "fight_id": "58e3070e1fe00cad",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "J.J. Okanovich",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Lucas Clay",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-01-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-01-29",
+      "fight_id": "58e3070e1fe00cad",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-01-29",
+      "fight_id": "58e3070e1fe00cad",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "736509ea49cea815",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "736509ea49cea815",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "729d8b2793a70f80",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-04-08",
+      "fight_id": "729d8b2793a70f80",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "f15226f7d2d295e0",
+      "rating": 1538.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "f15226f7d2d295e0",
+      "rating": 1534.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-08",
+  "name": "Lucas Clay",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.2,
+  "slug": "lucas-clay",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

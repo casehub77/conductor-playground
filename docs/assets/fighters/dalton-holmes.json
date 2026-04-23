@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 355,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jeremy Landowski",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-10-21",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 145: Assis vs. Murray",
+      "fight_id": "53a10695fb0c8c58",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jeremy Landowski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Dalton Holmes",
+      "round": "2",
+      "time": "4:05",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Malaquias Jarmon",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 131: Argueta vs. Silva",
+      "fight_id": "00e49f14440c4d50",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Malaquias Jarmon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dalton Holmes",
+      "round": "1",
+      "time": "1:32",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-06",
+      "fight_id": "00e49f14440c4d50",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "00e49f14440c4d50",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "53a10695fb0c8c58",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "53a10695fb0c8c58",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-21",
+  "name": "Dalton Holmes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "dalton-holmes",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

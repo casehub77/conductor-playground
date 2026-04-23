@@ -1,0 +1,92 @@
+{
+  "current_elo": 1503.5,
+  "divisional_rank": 268,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Song Min-jong",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": -17.0,
+      "event_name": "ONE Fight Night 28: Prajanchai vs. Barboza",
+      "fight_id": "ca12749b477b6f1e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Carlo Bumina-ang",
+      "opponent_elo": 1564.5,
+      "outcome": "red_win",
+      "post_elo": 1503.5,
+      "pre_elo": 1520.4,
+      "red_name": "Carlo Bumina-ang",
+      "round": "1",
+      "time": "0:53",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chen Rui",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": 20.4,
+      "event_name": "ONE 156: Eersel vs. Sadiković",
+      "fight_id": "a156d2388a2484e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Chen Rui",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Song Min-jong",
+      "round": "2",
+      "time": "4:26",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-04-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-22",
+      "fight_id": "a156d2388a2484e1",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "a156d2388a2484e1",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "ca12749b477b6f1e",
+      "rating": 1503.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "ca12749b477b6f1e",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-08",
+  "name": "Song Min-jong",
+  "nickname": "",
+  "overall_elo": 1502.9,
+  "peak_elo": 1520.4,
+  "slug": "song-min-jong",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

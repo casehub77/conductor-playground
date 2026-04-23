@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 501,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Chen Rui",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-09-22",
+      "elo_delta": -18.7,
+      "event_name": "ONE Friday Fights 34: Rodtang vs. Superlek",
+      "fight_id": "a9188f88484b11bd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Shinechagtga Zoltsetseg",
+      "opponent_elo": 1483.6,
+      "outcome": "red_win",
+      "post_elo": 1478.8,
+      "pre_elo": 1497.6,
+      "red_name": "Shinechagtga Zoltsetseg",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chen Rui",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": -20.4,
+      "event_name": "ONE 156: Eersel vs. Sadiković",
+      "fight_id": "a156d2388a2484e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Song Min-jong",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Song Min-jong",
+      "round": "2",
+      "time": "4:26",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Mark Abelardo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": 18.0,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "91ee9f8cbe0ccb1d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Mark Abelardo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Chen Rui",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "91ee9f8cbe0ccb1d",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "91ee9f8cbe0ccb1d",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "a156d2388a2484e1",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "a156d2388a2484e1",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-22",
+      "fight_id": "a9188f88484b11bd",
+      "rating": 1478.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-09-22",
+      "fight_id": "a9188f88484b11bd",
+      "rating": 1481.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-22",
+  "name": "Chen Rui",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "chen-rui",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

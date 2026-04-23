@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 490,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Danilo Marques",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-09-26",
+      "elo_delta": -15.3,
+      "event_name": "UFC 253: Adesanya vs. Costa",
+      "fight_id": "564057f02893c9ff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Danilo Marques",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1431.4,
+      "pre_elo": 1446.6,
+      "red_name": "Khadis Ibragimov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Khadis Ibragimov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-07-18",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Figueiredo vs. Benavidez 2",
+      "fight_id": "729ee39dc0791265",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Roman Dolidze",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1446.6,
+      "pre_elo": 1464.1,
+      "red_name": "Roman Dolidze",
+      "round": "1.0",
+      "time": "4:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ed Herman",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-11-09",
+      "elo_delta": -16.5,
+      "event_name": "UFC Fight Night: Zabit vs. Kattar",
+      "fight_id": "633d858a735b78bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ed Herman",
+      "opponent_elo": 1510.1,
+      "outcome": "blue_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1480.6,
+      "red_name": "Khadis Ibragimov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Khadis Ibragimov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-08-31",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Andrade vs. Zhang",
+      "fight_id": "c89e1398ebaffb7e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Da Woon Jung",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Da Woon Jung",
+      "round": "3.0",
+      "time": "1:59",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-08-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-08-31",
+      "fight_id": "c89e1398ebaffb7e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-08-31",
+      "fight_id": "c89e1398ebaffb7e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "633d858a735b78bf",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "633d858a735b78bf",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-07-18",
+      "fight_id": "729ee39dc0791265",
+      "rating": 1446.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-07-18",
+      "fight_id": "729ee39dc0791265",
+      "rating": 1452.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-09-26",
+      "fight_id": "564057f02893c9ff",
+      "rating": 1431.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-09-26",
+      "fight_id": "564057f02893c9ff",
+      "rating": 1438.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-09-26",
+  "name": "Khadis Ibragimov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "khadis-ibragimov",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

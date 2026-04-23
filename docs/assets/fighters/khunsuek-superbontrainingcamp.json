@@ -1,0 +1,99 @@
+{
+  "current_elo": 1517.3,
+  "divisional_rank": 210,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mohammad Siasarani",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2024-11-29",
+      "elo_delta": 20.6,
+      "event_name": "ONE Friday Fights 89: Yod-IQ vs. Khomutov",
+      "fight_id": "18df8c8675c64f77",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Mohammad Siasarani",
+      "opponent_elo": 1548.2,
+      "outcome": "red_win",
+      "post_elo": 1517.3,
+      "pre_elo": 1496.7,
+      "red_name": "Khunsuek SuperbonTrainingCamp",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Khunsuek SuperbonTrainingCamp",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2024-08-16",
+      "elo_delta": -19.3,
+      "event_name": "ONE Friday Fights 75: Kompetch vs. El Halabi",
+      "fight_id": "ed62d568cbe7bc6a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Mamuka Usubyan",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1496.7,
+      "pre_elo": 1516.0,
+      "red_name": "Mamuka Usubyan",
+      "round": "2",
+      "time": "2:16",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-06-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-06-07",
+      "fight_id": "77b9a9663431a3c6",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-16",
+      "fight_id": "ed62d568cbe7bc6a",
+      "rating": 1496.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-08-16",
+      "fight_id": "ed62d568cbe7bc6a",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-29",
+      "fight_id": "18df8c8675c64f77",
+      "rating": 1517.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-11-29",
+      "fight_id": "18df8c8675c64f77",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-29",
+  "name": "Khunsuek SuperbonTrainingCamp",
+  "nickname": "",
+  "overall_elo": 1516.8,
+  "peak_elo": 1517.3,
+  "slug": "khunsuek-superbontrainingcamp",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

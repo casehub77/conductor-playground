@@ -1,0 +1,167 @@
+{
+  "current_elo": 1537.6,
+  "divisional_rank": 66,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Schwindt",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": 20.1,
+      "event_name": "Oktagon 77: Engizek vs. Humburger",
+      "fight_id": "e546be8f9ff5b9d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Daniel Schwindt",
+      "opponent_elo": 1529.6,
+      "outcome": "red_win",
+      "post_elo": 1537.6,
+      "pre_elo": 1517.5,
+      "red_name": "Vlasto Čepo",
+      "round": "1",
+      "time": "3:38",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Erhan Kartal",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 19.6,
+      "event_name": "Oktagon 70: Krištofič vs. Humburger",
+      "fight_id": "a3791e6ab0f92edf",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Erhan Kartal",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1497.9,
+      "red_name": "Vlasto Čepo",
+      "round": "1",
+      "time": "4:01",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Vlasto Čepo",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-12-29",
+      "elo_delta": -21.5,
+      "event_name": "Oktagon 51: Tipsport Gamechanger Final",
+      "fight_id": "37fe85fa83bd9e5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Piotr Wawrzyniak",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1519.4,
+      "red_name": "Piotr Wawrzyniak",
+      "round": "3",
+      "time": "3:19",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ion Taburceanu",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-04-29",
+      "elo_delta": 19.4,
+      "event_name": "Oktagon 42: Keita vs. Tichota",
+      "fight_id": "244a00c847c5374c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ion Taburceanu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Vlasto Čepo",
+      "round": "2",
+      "time": "1:54",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "51e7a462dc2e23ca",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "244a00c847c5374c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "244a00c847c5374c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-29",
+      "fight_id": "37fe85fa83bd9e5c",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-12-29",
+      "fight_id": "37fe85fa83bd9e5c",
+      "rating": 1498.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "a3791e6ab0f92edf",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "a3791e6ab0f92edf",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "e546be8f9ff5b9d6",
+      "rating": 1537.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "e546be8f9ff5b9d6",
+      "rating": 1533.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-04",
+  "name": "Vlasto Čepo",
+  "nickname": "",
+  "overall_elo": 1533.5,
+  "peak_elo": 1537.6,
+  "slug": "vlasto-cepo",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

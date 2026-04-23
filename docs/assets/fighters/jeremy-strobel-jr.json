@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.3,
+  "divisional_rank": 105,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shad Walters",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-01-25",
+      "elo_delta": 17.8,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "9264d4a6f9479c81",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Shad Walters",
+      "opponent_elo": 1516.4,
+      "outcome": "red_win",
+      "post_elo": 1537.3,
+      "pre_elo": 1519.4,
+      "red_name": "Jeremy Strobel Jr.",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Andre Sellars",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 131: Argueta vs. Silva",
+      "fight_id": "5e871f22c0cc9a91",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Andre Sellars",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jeremy Strobel Jr.",
+      "round": "3",
+      "time": "1:11",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-06",
+      "fight_id": "5e871f22c0cc9a91",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "5e871f22c0cc9a91",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "9264d4a6f9479c81",
+      "rating": 1537.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "9264d4a6f9479c81",
+      "rating": 1533.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-25",
+  "name": "Jeremy Strobel Jr.",
+  "nickname": "",
+  "overall_elo": 1533.2,
+  "peak_elo": 1537.3,
+  "slug": "jeremy-strobel-jr",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

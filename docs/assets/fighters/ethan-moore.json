@@ -1,0 +1,58 @@
+{
+  "current_elo": 1480.6,
+  "divisional_rank": 1167,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ethan Moore",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-04-03",
+      "elo_delta": -19.4,
+      "event_name": "LFA 230: Bartling vs. Cleveland",
+      "fight_id": "f2e5984383d5b0e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbow and punches)",
+      "opponent": "Austin Miller",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Austin Miller",
+      "round": "2",
+      "time": "3:24",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2026-04-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-04-03",
+      "fight_id": "f2e5984383d5b0e0",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "f2e5984383d5b0e0",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-03",
+  "name": "Ethan Moore",
+  "nickname": "",
+  "overall_elo": 1482.7,
+  "peak_elo": 1500.0,
+  "slug": "ethan-moore",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

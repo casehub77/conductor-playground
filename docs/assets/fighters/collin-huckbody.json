@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 657,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Collin Huckbody",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": -17.4,
+      "event_name": "Bellator 272: Pettis vs. Horiguchi",
+      "fight_id": "7e46d565359bd76e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Johnny Eblen",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Johnny Eblen",
+      "round": "1",
+      "time": "1:11",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-03",
+      "fight_id": "7e46d565359bd76e",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "7e46d565359bd76e",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-12-03",
+  "name": "Collin Huckbody",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "collin-huckbody",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.3,
+  "divisional_rank": 1108,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Charalampos Grigoriou",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-08-10",
+      "elo_delta": -20.5,
+      "event_name": "UFC Fight Night: Tybura vs. Spivac 2",
+      "fight_id": "68c44e0a7ac9f93c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Toshiomi Kazama",
+      "opponent_elo": 1461.2,
+      "outcome": "red_win",
+      "post_elo": 1460.5,
+      "pre_elo": 1481.0,
+      "red_name": "Toshiomi Kazama",
+      "round": "2.0",
+      "time": "1:55",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chad Anheliger",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Tuivasa vs. Tybura",
+      "fight_id": "25b2ce3ef6e5471c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chad Anheliger",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Charalampos Grigoriou",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-16",
+      "fight_id": "25b2ce3ef6e5471c",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "25b2ce3ef6e5471c",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "68c44e0a7ac9f93c",
+      "rating": 1460.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "68c44e0a7ac9f93c",
+      "rating": 1465.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-08-10",
+  "name": "Charalampos Grigoriou",
+  "nickname": "",
+  "overall_elo": 1469.9,
+  "peak_elo": 1500.0,
+  "slug": "charalampos-grigoriou",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 910,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Suman Mokhtarian",
+      "bout_type": "Featherweight Bout",
+      "date": "2019-12-21",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Edgar vs. The Korean Zombie",
+      "fight_id": "ecaf81f0f410f19b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Seungwoo Choi",
+      "opponent_elo": 1463.5,
+      "outcome": "red_win",
+      "post_elo": 1461.7,
+      "pre_elo": 1480.6,
+      "red_name": "Seungwoo Choi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Sodiq Yusuff",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-12-01",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Dos Santos vs. Tuivasa",
+      "fight_id": "baa27e005371ba79",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Sodiq Yusuff",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Suman Mokhtarian",
+      "round": "1.0",
+      "time": "2:14",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2018-12-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-12-01",
+      "fight_id": "baa27e005371ba79",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "baa27e005371ba79",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-12-21",
+      "fight_id": "ecaf81f0f410f19b",
+      "rating": 1461.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2019-12-21",
+      "fight_id": "ecaf81f0f410f19b",
+      "rating": 1466.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-12-21",
+  "name": "Suman Mokhtarian",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "suman-mokhtarian",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 375,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andre Roberts",
+      "bout_type": "Super Heavyweight Bout",
+      "date": "2005-01-22",
+      "elo_delta": -19.6,
+      "event_name": "WEC 13: Heavyweight Explosion",
+      "fight_id": "768b34210729aa29",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Dan Christison",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1502.7,
+      "red_name": "Dan Christison",
+      "round": "1",
+      "time": "3:26",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ron Waterman",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-07-16",
+      "elo_delta": 21.6,
+      "event_name": "UFC 21: Return of the Champions",
+      "fight_id": "850aca392f1b41e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ron Waterman",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1502.7,
+      "pre_elo": 1481.2,
+      "red_name": "Andre Roberts",
+      "round": "1.0",
+      "time": "2:51",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Andre Roberts",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-03-05",
+      "elo_delta": -18.8,
+      "event_name": "UFC 19: Ultimate Young Guns",
+      "fight_id": "0aaf9628c73e1764",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gary Goodridge",
+      "opponent_elo": 1510.9,
+      "outcome": "red_win",
+      "post_elo": 1481.2,
+      "pre_elo": 1500.0,
+      "red_name": "Gary Goodridge",
+      "round": "1.0",
+      "time": "0:43",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1999-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-03-05",
+      "fight_id": "0aaf9628c73e1764",
+      "rating": 1481.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-03-05",
+      "fight_id": "0aaf9628c73e1764",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "850aca392f1b41e1",
+      "rating": 1502.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "850aca392f1b41e1",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-01-22",
+      "fight_id": "768b34210729aa29",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2005-01-22",
+      "fight_id": "768b34210729aa29",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-01-22",
+  "name": "Andre Roberts",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.7,
+  "slug": "andre-roberts",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

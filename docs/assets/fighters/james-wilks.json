@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 486,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Claude Patrick",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-10-16",
+      "elo_delta": -18.0,
+      "event_name": "UFC 120: Bisping vs Akiyama",
+      "fight_id": "17da10f38430f733",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Claude Patrick",
+      "opponent_elo": 1518.6,
+      "outcome": "blue_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1518.0,
+      "red_name": "James Wilks",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Peter Sobotta",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-06-12",
+      "elo_delta": 17.0,
+      "event_name": "UFC 115: Liddell vs Franklin",
+      "fight_id": "3114670813c6cf89",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Peter Sobotta",
+      "opponent_elo": 1481.2,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1501.0,
+      "red_name": "James Wilks",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "James Wilks",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-11-14",
+      "elo_delta": -18.4,
+      "event_name": "UFC 105: Couture vs Vera",
+      "fight_id": "012567701924e01e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Matt Brown",
+      "opponent_elo": 1537.6,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1519.4,
+      "red_name": "Matt Brown",
+      "round": "3.0",
+      "time": "2:27",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Damarques Johnson",
+      "bout_type": "Ultimate Fighter 9 Welterweight Tournament Title Bout",
+      "date": "2009-06-20",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: United States vs. United Kingdom Finale",
+      "fight_id": "3cd26025d3178e2a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Damarques Johnson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "James Wilks",
+      "round": "1.0",
+      "time": "4:54",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-06-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-06-20",
+      "fight_id": "3cd26025d3178e2a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-06-20",
+      "fight_id": "3cd26025d3178e2a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-11-14",
+      "fight_id": "012567701924e01e",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-11-14",
+      "fight_id": "012567701924e01e",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-12",
+      "fight_id": "3114670813c6cf89",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-06-12",
+      "fight_id": "3114670813c6cf89",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "17da10f38430f733",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "17da10f38430f733",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-10-16",
+  "name": "James Wilks",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "james-wilks",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

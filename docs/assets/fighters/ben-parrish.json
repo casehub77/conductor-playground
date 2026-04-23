@@ -1,0 +1,126 @@
+{
+  "current_elo": 1495.5,
+  "divisional_rank": 637,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ben Parrish",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-03-29",
+      "elo_delta": -19.5,
+      "event_name": "LFA 180: Lawrence vs. Ward",
+      "fight_id": "0aeada6a80b1ebf0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Alik Lorenz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1501.0,
+      "red_name": "Alik Lorenz",
+      "round": "1",
+      "time": "4:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ben Parrish",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-01-29",
+      "elo_delta": -19.5,
+      "event_name": "Bellator 273: Bader vs. Moldavsky",
+      "fight_id": "d507b1397470110f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Sullivan Cauley",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1520.5,
+      "red_name": "Sullivan Cauley",
+      "round": "1",
+      "time": "4:35",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Christian Edwards",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 20.5,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "aa656df65ede9ceb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Christian Edwards",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ben Parrish",
+      "round": "1",
+      "time": "0:38",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-18",
+      "fight_id": "aa656df65ede9ceb",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "aa656df65ede9ceb",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "d507b1397470110f",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "d507b1397470110f",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "0aeada6a80b1ebf0",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "0aeada6a80b1ebf0",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-03-29",
+  "name": "Ben Parrish",
+  "nickname": "",
+  "overall_elo": 1497.5,
+  "peak_elo": 1520.5,
+  "slug": "ben-parrish",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

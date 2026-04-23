@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 66,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Elina Kallionidou",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": -18.1,
+      "event_name": "Bellator 291: Amosov vs. Storley 2",
+      "fight_id": "671b92aadcb4167f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Jena Bishop",
+      "opponent_elo": 1536.0,
+      "outcome": "red_win",
+      "post_elo": 1519.7,
+      "pre_elo": 1537.8,
+      "red_name": "Jena Bishop",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Kate Jackson",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 281: MVP vs. Storley",
+      "fight_id": "e3f2f8741769f2ea",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Kate Jackson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Elina Kallionidou",
+      "round": "2",
+      "time": "4:53",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Petra Částková",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "d55929b1131946ae",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Petra Částková",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Elina Kallionidou",
+      "round": "1",
+      "time": "2:07",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-10-01",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-10-01",
+      "fight_id": "d55929b1131946ae",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "d55929b1131946ae",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "e3f2f8741769f2ea",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "e3f2f8741769f2ea",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "671b92aadcb4167f",
+      "rating": 1519.7,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "671b92aadcb4167f",
+      "rating": 1517.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-25",
+  "name": "Elina Kallionidou",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "elina-kallionidou",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

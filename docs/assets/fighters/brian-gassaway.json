@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 645,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Knabjian",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-08-19",
+      "elo_delta": 18.8,
+      "event_name": "Bellator 25",
+      "fight_id": "dcd1ea115199e460",
+      "gender": "men",
+      "is_title": false,
+      "method": "unanimous decision (29–28, 29–28, 29–28)",
+      "opponent": "Kevin Knabjian",
+      "opponent_elo": 1462.6,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1447.1,
+      "red_name": "Brian Gassaway",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brian Gassaway",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-01-20",
+      "elo_delta": -17.8,
+      "event_name": "WEC 25: McCullough vs. Cope",
+      "fight_id": "38027d6bca58839e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear naked choke)",
+      "opponent": "John Alessio",
+      "opponent_elo": 1494.9,
+      "outcome": "red_win",
+      "post_elo": 1447.1,
+      "pre_elo": 1464.9,
+      "red_name": "John Alessio",
+      "round": "1",
+      "time": "4:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brian Gassaway",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-01-20",
+      "elo_delta": -20.0,
+      "event_name": "2007 in WEC",
+      "fight_id": "0c79c07644ed4c57",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear naked choke)",
+      "opponent": "John Alessio",
+      "opponent_elo": 1474.9,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1484.8,
+      "red_name": "John Alessio",
+      "round": "1",
+      "time": "4:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brian Gassaway",
+      "bout_type": "Welterweight Bout",
+      "date": "2005-08-20",
+      "elo_delta": -18.7,
+      "event_name": "UFC 54: Boiling Point",
+      "fight_id": "3c06e790a1b49add",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Diego Sanchez",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1484.8,
+      "pre_elo": 1503.5,
+      "red_name": "Diego Sanchez",
+      "round": "2.0",
+      "time": "1:56",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ross Ebanez",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-17",
+      "elo_delta": 20.3,
+      "event_name": "WEC 14: Vengeance",
+      "fight_id": "d71a0a52eed36e64",
+      "gender": "men",
+      "is_title": false,
+      "method": "NC (Accidental Headbutt)",
+      "opponent": "Ross Ebanez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1484.0,
+      "red_name": "Brian Gassaway",
+      "round": "0",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Brian Gassaway",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-18",
+      "elo_delta": -16.0,
+      "event_name": "Shooto: 3/18 in Korakuen Hall",
+      "fight_id": "6950851dc70e2d47",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Tetsuji Kato",
+      "opponent_elo": 1538.7,
+      "outcome": "red_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1500.0,
+      "red_name": "Tetsuji Kato",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-03-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-03-18",
+      "fight_id": "6950851dc70e2d47",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-18",
+      "fight_id": "6950851dc70e2d47",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "d71a0a52eed36e64",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "d71a0a52eed36e64",
+      "rating": 1503.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-08-20",
+      "fight_id": "3c06e790a1b49add",
+      "rating": 1484.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2005-08-20",
+      "fight_id": "3c06e790a1b49add",
+      "rating": 1486.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "0c79c07644ed4c57",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "38027d6bca58839e",
+      "rating": 1447.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "0c79c07644ed4c57",
+      "rating": 1470.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "38027d6bca58839e",
+      "rating": 1454.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-19",
+      "fight_id": "dcd1ea115199e460",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-08-19",
+      "fight_id": "dcd1ea115199e460",
+      "rating": 1471.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-19",
+  "name": "Brian Gassaway",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.3,
+  "slug": "brian-gassaway",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.9,
+  "divisional_rank": 18,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Montse Rendon",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2026-03-14",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Emmett vs. Vallejos",
+      "fight_id": "71aa9790b752b2a5",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Montse Rendon",
+      "opponent_elo": 1518.7,
+      "outcome": "red_win",
+      "post_elo": 1537.9,
+      "pre_elo": 1518.4,
+      "red_name": "Bia Mesquita",
+      "round": "1.0",
+      "time": "2:07",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Irina Alekseeva",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-10-11",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+      "fight_id": "5c601b02d3ba1836",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Irina Alekseeva",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bia Mesquita",
+      "round": "2.0",
+      "time": "2:14",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-10-11",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-10-11",
+      "fight_id": "5c601b02d3ba1836",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "5c601b02d3ba1836",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "71aa9790b752b2a5",
+      "rating": 1537.9,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "71aa9790b752b2a5",
+      "rating": 1533.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-14",
+  "name": "Bia Mesquita",
+  "nickname": "",
+  "overall_elo": 1533.8,
+  "peak_elo": 1537.9,
+  "slug": "bia-mesquita",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

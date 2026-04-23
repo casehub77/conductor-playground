@@ -1,0 +1,99 @@
+{
+  "current_elo": 1477.1,
+  "divisional_rank": 1078,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Bainbridge",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-12-06",
+      "elo_delta": -16.7,
+      "event_name": "Cage Warriors 199: Newcastle",
+      "fight_id": "c6e80d445b8fff9e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Charlie Boulton",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1477.1,
+      "pre_elo": 1493.8,
+      "red_name": "Charlie Boulton",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Daniel Bainbridge",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-06-27",
+      "elo_delta": -22.2,
+      "event_name": "Cage Warriors 190: Unplugged",
+      "fight_id": "e9b0ab0357aa78ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Emanuele Zaccaria",
+      "opponent_elo": 1465.6,
+      "outcome": "red_win",
+      "post_elo": 1493.8,
+      "pre_elo": 1516.0,
+      "red_name": "Emanuele Zaccaria",
+      "round": "1",
+      "time": "1:38",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-01-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-27",
+      "fight_id": "1512e1c1b706adfa",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "e9b0ab0357aa78ac",
+      "rating": 1493.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "e9b0ab0357aa78ac",
+      "rating": 1496.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "c6e80d445b8fff9e",
+      "rating": 1477.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "c6e80d445b8fff9e",
+      "rating": 1481.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-06",
+  "name": "Daniel Bainbridge",
+  "nickname": "",
+  "overall_elo": 1481.4,
+  "peak_elo": 1516.0,
+  "slug": "daniel-bainbridge",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

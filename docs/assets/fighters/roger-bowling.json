@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 504,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Roger Bowling",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-12-14",
+      "elo_delta": -19.8,
+      "event_name": "UFC on FOX: Johnson vs. Benavidez 2",
+      "fight_id": "156eb552e68f549e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Abel Trujillo",
+      "opponent_elo": 1503.6,
+      "outcome": "red_win",
+      "post_elo": 1489.7,
+      "pre_elo": 1509.4,
+      "red_name": "Abel Trujillo",
+      "round": "2.0",
+      "time": "1:35",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Abel Trujillo",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-08-28",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Condit vs Kampmann 2",
+      "fight_id": "d618e707df8b2567",
+      "gender": "men",
+      "is_title": false,
+      "method": "Could Not Continue",
+      "opponent": "Abel Trujillo",
+      "opponent_elo": 1503.6,
+      "outcome": "no_contest",
+      "post_elo": 1509.4,
+      "pre_elo": 1509.4,
+      "red_name": "Roger Bowling",
+      "round": "2.0",
+      "time": "4:57",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Roger Bowling",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-04-20",
+      "elo_delta": -20.9,
+      "event_name": "UFC on FOX: Henderson vs Melendez",
+      "fight_id": "31611fd16d0c8e1a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anthony Njokuani",
+      "opponent_elo": 1503.8,
+      "outcome": "red_win",
+      "post_elo": 1509.4,
+      "pre_elo": 1530.4,
+      "red_name": "Anthony Njokuani",
+      "round": "2.0",
+      "time": "2:52",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Roger Bowling",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-08-18",
+      "elo_delta": -18.2,
+      "event_name": "Strikeforce: Rousey vs. Kaufman",
+      "fight_id": "54c8f4b1a0a94842",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Tarec Saffiedine",
+      "opponent_elo": 1548.7,
+      "outcome": "red_win",
+      "post_elo": 1534.7,
+      "pre_elo": 1553.0,
+      "red_name": "Tarec Saffiedine",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brandon Saling",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-03-03",
+      "elo_delta": 16.5,
+      "event_name": "Strikeforce: Tate vs. Rousey",
+      "fight_id": "7a26cc98b576bb62",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Brandon Saling",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1553.0,
+      "pre_elo": 1536.4,
+      "red_name": "Roger Bowling",
+      "round": "2",
+      "time": "1:15",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jerron Peoples",
+      "bout_type": "Catchweight (181 lb) Bout",
+      "date": "2011-12-17",
+      "elo_delta": 18.4,
+      "event_name": "Strikeforce: Melendez vs. Masvidal",
+      "fight_id": "3c4e4fe163deac78",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Jerron Peoples",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Roger Bowling",
+      "round": "1",
+      "time": "0:42",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Josh Thornburg",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-03-05",
+      "elo_delta": 18.0,
+      "event_name": "Strikeforce: Feijao vs. Henderson",
+      "fight_id": "c31a6cd08805daa4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Josh Thornburg",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Roger Bowling",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2011-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-03-05",
+      "fight_id": "c31a6cd08805daa4",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-03-05",
+      "fight_id": "c31a6cd08805daa4",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-12-17",
+      "fight_id": "3c4e4fe163deac78",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-12-17",
+      "fight_id": "3c4e4fe163deac78",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-03-03",
+      "fight_id": "7a26cc98b576bb62",
+      "rating": 1553.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-03-03",
+      "fight_id": "7a26cc98b576bb62",
+      "rating": 1547.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "54c8f4b1a0a94842",
+      "rating": 1534.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "54c8f4b1a0a94842",
+      "rating": 1530.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-04-20",
+      "fight_id": "31611fd16d0c8e1a",
+      "rating": 1509.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-04-20",
+      "fight_id": "31611fd16d0c8e1a",
+      "rating": 1511.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "d618e707df8b2567",
+      "rating": 1509.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "d618e707df8b2567",
+      "rating": 1511.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-12-14",
+      "fight_id": "156eb552e68f549e",
+      "rating": 1489.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-12-14",
+      "fight_id": "156eb552e68f549e",
+      "rating": 1494.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-12-14",
+  "name": "Roger Bowling",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1553.0,
+  "slug": "roger-bowling",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1552.2,
+  "divisional_rank": 19,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Beatriz Consuli",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-11-07",
+      "elo_delta": 17.1,
+      "event_name": "LFA 221: Clark vs. Consuli",
+      "fight_id": "38a4e3953458bc5d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (48–47, 49–46, 49–46)",
+      "opponent": "Beatriz Consuli",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1552.2,
+      "pre_elo": 1535.1,
+      "red_name": "Shannon Clark",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Cheyanne Bowers (ic)",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-01-25",
+      "elo_delta": 17.1,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "92dbf45246534df3",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (47–48, 48–47, 48–47)",
+      "opponent": "Cheyanne Bowers (ic)",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.0,
+      "red_name": "Shannon Clark",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Nejra Repp",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2023-10-27",
+      "elo_delta": 18.0,
+      "event_name": "LFA 170: Talundžić vs. Frunză",
+      "fight_id": "368bd4daa15ae796",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Nejra Repp",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Shannon Clark",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-10-27",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-10-27",
+      "fight_id": "368bd4daa15ae796",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "368bd4daa15ae796",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "92dbf45246534df3",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "92dbf45246534df3",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "38a4e3953458bc5d",
+      "rating": 1552.2,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "38a4e3953458bc5d",
+      "rating": 1546.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-07",
+  "name": "Shannon Clark",
+  "nickname": "",
+  "overall_elo": 1546.6,
+  "peak_elo": 1552.2,
+  "slug": "shannon-clark",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

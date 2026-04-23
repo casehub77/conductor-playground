@@ -1,0 +1,126 @@
+{
+  "current_elo": 1516.2,
+  "divisional_rank": 163,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Luis Francischinelli",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": -21.5,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "d62687c4ff6042a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jonathan Piersma",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1537.8,
+      "red_name": "Jonathan Piersma",
+      "round": "3",
+      "time": "1:22",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Angelo Rivera Jr.",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-05-09",
+      "elo_delta": 18.4,
+      "event_name": "LFA 208: Mecate vs. Reyes",
+      "fight_id": "4edddcff2d6bf32e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Angelo Rivera Jr.",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Luis Francischinelli",
+      "round": "1",
+      "time": "1:59",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Victor Kuiks",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-08-23",
+      "elo_delta": 19.4,
+      "event_name": "LFA 190: Chapolin vs. Siqueira",
+      "fight_id": "450564bbb073a1e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Victor Kuiks",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Luis Francischinelli",
+      "round": "1",
+      "time": "3:20",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-08-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-23",
+      "fight_id": "450564bbb073a1e4",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-08-23",
+      "fight_id": "450564bbb073a1e4",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "4edddcff2d6bf32e",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-05-09",
+      "fight_id": "4edddcff2d6bf32e",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "d62687c4ff6042a4",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "d62687c4ff6042a4",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Luis Francischinelli",
+  "nickname": "",
+  "overall_elo": 1514.8,
+  "peak_elo": 1537.8,
+  "slug": "luis-francischinelli",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 233,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Ali Bagautinov",
+      "bout_type": "Flyweight Bout",
+      "date": "2016-11-19",
+      "elo_delta": -12.9,
+      "event_name": "UFC Fight Night: Mousasi vs. Hall 2",
+      "fight_id": "a2bc6eac1d808090",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kyoji Horiguchi",
+      "opponent_elo": 1646.1,
+      "outcome": "red_win",
+      "post_elo": 1532.7,
+      "pre_elo": 1545.6,
+      "red_name": "Kyoji Horiguchi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Geane Herrera",
+      "bout_type": "Flyweight Bout",
+      "date": "2016-06-18",
+      "elo_delta": 16.7,
+      "event_name": "UFC Fight Night: MacDonald vs Thompson",
+      "fight_id": "334507b03c528ab1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Geane Herrera",
+      "opponent_elo": 1503.7,
+      "outcome": "red_win",
+      "post_elo": 1545.6,
+      "pre_elo": 1528.9,
+      "red_name": "Ali Bagautinov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ali Bagautinov",
+      "bout_type": "Flyweight Bout",
+      "date": "2015-10-03",
+      "elo_delta": -12.3,
+      "event_name": "UFC 192: Cormier vs Gustafsson",
+      "fight_id": "60f4afb259fe1490",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Joseph Benavidez",
+      "opponent_elo": 1655.3,
+      "outcome": "red_win",
+      "post_elo": 1528.9,
+      "pre_elo": 1541.2,
+      "red_name": "Joseph Benavidez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ali Bagautinov",
+      "bout_type": "UFC Flyweight Title Bout",
+      "date": "2014-06-14",
+      "elo_delta": -15.2,
+      "event_name": "UFC 174: Johnson vs Bagautinov",
+      "fight_id": "9691852094d30850",
+      "gender": "men",
+      "is_title": true,
+      "method": "Decision - Unanimous",
+      "opponent": "Demetrious Johnson",
+      "opponent_elo": 1638.7,
+      "outcome": "red_win",
+      "post_elo": 1541.2,
+      "pre_elo": 1556.4,
+      "red_name": "Demetrious Johnson",
+      "round": "5.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ali Bagautinov",
+      "bout_type": "Flyweight Bout",
+      "date": "2014-02-01",
+      "elo_delta": 19.0,
+      "event_name": "UFC 169: Barao vs Faber 2",
+      "fight_id": "49494f71667be41b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "John Lineker",
+      "opponent_elo": 1556.1,
+      "outcome": "blue_win",
+      "post_elo": 1556.4,
+      "pre_elo": 1537.4,
+      "red_name": "John Lineker",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ali Bagautinov",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-11-16",
+      "elo_delta": 17.9,
+      "event_name": "UFC 167: St-Pierre vs Hendricks",
+      "fight_id": "3bcdd197fa0e1952",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tim Elliott",
+      "opponent_elo": 1518.3,
+      "outcome": "blue_win",
+      "post_elo": 1537.4,
+      "pre_elo": 1519.5,
+      "red_name": "Tim Elliott",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ali Bagautinov",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-09-04",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Teixeira vs Bader",
+      "fight_id": "31ff6fb0f33f2e9a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marcos Vinicius",
+      "opponent_elo": 1500.8,
+      "outcome": "blue_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Marcos Vinicius",
+      "round": "3.0",
+      "time": "3:28",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2013-09-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-09-04",
+      "fight_id": "31ff6fb0f33f2e9a",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "31ff6fb0f33f2e9a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-11-16",
+      "fight_id": "3bcdd197fa0e1952",
+      "rating": 1537.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-11-16",
+      "fight_id": "3bcdd197fa0e1952",
+      "rating": 1533.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-02-01",
+      "fight_id": "49494f71667be41b",
+      "rating": 1556.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2014-02-01",
+      "fight_id": "49494f71667be41b",
+      "rating": 1550.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-06-14",
+      "fight_id": "9691852094d30850",
+      "rating": 1541.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2014-06-14",
+      "fight_id": "9691852094d30850",
+      "rating": 1536.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-10-03",
+      "fight_id": "60f4afb259fe1490",
+      "rating": 1528.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2015-10-03",
+      "fight_id": "60f4afb259fe1490",
+      "rating": 1525.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "334507b03c528ab1",
+      "rating": 1545.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2016-06-18",
+      "fight_id": "334507b03c528ab1",
+      "rating": 1540.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-11-19",
+      "fight_id": "a2bc6eac1d808090",
+      "rating": 1532.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2016-11-19",
+      "fight_id": "a2bc6eac1d808090",
+      "rating": 1529.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-11-19",
+  "name": "Ali Bagautinov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1556.4,
+  "slug": "ali-bagautinov",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

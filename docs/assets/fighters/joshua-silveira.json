@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 190,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rafael Viana",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-04-30",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 106: Silveira vs. Viana",
+      "fight_id": "71b62c4baaa142f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Rafael Viana",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Joshua Silveira",
+      "round": "1",
+      "time": "0:41",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Matthew Paul",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-01-29",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 98: Fremd vs. Oliveira",
+      "fight_id": "a036f4e9185beef3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Matthew Paul",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Joshua Silveira",
+      "round": "1",
+      "time": "2:46",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-01-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-01-29",
+      "fight_id": "a036f4e9185beef3",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-01-29",
+      "fight_id": "a036f4e9185beef3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-30",
+      "fight_id": "71b62c4baaa142f1",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-04-30",
+      "fight_id": "71b62c4baaa142f1",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-04-30",
+  "name": "Joshua Silveira",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "joshua-silveira",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

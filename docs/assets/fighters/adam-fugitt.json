@@ -1,0 +1,262 @@
+{
+  "current_elo": 1480.9,
+  "divisional_rank": 1159,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Ty Miller",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-01-24",
+      "elo_delta": -19.5,
+      "event_name": "UFC 324: Gaethje vs. Pimblett",
+      "fight_id": "0ff1e159a894aa9b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ty Miller",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1500.4,
+      "red_name": "Adam Fugitt",
+      "round": "1.0",
+      "time": "4:59",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Islam Dulatov",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": -19.5,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "1de893b9cd340bce",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Islam Dulatov",
+      "opponent_elo": 1519.6,
+      "outcome": "blue_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.8,
+      "red_name": "Adam Fugitt",
+      "round": "1.0",
+      "time": "4:06",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Adam Fugitt",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-06-15",
+      "elo_delta": 18.6,
+      "event_name": "UFC Fight Night: Perez vs. Taira",
+      "fight_id": "525123b0693fa5e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Josh Quinlan",
+      "opponent_elo": 1513.1,
+      "outcome": "blue_win",
+      "post_elo": 1519.8,
+      "pre_elo": 1501.2,
+      "red_name": "Josh Quinlan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Adam Fugitt",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-06-10",
+      "elo_delta": -18.3,
+      "event_name": "UFC 289: Nunes vs. Aldana",
+      "fight_id": "925912cf26db604c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mike Malott",
+      "opponent_elo": 1539.4,
+      "outcome": "red_win",
+      "post_elo": 1501.2,
+      "pre_elo": 1519.5,
+      "red_name": "Mike Malott",
+      "round": "2.0",
+      "time": "1:06",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Adam Fugitt",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-04",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Lewis vs. Spivac",
+      "fight_id": "1b9905059ae28170",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yusaku Kinoshita",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.1,
+      "red_name": "Yusaku Kinoshita",
+      "round": "1.0",
+      "time": "4:36",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Adam Fugitt",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-07-30",
+      "elo_delta": -19.3,
+      "event_name": "UFC 277: Pena vs. Nunes 2",
+      "fight_id": "39bbb30513029321",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Michael Morales",
+      "opponent_elo": 1521.2,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1519.4,
+      "red_name": "Michael Morales",
+      "round": "3.0",
+      "time": "1:09",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Solomon Renfro",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 125: Amorim vs. Young",
+      "fight_id": "eb920131a613a895",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Solomon Renfro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Adam Fugitt",
+      "round": "1",
+      "time": "0:43",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-25",
+      "fight_id": "eb920131a613a895",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "eb920131a613a895",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-30",
+      "fight_id": "39bbb30513029321",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-30",
+      "fight_id": "39bbb30513029321",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "1b9905059ae28170",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "1b9905059ae28170",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "925912cf26db604c",
+      "rating": 1501.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "925912cf26db604c",
+      "rating": 1501.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "525123b0693fa5e7",
+      "rating": 1519.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "525123b0693fa5e7",
+      "rating": 1517.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1de893b9cd340bce",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1de893b9cd340bce",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "0ff1e159a894aa9b",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "0ff1e159a894aa9b",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-24",
+  "name": "Adam Fugitt",
+  "nickname": "",
+  "overall_elo": 1482.9,
+  "peak_elo": 1519.8,
+  "slug": "adam-fugitt",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

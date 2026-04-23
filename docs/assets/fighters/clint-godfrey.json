@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 658,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Clint Godfrey",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-11-11",
+      "elo_delta": -18.5,
+      "event_name": "WEC 52: Faber vs. Mizugaki",
+      "fight_id": "0dade53fcacc19b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Michael McDonald",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.4,
+      "pre_elo": 1482.9,
+      "red_name": "Michael McDonald",
+      "round": "1",
+      "time": "2:42",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Clint Godfrey",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-01-10",
+      "elo_delta": -17.1,
+      "event_name": "WEC 46: Varner vs. Henderson",
+      "fight_id": "6d07b34b10185fde",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Wagnney Fabiano",
+      "opponent_elo": 1516.9,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Wagnney Fabiano",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2010-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-10",
+      "fight_id": "6d07b34b10185fde",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-01-10",
+      "fight_id": "6d07b34b10185fde",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "0dade53fcacc19b2",
+      "rating": 1464.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "0dade53fcacc19b2",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-11-11",
+  "name": "Clint Godfrey",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "clint-godfrey",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

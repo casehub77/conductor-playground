@@ -1,0 +1,126 @@
+{
+  "current_elo": 1553.8,
+  "divisional_rank": 66,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Leo Brichta",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2025-07-19",
+      "elo_delta": 17.4,
+      "event_name": "XTB KSW 108: Soldaev vs. Brichta",
+      "fight_id": "c0e746f3ca67568c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Leo Brichta",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.8,
+      "pre_elo": 1536.4,
+      "red_name": "Adam Soldaev",
+      "round": "1",
+      "time": "3:03",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Oleksii Polischuk",
+      "bout_type": "Catchweight 67 kg Bout",
+      "date": "2022-10-14",
+      "elo_delta": 17.0,
+      "event_name": "KSW 75: Stasiak vs. Ruchała",
+      "fight_id": "01ebeec6eeb7ac7d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Oleksii Polischuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Adam Soldaev",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Pascal Hintzen",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-02-26",
+      "elo_delta": 19.4,
+      "event_name": "KSW 67: De Fries vs. Stošić",
+      "fight_id": "022e41ea4e18acc3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Pascal Hintzen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Adam Soldaev",
+      "round": "1",
+      "time": "3:19",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-02-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-26",
+      "fight_id": "022e41ea4e18acc3",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "022e41ea4e18acc3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "01ebeec6eeb7ac7d",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "01ebeec6eeb7ac7d",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "c0e746f3ca67568c",
+      "rating": 1553.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "c0e746f3ca67568c",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-19",
+  "name": "Adam Soldaev",
+  "nickname": "",
+  "overall_elo": 1548.2,
+  "peak_elo": 1553.8,
+  "slug": "adam-soldaev",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

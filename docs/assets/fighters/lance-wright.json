@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.1,
+  "divisional_rank": 1010,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lance Wright",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-02-27",
+      "elo_delta": -15.4,
+      "event_name": "LFA 227: Nascimento vs. Kamikubo",
+      "fight_id": "d91d4abae99204cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Theo Haig",
+      "opponent_elo": 1553.2,
+      "outcome": "red_win",
+      "post_elo": 1465.1,
+      "pre_elo": 1480.6,
+      "red_name": "Theo Haig",
+      "round": "2",
+      "time": "1:03",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Lance Wright",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-06-25",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 261: Johnson vs. Moldavsky",
+      "fight_id": "f1a8fe50c7e706d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Taylor Johnson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Taylor Johnson",
+      "round": "1",
+      "time": "2:58",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-06-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-25",
+      "fight_id": "f1a8fe50c7e706d0",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-06-25",
+      "fight_id": "f1a8fe50c7e706d0",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "d91d4abae99204cc",
+      "rating": 1465.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "d91d4abae99204cc",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-27",
+  "name": "Lance Wright",
+  "nickname": "",
+  "overall_elo": 1468.7,
+  "peak_elo": 1500.0,
+  "slug": "lance-wright",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

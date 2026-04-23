@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 288,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Belal Muhammad",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-04-13",
+      "elo_delta": -18.0,
+      "event_name": "UFC 236: Holloway vs. Poirier 2",
+      "fight_id": "29dd9b3917662cd5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Belal Muhammad",
+      "opponent_elo": 1542.9,
+      "outcome": "blue_win",
+      "post_elo": 1524.4,
+      "pre_elo": 1542.4,
+      "red_name": "Curtis Millender",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Curtis Millender",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-03-09",
+      "elo_delta": -17.5,
+      "event_name": "UFC Fight Night: Lewis vs. Dos Santos",
+      "fight_id": "f0c176dac9b6d6a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Elizeu Zaleski Dos Santos",
+      "opponent_elo": 1594.7,
+      "outcome": "red_win",
+      "post_elo": 1542.4,
+      "pre_elo": 1559.9,
+      "red_name": "Elizeu Zaleski Dos Santos",
+      "round": "1.0",
+      "time": "2:35",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Siyar Bahadurzada",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-12-29",
+      "elo_delta": 18.1,
+      "event_name": "UFC 232: Jones vs. Gustafsson 2",
+      "fight_id": "3778f42fcc27a57d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Siyar Bahadurzada",
+      "opponent_elo": 1543.1,
+      "outcome": "red_win",
+      "post_elo": 1559.9,
+      "pre_elo": 1541.8,
+      "red_name": "Curtis Millender",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Max Griffin",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-07-07",
+      "elo_delta": 17.2,
+      "event_name": "UFC 226: Miocic vs. Cormier",
+      "fight_id": "f4cb9e0b302e02d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Max Griffin",
+      "opponent_elo": 1509.0,
+      "outcome": "red_win",
+      "post_elo": 1541.8,
+      "pre_elo": 1524.7,
+      "red_name": "Curtis Millender",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Curtis Millender",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-02-18",
+      "elo_delta": 24.7,
+      "event_name": "UFC Fight Night: Cerrone vs. Medeiros",
+      "fight_id": "a9cc00d4b6b43a47",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Thiago Alves",
+      "opponent_elo": 1595.5,
+      "outcome": "blue_win",
+      "post_elo": 1524.7,
+      "pre_elo": 1500.0,
+      "red_name": "Thiago Alves",
+      "round": "2.0",
+      "time": "4:17",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2018-02-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-02-18",
+      "fight_id": "a9cc00d4b6b43a47",
+      "rating": 1524.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-02-18",
+      "fight_id": "a9cc00d4b6b43a47",
+      "rating": 1521.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-07-07",
+      "fight_id": "f4cb9e0b302e02d3",
+      "rating": 1541.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-07-07",
+      "fight_id": "f4cb9e0b302e02d3",
+      "rating": 1536.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-12-29",
+      "fight_id": "3778f42fcc27a57d",
+      "rating": 1559.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-12-29",
+      "fight_id": "3778f42fcc27a57d",
+      "rating": 1553.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-03-09",
+      "fight_id": "f0c176dac9b6d6a5",
+      "rating": 1542.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-03-09",
+      "fight_id": "f0c176dac9b6d6a5",
+      "rating": 1538.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-04-13",
+      "fight_id": "29dd9b3917662cd5",
+      "rating": 1524.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-04-13",
+      "fight_id": "29dd9b3917662cd5",
+      "rating": 1522.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-04-13",
+  "name": "Curtis Millender",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1559.9,
+  "slug": "curtis-millender",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

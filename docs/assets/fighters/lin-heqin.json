@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 49,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Lin Heqin",
+      "bout_type": "Women's Atomweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": -20.7,
+      "event_name": "ONE on Prime Video 5: de Ridder vs. Malykhin",
+      "fight_id": "f7cac600cbc78d20",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Denice Zamboanga",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1514.3,
+      "pre_elo": 1535.1,
+      "red_name": "Denice Zamboanga",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Lin Heqin",
+      "bout_type": "Catchweight (119.25 lbs) Bout",
+      "date": "2022-08-27",
+      "elo_delta": -18.0,
+      "event_name": "ONE on Prime Video 1: Moraes vs. Johnson 2",
+      "fight_id": "823969a619224c4b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Itsuki Hirata",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Itsuki Hirata",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Milagros López",
+      "bout_type": "Women's Atomweight Kickboxing Bout",
+      "date": "2022-03-11",
+      "elo_delta": 17.1,
+      "event_name": "ONE: Lights Out",
+      "fight_id": "d9b2fda442f8571b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Milagros López",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.0,
+      "red_name": "Lin Heqin",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Bi Nguyen",
+      "bout_type": "Women's Atomweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": 18.0,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "2a073245f4bc4050",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Bi Nguyen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Lin Heqin",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "2a073245f4bc4050",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "2a073245f4bc4050",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "d9b2fda442f8571b",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "d9b2fda442f8571b",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "823969a619224c4b",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Atomweight"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "823969a619224c4b",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "f7cac600cbc78d20",
+      "rating": 1514.3,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "f7cac600cbc78d20",
+      "rating": 1513.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-03",
+  "name": "Lin Heqin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.1,
+  "slug": "lin-heqin",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

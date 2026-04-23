@@ -1,0 +1,126 @@
+{
+  "current_elo": 1495.0,
+  "divisional_rank": 1035,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "John de Jesus",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": -17.9,
+      "event_name": "Cage Warriors 168: Manchester",
+      "fight_id": "50c17c8ae2974548",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Luke Riley",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.0,
+      "pre_elo": 1497.9,
+      "red_name": "Luke Riley",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "John de Jesus",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": -20.1,
+      "event_name": "Bellator 272: Pettis vs. Horiguchi",
+      "fight_id": "a2153f9eaa7b36ad",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Kai Kamaka III",
+      "opponent_elo": 1478.1,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1518.0,
+      "red_name": "Kai Kamaka III",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "John Macapá",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-06-25",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 261: Johnson vs. Moldavsky",
+      "fight_id": "79541ea33ef1ebd8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (28–29, 29–28, 29–28)",
+      "opponent": "John Macapá",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "John de Jesus",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-06-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-25",
+      "fight_id": "79541ea33ef1ebd8",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-06-25",
+      "fight_id": "79541ea33ef1ebd8",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "a2153f9eaa7b36ad",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "a2153f9eaa7b36ad",
+      "rating": 1498.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "50c17c8ae2974548",
+      "rating": 1480.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "50c17c8ae2974548",
+      "rating": 1482.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-03-16",
+  "name": "John de Jesus",
+  "nickname": "",
+  "overall_elo": 1497.4,
+  "peak_elo": 1518.0,
+  "slug": "john-de-jesus",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

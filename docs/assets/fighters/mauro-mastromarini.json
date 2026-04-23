@@ -1,0 +1,92 @@
+{
+  "current_elo": 1468.7,
+  "divisional_rank": 669,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mauro Mastromarini",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-11-08",
+      "elo_delta": -17.7,
+      "event_name": "ONE Fight Night 37: Kryklia vs. Agdeve",
+      "fight_id": "2787a5d962951258",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Lito Adiwang",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1468.7,
+      "pre_elo": 1486.4,
+      "red_name": "Lito Adiwang",
+      "round": "1",
+      "time": "4:53",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mauro Mastromarini",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": -15.0,
+      "event_name": "ONE Fight Night 30: Kryklia vs. Knowles",
+      "fight_id": "43aec44124aafe9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Carlo Bumina-ang",
+      "opponent_elo": 1581.5,
+      "outcome": "red_win",
+      "post_elo": 1485.0,
+      "pre_elo": 1500.0,
+      "red_name": "Carlo Bumina-ang",
+      "round": "1",
+      "time": "2:45",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-04-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-05",
+      "fight_id": "43aec44124aafe9d",
+      "rating": 1485.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "43aec44124aafe9d",
+      "rating": 1486.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "2787a5d962951258",
+      "rating": 1468.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "2787a5d962951258",
+      "rating": 1470.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-08",
+  "name": "Mauro Mastromarini",
+  "nickname": "",
+  "overall_elo": 1470.6,
+  "peak_elo": 1500.0,
+  "slug": "mauro-mastromarini",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

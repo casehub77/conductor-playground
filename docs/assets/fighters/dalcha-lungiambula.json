@@ -1,0 +1,262 @@
+{
+  "current_elo": 1489.4,
+  "divisional_rank": 946,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Dalcha Lungiambula",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-12-10",
+      "elo_delta": -16.0,
+      "event_name": "UFC 282: Blachowicz vs. Ankalaev",
+      "fight_id": "e7824b9d69375797",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Edmen Shahbazyan",
+      "opponent_elo": 1521.4,
+      "outcome": "red_win",
+      "post_elo": 1442.9,
+      "pre_elo": 1458.9,
+      "red_name": "Edmen Shahbazyan",
+      "round": "2.0",
+      "time": "4:41",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Dalcha Lungiambula",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-07-16",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Ortega vs. Rodriguez",
+      "fight_id": "f75c0a7e3abcaf3d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Punahele Soriano",
+      "opponent_elo": 1503.1,
+      "outcome": "red_win",
+      "post_elo": 1458.9,
+      "pre_elo": 1476.8,
+      "red_name": "Punahele Soriano",
+      "round": "2.0",
+      "time": "0:28",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Cody Brundage",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-03-12",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Santos vs. Ankalaev",
+      "fight_id": "cbb6cebb3f00a891",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Cody Brundage",
+      "opponent_elo": 1500.4,
+      "outcome": "blue_win",
+      "post_elo": 1476.8,
+      "pre_elo": 1496.0,
+      "red_name": "Dalcha Lungiambula",
+      "round": "1.0",
+      "time": "3:41",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Marc-Andre Barriault",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-09-04",
+      "elo_delta": -20.1,
+      "event_name": "UFC Fight Night: Brunson vs. Till",
+      "fight_id": "b3a308dfbfcc2f21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Marc-Andre Barriault",
+      "opponent_elo": 1474.5,
+      "outcome": "blue_win",
+      "post_elo": 1496.0,
+      "pre_elo": 1516.2,
+      "red_name": "Dalcha Lungiambula",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Markus Perez",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-01-20",
+      "elo_delta": 16.3,
+      "event_name": "UFC Fight Night: Chiesa vs. Magny",
+      "fight_id": "03356eb12cad9350",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Markus Perez",
+      "opponent_elo": 1466.6,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1499.9,
+      "red_name": "Dalcha Lungiambula",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Dalcha Lungiambula",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-11-09",
+      "elo_delta": -19.6,
+      "event_name": "UFC Fight Night: Zabit vs. Kattar",
+      "fight_id": "b10acd5b41ea0939",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Magomed Ankalaev",
+      "opponent_elo": 1517.2,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.4,
+      "red_name": "Magomed Ankalaev",
+      "round": "3.0",
+      "time": "0:29",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Dequan Townsend",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-06-29",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Ngannou vs. Dos Santos",
+      "fight_id": "a710fe66e4a08acc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dequan Townsend",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dalcha Lungiambula",
+      "round": "3.0",
+      "time": "0:42",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-06-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-29",
+      "fight_id": "a710fe66e4a08acc",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-06-29",
+      "fight_id": "a710fe66e4a08acc",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "b10acd5b41ea0939",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "b10acd5b41ea0939",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-01-20",
+      "fight_id": "03356eb12cad9350",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-01-20",
+      "fight_id": "03356eb12cad9350",
+      "rating": 1514.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "b3a308dfbfcc2f21",
+      "rating": 1496.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-09-04",
+      "fight_id": "b3a308dfbfcc2f21",
+      "rating": 1496.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "cbb6cebb3f00a891",
+      "rating": 1476.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "cbb6cebb3f00a891",
+      "rating": 1479.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-16",
+      "fight_id": "f75c0a7e3abcaf3d",
+      "rating": 1458.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-07-16",
+      "fight_id": "f75c0a7e3abcaf3d",
+      "rating": 1463.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-10",
+      "fight_id": "e7824b9d69375797",
+      "rating": 1442.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-12-10",
+      "fight_id": "e7824b9d69375797",
+      "rating": 1449.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-10",
+  "name": "Dalcha Lungiambula",
+  "nickname": "",
+  "overall_elo": 1495.6,
+  "peak_elo": 1519.4,
+  "slug": "dalcha-lungiambula",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

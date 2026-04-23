@@ -1,0 +1,126 @@
+{
+  "current_elo": 1446.2,
+  "divisional_rank": 1224,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tato Primera",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-27",
+      "elo_delta": -16.4,
+      "event_name": "Cage Warriors 190: Unplugged",
+      "fight_id": "055456ce5abd42f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to punches)",
+      "opponent": "Adam Darby",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1446.2,
+      "pre_elo": 1462.6,
+      "red_name": "Adam Darby",
+      "round": "2",
+      "time": "4:56",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Tato Primera",
+      "bout_type": "Catchweight (176 lb) Bout",
+      "date": "2023-07-28",
+      "elo_delta": -19.4,
+      "event_name": "Oktagon 45 Special: Mågård vs. Lima",
+      "fight_id": "14713210ef9ffd00",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Radovan Úškrt",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1462.6,
+      "pre_elo": 1482.0,
+      "red_name": "Radovan Úškrt",
+      "round": "2",
+      "time": "4:55",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Tato Primera",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-10",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 40: Kozma vs. Siwiec",
+      "fight_id": "1046315bab246271",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Christian Jungwirth",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Christian Jungwirth",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "1046315bab246271",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-10",
+      "fight_id": "1046315bab246271",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "14713210ef9ffd00",
+      "rating": 1462.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "14713210ef9ffd00",
+      "rating": 1466.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "055456ce5abd42f0",
+      "rating": 1446.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "055456ce5abd42f0",
+      "rating": 1451.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-27",
+  "name": "Tato Primera",
+  "nickname": "",
+  "overall_elo": 1451.9,
+  "peak_elo": 1500.0,
+  "slug": "tato-primera",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1482.9,
+  "divisional_rank": 1127,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Italo Gomes",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2026-03-20",
+      "elo_delta": -8.3,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "5ca01d159ed38890",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Manuel del Valle",
+      "opponent_elo": 1570.5,
+      "outcome": "red_win",
+      "post_elo": 1509.7,
+      "pre_elo": 1518.0,
+      "red_name": "Manuel del Valle",
+      "round": "2",
+      "time": "4:44",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Italo Gomes",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-04-19",
+      "elo_delta": -16.4,
+      "event_name": "Cage Warriors 187: Glasgow",
+      "fight_id": "9ec9f39a080fa57d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (neck crank)",
+      "opponent": "Sean Clancy Jr.",
+      "opponent_elo": 1554.3,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1499.3,
+      "red_name": "Sean Clancy Jr.",
+      "round": "2",
+      "time": "0:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Italo Gomes",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-07-15",
+      "elo_delta": -18.8,
+      "event_name": "Legacy Fighting Alliance 136: Rio de Janeiro vs. São Paulo",
+      "fight_id": "9d55249d26cc4522",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority)",
+      "opponent": "Wellington Prado",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1516.0,
+      "red_name": "Wellington Prado",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Melquizael Costa da Conceicao",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "190c8b7422243db9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Melquizael Costa da Conceicao",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Italo Gomes",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-13",
+      "fight_id": "190c8b7422243db9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "190c8b7422243db9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-15",
+      "fight_id": "9d55249d26cc4522",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-07-15",
+      "fight_id": "9d55249d26cc4522",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "9ec9f39a080fa57d",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "9ec9f39a080fa57d",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "5ca01d159ed38890",
+      "rating": 1509.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "5ca01d159ed38890",
+      "rating": 1477.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Italo Gomes",
+  "nickname": "",
+  "overall_elo": 1477.7,
+  "peak_elo": 1518.0,
+  "slug": "italo-gomes",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

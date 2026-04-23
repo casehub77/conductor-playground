@@ -1,0 +1,160 @@
+{
+  "current_elo": 1466.8,
+  "divisional_rank": 1099,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Arnold Jimenez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-02-27",
+      "elo_delta": -16.3,
+      "event_name": "LFA 227: Nascimento vs. Kamikubo",
+      "fight_id": "09ff99bf02b95c44",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Allan Begosso",
+      "opponent_elo": 1539.0,
+      "outcome": "red_win",
+      "post_elo": 1466.8,
+      "pre_elo": 1483.1,
+      "red_name": "Allan Begosso",
+      "round": "2",
+      "time": "3:34",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Arnold Jimenez",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2025-08-22",
+      "elo_delta": -17.3,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "7ec2fd8def5cd027",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (ninja choke)",
+      "opponent": "Rafael do Nascimento",
+      "opponent_elo": 1538.9,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.4,
+      "red_name": "Rafael do Nascimento",
+      "round": "1",
+      "time": "1:08",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Arnold Jimenez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-08-19",
+      "elo_delta": -19.0,
+      "event_name": "Legacy Fighting Alliance 139: Assenza vs. Melo",
+      "fight_id": "271347e0f7cb0b50",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Teshay Gouthro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Teshay Gouthro",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Josh Wang-Kim",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-03-25",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 127: Diaz vs. Assis",
+      "fight_id": "6e677f49cedc7687",
+      "gender": "men",
+      "is_title": false,
+      "method": "Disqualification (illegal elbows)",
+      "opponent": "Josh Wang-Kim",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Arnold Jimenez",
+      "round": "3",
+      "time": "0:55",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-25",
+      "fight_id": "6e677f49cedc7687",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "6e677f49cedc7687",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "271347e0f7cb0b50",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-08-19",
+      "fight_id": "271347e0f7cb0b50",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "7ec2fd8def5cd027",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "7ec2fd8def5cd027",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "09ff99bf02b95c44",
+      "rating": 1466.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "09ff99bf02b95c44",
+      "rating": 1470.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-27",
+  "name": "Arnold Jimenez",
+  "nickname": "",
+  "overall_elo": 1470.8,
+  "peak_elo": 1519.4,
+  "slug": "arnold-jimenez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

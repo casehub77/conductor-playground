@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1026,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Edgar Garcia",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-01-02",
+      "elo_delta": 19.4,
+      "event_name": "UFC 195: Lawler vs Condit",
+      "fight_id": "841fb63dbe40277c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Edgar Garcia",
+      "opponent_elo": 1463.5,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1464.5,
+      "red_name": "Sheldon Westcott",
+      "round": "1.0",
+      "time": "3:12",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sheldon Westcott",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-04-11",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Gonzaga vs Cro Cop 2",
+      "fight_id": "ca347bddc67aeb53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Pawel Pawlak",
+      "opponent_elo": 1479.4,
+      "outcome": "red_win",
+      "post_elo": 1464.5,
+      "pre_elo": 1482.7,
+      "red_name": "Pawel Pawlak",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Elias Theodorou",
+      "bout_type": "TUF Nations Canada vs. Australia Middleweight Tournament Title Bout",
+      "date": "2014-04-16",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Bisping vs Kennedy",
+      "fight_id": "f41f071085b2ee0f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Elias Theodorou",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Sheldon Westcott",
+      "round": "2.0",
+      "time": "4:41",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2014-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-04-16",
+      "fight_id": "f41f071085b2ee0f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-04-16",
+      "fight_id": "f41f071085b2ee0f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "ca347bddc67aeb53",
+      "rating": 1464.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "ca347bddc67aeb53",
+      "rating": 1466.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-01-02",
+      "fight_id": "841fb63dbe40277c",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-01-02",
+      "fight_id": "841fb63dbe40277c",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-01-02",
+  "name": "Sheldon Westcott",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "sheldon-westcott",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

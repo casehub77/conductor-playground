@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.2,
+  "divisional_rank": 1120,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "James Settle",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-12-13",
+      "elo_delta": -18.4,
+      "event_name": "Cage Warriors 182: San Diego",
+      "fight_id": "215f0e0bd22c45da",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Johnny Robles",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Johnny Robles",
+      "round": "1",
+      "time": "0:23",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "James Settle",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-06-07",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 173: San Diego",
+      "fight_id": "1ff22a34cbaa02a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Magomed Bayduev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Magomed Bayduev",
+      "round": "2",
+      "time": "3:52",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-06-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-06-07",
+      "fight_id": "1ff22a34cbaa02a2",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-06-07",
+      "fight_id": "1ff22a34cbaa02a2",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "215f0e0bd22c45da",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "215f0e0bd22c45da",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-13",
+  "name": "James Settle",
+  "nickname": "",
+  "overall_elo": 1466.3,
+  "peak_elo": 1500.0,
+  "slug": "james-settle",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.4,
+  "divisional_rank": 201,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mateus Brauns",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "8e2b6c89624a5811",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Nicolas Leblond",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Nicolas Leblond",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Inaildo Santos",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-03-11",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 126: Bilharinho vs. Delano",
+      "fight_id": "1eca47503fce92d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Inaildo Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mateus Brauns",
+      "round": "1",
+      "time": "2:10",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-11",
+      "fight_id": "1eca47503fce92d5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "1eca47503fce92d5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "8e2b6c89624a5811",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "8e2b6c89624a5811",
+      "rating": 1502.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-31",
+  "name": "Mateus Brauns",
+  "nickname": "",
+  "overall_elo": 1502.0,
+  "peak_elo": 1519.4,
+  "slug": "mateus-brauns",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 631,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Masaya Jaki",
+      "bout_type": "Catchweight 70 kg Bout",
+      "date": "2024-03-23",
+      "elo_delta": -18.5,
+      "event_name": "Rizin Landmark 9 in Kobe",
+      "fight_id": "1ba7e97ada7e6d22",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (referee stoppage)",
+      "opponent": "Yuya",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1519.4,
+      "red_name": "Yuya",
+      "round": "2",
+      "time": "2:25",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kouta",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2022-03-20",
+      "elo_delta": 19.4,
+      "event_name": "Rizin 34 – Osaka",
+      "fight_id": "70ee3418dd2a2e93",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Referee Stoppage)",
+      "opponent": "Kouta",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Masaya Jaki",
+      "round": "1",
+      "time": "1:53",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-03-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-20",
+      "fight_id": "70ee3418dd2a2e93",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-03-20",
+      "fight_id": "70ee3418dd2a2e93",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "1ba7e97ada7e6d22",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "1ba7e97ada7e6d22",
+      "rating": 1502.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-03-23",
+  "name": "Masaya Jaki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "masaya-jaki",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

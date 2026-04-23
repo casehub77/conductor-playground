@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 786,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Michael Blair",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": 19.8,
+      "event_name": "Cage Warriors 176: Glasgow",
+      "fight_id": "ac6216bc5f492a3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–27)",
+      "opponent": "Michael Blair",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1502.8,
+      "pre_elo": 1483.0,
+      "red_name": "Kye Stevens",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kye Stevens",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-09-23",
+      "elo_delta": -17.0,
+      "event_name": "Bellator 285: Henderson vs. Queally",
+      "fight_id": "da0519db96befd24",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–26, 30–26)",
+      "opponent": "Darragh Kelly",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Darragh Kelly",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-09-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-23",
+      "fight_id": "da0519db96befd24",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-09-23",
+      "fight_id": "da0519db96befd24",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "ac6216bc5f492a3a",
+      "rating": 1502.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "ac6216bc5f492a3a",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-07",
+  "name": "Kye Stevens",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.8,
+  "slug": "kye-stevens",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

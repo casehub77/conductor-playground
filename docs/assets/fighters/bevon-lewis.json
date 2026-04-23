@@ -1,0 +1,194 @@
+{
+  "current_elo": 1489.1,
+  "divisional_rank": 667,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Devin Clark",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-08-15",
+      "elo_delta": 20.5,
+      "event_name": "LFA 214: Fernando vs. Latu",
+      "fight_id": "d5c8408c84d7f4a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Devin Clark",
+      "opponent_elo": 1516.3,
+      "outcome": "red_win",
+      "post_elo": 1489.1,
+      "pre_elo": 1468.6,
+      "red_name": "Bevon Lewis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Bevon Lewis",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-11-07",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Santos vs. Teixeira",
+      "fight_id": "41a3a7938ca939b9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Trevin Giles",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1465.0,
+      "pre_elo": 1482.4,
+      "red_name": "Trevin Giles",
+      "round": "3.0",
+      "time": "1:26",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Dequan Townsend",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-01-25",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Blaydes vs. Dos Santos",
+      "fight_id": "e830ccdcb1d12fff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dequan Townsend",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1463.4,
+      "red_name": "Bevon Lewis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Darren Stewart",
+      "bout_type": "Middleweight Bout",
+      "date": "2019-06-08",
+      "elo_delta": -18.4,
+      "event_name": "UFC 238: Cejudo vs. Moraes",
+      "fight_id": "ecbdbe9b7e4222fb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Darren Stewart",
+      "opponent_elo": 1474.6,
+      "outcome": "blue_win",
+      "post_elo": 1463.4,
+      "pre_elo": 1481.8,
+      "red_name": "Bevon Lewis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Bevon Lewis",
+      "bout_type": "Middleweight Bout",
+      "date": "2018-12-29",
+      "elo_delta": -18.2,
+      "event_name": "UFC 232: Jones vs. Gustafsson 2",
+      "fight_id": "e710d5491c2c4431",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Uriah Hall",
+      "opponent_elo": 1521.9,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Uriah Hall",
+      "round": "3.0",
+      "time": "1:32",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2018-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-12-29",
+      "fight_id": "e710d5491c2c4431",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2018-12-29",
+      "fight_id": "e710d5491c2c4431",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-06-08",
+      "fight_id": "ecbdbe9b7e4222fb",
+      "rating": 1463.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2019-06-08",
+      "fight_id": "ecbdbe9b7e4222fb",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-01-25",
+      "fight_id": "e830ccdcb1d12fff",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-01-25",
+      "fight_id": "e830ccdcb1d12fff",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-11-07",
+      "fight_id": "41a3a7938ca939b9",
+      "rating": 1465.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-11-07",
+      "fight_id": "41a3a7938ca939b9",
+      "rating": 1468.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "d5c8408c84d7f4a7",
+      "rating": 1489.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "d5c8408c84d7f4a7",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-15",
+  "name": "Bevon Lewis",
+  "nickname": "",
+  "overall_elo": 1485.2,
+  "peak_elo": 1500.0,
+  "slug": "bevon-lewis",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

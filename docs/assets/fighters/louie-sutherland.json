@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.4,
+  "divisional_rank": 720,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brando Pericic",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "c7088cc34546c671",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Brando Pericic",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1465.4,
+      "pre_elo": 1482.8,
+      "red_name": "Louie Sutherland",
+      "round": "1.0",
+      "time": "1:48",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Louie Sutherland",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-10-25",
+      "elo_delta": -17.2,
+      "event_name": "UFC 321: Aspinall vs. Gane",
+      "fight_id": "bd699f0a22bbec15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Valter Walker",
+      "opponent_elo": 1539.5,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Valter Walker",
+      "round": "1.0",
+      "time": "1:24",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-10-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-25",
+      "fight_id": "bd699f0a22bbec15",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "bd699f0a22bbec15",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "c7088cc34546c671",
+      "rating": 1465.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "c7088cc34546c671",
+      "rating": 1468.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Louie Sutherland",
+  "nickname": "",
+  "overall_elo": 1468.8,
+  "peak_elo": 1500.0,
+  "slug": "louie-sutherland",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

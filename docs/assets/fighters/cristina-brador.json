@@ -1,0 +1,92 @@
+{
+  "current_elo": 1502.0,
+  "divisional_rank": 70,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Cristina Brador",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-09-12",
+      "elo_delta": -17.0,
+      "event_name": "LFA 217: McKee vs. Nobre",
+      "fight_id": "d0d1af5cdf8e9def",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (bulldog choke)",
+      "opponent": "Mackenzie Stiller",
+      "opponent_elo": 1562.1,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1519.0,
+      "red_name": "Mackenzie Stiller",
+      "round": "1",
+      "time": "4:33",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jayde Sheeley",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-02-21",
+      "elo_delta": 19.0,
+      "event_name": "LFA 202: Nkuta vs. Garcia",
+      "fight_id": "549aa3daa8d860dd",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Jayde Sheeley",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Cristina Brador",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2025-02-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-02-21",
+      "fight_id": "549aa3daa8d860dd",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-02-21",
+      "fight_id": "549aa3daa8d860dd",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-09-12",
+      "fight_id": "d0d1af5cdf8e9def",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-09-12",
+      "fight_id": "d0d1af5cdf8e9def",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-12",
+  "name": "Cristina Brador",
+  "nickname": "",
+  "overall_elo": 1501.4,
+  "peak_elo": 1519.0,
+  "slug": "cristina-brador",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

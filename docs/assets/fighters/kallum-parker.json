@@ -1,0 +1,194 @@
+{
+  "current_elo": 1489.2,
+  "divisional_rank": 1062,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Kallum Parker",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": -17.2,
+      "event_name": "Cage Warriors 176: Glasgow",
+      "fight_id": "847e3f8b4d38be3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–27)",
+      "opponent": "Damon Donald",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1486.3,
+      "pre_elo": 1503.4,
+      "red_name": "Damon Donald",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jack Claffey",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": 21.4,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "0885de43023820e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jack Claffey",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1482.0,
+      "red_name": "Kallum Parker",
+      "round": "1",
+      "time": "1:15",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kallum Parker",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 170: Dublin",
+      "fight_id": "09ec421118dfa04b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Ryan Shelley",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ryan Shelley",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kallum Parker",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-12-29",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 51: Tipsport Gamechanger Final",
+      "fight_id": "cac21059c1128c30",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Radek Roušal",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1518.0,
+      "red_name": "Radek Roušal",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ashton Kirby",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-08-05",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 138: Farias vs. Tanaka",
+      "fight_id": "a5a1a4f17dec6ab6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ashton Kirby",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kallum Parker",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-08-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-05",
+      "fight_id": "a5a1a4f17dec6ab6",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-08-05",
+      "fight_id": "a5a1a4f17dec6ab6",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-29",
+      "fight_id": "cac21059c1128c30",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-12-29",
+      "fight_id": "cac21059c1128c30",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "09ec421118dfa04b",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "09ec421118dfa04b",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "0885de43023820e5",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "0885de43023820e5",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "847e3f8b4d38be3c",
+      "rating": 1486.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "847e3f8b4d38be3c",
+      "rating": 1487.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-07",
+  "name": "Kallum Parker",
+  "nickname": "",
+  "overall_elo": 1490.5,
+  "peak_elo": 1518.0,
+  "slug": "kallum-parker",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

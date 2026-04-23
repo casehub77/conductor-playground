@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 542,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Mark Lemminger",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-12-09",
+      "elo_delta": -19.0,
+      "event_name": "Bellator 289: Stots vs. Sabatello",
+      "fight_id": "3ebd1debb4fb73a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Michael Lombardo",
+      "opponent_elo": 1483.7,
+      "outcome": "red_win",
+      "post_elo": 1456.0,
+      "pre_elo": 1475.0,
+      "red_name": "Michael Lombardo",
+      "round": "1",
+      "time": "4:23",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mark Lemminger",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": -22.0,
+      "event_name": "Bellator 281: MVP vs. Storley",
+      "fight_id": "72b6a163b8e621d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (inverted triangle)",
+      "opponent": "Oliver Enkamp",
+      "opponent_elo": 1451.4,
+      "outcome": "red_win",
+      "post_elo": 1475.0,
+      "pre_elo": 1497.0,
+      "red_name": "Oliver Enkamp",
+      "round": "3",
+      "time": "0:25",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mark Lemminger",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": -21.5,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "d8b676ff16bd84c8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Neiman Gracie",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1497.0,
+      "pre_elo": 1518.4,
+      "red_name": "Neiman Gracie",
+      "round": "1",
+      "time": "1:27",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Demarques Jackson",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-06-11",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 260: Lima vs. Amosov",
+      "fight_id": "1c192e655a43540a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Demarques Jackson",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Lemminger",
+      "round": "2",
+      "time": "3:30",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-06-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-11",
+      "fight_id": "1c192e655a43540a",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-06-11",
+      "fight_id": "1c192e655a43540a",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "d8b676ff16bd84c8",
+      "rating": 1497.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "d8b676ff16bd84c8",
+      "rating": 1497.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "72b6a163b8e621d6",
+      "rating": 1475.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "72b6a163b8e621d6",
+      "rating": 1478.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "3ebd1debb4fb73a1",
+      "rating": 1456.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "3ebd1debb4fb73a1",
+      "rating": 1461.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-09",
+  "name": "Mark Lemminger",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.4,
+  "slug": "mark-lemminger",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 92,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Katarzyna Sadura",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": -19.0,
+      "event_name": "Bellator 280: Bader vs. Kongo 2",
+      "fight_id": "51a0f154a04e845e",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Lucie Bertaud",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Lucie Bertaud",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Darina Mazdyuk",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-10-23",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 269: Fedor vs. Johnson",
+      "fight_id": "b03a081a259d8c3b",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Darina Mazdyuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Katarzyna Sadura",
+      "round": "2",
+      "time": "3:17",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-10-23",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-10-23",
+      "fight_id": "b03a081a259d8c3b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "b03a081a259d8c3b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "51a0f154a04e845e",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "51a0f154a04e845e",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-06",
+  "name": "Katarzyna Sadura",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "katarzyna-sadura",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

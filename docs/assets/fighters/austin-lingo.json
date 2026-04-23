@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 538,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Melquizael Costa",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-07-15",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+      "fight_id": "59366674977b8080",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Melquizael Costa",
+      "opponent_elo": 1502.2,
+      "outcome": "blue_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1499.6,
+      "red_name": "Austin Lingo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Austin Lingo",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-03-25",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Vera vs. Sandhagen",
+      "fight_id": "2e061f5c186ff2f3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Nate Landwehr",
+      "opponent_elo": 1523.1,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1518.8,
+      "red_name": "Nate Landwehr",
+      "round": "2.0",
+      "time": "4:11",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Luis Saldana",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-08-21",
+      "elo_delta": 18.9,
+      "event_name": "UFC Fight Night: Cannonier vs. Gastelum",
+      "fight_id": "d38b4307df1dc7b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Luis Saldana",
+      "opponent_elo": 1516.6,
+      "outcome": "red_win",
+      "post_elo": 1518.8,
+      "pre_elo": 1499.9,
+      "red_name": "Austin Lingo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Austin Lingo",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-01-16",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Holloway vs. Kattar",
+      "fight_id": "6cca1c5f93ef2de5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jacob Kilburn",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1482.0,
+      "red_name": "Jacob Kilburn",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Youssef Zalal",
+      "bout_type": "Featherweight Bout",
+      "date": "2020-02-08",
+      "elo_delta": -18.0,
+      "event_name": "UFC 247: Jones vs. Reyes",
+      "fight_id": "88bc16668d769bf2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Youssef Zalal",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Austin Lingo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-02-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-02-08",
+      "fight_id": "88bc16668d769bf2",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-02-08",
+      "fight_id": "88bc16668d769bf2",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-01-16",
+      "fight_id": "6cca1c5f93ef2de5",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-01-16",
+      "fight_id": "6cca1c5f93ef2de5",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "d38b4307df1dc7b0",
+      "rating": 1518.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "d38b4307df1dc7b0",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "2e061f5c186ff2f3",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "2e061f5c186ff2f3",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "59366674977b8080",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "59366674977b8080",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-15",
+  "name": "Austin Lingo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.8,
+  "slug": "austin-lingo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

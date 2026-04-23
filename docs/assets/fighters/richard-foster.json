@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 574,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Richard Foster",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": -16.6,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "32b992eaa50e9e42",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Thomas Petersen",
+      "opponent_elo": 1551.2,
+      "outcome": "red_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1500.0,
+      "red_name": "Thomas Petersen",
+      "round": "1",
+      "time": "3:48",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-01-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-13",
+      "fight_id": "32b992eaa50e9e42",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "32b992eaa50e9e42",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Richard Foster",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "richard-foster",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

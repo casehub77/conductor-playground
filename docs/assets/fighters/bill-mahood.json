@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 417,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Bill Mahood",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-09-29",
+      "elo_delta": -18.5,
+      "event_name": "Strikeforce: Playboy Mansion",
+      "fight_id": "6628c4091e064449",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (rib injury)",
+      "opponent": "Bobby Southworth",
+      "opponent_elo": 1498.1,
+      "outcome": "red_win",
+      "post_elo": 1463.1,
+      "pre_elo": 1481.6,
+      "red_name": "Bobby Southworth",
+      "round": "1",
+      "time": "1:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Bill Mahood",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2005-06-04",
+      "elo_delta": -18.4,
+      "event_name": "UFC 53: Heavy Hitters",
+      "fight_id": "44d00901c155b889",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Forrest Griffin",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Forrest Griffin",
+      "round": "1.0",
+      "time": "2:18",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-06-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-06-04",
+      "fight_id": "44d00901c155b889",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-06-04",
+      "fight_id": "44d00901c155b889",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-09-29",
+      "fight_id": "6628c4091e064449",
+      "rating": 1463.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-09-29",
+      "fight_id": "6628c4091e064449",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-09-29",
+  "name": "Bill Mahood",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "bill-mahood",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

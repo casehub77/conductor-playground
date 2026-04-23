@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 748,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Mike Davis",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Tuivasa vs. Tybura",
+      "fight_id": "fa60a7317d927908",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mike Davis",
+      "opponent_elo": 1538.4,
+      "outcome": "blue_win",
+      "post_elo": 1497.3,
+      "pre_elo": 1515.4,
+      "red_name": "Natan Levy",
+      "round": "2.0",
+      "time": "1:43",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Genaro Valdez",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": 17.0,
+      "event_name": "UFC Fight Night: Thompson vs. Holland",
+      "fight_id": "75e5f006a746ce48",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Genaro Valdez",
+      "opponent_elo": 1479.6,
+      "outcome": "red_win",
+      "post_elo": 1515.4,
+      "pre_elo": 1498.4,
+      "red_name": "Natan Levy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Mike Breeden",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-04-30",
+      "elo_delta": 18.1,
+      "event_name": "UFC Fight Night: Font vs. Vera",
+      "fight_id": "e7f3b3886a4b4e72",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mike Breeden",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1480.3,
+      "red_name": "Natan Levy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Natan Levy",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-11-20",
+      "elo_delta": -19.7,
+      "event_name": "UFC Fight Night: Vieira vs. Tate",
+      "fight_id": "64a8805b86ab7d87",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rafa Garcia",
+      "opponent_elo": 1466.7,
+      "outcome": "red_win",
+      "post_elo": 1480.3,
+      "pre_elo": 1500.0,
+      "red_name": "Rafa Garcia",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-11-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-20",
+      "fight_id": "64a8805b86ab7d87",
+      "rating": 1480.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "64a8805b86ab7d87",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-30",
+      "fight_id": "e7f3b3886a4b4e72",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-04-30",
+      "fight_id": "e7f3b3886a4b4e72",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "75e5f006a746ce48",
+      "rating": 1515.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "75e5f006a746ce48",
+      "rating": 1513.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "fa60a7317d927908",
+      "rating": 1497.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "fa60a7317d927908",
+      "rating": 1497.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-03-16",
+  "name": "Natan Levy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1515.4,
+  "slug": "natan-levy",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

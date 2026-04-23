@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 112,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Leona Pettas",
+      "bout_type": "Catchweight 62 kg Bout",
+      "date": "2022-06-19",
+      "elo_delta": 17.1,
+      "event_name": "The Match 2022",
+      "fight_id": "0bcb8eaa43eadfcb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Leona Pettas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.3,
+      "red_name": "Kan Nakamura",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2019-06-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-02",
+      "fight_id": "881e7a9b5139c3e0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-19",
+      "fight_id": "0bcb8eaa43eadfcb",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2022-06-19",
+      "fight_id": "0bcb8eaa43eadfcb",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-19",
+  "name": "Kan Nakamura",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.4,
+  "slug": "kan-nakamura",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

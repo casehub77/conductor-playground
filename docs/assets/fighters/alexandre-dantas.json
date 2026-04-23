@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 637,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alexandre Dantas",
+      "bout_type": "Heavyweight Bout",
+      "date": "2003-02-28",
+      "elo_delta": -18.2,
+      "event_name": "UFC 41: Onslaught",
+      "fight_id": "10b506e84e96ac25",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gan Mcgee",
+      "opponent_elo": 1504.9,
+      "outcome": "red_win",
+      "post_elo": 1464.5,
+      "pre_elo": 1482.7,
+      "red_name": "Gan Mcgee",
+      "round": "1.0",
+      "time": "4:49",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Alexandre Dantas",
+      "bout_type": "Middleweight Bout",
+      "date": "2000-09-22",
+      "elo_delta": -19.4,
+      "event_name": "UFC 27: Ultimate Bad Boyz",
+      "fight_id": "644a63af9593f548",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yuki Kondo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Yuki Kondo",
+      "round": "3.0",
+      "time": "2:28",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2000-09-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-09-22",
+      "fight_id": "644a63af9593f548",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2000-09-22",
+      "fight_id": "644a63af9593f548",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-02-28",
+      "fight_id": "10b506e84e96ac25",
+      "rating": 1464.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2003-02-28",
+      "fight_id": "10b506e84e96ac25",
+      "rating": 1466.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-02-28",
+  "name": "Alexandre Dantas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "alexandre-dantas",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

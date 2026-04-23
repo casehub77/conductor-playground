@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 831,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Khusein Askhabov",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-02-18",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Andrade vs. Blanchfield",
+      "fight_id": "9276af3daf1abbb6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jamall Emmers",
+      "opponent_elo": 1483.3,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Jamall Emmers",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-02-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-18",
+      "fight_id": "9276af3daf1abbb6",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-18",
+      "fight_id": "9276af3daf1abbb6",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-18",
+  "name": "Khusein Askhabov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "khusein-askhabov",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

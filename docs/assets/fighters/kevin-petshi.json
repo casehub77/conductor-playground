@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 515,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Petshi",
+      "bout_type": "Catchweight (141 lb) Bout",
+      "date": "2023-05-12",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 296: Mousasi vs. Edwards",
+      "fight_id": "1ccf320080c26e0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Sarvarjon Khamidov",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.6,
+      "pre_elo": 1502.0,
+      "red_name": "Sarvarjon Khamidov",
+      "round": "3",
+      "time": "1:33",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kevin Petshi",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2017-12-29",
+      "elo_delta": -16.0,
+      "event_name": "Rizin World Grand Prix 2017: 2nd round",
+      "fight_id": "e7388eac56aa0f09",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Shintaro Ishiwatari",
+      "opponent_elo": 1581.0,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1518.0,
+      "red_name": "Shintaro Ishiwatari",
+      "round": "1",
+      "time": "4:30",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jae Hoon Moon",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2017-10-15",
+      "elo_delta": 18.0,
+      "event_name": "Rizin Fighting World Grand Prix 2017: opening round - Aki no Jin",
+      "fight_id": "1eeb2ebb0e05a04f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Jae Hoon Moon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kevin Petshi",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2017-10-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-10-15",
+      "fight_id": "1eeb2ebb0e05a04f",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-10-15",
+      "fight_id": "1eeb2ebb0e05a04f",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-12-29",
+      "fight_id": "e7388eac56aa0f09",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-12-29",
+      "fight_id": "e7388eac56aa0f09",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "1ccf320080c26e0d",
+      "rating": 1483.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "1ccf320080c26e0d",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-12",
+  "name": "Kevin Petshi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "kevin-petshi",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

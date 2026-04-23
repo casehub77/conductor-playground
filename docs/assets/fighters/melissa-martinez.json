@@ -1,0 +1,126 @@
+{
+  "current_elo": 1480.0,
+  "divisional_rank": 286,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Melissa Martinez",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+      "fight_id": "443f76fb14d5d002",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Fatima Kline",
+      "opponent_elo": 1506.3,
+      "outcome": "red_win",
+      "post_elo": 1480.0,
+      "pre_elo": 1499.0,
+      "red_name": "Fatima Kline",
+      "round": "3.0",
+      "time": "2:36",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Alice Ardelean",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-10-19",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Hernandez vs. Pereira",
+      "fight_id": "ee7055244af226ee",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alice Ardelean",
+      "opponent_elo": 1481.0,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1481.0,
+      "red_name": "Melissa Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Elise Reed",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-09-10",
+      "elo_delta": -19.0,
+      "event_name": "UFC 279: Diaz vs. Ferguson",
+      "fight_id": "38fac5ded38eb764",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Elise Reed",
+      "opponent_elo": 1481.2,
+      "outcome": "blue_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Melissa Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2022-09-10",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-09-10",
+      "fight_id": "38fac5ded38eb764",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-09-10",
+      "fight_id": "38fac5ded38eb764",
+      "rating": 1483.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-10-19",
+      "fight_id": "ee7055244af226ee",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-10-19",
+      "fight_id": "ee7055244af226ee",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "443f76fb14d5d002",
+      "rating": 1480.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "443f76fb14d5d002",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-12",
+  "name": "Melissa Martinez",
+  "nickname": "",
+  "overall_elo": 1482.1,
+  "peak_elo": 1500.0,
+  "slug": "melissa-martinez",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

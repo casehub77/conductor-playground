@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 462,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Filip Stawowy",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2022-06-18",
+      "elo_delta": -18.0,
+      "event_name": "KSW 71: Ziółkowski vs. Rajewski",
+      "fight_id": "11d3045b7168e362",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Michal Martínek",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Michal Martínek",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-06-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-18",
+      "fight_id": "11d3045b7168e362",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "11d3045b7168e362",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-18",
+  "name": "Filip Stawowy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "filip-stawowy",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.8,
+  "divisional_rank": 278,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Petshi",
+      "bout_type": "Catchweight (141 lb) Bout",
+      "date": "2023-05-12",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 296: Mousasi vs. Edwards",
+      "fight_id": "1ccf320080c26e0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Kevin Petshi",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1537.9,
+      "pre_elo": 1519.4,
+      "red_name": "Sarvarjon Khamidov",
+      "round": "3",
+      "time": "1:33",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "José Maria Tomé",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-29",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 287: Piccolotti vs. Barnaoui",
+      "fight_id": "b12b9017778f74dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (body kick and punches)",
+      "opponent": "José Maria Tomé",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Sarvarjon Khamidov",
+      "round": "1",
+      "time": "1:01",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-10-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-29",
+      "fight_id": "b12b9017778f74dd",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-29",
+      "fight_id": "b12b9017778f74dd",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "1ccf320080c26e0d",
+      "rating": 1537.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "1ccf320080c26e0d",
+      "rating": 1533.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-12",
+  "name": "Sarvarjon Khamidov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.9,
+  "slug": "sarvarjon-khamidov",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

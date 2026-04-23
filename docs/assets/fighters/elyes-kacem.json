@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 128,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Elyes Kacem",
+      "bout_type": "Catchweight (130 lbs) Muay Thai Bout",
+      "date": "2024-01-12",
+      "elo_delta": -22.0,
+      "event_name": "ONE Friday Fights 47: Suakim vs. Balyko",
+      "fight_id": "90f2df24f0673d1a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Apiwat Sor.Somnuk",
+      "opponent_elo": 1471.3,
+      "outcome": "red_win",
+      "post_elo": 1496.1,
+      "pre_elo": 1518.1,
+      "red_name": "Apiwat Sor.Somnuk",
+      "round": "2",
+      "time": "1:23",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-10-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-20",
+      "fight_id": "0517b98792c09557",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "90f2df24f0673d1a",
+      "rating": 1496.1,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "90f2df24f0673d1a",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-12",
+  "name": "Elyes Kacem",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.1,
+  "slug": "elyes-kacem",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

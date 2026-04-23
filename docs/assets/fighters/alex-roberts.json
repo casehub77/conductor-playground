@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 399,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Alex Roberts",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": -16.3,
+      "event_name": "ONE Fight Night 17: Kryklia vs. Roberts",
+      "fight_id": "557bca0de37e7fa7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Roman Kryklia",
+      "opponent_elo": 1556.0,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Kryklia",
+      "round": "2",
+      "time": "0:25",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-09",
+      "fight_id": "557bca0de37e7fa7",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "557bca0de37e7fa7",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-12-09",
+  "name": "Alex Roberts",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "alex-roberts",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

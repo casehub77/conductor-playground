@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 715,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Yasushi Kato",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-05-16",
+      "elo_delta": -0.1,
+      "event_name": "Shooto: Grapplingman 11",
+      "fight_id": "71f4e4dba96fbc05",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Yasushi Kato",
+      "opponent_elo": 1496.9,
+      "outcome": "draw",
+      "post_elo": 1499.5,
+      "pre_elo": 1499.6,
+      "red_name": "Takaaki Oban",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Takaaki Oban",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-12-13",
+      "elo_delta": -19.2,
+      "event_name": "Shooto: The Rookie Tournament 2008 Final",
+      "fight_id": "10ee4effc5e73fca",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Makoto Maeda",
+      "opponent_elo": 1523.8,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1518.8,
+      "red_name": "Makoto Maeda",
+      "round": "1",
+      "time": "0:34",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yusaku Tanaka",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-09-20",
+      "elo_delta": 19.0,
+      "event_name": "Shooto: Gig West 10",
+      "fight_id": "5cb8aa39512ea5b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yusaku Tanaka",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1518.8,
+      "pre_elo": 1499.7,
+      "red_name": "Takaaki Oban",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Takaaki Oban",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-12-08",
+      "elo_delta": -18.6,
+      "event_name": "Shooto: Rookie Tournament 2007 Final",
+      "fight_id": "3f0fec460d0fcfe0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kimura)",
+      "opponent": "Hiroki Sato",
+      "opponent_elo": 1533.6,
+      "outcome": "red_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1518.3,
+      "red_name": "Hiroki Sato",
+      "round": "1",
+      "time": "1:17",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Seiji Furukawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-05-13",
+      "elo_delta": 18.3,
+      "event_name": "Shooto: Grapplingman 6",
+      "fight_id": "a2bcd7259baed65a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kimura)",
+      "opponent": "Seiji Furukawa",
+      "opponent_elo": 1479.9,
+      "outcome": "red_win",
+      "post_elo": 1518.3,
+      "pre_elo": 1500.0,
+      "red_name": "Takaaki Oban",
+      "round": "1",
+      "time": "3:43",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2007-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-05-13",
+      "fight_id": "a2bcd7259baed65a",
+      "rating": 1518.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-05-13",
+      "fight_id": "a2bcd7259baed65a",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-12-08",
+      "fight_id": "3f0fec460d0fcfe0",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-12-08",
+      "fight_id": "3f0fec460d0fcfe0",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "5cb8aa39512ea5b7",
+      "rating": 1518.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "5cb8aa39512ea5b7",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-13",
+      "fight_id": "10ee4effc5e73fca",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-12-13",
+      "fight_id": "10ee4effc5e73fca",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-16",
+      "fight_id": "71f4e4dba96fbc05",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-05-16",
+      "fight_id": "71f4e4dba96fbc05",
+      "rating": 1499.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-05-16",
+  "name": "Takaaki Oban",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.8,
+  "slug": "takaaki-oban",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

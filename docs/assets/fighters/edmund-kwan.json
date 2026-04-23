@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.9,
+  "divisional_rank": 1292,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Edmund Kwan",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -20.5,
+      "event_name": "LFA 213: Gonzalez vs. Rosales",
+      "fight_id": "a90fd089495429a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Loai Abushaar",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Loai Abushaar",
+      "round": "1",
+      "time": "0:51",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Shelden Struble",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 19.4,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "0d7e2c0fa0305bea",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Shelden Struble",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Edmund Kwan",
+      "round": "2",
+      "time": "4:33",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-10",
+      "fight_id": "0d7e2c0fa0305bea",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "0d7e2c0fa0305bea",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "a90fd089495429a4",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "a90fd089495429a4",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Edmund Kwan",
+  "nickname": "",
+  "overall_elo": 1499.1,
+  "peak_elo": 1519.4,
+  "slug": "edmund-kwan",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1513.1,
+  "divisional_rank": 159,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Takaki Soya",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2023-09-24",
+      "elo_delta": 21.3,
+      "event_name": "Rizin 44",
+      "fight_id": "7bb501d633d82730",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Takaki Soya",
+      "opponent_elo": 1551.3,
+      "outcome": "red_win",
+      "post_elo": 1539.9,
+      "pre_elo": 1518.7,
+      "red_name": "Ramazonbek Temirov",
+      "round": "1",
+      "time": "3:15",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Yuta Hamamoto",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2023-05-06",
+      "elo_delta": 18.7,
+      "event_name": "Rizin 42",
+      "fight_id": "7e7d3bb325fc94c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Yuta Hamamoto",
+      "opponent_elo": 1486.0,
+      "outcome": "red_win",
+      "post_elo": 1518.7,
+      "pre_elo": 1500.0,
+      "red_name": "Ramazonbek Temirov",
+      "round": "1",
+      "time": "4:06",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-06",
+      "fight_id": "7e7d3bb325fc94c9",
+      "rating": 1518.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-05-06",
+      "fight_id": "7e7d3bb325fc94c9",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "7bb501d633d82730",
+      "rating": 1539.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "7bb501d633d82730",
+      "rating": 1535.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-24",
+  "name": "Ramazonbek Temirov",
+  "nickname": "",
+  "overall_elo": 1508.7,
+  "peak_elo": 1539.9,
+  "slug": "ramazonbek-temirov",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

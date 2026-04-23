@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 929,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Vugar Keramov",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-06-13",
+      "elo_delta": -15.1,
+      "event_name": "Rizin 28 – Tokyo",
+      "fight_id": "ec417e0d6c9ca10c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Yutaka Saito",
+      "opponent_elo": 1555.9,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1500.0,
+      "red_name": "Yutaka Saito",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-06-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-13",
+      "fight_id": "ec417e0d6c9ca10c",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-06-13",
+      "fight_id": "ec417e0d6c9ca10c",
+      "rating": 1486.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-06-13",
+  "name": "Vugar Keramov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "vugar-keramov",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

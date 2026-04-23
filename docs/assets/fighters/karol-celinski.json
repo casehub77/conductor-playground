@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 272,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Karol Celiński",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2015-05-23",
+      "elo_delta": -20.5,
+      "event_name": "KSW 31: Materla vs. Drwal",
+      "fight_id": "26aaa374219732be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Tomasz Narkun",
+      "opponent_elo": 1499.6,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Tomasz Narkun",
+      "round": "1",
+      "time": "2:17",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tomasz Kondraciuk",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2014-12-06",
+      "elo_delta": 19.4,
+      "event_name": "KSW 29: Reload",
+      "fight_id": "51f64b26e742bbd0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Corner Stoppage)",
+      "opponent": "Tomasz Kondraciuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Karol Celiński",
+      "round": "3",
+      "time": "3:34",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2014-12-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-12-06",
+      "fight_id": "51f64b26e742bbd0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "51f64b26e742bbd0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-23",
+      "fight_id": "26aaa374219732be",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2015-05-23",
+      "fight_id": "26aaa374219732be",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-05-23",
+  "name": "Karol Celiński",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "karol-celinski",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

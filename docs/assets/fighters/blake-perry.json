@@ -1,0 +1,92 @@
+{
+  "current_elo": 1497.9,
+  "divisional_rank": 1071,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Blake Perry",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-12-13",
+      "elo_delta": -21.5,
+      "event_name": "Cage Warriors 182: San Diego",
+      "fight_id": "3664f82b49a1d8e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (arm-triangle choke)",
+      "opponent": "Bobby Winther",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1519.4,
+      "red_name": "Bobby Winther",
+      "round": "1",
+      "time": "3:40",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Makoa Cooper",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 278: Velasquez vs. Carmouche",
+      "fight_id": "9081adcc248e70cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (anaconda choke)",
+      "opponent": "Makoa Cooper",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Blake Perry",
+      "round": "2",
+      "time": "4:14",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-04-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-22",
+      "fight_id": "9081adcc248e70cf",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "9081adcc248e70cf",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "3664f82b49a1d8e6",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "3664f82b49a1d8e6",
+      "rating": 1498.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-13",
+  "name": "Blake Perry",
+  "nickname": "",
+  "overall_elo": 1498.3,
+  "peak_elo": 1519.4,
+  "slug": "blake-perry",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

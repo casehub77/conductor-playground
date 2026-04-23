@@ -1,0 +1,126 @@
+{
+  "current_elo": 1474.2,
+  "divisional_rank": 1191,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Percy Herrera",
+      "bout_type": "Catchweight (139 lb) Bout",
+      "date": "2026-03-13",
+      "elo_delta": 9.7,
+      "event_name": "Cage Warriors 201: Unplugged",
+      "fight_id": "b5b5ac3eb46ebdc4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee to the body and punches)",
+      "opponent": "Percy Herrera",
+      "opponent_elo": 1462.2,
+      "outcome": "red_win",
+      "post_elo": 1474.2,
+      "pre_elo": 1464.6,
+      "red_name": "Armand Herczeg",
+      "round": "3",
+      "time": "1:57",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Armand Herczeg",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": -17.4,
+      "event_name": "Oktagon 52: Mågård vs. Cartwright",
+      "fight_id": "6955dcc0d86cd8bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jake McHugh",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1464.6,
+      "pre_elo": 1482.0,
+      "red_name": "Jake McHugh",
+      "round": "1",
+      "time": "4:30",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Armand Herczeg",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-07-28",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 45 Special: Mågård vs. Lima",
+      "fight_id": "8be4f04cc7a6ebbf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 28–29, 29–28)",
+      "opponent": "Radek Roušal",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Radek Roušal",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-07-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-28",
+      "fight_id": "8be4f04cc7a6ebbf",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "8be4f04cc7a6ebbf",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "6955dcc0d86cd8bf",
+      "rating": 1464.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "6955dcc0d86cd8bf",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "b5b5ac3eb46ebdc4",
+      "rating": 1474.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "b5b5ac3eb46ebdc4",
+      "rating": 1476.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Armand Herczeg",
+  "nickname": "",
+  "overall_elo": 1476.9,
+  "peak_elo": 1500.0,
+  "slug": "armand-herczeg",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

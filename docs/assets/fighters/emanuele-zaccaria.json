@@ -1,0 +1,126 @@
+{
+  "current_elo": 1487.8,
+  "divisional_rank": 965,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Bainbridge",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-06-27",
+      "elo_delta": 22.2,
+      "event_name": "Cage Warriors 190: Unplugged",
+      "fight_id": "e9b0ab0357aa78ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Daniel Bainbridge",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1487.8,
+      "pre_elo": 1465.6,
+      "red_name": "Emanuele Zaccaria",
+      "round": "1",
+      "time": "1:38",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Emanuele Zaccaria",
+      "bout_type": "Catchweight (141 lb) Bout",
+      "date": "2024-11-02",
+      "elo_delta": -15.0,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "727557021b40a133",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Alessandro Giordano",
+      "opponent_elo": 1538.9,
+      "outcome": "red_win",
+      "post_elo": 1465.6,
+      "pre_elo": 1480.6,
+      "red_name": "Alessandro Giordano",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Emanuele Zaccaria",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-15",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 167: Unplugged",
+      "fight_id": "b4293e09b62bda98",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Shirzad Qadrian",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Shirzad Qadrian",
+      "round": "1",
+      "time": "3:49",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-03-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-15",
+      "fight_id": "b4293e09b62bda98",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-15",
+      "fight_id": "b4293e09b62bda98",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "727557021b40a133",
+      "rating": 1465.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "727557021b40a133",
+      "rating": 1469.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "e9b0ab0357aa78ac",
+      "rating": 1487.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "e9b0ab0357aa78ac",
+      "rating": 1488.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-27",
+  "name": "Emanuele Zaccaria",
+  "nickname": "",
+  "overall_elo": 1488.7,
+  "peak_elo": 1500.0,
+  "slug": "emanuele-zaccaria",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

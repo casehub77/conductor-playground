@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 577,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Mark Abelardo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-01-13",
+      "elo_delta": -18.3,
+      "event_name": "ONE Fight Night 18: Gasanov vs. Oh",
+      "fight_id": "46137f97ee0063ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ibragim Dauev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1488.0,
+      "pre_elo": 1506.3,
+      "red_name": "Ibragim Dauev",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Georgy Shakhruramazanov",
+      "bout_type": "Catchweight (146.8 lbs) Bout",
+      "date": "2023-10-27",
+      "elo_delta": 20.2,
+      "event_name": "ONE Friday Fights 38: Otop vs. Musaev",
+      "fight_id": "6369aaf416e50dd9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Georgy Shakhruramazanov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1506.3,
+      "pre_elo": 1486.1,
+      "red_name": "Mark Abelardo",
+      "round": "2",
+      "time": "4:43",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Taron Grigorian",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-05-05",
+      "elo_delta": 21.4,
+      "event_name": "ONE Friday Fights 15: Nakrob vs. Ploywitthaya",
+      "fight_id": "aaf37b3f84ad983a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees)",
+      "opponent": "Taron Grigorian",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1486.1,
+      "pre_elo": 1464.6,
+      "red_name": "Mark Abelardo",
+      "round": "2",
+      "time": "2:56",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Mark Abelardo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-11-19",
+      "elo_delta": -17.4,
+      "event_name": "ONE 163: Akimoto vs. Petchtanong",
+      "fight_id": "0a75cd33f6d143e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Kwon Won Il",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1464.6,
+      "pre_elo": 1482.0,
+      "red_name": "Kwon Won Il",
+      "round": "3",
+      "time": "3:44",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Mark Abelardo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": -18.0,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "91ee9f8cbe0ccb1d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Chen Rui",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Chen Rui",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "91ee9f8cbe0ccb1d",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "91ee9f8cbe0ccb1d",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "0a75cd33f6d143e3",
+      "rating": 1464.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "0a75cd33f6d143e3",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "aaf37b3f84ad983a",
+      "rating": 1486.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "aaf37b3f84ad983a",
+      "rating": 1487.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "6369aaf416e50dd9",
+      "rating": 1506.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "6369aaf416e50dd9",
+      "rating": 1505.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "46137f97ee0063ae",
+      "rating": 1488.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "46137f97ee0063ae",
+      "rating": 1488.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-13",
+  "name": "Mark Abelardo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1506.3,
+  "slug": "mark-abelardo",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

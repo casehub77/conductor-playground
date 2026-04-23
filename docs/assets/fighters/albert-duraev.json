@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 514,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Junyong Park",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-07-15",
+      "elo_delta": -16.8,
+      "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+      "fight_id": "291a56a0f0fd9903",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Junyong Park",
+      "opponent_elo": 1565.2,
+      "outcome": "blue_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1517.8,
+      "red_name": "Albert Duraev",
+      "round": "2.0",
+      "time": "4:45",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Albert Duraev",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-03-25",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Vera vs. Sandhagen",
+      "fight_id": "35a556acf2bb289e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Chidi Njokuani",
+      "opponent_elo": 1519.9,
+      "outcome": "blue_win",
+      "post_elo": 1517.8,
+      "pre_elo": 1498.8,
+      "red_name": "Chidi Njokuani",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Albert Duraev",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-06-18",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Kattar vs. Emmett",
+      "fight_id": "7f35618452cb4b55",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Joaquin Buckley",
+      "opponent_elo": 1536.6,
+      "outcome": "red_win",
+      "post_elo": 1498.8,
+      "pre_elo": 1517.1,
+      "red_name": "Joaquin Buckley",
+      "round": "2.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Roman Kopylov",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-10-30",
+      "elo_delta": 17.1,
+      "event_name": "UFC 267: Blachowicz vs. Teixeira",
+      "fight_id": "70235748c39d61f7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Roman Kopylov",
+      "opponent_elo": 1482.6,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Albert Duraev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-10-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-30",
+      "fight_id": "70235748c39d61f7",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "70235748c39d61f7",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "7f35618452cb4b55",
+      "rating": 1498.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "7f35618452cb4b55",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "35a556acf2bb289e",
+      "rating": 1517.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "35a556acf2bb289e",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "291a56a0f0fd9903",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "291a56a0f0fd9903",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-15",
+  "name": "Albert Duraev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.8,
+  "slug": "albert-duraev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 620,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Vitaly Minakov",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-10-23",
+      "elo_delta": -18.3,
+      "event_name": "Bellator 269: Fedor vs. Johnson",
+      "fight_id": "26c9a5cd3be68944",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (finger injury)",
+      "opponent": "Said Sowma",
+      "opponent_elo": 1520.2,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Said Sowma",
+      "round": "3",
+      "time": "3:08",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-10-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-23",
+      "fight_id": "26c9a5cd3be68944",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "26c9a5cd3be68944",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-23",
+  "name": "Vitaly Minakov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "vitaly-minakov",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

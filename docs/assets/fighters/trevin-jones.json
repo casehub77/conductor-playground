@@ -1,0 +1,201 @@
+{
+  "current_elo": 1495.1,
+  "divisional_rank": 932,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Trevin Jones",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-03-04",
+      "elo_delta": -12.8,
+      "event_name": "UFC 285: Jones vs. Gane",
+      "fight_id": "e99aadcdb94706ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cody Garbrandt",
+      "opponent_elo": 1569.7,
+      "outcome": "red_win",
+      "post_elo": 1454.3,
+      "pre_elo": 1467.2,
+      "red_name": "Cody Garbrandt",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Trevin Jones",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": -14.9,
+      "event_name": "UFC Fight Night: Dern vs. Yan",
+      "fight_id": "5004862bbd93988c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Raoni Barcelos",
+      "opponent_elo": 1543.5,
+      "outcome": "red_win",
+      "post_elo": 1467.2,
+      "pre_elo": 1482.0,
+      "red_name": "Raoni Barcelos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Javid Basharat",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-03-12",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Santos vs. Ankalaev",
+      "fight_id": "7e56c6d3a6570767",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Javid Basharat",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Trevin Jones",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Saidyokub Kakhramonov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-08-21",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Cannonier vs. Gastelum",
+      "fight_id": "e6b219d1db832dbd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Saidyokub Kakhramonov",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1520.6,
+      "red_name": "Trevin Jones",
+      "round": "3.0",
+      "time": "4:39",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Trevin Jones",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-03-06",
+      "elo_delta": 20.6,
+      "event_name": "UFC 259: Blachowicz vs. Adesanya",
+      "fight_id": "094a9d3de1462f04",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mario Bautista",
+      "opponent_elo": 1521.2,
+      "outcome": "blue_win",
+      "post_elo": 1520.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mario Bautista",
+      "round": "2.0",
+      "time": "0:47",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-08-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-22",
+      "fight_id": "abdf96752a5b3245",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-03-06",
+      "fight_id": "094a9d3de1462f04",
+      "rating": 1520.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-06",
+      "fight_id": "094a9d3de1462f04",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "e6b219d1db832dbd",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "e6b219d1db832dbd",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "7e56c6d3a6570767",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "7e56c6d3a6570767",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "5004862bbd93988c",
+      "rating": 1467.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "5004862bbd93988c",
+      "rating": 1470.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-04",
+      "fight_id": "e99aadcdb94706ac",
+      "rating": 1454.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-03-04",
+      "fight_id": "e99aadcdb94706ac",
+      "rating": 1457.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-04",
+  "name": "Trevin Jones",
+  "nickname": "",
+  "overall_elo": 1498.7,
+  "peak_elo": 1520.6,
+  "slug": "trevin-jones",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

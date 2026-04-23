@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 150,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Miranda Granger",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-08-06",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Santos vs. Hill",
+      "fight_id": "4d8196a9a7233154",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Cory Mckenna",
+      "opponent_elo": 1499.1,
+      "outcome": "red_win",
+      "post_elo": 1456.5,
+      "pre_elo": 1474.5,
+      "red_name": "Cory Mckenna",
+      "round": "2.0",
+      "time": "1:03",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Miranda Granger",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2020-11-14",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: Felder vs. Dos Anjos",
+      "fight_id": "8e327464017e6047",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ashley Yoder",
+      "opponent_elo": 1452.6,
+      "outcome": "red_win",
+      "post_elo": 1474.5,
+      "pre_elo": 1494.7,
+      "red_name": "Ashley Yoder",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Amanda Lemos",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2019-12-21",
+      "elo_delta": -21.3,
+      "event_name": "UFC Fight Night: Edgar vs. The Korean Zombie",
+      "fight_id": "ebc0ebcfc5080c05",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Amanda Lemos",
+      "opponent_elo": 1482.9,
+      "outcome": "blue_win",
+      "post_elo": 1494.7,
+      "pre_elo": 1516.0,
+      "red_name": "Miranda Granger",
+      "round": "1.0",
+      "time": "3:43",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Hannah Goldy",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2019-08-03",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Covington vs. Lawler",
+      "fight_id": "220978865dd076d2",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Hannah Goldy",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Miranda Granger",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2019-08-03",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2019-08-03",
+      "fight_id": "220978865dd076d2",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2019-08-03",
+      "fight_id": "220978865dd076d2",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-12-21",
+      "fight_id": "ebc0ebcfc5080c05",
+      "rating": 1494.7,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2019-12-21",
+      "fight_id": "ebc0ebcfc5080c05",
+      "rating": 1497.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-11-14",
+      "fight_id": "8e327464017e6047",
+      "rating": 1474.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2020-11-14",
+      "fight_id": "8e327464017e6047",
+      "rating": 1479.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-08-06",
+      "fight_id": "4d8196a9a7233154",
+      "rating": 1456.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-08-06",
+      "fight_id": "4d8196a9a7233154",
+      "rating": 1463.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-06",
+  "name": "Miranda Granger",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "miranda-granger",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

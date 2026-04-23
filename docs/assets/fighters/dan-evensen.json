@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 438,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Raoul Romero",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-05-01",
+      "elo_delta": 21.5,
+      "event_name": "Bellator 5",
+      "fight_id": "06780df8eca8fe4e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Raoul Romero",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1485.2,
+      "pre_elo": 1463.8,
+      "red_name": "Dan Evensen",
+      "round": "2",
+      "time": "1:44",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Dan Evensen",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-12-27",
+      "elo_delta": -18.4,
+      "event_name": "UFC 92: The Ultimate 2008",
+      "fight_id": "e91e71886b46c325",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Pat Barry",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.8,
+      "pre_elo": 1482.2,
+      "red_name": "Pat Barry",
+      "round": "1.0",
+      "time": "2:36",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Dan Evensen",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-08-09",
+      "elo_delta": -17.8,
+      "event_name": "UFC 87: Seek And Destroy",
+      "fight_id": "bd440ecaf28e6299",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cheick Kongo",
+      "opponent_elo": 1529.7,
+      "outcome": "red_win",
+      "post_elo": 1482.2,
+      "pre_elo": 1500.0,
+      "red_name": "Cheick Kongo",
+      "round": "1.0",
+      "time": "4:55",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-08-09",
+      "fight_id": "bd440ecaf28e6299",
+      "rating": 1482.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-08-09",
+      "fight_id": "bd440ecaf28e6299",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-27",
+      "fight_id": "e91e71886b46c325",
+      "rating": 1463.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-12-27",
+      "fight_id": "e91e71886b46c325",
+      "rating": 1467.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-01",
+      "fight_id": "06780df8eca8fe4e",
+      "rating": 1485.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-05-01",
+      "fight_id": "06780df8eca8fe4e",
+      "rating": 1486.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-01",
+  "name": "Dan Evensen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "dan-evensen",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

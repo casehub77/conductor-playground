@@ -1,0 +1,126 @@
+{
+  "current_elo": 1518.3,
+  "divisional_rank": 189,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yadier Del Valle",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Strickland vs. Hernandez",
+      "fight_id": "41f2d17e9fd9e172",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jordan Leavitt",
+      "opponent_elo": 1528.7,
+      "outcome": "red_win",
+      "post_elo": 1518.3,
+      "pre_elo": 1536.7,
+      "red_name": "Jordan Leavitt",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Yadier Del Valle",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "fight_id": "760a45cc5b752621",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Isaac Dulgarian",
+      "opponent_elo": 1518.1,
+      "outcome": "blue_win",
+      "post_elo": 1536.7,
+      "pre_elo": 1517.2,
+      "red_name": "Isaac Dulgarian",
+      "round": "1.0",
+      "time": "3:41",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Connor Matthews",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": 17.2,
+      "event_name": "UFC Fight Night: Burns vs. Morales",
+      "fight_id": "8ca4cda5dccef37c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Connor Matthews",
+      "opponent_elo": 1460.3,
+      "outcome": "red_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Yadier Del Valle",
+      "round": "1.0",
+      "time": "2:54",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-05-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-17",
+      "fight_id": "8ca4cda5dccef37c",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "8ca4cda5dccef37c",
+      "rating": 1515.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "760a45cc5b752621",
+      "rating": 1536.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "760a45cc5b752621",
+      "rating": 1533.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "41f2d17e9fd9e172",
+      "rating": 1518.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "41f2d17e9fd9e172",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Yadier Del Valle",
+  "nickname": "",
+  "overall_elo": 1516.8,
+  "peak_elo": 1536.7,
+  "slug": "yadier-del-valle",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

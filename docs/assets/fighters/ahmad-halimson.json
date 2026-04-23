@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.3,
+  "divisional_rank": 291,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jan Malach",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": 18.7,
+      "event_name": "Oktagon 83: Samsonidse vs. Machaev",
+      "fight_id": "befe4770df28eaf7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Jan Malach",
+      "opponent_elo": 1496.8,
+      "outcome": "red_win",
+      "post_elo": 1501.3,
+      "pre_elo": 1482.5,
+      "red_name": "Ahmad Halimson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ahmad Halimson",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-28",
+      "elo_delta": -17.5,
+      "event_name": "Oktagon 73: Eckerlin vs. Pukač",
+      "fight_id": "9d4704c2658f3511",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Tomáš Cigánik",
+      "opponent_elo": 1510.1,
+      "outcome": "red_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1500.0,
+      "red_name": "Tomáš Cigánik",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-06-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-06-28",
+      "fight_id": "9d4704c2658f3511",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "9d4704c2658f3511",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "befe4770df28eaf7",
+      "rating": 1501.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "befe4770df28eaf7",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Ahmad Halimson",
+  "nickname": "",
+  "overall_elo": 1500.3,
+  "peak_elo": 1501.3,
+  "slug": "ahmad-halimson",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

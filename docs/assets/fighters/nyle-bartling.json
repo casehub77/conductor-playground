@@ -1,0 +1,58 @@
+{
+  "current_elo": 1482.6,
+  "divisional_rank": 685,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nyle Bartling",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-04-03",
+      "elo_delta": -17.4,
+      "event_name": "LFA 230: Bartling vs. Cleveland",
+      "fight_id": "2d45d14334d3105f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Charlie Cleveland",
+      "opponent_elo": 1536.7,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Charlie Cleveland",
+      "round": "1",
+      "time": "3:09",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2026-04-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-04-03",
+      "fight_id": "2d45d14334d3105f",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "2d45d14334d3105f",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-03",
+  "name": "Nyle Bartling",
+  "nickname": "",
+  "overall_elo": 1484.3,
+  "peak_elo": 1500.0,
+  "slug": "nyle-bartling",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

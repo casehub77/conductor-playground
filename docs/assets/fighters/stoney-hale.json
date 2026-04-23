@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 604,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Stoney Hale",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-09-23",
+      "elo_delta": -20.4,
+      "event_name": "Bellator 30",
+      "fight_id": "ab0c263e18c4c2d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kimura)",
+      "opponent": "Mike O'Donnell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Mike O'Donnell",
+      "round": "2",
+      "time": "0:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mike Fleniken",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-06-24",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 23",
+      "fight_id": "59c43d650db494ad",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Mike Fleniken",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Stoney Hale",
+      "round": "2",
+      "time": "4:20",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2010-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-24",
+      "fight_id": "59c43d650db494ad",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-06-24",
+      "fight_id": "59c43d650db494ad",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-23",
+      "fight_id": "ab0c263e18c4c2d4",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-09-23",
+      "fight_id": "ab0c263e18c4c2d4",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-23",
+  "name": "Stoney Hale",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "stoney-hale",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 820,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Josh San Diego",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-03-31",
+      "elo_delta": -16.5,
+      "event_name": "Bellator 293: Golm vs. James",
+      "fight_id": "6683940ffacccc1d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Lucas Brennan",
+      "opponent_elo": 1553.0,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Lucas Brennan",
+      "round": "1",
+      "time": "2:14",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-03-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-03-31",
+      "fight_id": "6683940ffacccc1d",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "6683940ffacccc1d",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-31",
+  "name": "Josh San Diego",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "josh-san-diego",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

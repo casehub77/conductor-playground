@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 586,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shad Lierley",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-04-15",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 14",
+      "fight_id": "f45e69e0443a0b3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Wilson Reis",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1498.6,
+      "pre_elo": 1518.0,
+      "red_name": "Wilson Reis",
+      "round": "3",
+      "time": "3:33",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Nathan Murdock",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-05-29",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 9",
+      "fight_id": "85a84e337d42b009",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Nathan Murdock",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Shad Lierley",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-29",
+      "fight_id": "85a84e337d42b009",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-05-29",
+      "fight_id": "85a84e337d42b009",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-04-15",
+      "fight_id": "f45e69e0443a0b3f",
+      "rating": 1498.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-04-15",
+      "fight_id": "f45e69e0443a0b3f",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-15",
+  "name": "Shad Lierley",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "shad-lierley",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

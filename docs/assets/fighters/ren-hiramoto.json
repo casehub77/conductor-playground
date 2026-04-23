@@ -1,0 +1,167 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 679,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Mikuru Asakura",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2024-07-28",
+      "elo_delta": 27.0,
+      "event_name": "Super Rizin 3",
+      "fight_id": "a269576eaa209412",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Mikuru Asakura",
+      "opponent_elo": 1615.8,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1473.9,
+      "red_name": "Ren Hiramoto",
+      "round": "1",
+      "time": "2:18",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ya-Man",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2023-12-31",
+      "elo_delta": 23.1,
+      "event_name": "Rizin 45",
+      "fight_id": "67895122935d778d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ya-Man",
+      "opponent_elo": 1551.3,
+      "outcome": "red_win",
+      "post_elo": 1473.9,
+      "pre_elo": 1450.8,
+      "red_name": "Ren Hiramoto",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ren Hiramoto",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2023-04-29",
+      "elo_delta": -15.5,
+      "event_name": "Rizin Landmark 5",
+      "fight_id": "2854df610cf2b5b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Yutaka Saito",
+      "opponent_elo": 1514.5,
+      "outcome": "red_win",
+      "post_elo": 1450.8,
+      "pre_elo": 1466.3,
+      "red_name": "Yutaka Saito",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ren Hiramoto",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-03-06",
+      "elo_delta": -17.2,
+      "event_name": "Rizin Landmark 2",
+      "fight_id": "695fb565a94b8421",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Chihiro Suzuki",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1466.3,
+      "pre_elo": 1483.5,
+      "red_name": "Chihiro Suzuki",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-12-31",
+      "fight_id": "94b625d654770ecd",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-06",
+      "fight_id": "695fb565a94b8421",
+      "rating": 1466.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-03-06",
+      "fight_id": "695fb565a94b8421",
+      "rating": 1468.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "2854df610cf2b5b2",
+      "rating": 1450.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "2854df610cf2b5b2",
+      "rating": 1454.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-31",
+      "fight_id": "67895122935d778d",
+      "rating": 1473.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-12-31",
+      "fight_id": "67895122935d778d",
+      "rating": 1474.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-28",
+      "fight_id": "a269576eaa209412",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-28",
+      "fight_id": "a269576eaa209412",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-07-28",
+  "name": "Ren Hiramoto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.8,
+  "slug": "ren-hiramoto",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

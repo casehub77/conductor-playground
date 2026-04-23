@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.1,
+  "divisional_rank": 167,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Blair Phillips",
+      "bout_type": "Catchweight (190 lb) Bout",
+      "date": "2025-04-11",
+      "elo_delta": 20.5,
+      "event_name": "LFA 206: Gennrich vs. Lebosnoyani",
+      "fight_id": "5a06a342b2b98473",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Blair Phillips",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Mac Kukowski",
+      "round": "1",
+      "time": "1:45",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Mac Kukowski",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-01-25",
+      "elo_delta": -19.4,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "914d9e157ee3702a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Brett Wittmann",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Brett Wittmann",
+      "round": "2",
+      "time": "0:41",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-01-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-25",
+      "fight_id": "914d9e157ee3702a",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "914d9e157ee3702a",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "5a06a342b2b98473",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "5a06a342b2b98473",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-11",
+  "name": "Mac Kukowski",
+  "nickname": "",
+  "overall_elo": 1500.9,
+  "peak_elo": 1501.1,
+  "slug": "mac-kukowski",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

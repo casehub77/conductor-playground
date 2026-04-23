@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 702,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lowen Tynanes",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-05-05",
+      "elo_delta": -19.9,
+      "event_name": "ONE Fight Night 10: Johnson vs. Moraes 3",
+      "fight_id": "f7b28e5d1f21a7cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ok Rae-yoon",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1498.1,
+      "pre_elo": 1518.0,
+      "red_name": "Ok Rae-yoon",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Park Dae-sung",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": 18.0,
+      "event_name": "ONE on Prime Video 5: de Ridder vs. Malykhin",
+      "fight_id": "454651ca259adbb4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Park Dae-sung",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Lowen Tynanes",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-12-03",
+      "fight_id": "454651ca259adbb4",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "454651ca259adbb4",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "f7b28e5d1f21a7cc",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "f7b28e5d1f21a7cc",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-05",
+  "name": "Lowen Tynanes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "lowen-tynanes",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

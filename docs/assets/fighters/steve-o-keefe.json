@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 287,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dean Reilly",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-01",
+      "elo_delta": 19.3,
+      "event_name": "Cage Warriors: 44",
+      "fight_id": "859b397a144726ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Arm-Triangle Choke)",
+      "opponent": "Dean Reilly",
+      "opponent_elo": 1517.0,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1519.5,
+      "red_name": "Steve O'Keefe",
+      "round": "1",
+      "time": "0:54",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Artem Lobov",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-07-09",
+      "elo_delta": 19.5,
+      "event_name": "Cage Warriors: 43",
+      "fight_id": "f3245680f9987eef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Rear-Naked Choke)",
+      "opponent": "Artem Lobov",
+      "opponent_elo": 1501.8,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Steve O'Keefe",
+      "round": "3",
+      "time": "1:24",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-07-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-07-09",
+      "fight_id": "f3245680f9987eef",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-07-09",
+      "fight_id": "f3245680f9987eef",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "859b397a144726ba",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "859b397a144726ba",
+      "rating": 1534.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Steve O'Keefe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.8,
+  "slug": "steve-o-keefe",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1481.3,
+  "divisional_rank": 1032,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Hecher Sosa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-03-14",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Emmett vs. Vallejos",
+      "fight_id": "048aa4608e314a89",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Hecher Sosa",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1499.3,
+      "red_name": "Luan Lacerda",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Saimon Oliveira",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-10-11",
+      "elo_delta": 17.4,
+      "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+      "fight_id": "783f61edb5499c53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Saimon Oliveira",
+      "opponent_elo": 1446.1,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1481.9,
+      "red_name": "Luan Lacerda",
+      "round": "2.0",
+      "time": "3:55",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Luan Lacerda",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-06-03",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Kara-France vs. Albazi",
+      "fight_id": "1bccb112b6873c9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Da'Mon Blackshear",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1502.5,
+      "red_name": "Da'Mon Blackshear",
+      "round": "2.0",
+      "time": "3:54",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cody Stamann",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-01-21",
+      "elo_delta": -17.0,
+      "event_name": "UFC 283: Teixeira vs. Hill",
+      "fight_id": "2c98ac78ae9d06ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cody Stamann",
+      "opponent_elo": 1539.3,
+      "outcome": "blue_win",
+      "post_elo": 1502.5,
+      "pre_elo": 1519.4,
+      "red_name": "Luan Lacerda",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tayron Pedro",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 111: De Sa vs. Bonfim",
+      "fight_id": "ff2bf1f53a182363",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Tayron Pedro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Luan Lacerda",
+      "round": "2",
+      "time": "1:06",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "ff2bf1f53a182363",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "ff2bf1f53a182363",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-21",
+      "fight_id": "2c98ac78ae9d06ce",
+      "rating": 1502.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-01-21",
+      "fight_id": "2c98ac78ae9d06ce",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-03",
+      "fight_id": "1bccb112b6873c9d",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-06-03",
+      "fight_id": "1bccb112b6873c9d",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "783f61edb5499c53",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "783f61edb5499c53",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "048aa4608e314a89",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "048aa4608e314a89",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-14",
+  "name": "Luan Lacerda",
+  "nickname": "",
+  "overall_elo": 1483.6,
+  "peak_elo": 1519.4,
+  "slug": "luan-lacerda",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1499.2,
+  "divisional_rank": 198,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "ManU Sitjaenim",
+      "bout_type": "Catchweight (132 lbs) Muay Thai Bout",
+      "date": "2024-08-30",
+      "elo_delta": -20.3,
+      "event_name": "ONE Friday Fights 77: Yodlekpet vs. Kongsuk",
+      "fight_id": "12aeeca9d1c0aa4e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Khundet P.K.Saenchai",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1495.7,
+      "pre_elo": 1516.0,
+      "red_name": "Khundet P.K.Saenchai",
+      "round": "1",
+      "time": "0:46",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-31",
+      "fight_id": "a8e4a071d0bdb212",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-30",
+      "fight_id": "12aeeca9d1c0aa4e",
+      "rating": 1495.7,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-08-30",
+      "fight_id": "12aeeca9d1c0aa4e",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-08-30",
+  "name": "ManU Sitjaenim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.0,
+  "slug": "manu-sitjaenim",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

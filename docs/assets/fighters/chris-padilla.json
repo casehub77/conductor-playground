@@ -1,0 +1,194 @@
+{
+  "current_elo": 1569.9,
+  "divisional_rank": 53,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Marquel Mederos",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-04-11",
+      "elo_delta": -1.1,
+      "event_name": "UFC 327: Procházka vs Ulberg",
+      "fight_id": "1aaa5c9f050d91ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Marquel Mederos",
+      "opponent_elo": 1549.3,
+      "outcome": "draw",
+      "post_elo": 1569.9,
+      "pre_elo": 1571.0,
+      "red_name": "Chris Padilla",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ismael Bonfim",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-08",
+      "elo_delta": 18.3,
+      "event_name": "UFC Fight Night: Bonfim vs. Brown",
+      "fight_id": "4438764676f49848",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ismael Bonfim",
+      "opponent_elo": 1533.1,
+      "outcome": "red_win",
+      "post_elo": 1571.0,
+      "pre_elo": 1552.7,
+      "red_name": "Chris Padilla",
+      "round": "2.0",
+      "time": "4:30",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Chris Padilla",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": 15.9,
+      "event_name": "UFC Fight Night: Edwards vs. Brady",
+      "fight_id": "105cfcfb4e7aa73e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Jai Herbert",
+      "opponent_elo": 1496.2,
+      "outcome": "blue_win",
+      "post_elo": 1552.7,
+      "pre_elo": 1536.8,
+      "red_name": "Jai Herbert",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Chris Padilla",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": 17.3,
+      "event_name": "UFC Fight Night: Burns vs. Brady",
+      "fight_id": "6763fe6e2a2d4431",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Rongzhu",
+      "opponent_elo": 1481.5,
+      "outcome": "blue_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1519.4,
+      "red_name": "Rongzhu",
+      "round": "2.0",
+      "time": "4:14",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Chris Padilla",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-04-27",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Nicolau vs. Perez",
+      "fight_id": "bc1ce8876ba19247",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "James Llontop",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "James Llontop",
+      "round": "1.0",
+      "time": "4:33",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-04-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-27",
+      "fight_id": "bc1ce8876ba19247",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "bc1ce8876ba19247",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "6763fe6e2a2d4431",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "6763fe6e2a2d4431",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "105cfcfb4e7aa73e",
+      "rating": 1552.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "105cfcfb4e7aa73e",
+      "rating": 1547.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "4438764676f49848",
+      "rating": 1571.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "4438764676f49848",
+      "rating": 1563.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "1aaa5c9f050d91ea",
+      "rating": 1569.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "1aaa5c9f050d91ea",
+      "rating": 1562.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Chris Padilla",
+  "nickname": "",
+  "overall_elo": 1562.7,
+  "peak_elo": 1571.0,
+  "slug": "chris-padilla",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 806,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "John Pham",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-01-14",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 121: Brown vs. Jones",
+      "fight_id": "b750f1e7915b8e34",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Anvar Boynazarov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Anvar Boynazarov",
+      "round": "1",
+      "time": "0:21",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-01-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-14",
+      "fight_id": "b750f1e7915b8e34",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "b750f1e7915b8e34",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-14",
+  "name": "John Pham",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "john-pham",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

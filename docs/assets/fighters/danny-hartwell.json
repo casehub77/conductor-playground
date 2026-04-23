@@ -1,0 +1,92 @@
+{
+  "current_elo": 1504.1,
+  "divisional_rank": 87,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Branden Guest",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-03-13",
+      "elo_delta": 21.5,
+      "event_name": "Cage Warriors 201: Unplugged",
+      "fight_id": "ad05797f4e417e2b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Branden Guest",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1504.1,
+      "pre_elo": 1482.6,
+      "red_name": "Danny Hartwell",
+      "round": "3",
+      "time": "4:43",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Danny Hartwell",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-03-14",
+      "elo_delta": -17.4,
+      "event_name": "Cage Warriors 184: Unplugged",
+      "fight_id": "17c370aabaca1ad6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbows)",
+      "opponent": "Nell Ariano",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Nell Ariano",
+      "round": "2",
+      "time": "0:48",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-03-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-14",
+      "fight_id": "17c370aabaca1ad6",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "17c370aabaca1ad6",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "ad05797f4e417e2b",
+      "rating": 1504.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "ad05797f4e417e2b",
+      "rating": 1503.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Danny Hartwell",
+  "nickname": "",
+  "overall_elo": 1503.2,
+  "peak_elo": 1504.1,
+  "slug": "danny-hartwell",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

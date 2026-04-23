@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.4,
+  "divisional_rank": 77,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jenilton Matos",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-03-27",
+      "elo_delta": 18.4,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "81752bee1187ed0c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Jenilton Matos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Felipe dos Santos",
+      "round": "1",
+      "time": "1:43",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Hugo Paiva",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-11-04",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 146: Barbosa vs. Santos",
+      "fight_id": "3ced3291eb168231",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Hugo Paiva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Felipe dos Santos",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-11-04",
+      "fight_id": "3ced3291eb168231",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-11-04",
+      "fight_id": "3ced3291eb168231",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "81752bee1187ed0c",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "81752bee1187ed0c",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Felipe dos Santos",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1536.4,
+  "slug": "felipe-dos-santos",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

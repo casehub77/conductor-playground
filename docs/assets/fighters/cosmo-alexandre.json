@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 436,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Juan Cervantes",
+      "bout_type": "Welterweight Muay Thai Bout",
+      "date": "2022-11-19",
+      "elo_delta": 19.3,
+      "event_name": "ONE on Prime Video 4: Abbasov vs. Lee",
+      "fight_id": "e385e515eeaf9958",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbow)",
+      "opponent": "Juan Cervantes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1521.4,
+      "pre_elo": 1502.1,
+      "red_name": "Cosmo Alexandre",
+      "round": "2",
+      "time": "1:23",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Avery McPhatter",
+      "bout_type": "Catchweight (157 lb) Bout",
+      "date": "2011-11-19",
+      "elo_delta": 20.4,
+      "event_name": "Bellator 58",
+      "fight_id": "e0af04ae3feb25d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knees)",
+      "opponent": "Avery McPhatter",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Cosmo Alexandre",
+      "round": "1",
+      "time": "0:20",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Cosmo Alexandre",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-10-01",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 52",
+      "fight_id": "8a8f564ce6c03156",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (30-27, 30-27, 30-27)",
+      "opponent": "Josh Quayhagen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Josh Quayhagen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2011-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-10-01",
+      "fight_id": "8a8f564ce6c03156",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "8a8f564ce6c03156",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "e0af04ae3feb25d7",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "e0af04ae3feb25d7",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "e385e515eeaf9958",
+      "rating": 1521.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "e385e515eeaf9958",
+      "rating": 1519.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-19",
+  "name": "Cosmo Alexandre",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.4,
+  "slug": "cosmo-alexandre",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

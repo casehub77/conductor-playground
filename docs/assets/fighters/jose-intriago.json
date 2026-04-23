@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.5,
+  "divisional_rank": 1234,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jose Intriago",
+      "bout_type": "Catchweight (138 lb) Bout",
+      "date": "2026-04-03",
+      "elo_delta": -16.9,
+      "event_name": "LFA 230: Bartling vs. Cleveland",
+      "fight_id": "f97a3e8bee1cccc8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Nicholas O'Brien",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.5,
+      "pre_elo": 1479.5,
+      "red_name": "Nicholas O'Brien",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jose Intriago",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-01-16",
+      "elo_delta": -20.5,
+      "event_name": "LFA 224: Adams vs. Bilalov",
+      "fight_id": "a45fc810b811df89",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Abbas Abasov",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Abbas Abasov",
+      "round": "2",
+      "time": "3:39",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2026-01-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-01-16",
+      "fight_id": "a45fc810b811df89",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "a45fc810b811df89",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "f97a3e8bee1cccc8",
+      "rating": 1462.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-04-03",
+      "fight_id": "f97a3e8bee1cccc8",
+      "rating": 1466.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-03",
+  "name": "Jose Intriago",
+  "nickname": "",
+  "overall_elo": 1466.7,
+  "peak_elo": 1500.0,
+  "slug": "jose-intriago",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

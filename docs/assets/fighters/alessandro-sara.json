@@ -1,0 +1,65 @@
+{
+  "current_elo": 1491.5,
+  "divisional_rank": 952,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alessandro Sara",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2023-09-01",
+      "elo_delta": -19.6,
+      "event_name": "ONE Friday Fights 31: Kongthoranee vs. Kabutov",
+      "fight_id": "dc2ad917c7e620b5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbow)",
+      "opponent": "Alaverdi Ramazanov",
+      "opponent_elo": 1480.1,
+      "outcome": "red_win",
+      "post_elo": 1463.1,
+      "pre_elo": 1482.7,
+      "red_name": "Alaverdi Ramazanov",
+      "round": "1",
+      "time": "1:39",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "1478c8f0f774c8a5",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-01",
+      "fight_id": "dc2ad917c7e620b5",
+      "rating": 1463.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-09-01",
+      "fight_id": "dc2ad917c7e620b5",
+      "rating": 1465.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-01",
+  "name": "Alessandro Sara",
+  "nickname": "",
+  "overall_elo": 1493.8,
+  "peak_elo": 1500.0,
+  "slug": "alessandro-sara",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

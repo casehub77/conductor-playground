@@ -1,0 +1,92 @@
+{
+  "current_elo": 1503.9,
+  "divisional_rank": 271,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ilay Barzilay",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-08-22",
+      "elo_delta": -14.1,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "5aa5d75043838d01",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 49–46, 49–46)",
+      "opponent": "Richie Miranda",
+      "opponent_elo": 1595.1,
+      "outcome": "red_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1518.0,
+      "red_name": "Richie Miranda",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kohl Laren",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-12-06",
+      "elo_delta": 18.0,
+      "event_name": "LFA 198: Miranda vs. Oyarzún",
+      "fight_id": "4f87a2c56a696ef9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Kohl Laren",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ilay Barzilay",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-12-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-06",
+      "fight_id": "4f87a2c56a696ef9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-12-06",
+      "fight_id": "4f87a2c56a696ef9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "5aa5d75043838d01",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "5aa5d75043838d01",
+      "rating": 1503.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-22",
+  "name": "Ilay Barzilay",
+  "nickname": "",
+  "overall_elo": 1503.2,
+  "peak_elo": 1518.0,
+  "slug": "ilay-barzilay",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

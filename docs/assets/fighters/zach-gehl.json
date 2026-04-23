@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 942,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Zach Gehl",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": -19.4,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "a8ffe0e1dbd736c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Darren Coleman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Darren Coleman",
+      "round": "1",
+      "time": "0:20",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-01-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-13",
+      "fight_id": "a8ffe0e1dbd736c5",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "a8ffe0e1dbd736c5",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Zach Gehl",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "zach-gehl",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

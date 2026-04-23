@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 529,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Damien Stelly",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-05-29",
+      "elo_delta": -20.8,
+      "event_name": "Bellator 9",
+      "fight_id": "f2d11c57ecf630c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Hector Lombard",
+      "opponent_elo": 1492.4,
+      "outcome": "red_win",
+      "post_elo": 1496.1,
+      "pre_elo": 1517.0,
+      "red_name": "Hector Lombard",
+      "round": "1",
+      "time": "2:56",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Alex Andrade",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-04-17",
+      "elo_delta": 17.0,
+      "event_name": "Bellator 4",
+      "fight_id": "eb03f54fa13f21dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Alex Andrade",
+      "opponent_elo": 1479.7,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Damien Stelly",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-17",
+      "fight_id": "eb03f54fa13f21dd",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-04-17",
+      "fight_id": "eb03f54fa13f21dd",
+      "rating": 1514.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-29",
+      "fight_id": "f2d11c57ecf630c9",
+      "rating": 1496.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-05-29",
+      "fight_id": "f2d11c57ecf630c9",
+      "rating": 1496.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-29",
+  "name": "Damien Stelly",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.0,
+  "slug": "damien-stelly",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

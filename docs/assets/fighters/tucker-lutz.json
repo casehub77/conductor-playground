@@ -1,0 +1,160 @@
+{
+  "current_elo": 1496.2,
+  "divisional_rank": 1030,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Melsik Baghdasaryan",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-07-15",
+      "elo_delta": -16.1,
+      "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+      "fight_id": "6b9ddc33b9b3e2ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Melsik Baghdasaryan",
+      "opponent_elo": 1517.9,
+      "outcome": "blue_win",
+      "post_elo": 1464.5,
+      "pre_elo": 1480.5,
+      "red_name": "Tucker Lutz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Tucker Lutz",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-03-25",
+      "elo_delta": -21.3,
+      "event_name": "UFC Fight Night: Vera vs. Sandhagen",
+      "fight_id": "eace3eb768d5201d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Daniel Pineda",
+      "opponent_elo": 1469.1,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1501.8,
+      "red_name": "Daniel Pineda",
+      "round": "2.0",
+      "time": "2:50",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Tucker Lutz",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-11-20",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Vieira vs. Tate",
+      "fight_id": "72e5e177f94254c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Pat Sabatini",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1501.8,
+      "pre_elo": 1518.9,
+      "red_name": "Pat Sabatini",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Tucker Lutz",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-05-15",
+      "elo_delta": 18.9,
+      "event_name": "UFC 262: Oliveira vs. Chandler",
+      "fight_id": "6cd9cabac47891b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kevin Aguilar",
+      "opponent_elo": 1516.5,
+      "outcome": "blue_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Kevin Aguilar",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-05-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-15",
+      "fight_id": "6cd9cabac47891b7",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-05-15",
+      "fight_id": "6cd9cabac47891b7",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "72e5e177f94254c9",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "72e5e177f94254c9",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "eace3eb768d5201d",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "eace3eb768d5201d",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "6b9ddc33b9b3e2ee",
+      "rating": 1464.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "6b9ddc33b9b3e2ee",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-15",
+  "name": "Tucker Lutz",
+  "nickname": "",
+  "overall_elo": 1499.3,
+  "peak_elo": 1518.9,
+  "slug": "tucker-lutz",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1517.6,
+  "divisional_rank": 87,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Matheus Scheffel",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2025-07-19",
+      "elo_delta": 19.5,
+      "event_name": "XTB KSW 108: Soldaev vs. Brichta",
+      "fight_id": "6d0c4815d13e9ee6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Arm injury)",
+      "opponent": "Matheus Scheffel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1517.6,
+      "pre_elo": 1498.1,
+      "red_name": "Michal Martínek",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Michal Martínek",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2022-10-14",
+      "elo_delta": -19.9,
+      "event_name": "KSW 75: Stasiak vs. Ruchała",
+      "fight_id": "077b80eea8f5a621",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Daniel Omielańczuk",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1498.1,
+      "pre_elo": 1518.0,
+      "red_name": "Daniel Omielańczuk",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Filip Stawowy",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2022-06-18",
+      "elo_delta": 18.0,
+      "event_name": "KSW 71: Ziółkowski vs. Rajewski",
+      "fight_id": "11d3045b7168e362",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Filip Stawowy",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Michal Martínek",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-06-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-18",
+      "fight_id": "11d3045b7168e362",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "11d3045b7168e362",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "077b80eea8f5a621",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "077b80eea8f5a621",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "6d0c4815d13e9ee6",
+      "rating": 1517.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "6d0c4815d13e9ee6",
+      "rating": 1515.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-19",
+  "name": "Michal Martínek",
+  "nickname": "",
+  "overall_elo": 1515.8,
+  "peak_elo": 1518.0,
+  "slug": "michal-martinek",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

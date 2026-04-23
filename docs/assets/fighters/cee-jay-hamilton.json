@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 650,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Richard Palencia",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": 23.5,
+      "event_name": "Bellator 286: Pitbull vs. Borics",
+      "fight_id": "4525969e76b48485",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg injury)",
+      "opponent": "Richard Palencia",
+      "opponent_elo": 1535.2,
+      "outcome": "red_win",
+      "post_elo": 1485.7,
+      "pre_elo": 1462.2,
+      "red_name": "Cee Jay Hamilton",
+      "round": "2",
+      "time": "0:12",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cee Jay Hamilton",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "c8610ebeaa852ca7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Matheus Mattos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Matheus Mattos",
+      "round": "2",
+      "time": "1:33",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cee Jay Hamilton",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-04-02",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 255: Pitbull vs. Sanchez 2",
+      "fight_id": "13dfdf82e944b0e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Magomed Magomedov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Magomed Magomedov",
+      "round": "2",
+      "time": "1:22",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-02",
+      "fight_id": "13dfdf82e944b0e8",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-04-02",
+      "fight_id": "13dfdf82e944b0e8",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "c8610ebeaa852ca7",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "c8610ebeaa852ca7",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "4525969e76b48485",
+      "rating": 1485.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "4525969e76b48485",
+      "rating": 1486.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-01",
+  "name": "Cee Jay Hamilton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "cee-jay-hamilton",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

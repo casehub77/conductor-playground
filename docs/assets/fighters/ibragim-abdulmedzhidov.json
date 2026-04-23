@@ -1,0 +1,99 @@
+{
+  "current_elo": 1539.3,
+  "divisional_rank": 65,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ibragim Abdulmedzhidov",
+      "bout_type": "Catchweight (137 lbs) Muay Thai Bout",
+      "date": "2025-03-14",
+      "elo_delta": -20.5,
+      "event_name": "ONE Friday Fights 100: Muangthai vs. Abdulmedzhidov",
+      "fight_id": "0db9fa12474430da",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (retirement)",
+      "opponent": "Muangthai P.K.Saenchai",
+      "opponent_elo": 1518.7,
+      "outcome": "red_win",
+      "post_elo": 1516.4,
+      "pre_elo": 1536.9,
+      "red_name": "Muangthai P.K.Saenchai",
+      "round": "3",
+      "time": "1:06",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Duangsompong Jitmuangnon",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2024-11-22",
+      "elo_delta": 20.3,
+      "event_name": "ONE Friday Fights 88: Pompet vs. Ortikov",
+      "fight_id": "949b260acd5abbd7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Duangsompong Jitmuangnon",
+      "opponent_elo": 1533.6,
+      "outcome": "red_win",
+      "post_elo": 1539.3,
+      "pre_elo": 1519.0,
+      "red_name": "Ibragim Abdulmedzhidov",
+      "round": "1",
+      "time": "2:23",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-09",
+      "fight_id": "5399ccecab49ec94",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "949b260acd5abbd7",
+      "rating": 1539.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "949b260acd5abbd7",
+      "rating": 1536.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "0db9fa12474430da",
+      "rating": 1516.4,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "0db9fa12474430da",
+      "rating": 1517.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-14",
+  "name": "Ibragim Abdulmedzhidov",
+  "nickname": "",
+  "overall_elo": 1517.9,
+  "peak_elo": 1539.3,
+  "slug": "ibragim-abdulmedzhidov",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 625,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marat Gafurov",
+      "bout_type": "Catchweight (180 lbs) Submission Grappling Bout",
+      "date": "2022-12-03",
+      "elo_delta": -19.5,
+      "event_name": "ONE on Prime Video 5: de Ridder vs. Malykhin",
+      "fight_id": "bf4da75c4bc9e025",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle armbar)",
+      "opponent": "Tye Ruotolo",
+      "opponent_elo": 1518.5,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.4,
+      "red_name": "Tye Ruotolo",
+      "round": "1",
+      "time": "5:09",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Ariel Sexton",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-07-22",
+      "elo_delta": 19.4,
+      "event_name": "ONE 159: de Ridder vs. Bigdash",
+      "fight_id": "9998eb36df79fbd5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ariel Sexton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marat Gafurov",
+      "round": "3",
+      "time": "4:15",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-07-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-22",
+      "fight_id": "9998eb36df79fbd5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-07-22",
+      "fight_id": "9998eb36df79fbd5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "bf4da75c4bc9e025",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "bf4da75c4bc9e025",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-03",
+  "name": "Marat Gafurov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "marat-gafurov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

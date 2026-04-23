@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 504,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Danny Martinez",
+      "bout_type": "Flyweight Bout",
+      "date": "2015-11-14",
+      "elo_delta": 19.3,
+      "event_name": "UFC 193: Rousey vs Holm",
+      "fight_id": "c7b4c18fe9e5baae",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Richie Vaculik",
+      "opponent_elo": 1480.3,
+      "outcome": "blue_win",
+      "post_elo": 1474.0,
+      "pre_elo": 1454.7,
+      "red_name": "Richie Vaculik",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Sirwan Kakai",
+      "bout_type": "Bantamweight Bout",
+      "date": "2015-06-27",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Machida vs Romero",
+      "fight_id": "2489fc1e56a51383",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sirwan Kakai",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1483.0,
+      "red_name": "Danny Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Danny Martinez",
+      "bout_type": "Flyweight Bout",
+      "date": "2014-06-07",
+      "elo_delta": -15.6,
+      "event_name": "UFC Fight Night: Henderson vs Khabilov",
+      "fight_id": "6bf42ead3a7d341f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Scott Jorgensen",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1454.7,
+      "pre_elo": 1470.3,
+      "red_name": "Scott Jorgensen",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Danny Martinez",
+      "bout_type": "Flyweight Bout",
+      "date": "2014-02-01",
+      "elo_delta": -14.6,
+      "event_name": "UFC 169: Barao vs Faber 2",
+      "fight_id": "3febf160ea9d69e2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chris Cariaso",
+      "opponent_elo": 1552.2,
+      "outcome": "red_win",
+      "post_elo": 1470.3,
+      "pre_elo": 1484.9,
+      "red_name": "Chris Cariaso",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Danny Martinez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2008-12-03",
+      "elo_delta": -17.0,
+      "event_name": "WEC 37: Torres vs. Tapia",
+      "fight_id": "9ccba96edd112fbe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Joseph Benavidez",
+      "opponent_elo": 1519.1,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Joseph Benavidez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2008-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-03",
+      "fight_id": "9ccba96edd112fbe",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2008-12-03",
+      "fight_id": "9ccba96edd112fbe",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-02-01",
+      "fight_id": "3febf160ea9d69e2",
+      "rating": 1470.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2014-02-01",
+      "fight_id": "3febf160ea9d69e2",
+      "rating": 1472.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-06-07",
+      "fight_id": "6bf42ead3a7d341f",
+      "rating": 1454.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2014-06-07",
+      "fight_id": "6bf42ead3a7d341f",
+      "rating": 1458.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-06-27",
+      "fight_id": "2489fc1e56a51383",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2015-06-27",
+      "fight_id": "2489fc1e56a51383",
+      "rating": 1444.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-11-14",
+      "fight_id": "c7b4c18fe9e5baae",
+      "rating": 1474.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2015-11-14",
+      "fight_id": "c7b4c18fe9e5baae",
+      "rating": 1461.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-11-14",
+  "name": "Danny Martinez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "danny-martinez",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

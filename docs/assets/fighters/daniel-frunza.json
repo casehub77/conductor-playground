@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 420,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Haris Talundžić",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-10-27",
+      "elo_delta": 23.1,
+      "event_name": "LFA 170: Talundžić vs. Frunză",
+      "fight_id": "80e5109a7896b17a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbow and punches)",
+      "opponent": "Haris Talundžić",
+      "opponent_elo": 1566.1,
+      "outcome": "red_win",
+      "post_elo": 1523.1,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Frunză",
+      "round": "3",
+      "time": "4:59",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-10-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-27",
+      "fight_id": "80e5109a7896b17a",
+      "rating": 1523.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "80e5109a7896b17a",
+      "rating": 1520.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-27",
+  "name": "Daniel Frunză",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1523.1,
+  "slug": "daniel-frunza",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

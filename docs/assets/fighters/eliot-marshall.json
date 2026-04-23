@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 160,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Eliot Marshall",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-10-29",
+      "elo_delta": -16.3,
+      "event_name": "UFC 137: Penn vs Diaz",
+      "fight_id": "3a40f4a47ec70041",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Brandon Vera",
+      "opponent_elo": 1546.2,
+      "outcome": "red_win",
+      "post_elo": 1496.3,
+      "pre_elo": 1512.5,
+      "red_name": "Brandon Vera",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Eliot Marshall",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-03-19",
+      "elo_delta": -21.3,
+      "event_name": "UFC 128: Shogun vs Jones",
+      "fight_id": "fd3ce70010340a5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Luiz Cane",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1512.5,
+      "pre_elo": 1533.8,
+      "red_name": "Luiz Cane",
+      "round": "1.0",
+      "time": "2:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Vladimir Matyushenko",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-03-21",
+      "elo_delta": -19.7,
+      "event_name": "UFC Live: Vera vs Jones",
+      "fight_id": "5152d590935d9875",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Vladimir Matyushenko",
+      "opponent_elo": 1520.6,
+      "outcome": "blue_win",
+      "post_elo": 1533.8,
+      "pre_elo": 1553.5,
+      "red_name": "Eliot Marshall",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Jason Brilz",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2009-09-19",
+      "elo_delta": 18.1,
+      "event_name": "UFC 103: Franklin vs Belfort",
+      "fight_id": "7ddef029219d01ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Jason Brilz",
+      "opponent_elo": 1536.6,
+      "outcome": "red_win",
+      "post_elo": 1553.5,
+      "pre_elo": 1535.4,
+      "red_name": "Eliot Marshall",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Vinny Magalhaes",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2009-04-18",
+      "elo_delta": 16.0,
+      "event_name": "UFC 97: Redemption",
+      "fight_id": "b32f6ba8eb67ad68",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Vinny Magalhaes",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1535.4,
+      "pre_elo": 1519.4,
+      "red_name": "Eliot Marshall",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Jules Bruchez",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-12-13",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Nogueira vs. Team Mir Finale",
+      "fight_id": "cb5e85a4337e0b39",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jules Bruchez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Eliot Marshall",
+      "round": "1.0",
+      "time": "1:27",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-12-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-13",
+      "fight_id": "cb5e85a4337e0b39",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-13",
+      "fight_id": "cb5e85a4337e0b39",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-18",
+      "fight_id": "b32f6ba8eb67ad68",
+      "rating": 1535.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2009-04-18",
+      "fight_id": "b32f6ba8eb67ad68",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-09-19",
+      "fight_id": "7ddef029219d01ac",
+      "rating": 1553.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2009-09-19",
+      "fight_id": "7ddef029219d01ac",
+      "rating": 1547.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-03-21",
+      "fight_id": "5152d590935d9875",
+      "rating": 1533.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-03-21",
+      "fight_id": "5152d590935d9875",
+      "rating": 1531.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "fd3ce70010340a5c",
+      "rating": 1512.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "fd3ce70010340a5c",
+      "rating": 1512.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "3a40f4a47ec70041",
+      "rating": 1496.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "3a40f4a47ec70041",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-29",
+  "name": "Eliot Marshall",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1553.5,
+  "slug": "eliot-marshall",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

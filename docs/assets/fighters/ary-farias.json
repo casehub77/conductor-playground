@@ -1,0 +1,160 @@
+{
+  "current_elo": 1468.0,
+  "divisional_rank": 1203,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ary Farias",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": -18.7,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "4b6de33bb1567167",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (spinning back elbow)",
+      "opponent": "Erick Visconde",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1468.0,
+      "pre_elo": 1486.7,
+      "red_name": "Erick Visconde",
+      "round": "2",
+      "time": "1:08",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ary Farias",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": -17.2,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "ee6612b37abb8f93",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–27)",
+      "opponent": "John Sweeney",
+      "opponent_elo": 1518.1,
+      "outcome": "red_win",
+      "post_elo": 1485.1,
+      "pre_elo": 1502.2,
+      "red_name": "John Sweeney",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Michinori Tanaka",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-08-05",
+      "elo_delta": 21.7,
+      "event_name": "Legacy Fighting Alliance 138: Farias vs. Tanaka",
+      "fight_id": "515ed5f35f53f4bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Michinori Tanaka",
+      "opponent_elo": 1552.8,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1480.6,
+      "red_name": "Ary Farias",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ary Farias",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 111: De Sa vs. Bonfim",
+      "fight_id": "5fe64aeb66e22e2b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Marcos Breno",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Marcos Breno",
+      "round": "1",
+      "time": "0:56",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "5fe64aeb66e22e2b",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "5fe64aeb66e22e2b",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-05",
+      "fight_id": "515ed5f35f53f4bb",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-08-05",
+      "fight_id": "515ed5f35f53f4bb",
+      "rating": 1502.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "ee6612b37abb8f93",
+      "rating": 1485.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "ee6612b37abb8f93",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "4b6de33bb1567167",
+      "rating": 1468.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "4b6de33bb1567167",
+      "rating": 1470.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-10",
+  "name": "Ary Farias",
+  "nickname": "",
+  "overall_elo": 1470.0,
+  "peak_elo": 1502.2,
+  "slug": "ary-farias",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

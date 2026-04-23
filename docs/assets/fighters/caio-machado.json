@@ -1,0 +1,194 @@
+{
+  "current_elo": 1478.4,
+  "divisional_rank": 682,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Brendson Ribeiro",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -19.8,
+      "event_name": "UFC Fight Night: Moreno vs. Albazi",
+      "fight_id": "d2b46c37e20a40ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Brendson Ribeiro",
+      "opponent_elo": 1463.6,
+      "outcome": "blue_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1498.2,
+      "red_name": "Caio Machado",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Caio Machado",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-04-27",
+      "elo_delta": -19.1,
+      "event_name": "UFC Fight Night: Nicolau vs. Perez",
+      "fight_id": "1fc79151b3d83faf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Don'Tale Mayes",
+      "opponent_elo": 1492.5,
+      "outcome": "red_win",
+      "post_elo": 1494.2,
+      "pre_elo": 1513.3,
+      "red_name": "Don'Tale Mayes",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Caio Machado",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": -18.7,
+      "event_name": "UFC Fight Night: Allen vs. Craig",
+      "fight_id": "fcdd8e865f484e54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mick Parkin",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1513.3,
+      "pre_elo": 1531.9,
+      "red_name": "Mick Parkin",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ilyor Bakhtiyar Uulu",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-10-27",
+      "elo_delta": 18.5,
+      "event_name": "LFA 170: Talundžić vs. Frunză",
+      "fight_id": "58116a3b6fdce935",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Ilyor Bakhtiyar Uulu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.9,
+      "pre_elo": 1517.5,
+      "red_name": "Caio Machado",
+      "round": "2",
+      "time": "3:02",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Gabriel Silva",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-09-30",
+      "elo_delta": 17.5,
+      "event_name": "Legacy Fighting Alliance 143: Lopes vs. Paiva",
+      "fight_id": "bb7e96c66f825315",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Gabriel Silva",
+      "opponent_elo": 1489.4,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1500.0,
+      "red_name": "Caio Machado",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-09-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-30",
+      "fight_id": "bb7e96c66f825315",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-09-30",
+      "fight_id": "bb7e96c66f825315",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "58116a3b6fdce935",
+      "rating": 1535.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "58116a3b6fdce935",
+      "rating": 1531.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "fcdd8e865f484e54",
+      "rating": 1513.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "fcdd8e865f484e54",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "1fc79151b3d83faf",
+      "rating": 1494.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-04-27",
+      "fight_id": "1fc79151b3d83faf",
+      "rating": 1498.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "d2b46c37e20a40ce",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "d2b46c37e20a40ce",
+      "rating": 1480.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-02",
+  "name": "Caio Machado",
+  "nickname": "",
+  "overall_elo": 1480.8,
+  "peak_elo": 1535.9,
+  "slug": "caio-machado",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

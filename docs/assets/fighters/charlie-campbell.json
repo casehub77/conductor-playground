@@ -1,0 +1,160 @@
+{
+  "current_elo": 1533.3,
+  "divisional_rank": 135,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Charlie Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Ulberg vs. Reyes",
+      "fight_id": "1e98d1f77479ad38",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tom Nolan",
+      "opponent_elo": 1533.1,
+      "outcome": "red_win",
+      "post_elo": 1533.3,
+      "pre_elo": 1553.9,
+      "red_name": "Tom Nolan",
+      "round": "1.0",
+      "time": "4:08",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Charlie Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": 17.0,
+      "event_name": "UFC Fight Night: Allen vs. Curtis 2",
+      "fight_id": "afa6953dfb7cdce7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Trevor Peek",
+      "opponent_elo": 1516.7,
+      "outcome": "blue_win",
+      "post_elo": 1553.9,
+      "pre_elo": 1536.9,
+      "red_name": "Trevor Peek",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Charlie Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-09-16",
+      "elo_delta": 17.5,
+      "event_name": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "fight_id": "590e50695c67ff9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alex Reyes",
+      "opponent_elo": 1484.7,
+      "outcome": "blue_win",
+      "post_elo": 1536.9,
+      "pre_elo": 1519.4,
+      "red_name": "Alex Reyes",
+      "round": "1.0",
+      "time": "3:38",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nicolas Giulietti",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "474f5b79d5e119fa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kicks and punches)",
+      "opponent": "Nicolas Giulietti",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Charlie Campbell",
+      "round": "2",
+      "time": "1:30",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "474f5b79d5e119fa",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "474f5b79d5e119fa",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "590e50695c67ff9d",
+      "rating": 1536.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "590e50695c67ff9d",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "afa6953dfb7cdce7",
+      "rating": 1553.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "afa6953dfb7cdce7",
+      "rating": 1548.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "1e98d1f77479ad38",
+      "rating": 1533.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "1e98d1f77479ad38",
+      "rating": 1529.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-27",
+  "name": "Charlie Campbell",
+  "nickname": "",
+  "overall_elo": 1529.9,
+  "peak_elo": 1553.9,
+  "slug": "charlie-campbell",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

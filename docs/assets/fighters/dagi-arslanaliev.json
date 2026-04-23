@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 588,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dagi Arslanaliev",
+      "bout_type": "Catchweight (180 lb) Submission Grappling Bout",
+      "date": "2023-08-05",
+      "elo_delta": -18.4,
+      "event_name": "ONE Fight Night 13: Allazov vs. Grigorian",
+      "fight_id": "49bdb357e90b74dc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Tye Ruotolo",
+      "opponent_elo": 1538.0,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1519.4,
+      "red_name": "Tye Ruotolo",
+      "round": "1",
+      "time": "2:39",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Timofey Nastyukhin",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": 19.4,
+      "event_name": "ONE: Winter Warriors",
+      "fight_id": "ff6400892d704212",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Timofey Nastyukhin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dagi Arslanaliev",
+      "round": "3",
+      "time": "0:49",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-03",
+      "fight_id": "ff6400892d704212",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "ff6400892d704212",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-05",
+      "fight_id": "49bdb357e90b74dc",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-08-05",
+      "fight_id": "49bdb357e90b74dc",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-05",
+  "name": "Dagi Arslanaliev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "dagi-arslanaliev",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

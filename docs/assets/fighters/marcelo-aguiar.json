@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 883,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Marcelo Aguiar",
+      "bout_type": "Welterweight Bout",
+      "date": "2000-06-09",
+      "elo_delta": -18.6,
+      "event_name": "UFC 26: Ultimate Field Of Dreams",
+      "fight_id": "34f4b6705455f613",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Matt Hughes",
+      "opponent_elo": 1515.2,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.0,
+      "red_name": "Matt Hughes",
+      "round": "1.0",
+      "time": "4:34",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2000-06-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-06-09",
+      "fight_id": "34f4b6705455f613",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2000-06-09",
+      "fight_id": "34f4b6705455f613",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-06-09",
+  "name": "Marcelo Aguiar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "marcelo-aguiar",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

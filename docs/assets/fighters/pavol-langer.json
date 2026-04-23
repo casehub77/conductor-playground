@@ -1,0 +1,194 @@
+{
+  "current_elo": 1511.9,
+  "divisional_rank": 84,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Pavol Langer",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": -20.1,
+      "event_name": "Oktagon 71: Poppeck vs. Langer",
+      "fight_id": "1be2d916c569d15d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Alexander Poppeck",
+      "opponent_elo": 1519.9,
+      "outcome": "red_win",
+      "post_elo": 1511.9,
+      "pre_elo": 1532.0,
+      "red_name": "Alexander Poppeck",
+      "round": "1",
+      "time": "1:15",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Pavol Langer",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-10-12",
+      "elo_delta": -21.3,
+      "event_name": "Oktagon 62: Bigger Than Ever",
+      "fight_id": "eafbdeb42f97df42",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Will Fleury",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1532.0,
+      "pre_elo": 1553.3,
+      "red_name": "Will Fleury",
+      "round": "1",
+      "time": "1:31",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Marc Doussis",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-05-04",
+      "elo_delta": 17.2,
+      "event_name": "Oktagon 57: Eckerlin vs. Brož",
+      "fight_id": "a3dd38db53f9443d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Marc Doussis",
+      "opponent_elo": 1496.6,
+      "outcome": "red_win",
+      "post_elo": 1553.3,
+      "pre_elo": 1536.1,
+      "red_name": "Pavol Langer",
+      "round": "1",
+      "time": "4:06",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Alexander Poppeck",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": 18.1,
+      "event_name": "Oktagon 44: Langer vs. Poppeck",
+      "fight_id": "fadbd5f7334a54ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (48–47, 47–48, 48–47)",
+      "opponent": "Alexander Poppeck",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1536.1,
+      "pre_elo": 1518.0,
+      "red_name": "Pavol Langer",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Rafael Xavier",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 39: Jungwirth vs. Oliveira",
+      "fight_id": "1f4e0e8c01914d0e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 27–30, 29–28)",
+      "opponent": "Rafael Xavier",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Pavol Langer",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "1f4e0e8c01914d0e",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "1f4e0e8c01914d0e",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "fadbd5f7334a54ed",
+      "rating": 1536.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "fadbd5f7334a54ed",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "a3dd38db53f9443d",
+      "rating": 1553.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "a3dd38db53f9443d",
+      "rating": 1547.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "eafbdeb42f97df42",
+      "rating": 1532.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "eafbdeb42f97df42",
+      "rating": 1528.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "1be2d916c569d15d",
+      "rating": 1511.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "1be2d916c569d15d",
+      "rating": 1510.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-17",
+  "name": "Pavol Langer",
+  "nickname": "",
+  "overall_elo": 1510.9,
+  "peak_elo": 1553.3,
+  "slug": "pavol-langer",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

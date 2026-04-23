@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1038,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kane Mousah",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-05-12",
+      "elo_delta": -23.7,
+      "event_name": "Bellator 296: Mousasi vs. Edwards",
+      "fight_id": "a7aec941928f43c2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Thibault Gouti",
+      "opponent_elo": 1423.0,
+      "outcome": "red_win",
+      "post_elo": 1476.3,
+      "pre_elo": 1500.0,
+      "red_name": "Thibault Gouti",
+      "round": "2",
+      "time": "3:58",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Georgi Karakhanyan",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-09-23",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 285: Henderson vs. Queally",
+      "fight_id": "b9a0de269cb7f3e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Georgi Karakhanyan",
+      "opponent_elo": 1481.3,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1482.0,
+      "red_name": "Kane Mousah",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kane Mousah",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "bb31d80a4c3a644f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Davy Gallon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Davy Gallon",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-01",
+      "fight_id": "bb31d80a4c3a644f",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "bb31d80a4c3a644f",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-23",
+      "fight_id": "b9a0de269cb7f3e0",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-09-23",
+      "fight_id": "b9a0de269cb7f3e0",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "a7aec941928f43c2",
+      "rating": 1476.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "a7aec941928f43c2",
+      "rating": 1480.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-12",
+  "name": "Kane Mousah",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kane-mousah",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

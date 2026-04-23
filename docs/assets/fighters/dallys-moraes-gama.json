@@ -1,0 +1,92 @@
+{
+  "current_elo": 1465.9,
+  "divisional_rank": 1206,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dallys Moraes Gama",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-05-24",
+      "elo_delta": -17.1,
+      "event_name": "LFA 209: De Lara vs. Henrique",
+      "fight_id": "e370f09079ee0ba5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 27–29, 29–28)",
+      "opponent": "Wellington Madeira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1483.0,
+      "red_name": "Wellington Madeira",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Dallys Moraes Gama",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-22",
+      "elo_delta": -17.0,
+      "event_name": "LFA 197: Kuziutina vs. Guimarães",
+      "fight_id": "76dd7ef98d4e364b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–26)",
+      "opponent": "Reginaldo Geraldo Jr.",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Reginaldo Geraldo Jr.",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-22",
+      "fight_id": "76dd7ef98d4e364b",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "76dd7ef98d4e364b",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-24",
+      "fight_id": "e370f09079ee0ba5",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-05-24",
+      "fight_id": "e370f09079ee0ba5",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-24",
+  "name": "Dallys Moraes Gama",
+  "nickname": "",
+  "overall_elo": 1469.5,
+  "peak_elo": 1500.0,
+  "slug": "dallys-moraes-gama",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

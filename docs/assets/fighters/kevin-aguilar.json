@@ -1,0 +1,235 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 361,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Tucker Lutz",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-05-15",
+      "elo_delta": -18.9,
+      "event_name": "UFC 262: Oliveira vs. Chandler",
+      "fight_id": "6cd9cabac47891b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tucker Lutz",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1497.7,
+      "pre_elo": 1516.5,
+      "red_name": "Kevin Aguilar",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kevin Aguilar",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-06-13",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Eye vs. Calvillo",
+      "fight_id": "e7478395c758b4a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Charles Rosa",
+      "opponent_elo": 1494.0,
+      "outcome": "red_win",
+      "post_elo": 1497.1,
+      "pre_elo": 1516.3,
+      "red_name": "Charles Rosa",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Zubaira Tukhugov",
+      "bout_type": "Featherweight Bout",
+      "date": "2020-02-22",
+      "elo_delta": -19.8,
+      "event_name": "UFC Fight Night: Felder vs. Hooker",
+      "fight_id": "a8e11ca88420889c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Zubaira Tukhugov",
+      "opponent_elo": 1529.2,
+      "outcome": "blue_win",
+      "post_elo": 1516.5,
+      "pre_elo": 1536.4,
+      "red_name": "Kevin Aguilar",
+      "round": "1.0",
+      "time": "3:21",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kevin Aguilar",
+      "bout_type": "Featherweight Bout",
+      "date": "2019-06-22",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Moicano vs. The Korean Zombie",
+      "fight_id": "01e96a42785acb4e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dan Ige",
+      "opponent_elo": 1538.7,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1555.2,
+      "red_name": "Dan Ige",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kevin Aguilar",
+      "bout_type": "Featherweight Bout",
+      "date": "2019-03-30",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Barboza vs. Gaethje",
+      "fight_id": "88c7d7d7d7b84682",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Enrique Barzola",
+      "opponent_elo": 1564.3,
+      "outcome": "blue_win",
+      "post_elo": 1555.2,
+      "pre_elo": 1535.8,
+      "red_name": "Enrique Barzola",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kevin Aguilar",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-11-30",
+      "elo_delta": 18.5,
+      "event_name": "The Ultimate Fighter: Heavy Hitters Finale",
+      "fight_id": "2b87d3cc5a23f0ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ricky Glenn",
+      "opponent_elo": 1526.5,
+      "outcome": "blue_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Ricky Glenn",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-03-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-03-12",
+      "fight_id": "858dd0f7e30f9f46",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-11-30",
+      "fight_id": "2b87d3cc5a23f0ac",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-11-30",
+      "fight_id": "2b87d3cc5a23f0ac",
+      "rating": 1533.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-03-30",
+      "fight_id": "88c7d7d7d7b84682",
+      "rating": 1555.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2019-03-30",
+      "fight_id": "88c7d7d7d7b84682",
+      "rating": 1550.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-06-22",
+      "fight_id": "01e96a42785acb4e",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2019-06-22",
+      "fight_id": "01e96a42785acb4e",
+      "rating": 1533.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "a8e11ca88420889c",
+      "rating": 1516.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "a8e11ca88420889c",
+      "rating": 1516.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-06-13",
+      "fight_id": "e7478395c758b4a4",
+      "rating": 1497.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-06-13",
+      "fight_id": "e7478395c758b4a4",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-15",
+      "fight_id": "6cd9cabac47891b7",
+      "rating": 1497.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-05-15",
+      "fight_id": "6cd9cabac47891b7",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-05-15",
+  "name": "Kevin Aguilar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1555.2,
+  "slug": "kevin-aguilar",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

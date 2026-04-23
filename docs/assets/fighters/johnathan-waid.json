@@ -1,0 +1,92 @@
+{
+  "current_elo": 1505.4,
+  "divisional_rank": 265,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lane Roe",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-02-06",
+      "elo_delta": 21.4,
+      "event_name": "LFA 226: Allakhverdiev vs. Kropschot",
+      "fight_id": "b527ade045aa84de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Lane Roe",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1505.4,
+      "pre_elo": 1484.0,
+      "red_name": "Johnathan Waid",
+      "round": "1",
+      "time": "1:02",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Johnathan Waid",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": -18.0,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "41c6e8c3c2688bfd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Andrew Stewart",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Andrew Stewart",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "41c6e8c3c2688bfd",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "41c6e8c3c2688bfd",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "b527ade045aa84de",
+      "rating": 1505.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "b527ade045aa84de",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-06",
+  "name": "Johnathan Waid",
+  "nickname": "",
+  "overall_elo": 1502.9,
+  "peak_elo": 1505.4,
+  "slug": "johnathan-waid",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

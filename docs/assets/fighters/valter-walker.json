@@ -1,0 +1,194 @@
+{
+  "current_elo": 1556.8,
+  "divisional_rank": 31,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Louie Sutherland",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-10-25",
+      "elo_delta": 17.2,
+      "event_name": "UFC 321: Aspinall vs. Gane",
+      "fight_id": "bd699f0a22bbec15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Louie Sutherland",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1556.8,
+      "pre_elo": 1539.5,
+      "red_name": "Valter Walker",
+      "round": "1.0",
+      "time": "1:24",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Valter Walker",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": 21.1,
+      "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+      "fight_id": "9acb981e1ee9ae26",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kennedy Nzechukwu",
+      "opponent_elo": 1548.9,
+      "outcome": "blue_win",
+      "post_elo": 1539.5,
+      "pre_elo": 1518.4,
+      "red_name": "Kennedy Nzechukwu",
+      "round": "1.0",
+      "time": "0:54",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Valter Walker",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-15",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Cannonier vs. Rodrigues",
+      "fight_id": "fa3315f697677e99",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Don'Tale Mayes",
+      "opponent_elo": 1493.3,
+      "outcome": "blue_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1499.3,
+      "red_name": "Don'Tale Mayes",
+      "round": "1.0",
+      "time": "1:17",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Valter Walker",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-08-17",
+      "elo_delta": 19.9,
+      "event_name": "UFC 305: Du Plessis vs. Adesanya",
+      "fight_id": "530703b83d1e708b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Junior Tafa",
+      "opponent_elo": 1487.5,
+      "outcome": "blue_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1479.4,
+      "red_name": "Junior Tafa",
+      "round": "1.0",
+      "time": "4:56",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Lukasz Brzeski",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Allen vs. Curtis 2",
+      "fight_id": "50c700956a8b5464",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lukasz Brzeski",
+      "opponent_elo": 1448.9,
+      "outcome": "blue_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Valter Walker",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-04-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-06",
+      "fight_id": "50c700956a8b5464",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "50c700956a8b5464",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "530703b83d1e708b",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "530703b83d1e708b",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-15",
+      "fight_id": "fa3315f697677e99",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-15",
+      "fight_id": "fa3315f697677e99",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "9acb981e1ee9ae26",
+      "rating": 1539.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "9acb981e1ee9ae26",
+      "rating": 1535.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "bd699f0a22bbec15",
+      "rating": 1556.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "bd699f0a22bbec15",
+      "rating": 1550.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-25",
+  "name": "Valter Walker",
+  "nickname": "",
+  "overall_elo": 1550.7,
+  "peak_elo": 1556.8,
+  "slug": "valter-walker",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 179,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Robocop RadGoldGym",
+      "bout_type": "Catchweight (120 lbs) Muay Thai Bout",
+      "date": "2024-05-24",
+      "elo_delta": 18.9,
+      "event_name": "ONE Friday Fights 64: Gheirati vs. Godtfredsen",
+      "fight_id": "3a492018b727a32b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Robocop RadGoldGym",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.6,
+      "pre_elo": 1482.7,
+      "red_name": "Got Taiphetchaburi",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-02-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-02-16",
+      "fight_id": "7a10d63c1b4e0498",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-24",
+      "fight_id": "3a492018b727a32b",
+      "rating": 1501.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-05-24",
+      "fight_id": "3a492018b727a32b",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-05-24",
+  "name": "Got Taiphetchaburi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.6,
+  "slug": "got-taiphetchaburi",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

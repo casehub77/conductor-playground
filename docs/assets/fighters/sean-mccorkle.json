@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 283,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Christian Morecraft",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-03-26",
+      "elo_delta": -20.5,
+      "event_name": "UFC Fight Night: Nogueira vs Davis",
+      "fight_id": "ba86a9bc4a680852",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Christian Morecraft",
+      "opponent_elo": 1481.7,
+      "outcome": "blue_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1501.4,
+      "red_name": "Sean Mccorkle",
+      "round": "2.0",
+      "time": "4:10",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sean Mccorkle",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-12-11",
+      "elo_delta": -18.4,
+      "event_name": "UFC 124: St-Pierre vs Koscheck 2",
+      "fight_id": "7472759e996e8c70",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Stefan Struve",
+      "opponent_elo": 1538.5,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.8,
+      "red_name": "Stefan Struve",
+      "round": "1.0",
+      "time": "3:55",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sean Mccorkle",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-09-25",
+      "elo_delta": 19.8,
+      "event_name": "UFC 119: Mir vs Cro Cop",
+      "fight_id": "e9c872760872e055",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mark Hunt",
+      "opponent_elo": 1506.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.8,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Hunt",
+      "round": "1.0",
+      "time": "1:03",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-09-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-25",
+      "fight_id": "e9c872760872e055",
+      "rating": 1519.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-09-25",
+      "fight_id": "e9c872760872e055",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-12-11",
+      "fight_id": "7472759e996e8c70",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-12-11",
+      "fight_id": "7472759e996e8c70",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-26",
+      "fight_id": "ba86a9bc4a680852",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-03-26",
+      "fight_id": "ba86a9bc4a680852",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-26",
+  "name": "Sean Mccorkle",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.8,
+  "slug": "sean-mccorkle",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

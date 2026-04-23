@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 875,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Edgar Cardenas",
+      "bout_type": "Catchweight (140 lbs) Bout",
+      "date": "2011-04-09",
+      "elo_delta": 18.9,
+      "event_name": "Strikeforce: Diaz vs. Daley",
+      "fight_id": "2f8e808e0c93559c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Edgar Cardenas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.8,
+      "pre_elo": 1482.9,
+      "red_name": "Rolando Perez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Rolando Perez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2009-06-07",
+      "elo_delta": -19.7,
+      "event_name": "WEC 41: Brown vs. Faber 2",
+      "fight_id": "7cb1b76aeaeb3c03",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (flying triangle choke)",
+      "opponent": "Seth Dikun",
+      "opponent_elo": 1480.1,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1484.6,
+      "red_name": "Seth Dikun",
+      "round": "1",
+      "time": "2:30",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Rolando Perez",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-01-25",
+      "elo_delta": -17.1,
+      "event_name": "WEC 38: Varner vs. Cerrone",
+      "fight_id": "4b304febc4a0b29d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee and punches)",
+      "opponent": "José Aldo",
+      "opponent_elo": 1542.3,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "José Aldo",
+      "round": "1",
+      "time": "4:15",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-01-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-01-25",
+      "fight_id": "4b304febc4a0b29d",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-01-25",
+      "fight_id": "4b304febc4a0b29d",
+      "rating": 1484.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-07",
+      "fight_id": "7cb1b76aeaeb3c03",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2009-06-07",
+      "fight_id": "7cb1b76aeaeb3c03",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "2f8e808e0c93559c",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "2f8e808e0c93559c",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-09",
+  "name": "Rolando Perez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.8,
+  "slug": "rolando-perez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

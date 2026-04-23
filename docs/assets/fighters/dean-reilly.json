@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 840,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dean Reilly",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-01",
+      "elo_delta": -19.3,
+      "event_name": "Cage Warriors: 44",
+      "fight_id": "859b397a144726ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Arm-Triangle Choke)",
+      "opponent": "Steve O'Keefe",
+      "opponent_elo": 1519.5,
+      "outcome": "red_win",
+      "post_elo": 1497.7,
+      "pre_elo": 1517.0,
+      "red_name": "Steve O'Keefe",
+      "round": "1",
+      "time": "0:54",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Josh Ramage",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-04-24",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors: 41",
+      "fight_id": "02611bb84ac4b520",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Josh Ramage",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dean Reilly",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-04-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-04-24",
+      "fight_id": "02611bb84ac4b520",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-04-24",
+      "fight_id": "02611bb84ac4b520",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "859b397a144726ba",
+      "rating": 1497.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "859b397a144726ba",
+      "rating": 1498.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Dean Reilly",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.0,
+  "slug": "dean-reilly",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

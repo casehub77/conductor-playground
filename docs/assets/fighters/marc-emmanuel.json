@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 620,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marc Emmanuel",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-11-26",
+      "elo_delta": -19.1,
+      "event_name": "CWFC: Strike Force 4",
+      "fight_id": "ded8532114f75288",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Jeff Monson",
+      "opponent_elo": 1526.1,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Jeff Monson",
+      "round": "1",
+      "time": "0:58",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Barrington Patterson",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-21",
+      "elo_delta": 19.4,
+      "event_name": "CWFC: Strike Force",
+      "fight_id": "96553f319b1b70c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Barrington Patterson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marc Emmanuel",
+      "round": "1",
+      "time": "4:27",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-21",
+      "fight_id": "96553f319b1b70c6",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-21",
+      "fight_id": "96553f319b1b70c6",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-11-26",
+      "fight_id": "ded8532114f75288",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-11-26",
+      "fight_id": "ded8532114f75288",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-11-26",
+  "name": "Marc Emmanuel",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "marc-emmanuel",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

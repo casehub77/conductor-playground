@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 547,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Brandon Shuey",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-10-07",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Tank vs. Buentello",
+      "fight_id": "fa9f30d159a82bd9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Brandon Shuey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1520.9,
+      "pre_elo": 1501.5,
+      "red_name": "Philip Perez",
+      "round": "1",
+      "time": "1:28",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Philip Perez",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-08-20",
+      "elo_delta": -17.7,
+      "event_name": "WEC 11: Evolution",
+      "fight_id": "3a18b69d0b9f6a0a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Olaf Alfonso",
+      "opponent_elo": 1550.0,
+      "outcome": "red_win",
+      "post_elo": 1501.7,
+      "pre_elo": 1519.4,
+      "red_name": "Olaf Alfonso",
+      "round": "1",
+      "time": "2:57",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Justin Jones",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-10-04",
+      "elo_delta": 19.4,
+      "event_name": "WEC 2: Clash of the Titans",
+      "fight_id": "2cc2cc628954a588",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Justin Jones",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Philip Perez",
+      "round": "1",
+      "time": "4:20",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-10-04",
+      "fight_id": "2cc2cc628954a588",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-10-04",
+      "fight_id": "2cc2cc628954a588",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-08-20",
+      "fight_id": "3a18b69d0b9f6a0a",
+      "rating": 1501.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-08-20",
+      "fight_id": "3a18b69d0b9f6a0a",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-10-07",
+      "fight_id": "fa9f30d159a82bd9",
+      "rating": 1520.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-10-07",
+      "fight_id": "fa9f30d159a82bd9",
+      "rating": 1518.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-10-07",
+  "name": "Philip Perez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.9,
+  "slug": "philip-perez",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

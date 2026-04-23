@@ -1,0 +1,126 @@
+{
+  "current_elo": 1519.9,
+  "divisional_rank": 158,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Serhiy Sidey",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-05-03",
+      "elo_delta": 18.9,
+      "event_name": "UFC Fight Night: Sandhagen vs. Figueiredo",
+      "fight_id": "93a4231e9db51867",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cameron Smotherman",
+      "opponent_elo": 1518.3,
+      "outcome": "blue_win",
+      "post_elo": 1519.9,
+      "pre_elo": 1501.0,
+      "red_name": "Cameron Smotherman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Garrett Armfield",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Moreno vs. Albazi",
+      "fight_id": "596b18f7e814d297",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Garrett Armfield",
+      "opponent_elo": 1501.1,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1482.0,
+      "red_name": "Serhiy Sidey",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ramon Taveras",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-01-20",
+      "elo_delta": -18.0,
+      "event_name": "UFC 297: Strickland vs. Du Plessis",
+      "fight_id": "a7ef83203321b9c2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Ramon Taveras",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Serhiy Sidey",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-01-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-20",
+      "fight_id": "a7ef83203321b9c2",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-20",
+      "fight_id": "a7ef83203321b9c2",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "596b18f7e814d297",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "596b18f7e814d297",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-03",
+      "fight_id": "93a4231e9db51867",
+      "rating": 1519.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-05-03",
+      "fight_id": "93a4231e9db51867",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-05-03",
+  "name": "Serhiy Sidey",
+  "nickname": "",
+  "overall_elo": 1517.4,
+  "peak_elo": 1519.9,
+  "slug": "serhiy-sidey",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

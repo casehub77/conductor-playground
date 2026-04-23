@@ -1,0 +1,194 @@
+{
+  "current_elo": 1479.6,
+  "divisional_rank": 1066,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Cody Gibson",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": -20.1,
+      "event_name": "UFC Fight Night: Moreno vs. Albazi",
+      "fight_id": "be59c6296be8642e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cody Gibson",
+      "opponent_elo": 1459.6,
+      "outcome": "blue_win",
+      "post_elo": 1479.6,
+      "pre_elo": 1499.6,
+      "red_name": "Chad Anheliger",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chad Anheliger",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-03-16",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Tuivasa vs. Tybura",
+      "fight_id": "25b2ce3ef6e5471c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Charalampos Grigoriou",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1480.6,
+      "red_name": "Charalampos Grigoriou",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jose Johnson",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Allen vs. Craig",
+      "fight_id": "3f8d0eec3f11e321",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jose Johnson",
+      "opponent_elo": 1480.7,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1501.2,
+      "red_name": "Chad Anheliger",
+      "round": "3.0",
+      "time": "4:49",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Alatengheili",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-09-10",
+      "elo_delta": -17.2,
+      "event_name": "UFC 279: Diaz vs. Ferguson",
+      "fight_id": "65e9e58edbecea42",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alatengheili",
+      "opponent_elo": 1533.7,
+      "outcome": "blue_win",
+      "post_elo": 1501.2,
+      "pre_elo": 1518.4,
+      "red_name": "Chad Anheliger",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jesse Strader",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Walker vs. Hill",
+      "fight_id": "1ec78815e47a2403",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jesse Strader",
+      "opponent_elo": 1481.7,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Chad Anheliger",
+      "round": "3.0",
+      "time": "3:33",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-19",
+      "fight_id": "1ec78815e47a2403",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "1ec78815e47a2403",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-10",
+      "fight_id": "65e9e58edbecea42",
+      "rating": 1501.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-09-10",
+      "fight_id": "65e9e58edbecea42",
+      "rating": 1501.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "3f8d0eec3f11e321",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "3f8d0eec3f11e321",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "25b2ce3ef6e5471c",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-16",
+      "fight_id": "25b2ce3ef6e5471c",
+      "rating": 1499.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "be59c6296be8642e",
+      "rating": 1479.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "be59c6296be8642e",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-02",
+  "name": "Chad Anheliger",
+  "nickname": "",
+  "overall_elo": 1482.0,
+  "peak_elo": 1518.4,
+  "slug": "chad-anheliger",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

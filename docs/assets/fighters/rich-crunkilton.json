@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 400,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Adam Lynn",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-06-15",
+      "elo_delta": 16.4,
+      "event_name": "WEC 21: Tapout",
+      "fight_id": "36c83c9b26521f89",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Adam Lynn",
+      "opponent_elo": 1483.2,
+      "outcome": "red_win",
+      "post_elo": 1555.2,
+      "pre_elo": 1538.8,
+      "red_name": "Rich Crunkilton",
+      "round": "2",
+      "time": "1:20",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nick Ertl",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-01-13",
+      "elo_delta": 16.0,
+      "event_name": "WEC 18: Unfinished Business",
+      "fight_id": "8bd1140dd0ae0e3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Nick Ertl",
+      "opponent_elo": 1487.5,
+      "outcome": "red_win",
+      "post_elo": 1565.8,
+      "pre_elo": 1549.8,
+      "red_name": "Rich Crunkilton",
+      "round": "2",
+      "time": "3:55",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Paul Jenkins",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-19",
+      "elo_delta": 14.5,
+      "event_name": "WEC 15: Judgment Day",
+      "fight_id": "385982d9b2c3f28c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Paul Jenkins",
+      "opponent_elo": 1444.9,
+      "outcome": "red_win",
+      "post_elo": 1549.8,
+      "pre_elo": 1535.3,
+      "red_name": "Rich Crunkilton",
+      "round": "2",
+      "time": "2:36",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Luciano Oliveira",
+      "bout_type": "Lightweight Bout",
+      "date": "2002-08-31",
+      "elo_delta": 18.3,
+      "event_name": "WEC 4 – Rumble Under The Sun",
+      "fight_id": "96162332dc95aab7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Luciano Oliveira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1520.5,
+      "red_name": "Rich Crunkilton",
+      "round": "1",
+      "time": "1:55",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Cruz Gomez",
+      "bout_type": "Lightweight Bout",
+      "date": "2002-06-07",
+      "elo_delta": 20.5,
+      "event_name": "2002 in WEC",
+      "fight_id": "b48e25bf07d8f38a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Cruz Gomez",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Rich Crunkilton",
+      "round": "1",
+      "time": "3:04",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2002-06-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-06-07",
+      "fight_id": "b48e25bf07d8f38a",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2002-06-07",
+      "fight_id": "b48e25bf07d8f38a",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-08-31",
+      "fight_id": "96162332dc95aab7",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2002-08-31",
+      "fight_id": "96162332dc95aab7",
+      "rating": 1535.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-05-19",
+      "fight_id": "385982d9b2c3f28c",
+      "rating": 1549.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-19",
+      "fight_id": "385982d9b2c3f28c",
+      "rating": 1548.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-01-13",
+      "fight_id": "8bd1140dd0ae0e3c",
+      "rating": 1565.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-01-13",
+      "fight_id": "8bd1140dd0ae0e3c",
+      "rating": 1562.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-06-15",
+      "fight_id": "36c83c9b26521f89",
+      "rating": 1555.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-06-15",
+      "fight_id": "36c83c9b26521f89",
+      "rating": 1576.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-06-15",
+  "name": "Rich Crunkilton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1576.2,
+  "slug": "rich-crunkilton",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

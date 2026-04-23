@@ -1,0 +1,194 @@
+{
+  "current_elo": 1530.0,
+  "divisional_rank": 96,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Ernesto Ibarra",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-04-17",
+      "elo_delta": 20.0,
+      "event_name": "LFA 231: Lozej vs. Ibarra",
+      "fight_id": "66496d03bb9b4c14",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ernesto Ibarra",
+      "opponent_elo": 1520.3,
+      "outcome": "red_win",
+      "post_elo": 1530.0,
+      "pre_elo": 1510.0,
+      "red_name": "Devon Lozej",
+      "round": "2",
+      "time": "1:46",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Devon Lozej",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-08-22",
+      "elo_delta": -22.2,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "80fa7b6b662e9da0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Eduardo Henrique",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1510.0,
+      "pre_elo": 1532.2,
+      "red_name": "Eduardo Henrique",
+      "round": "1",
+      "time": "2:57",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Enrique Pacheco Parra",
+      "bout_type": "Catchweight (130 lb) Bout",
+      "date": "2025-01-25",
+      "elo_delta": 18.4,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "d0e964d5c0457f40",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (body kick)",
+      "opponent": "Enrique Pacheco Parra",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1517.9,
+      "red_name": "Devon Lozej",
+      "round": "2",
+      "time": "1:44",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Nate Smith",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": 16.2,
+      "event_name": "LFA 193: Bowers vs. Borisova",
+      "fight_id": "d96e2d41d40bc0d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Nate Smith",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1532.2,
+      "pre_elo": 1515.9,
+      "red_name": "Devon Lozej",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Reshal Malik",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-09-16",
+      "elo_delta": 17.9,
+      "event_name": "Legacy Fighting Alliance 142: Amorim vs. Nichols",
+      "fight_id": "097da8ca819715ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Reshal Malik",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1500.0,
+      "red_name": "Devon Lozej",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-16",
+      "fight_id": "097da8ca819715ce",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "097da8ca819715ce",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "d96e2d41d40bc0d5",
+      "rating": 1532.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "d96e2d41d40bc0d5",
+      "rating": 1530.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "d0e964d5c0457f40",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "d0e964d5c0457f40",
+      "rating": 1546.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "80fa7b6b662e9da0",
+      "rating": 1510.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "80fa7b6b662e9da0",
+      "rating": 1525.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "66496d03bb9b4c14",
+      "rating": 1530.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "66496d03bb9b4c14",
+      "rating": 1542.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-17",
+  "name": "Devon Lozej",
+  "nickname": "",
+  "overall_elo": 1542.8,
+  "peak_elo": 1546.2,
+  "slug": "devon-lozej",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

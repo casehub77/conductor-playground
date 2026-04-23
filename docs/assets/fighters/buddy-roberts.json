@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 491,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Buddy Roberts",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-08-11",
+      "elo_delta": -14.3,
+      "event_name": "UFC 150: Henderson vs Edgar II",
+      "fight_id": "141b0645dc96f0d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yushin Okami",
+      "opponent_elo": 1612.1,
+      "outcome": "red_win",
+      "post_elo": 1503.7,
+      "pre_elo": 1518.0,
+      "red_name": "Yushin Okami",
+      "round": "2.0",
+      "time": "3:05",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Caio Magalhaes",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-06-08",
+      "elo_delta": 18.0,
+      "event_name": "UFC on FX: Johnson vs McCall",
+      "fight_id": "6215b936fb8c8f73",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Caio Magalhaes",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Buddy Roberts",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2012-06-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-06-08",
+      "fight_id": "6215b936fb8c8f73",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-06-08",
+      "fight_id": "6215b936fb8c8f73",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-11",
+      "fight_id": "141b0645dc96f0d6",
+      "rating": 1503.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-08-11",
+      "fight_id": "141b0645dc96f0d6",
+      "rating": 1503.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-08-11",
+  "name": "Buddy Roberts",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "buddy-roberts",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

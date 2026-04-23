@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 690,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Adrian Serrano",
+      "bout_type": "Welterweight Bout",
+      "date": "2000-06-09",
+      "elo_delta": -17.2,
+      "event_name": "UFC 26: Ultimate Field Of Dreams",
+      "fight_id": "835328b570284dc4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Shonie Carter",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Shonie Carter",
+      "round": "2.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2000-06-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-06-09",
+      "fight_id": "835328b570284dc4",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2000-06-09",
+      "fight_id": "835328b570284dc4",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-06-09",
+  "name": "Adrian Serrano",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "adrian-serrano",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

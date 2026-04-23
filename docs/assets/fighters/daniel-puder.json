@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 157,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Richard Dalton",
+      "bout_type": "Heavyweight Bout",
+      "date": "2007-09-29",
+      "elo_delta": 15.1,
+      "event_name": "Strikeforce: Playboy Mansion",
+      "fight_id": "ae9a840506f3e172",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Richard Dalton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1571.3,
+      "pre_elo": 1556.1,
+      "red_name": "Daniel Puder",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mike Cook",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-12-08",
+      "elo_delta": 18.4,
+      "event_name": "Strikeforce: Triple Threat",
+      "fight_id": "f18d0fa7b3c2e066",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Mike Cook",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1556.1,
+      "pre_elo": 1537.8,
+      "red_name": "Daniel Puder",
+      "round": "2",
+      "time": "2:31",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tom Tuggle",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-06-09",
+      "elo_delta": 18.4,
+      "event_name": "Strikeforce: Revenge",
+      "fight_id": "ac487a1637b10b37",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Tom Tuggle",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Daniel Puder",
+      "round": "1",
+      "time": "0:28",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jesse Fujarczyk",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-03-10",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Shamrock vs. Gracie",
+      "fight_id": "dfb9fd164d833348",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Jesse Fujarczyk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Puder",
+      "round": "1",
+      "time": "1:54",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-10",
+      "fight_id": "dfb9fd164d833348",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-03-10",
+      "fight_id": "dfb9fd164d833348",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-06-09",
+      "fight_id": "ac487a1637b10b37",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-06-09",
+      "fight_id": "ac487a1637b10b37",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "f18d0fa7b3c2e066",
+      "rating": 1556.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "f18d0fa7b3c2e066",
+      "rating": 1550.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-09-29",
+      "fight_id": "ae9a840506f3e172",
+      "rating": 1571.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2007-09-29",
+      "fight_id": "ae9a840506f3e172",
+      "rating": 1563.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-09-29",
+  "name": "Daniel Puder",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1571.3,
+  "slug": "daniel-puder",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

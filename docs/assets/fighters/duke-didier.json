@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 449,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Duke Didier",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": -18.0,
+      "event_name": "ONE 158: Tawanchai vs. Larsen",
+      "fight_id": "dc6011ee6e0044f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Jasur Mirzamukhamedov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jasur Mirzamukhamedov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-03",
+      "fight_id": "dc6011ee6e0044f4",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "dc6011ee6e0044f4",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-03",
+  "name": "Duke Didier",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "duke-didier",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

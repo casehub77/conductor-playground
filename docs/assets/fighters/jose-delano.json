@@ -1,0 +1,126 @@
+{
+  "current_elo": 1503.7,
+  "divisional_rank": 268,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jair Jesuino",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-09-30",
+      "elo_delta": 17.3,
+      "event_name": "Legacy Fighting Alliance 143: Lopes vs. Paiva",
+      "fight_id": "77793824a649e820",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Jair Jesuino",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.8,
+      "red_name": "José Delano",
+      "round": "1",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Michael Stack",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": 19.8,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "016bce9ee24b72f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Michael Stack",
+      "opponent_elo": 1552.6,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1518.0,
+      "red_name": "José Delano",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jonas Bilharinho",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-03-11",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 126: Bilharinho vs. Delano",
+      "fight_id": "391e0d06063ed00c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jonas Bilharinho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "José Delano",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-11",
+      "fight_id": "391e0d06063ed00c",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "391e0d06063ed00c",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "016bce9ee24b72f0",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "016bce9ee24b72f0",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-30",
+      "fight_id": "77793824a649e820",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-09-30",
+      "fight_id": "77793824a649e820",
+      "rating": 1549.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-30",
+  "name": "José Delano",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1555.1,
+  "slug": "jose-delano",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

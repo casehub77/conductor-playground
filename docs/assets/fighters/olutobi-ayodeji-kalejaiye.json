@@ -1,0 +1,92 @@
+{
+  "current_elo": 1503.1,
+  "divisional_rank": 101,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nicolaj Wagner",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-03-07",
+      "elo_delta": 20.4,
+      "event_name": "Oktagon 85: Severino vs. Kakhorov",
+      "fight_id": "b47ab23538164263",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch to the body)",
+      "opponent": "Nicolaj Wagner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.1,
+      "pre_elo": 1482.7,
+      "red_name": "Olutobi Ayodeji Kalejaiye",
+      "round": "2",
+      "time": "3:20",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Olutobi Ayodeji Kalejaiye",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": -17.3,
+      "event_name": "Oktagon 78: Eckerlin vs. Trušček",
+      "fight_id": "dd6f6bdd634a7dcb",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Patrick Vespaziani",
+      "opponent_elo": 1538.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Patrick Vespaziani",
+      "round": "1",
+      "time": "2:23",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-10-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-18",
+      "fight_id": "dd6f6bdd634a7dcb",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "dd6f6bdd634a7dcb",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "b47ab23538164263",
+      "rating": 1503.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "b47ab23538164263",
+      "rating": 1502.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Olutobi Ayodeji Kalejaiye",
+  "nickname": "",
+  "overall_elo": 1502.5,
+  "peak_elo": 1503.1,
+  "slug": "olutobi-ayodeji-kalejaiye",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

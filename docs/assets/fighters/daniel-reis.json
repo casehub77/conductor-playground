@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 755,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Reis",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "83892f0b01d3a56d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Alfonso Leyva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Alfonso Leyva",
+      "round": "2",
+      "time": "1:10",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-07-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-08",
+      "fight_id": "83892f0b01d3a56d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "83892f0b01d3a56d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-08",
+  "name": "Daniel Reis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "daniel-reis",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

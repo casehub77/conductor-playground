@@ -1,0 +1,194 @@
+{
+  "current_elo": 1517.4,
+  "divisional_rank": 207,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Melsik Baghdasaryan",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-02-22",
+      "elo_delta": -16.6,
+      "event_name": "UFC Fight Night: Cejudo vs. Song",
+      "fight_id": "61cacdad9c0610ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jean Silva",
+      "opponent_elo": 1585.9,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1533.9,
+      "red_name": "Jean Silva",
+      "round": "1.0",
+      "time": "4:15",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Melsik Baghdasaryan",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-07-15",
+      "elo_delta": 16.1,
+      "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+      "fight_id": "6b9ddc33b9b3e2ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tucker Lutz",
+      "opponent_elo": 1480.5,
+      "outcome": "blue_win",
+      "post_elo": 1533.9,
+      "pre_elo": 1517.9,
+      "red_name": "Tucker Lutz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Melsik Baghdasaryan",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": -20.5,
+      "event_name": "UFC 284: Makhachev vs. Volkanovski",
+      "fight_id": "d92edfbcd1a82858",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Josh Culibao",
+      "opponent_elo": 1519.6,
+      "outcome": "red_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1538.3,
+      "red_name": "Josh Culibao",
+      "round": "2.0",
+      "time": "2:02",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Bruno Souza",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-11-06",
+      "elo_delta": 18.9,
+      "event_name": "UFC 268: Usman vs. Covington 2",
+      "fight_id": "519f15367d52c45f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bruno Souza",
+      "opponent_elo": 1537.0,
+      "outcome": "red_win",
+      "post_elo": 1538.3,
+      "pre_elo": 1519.4,
+      "red_name": "Melsik Baghdasaryan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Melsik Baghdasaryan",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-07-31",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Hall vs. Strickland",
+      "fight_id": "e0028012bf8093e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Collin Anglin",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Collin Anglin",
+      "round": "2.0",
+      "time": "1:50",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-07-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-31",
+      "fight_id": "e0028012bf8093e5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-07-31",
+      "fight_id": "e0028012bf8093e5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "519f15367d52c45f",
+      "rating": 1538.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "519f15367d52c45f",
+      "rating": 1534.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "d92edfbcd1a82858",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "d92edfbcd1a82858",
+      "rating": 1515.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "6b9ddc33b9b3e2ee",
+      "rating": 1533.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "6b9ddc33b9b3e2ee",
+      "rating": 1530.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "61cacdad9c0610ae",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-02-22",
+      "fight_id": "61cacdad9c0610ae",
+      "rating": 1516.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-22",
+  "name": "Melsik Baghdasaryan",
+  "nickname": "",
+  "overall_elo": 1516.3,
+  "peak_elo": 1538.3,
+  "slug": "melsik-baghdasaryan",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

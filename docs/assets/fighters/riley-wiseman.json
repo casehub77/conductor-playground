@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 639,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Riley Wiseman",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": -18.8,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "5548fbdac8e79e71",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (corner stoppage)",
+      "opponent": "Jacobi Jones",
+      "opponent_elo": 1531.3,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1519.4,
+      "red_name": "Jacobi Jones",
+      "round": "1",
+      "time": "2:09",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Bryen Dao",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-03-25",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 127: Diaz vs. Assis",
+      "fight_id": "5c7f6cce163c1318",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Bryen Dao",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Riley Wiseman",
+      "round": "2",
+      "time": "1:36",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-25",
+      "fight_id": "5c7f6cce163c1318",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "5c7f6cce163c1318",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "5548fbdac8e79e71",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "5548fbdac8e79e71",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-03",
+  "name": "Riley Wiseman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "riley-wiseman",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

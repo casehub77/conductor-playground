@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 391,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Lucas Martins",
+      "bout_type": "Featherweight Bout",
+      "date": "2016-04-10",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Rothwell vs Dos Santos",
+      "fight_id": "d2791480625f9f34",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Robert Whiteford",
+      "opponent_elo": 1502.0,
+      "outcome": "blue_win",
+      "post_elo": 1521.7,
+      "pre_elo": 1503.8,
+      "red_name": "Robert Whiteford",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mirsad Bektic",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-05-30",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Condit vs Alves",
+      "fight_id": "0d61d19a44d4bde2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mirsad Bektic",
+      "opponent_elo": 1536.7,
+      "outcome": "blue_win",
+      "post_elo": 1503.8,
+      "pre_elo": 1522.4,
+      "red_name": "Lucas Martins",
+      "round": "2.0",
+      "time": "0:30",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Lucas Martins",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-10-25",
+      "elo_delta": -16.4,
+      "event_name": "UFC 179: Aldo vs Mendes 2",
+      "fight_id": "9f8a9c3c9d24791d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Darren Elkins",
+      "opponent_elo": 1569.6,
+      "outcome": "red_win",
+      "post_elo": 1522.4,
+      "pre_elo": 1538.8,
+      "red_name": "Darren Elkins",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Alex White",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-07-16",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Cowboy vs Miller",
+      "fight_id": "b2ad26ac45d4713c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alex White",
+      "opponent_elo": 1518.7,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1519.4,
+      "red_name": "Lucas Martins",
+      "round": "3.0",
+      "time": "2:08",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ramiro Hernandez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2013-09-04",
+      "elo_delta": 19.3,
+      "event_name": "UFC Fight Night: Teixeira vs Bader",
+      "fight_id": "dc3a500fc68747e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ramiro Hernandez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1521.5,
+      "pre_elo": 1502.2,
+      "red_name": "Lucas Martins",
+      "round": "1.0",
+      "time": "1:10",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jeremy Larsen",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-05-18",
+      "elo_delta": 19.3,
+      "event_name": "UFC on FX: Belfort vs. Rockhold",
+      "fight_id": "fe3a627f3f68b7d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jeremy Larsen",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1502.8,
+      "pre_elo": 1483.5,
+      "red_name": "Lucas Martins",
+      "round": "3.0",
+      "time": "0:13",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Lucas Martins",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-01-19",
+      "elo_delta": -16.5,
+      "event_name": "UFC on FX: Belfort vs Bisping",
+      "fight_id": "6545dc7d8617f0ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Edson Barboza",
+      "opponent_elo": 1553.2,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Edson Barboza",
+      "round": "1.0",
+      "time": "2:38",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2013-01-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-01-19",
+      "fight_id": "6545dc7d8617f0ec",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-01-19",
+      "fight_id": "6545dc7d8617f0ec",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-05-18",
+      "fight_id": "fe3a627f3f68b7d4",
+      "rating": 1502.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-05-18",
+      "fight_id": "fe3a627f3f68b7d4",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "dc3a500fc68747e8",
+      "rating": 1521.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "dc3a500fc68747e8",
+      "rating": 1519.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-07-16",
+      "fight_id": "b2ad26ac45d4713c",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-07-16",
+      "fight_id": "b2ad26ac45d4713c",
+      "rating": 1536.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-10-25",
+      "fight_id": "9f8a9c3c9d24791d",
+      "rating": 1522.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-10-25",
+      "fight_id": "9f8a9c3c9d24791d",
+      "rating": 1521.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-30",
+      "fight_id": "0d61d19a44d4bde2",
+      "rating": 1503.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-05-30",
+      "fight_id": "0d61d19a44d4bde2",
+      "rating": 1505.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-04-10",
+      "fight_id": "d2791480625f9f34",
+      "rating": 1521.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-04-10",
+      "fight_id": "d2791480625f9f34",
+      "rating": 1520.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-04-10",
+  "name": "Lucas Martins",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.8,
+  "slug": "lucas-martins",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

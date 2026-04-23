@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 667,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dawid Martinik",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-01-15",
+      "elo_delta": -20.0,
+      "event_name": "KSW 66: Ziółkowski vs. Mańkowski",
+      "fight_id": "c2ebfaf6aeeebf0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Patryk Surdyn",
+      "opponent_elo": 1460.3,
+      "outcome": "red_win",
+      "post_elo": 1480.0,
+      "pre_elo": 1500.0,
+      "red_name": "Patryk Surdyn",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-01-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-15",
+      "fight_id": "c2ebfaf6aeeebf0d",
+      "rating": 1480.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-01-15",
+      "fight_id": "c2ebfaf6aeeebf0d",
+      "rating": 1482.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-15",
+  "name": "Dawid Martinik",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "dawid-martinik",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

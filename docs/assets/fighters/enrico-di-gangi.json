@@ -1,0 +1,194 @@
+{
+  "current_elo": 1521.3,
+  "divisional_rank": 152,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Claudio Iancu",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-04-11",
+      "elo_delta": 20.4,
+      "event_name": "Cage Warriors 204: Rome",
+      "fight_id": "19259e085fcf716e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Claudio Iancu",
+      "opponent_elo": 1517.9,
+      "outcome": "red_win",
+      "post_elo": 1521.3,
+      "pre_elo": 1500.9,
+      "red_name": "Enrico Di Gangi",
+      "round": "1",
+      "time": "1:39",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jack McLoughlin",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 18.9,
+      "event_name": "Cage Warriors 198: Manchester",
+      "fight_id": "cf121e40383450c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Jack McLoughlin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1482.0,
+      "red_name": "Enrico Di Gangi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Enrico Di Gangi",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": -17.7,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "07b7e237ae1e7c0f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Gary Rooney",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1450.9,
+      "pre_elo": 1468.6,
+      "red_name": "Gary Rooney",
+      "round": "1",
+      "time": "4:06",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Enrico Di Gangi",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": -15.4,
+      "event_name": "Cage Warriors 185: Manchester",
+      "fight_id": "1abc239e7f2c0baf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Joe Fields",
+      "opponent_elo": 1534.7,
+      "outcome": "red_win",
+      "post_elo": 1468.6,
+      "pre_elo": 1484.0,
+      "red_name": "Joe Fields",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Enrico Di Gangi",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 170: Dublin",
+      "fight_id": "56b89ec53071619f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Scott Harvey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Scott Harvey",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-04-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-06",
+      "fight_id": "56b89ec53071619f",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "56b89ec53071619f",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "1abc239e7f2c0baf",
+      "rating": 1468.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "1abc239e7f2c0baf",
+      "rating": 1470.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "07b7e237ae1e7c0f",
+      "rating": 1450.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "07b7e237ae1e7c0f",
+      "rating": 1454.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "cf121e40383450c4",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "cf121e40383450c4",
+      "rating": 1472.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "19259e085fcf716e",
+      "rating": 1521.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "19259e085fcf716e",
+      "rating": 1491.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Enrico Di Gangi",
+  "nickname": "",
+  "overall_elo": 1491.9,
+  "peak_elo": 1521.3,
+  "slug": "enrico-di-gangi",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 781,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Matthieu Duclos",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 280: Bader vs. Kongo 2",
+      "fight_id": "2bd7eba0c811aafe",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Youcef Ouabbas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Youcef Ouabbas",
+      "round": "1",
+      "time": "4:17",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-06",
+      "fight_id": "2bd7eba0c811aafe",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "2bd7eba0c811aafe",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-06",
+  "name": "Matthieu Duclos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "matthieu-duclos",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

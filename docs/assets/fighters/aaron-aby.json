@@ -1,0 +1,194 @@
+{
+  "current_elo": 1442.9,
+  "divisional_rank": 706,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Aaron Aby",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": -15.9,
+      "event_name": "Oktagon 69: Holzer vs. Ilbay",
+      "fight_id": "22325ffdc2482725",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Mohammed Walid",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1442.9,
+      "pre_elo": 1458.8,
+      "red_name": "Mohammed Walid",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Aaron Aby",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-11-09",
+      "elo_delta": -20.9,
+      "event_name": "Oktagon 63: Buchinger vs. Nafuka",
+      "fight_id": "c9e08084d8f85902",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–26, 30–26)",
+      "opponent": "Zhalgas Zhumagulov",
+      "opponent_elo": 1424.0,
+      "outcome": "red_win",
+      "post_elo": 1458.8,
+      "pre_elo": 1479.7,
+      "red_name": "Zhalgas Zhumagulov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Aaron Aby",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": -17.9,
+      "event_name": "Oktagon 56: Aby vs. Creasey",
+      "fight_id": "8db60f84947dcff0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (50–45, 50–45, 50–45)",
+      "opponent": "Sam Creasey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1497.5,
+      "red_name": "Sam Creasey",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Christopher Daniel",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": 19.1,
+      "event_name": "Oktagon 52: Mågård vs. Cartwright",
+      "fight_id": "ea74ff931143ae99",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Christopher Daniel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.5,
+      "pre_elo": 1478.4,
+      "red_name": "Aaron Aby",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Aaron Aby",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": -21.6,
+      "event_name": "Oktagon 48: Aby vs. Garcia",
+      "fight_id": "b9040cec024b335b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Elias Garcia",
+      "opponent_elo": 1461.6,
+      "outcome": "red_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1500.0,
+      "red_name": "Elias Garcia",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-04",
+      "fight_id": "b9040cec024b335b",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "b9040cec024b335b",
+      "rating": 1481.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "ea74ff931143ae99",
+      "rating": 1497.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "ea74ff931143ae99",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "8db60f84947dcff0",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "8db60f84947dcff0",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "c9e08084d8f85902",
+      "rating": 1458.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "c9e08084d8f85902",
+      "rating": 1463.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "22325ffdc2482725",
+      "rating": 1442.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "22325ffdc2482725",
+      "rating": 1449.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-05",
+  "name": "Aaron Aby",
+  "nickname": "",
+  "overall_elo": 1449.4,
+  "peak_elo": 1500.0,
+  "slug": "aaron-aby",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

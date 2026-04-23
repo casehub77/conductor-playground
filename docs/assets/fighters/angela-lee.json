@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 128,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Angela Lee",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": -18.0,
+      "event_name": "ONE on Prime Video 2: Xiong vs. Lee 3",
+      "fight_id": "6c4fbc539936eb94",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Xiong Jing Nan",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1518.1,
+      "red_name": "Xiong Jing Nan",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Stamp Fairtex",
+      "bout_type": "Women's Atomweight Bout",
+      "date": "2022-03-26",
+      "elo_delta": 20.5,
+      "event_name": "ONE X: 10 Years Anniversary",
+      "fight_id": "e3aa1b2d7edf3d01",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Stamp Fairtex",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Angela Lee",
+      "round": "2",
+      "time": "4:50",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2022-03-26",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-03-26",
+      "fight_id": "e3aa1b2d7edf3d01",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "e3aa1b2d7edf3d01",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "6c4fbc539936eb94",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "6c4fbc539936eb94",
+      "rating": 1502.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-01",
+  "name": "Angela Lee",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.5,
+  "slug": "angela-lee",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

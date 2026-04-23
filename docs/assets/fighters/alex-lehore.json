@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 695,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Alex Lehoré",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": -19.6,
+      "event_name": "Oktagon 48: Aby vs. Garcia",
+      "fight_id": "ba716692d3e9b34c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Ion Surdu",
+      "opponent_elo": 1497.8,
+      "outcome": "red_win",
+      "post_elo": 1480.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ion Surdu",
+      "round": "1",
+      "time": "4:10",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-04",
+      "fight_id": "ba716692d3e9b34c",
+      "rating": 1480.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "ba716692d3e9b34c",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-04",
+  "name": "Alex Lehoré",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "alex-lehore",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

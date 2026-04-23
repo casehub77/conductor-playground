@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 462,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Justin Montalvo",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2023-10-07",
+      "elo_delta": -18.2,
+      "event_name": "Bellator 300: Nurmagomedov vs. Primus",
+      "fight_id": "16d43fe7ccdf210b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Dmytrii Hrytsenko",
+      "opponent_elo": 1516.8,
+      "outcome": "red_win",
+      "post_elo": 1502.3,
+      "pre_elo": 1520.4,
+      "red_name": "Dmytrii Hrytsenko",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Justin Montalvo",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-03-31",
+      "elo_delta": -17.1,
+      "event_name": "Bellator 293: Golm vs. James",
+      "fight_id": "305f6ef9f9971e7b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Archie Colgan",
+      "opponent_elo": 1580.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1537.5,
+      "red_name": "Archie Colgan",
+      "round": "1",
+      "time": "3:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Corey Samuels",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": 19.5,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "7bd197646deb7daa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Corey Samuels",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1537.5,
+      "pre_elo": 1518.0,
+      "red_name": "Justin Montalvo",
+      "round": "1",
+      "time": "2:43",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jacob Bohn",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-12-03",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 272: Pettis vs. Horiguchi",
+      "fight_id": "9e04294ed8640c13",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–28, 29–28)",
+      "opponent": "Jacob Bohn",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Montalvo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-03",
+      "fight_id": "9e04294ed8640c13",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "9e04294ed8640c13",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "7bd197646deb7daa",
+      "rating": 1537.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "7bd197646deb7daa",
+      "rating": 1533.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "305f6ef9f9971e7b",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-03-31",
+      "fight_id": "305f6ef9f9971e7b",
+      "rating": 1518.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "16d43fe7ccdf210b",
+      "rating": 1502.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "16d43fe7ccdf210b",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Justin Montalvo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.5,
+  "slug": "justin-montalvo",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

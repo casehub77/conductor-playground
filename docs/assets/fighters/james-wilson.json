@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 691,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "James Wilson",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": -18.9,
+      "event_name": "Legacy Fighting Alliance 124: Formiga vs. Bunes",
+      "fight_id": "e28ea3f4114d9031",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ahmad Suhail Hassanzada",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Ahmad Suhail Hassanzada",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Daniel Jefferson",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-05-14",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 107: Kirk vs. Swain",
+      "fight_id": "c102273c1cecd7d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Daniel Jefferson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "James Wilson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-05-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-05-14",
+      "fight_id": "c102273c1cecd7d0",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-05-14",
+      "fight_id": "c102273c1cecd7d0",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "e28ea3f4114d9031",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "e28ea3f4114d9031",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-11",
+  "name": "James Wilson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "james-wilson",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

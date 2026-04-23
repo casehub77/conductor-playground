@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 367,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Payton Brezinski",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-10-21",
+      "elo_delta": 17.9,
+      "event_name": "Legacy Fighting Alliance 145: Assis vs. Murray",
+      "fight_id": "cf478b4cac1df143",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Payton Brezinski",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1483.0,
+      "red_name": "Cody Linne",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Cody Linne",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-02-04",
+      "elo_delta": -17.0,
+      "event_name": "Legacy Fighting Alliance 123: Argueta vs. Santos",
+      "fight_id": "020df8bd3ecc2080",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kevin Fernandez",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kevin Fernandez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-04",
+      "fight_id": "020df8bd3ecc2080",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-02-04",
+      "fight_id": "020df8bd3ecc2080",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "cf478b4cac1df143",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "cf478b4cac1df143",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-21",
+  "name": "Cody Linne",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "slug": "cody-linne",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

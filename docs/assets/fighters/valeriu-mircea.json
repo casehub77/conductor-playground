@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 763,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Gracjan Szadziński",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2022-11-12",
+      "elo_delta": 21.8,
+      "event_name": "KSW 76: Parnasse vs. Rajewski",
+      "fight_id": "322dc61924797739",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Gracjan Szadziński",
+      "opponent_elo": 1525.7,
+      "outcome": "red_win",
+      "post_elo": 1505.8,
+      "pre_elo": 1484.0,
+      "red_name": "Valeriu Mircea",
+      "round": "1",
+      "time": "1:39",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Valeriu Mircea",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2022-06-18",
+      "elo_delta": -16.0,
+      "event_name": "KSW 71: Ziółkowski vs. Rajewski",
+      "fight_id": "e296fee133321f3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Hand Injury)",
+      "opponent": "Roman Szymański",
+      "opponent_elo": 1562.1,
+      "outcome": "red_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Szymański",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-06-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-18",
+      "fight_id": "e296fee133321f3a",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "e296fee133321f3a",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "322dc61924797739",
+      "rating": 1505.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "322dc61924797739",
+      "rating": 1504.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-12",
+  "name": "Valeriu Mircea",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1505.8,
+  "slug": "valeriu-mircea",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

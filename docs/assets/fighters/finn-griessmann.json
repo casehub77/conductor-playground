@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.6,
+  "divisional_rank": 1212,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Finn Griessmann",
+      "bout_type": "Catchweight (176 lb) Bout",
+      "date": "2025-09-13",
+      "elo_delta": -17.0,
+      "event_name": "Oktagon 75: Palokaj vs. Batfalský",
+      "fight_id": "f19767364eaa7d42",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Jixie Molapo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Jixie Molapo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Finn Griessmann",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": -19.4,
+      "event_name": "Oktagon 49: Moeil vs. Todev",
+      "fight_id": "5996eb4672a93ace",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Lukáš Eliáš",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Lukáš Eliáš",
+      "round": "1",
+      "time": "2:39",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-18",
+      "fight_id": "5996eb4672a93ace",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "5996eb4672a93ace",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "f19767364eaa7d42",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "f19767364eaa7d42",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-13",
+  "name": "Finn Griessmann",
+  "nickname": "",
+  "overall_elo": 1467.5,
+  "peak_elo": 1500.0,
+  "slug": "finn-griessmann",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

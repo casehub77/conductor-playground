@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1212,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yuki Kawana",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2021-06-27",
+      "elo_delta": -17.2,
+      "event_name": "Rizin 29 – Osaka",
+      "fight_id": "9a5678c762d2655b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yusuke Yachi",
+      "opponent_elo": 1496.6,
+      "outcome": "red_win",
+      "post_elo": 1463.8,
+      "pre_elo": 1481.0,
+      "red_name": "Yusuke Yachi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Yuki Kawana",
+      "bout_type": "Lightweight 71 kg Bout",
+      "date": "2020-09-27",
+      "elo_delta": -19.0,
+      "event_name": "Rizin 24 - Saitama",
+      "fight_id": "43d1a1dcf8868e23",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Koji Takeda",
+      "opponent_elo": 1481.5,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Koji Takeda",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2020-09-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-09-27",
+      "fight_id": "43d1a1dcf8868e23",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-09-27",
+      "fight_id": "43d1a1dcf8868e23",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-27",
+      "fight_id": "9a5678c762d2655b",
+      "rating": 1463.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-06-27",
+      "fight_id": "9a5678c762d2655b",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-06-27",
+  "name": "Yuki Kawana",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "yuki-kawana",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

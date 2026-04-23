@@ -1,0 +1,194 @@
+{
+  "current_elo": 1447.6,
+  "divisional_rank": 303,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Montserrat Conejo Ruiz",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": -17.2,
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "fight_id": "0d6f889b30d0907f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alice Ardelean",
+      "opponent_elo": 1481.1,
+      "outcome": "red_win",
+      "post_elo": 1447.6,
+      "pre_elo": 1464.8,
+      "red_name": "Alice Ardelean",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Montserrat Conejo Ruiz",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Almeida vs. Lewis",
+      "fight_id": "8e28008f6bcaf120",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eduarda Moura",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.8,
+      "pre_elo": 1483.3,
+      "red_name": "Eduarda Moura",
+      "round": "2.0",
+      "time": "2:14",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Montserrat Conejo Ruiz",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-08-12",
+      "elo_delta": -16.6,
+      "event_name": "UFC Fight Night: Luque vs. Dos Anjos",
+      "fight_id": "efd36159a3fa0168",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jaqueline Amorim",
+      "opponent_elo": 1550.6,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1499.9,
+      "red_name": "Jaqueline Amorim",
+      "round": "3.0",
+      "time": "3:41",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Montserrat Conejo Ruiz",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-07-17",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Makhachev vs. Moises",
+      "fight_id": "43642ca4040999ab",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Amanda Lemos",
+      "opponent_elo": 1542.7,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1518.0,
+      "red_name": "Amanda Lemos",
+      "round": "1.0",
+      "time": "0:35",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Montserrat Conejo Ruiz",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-03-20",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Brunson vs. Holland",
+      "fight_id": "bb95363486935932",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cheyanne Vlismas",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Cheyanne Vlismas",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-03-20",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-03-20",
+      "fight_id": "bb95363486935932",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-03-20",
+      "fight_id": "bb95363486935932",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-07-17",
+      "fight_id": "43642ca4040999ab",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-07-17",
+      "fight_id": "43642ca4040999ab",
+      "rating": 1499.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-08-12",
+      "fight_id": "efd36159a3fa0168",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-08-12",
+      "fight_id": "efd36159a3fa0168",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "8e28008f6bcaf120",
+      "rating": 1464.8,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "8e28008f6bcaf120",
+      "rating": 1468.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "0d6f889b30d0907f",
+      "rating": 1447.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "0d6f889b30d0907f",
+      "rating": 1452.9,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-01",
+  "name": "Montserrat Conejo Ruiz",
+  "nickname": "",
+  "overall_elo": 1452.9,
+  "peak_elo": 1518.0,
+  "slug": "montserrat-conejo-ruiz",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1519.3,
+  "divisional_rank": 76,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Douglas Andrew",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-03-27",
+      "elo_delta": 19.4,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "27de9b08dfdc61bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Douglas Andrew",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.3,
+      "pre_elo": 1499.9,
+      "red_name": "Alan Ribeiro",
+      "round": "1",
+      "time": "0:55",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Alan Ribeiro",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-09-05",
+      "elo_delta": -19.6,
+      "event_name": "LFA 216: Silva vs. Bertolso",
+      "fight_id": "87fe469e0fc62c75",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Levi Rodrigues",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1519.4,
+      "red_name": "Levi Rodrigues",
+      "round": "1",
+      "time": "2:47",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "José Carlos Lima",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-05-24",
+      "elo_delta": 19.4,
+      "event_name": "LFA 209: De Lara vs. Henrique",
+      "fight_id": "6a328a421fce1a70",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "José Carlos Lima",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Alan Ribeiro",
+      "round": "1",
+      "time": "2:11",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-05-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-24",
+      "fight_id": "6a328a421fce1a70",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-05-24",
+      "fight_id": "6a328a421fce1a70",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "87fe469e0fc62c75",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "87fe469e0fc62c75",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "27de9b08dfdc61bc",
+      "rating": 1519.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "27de9b08dfdc61bc",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Alan Ribeiro",
+  "nickname": "",
+  "overall_elo": 1517.3,
+  "peak_elo": 1519.4,
+  "slug": "alan-ribeiro",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

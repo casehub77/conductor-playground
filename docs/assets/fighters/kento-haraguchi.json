@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 487,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Hideaki Yamazaki",
+      "bout_type": "Super lightweight 65 kg Bout",
+      "date": "2022-06-19",
+      "elo_delta": 18.5,
+      "event_name": "The Match 2022",
+      "fight_id": "3ba911cd767fdbfc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO",
+      "opponent": "Hideaki Yamazaki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Kento Haraguchi",
+      "round": "2",
+      "time": "0:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Taiga Kawabe",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2020-08-10",
+      "elo_delta": 19.4,
+      "event_name": "Rizin 23 – Calling Over",
+      "fight_id": "b937f7c251305519",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Taiga Kawabe",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kento Haraguchi",
+      "round": "1",
+      "time": "2:50",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2018-09-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-09-30",
+      "fight_id": "5ef4e795383b7f92",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "b937f7c251305519",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "b937f7c251305519",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-19",
+      "fight_id": "3ba911cd767fdbfc",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-19",
+      "fight_id": "3ba911cd767fdbfc",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-19",
+  "name": "Kento Haraguchi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.8,
+  "slug": "kento-haraguchi",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

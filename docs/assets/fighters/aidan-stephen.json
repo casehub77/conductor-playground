@@ -1,0 +1,160 @@
+{
+  "current_elo": 1506.1,
+  "divisional_rank": 258,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Aidan Stephen",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": -20.7,
+      "event_name": "Cage Warriors 192: London",
+      "fight_id": "be949fa3ae659eef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Weslley Maia",
+      "opponent_elo": 1504.3,
+      "outcome": "red_win",
+      "post_elo": 1506.1,
+      "pre_elo": 1526.8,
+      "red_name": "Weslley Maia",
+      "round": "1",
+      "time": "4:53",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jordy Bakkes",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2025-04-19",
+      "elo_delta": 27.7,
+      "event_name": "Cage Warriors 187: Glasgow",
+      "fight_id": "31e30d7744c7b56a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jordy Bakkes",
+      "opponent_elo": 1481.7,
+      "outcome": "red_win",
+      "post_elo": 1526.8,
+      "pre_elo": 1499.1,
+      "red_name": "Aidan Stephen",
+      "round": "3",
+      "time": "1:58",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Aidan Stephen",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -18.9,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "e53f3f685ddb5164",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (20–17, 20–17, 20–18)",
+      "opponent": "Alexander Lööf",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Alexander Lööf",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Gianluca Scottoli",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 171: Glasgow",
+      "fight_id": "ad13fdc9deba6e4e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Gianluca Scottoli",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Aidan Stephen",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "ad13fdc9deba6e4e",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "ad13fdc9deba6e4e",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "e53f3f685ddb5164",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "e53f3f685ddb5164",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "31e30d7744c7b56a",
+      "rating": 1526.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-04-19",
+      "fight_id": "31e30d7744c7b56a",
+      "rating": 1524.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "be949fa3ae659eef",
+      "rating": 1506.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "be949fa3ae659eef",
+      "rating": 1505.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-12",
+  "name": "Aidan Stephen",
+  "nickname": "",
+  "overall_elo": 1505.7,
+  "peak_elo": 1526.8,
+  "slug": "aidan-stephen",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.6,
+  "divisional_rank": 166,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Makhmud Muradov",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-02-03",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Dolidze vs. Imavov",
+      "fight_id": "fc4b49a6df518430",
+      "gender": "men",
+      "is_title": false,
+      "method": "Could Not Continue",
+      "opponent": "Makhmud Muradov",
+      "opponent_elo": 1533.5,
+      "outcome": "no_contest",
+      "post_elo": 1519.4,
+      "pre_elo": 1519.4,
+      "red_name": "Aliaskhab Khizriev",
+      "round": "1.0",
+      "time": "0:11",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Denis Tiuliulin",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-03-26",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Blaydes vs. Daukaus",
+      "fight_id": "f9c907925977a8e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Denis Tiuliulin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Aliaskhab Khizriev",
+      "round": "2.0",
+      "time": "1:58",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-03-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-26",
+      "fight_id": "f9c907925977a8e7",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-03-26",
+      "fight_id": "f9c907925977a8e7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "fc4b49a6df518430",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "fc4b49a6df518430",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-02-03",
+  "name": "Aliaskhab Khizriev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "aliaskhab-khizriev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

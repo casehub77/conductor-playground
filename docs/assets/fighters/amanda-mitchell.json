@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 161,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Amanda Mitchell",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-02-19",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 100: Altamirano vs. Smith",
+      "fight_id": "e45962429a8214ac",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Maria Henderson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Maria Henderson",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-02-19",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-02-19",
+      "fight_id": "e45962429a8214ac",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-02-19",
+      "fight_id": "e45962429a8214ac",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-02-19",
+  "name": "Amanda Mitchell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "amanda-mitchell",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

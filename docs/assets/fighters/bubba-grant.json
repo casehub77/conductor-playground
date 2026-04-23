@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 268,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Trevor Wallace",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-04-30",
+      "elo_delta": 20.5,
+      "event_name": "Legacy Fighting Alliance 106: Silveira vs. Viana",
+      "fight_id": "91457063c569cf05",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Trevor Wallace",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Bubba Grant",
+      "round": "1",
+      "time": "1:36",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-04-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-30",
+      "fight_id": "91457063c569cf05",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-04-30",
+      "fight_id": "91457063c569cf05",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-04-30",
+  "name": "Bubba Grant",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.5,
+  "slug": "bubba-grant",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

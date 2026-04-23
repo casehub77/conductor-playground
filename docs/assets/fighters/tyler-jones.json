@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 650,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Casey Boykin",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": 19.4,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "8d76851176751638",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Casey Boykin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tyler Jones",
+      "round": "1",
+      "time": "2:12",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-01-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-13",
+      "fight_id": "8d76851176751638",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "8d76851176751638",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Tyler Jones",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "tyler-jones",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

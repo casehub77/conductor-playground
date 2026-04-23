@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 411,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Tony Kelley",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-06-18",
+      "elo_delta": -16.6,
+      "event_name": "UFC Fight Night: Kattar vs. Emmett",
+      "fight_id": "8cae55ee666da6f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Adrian Yanez",
+      "opponent_elo": 1571.8,
+      "outcome": "red_win",
+      "post_elo": 1504.5,
+      "pre_elo": 1521.1,
+      "red_name": "Adrian Yanez",
+      "round": "1.0",
+      "time": "3:49",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tony Kelley",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-12-11",
+      "elo_delta": 19.3,
+      "event_name": "UFC 269: Oliveira vs. Poirier",
+      "fight_id": "2823f3d56aeb1c6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Randy Costa",
+      "opponent_elo": 1498.9,
+      "outcome": "blue_win",
+      "post_elo": 1521.1,
+      "pre_elo": 1501.9,
+      "red_name": "Randy Costa",
+      "round": "2.0",
+      "time": "4:15",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tony Kelley",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-10-10",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Moraes vs. Sandhagen",
+      "fight_id": "72f9ee0f2e48944b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ali Alqaisi",
+      "opponent_elo": 1481.2,
+      "outcome": "blue_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1484.0,
+      "red_name": "Ali Alqaisi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tony Kelley",
+      "bout_type": "Featherweight Bout",
+      "date": "2020-08-15",
+      "elo_delta": -18.0,
+      "event_name": "UFC 252: Miocic vs. Cormier 3",
+      "fight_id": "80760b593f2d1824",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kai Kamaka III",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kai Kamaka III",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-08-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-15",
+      "fight_id": "80760b593f2d1824",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-08-15",
+      "fight_id": "80760b593f2d1824",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-10",
+      "fight_id": "72f9ee0f2e48944b",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-10-10",
+      "fight_id": "72f9ee0f2e48944b",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-11",
+      "fight_id": "2823f3d56aeb1c6e",
+      "rating": 1521.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-12-11",
+      "fight_id": "2823f3d56aeb1c6e",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "8cae55ee666da6f2",
+      "rating": 1504.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "8cae55ee666da6f2",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-18",
+  "name": "Tony Kelley",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.1,
+  "slug": "tony-kelley",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

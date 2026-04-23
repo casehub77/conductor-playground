@@ -1,0 +1,92 @@
+{
+  "current_elo": 1502.4,
+  "divisional_rank": 284,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Wojciech Kawa",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-03-14",
+      "elo_delta": 20.4,
+      "event_name": "XTB KSW 116: Bartosiński vs. Fleminas",
+      "fight_id": "39206d7958518c86",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (arm injury)",
+      "opponent": "Wojciech Kawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Oleksandr Moisa",
+      "round": "1",
+      "time": "2:44",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Oleksandr Moisa",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-01-17",
+      "elo_delta": -18.0,
+      "event_name": "XTB KSW 114: Parnasse vs. Held",
+      "fight_id": "a44a2742f840f8e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Iras Khizriev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Iras Khizriev",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2026-01-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-01-17",
+      "fight_id": "a44a2742f840f8e3",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "a44a2742f840f8e3",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "39206d7958518c86",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "39206d7958518c86",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-14",
+  "name": "Oleksandr Moisa",
+  "nickname": "",
+  "overall_elo": 1502.1,
+  "peak_elo": 1502.4,
+  "slug": "oleksandr-moisa",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1464.1,
+  "divisional_rank": 1223,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jan Mašek",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-04-18",
+      "elo_delta": -17.0,
+      "event_name": "XTB KSW 117: Pawlak vs. Khalidov",
+      "fight_id": "f97da3f425067ff9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Nacim Belhouachi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1481.1,
+      "red_name": "Nacim Belhouachi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jan Mašek",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": -19.3,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "ac8ed715f031729a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (body kick)",
+      "opponent": "Luca Borando",
+      "opponent_elo": 1502.1,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.5,
+      "red_name": "Luca Borando",
+      "round": "2",
+      "time": "4:21",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Harry Shaw",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-21",
+      "elo_delta": 19.9,
+      "event_name": "Cage Warriors 186: London",
+      "fight_id": "a1e81e3cca0f3df5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Harry Shaw",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1480.6,
+      "red_name": "Jan Mašek",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jan Mašek",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 177: Unplugged",
+      "fight_id": "ff6b34bc89859935",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (arm-triangle choke)",
+      "opponent": "Connor Patterson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Connor Patterson",
+      "round": "3",
+      "time": "3:39",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-09-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-20",
+      "fight_id": "ff6b34bc89859935",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "ff6b34bc89859935",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "a1e81e3cca0f3df5",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "a1e81e3cca0f3df5",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "ac8ed715f031729a",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "ac8ed715f031729a",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "f97da3f425067ff9",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "f97da3f425067ff9",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-18",
+  "name": "Jan Mašek",
+  "nickname": "",
+  "overall_elo": 1467.8,
+  "peak_elo": 1500.5,
+  "slug": "jan-masek",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 284,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Josh Sampo",
+      "bout_type": "Flyweight Bout",
+      "date": "2015-05-23",
+      "elo_delta": -17.5,
+      "event_name": "UFC 187: Johnson vs Cormier",
+      "fight_id": "5bb0b2fcb7684c08",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Justin Scoggins",
+      "opponent_elo": 1496.6,
+      "outcome": "red_win",
+      "post_elo": 1468.6,
+      "pre_elo": 1486.1,
+      "red_name": "Justin Scoggins",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Josh Sampo",
+      "bout_type": "Flyweight Bout",
+      "date": "2014-07-19",
+      "elo_delta": -19.8,
+      "event_name": "UFC Fight Night: McGregor vs Brandao",
+      "fight_id": "0c6dbcfcb13dbf5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Paddy Holohan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1486.1,
+      "pre_elo": 1505.9,
+      "red_name": "Paddy Holohan",
+      "round": "1.0",
+      "time": "3:06",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Josh Sampo",
+      "bout_type": "Flyweight Bout",
+      "date": "2014-02-22",
+      "elo_delta": -13.6,
+      "event_name": "UFC 170: Rousey vs McMann",
+      "fight_id": "28f172807d81eb50",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Zach Makovsky",
+      "opponent_elo": 1606.7,
+      "outcome": "red_win",
+      "post_elo": 1505.9,
+      "pre_elo": 1519.4,
+      "red_name": "Zach Makovsky",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ryan Benoit",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-11-30",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Rousey vs. Team Tate Finale",
+      "fight_id": "f3f4a307b0a4e01e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ryan Benoit",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Josh Sampo",
+      "round": "2.0",
+      "time": "4:31",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2013-11-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-11-30",
+      "fight_id": "f3f4a307b0a4e01e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-11-30",
+      "fight_id": "f3f4a307b0a4e01e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-02-22",
+      "fight_id": "28f172807d81eb50",
+      "rating": 1505.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2014-02-22",
+      "fight_id": "28f172807d81eb50",
+      "rating": 1505.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-07-19",
+      "fight_id": "0c6dbcfcb13dbf5c",
+      "rating": 1486.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2014-07-19",
+      "fight_id": "0c6dbcfcb13dbf5c",
+      "rating": 1487.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-23",
+      "fight_id": "5bb0b2fcb7684c08",
+      "rating": 1468.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2015-05-23",
+      "fight_id": "5bb0b2fcb7684c08",
+      "rating": 1472.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-05-23",
+  "name": "Josh Sampo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "josh-sampo",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

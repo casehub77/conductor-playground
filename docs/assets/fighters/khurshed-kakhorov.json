@@ -1,0 +1,126 @@
+{
+  "current_elo": 1480.3,
+  "divisional_rank": 1061,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Khurshed Kakhorov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-03-07",
+      "elo_delta": -19.2,
+      "event_name": "Oktagon 85: Severino vs. Kakhorov",
+      "fight_id": "43f80fe93c50525d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Igor Severino",
+      "opponent_elo": 1503.4,
+      "outcome": "red_win",
+      "post_elo": 1480.3,
+      "pre_elo": 1499.5,
+      "red_name": "Igor Severino",
+      "round": "2",
+      "time": "1:38",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Khurshed Kakhorov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 275: Mousasi vs. Vanderford",
+      "fight_id": "717d0b986c31fc98",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Brett Johns",
+      "opponent_elo": 1534.9,
+      "outcome": "red_win",
+      "post_elo": 1499.5,
+      "pre_elo": 1518.0,
+      "red_name": "Brett Johns",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jair Junior",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "04adc24dafbd734e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Jair Junior",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Khurshed Kakhorov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-01",
+      "fight_id": "04adc24dafbd734e",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "04adc24dafbd734e",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "717d0b986c31fc98",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "717d0b986c31fc98",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "43f80fe93c50525d",
+      "rating": 1480.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "43f80fe93c50525d",
+      "rating": 1482.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Khurshed Kakhorov",
+  "nickname": "",
+  "overall_elo": 1482.3,
+  "peak_elo": 1518.0,
+  "slug": "khurshed-kakhorov",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

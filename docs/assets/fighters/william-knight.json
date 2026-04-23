@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 181,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Marcin Prachnio",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-02-18",
+      "elo_delta": -21.7,
+      "event_name": "UFC Fight Night: Andrade vs. Blanchfield",
+      "fight_id": "ae47d93f1f248265",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Marcin Prachnio",
+      "opponent_elo": 1467.7,
+      "outcome": "blue_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1540.1,
+      "red_name": "William Knight",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "William Knight",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-04-16",
+      "elo_delta": -20.4,
+      "event_name": "UFC Fight Night: Luque vs. Muhammad",
+      "fight_id": "21163bf3c577da23",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Devin Clark",
+      "opponent_elo": 1495.9,
+      "outcome": "red_win",
+      "post_elo": 1493.4,
+      "pre_elo": 1513.8,
+      "red_name": "Devin Clark",
+      "round": "3.0",
+      "time": "3:21",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Maxim Grishin",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-02-12",
+      "elo_delta": -21.6,
+      "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+      "fight_id": "edc4e2fca277ef2e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Maxim Grishin",
+      "opponent_elo": 1465.6,
+      "outcome": "blue_win",
+      "post_elo": 1513.8,
+      "pre_elo": 1535.4,
+      "red_name": "William Knight",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "William Knight",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-12-04",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Font vs. Aldo",
+      "fight_id": "ad2b00bfcefca027",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alonzo Menifield",
+      "opponent_elo": 1541.6,
+      "outcome": "blue_win",
+      "post_elo": 1540.1,
+      "pre_elo": 1521.0,
+      "red_name": "Alonzo Menifield",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Fabio Cherant",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-08-21",
+      "elo_delta": 19.2,
+      "event_name": "UFC Fight Night: Cannonier vs. Gastelum",
+      "fight_id": "df9d0d2a3946a726",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Fabio Cherant",
+      "opponent_elo": 1496.7,
+      "outcome": "red_win",
+      "post_elo": 1521.0,
+      "pre_elo": 1501.8,
+      "red_name": "William Knight",
+      "round": "1.0",
+      "time": "3:58",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "William Knight",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-04-10",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Vettori vs. Holland",
+      "fight_id": "b10bb8b913ec143a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Da Woon Jung",
+      "opponent_elo": 1536.1,
+      "outcome": "red_win",
+      "post_elo": 1501.8,
+      "pre_elo": 1519.0,
+      "red_name": "Da Woon Jung",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Aleksa Camur",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-09-26",
+      "elo_delta": 19.0,
+      "event_name": "UFC 253: Adesanya vs. Costa",
+      "fight_id": "1cad6ee6d6e5778a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aleksa Camur",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "William Knight",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2020-09-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-09-26",
+      "fight_id": "1cad6ee6d6e5778a",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-09-26",
+      "fight_id": "1cad6ee6d6e5778a",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "b10bb8b913ec143a",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "b10bb8b913ec143a",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "df9d0d2a3946a726",
+      "rating": 1521.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "df9d0d2a3946a726",
+      "rating": 1518.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-04",
+      "fight_id": "ad2b00bfcefca027",
+      "rating": 1540.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-12-04",
+      "fight_id": "ad2b00bfcefca027",
+      "rating": 1535.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "edc4e2fca277ef2e",
+      "rating": 1513.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "edc4e2fca277ef2e",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "21163bf3c577da23",
+      "rating": 1493.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "21163bf3c577da23",
+      "rating": 1498.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-18",
+      "fight_id": "ae47d93f1f248265",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-02-18",
+      "fight_id": "ae47d93f1f248265",
+      "rating": 1480.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-18",
+  "name": "William Knight",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1540.1,
+  "slug": "william-knight",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

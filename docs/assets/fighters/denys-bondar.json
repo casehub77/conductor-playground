@@ -1,0 +1,126 @@
+{
+  "current_elo": 1461.6,
+  "divisional_rank": 693,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Denys Bondar",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-02-24",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Moreno vs. Royval 2",
+      "fight_id": "ceb69312e20e2d22",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ronaldo Rodriguez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1445.3,
+      "pre_elo": 1462.6,
+      "red_name": "Ronaldo Rodriguez",
+      "round": "2.0",
+      "time": "4:59",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Denys Bondar",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+      "fight_id": "dca967120defc980",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Carlos Hernandez",
+      "opponent_elo": 1497.7,
+      "outcome": "red_win",
+      "post_elo": 1462.6,
+      "pre_elo": 1479.7,
+      "red_name": "Carlos Hernandez",
+      "round": "3.0",
+      "time": "4:59",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Denys Bondar",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-02-05",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Hermansson vs. Strickland",
+      "fight_id": "a8d8aa4baa353aac",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Malcolm Gordon",
+      "opponent_elo": 1484.9,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Malcolm Gordon",
+      "round": "1.0",
+      "time": "1:22",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-05",
+      "fight_id": "a8d8aa4baa353aac",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-02-05",
+      "fight_id": "a8d8aa4baa353aac",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "dca967120defc980",
+      "rating": 1462.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "dca967120defc980",
+      "rating": 1466.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "ceb69312e20e2d22",
+      "rating": 1445.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "ceb69312e20e2d22",
+      "rating": 1451.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-02-24",
+  "name": "Denys Bondar",
+  "nickname": "",
+  "overall_elo": 1467.4,
+  "peak_elo": 1500.0,
+  "slug": "denys-bondar",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

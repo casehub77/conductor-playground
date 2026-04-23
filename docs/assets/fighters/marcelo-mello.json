@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 626,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "David Roberts",
+      "bout_type": "Lightweight Bout",
+      "date": "1999-05-07",
+      "elo_delta": 19.4,
+      "event_name": "UFC 20: Battle for the Gold",
+      "fight_id": "ee1668464200df62",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "David Roberts",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marcelo Mello",
+      "round": "1.0",
+      "time": "1:23",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "1999-05-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-05-07",
+      "fight_id": "ee1668464200df62",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1999-05-07",
+      "fight_id": "ee1668464200df62",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-05-07",
+  "name": "Marcelo Mello",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "marcelo-mello",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

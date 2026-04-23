@@ -1,0 +1,92 @@
+{
+  "current_elo": 1483.2,
+  "divisional_rank": 1121,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Val Woodburn",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-02-17",
+      "elo_delta": -17.1,
+      "event_name": "UFC 298: Volkanovski vs. Topuria",
+      "fight_id": "837bdd293fb9556e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Oban Elliott",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1466.4,
+      "pre_elo": 1483.5,
+      "red_name": "Oban Elliott",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Val Woodburn",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-07-08",
+      "elo_delta": -18.5,
+      "event_name": "UFC 290: Volkanovski vs. Rodriguez",
+      "fight_id": "60951e207bdace77",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Bo Nickal",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Bo Nickal",
+      "round": "1.0",
+      "time": "0:38",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-07-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-08",
+      "fight_id": "60951e207bdace77",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-07-08",
+      "fight_id": "60951e207bdace77",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "837bdd293fb9556e",
+      "rating": 1466.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "837bdd293fb9556e",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-02-17",
+  "name": "Val Woodburn",
+  "nickname": "",
+  "overall_elo": 1485.1,
+  "peak_elo": 1500.0,
+  "slug": "val-woodburn",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

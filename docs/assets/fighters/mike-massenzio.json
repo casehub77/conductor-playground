@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 388,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Karlos Vemola",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-05-05",
+      "elo_delta": -19.6,
+      "event_name": "UFC on FOX: Diaz vs Miller",
+      "fight_id": "5889eb567b2d0506",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Karlos Vemola",
+      "opponent_elo": 1484.3,
+      "outcome": "blue_win",
+      "post_elo": 1467.4,
+      "pre_elo": 1487.0,
+      "red_name": "Mike Massenzio",
+      "round": "2.0",
+      "time": "1:07",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Mike Massenzio",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-01-14",
+      "elo_delta": -15.4,
+      "event_name": "UFC 142: Aldo vs Mendes",
+      "fight_id": "0219c6e15c1c3152",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Rousimar Palhares",
+      "opponent_elo": 1576.1,
+      "outcome": "red_win",
+      "post_elo": 1487.0,
+      "pre_elo": 1502.4,
+      "red_name": "Rousimar Palhares",
+      "round": "1.0",
+      "time": "1:03",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Mike Massenzio",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-10-08",
+      "elo_delta": 19.6,
+      "event_name": "UFC 136: Edgar vs Maynard 3",
+      "fight_id": "0e22454bdf55ee88",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Steve Cantwell",
+      "opponent_elo": 1514.5,
+      "outcome": "blue_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.7,
+      "red_name": "Steve Cantwell",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Krzysztof Soszynski",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-06-11",
+      "elo_delta": -14.5,
+      "event_name": "UFC 131: Dos Santos vs Carwin",
+      "fight_id": "38de8e1e84dfda03",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Krzysztof Soszynski",
+      "opponent_elo": 1552.3,
+      "outcome": "blue_win",
+      "post_elo": 1470.2,
+      "pre_elo": 1484.7,
+      "red_name": "Mike Massenzio",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Mike Massenzio",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-08-01",
+      "elo_delta": -17.1,
+      "event_name": "UFC Live: Jones vs Matyushenko",
+      "fight_id": "59bee671a30a08a9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brian Stann",
+      "opponent_elo": 1541.0,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1499.9,
+      "red_name": "Brian Stann",
+      "round": "3.0",
+      "time": "3:10",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Mike Massenzio",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-12-27",
+      "elo_delta": -20.5,
+      "event_name": "UFC 92: The Ultimate 2008",
+      "fight_id": "73495495a287473d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cb Dollaway",
+      "opponent_elo": 1501.1,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1520.4,
+      "red_name": "Cb Dollaway",
+      "round": "1.0",
+      "time": "3:01",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Drew Mcfedries",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-09-17",
+      "elo_delta": 20.4,
+      "event_name": "UFC Fight Night: Diaz vs Neer",
+      "fight_id": "48bc74974cc55506",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Drew Mcfedries",
+      "opponent_elo": 1516.7,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Massenzio",
+      "round": "1.0",
+      "time": "1:28",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2008-09-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-09-17",
+      "fight_id": "48bc74974cc55506",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-09-17",
+      "fight_id": "48bc74974cc55506",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-27",
+      "fight_id": "73495495a287473d",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-12-27",
+      "fight_id": "73495495a287473d",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-01",
+      "fight_id": "59bee671a30a08a9",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-08-01",
+      "fight_id": "59bee671a30a08a9",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-11",
+      "fight_id": "38de8e1e84dfda03",
+      "rating": 1470.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-06-11",
+      "fight_id": "38de8e1e84dfda03",
+      "rating": 1471.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-08",
+      "fight_id": "0e22454bdf55ee88",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-10-08",
+      "fight_id": "0e22454bdf55ee88",
+      "rating": 1489.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-01-14",
+      "fight_id": "0219c6e15c1c3152",
+      "rating": 1487.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-01-14",
+      "fight_id": "0219c6e15c1c3152",
+      "rating": 1476.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-05-05",
+      "fight_id": "5889eb567b2d0506",
+      "rating": 1467.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-05-05",
+      "fight_id": "5889eb567b2d0506",
+      "rating": 1459.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-05-05",
+  "name": "Mike Massenzio",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "slug": "mike-massenzio",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

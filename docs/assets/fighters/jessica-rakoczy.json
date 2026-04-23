@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 249,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Valerie Letourneau",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2015-04-25",
+      "elo_delta": -15.5,
+      "event_name": "UFC 186: Johnson vs Horiguchi",
+      "fight_id": "66f6ebde346b0a62",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Valerie Letourneau",
+      "opponent_elo": 1516.0,
+      "outcome": "blue_win",
+      "post_elo": 1452.0,
+      "pre_elo": 1467.5,
+      "red_name": "Jessica Rakoczy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jessica Rakoczy",
+      "bout_type": "Ultimate Fighter 18 Women's Bantamweight Tournament Title Bout",
+      "date": "2013-11-30",
+      "elo_delta": -18.5,
+      "event_name": "The Ultimate Fighter: Team Rousey vs. Team Tate Finale",
+      "fight_id": "d3cb359c5ac58973",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Julianna Pena",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.5,
+      "pre_elo": 1484.0,
+      "red_name": "Julianna Pena",
+      "round": "1.0",
+      "time": "4:59",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jessica Rakoczy",
+      "bout_type": "Women's bout Bout",
+      "date": "2010-04-15",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 14",
+      "fight_id": "aad985f315c295f1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 29–28, 28–29)",
+      "opponent": "Felice Herrig",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Felice Herrig",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Unknown"
+    }
+  ],
+  "first_fight_date": "2010-04-15",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2010-04-15",
+      "fight_id": "aad985f315c295f1",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Unknown"
+    },
+    {
+      "date": "2010-04-15",
+      "fight_id": "aad985f315c295f1",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2013-11-30",
+      "fight_id": "d3cb359c5ac58973",
+      "rating": 1465.5,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2013-11-30",
+      "fight_id": "d3cb359c5ac58973",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-04-25",
+      "fight_id": "66f6ebde346b0a62",
+      "rating": 1452.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2015-04-25",
+      "fight_id": "66f6ebde346b0a62",
+      "rating": 1453.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": true,
+  "last_fight_date": "2015-04-25",
+  "name": "Jessica Rakoczy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jessica-rakoczy",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

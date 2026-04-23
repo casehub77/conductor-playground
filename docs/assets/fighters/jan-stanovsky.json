@@ -1,0 +1,160 @@
+{
+  "current_elo": 1536.6,
+  "divisional_rank": 115,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Łukasz Rajewski",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-04-11",
+      "elo_delta": 17.0,
+      "event_name": "Oktagon 86: Materla vs. Jungwirth",
+      "fight_id": "802d1794074525b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Łukasz Rajewski",
+      "opponent_elo": 1476.6,
+      "outcome": "red_win",
+      "post_elo": 1536.6,
+      "pre_elo": 1519.6,
+      "red_name": "Jan Stanovský",
+      "round": "2",
+      "time": "4:16",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Daniel Solaja",
+      "bout_type": "Catchweight (159 lb) Bout",
+      "date": "2025-06-14",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 72: Vémola vs. Végh 3",
+      "fight_id": "c458d9fb1aef9cb0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Daniel Solaja",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1499.1,
+      "red_name": "Jan Stanovský",
+      "round": "3",
+      "time": "4:33",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jan Stanovský",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-12-07",
+      "elo_delta": -18.9,
+      "event_name": "Oktagon 64: Brito vs. Surdu",
+      "fight_id": "e065e3ca8011b161",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Fedor Duric",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Fedor Duric",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Gleb Shadrin",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 61: Paradeiser vs. Duque",
+      "fight_id": "630e5700dd41d8be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Gleb Shadrin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jan Stanovský",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-21",
+      "fight_id": "630e5700dd41d8be",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "630e5700dd41d8be",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "e065e3ca8011b161",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "e065e3ca8011b161",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "c458d9fb1aef9cb0",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "c458d9fb1aef9cb0",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "802d1794074525b4",
+      "rating": 1536.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "802d1794074525b4",
+      "rating": 1534.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Jan Stanovský",
+  "nickname": "",
+  "overall_elo": 1534.0,
+  "peak_elo": 1536.6,
+  "slug": "jan-stanovsky",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

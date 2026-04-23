@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.8,
+  "divisional_rank": 72,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Eric Mcconico",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-11-15",
+      "elo_delta": 17.4,
+      "event_name": "UFC 322: Della Maddalena vs. Makhachev",
+      "fight_id": "ab22eea6ea5f935a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eric Mcconico",
+      "opponent_elo": 1482.8,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1519.4,
+      "red_name": "Baisangur Susurkaev",
+      "round": "3.0",
+      "time": "1:38",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Eric Nolan",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-08-16",
+      "elo_delta": 19.4,
+      "event_name": "UFC 319: Du Plessis vs. Chimaev",
+      "fight_id": "f7c408a69d059c0a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Eric Nolan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Baisangur Susurkaev",
+      "round": "2.0",
+      "time": "2:01",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-08-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-16",
+      "fight_id": "f7c408a69d059c0a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-08-16",
+      "fight_id": "f7c408a69d059c0a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "ab22eea6ea5f935a",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "ab22eea6ea5f935a",
+      "rating": 1533.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-15",
+  "name": "Baisangur Susurkaev",
+  "nickname": "",
+  "overall_elo": 1533.8,
+  "peak_elo": 1536.8,
+  "slug": "baisangur-susurkaev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

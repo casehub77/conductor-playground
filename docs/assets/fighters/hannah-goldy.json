@@ -1,0 +1,194 @@
+{
+  "current_elo": 1475.7,
+  "divisional_rank": 290,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Hannah Goldy",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-09-23",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Fiziev vs. Gamrot",
+      "fight_id": "69be36199ac59917",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mizuki",
+      "opponent_elo": 1497.5,
+      "outcome": "red_win",
+      "post_elo": 1448.8,
+      "pre_elo": 1465.1,
+      "red_name": "Mizuki",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Hannah Goldy",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-07-23",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Blaydes vs. Aspinall",
+      "fight_id": "adbb4837d89fda5e",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Molly Mccann",
+      "opponent_elo": 1532.7,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1501.4,
+      "red_name": "Molly Mccann",
+      "round": "1.0",
+      "time": "3:52",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Hannah Goldy",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Smith vs. Spann",
+      "fight_id": "a7e45400032e626f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Emily Whitmire",
+      "opponent_elo": 1480.6,
+      "outcome": "blue_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1482.0,
+      "red_name": "Emily Whitmire",
+      "round": "1.0",
+      "time": "4:17",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Hannah Goldy",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-07-24",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "fight_id": "f4ccc9255ddc829f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Diana Belbita",
+      "opponent_elo": 1467.2,
+      "outcome": "red_win",
+      "post_elo": 1465.1,
+      "pre_elo": 1484.0,
+      "red_name": "Diana Belbita",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Hannah Goldy",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2019-08-03",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Covington vs. Lawler",
+      "fight_id": "220978865dd076d2",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Miranda Granger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Miranda Granger",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2019-08-03",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2019-08-03",
+      "fight_id": "220978865dd076d2",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2019-08-03",
+      "fight_id": "220978865dd076d2",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-07-24",
+      "fight_id": "f4ccc9255ddc829f",
+      "rating": 1465.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-07-24",
+      "fight_id": "f4ccc9255ddc829f",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "a7e45400032e626f",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "a7e45400032e626f",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-07-23",
+      "fight_id": "adbb4837d89fda5e",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-07-23",
+      "fight_id": "adbb4837d89fda5e",
+      "rating": 1470.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "69be36199ac59917",
+      "rating": 1448.8,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "69be36199ac59917",
+      "rating": 1455.4,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-23",
+  "name": "Hannah Goldy",
+  "nickname": "",
+  "overall_elo": 1482.3,
+  "peak_elo": 1501.4,
+  "slug": "hannah-goldy",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

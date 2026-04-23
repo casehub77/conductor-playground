@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1042,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Keisuke Okuda",
+      "bout_type": "Catchweight 73 kg Bout",
+      "date": "2021-11-28",
+      "elo_delta": -18.4,
+      "event_name": "Rizin Trigger 1",
+      "fight_id": "31a9cfafdb2b75bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Grant Bogdanove",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Grant Bogdanove",
+      "round": "1",
+      "time": "1:07",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Keisuke Okuda",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2021-10-02",
+      "elo_delta": -19.4,
+      "event_name": "Rizin Landmark vol.1",
+      "fight_id": "00277a7b7b137a28",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knee and Punches)",
+      "opponent": "Hiroaki Suzuki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Hiroaki Suzuki",
+      "round": "1",
+      "time": "1:42",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-10-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-02",
+      "fight_id": "00277a7b7b137a28",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-10-02",
+      "fight_id": "00277a7b7b137a28",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-28",
+      "fight_id": "31a9cfafdb2b75bf",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-11-28",
+      "fight_id": "31a9cfafdb2b75bf",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-28",
+  "name": "Keisuke Okuda",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "keisuke-okuda",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

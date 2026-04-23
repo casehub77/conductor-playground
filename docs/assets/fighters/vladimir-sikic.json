@@ -1,0 +1,92 @@
+{
+  "current_elo": 1489.6,
+  "divisional_rank": 1342,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Vladimir Šikić",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-09-16",
+      "elo_delta": -18.4,
+      "event_name": "Oktagon 46: Dalisda vs. Austin",
+      "fight_id": "efdac5ac1ce84fef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "František Fodor",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "František Fodor",
+      "round": "1",
+      "time": "3:36",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Vladimir Šikić",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": -19.4,
+      "event_name": "Oktagon 39: Jungwirth vs. Oliveira",
+      "fight_id": "9b47bdb19fa1cfba",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ronald Paradeiser",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ronald Paradeiser",
+      "round": "2",
+      "time": "2:08",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "9b47bdb19fa1cfba",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "9b47bdb19fa1cfba",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "efdac5ac1ce84fef",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "efdac5ac1ce84fef",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-16",
+  "name": "Vladimir Šikić",
+  "nickname": "",
+  "overall_elo": 1493.7,
+  "peak_elo": 1500.0,
+  "slug": "vladimir-sikic",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

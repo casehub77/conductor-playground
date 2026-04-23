@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 515,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jerome Rivera",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-07-10",
+      "elo_delta": -19.4,
+      "event_name": "UFC 264: Poirier vs. McGregor 3",
+      "fight_id": "f1889ec7d55bc0d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Zhalgas Zhumagulov",
+      "opponent_elo": 1465.1,
+      "outcome": "red_win",
+      "post_elo": 1445.7,
+      "pre_elo": 1465.1,
+      "red_name": "Zhalgas Zhumagulov",
+      "round": "1.0",
+      "time": "2:02",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jerome Rivera",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-02-06",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Overeem vs. Volkov",
+      "fight_id": "6f7b5fe5189dbd2d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ode Osbourne",
+      "opponent_elo": 1482.5,
+      "outcome": "red_win",
+      "post_elo": 1448.5,
+      "pre_elo": 1467.0,
+      "red_name": "Ode Osbourne",
+      "round": "1.0",
+      "time": "0:26",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jerome Rivera",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-01-20",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Chiesa vs. Magny",
+      "fight_id": "b747a2410ea5a5b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Francisco Figueiredo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.1,
+      "pre_elo": 1482.2,
+      "red_name": "Francisco Figueiredo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jerome Rivera",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-09-19",
+      "elo_delta": -19.9,
+      "event_name": "UFC Fight Night: Covington vs. Woodley",
+      "fight_id": "3d0a4eea4b6ddb6c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tyson Nam",
+      "opponent_elo": 1492.4,
+      "outcome": "red_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Tyson Nam",
+      "round": "2.0",
+      "time": "0:34",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-09-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-09-19",
+      "fight_id": "3d0a4eea4b6ddb6c",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-09-19",
+      "fight_id": "3d0a4eea4b6ddb6c",
+      "rating": 1482.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-01-20",
+      "fight_id": "b747a2410ea5a5b7",
+      "rating": 1465.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-01-20",
+      "fight_id": "b747a2410ea5a5b7",
+      "rating": 1467.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-02-06",
+      "fight_id": "6f7b5fe5189dbd2d",
+      "rating": 1448.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-02-06",
+      "fight_id": "6f7b5fe5189dbd2d",
+      "rating": 1450.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-07-10",
+      "fight_id": "f1889ec7d55bc0d5",
+      "rating": 1445.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-07-10",
+      "fight_id": "f1889ec7d55bc0d5",
+      "rating": 1434.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-07-10",
+  "name": "Jerome Rivera",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jerome-rivera",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

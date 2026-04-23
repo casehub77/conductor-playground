@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 464,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gabriel Sayeg",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "86f6d41c93bb6954",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (body kick and punches)",
+      "opponent": "Wladmir Gouvea",
+      "opponent_elo": 1517.6,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Wladmir Gouvea",
+      "round": "1",
+      "time": "0:20",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-06-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-06-16",
+      "fight_id": "86f6d41c93bb6954",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "86f6d41c93bb6954",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-16",
+  "name": "Gabriel Sayeg",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "gabriel-sayeg",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

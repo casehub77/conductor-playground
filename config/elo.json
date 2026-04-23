@@ -1,0 +1,38 @@
+{
+  "initial_rating": 1500,
+  "k_factor": 32,
+  "divisional_k_factor": 36,
+  "max_delta": 60,
+  "title_fight_multiplier": 1.1,
+  "finish_multiplier": 1.08,
+  "decision_multiplier": 1.0,
+  "recent_window_days": 90,
+  "mvp_since_date": "2020-01-01",
+  "source_stale_after_days": 21,
+  "catchweight": {
+    "lighter_win_multiplier": 1.5,
+    "lighter_loss_multiplier": 0.5,
+    "heavier_win_multiplier": 0.5,
+    "heavier_loss_multiplier": 1.5
+  },
+  "division_transfer": {
+    "enabled": true,
+    "overall_weight": 1.0,
+    "max_seed_delta": 350
+  },
+  "row_count_drift_tolerance": 0.25,
+  "all_time_peaks": {
+    "min_divisional_fights": 6,
+    "min_overall_fights": 6
+  },
+  "inactivity_decay": {
+    "enabled": true,
+    "after_days": 545,
+    "points_per_year": 25,
+    "floor": 1500
+  },
+  "validation": {
+    "min_fights_mvp": 1000,
+    "min_fights_full": 7000
+  }
+}

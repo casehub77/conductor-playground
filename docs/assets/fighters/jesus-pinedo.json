@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 731,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jesus Pinedo",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-03-23",
+      "elo_delta": -16.2,
+      "event_name": "UFC Fight Night: Thompson vs. Pettis",
+      "fight_id": "0227221cb47a7c53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "John Makdessi",
+      "opponent_elo": 1552.7,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1517.2,
+      "red_name": "John Makdessi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jesus Pinedo",
+      "bout_type": "Lightweight Bout",
+      "date": "2018-11-17",
+      "elo_delta": 17.2,
+      "event_name": "UFC Fight Night: Magny vs. Ponzinibbio",
+      "fight_id": "d652c99da4ea73d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Devin Powell",
+      "opponent_elo": 1484.6,
+      "outcome": "blue_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Devin Powell",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-11-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-11-17",
+      "fight_id": "d652c99da4ea73d7",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-11-17",
+      "fight_id": "d652c99da4ea73d7",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-03-23",
+      "fight_id": "0227221cb47a7c53",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-03-23",
+      "fight_id": "0227221cb47a7c53",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-03-23",
+  "name": "Jesus Pinedo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.2,
+  "slug": "jesus-pinedo",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

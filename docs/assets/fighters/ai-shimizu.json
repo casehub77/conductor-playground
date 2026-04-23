@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 64,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ai Shimizu",
+      "bout_type": "W.Super Atomweight 49 kg Bout",
+      "date": "2020-12-31",
+      "elo_delta": -14.8,
+      "event_name": "Rizin 26 – Saitama",
+      "fight_id": "8876b62c2bbba368",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kanna Asakura",
+      "opponent_elo": 1581.4,
+      "outcome": "red_win",
+      "post_elo": 1503.2,
+      "pre_elo": 1518.0,
+      "red_name": "Kanna Asakura",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Tabatha Watkins",
+      "bout_type": "Super Atomweight 49 kg Bout",
+      "date": "2019-08-18",
+      "elo_delta": 18.0,
+      "event_name": "Rizin 18 - Nagoya",
+      "fight_id": "95bd53670c16ddc2",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Tabatha Watkins",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ai Shimizu",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2019-08-18",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2019-08-18",
+      "fight_id": "95bd53670c16ddc2",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2019-08-18",
+      "fight_id": "95bd53670c16ddc2",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-12-31",
+      "fight_id": "8876b62c2bbba368",
+      "rating": 1503.2,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2020-12-31",
+      "fight_id": "8876b62c2bbba368",
+      "rating": 1502.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-12-31",
+  "name": "Ai Shimizu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "ai-shimizu",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

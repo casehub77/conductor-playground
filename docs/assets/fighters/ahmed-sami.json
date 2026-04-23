@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 403,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Adam Horváth",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-10-07",
+      "elo_delta": 19.4,
+      "event_name": "Oktagon 47: Vémola vs. Langer",
+      "fight_id": "05555dc3d40b645a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Adam Horváth",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ahmed Sami",
+      "round": "1",
+      "time": "3:49",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-10-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-07",
+      "fight_id": "05555dc3d40b645a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "05555dc3d40b645a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-10-07",
+  "name": "Ahmed Sami",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "ahmed-sami",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1486.8,
+  "divisional_rank": 970,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Devante Sewell",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-01-12",
+      "elo_delta": -17.3,
+      "event_name": "LFA 174: Jones vs. Gennrich",
+      "fight_id": "2c4d79d435a50271",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Adamu Isah",
+      "opponent_elo": 1498.5,
+      "outcome": "red_win",
+      "post_elo": 1467.5,
+      "pre_elo": 1484.8,
+      "red_name": "Adamu Isah",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Devante Sewell",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": -17.1,
+      "event_name": "Legacy Fighting Alliance 129: Petersen vs. Cortes-Acosta",
+      "fight_id": "dceed8e3688e3e15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Hyder Amil",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Hyder Amil",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-15",
+      "fight_id": "dceed8e3688e3e15",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "dceed8e3688e3e15",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "2c4d79d435a50271",
+      "rating": 1467.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "2c4d79d435a50271",
+      "rating": 1469.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-12",
+  "name": "Devante Sewell",
+  "nickname": "",
+  "overall_elo": 1488.7,
+  "peak_elo": 1500.0,
+  "slug": "devante-sewell",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 337,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Hyun Gyu Lim",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-09-22",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Saint Preux vs. Okami",
+      "fight_id": "6af36d042b7b76dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daichi Abe",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1486.1,
+      "pre_elo": 1504.4,
+      "red_name": "Daichi Abe",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mike Perry",
+      "bout_type": "Welterweight Bout",
+      "date": "2016-08-20",
+      "elo_delta": -20.8,
+      "event_name": "UFC 202: Diaz vs. McGregor 2",
+      "fight_id": "a1b3e6e47d0885d1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mike Perry",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1504.4,
+      "pre_elo": 1525.2,
+      "red_name": "Hyun Gyu Lim",
+      "round": "1.0",
+      "time": "3:38",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Neil Magny",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-05-16",
+      "elo_delta": -16.8,
+      "event_name": "UFC Fight Night: Edgar vs Faber",
+      "fight_id": "7df5e06eaeb8ed79",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Neil Magny",
+      "opponent_elo": 1589.5,
+      "outcome": "blue_win",
+      "post_elo": 1525.2,
+      "pre_elo": 1542.0,
+      "red_name": "Hyun Gyu Lim",
+      "round": "2.0",
+      "time": "1:24",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Takenori Sato",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-09-20",
+      "elo_delta": 17.0,
+      "event_name": "UFC Fight Night: Hunt vs Nelson",
+      "fight_id": "d6ef7f07f1e8042d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Takenori Sato",
+      "opponent_elo": 1481.3,
+      "outcome": "red_win",
+      "post_elo": 1542.0,
+      "pre_elo": 1525.0,
+      "red_name": "Hyun Gyu Lim",
+      "round": "1.0",
+      "time": "1:18",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Hyun Gyu Lim",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-01-04",
+      "elo_delta": -15.6,
+      "event_name": "UFC Fight Night: Saffiedine vs Lim",
+      "fight_id": "746f6f69d96cff4c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tarec Saffiedine",
+      "opponent_elo": 1587.4,
+      "outcome": "red_win",
+      "post_elo": 1525.0,
+      "pre_elo": 1540.6,
+      "red_name": "Tarec Saffiedine",
+      "round": "5.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Hyun Gyu Lim",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-08-31",
+      "elo_delta": 20.2,
+      "event_name": "UFC 164: Henderson vs Pettis 2",
+      "fight_id": "ec72e9177759574c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Pascal Krauss",
+      "opponent_elo": 1534.2,
+      "outcome": "blue_win",
+      "post_elo": 1540.6,
+      "pre_elo": 1520.4,
+      "red_name": "Pascal Krauss",
+      "round": "1.0",
+      "time": "3:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Hyun Gyu Lim",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-03-02",
+      "elo_delta": 20.4,
+      "event_name": "UFC on FUEL TV: Silva vs. Stann",
+      "fight_id": "f6eb48aa28d00bce",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marcelo Guimaraes",
+      "opponent_elo": 1517.0,
+      "outcome": "blue_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marcelo Guimaraes",
+      "round": "2.0",
+      "time": "4:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2013-03-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-03-02",
+      "fight_id": "f6eb48aa28d00bce",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-03-02",
+      "fight_id": "f6eb48aa28d00bce",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-31",
+      "fight_id": "ec72e9177759574c",
+      "rating": 1540.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-08-31",
+      "fight_id": "ec72e9177759574c",
+      "rating": 1536.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-01-04",
+      "fight_id": "746f6f69d96cff4c",
+      "rating": 1525.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-01-04",
+      "fight_id": "746f6f69d96cff4c",
+      "rating": 1521.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-09-20",
+      "fight_id": "d6ef7f07f1e8042d",
+      "rating": 1542.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-09-20",
+      "fight_id": "d6ef7f07f1e8042d",
+      "rating": 1536.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-05-16",
+      "fight_id": "7df5e06eaeb8ed79",
+      "rating": 1525.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-05-16",
+      "fight_id": "7df5e06eaeb8ed79",
+      "rating": 1521.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-08-20",
+      "fight_id": "a1b3e6e47d0885d1",
+      "rating": 1504.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2016-08-20",
+      "fight_id": "a1b3e6e47d0885d1",
+      "rating": 1503.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-09-22",
+      "fight_id": "6af36d042b7b76dd",
+      "rating": 1486.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-09-22",
+      "fight_id": "6af36d042b7b76dd",
+      "rating": 1487.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-09-22",
+  "name": "Hyun Gyu Lim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1542.0,
+  "slug": "hyun-gyu-lim",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

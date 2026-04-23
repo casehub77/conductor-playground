@@ -1,0 +1,160 @@
+{
+  "current_elo": 1468.6,
+  "divisional_rank": 1003,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Robert Valentin",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-04-18",
+      "elo_delta": 21.4,
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "e03efe2e5d3f1746",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Julien Leblanc",
+      "opponent_elo": 1482.0,
+      "outcome": "blue_win",
+      "post_elo": 1468.6,
+      "pre_elo": 1447.2,
+      "red_name": "Julien Leblanc",
+      "round": "1",
+      "time": "2:22",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Robert Valentin",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": -16.4,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "614452fd0334d9a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ateba Gautier",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1447.2,
+      "pre_elo": 1463.6,
+      "red_name": "Ateba Gautier",
+      "round": "1.0",
+      "time": "1:10",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Robert Valentin",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Emmett vs. Murphy",
+      "fight_id": "df6d747145d83688",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Torrez Finney",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Torrez Finney",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ryan Loder",
+      "bout_type": "Ultimate Fighter 32 Middleweight Tournament Title Bout",
+      "date": "2024-08-24",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Cannonier vs. Borralho",
+      "fight_id": "f82a12dc35b18127",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ryan Loder",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Robert Valentin",
+      "round": "2.0",
+      "time": "1:49",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-08-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-24",
+      "fight_id": "f82a12dc35b18127",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "f82a12dc35b18127",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "df6d747145d83688",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "df6d747145d83688",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "614452fd0334d9a7",
+      "rating": 1447.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "614452fd0334d9a7",
+      "rating": 1452.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "e03efe2e5d3f1746",
+      "rating": 1468.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "e03efe2e5d3f1746",
+      "rating": 1471.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-18",
+  "name": "Robert Valentin",
+  "nickname": "",
+  "overall_elo": 1471.5,
+  "peak_elo": 1500.0,
+  "slug": "robert-valentin",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

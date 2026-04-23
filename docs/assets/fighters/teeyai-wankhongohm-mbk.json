@@ -1,0 +1,99 @@
+{
+  "current_elo": 1504.0,
+  "divisional_rank": null,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Teeyai Wankhongohm MBK",
+      "bout_type": "Catchweight (116 lbs) Muay Thai Bout",
+      "date": "2025-03-14",
+      "elo_delta": -15.4,
+      "event_name": "ONE Friday Fights 100: Muangthai vs. Abdulmedzhidov",
+      "fight_id": "01caf5c006a7c59b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Songchainoi Kiatsongrit",
+      "opponent_elo": 1568.4,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1517.3,
+      "red_name": "Songchainoi Kiatsongrit",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Yoddoi Kaewsamrit",
+      "bout_type": "Atomweight Muay Thai Bout",
+      "date": "2024-09-20",
+      "elo_delta": 17.5,
+      "event_name": "ONE Friday Fights 80: Rak vs. Yodnumchai",
+      "fight_id": "0fed50c7cb1d1c2c",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Yoddoi Kaewsamrit",
+      "opponent_elo": 1464.9,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1500.0,
+      "red_name": "Teeyai Wankhongohm MBK",
+      "round": "1",
+      "time": "1:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2024-08-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-30",
+      "fight_id": "6d5a4fe0631bfb93",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "0fed50c7cb1d1c2c",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "0fed50c7cb1d1c2c",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "01caf5c006a7c59b",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-03-14",
+      "fight_id": "01caf5c006a7c59b",
+      "rating": 1504.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-14",
+  "name": "Teeyai Wankhongohm MBK",
+  "nickname": "",
+  "overall_elo": 1504.0,
+  "peak_elo": 1517.5,
+  "slug": "teeyai-wankhongohm-mbk",
+  "systems": {
+    "division": "men:Atomweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Atomweight"
+}

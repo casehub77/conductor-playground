@@ -1,0 +1,194 @@
+{
+  "current_elo": 1464.6,
+  "divisional_rank": 1113,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Taiga Kawabe",
+      "bout_type": "Catchweight 62 kg Bout",
+      "date": "2025-07-27",
+      "elo_delta": -17.1,
+      "event_name": "Super Rizin 4",
+      "fight_id": "ce84f6c18ec0b0f6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Shogo Kuriaki",
+      "opponent_elo": 1498.4,
+      "outcome": "red_win",
+      "post_elo": 1464.6,
+      "pre_elo": 1481.7,
+      "red_name": "Shogo Kuriaki",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Taiga Kawabe",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2024-12-31",
+      "elo_delta": -17.1,
+      "event_name": "Rizin 49: Decade",
+      "fight_id": "152c52e5ef5930d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Genji Umeno",
+      "opponent_elo": 1517.0,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1498.8,
+      "red_name": "Genji Umeno",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ryo Takahashi",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2022-03-20",
+      "elo_delta": -0.8,
+      "event_name": "Rizin 34 – Osaka",
+      "fight_id": "84091a4569f18468",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (Majority)",
+      "opponent": "Ryo Takahashi",
+      "opponent_elo": 1484.6,
+      "outcome": "draw",
+      "post_elo": 1498.8,
+      "pre_elo": 1499.6,
+      "red_name": "Taiga Kawabe",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Yuma Yamahata",
+      "bout_type": "Catchweight 60.5 kg Bout",
+      "date": "2020-11-21",
+      "elo_delta": 19.0,
+      "event_name": "Rizin 25 – Osaka",
+      "fight_id": "f5032464f79421c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yuma Yamahata",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1480.6,
+      "red_name": "Taiga Kawabe",
+      "round": "3",
+      "time": "9:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Taiga Kawabe",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2020-08-10",
+      "elo_delta": -19.4,
+      "event_name": "Rizin 23 – Calling Over",
+      "fight_id": "b937f7c251305519",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Kento Haraguchi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kento Haraguchi",
+      "round": "1",
+      "time": "2:50",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-08-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-10",
+      "fight_id": "b937f7c251305519",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "b937f7c251305519",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-11-21",
+      "fight_id": "f5032464f79421c3",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-11-21",
+      "fight_id": "f5032464f79421c3",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-20",
+      "fight_id": "84091a4569f18468",
+      "rating": 1498.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-03-20",
+      "fight_id": "84091a4569f18468",
+      "rating": 1498.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "152c52e5ef5930d0",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "152c52e5ef5930d0",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "ce84f6c18ec0b0f6",
+      "rating": 1464.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "ce84f6c18ec0b0f6",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-27",
+  "name": "Taiga Kawabe",
+  "nickname": "",
+  "overall_elo": 1468.4,
+  "peak_elo": 1500.0,
+  "slug": "taiga-kawabe",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

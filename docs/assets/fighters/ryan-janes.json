@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 510,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Janes",
+      "bout_type": "Middleweight Bout",
+      "date": "2017-12-01",
+      "elo_delta": 21.2,
+      "event_name": "The Ultimate Fighter: A New World Champion Finale",
+      "fight_id": "255ed6d512d7cb7b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Andrew Sanchez",
+      "opponent_elo": 1512.1,
+      "outcome": "blue_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1480.9,
+      "red_name": "Andrew Sanchez",
+      "round": "3.0",
+      "time": "0:58",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ryan Janes",
+      "bout_type": "Middleweight Bout",
+      "date": "2017-07-16",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "fight_id": "b779625e281513f9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jack Marshman",
+      "opponent_elo": 1504.4,
+      "outcome": "red_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1498.6,
+      "red_name": "Jack Marshman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ryan Janes",
+      "bout_type": "Middleweight Bout",
+      "date": "2017-02-19",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Lewis vs. Browne",
+      "fight_id": "4a15721c25ffa1e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gerald Meerschaert",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1498.6,
+      "pre_elo": 1518.0,
+      "red_name": "Gerald Meerschaert",
+      "round": "1.0",
+      "time": "1:34",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ryan Janes",
+      "bout_type": "Middleweight Bout",
+      "date": "2016-12-09",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Lewis vs. Abdurakhimov",
+      "fight_id": "50fd7db2d6ceb548",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Keith Berish",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Keith Berish",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2016-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-12-09",
+      "fight_id": "50fd7db2d6ceb548",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-12-09",
+      "fight_id": "50fd7db2d6ceb548",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-02-19",
+      "fight_id": "4a15721c25ffa1e8",
+      "rating": 1498.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2017-02-19",
+      "fight_id": "4a15721c25ffa1e8",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-07-16",
+      "fight_id": "b779625e281513f9",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2017-07-16",
+      "fight_id": "b779625e281513f9",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-12-01",
+      "fight_id": "255ed6d512d7cb7b",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2017-12-01",
+      "fight_id": "255ed6d512d7cb7b",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-12-01",
+  "name": "Ryan Janes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "ryan-janes",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 158,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Justin Willis",
+      "bout_type": "Heavyweight Bout",
+      "date": "2019-03-23",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Thompson vs. Pettis",
+      "fight_id": "91ec77cb228cb3c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Curtis Blaydes",
+      "opponent_elo": 1564.7,
+      "outcome": "red_win",
+      "post_elo": 1550.9,
+      "pre_elo": 1569.2,
+      "red_name": "Curtis Blaydes",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Justin Willis",
+      "bout_type": "Heavyweight Bout",
+      "date": "2018-12-01",
+      "elo_delta": 17.6,
+      "event_name": "UFC Fight Night: Dos Santos vs. Tuivasa",
+      "fight_id": "2d630d644c3dc197",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mark Hunt",
+      "opponent_elo": 1544.1,
+      "outcome": "blue_win",
+      "post_elo": 1569.2,
+      "pre_elo": 1551.5,
+      "red_name": "Mark Hunt",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Chase Sherman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2018-04-21",
+      "elo_delta": 15.1,
+      "event_name": "UFC Fight Night: Barboza vs. Lee",
+      "fight_id": "7a7afa28525f2730",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Chase Sherman",
+      "opponent_elo": 1480.1,
+      "outcome": "red_win",
+      "post_elo": 1551.5,
+      "pre_elo": 1536.4,
+      "red_name": "Justin Willis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Allen Crowder",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-12-02",
+      "elo_delta": 18.4,
+      "event_name": "UFC 218: Holloway vs. Aldo 2",
+      "fight_id": "67557843cbe4784e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Allen Crowder",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Justin Willis",
+      "round": "1.0",
+      "time": "2:33",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Justin Willis",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-07-16",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "fight_id": "45dadcbc8c690174",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "James Mulheron",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "James Mulheron",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-07-16",
+      "fight_id": "45dadcbc8c690174",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-07-16",
+      "fight_id": "45dadcbc8c690174",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-12-02",
+      "fight_id": "67557843cbe4784e",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-12-02",
+      "fight_id": "67557843cbe4784e",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-04-21",
+      "fight_id": "7a7afa28525f2730",
+      "rating": 1551.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-04-21",
+      "fight_id": "7a7afa28525f2730",
+      "rating": 1546.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "2d630d644c3dc197",
+      "rating": 1569.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "2d630d644c3dc197",
+      "rating": 1562.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-03-23",
+      "fight_id": "91ec77cb228cb3c3",
+      "rating": 1550.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2019-03-23",
+      "fight_id": "91ec77cb228cb3c3",
+      "rating": 1545.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-03-23",
+  "name": "Justin Willis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1569.2,
+  "slug": "justin-willis",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

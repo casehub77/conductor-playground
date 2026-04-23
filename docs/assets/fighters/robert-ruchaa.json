@@ -1,0 +1,194 @@
+{
+  "current_elo": 1533.2,
+  "divisional_rank": 119,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Damian Stasiak",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-10-14",
+      "elo_delta": 13.7,
+      "event_name": "KSW 75: Stasiak vs. Ruchała",
+      "fight_id": "7935cb0f7fb66be9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Damian Stasiak",
+      "opponent_elo": 1484.7,
+      "outcome": "red_win",
+      "post_elo": 1583.6,
+      "pre_elo": 1570.0,
+      "red_name": "Robert Ruchała",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Michele Baiano",
+      "bout_type": "Catchweight 68 kg Bout",
+      "date": "2022-04-23",
+      "elo_delta": 15.2,
+      "event_name": "KSW 69: Przybysz vs. Martins",
+      "fight_id": "e9c4f0fcfb3129ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Michele Baiano",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1570.0,
+      "pre_elo": 1554.8,
+      "red_name": "Robert Ruchała",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Patryk Kaczmarczyk",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-10-23",
+      "elo_delta": 17.0,
+      "event_name": "KSW 64: Przybysz vs. Santos",
+      "fight_id": "69fc1081a37f2159",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Patryk Kaczmarczyk",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1554.8,
+      "pre_elo": 1537.8,
+      "red_name": "Robert Ruchała",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Danijel Bažant",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-01-30",
+      "elo_delta": 18.4,
+      "event_name": "KSW 58: Parnasse vs. Torres",
+      "fight_id": "f0ae19b265aae450",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Danijel Bažant",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Robert Ruchała",
+      "round": "3",
+      "time": "3:37",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Michał Domin",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2020-11-14",
+      "elo_delta": 19.4,
+      "event_name": "KSW 56: Materla vs. Soldić",
+      "fight_id": "4963aa97aa561e7c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Michał Domin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Robert Ruchała",
+      "round": "1",
+      "time": "4:59",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-11-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-11-14",
+      "fight_id": "4963aa97aa561e7c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-11-14",
+      "fight_id": "4963aa97aa561e7c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-01-30",
+      "fight_id": "f0ae19b265aae450",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-01-30",
+      "fight_id": "f0ae19b265aae450",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "69fc1081a37f2159",
+      "rating": 1554.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "69fc1081a37f2159",
+      "rating": 1548.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "e9c4f0fcfb3129ce",
+      "rating": 1570.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "e9c4f0fcfb3129ce",
+      "rating": 1562.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "7935cb0f7fb66be9",
+      "rating": 1583.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "7935cb0f7fb66be9",
+      "rating": 1574.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-14",
+  "name": "Robert Ruchała",
+  "nickname": "",
+  "overall_elo": 1524.5,
+  "peak_elo": 1583.6,
+  "slug": "robert-ruchaa",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

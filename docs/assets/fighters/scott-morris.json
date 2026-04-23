@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 925,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sean Daugherty",
+      "bout_type": "Open Weight Bout",
+      "date": "1994-03-11",
+      "elo_delta": 20.5,
+      "event_name": "UFC 2: No Way Out",
+      "fight_id": "cf6336b5934f62e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Sean Daugherty",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1481.7,
+      "red_name": "Scott Morris",
+      "round": "1.0",
+      "time": "0:20",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Scott Morris",
+      "bout_type": "Open Weight Bout",
+      "date": "1994-03-11",
+      "elo_delta": -18.3,
+      "event_name": "UFC 2: No Way Out",
+      "fight_id": "467cb7814163f990",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Patrick Smith",
+      "opponent_elo": 1520.2,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Patrick Smith",
+      "round": "1.0",
+      "time": "0:30",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1994-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1994-03-11",
+      "fight_id": "467cb7814163f990",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1994-03-11",
+      "fight_id": "cf6336b5934f62e8",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1994-03-11",
+      "fight_id": "467cb7814163f990",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1994-03-11",
+      "fight_id": "cf6336b5934f62e8",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1994-03-11",
+  "name": "Scott Morris",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.2,
+  "slug": "scott-morris",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

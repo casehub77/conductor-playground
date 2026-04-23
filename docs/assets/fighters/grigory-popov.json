@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 690,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Davey Grant",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-11-09",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Zabit vs. Kattar",
+      "fight_id": "ba8157349b11e205",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Davey Grant",
+      "opponent_elo": 1463.1,
+      "outcome": "blue_win",
+      "post_elo": 1463.5,
+      "pre_elo": 1482.5,
+      "red_name": "Grigory Popov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Grigory Popov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-06-08",
+      "elo_delta": -17.5,
+      "event_name": "UFC 238: Cejudo vs. Moraes",
+      "fight_id": "57c8e3ea9ff7b9a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eddie Wineland",
+      "opponent_elo": 1535.2,
+      "outcome": "red_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1500.0,
+      "red_name": "Eddie Wineland",
+      "round": "2.0",
+      "time": "4:47",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2019-06-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-08",
+      "fight_id": "57c8e3ea9ff7b9a2",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-06-08",
+      "fight_id": "57c8e3ea9ff7b9a2",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "ba8157349b11e205",
+      "rating": 1463.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "ba8157349b11e205",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-11-09",
+  "name": "Grigory Popov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "grigory-popov",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

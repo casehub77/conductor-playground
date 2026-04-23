@@ -1,0 +1,126 @@
+{
+  "current_elo": 1485.3,
+  "divisional_rank": 1072,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Luke Riley",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": -16.6,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "1aeeac14740a9e92",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Luke Riley",
+      "opponent_elo": 1553.7,
+      "outcome": "blue_win",
+      "post_elo": 1485.3,
+      "pre_elo": 1501.9,
+      "red_name": "Bogdan Grad",
+      "round": "2.0",
+      "time": "0:30",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Bogdan Grad",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-06-21",
+      "elo_delta": -16.4,
+      "event_name": "UFC Fight Night: Hill vs. Rountree Jr.",
+      "fight_id": "027e5b3fb2bb1934",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Muhammad Naimov",
+      "opponent_elo": 1549.3,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1518.3,
+      "red_name": "Muhammad Naimov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Lucas Alexander",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": 18.3,
+      "event_name": "UFC Fight Night: Adesanya vs. Imavov",
+      "fight_id": "5bdc9bbeb5cd65c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Lucas Alexander",
+      "opponent_elo": 1479.3,
+      "outcome": "red_win",
+      "post_elo": 1518.3,
+      "pre_elo": 1500.0,
+      "red_name": "Bogdan Grad",
+      "round": "2.0",
+      "time": "4:22",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-02-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-01",
+      "fight_id": "5bdc9bbeb5cd65c4",
+      "rating": 1518.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "5bdc9bbeb5cd65c4",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-21",
+      "fight_id": "027e5b3fb2bb1934",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-06-21",
+      "fight_id": "027e5b3fb2bb1934",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "1aeeac14740a9e92",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "1aeeac14740a9e92",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Bogdan Grad",
+  "nickname": "",
+  "overall_elo": 1486.7,
+  "peak_elo": 1518.3,
+  "slug": "bogdan-grad",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

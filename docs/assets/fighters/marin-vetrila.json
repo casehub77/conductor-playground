@@ -1,0 +1,92 @@
+{
+  "current_elo": 1538.8,
+  "divisional_rank": 108,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yusuf Ali-Taleb",
+      "bout_type": "Catchweight (163 lb) Bout",
+      "date": "2026-03-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "10656178c48981f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Yusuf Ali-Taleb",
+      "opponent_elo": 1518.8,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1519.4,
+      "red_name": "Marin Vetrila",
+      "round": "2",
+      "time": "4:41",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Thomas Paull",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-15",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 196: London",
+      "fight_id": "ea3b73aa5b67c45f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch to the body)",
+      "opponent": "Thomas Paull",
+      "opponent_elo": 1499.3,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Marin Vetrila",
+      "round": "1",
+      "time": "1:25",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-11-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-15",
+      "fight_id": "ea3b73aa5b67c45f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "ea3b73aa5b67c45f",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "10656178c48981f5",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "10656178c48981f5",
+      "rating": 1534.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Marin Vetrila",
+  "nickname": "",
+  "overall_elo": 1534.5,
+  "peak_elo": 1538.8,
+  "slug": "marin-vetrila",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

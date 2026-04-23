@@ -1,0 +1,126 @@
+{
+  "current_elo": 1517.0,
+  "divisional_rank": 159,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Artur Szczepaniak",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": -21.1,
+      "event_name": "XTB KSW 115: Przybysz vs. Yakymenko",
+      "fight_id": "d9378a10c45cd2c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority) (28–28, 29–27, 29–27)",
+      "opponent": "Kacper Koziorzębski",
+      "opponent_elo": 1478.4,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1538.1,
+      "red_name": "Kacper Koziorzębski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brian Hooi",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2022-11-12",
+      "elo_delta": 18.7,
+      "event_name": "KSW 76: Parnasse vs. Rajewski",
+      "fight_id": "beca695fd3443860",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Head Kick and Punches)",
+      "opponent": "Brian Hooi",
+      "opponent_elo": 1505.4,
+      "outcome": "red_win",
+      "post_elo": 1538.1,
+      "pre_elo": 1519.4,
+      "red_name": "Artur Szczepaniak",
+      "round": "1",
+      "time": "0:43",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jivko Stoimenov",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2022-04-23",
+      "elo_delta": 19.4,
+      "event_name": "KSW 69: Przybysz vs. Martins",
+      "fight_id": "94d100b4dc56f77c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Jivko Stoimenov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Artur Szczepaniak",
+      "round": "1",
+      "time": "4:28",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-04-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-23",
+      "fight_id": "94d100b4dc56f77c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "94d100b4dc56f77c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "beca695fd3443860",
+      "rating": 1538.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-11-12",
+      "fight_id": "beca695fd3443860",
+      "rating": 1533.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "d9378a10c45cd2c5",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "d9378a10c45cd2c5",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Artur Szczepaniak",
+  "nickname": "",
+  "overall_elo": 1515.4,
+  "peak_elo": 1538.1,
+  "slug": "artur-szczepaniak",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

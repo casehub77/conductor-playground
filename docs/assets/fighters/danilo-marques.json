@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 214,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Danilo Marques",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-02-05",
+      "elo_delta": -20.1,
+      "event_name": "UFC Fight Night: Hermansson vs. Strickland",
+      "fight_id": "a37e88fca72f6a15",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jailton Almeida",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1492.5,
+      "pre_elo": 1512.7,
+      "red_name": "Jailton Almeida",
+      "round": "1.0",
+      "time": "2:57",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Danilo Marques",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-06-26",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Gane vs. Volkov",
+      "fight_id": "42bfcfc53d1146b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Kennedy Nzechukwu",
+      "opponent_elo": 1518.1,
+      "outcome": "red_win",
+      "post_elo": 1512.7,
+      "pre_elo": 1533.0,
+      "red_name": "Kennedy Nzechukwu",
+      "round": "3.0",
+      "time": "0:20",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Danilo Marques",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-02-06",
+      "elo_delta": 17.7,
+      "event_name": "UFC Fight Night: Overeem vs. Volkov",
+      "fight_id": "783d8e205b53f517",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mike Rodriguez",
+      "opponent_elo": 1484.1,
+      "outcome": "blue_win",
+      "post_elo": 1533.0,
+      "pre_elo": 1515.3,
+      "red_name": "Mike Rodriguez",
+      "round": "2.0",
+      "time": "4:52",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Danilo Marques",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-09-26",
+      "elo_delta": 15.3,
+      "event_name": "UFC 253: Adesanya vs. Costa",
+      "fight_id": "564057f02893c9ff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Khadis Ibragimov",
+      "opponent_elo": 1446.6,
+      "outcome": "blue_win",
+      "post_elo": 1515.3,
+      "pre_elo": 1500.0,
+      "red_name": "Khadis Ibragimov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2020-09-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-09-26",
+      "fight_id": "564057f02893c9ff",
+      "rating": 1515.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-09-26",
+      "fight_id": "564057f02893c9ff",
+      "rating": 1513.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-02-06",
+      "fight_id": "783d8e205b53f517",
+      "rating": 1533.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-02-06",
+      "fight_id": "783d8e205b53f517",
+      "rating": 1529.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-26",
+      "fight_id": "42bfcfc53d1146b3",
+      "rating": 1512.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-06-26",
+      "fight_id": "42bfcfc53d1146b3",
+      "rating": 1511.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-05",
+      "fight_id": "a37e88fca72f6a15",
+      "rating": 1492.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-02-05",
+      "fight_id": "a37e88fca72f6a15",
+      "rating": 1493.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-05",
+  "name": "Danilo Marques",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1533.0,
+  "slug": "danilo-marques",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

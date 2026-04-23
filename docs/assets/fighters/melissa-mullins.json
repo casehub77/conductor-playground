@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.1,
+  "divisional_rank": 46,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Melissa Mullins",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-06-21",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Hill vs. Rountree Jr.",
+      "fight_id": "fbac6673a61482e1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daria Zhelezniakova",
+      "opponent_elo": 1500.5,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1519.0,
+      "red_name": "Daria Zhelezniakova",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Klaudia Sygula",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-11-09",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Magny vs. Prates",
+      "fight_id": "98b8ffa21ccb8b8e",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Klaudia Sygula",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1499.6,
+      "red_name": "Melissa Mullins",
+      "round": "2.0",
+      "time": "1:20",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nora Cornolle",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Allen vs. Curtis 2",
+      "fight_id": "32e965e7e189860a",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nora Cornolle",
+      "opponent_elo": 1519.0,
+      "outcome": "blue_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1519.0,
+      "red_name": "Melissa Mullins",
+      "round": "2.0",
+      "time": "3:06",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Melissa Mullins",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2023-10-14",
+      "elo_delta": 19.0,
+      "event_name": "UFC Fight Night: Yusuff vs. Barboza",
+      "fight_id": "d41adc86ee4c1369",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Irina Alekseeva",
+      "opponent_elo": 1519.6,
+      "outcome": "blue_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Irina Alekseeva",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-10-14",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-10-14",
+      "fight_id": "d41adc86ee4c1369",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2023-10-14",
+      "fight_id": "d41adc86ee4c1369",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "32e965e7e189860a",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "32e965e7e189860a",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "98b8ffa21ccb8b8e",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "98b8ffa21ccb8b8e",
+      "rating": 1516.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-06-21",
+      "fight_id": "fbac6673a61482e1",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-06-21",
+      "fight_id": "fbac6673a61482e1",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-21",
+  "name": "Melissa Mullins",
+  "nickname": "",
+  "overall_elo": 1500.1,
+  "peak_elo": 1519.0,
+  "slug": "melissa-mullins",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

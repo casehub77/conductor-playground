@@ -1,0 +1,92 @@
+{
+  "current_elo": 1538.8,
+  "divisional_rank": 93,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hamzeh Trad",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-27",
+      "elo_delta": 18.3,
+      "event_name": "LFA 227: Nascimento vs. Kamikubo",
+      "fight_id": "d61c7d06103b0dab",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Hamzeh Trad",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1520.5,
+      "red_name": "Roman Puga",
+      "round": "2",
+      "time": "4:11",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Raul Navarrette",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-08-22",
+      "elo_delta": 20.5,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "91854c3aa2ff6dec",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Raul Navarrette",
+      "opponent_elo": 1519.6,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Puga",
+      "round": "1",
+      "time": "1:10",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-08-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-22",
+      "fight_id": "91854c3aa2ff6dec",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "91854c3aa2ff6dec",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "d61c7d06103b0dab",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "d61c7d06103b0dab",
+      "rating": 1534.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-27",
+  "name": "Roman Puga",
+  "nickname": "",
+  "overall_elo": 1534.5,
+  "peak_elo": 1538.8,
+  "slug": "roman-puga",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

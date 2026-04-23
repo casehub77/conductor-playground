@@ -1,0 +1,92 @@
+{
+  "current_elo": 1512.0,
+  "divisional_rank": 177,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nicolò Solli",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-09-23",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 299: Eblen vs. Edwards",
+      "fight_id": "df0fb4bec05b2730",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Nicolò Solli",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1538.9,
+      "pre_elo": 1519.5,
+      "red_name": "Romain Debienne",
+      "round": "1",
+      "time": "0:39",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Bourama Camara",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-05-12",
+      "elo_delta": 19.5,
+      "event_name": "Bellator 296: Mousasi vs. Edwards",
+      "fight_id": "d40170b71b98704a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Bourama Camara",
+      "opponent_elo": 1500.4,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Romain Debienne",
+      "round": "2",
+      "time": "1:04",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-12",
+      "fight_id": "d40170b71b98704a",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "d40170b71b98704a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "df0fb4bec05b2730",
+      "rating": 1538.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-09-23",
+      "fight_id": "df0fb4bec05b2730",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-23",
+  "name": "Romain Debienne",
+  "nickname": "",
+  "overall_elo": 1507.7,
+  "peak_elo": 1538.9,
+  "slug": "romain-debienne",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1588.0,
+  "divisional_rank": 34,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Joab Souza Silva",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 15.4,
+      "event_name": "Cage Warriors 198: Manchester",
+      "fight_id": "7f650b7bb58e4abb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Joab Souza Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1588.0,
+      "pre_elo": 1572.6,
+      "red_name": "Jack Humphries",
+      "round": "1",
+      "time": "2:52",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Rory Evans",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": 16.4,
+      "event_name": "Cage Warriors 192: London",
+      "fight_id": "30913fed27d44429",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (anaconda choke)",
+      "opponent": "Rory Evans",
+      "opponent_elo": 1500.6,
+      "outcome": "red_win",
+      "post_elo": 1572.6,
+      "pre_elo": 1556.2,
+      "red_name": "Jack Humphries",
+      "round": "1",
+      "time": "2:39",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nick Beukema",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 185: Manchester",
+      "fight_id": "a9f0c042d7440756",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Nick Beukema",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1556.2,
+      "pre_elo": 1537.8,
+      "red_name": "Jack Humphries",
+      "round": "2",
+      "time": "2:45",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Fabian Ufs",
+      "bout_type": "Catchweight (139 lb) Bout",
+      "date": "2024-09-21",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "c9e29466ff75c173",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Fabian Ufs",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Jack Humphries",
+      "round": "1",
+      "time": "2:12",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "João Pedro dos Santos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-05-25",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 172: Newcastle",
+      "fight_id": "dee494adff3ecd92",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "João Pedro dos Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jack Humphries",
+      "round": "1",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-05-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-25",
+      "fight_id": "dee494adff3ecd92",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-05-25",
+      "fight_id": "dee494adff3ecd92",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "c9e29466ff75c173",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "c9e29466ff75c173",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "a9f0c042d7440756",
+      "rating": 1556.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "a9f0c042d7440756",
+      "rating": 1550.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "30913fed27d44429",
+      "rating": 1572.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "30913fed27d44429",
+      "rating": 1565.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "7f650b7bb58e4abb",
+      "rating": 1588.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "7f650b7bb58e4abb",
+      "rating": 1579.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Jack Humphries",
+  "nickname": "",
+  "overall_elo": 1579.1,
+  "peak_elo": 1588.0,
+  "slug": "jack-humphries",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 927,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Danny Downes",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-10-29",
+      "elo_delta": -18.0,
+      "event_name": "UFC 137: Penn vs Diaz",
+      "fight_id": "b26bf72d12732416",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ramsey Nijem",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1483.3,
+      "red_name": "Ramsey Nijem",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jeremy Stephens",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-06-04",
+      "elo_delta": -16.3,
+      "event_name": "The Ultimate Fighter: Team Lesnar vs Team dos Santos Finale",
+      "fight_id": "07dd56e094bdbb8b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jeremy Stephens",
+      "opponent_elo": 1531.6,
+      "outcome": "blue_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1499.6,
+      "red_name": "Danny Downes",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Zhang Tiequan",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-12-16",
+      "elo_delta": 20.1,
+      "event_name": "WEC 53: Henderson vs. Pettis",
+      "fight_id": "20c2f63782bd405d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 29–28)",
+      "opponent": "Zhang Tiequan",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1479.5,
+      "red_name": "Danny Downes",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Danny Downes",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-06-20",
+      "elo_delta": -20.5,
+      "event_name": "WEC 49: Varner vs. Shalorus",
+      "fight_id": "55b90169ffbe2ec6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Chris Horodecki",
+      "opponent_elo": 1481.7,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Horodecki",
+      "round": "3",
+      "time": "1:09",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-06-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-20",
+      "fight_id": "55b90169ffbe2ec6",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-06-20",
+      "fight_id": "55b90169ffbe2ec6",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-12-16",
+      "fight_id": "20c2f63782bd405d",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-12-16",
+      "fight_id": "20c2f63782bd405d",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-04",
+      "fight_id": "07dd56e094bdbb8b",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-06-04",
+      "fight_id": "07dd56e094bdbb8b",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "b26bf72d12732416",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "b26bf72d12732416",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-29",
+  "name": "Danny Downes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "danny-downes",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

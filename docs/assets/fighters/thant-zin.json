@@ -1,0 +1,133 @@
+{
+  "current_elo": 1509.6,
+  "divisional_rank": 166,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Thant Zin",
+      "bout_type": "Catchweight (134 lbs) Muay Thai Bout",
+      "date": "2025-01-24",
+      "elo_delta": -17.9,
+      "event_name": "ONE 170: Tawanchai vs. Superbon 2",
+      "fight_id": "02aadde4213d4db8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Suriyanlek Por.Yenying",
+      "opponent_elo": 1563.7,
+      "outcome": "red_win",
+      "post_elo": 1517.8,
+      "pre_elo": 1535.7,
+      "red_name": "Suriyanlek Por.Yenying",
+      "round": "2",
+      "time": "2:05",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Thant Zin",
+      "bout_type": "Flyweight Kickboxing Bout",
+      "date": "2024-09-27",
+      "elo_delta": -22.5,
+      "event_name": "ONE Friday Fights 81: Superbon vs. Nattawut",
+      "fight_id": "7cb0d0a224b35ca7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee and punches)",
+      "opponent": "Takeru Segawa",
+      "opponent_elo": 1478.6,
+      "outcome": "red_win",
+      "post_elo": 1511.2,
+      "pre_elo": 1533.7,
+      "red_name": "Takeru Segawa",
+      "round": "2",
+      "time": "2:47",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Tai Sor.Jor.Piek-U-Thai",
+      "bout_type": "Catchweight (136 lbs) Muay Thai Bout",
+      "date": "2024-08-23",
+      "elo_delta": 18.5,
+      "event_name": "ONE Friday Fights 76: Peungluang vs. Samingdam",
+      "fight_id": "6816efbfde6ed22d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Tai Sor.Jor.Piek-U-Thai",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.7,
+      "pre_elo": 1517.2,
+      "red_name": "Thant Zin",
+      "round": "1",
+      "time": "1:14",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-02-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-02-16",
+      "fight_id": "2b5c3b99afc0e17b",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-23",
+      "fight_id": "6816efbfde6ed22d",
+      "rating": 1535.7,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-08-23",
+      "fight_id": "6816efbfde6ed22d",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-27",
+      "fight_id": "7cb0d0a224b35ca7",
+      "rating": 1511.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-09-27",
+      "fight_id": "7cb0d0a224b35ca7",
+      "rating": 1513.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-24",
+      "fight_id": "02aadde4213d4db8",
+      "rating": 1517.8,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-01-24",
+      "fight_id": "02aadde4213d4db8",
+      "rating": 1498.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-24",
+  "name": "Thant Zin",
+  "nickname": "",
+  "overall_elo": 1498.0,
+  "peak_elo": 1535.7,
+  "slug": "thant-zin",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

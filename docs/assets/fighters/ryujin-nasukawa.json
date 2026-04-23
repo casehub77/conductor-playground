@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 594,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shin Jong-min",
+      "bout_type": "Catchweight 54 kg Bout",
+      "date": "2023-12-31",
+      "elo_delta": 20.4,
+      "event_name": "Rizin 45",
+      "fight_id": "0d7bea020f2b96c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Shin Jong-min",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Ryujin Nasukawa",
+      "round": "1",
+      "time": "2:16",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Ryujin Nasukawa",
+      "bout_type": "Bantamweight 53 kg Bout",
+      "date": "2022-06-19",
+      "elo_delta": -18.0,
+      "event_name": "The Match 2022",
+      "fight_id": "1e7bf2bd73405cc6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Rui Okubo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Rui Okubo",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-06-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-19",
+      "fight_id": "1e7bf2bd73405cc6",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-06-19",
+      "fight_id": "1e7bf2bd73405cc6",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-31",
+      "fight_id": "0d7bea020f2b96c1",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-12-31",
+      "fight_id": "0d7bea020f2b96c1",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-12-31",
+  "name": "Ryujin Nasukawa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.4,
+  "slug": "ryujin-nasukawa",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 313,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jesse Murray",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-10-21",
+      "elo_delta": 19.5,
+      "event_name": "Legacy Fighting Alliance 145: Assis vs. Murray",
+      "fight_id": "176edca88e2d6f24",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Jesse Murray",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.2,
+      "pre_elo": 1498.7,
+      "red_name": "Bruno Assis",
+      "round": "1",
+      "time": "4:11",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Bruno Assis",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-03-25",
+      "elo_delta": -20.5,
+      "event_name": "Legacy Fighting Alliance 127: Diaz vs. Assis",
+      "fight_id": "65bc7e572c1c51d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Ozzy Diaz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1518.9,
+      "red_name": "Ozzy Diaz",
+      "round": "1",
+      "time": "4:53",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jalin Fuller",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-12-10",
+      "elo_delta": 18.9,
+      "event_name": "Legacy Fighting Alliance 120: Cantuária vs. Horth",
+      "fight_id": "1cc4ae8cf7d4fc96",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jalin Fuller",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Bruno Assis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-10",
+      "fight_id": "1cc4ae8cf7d4fc96",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-12-10",
+      "fight_id": "1cc4ae8cf7d4fc96",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "65bc7e572c1c51d7",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-03-25",
+      "fight_id": "65bc7e572c1c51d7",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "176edca88e2d6f24",
+      "rating": 1518.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "176edca88e2d6f24",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-21",
+  "name": "Bruno Assis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.9,
+  "slug": "bruno-assis",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

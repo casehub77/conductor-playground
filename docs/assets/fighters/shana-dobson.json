@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 97,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Casey O'Neill",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-02-20",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Blaydes vs. Lewis",
+      "fight_id": "a4efbdf6d0afb511",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Casey O'Neill",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1482.8,
+      "red_name": "Shana Dobson",
+      "round": "2.0",
+      "time": "3:41",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shana Dobson",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2020-08-22",
+      "elo_delta": 22.7,
+      "event_name": "UFC Fight Night: Munhoz vs. Edgar",
+      "fight_id": "dc92115a9fd602d7",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mariya Agapova",
+      "opponent_elo": 1518.2,
+      "outcome": "blue_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1460.1,
+      "red_name": "Mariya Agapova",
+      "round": "2.0",
+      "time": "1:38",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shana Dobson",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2020-02-22",
+      "elo_delta": -21.3,
+      "event_name": "UFC Fight Night: Felder vs. Hooker",
+      "fight_id": "9dc1d94b59b3eb77",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Priscila Cachoeira",
+      "opponent_elo": 1447.7,
+      "outcome": "red_win",
+      "post_elo": 1460.1,
+      "pre_elo": 1481.5,
+      "red_name": "Priscila Cachoeira",
+      "round": "1.0",
+      "time": "0:40",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shana Dobson",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2019-08-17",
+      "elo_delta": -19.0,
+      "event_name": "UFC 241: Cormier vs. Miocic 2",
+      "fight_id": "b8b69b5529057e46",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sabina Mazo",
+      "opponent_elo": 1481.8,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.4,
+      "red_name": "Sabina Mazo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Lauren Mueller",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2018-04-14",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Poirier vs. Gaethje",
+      "fight_id": "5fd9906ba99b22d0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lauren Mueller",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Shana Dobson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Shana Dobson",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2017-12-01",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: A New World Champion Finale",
+      "fight_id": "aabc4a1264294fdc",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ariel Beck",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ariel Beck",
+      "round": "2.0",
+      "time": "2:53",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2017-12-01",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-12-01",
+      "fight_id": "aabc4a1264294fdc",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2017-12-01",
+      "fight_id": "aabc4a1264294fdc",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "5fd9906ba99b22d0",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "5fd9906ba99b22d0",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-08-17",
+      "fight_id": "b8b69b5529057e46",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2019-08-17",
+      "fight_id": "b8b69b5529057e46",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "9dc1d94b59b3eb77",
+      "rating": 1460.1,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "9dc1d94b59b3eb77",
+      "rating": 1464.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-08-22",
+      "fight_id": "dc92115a9fd602d7",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2020-08-22",
+      "fight_id": "dc92115a9fd602d7",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-02-20",
+      "fight_id": "a4efbdf6d0afb511",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-02-20",
+      "fight_id": "a4efbdf6d0afb511",
+      "rating": 1468.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-02-20",
+  "name": "Shana Dobson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "shana-dobson",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,228 @@
+{
+  "current_elo": 1528.3,
+  "divisional_rank": 134,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Ramon Taveras",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 17.4,
+      "event_name": "UFC Fight Night: Ulberg vs. Reyes",
+      "fight_id": "a0a927cf90ac849d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ramon Taveras",
+      "opponent_elo": 1499.9,
+      "outcome": "red_win",
+      "post_elo": 1528.3,
+      "pre_elo": 1510.9,
+      "red_name": "Jack Jenkins",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Gabriel Santos",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": -21.1,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "296d705a1f26e6c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gabriel Santos",
+      "opponent_elo": 1502.1,
+      "outcome": "blue_win",
+      "post_elo": 1510.9,
+      "pre_elo": 1532.0,
+      "red_name": "Jack Jenkins",
+      "round": "3.0",
+      "time": "2:06",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Herbert Burns",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-08-17",
+      "elo_delta": 18.0,
+      "event_name": "UFC 305: Du Plessis vs. Adesanya",
+      "fight_id": "99abcc62d9d67f15",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Herbert Burns",
+      "opponent_elo": 1487.6,
+      "outcome": "red_win",
+      "post_elo": 1532.0,
+      "pre_elo": 1514.0,
+      "red_name": "Jack Jenkins",
+      "round": "3.0",
+      "time": "0:48",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-09-09",
+      "elo_delta": -20.4,
+      "event_name": "UFC 293: Adesanya vs. Strickland",
+      "fight_id": "e73eace76571d2b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chepe Mariscal",
+      "opponent_elo": 1516.7,
+      "outcome": "blue_win",
+      "post_elo": 1514.0,
+      "pre_elo": 1534.4,
+      "red_name": "Jack Jenkins",
+      "round": "2.0",
+      "time": "3:19",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jack Jenkins",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-06-24",
+      "elo_delta": 17.2,
+      "event_name": "UFC Fight Night: Emmett vs. Topuria",
+      "fight_id": "f9b2fec2435447ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Jamall Emmers",
+      "opponent_elo": 1502.1,
+      "outcome": "blue_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.2,
+      "red_name": "Jamall Emmers",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Don Shainis",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": 17.2,
+      "event_name": "UFC 284: Makhachev vs. Volkanovski",
+      "fight_id": "6ed517a0d4ae0e1e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Don Shainis",
+      "opponent_elo": 1484.9,
+      "outcome": "red_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Jack Jenkins",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "6ed517a0d4ae0e1e",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "6ed517a0d4ae0e1e",
+      "rating": 1515.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "f9b2fec2435447ec",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "f9b2fec2435447ec",
+      "rating": 1530.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-09",
+      "fight_id": "e73eace76571d2b6",
+      "rating": 1514.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-09-09",
+      "fight_id": "e73eace76571d2b6",
+      "rating": 1512.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "99abcc62d9d67f15",
+      "rating": 1532.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "99abcc62d9d67f15",
+      "rating": 1528.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "296d705a1f26e6c5",
+      "rating": 1510.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "296d705a1f26e6c5",
+      "rating": 1510.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "a0a927cf90ac849d",
+      "rating": 1528.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "a0a927cf90ac849d",
+      "rating": 1525.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-27",
+  "name": "Jack Jenkins",
+  "nickname": "",
+  "overall_elo": 1525.8,
+  "peak_elo": 1534.4,
+  "slug": "jack-jenkins",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

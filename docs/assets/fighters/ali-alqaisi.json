@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 622,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tony Kelley",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-10-10",
+      "elo_delta": -17.9,
+      "event_name": "UFC Fight Night: Moraes vs. Sandhagen",
+      "fight_id": "72f9ee0f2e48944b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tony Kelley",
+      "opponent_elo": 1484.0,
+      "outcome": "blue_win",
+      "post_elo": 1463.4,
+      "pre_elo": 1481.2,
+      "red_name": "Ali Alqaisi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ali Alqaisi",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-08-08",
+      "elo_delta": -18.8,
+      "event_name": "UFC Fight Night: Lewis vs. Oleinik",
+      "fight_id": "c2b51dfbc71cab0c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Irwin Rivera",
+      "opponent_elo": 1485.4,
+      "outcome": "red_win",
+      "post_elo": 1481.2,
+      "pre_elo": 1500.0,
+      "red_name": "Irwin Rivera",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-08-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-08",
+      "fight_id": "c2b51dfbc71cab0c",
+      "rating": 1481.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-08-08",
+      "fight_id": "c2b51dfbc71cab0c",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-10",
+      "fight_id": "72f9ee0f2e48944b",
+      "rating": 1463.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-10-10",
+      "fight_id": "72f9ee0f2e48944b",
+      "rating": 1467.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-10-10",
+  "name": "Ali Alqaisi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ali-alqaisi",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 109,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Takeshi Izumi",
+      "bout_type": "Catchweight 72 kg Bout",
+      "date": "2022-04-16",
+      "elo_delta": 18.5,
+      "event_name": "Rizin Trigger 3",
+      "fight_id": "0097cd6d46497360",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches and Elbows)",
+      "opponent": "Takeshi Izumi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.9,
+      "pre_elo": 1516.4,
+      "red_name": "Grant Bogdanove",
+      "round": "3",
+      "time": "3:16",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2021-11-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-11-28",
+      "fight_id": "31a9cfafdb2b75bf",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "0097cd6d46497360",
+      "rating": 1534.9,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "0097cd6d46497360",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-16",
+  "name": "Grant Bogdanove",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.9,
+  "slug": "grant-bogdanove",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

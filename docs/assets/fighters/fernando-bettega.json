@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 789,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Fernando Bettega",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-12-04",
+      "elo_delta": -18.0,
+      "event_name": "Strikeforce: Henderson vs. Babalu II",
+      "fight_id": "bcf5b24ab59d2c46",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 29–28, 28–29)",
+      "opponent": "Wayne Phillips",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Wayne Phillips",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-12-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-12-04",
+      "fight_id": "bcf5b24ab59d2c46",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "bcf5b24ab59d2c46",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-12-04",
+  "name": "Fernando Bettega",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "fernando-bettega",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

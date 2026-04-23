@@ -1,0 +1,92 @@
+{
+  "current_elo": 1471.4,
+  "divisional_rank": 168,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sanlang Gexi",
+      "bout_type": "Strawweight MMA Bout",
+      "date": "2024-06-28",
+      "elo_delta": -17.0,
+      "event_name": "ONE Friday Fights 68: Prajanchai vs. Di Bella",
+      "fight_id": "039f1ad239755c4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Kohei Wakabayashi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Kohei Wakabayashi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Sanlang Gexi",
+      "bout_type": "Strawweight MMA Bout",
+      "date": "2024-03-22",
+      "elo_delta": -19.4,
+      "event_name": "ONE Friday Fights 56: Ferrari vs. Tupiev",
+      "fight_id": "33d9ef3c47544f27",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Changy Kara-Ool",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Changy Kara-Ool",
+      "round": "2",
+      "time": "4:25",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2024-03-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-22",
+      "fight_id": "33d9ef3c47544f27",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2024-03-22",
+      "fight_id": "33d9ef3c47544f27",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-28",
+      "fight_id": "039f1ad239755c4a",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2024-06-28",
+      "fight_id": "039f1ad239755c4a",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-06-28",
+  "name": "Sanlang Gexi",
+  "nickname": "",
+  "overall_elo": 1475.3,
+  "peak_elo": 1500.0,
+  "slug": "sanlang-gexi",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1480.7,
+  "divisional_rank": 1148,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Luke Lessei",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2025-11-08",
+      "elo_delta": -17.2,
+      "event_name": "ONE Fight Night 37: Kryklia vs. Agdeve",
+      "fight_id": "f34007d060e2f074",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and knees)",
+      "opponent": "Nico Carrillo",
+      "opponent_elo": 1538.6,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1497.8,
+      "red_name": "Nico Carrillo",
+      "round": "2",
+      "time": "2:35",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Cody Jerome",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2025-01-11",
+      "elo_delta": 20.7,
+      "event_name": "ONE Fight Night 27: Tang vs. Abdullaev",
+      "fight_id": "dc9f88e7a5ff1121",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (body kicks and punches)",
+      "opponent": "Cody Jerome",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.8,
+      "pre_elo": 1477.1,
+      "red_name": "Luke Lessei",
+      "round": "1",
+      "time": "2:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Luke Lessei",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2024-07-06",
+      "elo_delta": -20.2,
+      "event_name": "ONE Fight Night 23: Ok vs. Rasulov",
+      "fight_id": "937cf856003875cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Bampara Kouyate",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1477.1,
+      "pre_elo": 1497.3,
+      "red_name": "Bampara Kouyate",
+      "round": "3",
+      "time": "2:08",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Eddie Abasolo",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2024-02-17",
+      "elo_delta": 17.8,
+      "event_name": "ONE Fight Night 19: Haggerty vs. Lobo",
+      "fight_id": "034b4fb24234c7be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Eddie Abasolo",
+      "opponent_elo": 1475.6,
+      "outcome": "red_win",
+      "post_elo": 1497.3,
+      "pre_elo": 1479.5,
+      "red_name": "Luke Lessei",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Luke Lessei",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": -20.5,
+      "event_name": "ONE Fight Night 17: Kryklia vs. Roberts",
+      "fight_id": "5045e6b1661f6e40",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jo Nattawut",
+      "opponent_elo": 1451.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jo Nattawut",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-09",
+      "fight_id": "5045e6b1661f6e40",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "5045e6b1661f6e40",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "034b4fb24234c7be",
+      "rating": 1497.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "034b4fb24234c7be",
+      "rating": 1497.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-06",
+      "fight_id": "937cf856003875cf",
+      "rating": 1477.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-06",
+      "fight_id": "937cf856003875cf",
+      "rating": 1479.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "dc9f88e7a5ff1121",
+      "rating": 1497.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-01-11",
+      "fight_id": "dc9f88e7a5ff1121",
+      "rating": 1498.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "f34007d060e2f074",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-08",
+      "fight_id": "f34007d060e2f074",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-08",
+  "name": "Luke Lessei",
+  "nickname": "",
+  "overall_elo": 1484.1,
+  "peak_elo": 1500.0,
+  "slug": "luke-lessei",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.2,
+  "divisional_rank": 1514,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sumit Bhyan",
+      "bout_type": "Lightweight MMA Bout",
+      "date": "2025-02-28",
+      "elo_delta": -18.4,
+      "event_name": "ONE Friday Fights 98: Chartpayak vs. Kongchai",
+      "fight_id": "deb01c8095356cfa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Connor Tymon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Connor Tymon",
+      "round": "2",
+      "time": "0:46",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Sumit Bhyan",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-11-24",
+      "elo_delta": -19.4,
+      "event_name": "ONE Friday Fights 42: Kaonar vs. Lobo",
+      "fight_id": "c4c6920613721017",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Matheus Pereira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Matheus Pereira",
+      "round": "1",
+      "time": "1:08",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-11-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-24",
+      "fight_id": "c4c6920613721017",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-11-24",
+      "fight_id": "c4c6920613721017",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-28",
+      "fight_id": "deb01c8095356cfa",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-02-28",
+      "fight_id": "deb01c8095356cfa",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-28",
+  "name": "Sumit Bhyan",
+  "nickname": "",
+  "overall_elo": 1466.3,
+  "peak_elo": 1500.0,
+  "slug": "sumit-bhyan",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

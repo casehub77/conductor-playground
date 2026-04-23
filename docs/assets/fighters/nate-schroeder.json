@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 553,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nate Schroeder",
+      "bout_type": "Heavyweight Bout",
+      "date": "2000-06-09",
+      "elo_delta": -20.5,
+      "event_name": "UFC 26: Ultimate Field Of Dreams",
+      "fight_id": "e56e94366b3529c7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ian Freeman",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ian Freeman",
+      "round": "2.0",
+      "time": "2:13",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2000-06-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-06-09",
+      "fight_id": "e56e94366b3529c7",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2000-06-09",
+      "fight_id": "e56e94366b3529c7",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-06-09",
+  "name": "Nate Schroeder",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "nate-schroeder",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1514.3,
+  "divisional_rank": 229,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Richard Palencia",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-11-17",
+      "elo_delta": 19.1,
+      "event_name": "Bellator 301: Amosov vs. Jackson",
+      "fight_id": "6b15691a64f4a48c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Richard Palencia",
+      "opponent_elo": 1511.8,
+      "outcome": "red_win",
+      "post_elo": 1537.4,
+      "pre_elo": 1518.4,
+      "red_name": "Matheus Mattos",
+      "round": "2",
+      "time": "3:20",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cee Jay Hamilton",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "c8610ebeaa852ca7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Cee Jay Hamilton",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Matheus Mattos",
+      "round": "2",
+      "time": "1:33",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "c8610ebeaa852ca7",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "c8610ebeaa852ca7",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "6b15691a64f4a48c",
+      "rating": 1537.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "6b15691a64f4a48c",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-17",
+  "name": "Matheus Mattos",
+  "nickname": "",
+  "overall_elo": 1510.3,
+  "peak_elo": 1537.4,
+  "slug": "matheus-mattos",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

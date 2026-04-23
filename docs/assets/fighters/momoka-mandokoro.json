@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 73,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Miku",
+      "bout_type": "W.Catchweight 46 kg Bout",
+      "date": "2021-11-28",
+      "elo_delta": 18.9,
+      "event_name": "Rizin Trigger 1",
+      "fight_id": "76382b49df838eb4",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Miku",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1482.0,
+      "red_name": "Momoka Mandokoro",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Momoka Mandokoro",
+      "bout_type": "Atomweight 47 kg Bout",
+      "date": "2021-09-19",
+      "elo_delta": -18.0,
+      "event_name": "Rizin 30 - Saitama",
+      "fight_id": "416f50dbb2ad3c10",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Panchan Rina",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Panchan Rina",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2021-09-19",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-09-19",
+      "fight_id": "416f50dbb2ad3c10",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2021-09-19",
+      "fight_id": "416f50dbb2ad3c10",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-11-28",
+      "fight_id": "76382b49df838eb4",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2021-11-28",
+      "fight_id": "76382b49df838eb4",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-28",
+  "name": "Momoka Mandokoro",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "slug": "momoka-mandokoro",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

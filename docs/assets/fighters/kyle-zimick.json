@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 510,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kyle Zimick",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-04-11",
+      "elo_delta": -19.4,
+      "event_name": "LFA 206: Gennrich vs. Lebosnoyani",
+      "fight_id": "13a8f694864dfafb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Taner Trembley",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Taner Trembley",
+      "round": "1",
+      "time": "3:13",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Connor Penka",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": 19.4,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "a57f2b8a1ce07136",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Connor Penka",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kyle Zimick",
+      "round": "2",
+      "time": "2:50",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-01-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-13",
+      "fight_id": "a57f2b8a1ce07136",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "a57f2b8a1ce07136",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "13a8f694864dfafb",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "13a8f694864dfafb",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-11",
+  "name": "Kyle Zimick",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "kyle-zimick",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

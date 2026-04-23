@@ -1,0 +1,65 @@
+{
+  "current_elo": 1535.8,
+  "divisional_rank": 57,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Starling Simmons",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-04-11",
+      "elo_delta": 18.5,
+      "event_name": "LFA 206: Gennrich vs. Lebosnoyani",
+      "fight_id": "ad799f46186617be",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Starling Simmons",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Adam Vigil",
+      "round": "1",
+      "time": "1:09",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-16",
+      "fight_id": "e6e3bf09bbfced4b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "ad799f46186617be",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "ad799f46186617be",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-11",
+  "name": "Adam Vigil",
+  "nickname": "",
+  "overall_elo": 1533.7,
+  "peak_elo": 1535.8,
+  "slug": "adam-vigil",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1467.3,
+  "divisional_rank": 1201,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Angus Hewett",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-09-20",
+      "elo_delta": -17.5,
+      "event_name": "Cage Warriors 177: Unplugged",
+      "fight_id": "986d63935ce2e985",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Michael Tchamou",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1482.7,
+      "red_name": "Michael Tchamou",
+      "round": "1",
+      "time": "3:21",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Angus Hewett",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 169: London",
+      "fight_id": "1393115265343688",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (buggy choke)",
+      "opponent": "Mitchell Goode",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mitchell Goode",
+      "round": "3",
+      "time": "4:24",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "1393115265343688",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "1393115265343688",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "986d63935ce2e985",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-09-20",
+      "fight_id": "986d63935ce2e985",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-20",
+  "name": "Angus Hewett",
+  "nickname": "",
+  "overall_elo": 1469.2,
+  "peak_elo": 1500.0,
+  "slug": "angus-hewett",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

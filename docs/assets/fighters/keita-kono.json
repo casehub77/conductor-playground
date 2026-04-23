@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 360,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Hiroaki Fujita",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-01",
+      "elo_delta": 18.6,
+      "event_name": "Shooto: Shooting Disco 16: Regeneration",
+      "fight_id": "f0b83d2d8d961a9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Hiroaki Fujita",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1514.1,
+      "pre_elo": 1495.4,
+      "red_name": "Keita Kono",
+      "round": "2",
+      "time": "2:09",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Keita Kono",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-10-16",
+      "elo_delta": -21.5,
+      "event_name": "Shooto: Shooting Disco 13: Can't Stop Myself!",
+      "fight_id": "d7c3aeab142d2d6b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Knee and Punches)",
+      "opponent": "Takahiro Hosoi",
+      "opponent_elo": 1480.5,
+      "outcome": "red_win",
+      "post_elo": 1495.4,
+      "pre_elo": 1516.9,
+      "red_name": "Takahiro Hosoi",
+      "round": "1",
+      "time": "3:14",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Keita Kono",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-06-06",
+      "elo_delta": -19.2,
+      "event_name": "Shooto: Shooting Disco 12: Stand By Me",
+      "fight_id": "203a5ba398f783c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yuta Nezu",
+      "opponent_elo": 1513.7,
+      "outcome": "red_win",
+      "post_elo": 1516.9,
+      "pre_elo": 1536.1,
+      "red_name": "Yuta Nezu",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Haruo Ochi",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-02-27",
+      "elo_delta": 20.0,
+      "event_name": "Shooto: Shooting Disco 11: Tora Tora Tora!",
+      "fight_id": "195ba19e2196690c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Haruo Ochi",
+      "opponent_elo": 1555.6,
+      "outcome": "red_win",
+      "post_elo": 1536.1,
+      "pre_elo": 1516.0,
+      "red_name": "Keita Kono",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yuki Yasunaga",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-09-20",
+      "elo_delta": 16.0,
+      "event_name": "Shooto: Shooting Disco 10: Twist and Shooto",
+      "fight_id": "d4932b41a201eac1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yuki Yasunaga",
+      "opponent_elo": 1461.8,
+      "outcome": "red_win",
+      "post_elo": 1516.0,
+      "pre_elo": 1500.0,
+      "red_name": "Keita Kono",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2009-09-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-09-20",
+      "fight_id": "d4932b41a201eac1",
+      "rating": 1516.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-09-20",
+      "fight_id": "d4932b41a201eac1",
+      "rating": 1514.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-02-27",
+      "fight_id": "195ba19e2196690c",
+      "rating": 1536.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-02-27",
+      "fight_id": "195ba19e2196690c",
+      "rating": 1532.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-06",
+      "fight_id": "203a5ba398f783c1",
+      "rating": 1516.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-06-06",
+      "fight_id": "203a5ba398f783c1",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "d7c3aeab142d2d6b",
+      "rating": 1495.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "d7c3aeab142d2d6b",
+      "rating": 1496.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "f0b83d2d8d961a9d",
+      "rating": 1514.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "f0b83d2d8d961a9d",
+      "rating": 1512.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Keita Kono",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.1,
+  "slug": "keita-kono",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

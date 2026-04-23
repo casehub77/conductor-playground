@@ -1,0 +1,126 @@
+{
+  "current_elo": 1457.2,
+  "divisional_rank": 1126,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Han Zihao",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2024-03-01",
+      "elo_delta": -16.8,
+      "event_name": "ONE 166: Qatar",
+      "fight_id": "87ce126855e9e657",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Shinji Suzuki",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1441.2,
+      "pre_elo": 1458.0,
+      "red_name": "Shinji Suzuki",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Han Zihao",
+      "bout_type": "Catchweight (149.5 lbs) Muay Thai Bout",
+      "date": "2023-04-21",
+      "elo_delta": -29.3,
+      "event_name": "ONE Fight Night 9: Nong-O vs. Haggerty",
+      "fight_id": "88db08581ed4997f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Asa Ten Pow",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1452.7,
+      "pre_elo": 1482.0,
+      "red_name": "Asa Ten Pow",
+      "round": "3",
+      "time": "0:52",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Han Zihao",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2022-09-29",
+      "elo_delta": -18.0,
+      "event_name": "ONE 161: Petchmorakot vs. Tawanchai",
+      "fight_id": "d6f4e7eb77d70ece",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ferrari Fairtex",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ferrari Fairtex",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-09-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-29",
+      "fight_id": "d6f4e7eb77d70ece",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "d6f4e7eb77d70ece",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "88db08581ed4997f",
+      "rating": 1452.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "88db08581ed4997f",
+      "rating": 1458.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-01",
+      "fight_id": "87ce126855e9e657",
+      "rating": 1441.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-01",
+      "fight_id": "87ce126855e9e657",
+      "rating": 1443.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-03-01",
+  "name": "Han Zihao",
+  "nickname": "",
+  "overall_elo": 1459.1,
+  "peak_elo": 1500.0,
+  "slug": "han-zihao",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

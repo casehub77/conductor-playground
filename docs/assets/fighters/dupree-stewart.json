@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.1,
+  "divisional_rank": 202,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jon Tabarez",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-27",
+      "elo_delta": 20.5,
+      "event_name": "LFA 227: Nascimento vs. Kamikubo",
+      "fight_id": "aa69c72751f97526",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Jon Tabarez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Dupree Stewart",
+      "round": "1",
+      "time": "4:32",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Dupree Stewart",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": -19.4,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "e92917a3cbf2df3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ronald Humphrey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ronald Humphrey",
+      "round": "1",
+      "time": "3:11",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "e92917a3cbf2df3c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "e92917a3cbf2df3c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "aa69c72751f97526",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "aa69c72751f97526",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-27",
+  "name": "Dupree Stewart",
+  "nickname": "",
+  "overall_elo": 1500.9,
+  "peak_elo": 1501.1,
+  "slug": "dupree-stewart",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

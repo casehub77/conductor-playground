@@ -1,0 +1,126 @@
+{
+  "current_elo": 1484.0,
+  "divisional_rank": 676,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Billy Ray Valdez",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-04-11",
+      "elo_delta": -16.5,
+      "event_name": "LFA 206: Gennrich vs. Lebosnoyani",
+      "fight_id": "35b451cb85660fcb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Alvin Hines",
+      "opponent_elo": 1553.2,
+      "outcome": "red_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1500.5,
+      "red_name": "Alvin Hines",
+      "round": "3",
+      "time": "2:09",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Larry Gonzales",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 19.0,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "a8c1ed8a702ee9cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Larry Gonzales",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1481.6,
+      "red_name": "Billy Ray Valdez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Billy Ray Valdez",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-01-12",
+      "elo_delta": -18.4,
+      "event_name": "LFA 174: Jones vs. Gennrich",
+      "fight_id": "0dbf697928c0d15a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Steven Asplund",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Steven Asplund",
+      "round": "1",
+      "time": "4:48",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-01-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-12",
+      "fight_id": "0dbf697928c0d15a",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "0dbf697928c0d15a",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "a8c1ed8a702ee9cb",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "a8c1ed8a702ee9cb",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "35b451cb85660fcb",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "35b451cb85660fcb",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-11",
+  "name": "Billy Ray Valdez",
+  "nickname": "",
+  "overall_elo": 1485.3,
+  "peak_elo": 1500.5,
+  "slug": "billy-ray-valdez",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

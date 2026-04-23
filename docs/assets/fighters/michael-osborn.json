@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 458,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mike Schatz",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-05-07",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 43",
+      "fight_id": "c8adbff0fbed2e23",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (referee stoppage)",
+      "opponent": "Mike Schatz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Michael Osborn",
+      "round": "1",
+      "time": "1:58",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Cody Carillo",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-04-09",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 40",
+      "fight_id": "cd6da869687d5b7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Cody Carillo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Michael Osborn",
+      "round": "1",
+      "time": "1:27",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2011-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-04-09",
+      "fight_id": "cd6da869687d5b7f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "cd6da869687d5b7f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-05-07",
+      "fight_id": "c8adbff0fbed2e23",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-05-07",
+      "fight_id": "c8adbff0fbed2e23",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-05-07",
+  "name": "Michael Osborn",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "michael-osborn",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

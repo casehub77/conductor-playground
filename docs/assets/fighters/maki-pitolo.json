@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 582,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Dusko Todorovic",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-12-04",
+      "elo_delta": -17.6,
+      "event_name": "UFC Fight Night: Font vs. Aldo",
+      "fight_id": "98acc28ca9823547",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dusko Todorovic",
+      "opponent_elo": 1482.2,
+      "outcome": "blue_win",
+      "post_elo": 1431.1,
+      "pre_elo": 1448.7,
+      "red_name": "Maki Pitolo",
+      "round": "1.0",
+      "time": "4:34",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Julian Marquez",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-02-13",
+      "elo_delta": -17.6,
+      "event_name": "UFC 258: Usman vs. Burns",
+      "fight_id": "a2ebcc3b9b0363e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Julian Marquez",
+      "opponent_elo": 1498.6,
+      "outcome": "blue_win",
+      "post_elo": 1448.7,
+      "pre_elo": 1466.3,
+      "red_name": "Maki Pitolo",
+      "round": "3.0",
+      "time": "4:17",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Impa Kasanganay",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-08-29",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Smith vs. Rakic",
+      "fight_id": "32d00c8066cdf5dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Impa Kasanganay",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1466.3,
+      "pre_elo": 1483.4,
+      "red_name": "Maki Pitolo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Darren Stewart",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-08-08",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Lewis vs. Oleinik",
+      "fight_id": "079f0a180a44a696",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Darren Stewart",
+      "opponent_elo": 1512.2,
+      "outcome": "blue_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1502.3,
+      "red_name": "Maki Pitolo",
+      "round": "1.0",
+      "time": "3:41",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Maki Pitolo",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-06-06",
+      "elo_delta": 19.2,
+      "event_name": "UFC 250: Nunes vs. Spencer",
+      "fight_id": "4441b10ed2b37560",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Charles Byrd",
+      "opponent_elo": 1478.1,
+      "outcome": "blue_win",
+      "post_elo": 1502.3,
+      "pre_elo": 1483.2,
+      "red_name": "Charles Byrd",
+      "round": "2.0",
+      "time": "1:10",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Maki Pitolo",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-10-05",
+      "elo_delta": -18.9,
+      "event_name": "UFC 243: Whittaker vs. Adesanya",
+      "fight_id": "2ddbc6400b405cec",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Callan Potter",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Callan Potter",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2019-10-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-10-05",
+      "fight_id": "2ddbc6400b405cec",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-10-05",
+      "fight_id": "2ddbc6400b405cec",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-06-06",
+      "fight_id": "4441b10ed2b37560",
+      "rating": 1502.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-06-06",
+      "fight_id": "4441b10ed2b37560",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-08-08",
+      "fight_id": "079f0a180a44a696",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-08-08",
+      "fight_id": "079f0a180a44a696",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "32d00c8066cdf5dd",
+      "rating": 1466.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-08-29",
+      "fight_id": "32d00c8066cdf5dd",
+      "rating": 1468.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-02-13",
+      "fight_id": "a2ebcc3b9b0363e8",
+      "rating": 1448.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-02-13",
+      "fight_id": "a2ebcc3b9b0363e8",
+      "rating": 1452.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-04",
+      "fight_id": "98acc28ca9823547",
+      "rating": 1431.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-12-04",
+      "fight_id": "98acc28ca9823547",
+      "rating": 1436.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-12-04",
+  "name": "Maki Pitolo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.3,
+  "slug": "maki-pitolo",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

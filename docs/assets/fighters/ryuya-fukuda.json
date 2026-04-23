@@ -1,0 +1,201 @@
+{
+  "current_elo": 1532.8,
+  "divisional_rank": 120,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Ryuya Fukuda",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2026-04-12",
+      "elo_delta": -23.5,
+      "event_name": "Rizin Landmark 13 in Fukuoka",
+      "fight_id": "b19f3764cd95b0a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Azizbek Temirov",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1532.8,
+      "pre_elo": 1556.4,
+      "red_name": "Azizbek Temirov",
+      "round": "2",
+      "time": "1:40",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tatsuya Ando",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2025-12-31",
+      "elo_delta": 20.6,
+      "event_name": "Rizin: Shiwasu no Cho Tsuwamono Matsuri",
+      "fight_id": "d8f8e63e411b261e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Tatsuya Ando",
+      "opponent_elo": 1557.1,
+      "outcome": "red_win",
+      "post_elo": 1556.4,
+      "pre_elo": 1535.8,
+      "red_name": "Ryuya Fukuda",
+      "round": "2",
+      "time": "3:02",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ryuya Fukuda",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2025-07-27",
+      "elo_delta": -15.5,
+      "event_name": "Super Rizin 4",
+      "fight_id": "67d7675ed4b3bbda",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Naoki Inoue",
+      "opponent_elo": 1600.2,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1551.2,
+      "red_name": "Naoki Inoue",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ryusei Ashizawa",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2024-12-31",
+      "elo_delta": 18.9,
+      "event_name": "Rizin 49: Decade",
+      "fight_id": "9a4029ab4beeadea",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Ryusei Ashizawa",
+      "opponent_elo": 1522.4,
+      "outcome": "red_win",
+      "post_elo": 1551.2,
+      "pre_elo": 1532.3,
+      "red_name": "Ryuya Fukuda",
+      "round": "1",
+      "time": "0:54",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Erson Yamamoto",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2023-09-24",
+      "elo_delta": 17.1,
+      "event_name": "Rizin 44",
+      "fight_id": "4a160e261a62b82d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Erson Yamamoto",
+      "opponent_elo": 1475.2,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.3,
+      "red_name": "Ryuya Fukuda",
+      "round": "3",
+      "time": "1:37",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-20",
+      "fight_id": "7e19d0aadd792e26",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "4a160e261a62b82d",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "4a160e261a62b82d",
+      "rating": 1532.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "9a4029ab4beeadea",
+      "rating": 1551.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "9a4029ab4beeadea",
+      "rating": 1548.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "67d7675ed4b3bbda",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "67d7675ed4b3bbda",
+      "rating": 1534.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-31",
+      "fight_id": "d8f8e63e411b261e",
+      "rating": 1556.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-12-31",
+      "fight_id": "d8f8e63e411b261e",
+      "rating": 1552.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-12",
+      "fight_id": "b19f3764cd95b0a1",
+      "rating": 1532.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-12",
+      "fight_id": "b19f3764cd95b0a1",
+      "rating": 1532.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-12",
+  "name": "Ryuya Fukuda",
+  "nickname": "",
+  "overall_elo": 1532.3,
+  "peak_elo": 1556.4,
+  "slug": "ryuya-fukuda",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

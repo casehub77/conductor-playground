@@ -1,0 +1,126 @@
+{
+  "current_elo": 1486.3,
+  "divisional_rank": 649,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tuco Tokkos",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": 20.8,
+      "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+      "fight_id": "fa7e89dcfb1e0c9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Junior Tafa",
+      "opponent_elo": 1489.4,
+      "outcome": "blue_win",
+      "post_elo": 1486.3,
+      "pre_elo": 1465.5,
+      "red_name": "Junior Tafa",
+      "round": "2.0",
+      "time": "4:25",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tuco Tokkos",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-12-14",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Covington vs. Buckley",
+      "fight_id": "4af1b82f5e162676",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Navajo Stirling",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.5,
+      "pre_elo": 1482.6,
+      "red_name": "Navajo Stirling",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tuco Tokkos",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-05-18",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Barboza vs. Murphy",
+      "fight_id": "631262b13e76b9de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Oumar Sy",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Oumar Sy",
+      "round": "1.0",
+      "time": "3:43",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-05-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-18",
+      "fight_id": "631262b13e76b9de",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-05-18",
+      "fight_id": "631262b13e76b9de",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-14",
+      "fight_id": "4af1b82f5e162676",
+      "rating": 1465.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-12-14",
+      "fight_id": "4af1b82f5e162676",
+      "rating": 1469.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "fa7e89dcfb1e0c9d",
+      "rating": 1486.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "fa7e89dcfb1e0c9d",
+      "rating": 1487.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-12",
+  "name": "Tuco Tokkos",
+  "nickname": "",
+  "overall_elo": 1487.3,
+  "peak_elo": 1500.0,
+  "slug": "tuco-tokkos",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

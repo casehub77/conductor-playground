@@ -1,0 +1,201 @@
+{
+  "current_elo": 1520.3,
+  "divisional_rank": 157,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Alexey Balyko",
+      "bout_type": "Catchweight (140 lbs) Muay Thai Bout",
+      "date": "2024-12-13",
+      "elo_delta": -19.0,
+      "event_name": "ONE Friday Fights 91: Komawut vs. Balyko",
+      "fight_id": "cbff7753a1e005ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Komawut FA.Group",
+      "opponent_elo": 1497.1,
+      "outcome": "red_win",
+      "post_elo": 1497.4,
+      "pre_elo": 1516.4,
+      "red_name": "Komawut FA.Group",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Alexey Balyko",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2024-10-05",
+      "elo_delta": -12.8,
+      "event_name": "ONE Fight Night 25: Nicolas vs. Eersel 2",
+      "fight_id": "477040c04c1c1a06",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "John Lineker",
+      "opponent_elo": 1657.1,
+      "outcome": "red_win",
+      "post_elo": 1521.3,
+      "pre_elo": 1534.2,
+      "red_name": "John Lineker",
+      "round": "1",
+      "time": "2:14",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "István Ștefan Kóródi",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2024-07-06",
+      "elo_delta": 17.7,
+      "event_name": "ONE Fight Night 23: Ok vs. Rasulov",
+      "fight_id": "796a2dbe7d5945b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "István Ștefan Kóródi",
+      "opponent_elo": 1484.8,
+      "outcome": "red_win",
+      "post_elo": 1534.2,
+      "pre_elo": 1516.5,
+      "red_name": "Alexey Balyko",
+      "round": "1",
+      "time": "2:42",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Alexey Balyko",
+      "bout_type": "Catchweight (140 lbs) Muay Thai Bout",
+      "date": "2024-03-29",
+      "elo_delta": -18.9,
+      "event_name": "ONE Friday Fights 57: Panrit vs. Balyko",
+      "fight_id": "cfba27d1d6766ed1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Panrit Lukjaomaesaiwaree",
+      "opponent_elo": 1517.0,
+      "outcome": "red_win",
+      "post_elo": 1516.4,
+      "pre_elo": 1535.3,
+      "red_name": "Panrit Lukjaomaesaiwaree",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Suakim Sor.Jor.Tongprajin",
+      "bout_type": "Catchweight (140 lbs) Muay Thai Bout",
+      "date": "2024-01-12",
+      "elo_delta": 18.5,
+      "event_name": "ONE Friday Fights 47: Suakim vs. Balyko",
+      "fight_id": "4fbfbbf909a1755a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (left hook)",
+      "opponent": "Suakim Sor.Jor.Tongprajin",
+      "opponent_elo": 1500.2,
+      "outcome": "red_win",
+      "post_elo": 1535.3,
+      "pre_elo": 1516.8,
+      "red_name": "Alexey Balyko",
+      "round": "3",
+      "time": "0:22",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-09-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-09-15",
+      "fight_id": "d218525070ffaad1",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "4fbfbbf909a1755a",
+      "rating": 1535.3,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-01-12",
+      "fight_id": "4fbfbbf909a1755a",
+      "rating": 1533.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "cfba27d1d6766ed1",
+      "rating": 1516.4,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-03-29",
+      "fight_id": "cfba27d1d6766ed1",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-06",
+      "fight_id": "796a2dbe7d5945b4",
+      "rating": 1534.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-07-06",
+      "fight_id": "796a2dbe7d5945b4",
+      "rating": 1532.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-05",
+      "fight_id": "477040c04c1c1a06",
+      "rating": 1521.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-10-05",
+      "fight_id": "477040c04c1c1a06",
+      "rating": 1519.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "cbff7753a1e005ee",
+      "rating": 1497.4,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-12-13",
+      "fight_id": "cbff7753a1e005ee",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-13",
+  "name": "Alexey Balyko",
+  "nickname": "",
+  "overall_elo": 1502.9,
+  "peak_elo": 1535.3,
+  "slug": "alexey-balyko",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1497.3,
+  "divisional_rank": 1308,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shovkhal Churchaev",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-20",
+      "elo_delta": -18.7,
+      "event_name": "LFA 211: Mesquita vs. Dinwoodie",
+      "fight_id": "b9d3bf5d223fc8a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–26, 30–26, 30–27)",
+      "opponent": "JaCobi Jones",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1497.3,
+      "pre_elo": 1516.0,
+      "red_name": "JaCobi Jones",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-10",
+      "fight_id": "3403ace6901629dc",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "b9d3bf5d223fc8a7",
+      "rating": 1497.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "b9d3bf5d223fc8a7",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-20",
+  "name": "Shovkhal Churchaev",
+  "nickname": "",
+  "overall_elo": 1499.3,
+  "peak_elo": 1516.0,
+  "slug": "shovkhal-churchaev",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

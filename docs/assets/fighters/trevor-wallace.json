@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 322,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Trevor Wallace",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "cd122041f86afabc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Ben Tynan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1498.9,
+      "red_name": "Ben Tynan",
+      "round": "1",
+      "time": "1:33",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Trevor Wallace",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-04-30",
+      "elo_delta": -20.5,
+      "event_name": "Legacy Fighting Alliance 106: Silveira vs. Viana",
+      "fight_id": "91457063c569cf05",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Bubba Grant",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Bubba Grant",
+      "round": "1",
+      "time": "1:36",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Cesar Gutierrez",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-02-12",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 99: Dennis vs. Cherant",
+      "fight_id": "19fcaaf1202ac51a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Cesar Gutierrez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Trevor Wallace",
+      "round": "1",
+      "time": "0:58",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-02-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-02-12",
+      "fight_id": "19fcaaf1202ac51a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-02-12",
+      "fight_id": "19fcaaf1202ac51a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-30",
+      "fight_id": "91457063c569cf05",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-04-30",
+      "fight_id": "91457063c569cf05",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "cd122041f86afabc",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "cd122041f86afabc",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-03",
+  "name": "Trevor Wallace",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "trevor-wallace",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

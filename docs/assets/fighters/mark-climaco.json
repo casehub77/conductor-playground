@@ -1,0 +1,167 @@
+{
+  "current_elo": 1506.0,
+  "divisional_rank": 177,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Miguel Sanson",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": 20.0,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "0017643e7bac47fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Miguel Sanson",
+      "opponent_elo": 1568.8,
+      "outcome": "red_win",
+      "post_elo": 1550.3,
+      "pre_elo": 1530.3,
+      "red_name": "Mark Climaco",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Cody Davis",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": 18.3,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "0767bea8c01954f8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Cody Davis",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1530.3,
+      "pre_elo": 1512.0,
+      "red_name": "Mark Climaco",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mark Climaco",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-11-05",
+      "elo_delta": -21.2,
+      "event_name": "Legacy Fighting Alliance 117: Dias vs. Tanak",
+      "fight_id": "ef2a8074a3fb99ef",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Yuma Horiuchi",
+      "opponent_elo": 1501.4,
+      "outcome": "red_win",
+      "post_elo": 1512.0,
+      "pre_elo": 1533.2,
+      "red_name": "Yuma Horiuchi",
+      "round": "1",
+      "time": "1:52",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Rodney Kealohi",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": 17.2,
+      "event_name": "Legacy Fighting Alliance 108: Fremd vs. Rodrigues",
+      "fight_id": "5c9f1aea23479037",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Rodney Kealohi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1533.2,
+      "pre_elo": 1516.0,
+      "red_name": "Mark Climaco",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-03-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-12",
+      "fight_id": "7aa301591c298daa",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "5c9f1aea23479037",
+      "rating": 1533.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "5c9f1aea23479037",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "ef2a8074a3fb99ef",
+      "rating": 1512.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "ef2a8074a3fb99ef",
+      "rating": 1512.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "0767bea8c01954f8",
+      "rating": 1530.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "0767bea8c01954f8",
+      "rating": 1528.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "0017643e7bac47fc",
+      "rating": 1550.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "0017643e7bac47fc",
+      "rating": 1546.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Mark Climaco",
+  "nickname": "",
+  "overall_elo": 1502.0,
+  "peak_elo": 1550.3,
+  "slug": "mark-climaco",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

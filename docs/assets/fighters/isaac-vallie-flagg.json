@@ -1,0 +1,201 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 413,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Isaac Vallie-Flagg",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-11-22",
+      "elo_delta": -15.6,
+      "event_name": "UFC Fight Night: Edgar vs Swanson",
+      "fight_id": "f8543d26f4387782",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Matt Wiman",
+      "opponent_elo": 1563.7,
+      "outcome": "red_win",
+      "post_elo": 1501.5,
+      "pre_elo": 1517.1,
+      "red_name": "Matt Wiman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Isaac Vallie-Flagg",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-04-26",
+      "elo_delta": -15.2,
+      "event_name": "UFC 172: Jones vs Teixeira",
+      "fight_id": "6c79ce9576a6a7e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Takanori Gomi",
+      "opponent_elo": 1586.8,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1532.3,
+      "red_name": "Takanori Gomi",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Elias Silverio",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-01-15",
+      "elo_delta": -19.9,
+      "event_name": "UFC Fight Night: Rockhold vs Philippou",
+      "fight_id": "d96f93fba7f56973",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Elias Silverio",
+      "opponent_elo": 1515.3,
+      "outcome": "blue_win",
+      "post_elo": 1532.3,
+      "pre_elo": 1552.2,
+      "red_name": "Isaac Vallie-Flagg",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Isaac Vallie-Flagg",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-02-02",
+      "elo_delta": 19.3,
+      "event_name": "UFC 156: Aldo vs Edgar",
+      "fight_id": "51c3059fbd7d1d81",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Yves Edwards",
+      "opponent_elo": 1558.1,
+      "outcome": "blue_win",
+      "post_elo": 1552.2,
+      "pre_elo": 1532.9,
+      "red_name": "Yves Edwards",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Gesias Cavalcante",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-05-19",
+      "elo_delta": 17.6,
+      "event_name": "Strikeforce: Barnett vs. Cormier",
+      "fight_id": "c335fe8eac491dfb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 29–28, 28–29)",
+      "opponent": "Gesias Cavalcante",
+      "opponent_elo": 1507.9,
+      "outcome": "red_win",
+      "post_elo": 1532.9,
+      "pre_elo": 1515.3,
+      "red_name": "Isaac Vallie-Flagg",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2011-06-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-06-18",
+      "fight_id": "a63e59afc44f08fe",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-05-19",
+      "fight_id": "c335fe8eac491dfb",
+      "rating": 1532.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-05-19",
+      "fight_id": "c335fe8eac491dfb",
+      "rating": 1531.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-02-02",
+      "fight_id": "51c3059fbd7d1d81",
+      "rating": 1552.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-02-02",
+      "fight_id": "51c3059fbd7d1d81",
+      "rating": 1548.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-01-15",
+      "fight_id": "d96f93fba7f56973",
+      "rating": 1532.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-01-15",
+      "fight_id": "d96f93fba7f56973",
+      "rating": 1530.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-04-26",
+      "fight_id": "6c79ce9576a6a7e6",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-04-26",
+      "fight_id": "6c79ce9576a6a7e6",
+      "rating": 1521.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-11-22",
+      "fight_id": "f8543d26f4387782",
+      "rating": 1501.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-11-22",
+      "fight_id": "f8543d26f4387782",
+      "rating": 1506.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-11-22",
+  "name": "Isaac Vallie-Flagg",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1552.2,
+  "slug": "isaac-vallie-flagg",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

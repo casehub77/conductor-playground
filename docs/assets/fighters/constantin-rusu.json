@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 496,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Constantin Rusu",
+      "bout_type": "Lightweight Kickboxing Bout",
+      "date": "2023-07-15",
+      "elo_delta": -20.3,
+      "event_name": "ONE Fight Night 12: Superlek vs. Khalilov",
+      "fight_id": "aa24f60ff1f7c2df",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick)",
+      "opponent": "Bogdan Shumarov",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1513.9,
+      "pre_elo": 1534.1,
+      "red_name": "Bogdan Shumarov",
+      "round": "3",
+      "time": "1:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Islam Murtazaev",
+      "bout_type": "Catchweight (173.25 lbs) Kickboxing Bout",
+      "date": "2022-10-21",
+      "elo_delta": 16.1,
+      "event_name": "ONE 162: Zhang vs. Di Bella",
+      "fight_id": "591ed65ad28512c0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Islam Murtazaev",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1534.1,
+      "pre_elo": 1518.0,
+      "red_name": "Constantin Rusu",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Marouan Toutouh",
+      "bout_type": "Lightweight Kickboxing Bout",
+      "date": "2022-06-03",
+      "elo_delta": 18.0,
+      "event_name": "ONE 158: Tawanchai vs. Larsen",
+      "fight_id": "1039b29abf4b74a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Marouan Toutouh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Constantin Rusu",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-03",
+      "fight_id": "1039b29abf4b74a7",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "1039b29abf4b74a7",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "591ed65ad28512c0",
+      "rating": 1534.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "591ed65ad28512c0",
+      "rating": 1530.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "aa24f60ff1f7c2df",
+      "rating": 1513.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "aa24f60ff1f7c2df",
+      "rating": 1512.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-07-15",
+  "name": "Constantin Rusu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.1,
+  "slug": "constantin-rusu",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

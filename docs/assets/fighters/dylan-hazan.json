@@ -1,0 +1,126 @@
+{
+  "current_elo": 1483.4,
+  "divisional_rank": 1000,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Dylan Hazan",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-04-11",
+      "elo_delta": -18.5,
+      "event_name": "Cage Warriors 204: Rome",
+      "fight_id": "6921408c266bf50a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (omoplata)",
+      "opponent": "Alexandros Moumtzis",
+      "opponent_elo": 1519.1,
+      "outcome": "red_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1501.9,
+      "red_name": "Alexandros Moumtzis",
+      "round": "1",
+      "time": "4:08",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Dylan Hazan",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -18.1,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "cfa2e25c0db7e5cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Michelangelo Lupoli",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Michelangelo Lupoli",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Elves Oliveira",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "2125ea07a040c5a8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Elves Oliveira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dylan Hazan",
+      "round": "2",
+      "time": "0:12",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-07-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-25",
+      "fight_id": "2125ea07a040c5a8",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "2125ea07a040c5a8",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "cfa2e25c0db7e5cb",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "cfa2e25c0db7e5cb",
+      "rating": 1501.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "6921408c266bf50a",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-11",
+      "fight_id": "6921408c266bf50a",
+      "rating": 1485.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-11",
+  "name": "Dylan Hazan",
+  "nickname": "",
+  "overall_elo": 1485.4,
+  "peak_elo": 1519.4,
+  "slug": "dylan-hazan",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

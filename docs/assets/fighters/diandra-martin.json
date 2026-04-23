@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 178,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Diandra Martin",
+      "bout_type": "Catchweight (131 lbs) Muay Thai Bout",
+      "date": "2023-05-05",
+      "elo_delta": -18.6,
+      "event_name": "ONE Fight Night 10: Johnson vs. Moraes 3",
+      "fight_id": "d6d346b35d70cdd9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Jackie Buntan",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1501.6,
+      "red_name": "Jackie Buntan",
+      "round": "1",
+      "time": "2:34",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Amber Kitchen",
+      "bout_type": "Catchweight (128 lbs) Muay Thai Bout",
+      "date": "2022-08-27",
+      "elo_delta": 18.9,
+      "event_name": "ONE on Prime Video 1: Moraes vs. Johnson 2",
+      "fight_id": "59cec6848e08c82e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Amber Kitchen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.6,
+      "pre_elo": 1482.7,
+      "red_name": "Diandra Martin",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2022-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-25",
+      "fight_id": "f0e2472041cc0883",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "59cec6848e08c82e",
+      "rating": 1501.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "59cec6848e08c82e",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "d6d346b35d70cdd9",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2023-05-05",
+      "fight_id": "d6d346b35d70cdd9",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-05",
+  "name": "Diandra Martin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.6,
+  "slug": "diandra-martin",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

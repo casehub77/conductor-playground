@@ -1,0 +1,126 @@
+{
+  "current_elo": 1518.5,
+  "divisional_rank": 47,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Piera Rodriguez",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-12-14",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Covington vs. Buckley",
+      "fight_id": "eee0d405f5b4b099",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Piera Rodriguez",
+      "opponent_elo": 1510.7,
+      "outcome": "blue_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1537.9,
+      "red_name": "Josefine Knutsson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Julia Polastri",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-06-15",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Perez vs. Taira",
+      "fight_id": "4421831db568b557",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Julia Polastri",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1537.9,
+      "pre_elo": 1519.9,
+      "red_name": "Josefine Knutsson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Marnic Mann",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-09-16",
+      "elo_delta": 19.9,
+      "event_name": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "fight_id": "c9c46d955a48a3d2",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Marnic Mann",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1519.9,
+      "pre_elo": 1500.0,
+      "red_name": "Josefine Knutsson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2023-09-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-09-16",
+      "fight_id": "c9c46d955a48a3d2",
+      "rating": 1519.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "c9c46d955a48a3d2",
+      "rating": 1517.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "4421831db568b557",
+      "rating": 1537.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "4421831db568b557",
+      "rating": 1533.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-12-14",
+      "fight_id": "eee0d405f5b4b099",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-12-14",
+      "fight_id": "eee0d405f5b4b099",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-14",
+  "name": "Josefine Knutsson",
+  "nickname": "",
+  "overall_elo": 1516.4,
+  "peak_elo": 1537.9,
+  "slug": "josefine-knutsson",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

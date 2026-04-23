@@ -1,0 +1,262 @@
+{
+  "current_elo": 1452.9,
+  "divisional_rank": 695,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Billy Elekana",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": -15.8,
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "fight_id": "0d11c27e6f61cbe9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Billy Elekana",
+      "opponent_elo": 1535.4,
+      "outcome": "blue_win",
+      "post_elo": 1452.9,
+      "pre_elo": 1468.6,
+      "red_name": "Junior Tafa",
+      "round": "2.0",
+      "time": "3:18",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tuco Tokkos",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": -20.8,
+      "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+      "fight_id": "fa7e89dcfb1e0c9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tuco Tokkos",
+      "opponent_elo": 1465.5,
+      "outcome": "blue_win",
+      "post_elo": 1468.6,
+      "pre_elo": 1489.4,
+      "red_name": "Junior Tafa",
+      "round": "2.0",
+      "time": "4:25",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Sean Sharaf",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-10-12",
+      "elo_delta": 21.2,
+      "event_name": "UFC Fight Night: Royval vs. Taira",
+      "fight_id": "4de5d9e451324028",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Sean Sharaf",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1488.9,
+      "pre_elo": 1467.6,
+      "red_name": "Junior Tafa",
+      "round": "2.0",
+      "time": "2:15",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Valter Walker",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-08-17",
+      "elo_delta": -19.9,
+      "event_name": "UFC 305: Du Plessis vs. Adesanya",
+      "fight_id": "530703b83d1e708b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Valter Walker",
+      "opponent_elo": 1479.4,
+      "outcome": "blue_win",
+      "post_elo": 1467.6,
+      "pre_elo": 1487.5,
+      "red_name": "Junior Tafa",
+      "round": "1.0",
+      "time": "4:56",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Junior Tafa",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-02-17",
+      "elo_delta": -16.6,
+      "event_name": "UFC 298: Volkanovski vs. Topuria",
+      "fight_id": "8a7e710b0e95ecdc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marcos Rogerio De Lima",
+      "opponent_elo": 1556.0,
+      "outcome": "red_win",
+      "post_elo": 1487.5,
+      "pre_elo": 1504.1,
+      "red_name": "Marcos Rogerio De Lima",
+      "round": "2.0",
+      "time": "1:14",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Parker Porter",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-08-26",
+      "elo_delta": 21.0,
+      "event_name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+      "fight_id": "c8eb2195a5f2ae83",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Parker Porter",
+      "opponent_elo": 1510.4,
+      "outcome": "red_win",
+      "post_elo": 1504.1,
+      "pre_elo": 1483.1,
+      "red_name": "Junior Tafa",
+      "round": "1.0",
+      "time": "1:24",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Junior Tafa",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-04-22",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Pavlovich vs. Blaydes",
+      "fight_id": "6597cc354a4917c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mohammed Usman",
+      "opponent_elo": 1521.3,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Mohammed Usman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-04-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-22",
+      "fight_id": "6597cc354a4917c6",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "6597cc354a4917c6",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "c8eb2195a5f2ae83",
+      "rating": 1504.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "c8eb2195a5f2ae83",
+      "rating": 1503.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "8a7e710b0e95ecdc",
+      "rating": 1487.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "8a7e710b0e95ecdc",
+      "rating": 1488.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "530703b83d1e708b",
+      "rating": 1467.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "530703b83d1e708b",
+      "rating": 1470.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "4de5d9e451324028",
+      "rating": 1488.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "4de5d9e451324028",
+      "rating": 1489.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "fa7e89dcfb1e0c9d",
+      "rating": 1468.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "fa7e89dcfb1e0c9d",
+      "rating": 1471.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "0d11c27e6f61cbe9",
+      "rating": 1452.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "0d11c27e6f61cbe9",
+      "rating": 1456.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Junior Tafa",
+  "nickname": "",
+  "overall_elo": 1456.9,
+  "peak_elo": 1504.1,
+  "slug": "junior-tafa",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

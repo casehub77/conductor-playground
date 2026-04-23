@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 579,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tyson Jeffries",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-08-12",
+      "elo_delta": -17.3,
+      "event_name": "Bellator 284: Gracie vs. Yamauchi",
+      "fight_id": "be232dc8d6d5f973",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Sullivan Cauley",
+      "opponent_elo": 1538.9,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Sullivan Cauley",
+      "round": "1",
+      "time": "1:39",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-08-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-12",
+      "fight_id": "be232dc8d6d5f973",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "be232dc8d6d5f973",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-12",
+  "name": "Tyson Jeffries",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tyson-jeffries",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

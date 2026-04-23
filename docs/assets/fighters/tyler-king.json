@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 616,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tyler King",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 259: Cyborg vs. Smith 2",
+      "fight_id": "2879ebe4c65c3f60",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Davion Franklin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1483.7,
+      "red_name": "Davion Franklin",
+      "round": "1",
+      "time": "2:02",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tyler King",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2017-07-30",
+      "elo_delta": -16.3,
+      "event_name": "Rizin Fighting World Grand Prix 2017 opening round - Natsu no Jin",
+      "fight_id": "5711e0766b15ea21",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Amir Aliakbari",
+      "opponent_elo": 1557.2,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Amir Aliakbari",
+      "round": "1",
+      "time": "1:39",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-07-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-07-30",
+      "fight_id": "5711e0766b15ea21",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-07-30",
+      "fight_id": "5711e0766b15ea21",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "2879ebe4c65c3f60",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "2879ebe4c65c3f60",
+      "rating": 1469.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-05-21",
+  "name": "Tyler King",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tyler-king",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

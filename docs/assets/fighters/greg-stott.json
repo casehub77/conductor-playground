@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 469,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Greg Stott",
+      "bout_type": "Heavyweight Bout",
+      "date": "1997-10-17",
+      "elo_delta": -16.3,
+      "event_name": "UFC 15: Collision Course",
+      "fight_id": "cfe175aa1b3e0cbc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mark Kerr",
+      "opponent_elo": 1556.4,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Kerr",
+      "round": "1.0",
+      "time": "0:17",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1997-10-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-10-17",
+      "fight_id": "cfe175aa1b3e0cbc",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1997-10-17",
+      "fight_id": "cfe175aa1b3e0cbc",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1997-10-17",
+  "name": "Greg Stott",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "greg-stott",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

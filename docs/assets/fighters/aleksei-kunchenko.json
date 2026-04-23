@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 329,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Aleksei Kunchenko",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-03-14",
+      "elo_delta": -14.6,
+      "event_name": "UFC Fight Night: Lee vs. Oliveira",
+      "fight_id": "59c8cb8da9f9fdda",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Elizeu Zaleski Dos Santos",
+      "opponent_elo": 1591.1,
+      "outcome": "red_win",
+      "post_elo": 1510.4,
+      "pre_elo": 1525.0,
+      "red_name": "Elizeu Zaleski Dos Santos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Aleksei Kunchenko",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-08-10",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Shevchenko vs. Carmouche 2",
+      "fight_id": "b2e93699c09d1cc7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Gilbert Burns",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1525.0,
+      "pre_elo": 1544.4,
+      "red_name": "Gilbert Burns",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Aleksei Kunchenko",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-12-01",
+      "elo_delta": 22.7,
+      "event_name": "UFC Fight Night: Dos Santos vs. Tuivasa",
+      "fight_id": "18399657c60e3b4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yushin Okami",
+      "opponent_elo": 1615.3,
+      "outcome": "blue_win",
+      "post_elo": 1544.4,
+      "pre_elo": 1521.6,
+      "red_name": "Yushin Okami",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Thiago Alves",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-09-15",
+      "elo_delta": 21.6,
+      "event_name": "UFC Fight Night: Hunt vs. Oleinik",
+      "fight_id": "9349591fc63ddcdb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Thiago Alves",
+      "opponent_elo": 1570.9,
+      "outcome": "red_win",
+      "post_elo": 1521.6,
+      "pre_elo": 1500.0,
+      "red_name": "Aleksei Kunchenko",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2018-09-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-09-15",
+      "fight_id": "9349591fc63ddcdb",
+      "rating": 1521.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-09-15",
+      "fight_id": "9349591fc63ddcdb",
+      "rating": 1519.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "18399657c60e3b4a",
+      "rating": 1544.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "18399657c60e3b4a",
+      "rating": 1539.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-08-10",
+      "fight_id": "b2e93699c09d1cc7",
+      "rating": 1525.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-08-10",
+      "fight_id": "b2e93699c09d1cc7",
+      "rating": 1525.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-03-14",
+      "fight_id": "59c8cb8da9f9fdda",
+      "rating": 1510.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-03-14",
+      "fight_id": "59c8cb8da9f9fdda",
+      "rating": 1511.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-03-14",
+  "name": "Aleksei Kunchenko",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1544.4,
+  "slug": "aleksei-kunchenko",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

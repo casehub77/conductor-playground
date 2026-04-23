@@ -1,0 +1,126 @@
+{
+  "current_elo": 1466.7,
+  "divisional_rank": 1101,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Koki Akada",
+      "bout_type": "Catchweight 68 kg Bout",
+      "date": "2025-07-27",
+      "elo_delta": -16.3,
+      "event_name": "Super Rizin 4",
+      "fight_id": "905e134f1f282fd4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Kyoma Akimoto",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1465.7,
+      "pre_elo": 1482.0,
+      "red_name": "Kyoma Akimoto",
+      "round": "1",
+      "time": "2:57",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Koki Akada",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": -17.3,
+      "event_name": "Rizin 50",
+      "fight_id": "c4f8d8748dc5face",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Mamoru Uoi",
+      "opponent_elo": 1497.7,
+      "outcome": "red_win",
+      "post_elo": 1466.7,
+      "pre_elo": 1484.0,
+      "red_name": "Mamoru Uoi",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Koki Akada",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2024-12-31",
+      "elo_delta": -18.0,
+      "event_name": "Rizin 49: Decade",
+      "fight_id": "2ec769ba6a16ca5d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Hiroto Gomyo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Hiroto Gomyo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-31",
+      "fight_id": "2ec769ba6a16ca5d",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "2ec769ba6a16ca5d",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "c4f8d8748dc5face",
+      "rating": 1466.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "c4f8d8748dc5face",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "905e134f1f282fd4",
+      "rating": 1465.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-07-27",
+      "fight_id": "905e134f1f282fd4",
+      "rating": 1453.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-27",
+  "name": "Koki Akada",
+  "nickname": "",
+  "overall_elo": 1453.8,
+  "peak_elo": 1500.0,
+  "slug": "koki-akada",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

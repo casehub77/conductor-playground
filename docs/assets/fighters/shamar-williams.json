@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 419,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Saw Dah",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": 17.9,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "74e881ee3c3293c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 28–29, 30–27)",
+      "opponent": "Saw Dah",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1502.4,
+      "red_name": "Shamar Williams",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jared McKinley",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-09-16",
+      "elo_delta": 20.4,
+      "event_name": "Legacy Fighting Alliance 142: Amorim vs. Nichols",
+      "fight_id": "494c013fe97b3724",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Jared McKinley",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
+      "red_name": "Shamar Williams",
+      "round": "1",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Shamar Williams",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "4228007867255ada",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Chance Ikei",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Chance Ikei",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-07-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-08",
+      "fight_id": "4228007867255ada",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "4228007867255ada",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "494c013fe97b3724",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-09-16",
+      "fight_id": "494c013fe97b3724",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "74e881ee3c3293c4",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "74e881ee3c3293c4",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Shamar Williams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.3,
+  "slug": "shamar-williams",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

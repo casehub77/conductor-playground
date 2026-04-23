@@ -1,0 +1,58 @@
+{
+  "current_elo": 1498.8,
+  "divisional_rank": 653,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Arthur Fonseca",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": -19.4,
+      "event_name": "LFA 175: Lopes vs. Brigagão",
+      "fight_id": "0d19acd160bf4aa2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Tallison Teixeira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Tallison Teixeira",
+      "round": "1",
+      "time": "3:31",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-01-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-27",
+      "fight_id": "0d19acd160bf4aa2",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "0d19acd160bf4aa2",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-01-27",
+  "name": "Arthur Fonseca",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "arthur-fonseca",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

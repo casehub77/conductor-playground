@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.9,
+  "divisional_rank": 522,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matheus da Silva Severino",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-07-11",
+      "elo_delta": -20.5,
+      "event_name": "LFA 212: Degli vs. Severino",
+      "fight_id": "ce083ed7b903eb1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Marcos Degli (ic)",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Marcos Degli (ic)",
+      "round": "3",
+      "time": "2:44",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Alan Gabriel",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-05-24",
+      "elo_delta": 19.4,
+      "event_name": "LFA 209: De Lara vs. Henrique",
+      "fight_id": "5c16810e025c7593",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alan Gabriel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Matheus da Silva Severino",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-05-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-24",
+      "fight_id": "5c16810e025c7593",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-05-24",
+      "fight_id": "5c16810e025c7593",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-11",
+      "fight_id": "ce083ed7b903eb1c",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-07-11",
+      "fight_id": "ce083ed7b903eb1c",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-11",
+  "name": "Matheus da Silva Severino",
+  "nickname": "",
+  "overall_elo": 1499.1,
+  "peak_elo": 1519.4,
+  "slug": "matheus-da-silva-severino",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

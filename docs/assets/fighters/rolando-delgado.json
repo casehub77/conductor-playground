@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 549,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Rolando Delgado",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-11-14",
+      "elo_delta": -20.5,
+      "event_name": "UFC 105: Couture vs Vera",
+      "fight_id": "005619c6369c00ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Andre Winner",
+      "opponent_elo": 1483.8,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1503.4,
+      "red_name": "Andre Winner",
+      "round": "1.0",
+      "time": "3:22",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Rolando Delgado",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-06-13",
+      "elo_delta": -17.4,
+      "event_name": "UFC 99: The Comeback",
+      "fight_id": "a4fcba411f77987b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Paul Kelly",
+      "opponent_elo": 1533.1,
+      "outcome": "red_win",
+      "post_elo": 1503.4,
+      "pre_elo": 1520.8,
+      "red_name": "Paul Kelly",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "John Polakowski",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-12-13",
+      "elo_delta": 20.8,
+      "event_name": "The Ultimate Fighter: Team Nogueira vs. Team Mir Finale",
+      "fight_id": "017229fd91ed3e15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "John Polakowski",
+      "opponent_elo": 1524.0,
+      "outcome": "red_win",
+      "post_elo": 1520.8,
+      "pre_elo": 1500.0,
+      "red_name": "Rolando Delgado",
+      "round": "2.0",
+      "time": "2:18",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2008-12-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-13",
+      "fight_id": "017229fd91ed3e15",
+      "rating": 1520.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-12-13",
+      "fight_id": "017229fd91ed3e15",
+      "rating": 1518.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-13",
+      "fight_id": "a4fcba411f77987b",
+      "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-06-13",
+      "fight_id": "a4fcba411f77987b",
+      "rating": 1503.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-11-14",
+      "fight_id": "005619c6369c00ed",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-11-14",
+      "fight_id": "005619c6369c00ed",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-11-14",
+  "name": "Rolando Delgado",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.8,
+  "slug": "rolando-delgado",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

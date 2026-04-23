@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 461,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Krzysztof Jotko",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-10-04",
+      "elo_delta": -17.2,
+      "event_name": "UFC Fight Night: Nelson vs Story",
+      "fight_id": "a7ef4170d573b3be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Krzysztof Jotko",
+      "opponent_elo": 1497.7,
+      "outcome": "blue_win",
+      "post_elo": 1464.8,
+      "pre_elo": 1482.0,
+      "red_name": "Tor Troeng",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Trevor Smith",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-07-19",
+      "elo_delta": -20.4,
+      "event_name": "UFC Fight Night: McGregor vs Brandao",
+      "fight_id": "52142364705548db",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Trevor Smith",
+      "opponent_elo": 1456.3,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1502.4,
+      "red_name": "Tor Troeng",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tor Troeng",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-09-04",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Teixeira vs Bader",
+      "fight_id": "fa86096e4ac8ad6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rafael Natal",
+      "opponent_elo": 1537.7,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1519.4,
+      "red_name": "Rafael Natal",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Adam Cella",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-04-06",
+      "elo_delta": 19.4,
+      "event_name": "UFC on FUEL TV: Mousasi vs Latifi",
+      "fight_id": "e80efaa1490765fe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Adam Cella",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tor Troeng",
+      "round": "1.0",
+      "time": "3:11",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2013-04-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-04-06",
+      "fight_id": "e80efaa1490765fe",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-04-06",
+      "fight_id": "e80efaa1490765fe",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "fa86096e4ac8ad6e",
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-09-04",
+      "fight_id": "fa86096e4ac8ad6e",
+      "rating": 1502.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-07-19",
+      "fight_id": "52142364705548db",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-07-19",
+      "fight_id": "52142364705548db",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "a7ef4170d573b3be",
+      "rating": 1464.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "a7ef4170d573b3be",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-10-04",
+  "name": "Tor Troeng",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "tor-troeng",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

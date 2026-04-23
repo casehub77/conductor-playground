@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.1,
+  "divisional_rank": 521,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Woo Sung-hoon",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-06-10",
+      "elo_delta": -16.9,
+      "event_name": "ONE Fight Night 11: Eersel vs. Menshikov",
+      "fight_id": "2b1d942c909bc236",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Hu Yong",
+      "opponent_elo": 1502.4,
+      "outcome": "red_win",
+      "post_elo": 1465.1,
+      "pre_elo": 1482.0,
+      "red_name": "Hu Yong",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Woo Sung-hoon",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": -18.0,
+      "event_name": "ONE 156: Eersel vs. Sadiković",
+      "fight_id": "7784c6d41db97a19",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Windson Ramos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Windson Ramos",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-04-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-22",
+      "fight_id": "7784c6d41db97a19",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "7784c6d41db97a19",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "2b1d942c909bc236",
+      "rating": 1465.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "2b1d942c909bc236",
+      "rating": 1468.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-10",
+  "name": "Woo Sung-hoon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "woo-sung-hoon",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

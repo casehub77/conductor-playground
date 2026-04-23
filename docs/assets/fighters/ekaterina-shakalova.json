@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 38,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dayana Silva",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2023-08-11",
+      "elo_delta": 16.3,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "84b61ebd84527310",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 30–27)",
+      "opponent": "Dayana Silva",
+      "opponent_elo": 1466.2,
+      "outcome": "red_win",
+      "post_elo": 1516.3,
+      "pre_elo": 1500.0,
+      "red_name": "Ekaterina Shakalova",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-08-11",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-08-11",
+      "fight_id": "84b61ebd84527310",
+      "rating": 1516.3,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "84b61ebd84527310",
+      "rating": 1514.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Ekaterina Shakalova",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.3,
+  "slug": "ekaterina-shakalova",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

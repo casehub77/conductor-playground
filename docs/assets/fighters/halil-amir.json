@@ -1,0 +1,194 @@
+{
+  "current_elo": 1509.8,
+  "divisional_rank": 243,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Halil Amir",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-12-07",
+      "elo_delta": -17.8,
+      "event_name": "ONE Fight Night 26: Lee vs. Rasulov",
+      "fight_id": "8c968dda6270c8e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Shamil Gasanov",
+      "opponent_elo": 1532.1,
+      "outcome": "red_win",
+      "post_elo": 1509.8,
+      "pre_elo": 1527.5,
+      "red_name": "Shamil Gasanov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Halil Amir",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-05-04",
+      "elo_delta": -19.9,
+      "event_name": "ONE Fight Night 22: Sundell vs. Diachkova",
+      "fight_id": "4e70a0f0904f5a24",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Akbar Abdullaev",
+      "opponent_elo": 1538.7,
+      "outcome": "red_win",
+      "post_elo": 1527.5,
+      "pre_elo": 1547.5,
+      "red_name": "Akbar Abdullaev",
+      "round": "2",
+      "time": "2:52",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ahmed Mujtaba",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": 17.7,
+      "event_name": "ONE Fight Night 16: Haggerty vs. Andrade",
+      "fight_id": "f5bc205bd8e66344",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ahmed Mujtaba",
+      "opponent_elo": 1503.4,
+      "outcome": "red_win",
+      "post_elo": 1553.1,
+      "pre_elo": 1535.4,
+      "red_name": "Halil Amir",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Maurice Abévi",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-04-21",
+      "elo_delta": 17.1,
+      "event_name": "ONE Fight Night 9: Nong-O vs. Haggerty",
+      "fight_id": "38f9478f293fed75",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Maurice Abévi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.4,
+      "pre_elo": 1518.4,
+      "red_name": "Halil Amir",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Timofey Nastyukhin",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": 18.4,
+      "event_name": "ONE on Prime Video 2: Xiong vs. Lee 3",
+      "fight_id": "852fb02b8e85c2e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Timofey Nastyukhin",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Halil Amir",
+      "round": "2",
+      "time": "0:58",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-01",
+      "fight_id": "852fb02b8e85c2e1",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "852fb02b8e85c2e1",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "38f9478f293fed75",
+      "rating": 1535.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "38f9478f293fed75",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "f5bc205bd8e66344",
+      "rating": 1553.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "f5bc205bd8e66344",
+      "rating": 1547.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "4e70a0f0904f5a24",
+      "rating": 1527.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "4e70a0f0904f5a24",
+      "rating": 1529.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "8c968dda6270c8e7",
+      "rating": 1509.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "8c968dda6270c8e7",
+      "rating": 1513.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-07",
+  "name": "Halil Amir",
+  "nickname": "",
+  "overall_elo": 1513.5,
+  "peak_elo": 1553.1,
+  "slug": "halil-amir",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

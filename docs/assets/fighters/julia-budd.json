@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 31,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dayana Silva",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2021-04-16",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 257: Nemkov vs. Davis 2",
+      "fight_id": "b63fa98f4cf44cd6",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (28–29, 29–28, 29–28)",
+      "opponent": "Dayana Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Julia Budd",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-04-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-04-16",
+      "fight_id": "b63fa98f4cf44cd6",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2021-04-16",
+      "fight_id": "b63fa98f4cf44cd6",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-04-16",
+  "name": "Julia Budd",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "julia-budd",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

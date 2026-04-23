@@ -1,0 +1,160 @@
+{
+  "current_elo": 1528.0,
+  "divisional_rank": 134,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Rafael Estevam",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": -20.9,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "ce0f90828f817741",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ethyn Ewing",
+      "opponent_elo": 1522.1,
+      "outcome": "red_win",
+      "post_elo": 1528.0,
+      "pre_elo": 1549.0,
+      "red_name": "Ethyn Ewing",
+      "round": "3",
+      "time": "1:44",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Felipe Bunes",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": 16.3,
+      "event_name": "UFC Fight Night: Taira vs. Park",
+      "fight_id": "23903696cd0bd821",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Felipe Bunes",
+      "opponent_elo": 1506.3,
+      "outcome": "red_win",
+      "post_elo": 1555.2,
+      "pre_elo": 1538.9,
+      "red_name": "Rafael Estevam",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jesus Aguilar",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-02-15",
+      "elo_delta": 18.9,
+      "event_name": "UFC Fight Night: Cannonier vs. Rodrigues",
+      "fight_id": "0da3a6a482a8d837",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jesus Aguilar",
+      "opponent_elo": 1536.5,
+      "outcome": "red_win",
+      "post_elo": 1538.9,
+      "pre_elo": 1520.0,
+      "red_name": "Rafael Estevam",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Rafael Estevam",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": 20.0,
+      "event_name": "UFC Fight Night: Allen vs. Craig",
+      "fight_id": "d99d13a952673565",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Charles Johnson",
+      "opponent_elo": 1539.7,
+      "outcome": "blue_win",
+      "post_elo": 1520.0,
+      "pre_elo": 1500.0,
+      "red_name": "Charles Johnson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-18",
+      "fight_id": "d99d13a952673565",
+      "rating": 1520.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "d99d13a952673565",
+      "rating": 1517.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-15",
+      "fight_id": "0da3a6a482a8d837",
+      "rating": 1538.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-02-15",
+      "fight_id": "0da3a6a482a8d837",
+      "rating": 1534.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "23903696cd0bd821",
+      "rating": 1555.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "23903696cd0bd821",
+      "rating": 1549.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "ce0f90828f817741",
+      "rating": 1528.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "ce0f90828f817741",
+      "rating": 1531.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Rafael Estevam",
+  "nickname": "",
+  "overall_elo": 1531.1,
+  "peak_elo": 1555.2,
+  "slug": "rafael-estevam",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

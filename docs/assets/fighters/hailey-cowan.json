@@ -1,0 +1,126 @@
+{
+  "current_elo": 1446.2,
+  "divisional_rank": 160,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Hailey Cowan",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "513a0c838dfba61c",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alice Pereira",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1446.2,
+      "pre_elo": 1464.6,
+      "red_name": "Alice Pereira",
+      "round": "2",
+      "time": "4:24",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Hailey Cowan",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-04-12",
+      "elo_delta": -17.4,
+      "event_name": "UFC 314: Volkanovski vs. Lopes",
+      "fight_id": "8f20c0713fcd1e97",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Nora Cornolle",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1464.6,
+      "pre_elo": 1482.0,
+      "red_name": "Nora Cornolle",
+      "round": "2.0",
+      "time": "1:52",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jamey-Lyn Horth",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2023-04-29",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Song vs. Simon",
+      "fight_id": "86aaee7a1492aeac",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jamey-Lyn Horth",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Hailey Cowan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "86aaee7a1492aeac",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "86aaee7a1492aeac",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-04-12",
+      "fight_id": "8f20c0713fcd1e97",
+      "rating": 1464.6,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-04-12",
+      "fight_id": "8f20c0713fcd1e97",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "513a0c838dfba61c",
+      "rating": 1446.2,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "513a0c838dfba61c",
+      "rating": 1451.9,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Hailey Cowan",
+  "nickname": "",
+  "overall_elo": 1451.9,
+  "peak_elo": 1500.0,
+  "slug": "hailey-cowan",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

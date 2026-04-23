@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 119,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Viviane Araujo",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2019-05-11",
+      "elo_delta": -18.4,
+      "event_name": "UFC 237: Namajunas vs. Andrade",
+      "fight_id": "9cd3ea32465eef2e",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Viviane Araujo",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1463.5,
+      "pre_elo": 1481.9,
+      "red_name": "Talita Bernardo",
+      "round": "3.0",
+      "time": "0:48",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Talita Bernardo",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2018-10-27",
+      "elo_delta": 19.2,
+      "event_name": "UFC Fight Night: Oezdemir vs. Smith",
+      "fight_id": "bacd7f018ad70596",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sarah Moras",
+      "opponent_elo": 1485.1,
+      "outcome": "blue_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1462.7,
+      "red_name": "Sarah Moras",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Irene Aldana",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2018-01-14",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Stephens vs. Choi",
+      "fight_id": "1eff5d7ef113200e",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Irene Aldana",
+      "opponent_elo": 1464.1,
+      "outcome": "blue_win",
+      "post_elo": 1462.7,
+      "pre_elo": 1481.6,
+      "red_name": "Talita Bernardo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Talita Bernardo",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2017-09-02",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Volkov vs. Struve",
+      "fight_id": "cc73375141d03fbd",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marion Reneau",
+      "opponent_elo": 1519.3,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Marion Reneau",
+      "round": "3.0",
+      "time": "4:54",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2017-09-02",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-09-02",
+      "fight_id": "cc73375141d03fbd",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2017-09-02",
+      "fight_id": "cc73375141d03fbd",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-01-14",
+      "fight_id": "1eff5d7ef113200e",
+      "rating": 1462.7,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2018-01-14",
+      "fight_id": "1eff5d7ef113200e",
+      "rating": 1466.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-10-27",
+      "fight_id": "bacd7f018ad70596",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2018-10-27",
+      "fight_id": "bacd7f018ad70596",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-05-11",
+      "fight_id": "9cd3ea32465eef2e",
+      "rating": 1463.5,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2019-05-11",
+      "fight_id": "9cd3ea32465eef2e",
+      "rating": 1467.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-05-11",
+  "name": "Talita Bernardo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "talita-bernardo",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

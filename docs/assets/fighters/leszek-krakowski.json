@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 421,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Michael Dubois",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2019-05-18",
+      "elo_delta": 16.3,
+      "event_name": "KSW 49: Soldić vs. Kaszubowski",
+      "fight_id": "3688944b002de6d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Michael Dubois",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1549.2,
+      "pre_elo": 1532.9,
+      "red_name": "Leszek Krakowski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alfie Davis",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2018-10-06",
+      "elo_delta": 17.2,
+      "event_name": "KSW 45: The Return to Wembley",
+      "fight_id": "b1befbc55d533b3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Alfie Davis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1532.9,
+      "pre_elo": 1515.7,
+      "red_name": "Leszek Krakowski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Leszek Krakowski",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2016-10-01",
+      "elo_delta": -20.2,
+      "event_name": "KSW 36: Materla vs. Palhares",
+      "fight_id": "adfb840f97c4f9d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Kleber Koike Erbst",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1494.0,
+      "pre_elo": 1514.2,
+      "red_name": "Kleber Koike Erbst",
+      "round": "1",
+      "time": "4:24",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Andre Winner",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2015-10-31",
+      "elo_delta": 15.7,
+      "event_name": "KSW 32: Road to Wembley",
+      "fight_id": "663c3902d0af7fa4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Andre Winner",
+      "opponent_elo": 1455.3,
+      "outcome": "red_win",
+      "post_elo": 1515.7,
+      "pre_elo": 1500.0,
+      "red_name": "Leszek Krakowski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2015-10-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-10-31",
+      "fight_id": "663c3902d0af7fa4",
+      "rating": 1515.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-10-31",
+      "fight_id": "663c3902d0af7fa4",
+      "rating": 1514.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "adfb840f97c4f9d3",
+      "rating": 1494.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "adfb840f97c4f9d3",
+      "rating": 1496.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "b1befbc55d533b3c",
+      "rating": 1532.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "b1befbc55d533b3c",
+      "rating": 1512.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-05-18",
+      "fight_id": "3688944b002de6d8",
+      "rating": 1549.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-05-18",
+      "fight_id": "3688944b002de6d8",
+      "rating": 1527.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-05-18",
+  "name": "Leszek Krakowski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1549.2,
+  "slug": "leszek-krakowski",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

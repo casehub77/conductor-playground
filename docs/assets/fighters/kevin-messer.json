@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 734,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Messer",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-10-21",
+      "elo_delta": -19.5,
+      "event_name": "Legacy Fighting Alliance 145: Assis vs. Murray",
+      "fight_id": "d7fe21bdc04d1ee3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Santos Verdinez",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Santos Verdinez",
+      "round": "1",
+      "time": "4:44",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-10-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-21",
+      "fight_id": "d7fe21bdc04d1ee3",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "d7fe21bdc04d1ee3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-21",
+  "name": "Kevin Messer",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kevin-messer",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

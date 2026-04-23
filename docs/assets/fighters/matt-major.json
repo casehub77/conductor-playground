@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 779,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matt Major",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-09-16",
+      "elo_delta": -19.3,
+      "event_name": "Bellator 29",
+      "fight_id": "ed695559d1759370",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Brett Cooper",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1462.7,
+      "pre_elo": 1482.0,
+      "red_name": "Brett Cooper",
+      "round": "2",
+      "time": "1:27",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Matt Major",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-04-29",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 16",
+      "fight_id": "ec7573637186bf7e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Alexander Shlemenko",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Alexander Shlemenko",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2010-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-29",
+      "fight_id": "ec7573637186bf7e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-04-29",
+      "fight_id": "ec7573637186bf7e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-16",
+      "fight_id": "ed695559d1759370",
+      "rating": 1462.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-09-16",
+      "fight_id": "ed695559d1759370",
+      "rating": 1466.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-16",
+  "name": "Matt Major",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "matt-major",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

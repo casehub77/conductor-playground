@@ -1,0 +1,92 @@
+{
+  "current_elo": 1479.5,
+  "divisional_rank": 1186,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Orlando Sanders",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-02-23",
+      "elo_delta": -18.4,
+      "event_name": "Cage Warriors 166: San Diego",
+      "fight_id": "5d237f5f62bd8416",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Chasen Blair",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.1,
+      "pre_elo": 1481.5,
+      "red_name": "Chasen Blair",
+      "round": "1",
+      "time": "2:09",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Orlando Sanders",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": -18.5,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "c07be10334b50855",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Jeffrey Craig",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jeffrey Craig",
+      "round": "1",
+      "time": "4:51",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-29",
+      "fight_id": "c07be10334b50855",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "c07be10334b50855",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-23",
+      "fight_id": "5d237f5f62bd8416",
+      "rating": 1463.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-02-23",
+      "fight_id": "5d237f5f62bd8416",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-02-23",
+  "name": "Orlando Sanders",
+  "nickname": "",
+  "overall_elo": 1483.5,
+  "peak_elo": 1500.0,
+  "slug": "orlando-sanders",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

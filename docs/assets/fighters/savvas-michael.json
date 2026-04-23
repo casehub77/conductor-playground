@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 326,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Savvas Michael",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2022-08-27",
+      "elo_delta": -20.4,
+      "event_name": "ONE on Prime Video 1: Moraes vs. Johnson 2",
+      "fight_id": "fdfa3c37805f8810",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Panpayak Jitmuangnon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Panpayak Jitmuangnon",
+      "round": "2",
+      "time": "0:10",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Amir Naseri",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2022-05-20",
+      "elo_delta": 18.0,
+      "event_name": "ONE 157: Petchmorakot vs. Vienot",
+      "fight_id": "415a917decbdb503",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Amir Naseri",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Savvas Michael",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-05-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-20",
+      "fight_id": "415a917decbdb503",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-05-20",
+      "fight_id": "415a917decbdb503",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "fdfa3c37805f8810",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "fdfa3c37805f8810",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-27",
+  "name": "Savvas Michael",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "savvas-michael",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

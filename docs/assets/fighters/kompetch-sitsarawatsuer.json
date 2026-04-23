@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 92,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Huo Xiaolong",
+      "bout_type": "Strawweight Kickboxing Bout",
+      "date": "2023-06-30",
+      "elo_delta": 20.8,
+      "event_name": "ONE Friday Fights 23: Paedsanlek vs. Kongklai",
+      "fight_id": "8317af6113c3340d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Huo Xiaolong",
+      "opponent_elo": 1534.5,
+      "outcome": "red_win",
+      "post_elo": 1501.8,
+      "pre_elo": 1481.0,
+      "red_name": "Kompetch Sitsarawatsuer",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Kompetch Sitsarawatsuer",
+      "bout_type": "Strawweight Muay Thai Bout",
+      "date": "2023-01-20",
+      "elo_delta": -19.0,
+      "event_name": "ONE Friday Fights: Nong-O vs. Ramazanov",
+      "fight_id": "66f56ca453f34836",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Prajanchai P.K.Saenchai",
+      "opponent_elo": 1481.5,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Prajanchai P.K.Saenchai",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2023-01-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-20",
+      "fight_id": "66f56ca453f34836",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2023-01-20",
+      "fight_id": "66f56ca453f34836",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-30",
+      "fight_id": "8317af6113c3340d",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2023-06-30",
+      "fight_id": "8317af6113c3340d",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-30",
+  "name": "Kompetch Sitsarawatsuer",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.8,
+  "slug": "kompetch-sitsarawatsuer",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

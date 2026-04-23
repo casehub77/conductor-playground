@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1253,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Paul Redmond",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2018-06-09",
+      "elo_delta": -18.2,
+      "event_name": "KSW 44: The Game",
+      "fight_id": "4c966f146bbd8ca0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Gracjan Szadziński",
+      "opponent_elo": 1506.7,
+      "outcome": "red_win",
+      "post_elo": 1465.5,
+      "pre_elo": 1483.7,
+      "red_name": "Gracjan Szadziński",
+      "round": "2",
+      "time": "1:36",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Łukasz Chlewicki",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2017-10-22",
+      "elo_delta": 17.5,
+      "event_name": "KSW 40: Dublin",
+      "fight_id": "b82fd932cc7b116e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Łukasz Chlewicki",
+      "opponent_elo": 1454.7,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1464.5,
+      "red_name": "Paul Redmond",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Paul Redmond",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-07-18",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Bisping vs Leites",
+      "fight_id": "db32be21b8b974c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Robert Whiteford",
+      "opponent_elo": 1499.1,
+      "outcome": "red_win",
+      "post_elo": 1464.5,
+      "pre_elo": 1483.0,
+      "red_name": "Robert Whiteford",
+      "round": "1.0",
+      "time": "3:04",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Paul Redmond",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-01-24",
+      "elo_delta": -17.0,
+      "event_name": "UFC on FOX: Gustafsson vs Johnson",
+      "fight_id": "432e70b346554c69",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mirsad Bektic",
+      "opponent_elo": 1519.7,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mirsad Bektic",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2015-01-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-01-24",
+      "fight_id": "432e70b346554c69",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-01-24",
+      "fight_id": "432e70b346554c69",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-07-18",
+      "fight_id": "db32be21b8b974c3",
+      "rating": 1464.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-07-18",
+      "fight_id": "db32be21b8b974c3",
+      "rating": 1468.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-10-22",
+      "fight_id": "b82fd932cc7b116e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2017-10-22",
+      "fight_id": "b82fd932cc7b116e",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "4c966f146bbd8ca0",
+      "rating": 1465.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "4c966f146bbd8ca0",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-06-09",
+  "name": "Paul Redmond",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "paul-redmond",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

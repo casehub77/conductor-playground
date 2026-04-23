@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 77,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Elizabeth Phillips",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2015-07-25",
+      "elo_delta": -18.7,
+      "event_name": "UFC on FOX: Dillashaw vs. Barao II",
+      "fight_id": "8248d3ddfb2a80dc",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Elizabeth Phillips",
+      "opponent_elo": 1464.9,
+      "outcome": "blue_win",
+      "post_elo": 1459.7,
+      "pre_elo": 1478.4,
+      "red_name": "Jessamyn Duke",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Leslie Smith",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2014-07-16",
+      "elo_delta": -21.4,
+      "event_name": "UFC Fight Night: Cowboy vs Miller",
+      "fight_id": "713e08a63464b007",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Leslie Smith",
+      "opponent_elo": 1464.1,
+      "outcome": "blue_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1499.9,
+      "red_name": "Jessamyn Duke",
+      "round": "1.0",
+      "time": "2:24",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Bethe Correia",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2014-04-26",
+      "elo_delta": -18.1,
+      "event_name": "UFC 172: Jones vs Teixeira",
+      "fight_id": "f237d6c7dc7423fc",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bethe Correia",
+      "opponent_elo": 1515.3,
+      "outcome": "blue_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1518.0,
+      "red_name": "Jessamyn Duke",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Peggy Morgan",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2013-11-30",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: Team Rousey vs. Team Tate Finale",
+      "fight_id": "b56c85df12363c14",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Peggy Morgan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jessamyn Duke",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2013-11-30",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2013-11-30",
+      "fight_id": "b56c85df12363c14",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2013-11-30",
+      "fight_id": "b56c85df12363c14",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2014-04-26",
+      "fight_id": "f237d6c7dc7423fc",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2014-04-26",
+      "fight_id": "f237d6c7dc7423fc",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2014-07-16",
+      "fight_id": "713e08a63464b007",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2014-07-16",
+      "fight_id": "713e08a63464b007",
+      "rating": 1481.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-07-25",
+      "fight_id": "8248d3ddfb2a80dc",
+      "rating": 1459.7,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2015-07-25",
+      "fight_id": "8248d3ddfb2a80dc",
+      "rating": 1464.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-07-25",
+  "name": "Jessamyn Duke",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "jessamyn-duke",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

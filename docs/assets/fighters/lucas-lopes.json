@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 436,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lucas Lopes",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-12-04",
+      "elo_delta": -20.5,
+      "event_name": "Strikeforce: Henderson vs. Babalu II",
+      "fight_id": "606bfe1ed4f6cc9f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Cortez Coleman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Cortez Coleman",
+      "round": "1",
+      "time": "2:04",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Scott Ventimiglia",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-06-06",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Lawler vs. Shields",
+      "fight_id": "b0c06c17504d80bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Disqualification (illegal knee)",
+      "opponent": "Scott Ventimiglia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lucas Lopes",
+      "round": "1",
+      "time": "3:26",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-06-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-06-06",
+      "fight_id": "b0c06c17504d80bf",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-06-06",
+      "fight_id": "b0c06c17504d80bf",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "606bfe1ed4f6cc9f",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "606bfe1ed4f6cc9f",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-12-04",
+  "name": "Lucas Lopes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "lucas-lopes",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

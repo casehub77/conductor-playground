@@ -1,0 +1,160 @@
+{
+  "current_elo": 1463.3,
+  "divisional_rank": 1014,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Radovan Úškrt",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-12-29",
+      "elo_delta": -18.4,
+      "event_name": "Oktagon 65: Paradeiser vs. Keita 2",
+      "fight_id": "645dfa742abe50f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Daniel Schwindt",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.3,
+      "pre_elo": 1481.8,
+      "red_name": "Daniel Schwindt",
+      "round": "2",
+      "time": "2:23",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Radovan Úškrt",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": -19.5,
+      "event_name": "Oktagon 59: Summer Party",
+      "fight_id": "e6350850f8517ee8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Petr Kníže",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1501.3,
+      "red_name": "Petr Kníže",
+      "round": "2",
+      "time": "3:47",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tato Primera",
+      "bout_type": "Catchweight (176 lb) Bout",
+      "date": "2023-07-28",
+      "elo_delta": 19.4,
+      "event_name": "Oktagon 45 Special: Mågård vs. Lima",
+      "fight_id": "14713210ef9ffd00",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Tato Primera",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1482.0,
+      "red_name": "Radovan Úškrt",
+      "round": "2",
+      "time": "4:55",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Radovan Úškrt",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-10",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 40: Kozma vs. Siwiec",
+      "fight_id": "54ffdd94c8455b30",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Melvin van Suijdam",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Melvin van Suijdam",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "54ffdd94c8455b30",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-10",
+      "fight_id": "54ffdd94c8455b30",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "14713210ef9ffd00",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "14713210ef9ffd00",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "e6350850f8517ee8",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "e6350850f8517ee8",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-29",
+      "fight_id": "645dfa742abe50f1",
+      "rating": 1463.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-12-29",
+      "fight_id": "645dfa742abe50f1",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-29",
+  "name": "Radovan Úškrt",
+  "nickname": "",
+  "overall_elo": 1467.5,
+  "peak_elo": 1501.4,
+  "slug": "radovan-uskrt",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

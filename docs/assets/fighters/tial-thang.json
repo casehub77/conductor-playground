@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 839,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tial Thang",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": -20.5,
+      "event_name": "ONE 164: Pacio vs. Brooks",
+      "fight_id": "7a3ca3277074c0e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Jeremy Pacatiw",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jeremy Pacatiw",
+      "round": "2",
+      "time": "1:17",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tial Thang",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": 0.0,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "e25b05a35b681819",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental knee to groin)",
+      "opponent": "Sunoto Peringkat",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Sunoto Peringkat",
+      "round": "1",
+      "time": "1:37",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "e25b05a35b681819",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "e25b05a35b681819",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "7a3ca3277074c0e4",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "7a3ca3277074c0e4",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-03",
+  "name": "Tial Thang",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tial-thang",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

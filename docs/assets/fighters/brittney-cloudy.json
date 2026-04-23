@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.3,
+  "divisional_rank": 45,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brittney Cloudy",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": -19.1,
+      "event_name": "Oktagon 69: Holzer vs. Ilbay",
+      "fight_id": "e64163c06dc398a8",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Lucie Pudilová",
+      "opponent_elo": 1498.1,
+      "outcome": "red_win",
+      "post_elo": 1500.3,
+      "pre_elo": 1519.4,
+      "red_name": "Lucie Pudilová",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Annette Nichols",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2022-01-21",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 122: Johnson vs. Mota",
+      "fight_id": "241a80e79c95d2b1",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Annette Nichols",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Brittney Cloudy",
+      "round": "1",
+      "time": "3;14",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-01-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-01-21",
+      "fight_id": "241a80e79c95d2b1",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2022-01-21",
+      "fight_id": "241a80e79c95d2b1",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "e64163c06dc398a8",
+      "rating": 1500.3,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "e64163c06dc398a8",
+      "rating": 1500.4,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-05",
+  "name": "Brittney Cloudy",
+  "nickname": "",
+  "overall_elo": 1500.4,
+  "peak_elo": 1519.4,
+  "slug": "brittney-cloudy",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 597,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Min Soo Cho",
+      "bout_type": "Bantamweight 61kg Bout",
+      "date": "2021-10-30",
+      "elo_delta": 19.3,
+      "event_name": "ARC 6",
+      "fight_id": "f4c8247e133f52cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Min Soo Cho",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1482.7,
+      "red_name": "Jin Woo Park",
+      "round": "2",
+      "time": "2:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-27",
+      "fight_id": "b9cf6ba10338091f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "f4c8247e133f52cb",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "f4c8247e133f52cb",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-30",
+  "name": "Jin Woo Park",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.0,
+  "slug": "jin-woo-park",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 593,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jason Delucia",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-11-19",
+      "elo_delta": -19.5,
+      "event_name": "UFC 23: Ultimate Japan 2",
+      "fight_id": "97efb7273093ea30",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joe Slick",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.9,
+      "red_name": "Joe Slick",
+      "round": "1.0",
+      "time": "1:28",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Scott Baker",
+      "bout_type": "Open Weight Bout",
+      "date": "1994-03-11",
+      "elo_delta": 20.5,
+      "event_name": "UFC 2: No Way Out",
+      "fight_id": "2b26c87ee3e92e1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Scott Baker",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Jason Delucia",
+      "round": "1.0",
+      "time": "6:41",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Jason Delucia",
+      "bout_type": "Open Weight Bout",
+      "date": "1994-03-11",
+      "elo_delta": -19.4,
+      "event_name": "UFC 2: No Way Out",
+      "fight_id": "d447d33a0a879fb3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Royce Gracie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Royce Gracie",
+      "round": "1.0",
+      "time": "1:07",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1994-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1994-03-11",
+      "fight_id": "d447d33a0a879fb3",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1994-03-11",
+      "fight_id": "2b26c87ee3e92e1c",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1994-03-11",
+      "fight_id": "d447d33a0a879fb3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1994-03-11",
+      "fight_id": "2b26c87ee3e92e1c",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-11-19",
+      "fight_id": "97efb7273093ea30",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-11-19",
+      "fight_id": "97efb7273093ea30",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-11-19",
+  "name": "Jason Delucia",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.1,
+  "slug": "jason-delucia",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

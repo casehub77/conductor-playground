@@ -1,0 +1,194 @@
+{
+  "current_elo": 1525.2,
+  "divisional_rank": 40,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Karolina Kowalkiewicz",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-10-11",
+      "elo_delta": 21.2,
+      "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+      "fight_id": "71f47fb46de2919f",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Karolina Kowalkiewicz",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1525.2,
+      "pre_elo": 1504.0,
+      "red_name": "Julia Polastri",
+      "round": "3.0",
+      "time": "2:56",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Julia Polastri",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-03-29",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Moreno vs. Erceg",
+      "fight_id": "d041a43e5ec57e66",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Loopy Godinez",
+      "opponent_elo": 1553.1,
+      "outcome": "red_win",
+      "post_elo": 1504.0,
+      "pre_elo": 1520.3,
+      "red_name": "Loopy Godinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Cory Mckenna",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-10-12",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Royval vs. Taira",
+      "fight_id": "0c2842f9f811a870",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Cory Mckenna",
+      "opponent_elo": 1517.6,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1501.5,
+      "red_name": "Julia Polastri",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Julia Polastri",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-06-15",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Perez vs. Taira",
+      "fight_id": "4421831db568b557",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Josefine Knutsson",
+      "opponent_elo": 1519.9,
+      "outcome": "red_win",
+      "post_elo": 1501.5,
+      "pre_elo": 1519.4,
+      "red_name": "Josefine Knutsson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Bianca Sattelmayer",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-11-04",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 146: Barbosa vs. Santos",
+      "fight_id": "e25e2c7426a241b1",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO",
+      "opponent": "Bianca Sattelmayer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Julia Polastri",
+      "round": "3",
+      "time": "0:51",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2022-11-04",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-11-04",
+      "fight_id": "e25e2c7426a241b1",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-11-04",
+      "fight_id": "e25e2c7426a241b1",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "4421831db568b557",
+      "rating": 1501.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "4421831db568b557",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "0c2842f9f811a870",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "0c2842f9f811a870",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-03-29",
+      "fight_id": "d041a43e5ec57e66",
+      "rating": 1504.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-03-29",
+      "fight_id": "d041a43e5ec57e66",
+      "rating": 1502.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "71f47fb46de2919f",
+      "rating": 1525.2,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "71f47fb46de2919f",
+      "rating": 1521.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-11",
+  "name": "Julia Polastri",
+  "nickname": "",
+  "overall_elo": 1521.6,
+  "peak_elo": 1525.2,
+  "slug": "julia-polastri",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

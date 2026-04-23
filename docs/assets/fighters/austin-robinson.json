@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 652,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mike O'Gorman",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 20.4,
+      "event_name": "Legacy Fighting Alliance 129: Petersen vs. Cortes-Acosta",
+      "fight_id": "c4dab86c98bf01a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Mike O'Gorman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1483.5,
+      "red_name": "Austin Robinson",
+      "round": "2",
+      "time": "0:22",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-12-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-10",
+      "fight_id": "023958f034041d28",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c4dab86c98bf01a5",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "c4dab86c98bf01a5",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-15",
+  "name": "Austin Robinson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.9,
+  "slug": "austin-robinson",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

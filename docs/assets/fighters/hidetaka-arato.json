@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.5,
+  "divisional_rank": 651,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hidetaka Arato",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": -19.0,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "8e7fce257a5683ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Sina Karimian",
+      "opponent_elo": 1500.1,
+      "outcome": "red_win",
+      "post_elo": 1499.5,
+      "pre_elo": 1518.5,
+      "red_name": "Sina Karimian",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Takakenshin",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2023-10-01",
+      "elo_delta": 18.5,
+      "event_name": "Rizin Landmark 6",
+      "fight_id": "9ddd9a25eb520790",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Takakenshin",
+      "opponent_elo": 1482.8,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Hidetaka Arato",
+      "round": "2",
+      "time": "4:49",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-01",
+      "fight_id": "9ddd9a25eb520790",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-10-01",
+      "fight_id": "9ddd9a25eb520790",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "8e7fce257a5683ea",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "8e7fce257a5683ea",
+      "rating": 1499.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-14",
+  "name": "Hidetaka Arato",
+  "nickname": "",
+  "overall_elo": 1499.7,
+  "peak_elo": 1518.5,
+  "slug": "hidetaka-arato",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

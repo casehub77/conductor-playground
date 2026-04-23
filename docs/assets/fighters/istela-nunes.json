@@ -1,0 +1,194 @@
+{
+  "current_elo": 1416.9,
+  "divisional_rank": 305,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Istela Nunes",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": -11.3,
+      "event_name": "UFC Fight Night: Emmett vs. Murphy",
+      "fight_id": "b490af9e624ea821",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Loma Lookboonmee",
+      "opponent_elo": 1563.2,
+      "outcome": "red_win",
+      "post_elo": 1416.9,
+      "pre_elo": 1428.3,
+      "red_name": "Loma Lookboonmee",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Istela Nunes",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-07-15",
+      "elo_delta": -16.4,
+      "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+      "fight_id": "1d34477adfca1546",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Viktoriia Dudakova",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1428.3,
+      "pre_elo": 1444.7,
+      "red_name": "Viktoriia Dudakova",
+      "round": "1.0",
+      "time": "0:34",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Istela Nunes",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Thompson vs. Holland",
+      "fight_id": "dc1f013d917276b2",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yazmin Jauregui",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1444.7,
+      "pre_elo": 1460.9,
+      "red_name": "Yazmin Jauregui",
+      "round": "2.0",
+      "time": "4:06",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Sam Hughes",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-04-16",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Luque vs. Muhammad",
+      "fight_id": "de8e968b6f3f5c51",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Sam Hughes",
+      "opponent_elo": 1450.5,
+      "outcome": "blue_win",
+      "post_elo": 1460.9,
+      "pre_elo": 1480.5,
+      "red_name": "Istela Nunes",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Ariane Carnelossi",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-10-16",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Ladd vs. Dumont",
+      "fight_id": "708e63997e00961c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ariane Carnelossi",
+      "opponent_elo": 1498.7,
+      "outcome": "blue_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Istela Nunes",
+      "round": "3.0",
+      "time": "2:57",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-10-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-10-16",
+      "fight_id": "708e63997e00961c",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-10-16",
+      "fight_id": "708e63997e00961c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "de8e968b6f3f5c51",
+      "rating": 1460.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "de8e968b6f3f5c51",
+      "rating": 1465.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "dc1f013d917276b2",
+      "rating": 1444.7,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "dc1f013d917276b2",
+      "rating": 1450.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "1d34477adfca1546",
+      "rating": 1428.3,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-07-15",
+      "fight_id": "1d34477adfca1546",
+      "rating": 1435.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "b490af9e624ea821",
+      "rating": 1416.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "b490af9e624ea821",
+      "rating": 1425.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-05",
+  "name": "Istela Nunes",
+  "nickname": "",
+  "overall_elo": 1425.1,
+  "peak_elo": 1500.0,
+  "slug": "istela-nunes",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

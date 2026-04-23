@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 218,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Mario Rivera",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-08-17",
+      "elo_delta": 14.9,
+      "event_name": "WEC 23: Hot August Fights",
+      "fight_id": "d7152411bb3cd9e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Mario Rivera",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1581.1,
+      "pre_elo": 1566.2,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "time": "2:44",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Phil Collins",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-05-05",
+      "elo_delta": 16.7,
+      "event_name": "WEC 20: Cinco de Mayhem",
+      "fight_id": "71844b65e7f3c8cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Phil Collins",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1566.2,
+      "pre_elo": 1549.5,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "time": "1:07",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jimmy Dexter",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-03-17",
+      "elo_delta": 16.7,
+      "event_name": "WEC 19: Undisputed",
+      "fight_id": "40c20b4799143a5a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Jimmy Dexter",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1549.5,
+      "pre_elo": 1532.9,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "time": "1:20",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Charles Price",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-10-14",
+      "elo_delta": 18.4,
+      "event_name": "WEC 17: Halloween Fury 4",
+      "fight_id": "a89f8e8e5467d25e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Charles Price",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1518.4,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "time": "1:19",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Chris Botelho",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-08-18",
+      "elo_delta": 18.4,
+      "event_name": "WEC 16: Clash of the Titans 2",
+      "fight_id": "5cdc5a86018b3d53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Chris Botelho",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "time": "4:33",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-08-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-08-18",
+      "fight_id": "5cdc5a86018b3d53",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-08-18",
+      "fight_id": "5cdc5a86018b3d53",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-10-14",
+      "fight_id": "a89f8e8e5467d25e",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-10-14",
+      "fight_id": "a89f8e8e5467d25e",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "40c20b4799143a5a",
+      "rating": 1549.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "40c20b4799143a5a",
+      "rating": 1547.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "71844b65e7f3c8cf",
+      "rating": 1566.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "71844b65e7f3c8cf",
+      "rating": 1562.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "d7152411bb3cd9e7",
+      "rating": 1581.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "d7152411bb3cd9e7",
+      "rating": 1576.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-08-17",
+  "name": "Kenny Ento",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1581.1,
+  "slug": "kenny-ento",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

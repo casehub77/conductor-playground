@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 361,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Scott Carson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-01-29",
+      "elo_delta": -19.3,
+      "event_name": "Strikeforce: Diaz vs. Cyborg",
+      "fight_id": "216806ae8eb82c88",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Herschel Walker",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1517.3,
+      "red_name": "Herschel Walker",
+      "round": "1",
+      "time": "3:13",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Bryson Haubrick",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-06-30",
+      "elo_delta": 19.4,
+      "event_name": "WEC 1: Princes of Pain",
+      "fight_id": "6b8d9fb64a71436f",
+      "gender": "men",
+      "is_title": false,
+      "method": "submission",
+      "opponent": "Bryson Haubrick",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Scott Carson",
+      "round": "1",
+      "time": "2:20",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-06-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-06-30",
+      "fight_id": "6b8d9fb64a71436f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-06-30",
+      "fight_id": "6b8d9fb64a71436f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "216806ae8eb82c88",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "216806ae8eb82c88",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-01-29",
+  "name": "Scott Carson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "scott-carson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

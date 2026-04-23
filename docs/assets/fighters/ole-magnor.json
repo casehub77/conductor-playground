@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 556,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ole Magnor",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": -19.8,
+      "event_name": "Oktagon 50: Keita vs. Samsonidse",
+      "fight_id": "c9cc7fa9e3cbf62d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Matěj Peňáz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1486.3,
+      "pre_elo": 1506.0,
+      "red_name": "Matěj Peňáz",
+      "round": "1",
+      "time": "0:29",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Václav Mikulášek",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-07-28",
+      "elo_delta": 21.3,
+      "event_name": "Oktagon 45 Special: Mågård vs. Lima",
+      "fight_id": "d239c2cbc924c0e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Václav Mikulášek",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1506.0,
+      "pre_elo": 1484.8,
+      "red_name": "Ole Magnor",
+      "round": "1",
+      "time": "0:55",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "9d745b04c52c8e89",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "d239c2cbc924c0e7",
+      "rating": 1506.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "d239c2cbc924c0e7",
+      "rating": 1503.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "c9cc7fa9e3cbf62d",
+      "rating": 1486.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "c9cc7fa9e3cbf62d",
+      "rating": 1486.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-12-09",
+  "name": "Ole Magnor",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1506.0,
+  "slug": "ole-magnor",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

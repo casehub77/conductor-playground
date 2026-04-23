@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 336,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Atsushi Kobayashi",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-08-29",
+      "elo_delta": -23.9,
+      "event_name": "Shooto: Gig North 6",
+      "fight_id": "08b9801fa00db452",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Toshiaki Hayasaka",
+      "opponent_elo": 1416.3,
+      "outcome": "red_win",
+      "post_elo": 1474.4,
+      "pre_elo": 1498.3,
+      "red_name": "Toshiaki Hayasaka",
+      "round": "1",
+      "time": "2:15",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Atsushi Kobayashi",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-09-22",
+      "elo_delta": -19.5,
+      "event_name": "Shooto: Revolutionary Exchanges 2",
+      "fight_id": "6d4f593433f4d54e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Head Kick and Punches)",
+      "opponent": "Yusuke Yachi",
+      "opponent_elo": 1516.9,
+      "outcome": "red_win",
+      "post_elo": 1498.3,
+      "pre_elo": 1517.8,
+      "red_name": "Yusuke Yachi",
+      "round": "1",
+      "time": "1:21",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Atsushi Kobayashi",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-10-26",
+      "elo_delta": -19.1,
+      "event_name": "Shooto: Gig Central 16",
+      "fight_id": "3263f2bb0f75f5b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Naohiro Mizuno",
+      "opponent_elo": 1515.5,
+      "outcome": "red_win",
+      "post_elo": 1517.8,
+      "pre_elo": 1536.9,
+      "red_name": "Naohiro Mizuno",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hiroshige Tanaka",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-09-28",
+      "elo_delta": 19.6,
+      "event_name": "Shooto: Shooto Tradition 3",
+      "fight_id": "7cdf408ba255bb8c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Hiroshige Tanaka",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1536.9,
+      "pre_elo": 1517.4,
+      "red_name": "Atsushi Kobayashi",
+      "round": "2",
+      "time": "0:59",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Toshihiko Yokoyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-05-25",
+      "elo_delta": 17.4,
+      "event_name": "Shooto: Gig North 2",
+      "fight_id": "ddfd12f8232c65a4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Toshihiko Yokoyama",
+      "opponent_elo": 1463.1,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1500.0,
+      "red_name": "Atsushi Kobayashi",
+      "round": "1",
+      "time": "3:48",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-05-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-05-25",
+      "fight_id": "ddfd12f8232c65a4",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-05-25",
+      "fight_id": "ddfd12f8232c65a4",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-09-28",
+      "fight_id": "7cdf408ba255bb8c",
+      "rating": 1536.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-09-28",
+      "fight_id": "7cdf408ba255bb8c",
+      "rating": 1533.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-10-26",
+      "fight_id": "3263f2bb0f75f5b6",
+      "rating": 1517.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-10-26",
+      "fight_id": "3263f2bb0f75f5b6",
+      "rating": 1516.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-09-22",
+      "fight_id": "6d4f593433f4d54e",
+      "rating": 1498.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-09-22",
+      "fight_id": "6d4f593433f4d54e",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-29",
+      "fight_id": "08b9801fa00db452",
+      "rating": 1474.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-08-29",
+      "fight_id": "08b9801fa00db452",
+      "rating": 1477.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-29",
+  "name": "Atsushi Kobayashi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.9,
+  "slug": "atsushi-kobayashi",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

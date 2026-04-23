@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 623,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Elijah Leggett",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-07-29",
+      "elo_delta": -18.8,
+      "event_name": "Legacy Fighting Alliance 137: Gibson vs. Amil",
+      "fight_id": "d60bb3e4e7f5dfdd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Danny Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1516.0,
+      "red_name": "Danny Silva",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-25",
+      "fight_id": "25228a12c98e4a73",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "d60bb3e4e7f5dfdd",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-07-29",
+      "fight_id": "d60bb3e4e7f5dfdd",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-29",
+  "name": "Elijah Leggett",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.0,
+  "slug": "elijah-leggett",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

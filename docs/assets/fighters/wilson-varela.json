@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1206,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Wilson Varela",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2022-04-23",
+      "elo_delta": -16.3,
+      "event_name": "KSW 69: Przybysz vs. Martins",
+      "fight_id": "9f4c62f9fc3a4a04",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Maciej Kazieczko",
+      "opponent_elo": 1557.0,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Maciej Kazieczko",
+      "round": "2",
+      "time": "1:29",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-04-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-23",
+      "fight_id": "9f4c62f9fc3a4a04",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "9f4c62f9fc3a4a04",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-23",
+  "name": "Wilson Varela",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "wilson-varela",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

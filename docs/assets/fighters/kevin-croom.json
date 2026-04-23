@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 871,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Croom",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-04-16",
+      "elo_delta": -17.8,
+      "event_name": "UFC Fight Night: Luque vs. Muhammad",
+      "fight_id": "edaef7eea4222f39",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alatengheili",
+      "opponent_elo": 1515.9,
+      "outcome": "red_win",
+      "post_elo": 1469.2,
+      "pre_elo": 1487.0,
+      "red_name": "Alatengheili",
+      "round": "1.0",
+      "time": "0:47",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kevin Croom",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-01-15",
+      "elo_delta": -17.3,
+      "event_name": "UFC Fight Night: Kattar vs. Chikadze",
+      "fight_id": "7135ffc372dbeabc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Brian Kelleher",
+      "opponent_elo": 1515.2,
+      "outcome": "red_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1501.3,
+      "red_name": "Brian Kelleher",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kevin Croom",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-02-27",
+      "elo_delta": -17.2,
+      "event_name": "UFC Fight Night: Rozenstruik vs. Gane",
+      "fight_id": "fb21f604b8d2ce80",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alex Caceres",
+      "opponent_elo": 1533.4,
+      "outcome": "red_win",
+      "post_elo": 1501.3,
+      "pre_elo": 1518.5,
+      "red_name": "Alex Caceres",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kevin Croom",
+      "bout_type": "Lightweight Bout",
+      "date": "2020-09-12",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: Waterson vs. Hill",
+      "fight_id": "eb16e64558d7ec01",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Roosevelt Roberts",
+      "opponent_elo": 1536.1,
+      "outcome": "no_contest",
+      "post_elo": 1516.5,
+      "pre_elo": 1516.5,
+      "red_name": "Roosevelt Roberts",
+      "round": "1.0",
+      "time": "0:31",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Brian Davidson",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-08-26",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 26",
+      "fight_id": "298b1c32eca4530f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Brian Davidson",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Kevin Croom",
+      "round": "2",
+      "time": "3:22",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2010-08-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-26",
+      "fight_id": "298b1c32eca4530f",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-08-26",
+      "fight_id": "298b1c32eca4530f",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "eb16e64558d7ec01",
+      "rating": 1516.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2020-09-12",
+      "fight_id": "eb16e64558d7ec01",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-02-27",
+      "fight_id": "fb21f604b8d2ce80",
+      "rating": 1501.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-02-27",
+      "fight_id": "fb21f604b8d2ce80",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-15",
+      "fight_id": "7135ffc372dbeabc",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-01-15",
+      "fight_id": "7135ffc372dbeabc",
+      "rating": 1487.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "edaef7eea4222f39",
+      "rating": 1469.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "edaef7eea4222f39",
+      "rating": 1471.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-16",
+  "name": "Kevin Croom",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "slug": "kevin-croom",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

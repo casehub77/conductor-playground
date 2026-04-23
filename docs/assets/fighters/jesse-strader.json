@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 712,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jesse Strader",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Walker vs. Hill",
+      "fight_id": "1ec78815e47a2403",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chad Anheliger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.3,
+      "pre_elo": 1481.7,
+      "red_name": "Chad Anheliger",
+      "round": "3.0",
+      "time": "3:33",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jesse Strader",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-03-20",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Brunson vs. Holland",
+      "fight_id": "717e94e53a7110d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Montel Jackson",
+      "opponent_elo": 1520.6,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Montel Jackson",
+      "round": "1.0",
+      "time": "1:58",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-03-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-20",
+      "fight_id": "717e94e53a7110d6",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-20",
+      "fight_id": "717e94e53a7110d6",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "1ec78815e47a2403",
+      "rating": 1463.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "1ec78815e47a2403",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-19",
+  "name": "Jesse Strader",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jesse-strader",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

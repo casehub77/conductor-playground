@@ -1,0 +1,160 @@
+{
+  "current_elo": 1547.9,
+  "divisional_rank": 70,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Yaroslav Amosov",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-12-13",
+      "elo_delta": 25.8,
+      "event_name": "UFC Fight Night: Royval vs. Kape",
+      "fight_id": "e29c12560072b552",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Neil Magny",
+      "opponent_elo": 1640.2,
+      "outcome": "blue_win",
+      "post_elo": 1547.9,
+      "pre_elo": 1522.0,
+      "red_name": "Neil Magny",
+      "round": "1.0",
+      "time": "3:14",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Yaroslav Amosov",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-11-17",
+      "elo_delta": -18.7,
+      "event_name": "Bellator 301: Amosov vs. Jackson",
+      "fight_id": "3476426cdc6c0d18",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Jason Jackson",
+      "opponent_elo": 1553.9,
+      "outcome": "red_win",
+      "post_elo": 1522.0,
+      "pre_elo": 1540.7,
+      "red_name": "Jason Jackson",
+      "round": "3",
+      "time": "2:08",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Logan Storley",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": 19.7,
+      "event_name": "Bellator 291: Amosov vs. Storley 2",
+      "fight_id": "ffe7d29fd58242de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (50–45, 50–45, 50–45)",
+      "opponent": "Logan Storley",
+      "opponent_elo": 1553.3,
+      "outcome": "red_win",
+      "post_elo": 1540.7,
+      "pre_elo": 1521.1,
+      "red_name": "Yaroslav Amosov",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Douglas Lima",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-06-11",
+      "elo_delta": 21.1,
+      "event_name": "Bellator 260: Lima vs. Amosov",
+      "fight_id": "701f9fefc8ce9345",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (50–45, 49–46, 49–46)",
+      "opponent": "Douglas Lima",
+      "opponent_elo": 1560.1,
+      "outcome": "red_win",
+      "post_elo": 1521.1,
+      "pre_elo": 1500.0,
+      "red_name": "Yaroslav Amosov",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-06-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-11",
+      "fight_id": "701f9fefc8ce9345",
+      "rating": 1521.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-06-11",
+      "fight_id": "701f9fefc8ce9345",
+      "rating": 1518.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "ffe7d29fd58242de",
+      "rating": 1540.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "ffe7d29fd58242de",
+      "rating": 1535.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "3476426cdc6c0d18",
+      "rating": 1522.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-11-17",
+      "fight_id": "3476426cdc6c0d18",
+      "rating": 1519.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-13",
+      "fight_id": "e29c12560072b552",
+      "rating": 1547.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-12-13",
+      "fight_id": "e29c12560072b552",
+      "rating": 1541.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-13",
+  "name": "Yaroslav Amosov",
+  "nickname": "",
+  "overall_elo": 1541.9,
+  "peak_elo": 1547.9,
+  "slug": "yaroslav-amosov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

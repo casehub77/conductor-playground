@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 659,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Joe Pearson",
+      "bout_type": "Featherweight Bout",
+      "date": "2007-01-20",
+      "elo_delta": -16.3,
+      "event_name": "2007 in WEC",
+      "fight_id": "dd3ce85994597eb7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to strikes)",
+      "opponent": "Urijah Faber",
+      "opponent_elo": 1540.7,
+      "outcome": "red_win",
+      "post_elo": 1467.9,
+      "pre_elo": 1484.2,
+      "red_name": "Urijah Faber",
+      "round": "1",
+      "time": "2:31",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Joe Pearson",
+      "bout_type": "Featherweight Bout",
+      "date": "2007-01-20",
+      "elo_delta": -18.3,
+      "event_name": "WEC 25: McCullough vs. Cope",
+      "fight_id": "019b3fbe204d11c0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to strikes)",
+      "opponent": "Urijah Faber",
+      "opponent_elo": 1522.4,
+      "outcome": "red_win",
+      "post_elo": 1484.2,
+      "pre_elo": 1502.6,
+      "red_name": "Urijah Faber",
+      "round": "1",
+      "time": "2:31",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Yoshiro Maeda",
+      "bout_type": "Bantamweight Bout",
+      "date": "2006-11-05",
+      "elo_delta": 19.3,
+      "event_name": "Pride: Bushido 13",
+      "fight_id": "89a9efdc556ac6d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Yoshiro Maeda",
+      "opponent_elo": 1482.2,
+      "outcome": "red_win",
+      "post_elo": 1504.7,
+      "pre_elo": 1485.5,
+      "red_name": "Joe Pearson",
+      "round": "1",
+      "time": "0:54",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Joe Pearson",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-27",
+      "elo_delta": -16.1,
+      "event_name": "Shooto: Gig Central 7",
+      "fight_id": "9ca2712f6084260d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Punches)",
+      "opponent": "Hatsu Hioki",
+      "opponent_elo": 1561.1,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
+      "red_name": "Hatsu Hioki",
+      "round": "1",
+      "time": "1:35",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-03-27",
+      "fight_id": "9ca2712f6084260d",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-27",
+      "fight_id": "9ca2712f6084260d",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-11-05",
+      "fight_id": "89a9efdc556ac6d6",
+      "rating": 1504.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2006-11-05",
+      "fight_id": "89a9efdc556ac6d6",
+      "rating": 1502.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "019b3fbe204d11c0",
+      "rating": 1484.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "dd3ce85994597eb7",
+      "rating": 1467.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "019b3fbe204d11c0",
+      "rating": 1486.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-01-20",
+      "fight_id": "dd3ce85994597eb7",
+      "rating": 1471.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-01-20",
+  "name": "Joe Pearson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.7,
+  "slug": "joe-pearson",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

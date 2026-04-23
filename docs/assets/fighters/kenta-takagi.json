@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 400,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kenta Takagi",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-10-25",
+      "elo_delta": -17.4,
+      "event_name": "Shooto: Gig Central 19",
+      "fight_id": "dec6a156c7bc2692",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Takasuke Kume",
+      "opponent_elo": 1544.7,
+      "outcome": "red_win",
+      "post_elo": 1516.3,
+      "pre_elo": 1533.7,
+      "red_name": "Takasuke Kume",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hirosumi Sugiura",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-09-20",
+      "elo_delta": 15.2,
+      "event_name": "Shooto: Shooting Disco 10: Twist and Shooto",
+      "fight_id": "42d9350601de505d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Hirosumi Sugiura",
+      "opponent_elo": 1442.0,
+      "outcome": "red_win",
+      "post_elo": 1533.7,
+      "pre_elo": 1518.5,
+      "red_name": "Kenta Takagi",
+      "round": "1",
+      "time": "3:30",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshinori Takahashi",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-06-06",
+      "elo_delta": 18.5,
+      "event_name": "Shooto: Shooting Disco 9: Superman",
+      "fight_id": "83bc13a2175b15b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Yoshinori Takahashi",
+      "opponent_elo": 1482.8,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Kenta Takagi",
+      "round": "1",
+      "time": "1:56",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2009-06-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-06-06",
+      "fight_id": "83bc13a2175b15b6",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-06-06",
+      "fight_id": "83bc13a2175b15b6",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-09-20",
+      "fight_id": "42d9350601de505d",
+      "rating": 1533.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-09-20",
+      "fight_id": "42d9350601de505d",
+      "rating": 1530.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-10-25",
+      "fight_id": "dec6a156c7bc2692",
+      "rating": 1516.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-10-25",
+      "fight_id": "dec6a156c7bc2692",
+      "rating": 1514.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-10-25",
+  "name": "Kenta Takagi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1533.7,
+  "slug": "kenta-takagi",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

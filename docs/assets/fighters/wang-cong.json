@@ -1,0 +1,194 @@
+{
+  "current_elo": 1509.0,
+  "divisional_rank": 168,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Eduarda Moura",
+      "bout_type": "Catch Weight Bout",
+      "date": "2026-02-07",
+      "elo_delta": 9.0,
+      "event_name": "UFC Fight Night: Bautista vs. Oliveira",
+      "fight_id": "988fbfa3e6f937d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Eduarda Moura",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1509.0,
+      "pre_elo": 1500.0,
+      "red_name": "Wang Cong",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Wang Cong",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-06-07",
+      "elo_delta": 17.9,
+      "event_name": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "fight_id": "f49b99bf39ad04e0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ariane Da Silva",
+      "opponent_elo": 1513.4,
+      "outcome": "blue_win",
+      "post_elo": 1532.4,
+      "pre_elo": 1514.5,
+      "red_name": "Ariane Da Silva",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Bruna Brasil",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": 18.3,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "5d30886044a2edc1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bruna Brasil",
+      "opponent_elo": 1502.5,
+      "outcome": "red_win",
+      "post_elo": 1514.5,
+      "pre_elo": 1496.2,
+      "red_name": "Wang Cong",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Gabriella Fernandes",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-11-23",
+      "elo_delta": -21.3,
+      "event_name": "UFC Fight Night: Yan vs. Figueiredo",
+      "fight_id": "6e3821840724a3d4",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gabriella Fernandes",
+      "opponent_elo": 1483.8,
+      "outcome": "blue_win",
+      "post_elo": 1496.2,
+      "pre_elo": 1517.5,
+      "red_name": "Wang Cong",
+      "round": "2.0",
+      "time": "3:49",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Victoria Leonardo",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-08-24",
+      "elo_delta": 17.5,
+      "event_name": "UFC Fight Night: Cannonier vs. Borralho",
+      "fight_id": "e664a5d6d06c00d9",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Victoria Leonardo",
+      "opponent_elo": 1464.8,
+      "outcome": "red_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1500.0,
+      "red_name": "Wang Cong",
+      "round": "1.0",
+      "time": "1:02",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-08-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-08-24",
+      "fight_id": "e664a5d6d06c00d9",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "e664a5d6d06c00d9",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "6e3821840724a3d4",
+      "rating": 1496.2,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-11-23",
+      "fight_id": "6e3821840724a3d4",
+      "rating": 1496.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "5d30886044a2edc1",
+      "rating": 1514.5,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "5d30886044a2edc1",
+      "rating": 1513.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "f49b99bf39ad04e0",
+      "rating": 1532.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "f49b99bf39ad04e0",
+      "rating": 1528.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "988fbfa3e6f937d4",
+      "rating": 1509.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "988fbfa3e6f937d4",
+      "rating": 1508.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-07",
+  "name": "Wang Cong",
+  "nickname": "",
+  "overall_elo": 1508.0,
+  "peak_elo": 1532.4,
+  "slug": "wang-cong",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

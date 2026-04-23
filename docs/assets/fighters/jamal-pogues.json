@@ -1,0 +1,160 @@
+{
+  "current_elo": 1501.4,
+  "divisional_rank": 105,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jamal Pogues",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": -19.1,
+      "event_name": "UFC Fight Night: Adesanya vs. Imavov",
+      "fight_id": "ad5c7d587c1192e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Hamdy Abdelwahab",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1520.5,
+      "red_name": "Hamdy Abdelwahab",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jamal Pogues",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-02-03",
+      "elo_delta": 21.5,
+      "event_name": "UFC Fight Night: Dolidze vs. Imavov",
+      "fight_id": "4d74cea1024c9bfa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Thomas Petersen",
+      "opponent_elo": 1567.8,
+      "outcome": "blue_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1498.9,
+      "red_name": "Thomas Petersen",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jamal Pogues",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-07-22",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Aspinall vs. Tybura",
+      "fight_id": "006003c9b7a59070",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mick Parkin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1517.9,
+      "red_name": "Mick Parkin",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jamal Pogues",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-02-18",
+      "elo_delta": 17.9,
+      "event_name": "UFC Fight Night: Andrade vs. Blanchfield",
+      "fight_id": "653bb7629c9ebb81",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Josh Parisian",
+      "opponent_elo": 1497.1,
+      "outcome": "blue_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1500.0,
+      "red_name": "Josh Parisian",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-02-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-18",
+      "fight_id": "653bb7629c9ebb81",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-02-18",
+      "fight_id": "653bb7629c9ebb81",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-22",
+      "fight_id": "006003c9b7a59070",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-07-22",
+      "fight_id": "006003c9b7a59070",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "4d74cea1024c9bfa",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "4d74cea1024c9bfa",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "ad5c7d587c1192e3",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "ad5c7d587c1192e3",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-01",
+  "name": "Jamal Pogues",
+  "nickname": "",
+  "overall_elo": 1501.2,
+  "peak_elo": 1520.5,
+  "slug": "jamal-pogues",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

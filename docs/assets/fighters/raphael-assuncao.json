@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 423,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "LC Davis",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-11-11",
+      "elo_delta": 19.9,
+      "event_name": "WEC 52: Faber vs. Mizugaki",
+      "fight_id": "11d8a4382564ed78",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "LC Davis",
+      "opponent_elo": 1536.2,
+      "outcome": "red_win",
+      "post_elo": 1519.8,
+      "pre_elo": 1499.9,
+      "red_name": "Raphael Assunção",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Raphael Assunção",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-06-20",
+      "elo_delta": -18.1,
+      "event_name": "WEC 49: Varner vs. Shalorus",
+      "fight_id": "7a7b84994e5757e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 28–29, 29–28)",
+      "opponent": "Diego Nunes",
+      "opponent_elo": 1516.2,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1518.0,
+      "red_name": "Diego Nunes",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Raphael Assunção",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-01-10",
+      "elo_delta": -17.1,
+      "event_name": "WEC 46: Varner vs. Henderson",
+      "fight_id": "52aff1a172ed89cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear naked choke)",
+      "opponent": "Urijah Faber",
+      "opponent_elo": 1577.6,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1535.1,
+      "red_name": "Urijah Faber",
+      "round": "3",
+      "time": "3:49",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Yves Jabouin",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-10-10",
+      "elo_delta": 17.1,
+      "event_name": "WEC 43: Cerrone vs. Henderson",
+      "fight_id": "d8d7758a1ff84bf9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 27–30, 29–28)",
+      "opponent": "Yves Jabouin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.0,
+      "red_name": "Raphael Assunção",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jameel Massouh",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-04-05",
+      "elo_delta": 18.0,
+      "event_name": "WEC 40: Torres vs. Mizugaki",
+      "fight_id": "f835638fa936c585",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Jameel Massouh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Raphael Assunção",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-04-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-05",
+      "fight_id": "f835638fa936c585",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-04-05",
+      "fight_id": "f835638fa936c585",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-10-10",
+      "fight_id": "d8d7758a1ff84bf9",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-10-10",
+      "fight_id": "d8d7758a1ff84bf9",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-01-10",
+      "fight_id": "52aff1a172ed89cc",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-01-10",
+      "fight_id": "52aff1a172ed89cc",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-20",
+      "fight_id": "7a7b84994e5757e3",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-06-20",
+      "fight_id": "7a7b84994e5757e3",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "11d8a4382564ed78",
+      "rating": 1519.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "11d8a4382564ed78",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-11-11",
+  "name": "Raphael Assunção",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.1,
+  "slug": "raphael-assuncao",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

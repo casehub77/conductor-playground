@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 669,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Felipe Colares",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-05-21",
+      "elo_delta": -19.7,
+      "event_name": "UFC Fight Night: Holm vs. Vieira",
+      "fight_id": "75c801e0d483471f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chase Hooper",
+      "opponent_elo": 1498.1,
+      "outcome": "red_win",
+      "post_elo": 1482.3,
+      "pre_elo": 1502.0,
+      "red_name": "Chase Hooper",
+      "round": "3.0",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Felipe Colares",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-10-09",
+      "elo_delta": -15.4,
+      "event_name": "UFC Fight Night: Dern vs. Rodriguez",
+      "fight_id": "1513ce61634cc6c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Chris Gutierrez",
+      "opponent_elo": 1537.3,
+      "outcome": "red_win",
+      "post_elo": 1470.4,
+      "pre_elo": 1485.8,
+      "red_name": "Chris Gutierrez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Felipe Colares",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-05-01",
+      "elo_delta": 20.0,
+      "event_name": "UFC Fight Night: Reyes vs. Prochazka",
+      "fight_id": "260902a2215726b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Luke Sanders",
+      "opponent_elo": 1520.1,
+      "outcome": "blue_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1482.0,
+      "red_name": "Luke Sanders",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Felipe Colares",
+      "bout_type": "Bantamweight Bout",
+      "date": "2020-01-25",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Blaydes vs. Dos Santos",
+      "fight_id": "e483bf4aefc0fcf6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Montel Jackson",
+      "opponent_elo": 1521.6,
+      "outcome": "red_win",
+      "post_elo": 1485.8,
+      "pre_elo": 1502.8,
+      "red_name": "Montel Jackson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Felipe Colares",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-07-20",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Edwards",
+      "fight_id": "383a2c860247f09c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Domingo Pilarte",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1502.8,
+      "pre_elo": 1484.0,
+      "red_name": "Domingo Pilarte",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Felipe Colares",
+      "bout_type": "Featherweight Bout",
+      "date": "2019-02-02",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Assuncao vs. Moraes 2",
+      "fight_id": "2bddcd142f11b2cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Geraldo De Freitas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Geraldo De Freitas",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2019-02-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-02-02",
+      "fight_id": "2bddcd142f11b2cc",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2019-02-02",
+      "fight_id": "2bddcd142f11b2cc",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-07-20",
+      "fight_id": "383a2c860247f09c",
+      "rating": 1502.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-07-20",
+      "fight_id": "383a2c860247f09c",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-01-25",
+      "fight_id": "e483bf4aefc0fcf6",
+      "rating": 1485.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2020-01-25",
+      "fight_id": "e483bf4aefc0fcf6",
+      "rating": 1485.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-01",
+      "fight_id": "260902a2215726b6",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-05-01",
+      "fight_id": "260902a2215726b6",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-09",
+      "fight_id": "1513ce61634cc6c4",
+      "rating": 1470.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-10-09",
+      "fight_id": "1513ce61634cc6c4",
+      "rating": 1488.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-21",
+      "fight_id": "75c801e0d483471f",
+      "rating": 1482.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-05-21",
+      "fight_id": "75c801e0d483471f",
+      "rating": 1471.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-21",
+  "name": "Felipe Colares",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.8,
+  "slug": "felipe-colares",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

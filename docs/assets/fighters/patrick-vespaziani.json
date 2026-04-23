@@ -1,0 +1,160 @@
+{
+  "current_elo": 1536.0,
+  "divisional_rank": 53,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Patrick Vespaziani",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-12-28",
+      "elo_delta": -20.0,
+      "event_name": "Oktagon 81: Fleury vs. Buday",
+      "fight_id": "82399ef11a99e391",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (guillotine choke)",
+      "opponent": "Daniel Škvor",
+      "opponent_elo": 1545.6,
+      "outcome": "red_win",
+      "post_elo": 1536.0,
+      "pre_elo": 1556.0,
+      "red_name": "Daniel Škvor",
+      "round": "2",
+      "time": "3:16",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Olutobi Ayodeji Kalejaiye",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-10-18",
+      "elo_delta": 17.3,
+      "event_name": "Oktagon 78: Eckerlin vs. Trušček",
+      "fight_id": "dd6f6bdd634a7dcb",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Olutobi Ayodeji Kalejaiye",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1556.0,
+      "pre_elo": 1538.8,
+      "red_name": "Patrick Vespaziani",
+      "round": "1",
+      "time": "2:23",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jovan Zeljkovic",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-05-17",
+      "elo_delta": 18.3,
+      "event_name": "Oktagon 71: Poppeck vs. Langer",
+      "fight_id": "d0a329cd456d324a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Jovan Zeljkovic",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.8,
+      "pre_elo": 1520.5,
+      "red_name": "Patrick Vespaziani",
+      "round": "1",
+      "time": "0:41",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sebastian Herzberg",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-12-07",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 64: Brito vs. Surdu",
+      "fight_id": "e12554dca8a43bcc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Sebastian Herzberg",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Patrick Vespaziani",
+      "round": "1",
+      "time": "2:57",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-12-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "fight_id": "e12554dca8a43bcc",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "e12554dca8a43bcc",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "d0a329cd456d324a",
+      "rating": 1538.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "d0a329cd456d324a",
+      "rating": 1534.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "dd6f6bdd634a7dcb",
+      "rating": 1556.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-10-18",
+      "fight_id": "dd6f6bdd634a7dcb",
+      "rating": 1550.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "82399ef11a99e391",
+      "rating": 1536.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "82399ef11a99e391",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-28",
+  "name": "Patrick Vespaziani",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1556.0,
+  "slug": "patrick-vespaziani",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1536.3,
+  "divisional_rank": 118,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jixie Molapo",
+      "bout_type": "Catchweight (173 lb) Bout",
+      "date": "2026-01-17",
+      "elo_delta": 19.3,
+      "event_name": "Oktagon 82: Engizek vs. Jotko",
+      "fight_id": "02a41fd5d279c17d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jixie Molapo",
+      "opponent_elo": 1515.2,
+      "outcome": "red_win",
+      "post_elo": 1536.3,
+      "pre_elo": 1517.0,
+      "red_name": "Arian Sadiković",
+      "round": "2",
+      "time": "0:38",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Nieky Holzken",
+      "bout_type": "Catchweight (176 lbs) Kickboxing Bout",
+      "date": "2023-06-10",
+      "elo_delta": 17.0,
+      "event_name": "ONE Fight Night 11: Eersel vs. Menshikov",
+      "fight_id": "de1cc0c4748df261",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Nieky Holzken",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Arian Sadiković",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Arian Sadiković",
+      "bout_type": "Lightweight Kickboxing Bout",
+      "date": "2022-04-22",
+      "elo_delta": -18.0,
+      "event_name": "ONE 156: Eersel vs. Sadiković",
+      "fight_id": "e2eaf72bc846f64d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Regian Eersel",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1518.0,
+      "red_name": "Regian Eersel",
+      "round": "5",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Mustapha Haida",
+      "bout_type": "Lightweight Kickboxing Bout",
+      "date": "2021-12-03",
+      "elo_delta": 18.0,
+      "event_name": "ONE: Winter Warriors II",
+      "fight_id": "0eb04286657ee2cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Mustapha Haida",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Arian Sadiković",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-12-03",
+      "fight_id": "0eb04286657ee2cd",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-12-03",
+      "fight_id": "0eb04286657ee2cd",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "e2eaf72bc846f64d",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "e2eaf72bc846f64d",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "de1cc0c4748df261",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "de1cc0c4748df261",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "02a41fd5d279c17d",
+      "rating": 1536.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-01-17",
+      "fight_id": "02a41fd5d279c17d",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-17",
+  "name": "Arian Sadiković",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1536.3,
+  "slug": "arian-sadikovic",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

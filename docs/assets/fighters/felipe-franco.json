@@ -1,0 +1,58 @@
+{
+  "current_elo": 1484.0,
+  "divisional_rank": 677,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Felipe Franco",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": -16.0,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "681e08b76e838410",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mario Pinto",
+      "opponent_elo": 1539.2,
+      "outcome": "red_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mario Pinto",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2026-03-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-03-21",
+      "fight_id": "681e08b76e838410",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "681e08b76e838410",
+      "rating": 1485.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Felipe Franco",
+  "nickname": "",
+  "overall_elo": 1485.6,
+  "peak_elo": 1500.0,
+  "slug": "felipe-franco",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

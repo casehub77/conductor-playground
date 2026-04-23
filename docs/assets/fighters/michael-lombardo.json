@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 655,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Michael Lombardo",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-04-21",
+      "elo_delta": -17.9,
+      "event_name": "Bellator 294: Carmouche vs. Bennett 2",
+      "fight_id": "d3b4d2d3537b6903",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Levan Chokheli",
+      "opponent_elo": 1503.9,
+      "outcome": "red_win",
+      "post_elo": 1484.7,
+      "pre_elo": 1502.7,
+      "red_name": "Levan Chokheli",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mark Lemminger",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-12-09",
+      "elo_delta": 19.0,
+      "event_name": "Bellator 289: Stots vs. Sabatello",
+      "fight_id": "3ebd1debb4fb73a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Mark Lemminger",
+      "opponent_elo": 1475.0,
+      "outcome": "red_win",
+      "post_elo": 1502.7,
+      "pre_elo": 1483.7,
+      "red_name": "Michael Lombardo",
+      "round": "1",
+      "time": "4:23",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Michael Lombardo",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": -16.3,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "d4839c8581f7dc93",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29-28, 30-27, 30-27)",
+      "opponent": "Kyle Crutchmer",
+      "opponent_elo": 1533.4,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Kyle Crutchmer",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-15",
+      "fight_id": "d4839c8581f7dc93",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "d4839c8581f7dc93",
+      "rating": 1485.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "3ebd1debb4fb73a1",
+      "rating": 1502.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "3ebd1debb4fb73a1",
+      "rating": 1502.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "d3b4d2d3537b6903",
+      "rating": 1484.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "d3b4d2d3537b6903",
+      "rating": 1486.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-21",
+  "name": "Michael Lombardo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.7,
+  "slug": "michael-lombardo",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

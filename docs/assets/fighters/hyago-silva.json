@@ -1,0 +1,126 @@
+{
+  "current_elo": 1496.7,
+  "divisional_rank": 657,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Hyago Silva",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-07",
+      "elo_delta": -20.4,
+      "event_name": "LFA 201: Conceição vs. Silva",
+      "fight_id": "c4c987e155005bb3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Guilherme Uriel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.7,
+      "pre_elo": 1517.1,
+      "red_name": "Guilherme Uriel",
+      "round": "1",
+      "time": "1:27",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Richard Jacobi",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": -0.9,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "8099dca7bc2e75d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (majority)",
+      "opponent": "Richard Jacobi",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1517.1,
+      "pre_elo": 1518.0,
+      "red_name": "Hyago Silva",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Matusalém dos Santos",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-03-11",
+      "elo_delta": 18.0,
+      "event_name": "Legacy Fighting Alliance 126: Bilharinho vs. Delano",
+      "fight_id": "d4cbebb19d5ca8b9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Matusalém dos Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Hyago Silva",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-11",
+      "fight_id": "d4cbebb19d5ca8b9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "d4cbebb19d5ca8b9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "8099dca7bc2e75d3",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "8099dca7bc2e75d3",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "c4c987e155005bb3",
+      "rating": 1496.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "c4c987e155005bb3",
+      "rating": 1497.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-07",
+  "name": "Hyago Silva",
+  "nickname": "",
+  "overall_elo": 1497.2,
+  "peak_elo": 1518.0,
+  "slug": "hyago-silva",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

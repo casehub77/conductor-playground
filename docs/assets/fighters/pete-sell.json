@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1050,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Pete Sell",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-03-07",
+      "elo_delta": -17.0,
+      "event_name": "UFC 96: Jackson vs Jardine",
+      "fight_id": "7fcefc59e284c380",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Matt Brown",
+      "opponent_elo": 1520.7,
+      "outcome": "red_win",
+      "post_elo": 1459.1,
+      "pre_elo": 1476.0,
+      "red_name": "Matt Brown",
+      "round": "1.0",
+      "time": "1:32",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joshua Burkman",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-10-25",
+      "elo_delta": 21.0,
+      "event_name": "UFC 90: Silva vs Cote",
+      "fight_id": "41a4524c4e33bb7b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Joshua Burkman",
+      "opponent_elo": 1513.8,
+      "outcome": "red_win",
+      "post_elo": 1476.0,
+      "pre_elo": 1455.0,
+      "red_name": "Pete Sell",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Pete Sell",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-09-19",
+      "elo_delta": -15.3,
+      "event_name": "UFC Fight Night: Thomas vs Florian",
+      "fight_id": "2bd8eb002fa132a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nate Quarry",
+      "opponent_elo": 1540.1,
+      "outcome": "red_win",
+      "post_elo": 1449.7,
+      "pre_elo": 1465.0,
+      "red_name": "Nate Quarry",
+      "round": "3.0",
+      "time": "0:44",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Pete Sell",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-04-07",
+      "elo_delta": -17.9,
+      "event_name": "UFC 69: Shootout",
+      "fight_id": "d9a95d97be41e638",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Thales Leites",
+      "opponent_elo": 1484.8,
+      "outcome": "red_win",
+      "post_elo": 1465.0,
+      "pre_elo": 1482.9,
+      "red_name": "Thales Leites",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Pete Sell",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-11-11",
+      "elo_delta": -17.8,
+      "event_name": "The Ultimate Fighter: The Comeback Finale",
+      "fight_id": "1b385edcca128046",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Scott Smith",
+      "opponent_elo": 1529.9,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.7,
+      "red_name": "Scott Smith",
+      "round": "2.0",
+      "time": "3:25",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Pete Sell",
+      "bout_type": "Middleweight Bout",
+      "date": "2005-08-06",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night 1",
+      "fight_id": "b64c3a2227dd3721",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nate Quarry",
+      "opponent_elo": 1542.1,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1518.8,
+      "red_name": "Nate Quarry",
+      "round": "1.0",
+      "time": "0:42",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Phil Baroni",
+      "bout_type": "Middleweight Bout",
+      "date": "2005-02-05",
+      "elo_delta": 18.8,
+      "event_name": "UFC 51: Super Saturday",
+      "fight_id": "6baa477782b4db64",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Phil Baroni",
+      "opponent_elo": 1488.7,
+      "outcome": "red_win",
+      "post_elo": 1518.8,
+      "pre_elo": 1500.0,
+      "red_name": "Pete Sell",
+      "round": "3.0",
+      "time": "4:19",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2005-02-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-02-05",
+      "fight_id": "6baa477782b4db64",
+      "rating": 1518.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2005-02-05",
+      "fight_id": "6baa477782b4db64",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-08-06",
+      "fight_id": "b64c3a2227dd3721",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2005-08-06",
+      "fight_id": "b64c3a2227dd3721",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-11-11",
+      "fight_id": "1b385edcca128046",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-11-11",
+      "fight_id": "1b385edcca128046",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-04-07",
+      "fight_id": "d9a95d97be41e638",
+      "rating": 1465.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-04-07",
+      "fight_id": "d9a95d97be41e638",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-09-19",
+      "fight_id": "2bd8eb002fa132a7",
+      "rating": 1449.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-09-19",
+      "fight_id": "2bd8eb002fa132a7",
+      "rating": 1455.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-10-25",
+      "fight_id": "41a4524c4e33bb7b",
+      "rating": 1476.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-10-25",
+      "fight_id": "41a4524c4e33bb7b",
+      "rating": 1473.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-03-07",
+      "fight_id": "7fcefc59e284c380",
+      "rating": 1459.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-03-07",
+      "fight_id": "7fcefc59e284c380",
+      "rating": 1458.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-03-07",
+  "name": "Pete Sell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.8,
+  "slug": "pete-sell",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

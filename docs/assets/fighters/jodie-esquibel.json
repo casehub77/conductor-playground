@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 197,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jodie Esquibel",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2019-08-17",
+      "elo_delta": -15.4,
+      "event_name": "UFC 241: Cormier vs. Miocic 2",
+      "fight_id": "83f65136c95f7f07",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Hannah Cifers",
+      "opponent_elo": 1499.6,
+      "outcome": "red_win",
+      "post_elo": 1434.2,
+      "pre_elo": 1449.6,
+      "red_name": "Hannah Cifers",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jodie Esquibel",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2019-04-27",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Jacare vs. Hermansson",
+      "fight_id": "4787c755cad303d8",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Angela Hill",
+      "opponent_elo": 1449.2,
+      "outcome": "red_win",
+      "post_elo": 1449.6,
+      "pre_elo": 1468.6,
+      "red_name": "Angela Hill",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jodie Esquibel",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2018-07-14",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Dos Santos vs. Ivanov",
+      "fight_id": "7f172b3c2bf6db98",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jessica Aguilar",
+      "opponent_elo": 1496.8,
+      "outcome": "red_win",
+      "post_elo": 1468.6,
+      "pre_elo": 1486.0,
+      "red_name": "Jessica Aguilar",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jodie Esquibel",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2017-10-21",
+      "elo_delta": -14.0,
+      "event_name": "UFC Fight Night: Cerrone vs. Till",
+      "fight_id": "0ef1d27e95eb3dc8",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Karolina Kowalkiewicz",
+      "opponent_elo": 1578.8,
+      "outcome": "red_win",
+      "post_elo": 1486.0,
+      "pre_elo": 1500.0,
+      "red_name": "Karolina Kowalkiewicz",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2017-10-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-10-21",
+      "fight_id": "0ef1d27e95eb3dc8",
+      "rating": 1486.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2017-10-21",
+      "fight_id": "0ef1d27e95eb3dc8",
+      "rating": 1487.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2018-07-14",
+      "fight_id": "7f172b3c2bf6db98",
+      "rating": 1468.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2018-07-14",
+      "fight_id": "7f172b3c2bf6db98",
+      "rating": 1471.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-04-27",
+      "fight_id": "4787c755cad303d8",
+      "rating": 1449.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2019-04-27",
+      "fight_id": "4787c755cad303d8",
+      "rating": 1455.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2019-08-17",
+      "fight_id": "83f65136c95f7f07",
+      "rating": 1434.2,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2019-08-17",
+      "fight_id": "83f65136c95f7f07",
+      "rating": 1441.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-08-17",
+  "name": "Jodie Esquibel",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jodie-esquibel",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1540.0,
+  "divisional_rank": 45,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Tallison Teixeira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": 17.6,
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "fight_id": "ad453a0441ad05cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tai Tuivasa",
+      "opponent_elo": 1514.0,
+      "outcome": "blue_win",
+      "post_elo": 1540.0,
+      "pre_elo": 1522.5,
+      "red_name": "Tai Tuivasa",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tallison Teixeira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": -15.7,
+      "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+      "fight_id": "390a720355ce96eb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Derrick Lewis",
+      "opponent_elo": 1605.8,
+      "outcome": "red_win",
+      "post_elo": 1522.5,
+      "pre_elo": 1538.2,
+      "red_name": "Derrick Lewis",
+      "round": "1.0",
+      "time": "0:35",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tallison Teixeira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": 18.7,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "7e9d6231904292ae",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Justin Tafa",
+      "opponent_elo": 1506.8,
+      "outcome": "blue_win",
+      "post_elo": 1538.2,
+      "pre_elo": 1519.4,
+      "red_name": "Justin Tafa",
+      "round": "1.0",
+      "time": "0:35",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Arthur Fonseca",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": 19.4,
+      "event_name": "LFA 175: Lopes vs. Brigagão",
+      "fight_id": "0d19acd160bf4aa2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Arthur Fonseca",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tallison Teixeira",
+      "round": "1",
+      "time": "3:31",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-01-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-27",
+      "fight_id": "0d19acd160bf4aa2",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "0d19acd160bf4aa2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "7e9d6231904292ae",
+      "rating": 1538.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "7e9d6231904292ae",
+      "rating": 1534.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "390a720355ce96eb",
+      "rating": 1522.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "390a720355ce96eb",
+      "rating": 1520.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "ad453a0441ad05cf",
+      "rating": 1540.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "ad453a0441ad05cf",
+      "rating": 1535.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Tallison Teixeira",
+  "nickname": "",
+  "overall_elo": 1535.6,
+  "peak_elo": 1540.0,
+  "slug": "tallison-teixeira",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

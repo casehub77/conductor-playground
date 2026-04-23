@@ -1,0 +1,160 @@
+{
+  "current_elo": 1489.5,
+  "divisional_rank": 945,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Schwindt",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": -20.0,
+      "event_name": "Oktagon 83: Samsonidse vs. Machaev",
+      "fight_id": "b2600fbd5d4e35a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Brian Manning",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1489.5,
+      "pre_elo": 1509.5,
+      "red_name": "Brian Manning",
+      "round": "1",
+      "time": "3:59",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Daniel Schwindt",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": -20.1,
+      "event_name": "Oktagon 77: Engizek vs. Humburger",
+      "fight_id": "e546be8f9ff5b9d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Vlasto Čepo",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1509.5,
+      "pre_elo": 1529.6,
+      "red_name": "Vlasto Čepo",
+      "round": "1",
+      "time": "3:38",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Marek Bartl",
+      "bout_type": "Catchweight (181 lb) Bout",
+      "date": "2025-03-08",
+      "elo_delta": 11.2,
+      "event_name": "Oktagon 68: Todev vs. Fleury",
+      "fight_id": "143f4e2c4b2f453e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Marek Bartl",
+      "opponent_elo": 1570.5,
+      "outcome": "red_win",
+      "post_elo": 1529.6,
+      "pre_elo": 1518.4,
+      "red_name": "Daniel Schwindt",
+      "round": "2",
+      "time": "4:41",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Radovan Úškrt",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-12-29",
+      "elo_delta": 18.4,
+      "event_name": "Oktagon 65: Paradeiser vs. Keita 2",
+      "fight_id": "645dfa742abe50f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Radovan Úškrt",
+      "opponent_elo": 1481.8,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Schwindt",
+      "round": "2",
+      "time": "2:23",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-29",
+      "fight_id": "645dfa742abe50f1",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-12-29",
+      "fight_id": "645dfa742abe50f1",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "143f4e2c4b2f453e",
+      "rating": 1529.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "143f4e2c4b2f453e",
+      "rating": 1526.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "e546be8f9ff5b9d6",
+      "rating": 1509.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "e546be8f9ff5b9d6",
+      "rating": 1508.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "b2600fbd5d4e35a2",
+      "rating": 1489.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "b2600fbd5d4e35a2",
+      "rating": 1490.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Daniel Schwindt",
+  "nickname": "",
+  "overall_elo": 1490.8,
+  "peak_elo": 1529.6,
+  "slug": "daniel-schwindt",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

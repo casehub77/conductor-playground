@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 818,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "David Michaud",
+      "bout_type": "Lightweight Bout",
+      "date": "2015-04-25",
+      "elo_delta": -19.3,
+      "event_name": "UFC 186: Johnson vs Horiguchi",
+      "fight_id": "d5a33128193e4711",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Olivier Aubin-Mercier",
+      "opponent_elo": 1503.3,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.9,
+      "red_name": "Olivier Aubin-Mercier",
+      "round": "3.0",
+      "time": "1:35",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Garett Whiteley",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-12-13",
+      "elo_delta": 16.9,
+      "event_name": "UFC on FOX: Dos Santos vs Miocic",
+      "fight_id": "5bc5634433a77694",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Garett Whiteley",
+      "opponent_elo": 1462.6,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1484.0,
+      "red_name": "David Michaud",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Li Jingliang",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-05-24",
+      "elo_delta": -18.0,
+      "event_name": "UFC 173: Barao vs Dillashaw",
+      "fight_id": "1f8998ba60fedbce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Li Jingliang",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "David Michaud",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2014-05-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-05-24",
+      "fight_id": "1f8998ba60fedbce",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-05-24",
+      "fight_id": "1f8998ba60fedbce",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-13",
+      "fight_id": "5bc5634433a77694",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-12-13",
+      "fight_id": "5bc5634433a77694",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-04-25",
+      "fight_id": "d5a33128193e4711",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-04-25",
+      "fight_id": "d5a33128193e4711",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-04-25",
+  "name": "David Michaud",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "slug": "david-michaud",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

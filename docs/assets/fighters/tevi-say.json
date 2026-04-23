@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 670,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yuka Kimura",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-12",
+      "elo_delta": -0.1,
+      "event_name": "G-Shooto: G-Shooto 02",
+      "fight_id": "978985bea64f06cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Yuka Kimura",
+      "opponent_elo": 1518.0,
+      "outcome": "draw",
+      "post_elo": 1519.4,
+      "pre_elo": 1519.4,
+      "red_name": "Tevi Say",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Izumi Noguchi",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-11-26",
+      "elo_delta": 19.4,
+      "event_name": "G-Shooto: G-Shooto 01",
+      "fight_id": "22217610d385f818",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Izumi Noguchi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tevi Say",
+      "round": "2",
+      "time": "0:33",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-11-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-11-26",
+      "fight_id": "22217610d385f818",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-11-26",
+      "fight_id": "22217610d385f818",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-03-12",
+      "fight_id": "978985bea64f06cf",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-12",
+      "fight_id": "978985bea64f06cf",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-03-12",
+  "name": "Tevi Say",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "tevi-say",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

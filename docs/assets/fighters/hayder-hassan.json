@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 484,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Vicente Luque",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-12-19",
+      "elo_delta": -20.4,
+      "event_name": "UFC on FOX: Dos Anjos vs. Cowboy 2",
+      "fight_id": "bf6f641eb26daa34",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Vicente Luque",
+      "opponent_elo": 1482.0,
+      "outcome": "blue_win",
+      "post_elo": 1478.5,
+      "pre_elo": 1498.9,
+      "red_name": "Hayder Hassan",
+      "round": "1.0",
+      "time": "2:13",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Hayder Hassan",
+      "bout_type": "Ultimate Fighter 21 Welterweight Tournament Title Bout",
+      "date": "2015-07-12",
+      "elo_delta": -20.5,
+      "event_name": "The Ultimate Fighter: American Top Team vs. Blackzilians Finale",
+      "fight_id": "0066467663238214",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kamaru Usman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Kamaru Usman",
+      "round": "2.0",
+      "time": "1:19",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ryan Keenan",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-01-30",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Miami",
+      "fight_id": "8c2bc0185f2b6025",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Ryan Keenan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Hayder Hassan",
+      "round": "2",
+      "time": "2:42",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-30",
+      "fight_id": "8c2bc0185f2b6025",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-01-30",
+      "fight_id": "8c2bc0185f2b6025",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-07-12",
+      "fight_id": "0066467663238214",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-07-12",
+      "fight_id": "0066467663238214",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-12-19",
+      "fight_id": "bf6f641eb26daa34",
+      "rating": 1478.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-12-19",
+      "fight_id": "bf6f641eb26daa34",
+      "rating": 1481.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-12-19",
+  "name": "Hayder Hassan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "hayder-hassan",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

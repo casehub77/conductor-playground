@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 850,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Alonzo Martinez",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2012-01-07",
+      "elo_delta": -27.1,
+      "event_name": "Strikeforce: Rockhold vs. Jardine",
+      "fight_id": "2a5141bdc21aab28",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Estevan Payan",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1472.2,
+      "pre_elo": 1499.3,
+      "red_name": "Estevan Payan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Victor Meza",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": 19.7,
+      "event_name": "Bellator 7/8",
+      "fight_id": "dead7117fda62a98",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Victor Meza",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1479.6,
+      "red_name": "Alonzo Martinez",
+      "round": "2",
+      "time": "1:42",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alonzo Martinez",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-04-03",
+      "elo_delta": -20.4,
+      "event_name": "Bellator 1",
+      "fight_id": "792363fad2a7e4c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Toby Imada",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1479.6,
+      "pre_elo": 1500.0,
+      "red_name": "Toby Imada",
+      "round": "1",
+      "time": "3:26",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-04-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-03",
+      "fight_id": "792363fad2a7e4c4",
+      "rating": 1479.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-04-03",
+      "fight_id": "792363fad2a7e4c4",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "dead7117fda62a98",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "dead7117fda62a98",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-01-07",
+      "fight_id": "2a5141bdc21aab28",
+      "rating": 1472.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-01-07",
+      "fight_id": "2a5141bdc21aab28",
+      "rating": 1475.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-01-07",
+  "name": "Alonzo Martinez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "alonzo-martinez",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

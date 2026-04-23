@@ -1,0 +1,92 @@
+{
+  "current_elo": 1538.7,
+  "divisional_rank": 47,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Leonardo Fraga",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-03-27",
+      "elo_delta": 18.3,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "8c66b714caf8ecab",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Leonardo Fraga",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.7,
+      "pre_elo": 1520.4,
+      "red_name": "Guilherme Uriel",
+      "round": "1",
+      "time": "1:36",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Hyago Silva",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-07",
+      "elo_delta": 20.4,
+      "event_name": "LFA 201: Conceição vs. Silva",
+      "fight_id": "c4c987e155005bb3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Hyago Silva",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Guilherme Uriel",
+      "round": "1",
+      "time": "1:27",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-02-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-07",
+      "fight_id": "c4c987e155005bb3",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "c4c987e155005bb3",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "8c66b714caf8ecab",
+      "rating": 1538.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "8c66b714caf8ecab",
+      "rating": 1534.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Guilherme Uriel",
+  "nickname": "",
+  "overall_elo": 1534.4,
+  "peak_elo": 1538.7,
+  "slug": "guilherme-uriel",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 387,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Richard Jacobi",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": 0.9,
+      "event_name": "Legacy Fighting Alliance 132: Gomes vs. Costa",
+      "fight_id": "8099dca7bc2e75d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (majority)",
+      "opponent": "Hyago Silva",
+      "opponent_elo": 1518.0,
+      "outcome": "draw",
+      "post_elo": 1500.9,
+      "pre_elo": 1500.0,
+      "red_name": "Hyago Silva",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-05-13",
+      "fight_id": "8099dca7bc2e75d3",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "8099dca7bc2e75d3",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-13",
+  "name": "Richard Jacobi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "slug": "richard-jacobi",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

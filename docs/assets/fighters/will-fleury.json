@@ -1,0 +1,194 @@
+{
+  "current_elo": 1589.4,
+  "divisional_rank": 16,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Martin Buday",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-12-28",
+      "elo_delta": 20.7,
+      "event_name": "Oktagon 81: Fleury vs. Buday",
+      "fight_id": "8ebcc52dcd81d838",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Martin Buday",
+      "opponent_elo": 1590.4,
+      "outcome": "red_win",
+      "post_elo": 1589.4,
+      "pre_elo": 1568.7,
+      "red_name": "Will Fleury",
+      "round": "1",
+      "time": "1:40",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Lazar Todev",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 17.0,
+      "event_name": "Oktagon 68: Todev vs. Fleury",
+      "fight_id": "2a9c9321d81c5408",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 48–47, 48–47)",
+      "opponent": "Lazar Todev",
+      "opponent_elo": 1533.2,
+      "outcome": "red_win",
+      "post_elo": 1568.7,
+      "pre_elo": 1551.7,
+      "red_name": "Will Fleury",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Karlos Vémola",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-12-29",
+      "elo_delta": 17.6,
+      "event_name": "Oktagon 65: Paradeiser vs. Keita 2",
+      "fight_id": "5aad162c1f36de9e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (50–44, 50–44, 50–44)",
+      "opponent": "Karlos Vémola",
+      "opponent_elo": 1534.3,
+      "outcome": "red_win",
+      "post_elo": 1559.4,
+      "pre_elo": 1541.8,
+      "red_name": "Will Fleury",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Pavol Langer",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-10-12",
+      "elo_delta": 21.3,
+      "event_name": "Oktagon 62: Bigger Than Ever",
+      "fight_id": "eafbdeb42f97df42",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Pavol Langer",
+      "opponent_elo": 1553.3,
+      "outcome": "red_win",
+      "post_elo": 1541.8,
+      "pre_elo": 1520.5,
+      "red_name": "Will Fleury",
+      "round": "1",
+      "time": "1:31",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Daniel Škvor",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 56: Aby vs. Creasey",
+      "fight_id": "00ffd1e0f50d0011",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Daniel Škvor",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Will Fleury",
+      "round": "2",
+      "time": "1:14",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-04-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-04-20",
+      "fight_id": "00ffd1e0f50d0011",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "00ffd1e0f50d0011",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "eafbdeb42f97df42",
+      "rating": 1541.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "eafbdeb42f97df42",
+      "rating": 1536.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-29",
+      "fight_id": "5aad162c1f36de9e",
+      "rating": 1559.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-12-29",
+      "fight_id": "5aad162c1f36de9e",
+      "rating": 1551.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "2a9c9321d81c5408",
+      "rating": 1568.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "2a9c9321d81c5408",
+      "rating": 1566.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "8ebcc52dcd81d838",
+      "rating": 1589.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-12-28",
+      "fight_id": "8ebcc52dcd81d838",
+      "rating": 1584.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-28",
+  "name": "Will Fleury",
+  "nickname": "",
+  "overall_elo": 1584.7,
+  "peak_elo": 1589.4,
+  "slug": "will-fleury",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

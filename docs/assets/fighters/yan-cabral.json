@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 500,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Reza Madadi",
+      "bout_type": "Lightweight Bout",
+      "date": "2016-05-08",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: Overeem vs Arlovski",
+      "fight_id": "fcc85d059405d632",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Reza Madadi",
+      "opponent_elo": 1502.5,
+      "outcome": "blue_win",
+      "post_elo": 1496.0,
+      "pre_elo": 1516.2,
+      "red_name": "Yan Cabral",
+      "round": "3.0",
+      "time": "1:56",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Johnny Case",
+      "bout_type": "Lightweight Bout",
+      "date": "2015-11-07",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Belfort vs Henderson 3",
+      "fight_id": "3df6038a3919f5f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Johnny Case",
+      "opponent_elo": 1553.1,
+      "outcome": "blue_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1533.2,
+      "red_name": "Yan Cabral",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Naoyuki Kotani",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-10-25",
+      "elo_delta": 14.9,
+      "event_name": "UFC 179: Aldo vs Mendes 2",
+      "fight_id": "0ea357e66bf34d84",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Naoyuki Kotani",
+      "opponent_elo": 1435.5,
+      "outcome": "red_win",
+      "post_elo": 1533.2,
+      "pre_elo": 1518.3,
+      "red_name": "Yan Cabral",
+      "round": "2.0",
+      "time": "3:06",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Zak Cummings",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-05-10",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Brown vs Silva",
+      "fight_id": "f5275467ebabb12f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Zak Cummings",
+      "opponent_elo": 1535.8,
+      "outcome": "blue_win",
+      "post_elo": 1520.2,
+      "pre_elo": 1538.4,
+      "red_name": "Yan Cabral",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "David Mitchell",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-10-09",
+      "elo_delta": 15.5,
+      "event_name": "UFC Fight Night: Maia vs Shields",
+      "fight_id": "59c7ca7ed071be64",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "David Mitchell",
+      "opponent_elo": 1474.0,
+      "outcome": "red_win",
+      "post_elo": 1538.4,
+      "pre_elo": 1522.9,
+      "red_name": "Yan Cabral",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kazushi Sakuraba",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": 22.9,
+      "event_name": "Dream 17",
+      "fight_id": "8fedf7d41babd5c2",
+      "gender": "men",
+      "is_title": false,
+      "method": "submission (arm triangle choke)",
+      "opponent": "Kazushi Sakuraba",
+      "opponent_elo": 1562.2,
+      "outcome": "red_win",
+      "post_elo": 1522.9,
+      "pre_elo": 1500.0,
+      "red_name": "Yan Cabral",
+      "round": "2",
+      "time": "2:42",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2011-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-09-24",
+      "fight_id": "8fedf7d41babd5c2",
+      "rating": 1522.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "8fedf7d41babd5c2",
+      "rating": 1520.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-10-09",
+      "fight_id": "59c7ca7ed071be64",
+      "rating": 1538.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-10-09",
+      "fight_id": "59c7ca7ed071be64",
+      "rating": 1534.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-05-10",
+      "fight_id": "f5275467ebabb12f",
+      "rating": 1520.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-05-10",
+      "fight_id": "f5275467ebabb12f",
+      "rating": 1518.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-10-25",
+      "fight_id": "0ea357e66bf34d84",
+      "rating": 1533.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-10-25",
+      "fight_id": "0ea357e66bf34d84",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-11-07",
+      "fight_id": "3df6038a3919f5f4",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-11-07",
+      "fight_id": "3df6038a3919f5f4",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-05-08",
+      "fight_id": "fcc85d059405d632",
+      "rating": 1496.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-05-08",
+      "fight_id": "fcc85d059405d632",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-05-08",
+  "name": "Yan Cabral",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.4,
+  "slug": "yan-cabral",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

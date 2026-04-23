@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 985,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Boehm",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-12-09",
+      "elo_delta": -19.6,
+      "event_name": "Bellator 289: Stots vs. Sabatello",
+      "fight_id": "ba97bde4e1896ad2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Kai Kamaka III",
+      "opponent_elo": 1480.2,
+      "outcome": "red_win",
+      "post_elo": 1463.1,
+      "pre_elo": 1482.7,
+      "red_name": "Kai Kamaka III",
+      "round": "3",
+      "time": "2:23",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-07-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-22",
+      "fight_id": "18034760aa443899",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "ba97bde4e1896ad2",
+      "rating": 1463.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-12-09",
+      "fight_id": "ba97bde4e1896ad2",
+      "rating": 1465.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-09",
+  "name": "Kevin Boehm",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kevin-boehm",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

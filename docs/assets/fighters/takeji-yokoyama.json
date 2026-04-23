@@ -1,0 +1,126 @@
+{
+  "current_elo": 1478.7,
+  "divisional_rank": 1182,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Takeji Yokoyama",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": -19.3,
+      "event_name": "Rizin 50",
+      "fight_id": "823374440a8c157a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Shuya Kimura",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1478.7,
+      "pre_elo": 1498.0,
+      "red_name": "Shuya Kimura",
+      "round": "1",
+      "time": "0:54",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Takeji Yokoyama",
+      "bout_type": "Catchweight 66,2 kg Bout",
+      "date": "2023-09-24",
+      "elo_delta": -20.4,
+      "event_name": "Rizin 44",
+      "fight_id": "f9c89d5b82758539",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kazumasa Majima",
+      "opponent_elo": 1471.2,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1518.4,
+      "red_name": "Kazumasa Majima",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Takuya Yamamoto",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2023-05-06",
+      "elo_delta": 18.4,
+      "event_name": "Rizin 42",
+      "fight_id": "172bb89bf5c59cf6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Takuya Yamamoto",
+      "opponent_elo": 1481.9,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Takeji Yokoyama",
+      "round": "1",
+      "time": "1:24",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-06",
+      "fight_id": "172bb89bf5c59cf6",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-05-06",
+      "fight_id": "172bb89bf5c59cf6",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "f9c89d5b82758539",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "f9c89d5b82758539",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "823374440a8c157a",
+      "rating": 1478.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "823374440a8c157a",
+      "rating": 1481.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-30",
+  "name": "Takeji Yokoyama",
+  "nickname": "",
+  "overall_elo": 1481.3,
+  "peak_elo": 1518.4,
+  "slug": "takeji-yokoyama",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

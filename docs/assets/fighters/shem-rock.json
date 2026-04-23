@@ -1,0 +1,201 @@
+{
+  "current_elo": 1501.8,
+  "divisional_rank": 287,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Abdul-Kareem Al-Selwady",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-03-21",
+      "elo_delta": -19.1,
+      "event_name": "UFC Fight Night: Evloev vs. Murphy",
+      "fight_id": "55087664a10c17c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Abdul-Kareem Al-Selwady",
+      "opponent_elo": 1498.8,
+      "outcome": "blue_win",
+      "post_elo": 1501.8,
+      "pre_elo": 1520.9,
+      "red_name": "Shem Rock",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Shem Rock",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+      "fight_id": "0df56c6ff79c218b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nurullo Aliev",
+      "opponent_elo": 1536.5,
+      "outcome": "red_win",
+      "post_elo": 1520.9,
+      "pre_elo": 1539.1,
+      "red_name": "Nurullo Aliev",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jaroslav Pokorný",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-06-08",
+      "elo_delta": 19.4,
+      "event_name": "Oktagon 58: Vémola vs Végh 2",
+      "fight_id": "ef5eaeb22287d27e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Jaroslav Pokorný",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1539.1,
+      "pre_elo": 1519.7,
+      "red_name": "Shem Rock",
+      "round": "1",
+      "time": "3:06",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Stefano Catacoli",
+      "bout_type": "Catchweight (150 lb) Bout",
+      "date": "2024-04-20",
+      "elo_delta": 19.5,
+      "event_name": "Oktagon 56: Aby vs. Creasey",
+      "fight_id": "4e379c1d68660b3b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Stefano Catacoli",
+      "opponent_elo": 1518.1,
+      "outcome": "red_win",
+      "post_elo": 1536.9,
+      "pre_elo": 1517.4,
+      "red_name": "Shem Rock",
+      "round": "1",
+      "time": "4:47",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jan Malach",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-07-28",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 45 Special: Mågård vs. Lima",
+      "fight_id": "a837b55527939ea0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jan Malach",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1519.7,
+      "pre_elo": 1499.2,
+      "red_name": "Shem Rock",
+      "round": "1",
+      "time": "2:08",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "52df2951c9bd064e",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "a837b55527939ea0",
+      "rating": 1519.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "a837b55527939ea0",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "4e379c1d68660b3b",
+      "rating": 1536.9,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "4e379c1d68660b3b",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "ef5eaeb22287d27e",
+      "rating": 1539.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "ef5eaeb22287d27e",
+      "rating": 1550.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "0df56c6ff79c218b",
+      "rating": 1520.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "0df56c6ff79c218b",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "55087664a10c17c9",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-03-21",
+      "fight_id": "55087664a10c17c9",
+      "rating": 1515.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-21",
+  "name": "Shem Rock",
+  "nickname": "",
+  "overall_elo": 1515.8,
+  "peak_elo": 1550.2,
+  "slug": "shem-rock",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

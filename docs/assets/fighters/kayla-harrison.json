@@ -1,0 +1,126 @@
+{
+  "current_elo": 1568.5,
+  "divisional_rank": 8,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kayla Harrison",
+      "bout_type": "UFC Women's Bantamweight Title Bout",
+      "date": "2025-06-07",
+      "elo_delta": 24.6,
+      "event_name": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "fight_id": "55b95f16ae51e600",
+      "gender": "women",
+      "is_title": true,
+      "method": "Submission",
+      "opponent": "Julianna Pena",
+      "opponent_elo": 1596.1,
+      "outcome": "blue_win",
+      "post_elo": 1568.5,
+      "pre_elo": 1543.9,
+      "red_name": "Julianna Pena",
+      "round": "2.0",
+      "time": "4:55",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kayla Harrison",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-10-05",
+      "elo_delta": 21.0,
+      "event_name": "UFC 307: Pereira vs. Rountree Jr.",
+      "fight_id": "1da811de6243fe5c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ketlen Vieira",
+      "opponent_elo": 1580.9,
+      "outcome": "blue_win",
+      "post_elo": 1543.9,
+      "pre_elo": 1523.0,
+      "red_name": "Ketlen Vieira",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kayla Harrison",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-04-13",
+      "elo_delta": 23.0,
+      "event_name": "UFC 300: Pereira vs. Hill",
+      "fight_id": "10673992f0357851",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Holly Holm",
+      "opponent_elo": 1563.6,
+      "outcome": "blue_win",
+      "post_elo": 1523.0,
+      "pre_elo": 1500.0,
+      "red_name": "Holly Holm",
+      "round": "2.0",
+      "time": "1:47",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-04-13",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-04-13",
+      "fight_id": "10673992f0357851",
+      "rating": 1523.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-04-13",
+      "fight_id": "10673992f0357851",
+      "rating": 1519.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-10-05",
+      "fight_id": "1da811de6243fe5c",
+      "rating": 1543.9,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-10-05",
+      "fight_id": "1da811de6243fe5c",
+      "rating": 1537.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "55b95f16ae51e600",
+      "rating": 1568.5,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "55b95f16ae51e600",
+      "rating": 1559.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": "https://www.instagram.com/kaylaharrisonofficial/",
+  "instagram_featured": true,
+  "last_fight_date": "2025-06-07",
+  "name": "Kayla Harrison",
+  "nickname": "",
+  "overall_elo": 1559.6,
+  "peak_elo": 1568.5,
+  "slug": "kayla-harrison",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

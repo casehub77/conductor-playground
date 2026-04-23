@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 48,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Janay Harding",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": -16.7,
+      "event_name": "Bellator 291: Amosov vs. Storley 2",
+      "fight_id": "d18e56fe5003440d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Sinead Kavanagh",
+      "opponent_elo": 1504.3,
+      "outcome": "red_win",
+      "post_elo": 1463.4,
+      "pre_elo": 1480.1,
+      "red_name": "Sinead Kavanagh",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Janay Harding",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2022-04-23",
+      "elo_delta": -19.9,
+      "event_name": "Bellator 279: Cyborg vs. Blencowe 2",
+      "fight_id": "1832f2df1b051cb9",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Dayana Silva",
+      "opponent_elo": 1463.6,
+      "outcome": "red_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Dayana Silva",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-05-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-05-21",
+      "fight_id": "8dd2f9d18397dbea",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "1832f2df1b051cb9",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "1832f2df1b051cb9",
+      "rating": 1482.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "d18e56fe5003440d",
+      "rating": 1463.4,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "d18e56fe5003440d",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-25",
+  "name": "Janay Harding",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "janay-harding",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

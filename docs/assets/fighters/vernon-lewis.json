@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 617,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Vernon Lewis",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-07-30",
+      "elo_delta": -17.3,
+      "event_name": "Legacy Fighting Alliance 113: Lewis vs. Petersen",
+      "fight_id": "01eededb489183fe",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Thomas Petersen",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Thomas Petersen",
+      "round": "1",
+      "time": "1:02",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-07-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-30",
+      "fight_id": "01eededb489183fe",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-07-30",
+      "fight_id": "01eededb489183fe",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-07-30",
+  "name": "Vernon Lewis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "vernon-lewis",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

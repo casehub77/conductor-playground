@@ -1,0 +1,92 @@
+{
+  "current_elo": 1506.0,
+  "divisional_rank": 190,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Joey Hart",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-09-12",
+      "elo_delta": 21.1,
+      "event_name": "LFA 217: McKee vs. Nobre",
+      "fight_id": "31d0a7a626d9d261",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (ninja choke)",
+      "opponent": "Joey Hart",
+      "opponent_elo": 1514.4,
+      "outcome": "red_win",
+      "post_elo": 1506.0,
+      "pre_elo": 1484.9,
+      "red_name": "Christian Turner",
+      "round": "1",
+      "time": "3:51",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Christian Turner",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-10-14",
+      "elo_delta": -16.7,
+      "event_name": "Legacy Fighting Alliance 144: Gafurov vs. Silva",
+      "fight_id": "7f00ec54d28c63a6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jacobi Jones",
+      "opponent_elo": 1550.0,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Jacobi Jones",
+      "round": "2",
+      "time": "2:25",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-14",
+      "fight_id": "7f00ec54d28c63a6",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "7f00ec54d28c63a6",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-12",
+      "fight_id": "31d0a7a626d9d261",
+      "rating": 1506.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-09-12",
+      "fight_id": "31d0a7a626d9d261",
+      "rating": 1503.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-12",
+  "name": "Christian Turner",
+  "nickname": "",
+  "overall_elo": 1503.7,
+  "peak_elo": 1506.0,
+  "slug": "christian-turner",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

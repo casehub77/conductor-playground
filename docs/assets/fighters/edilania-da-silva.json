@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.9,
+  "divisional_rank": 71,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Edilania da Silva",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-09-05",
+      "elo_delta": -18.5,
+      "event_name": "LFA 216: Silva vs. Bertolso",
+      "fight_id": "f26be7e92d128db9",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Aieza Ramos Bertolso",
+      "opponent_elo": 1537.3,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1520.4,
+      "red_name": "Aieza Ramos Bertolso",
+      "round": "2",
+      "time": "4:14",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Rose Conceição",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2025-02-07",
+      "elo_delta": 20.4,
+      "event_name": "LFA 201: Conceição vs. Silva",
+      "fight_id": "e7b4f5bbab7a6542",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Rose Conceição",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Edilania da Silva",
+      "round": "5",
+      "time": "2:54",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2025-02-07",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-02-07",
+      "fight_id": "e7b4f5bbab7a6542",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "e7b4f5bbab7a6542",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "f26be7e92d128db9",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "f26be7e92d128db9",
+      "rating": 1501.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-05",
+  "name": "Edilania da Silva",
+  "nickname": "",
+  "overall_elo": 1501.5,
+  "peak_elo": 1520.4,
+  "slug": "edilania-da-silva",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 580,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tiki Ghosn",
+      "bout_type": "Lightweight Bout",
+      "date": "2000-03-10",
+      "elo_delta": 19.4,
+      "event_name": "UFC 24: First Defense",
+      "fight_id": "f2874fc6cec38e24",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tiki Ghosn",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bob Cook",
+      "round": "2.0",
+      "time": "1:29",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2000-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-03-10",
+      "fight_id": "f2874fc6cec38e24",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2000-03-10",
+      "fight_id": "f2874fc6cec38e24",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-03-10",
+  "name": "Bob Cook",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "bob-cook",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

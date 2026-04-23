@@ -1,0 +1,160 @@
+{
+  "current_elo": 1572.3,
+  "divisional_rank": 36,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Jorge Bueno",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2024-11-02",
+      "elo_delta": 16.3,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "3ba1ae67abbb44c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Jorge Bueno",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1572.3,
+      "pre_elo": 1556.0,
+      "red_name": "Stefano Paternò",
+      "round": "2",
+      "time": "2:43",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Oli Santalahti",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": 17.3,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "44f5245da13b2a6c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Oli Santalahti",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1556.0,
+      "pre_elo": 1538.7,
+      "red_name": "Stefano Paternò",
+      "round": "3",
+      "time": "3:56",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Scottie Stockman",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-03-15",
+      "elo_delta": 18.3,
+      "event_name": "Cage Warriors 167: Unplugged",
+      "fight_id": "6d61ce5731c43661",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (brabo choke)",
+      "opponent": "Scottie Stockman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.7,
+      "pre_elo": 1520.4,
+      "red_name": "Stefano Paternò",
+      "round": "1",
+      "time": "2:59",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ion Surdu",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-12-29",
+      "elo_delta": 20.4,
+      "event_name": "Oktagon 51: Tipsport Gamechanger Final",
+      "fight_id": "5090a6f0a79b5bc5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Ion Surdu",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Stefano Paternò",
+      "round": "2",
+      "time": "2:37",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-29",
+      "fight_id": "5090a6f0a79b5bc5",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-12-29",
+      "fight_id": "5090a6f0a79b5bc5",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-15",
+      "fight_id": "6d61ce5731c43661",
+      "rating": 1538.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-03-15",
+      "fight_id": "6d61ce5731c43661",
+      "rating": 1534.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "44f5245da13b2a6c",
+      "rating": 1556.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "44f5245da13b2a6c",
+      "rating": 1550.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "3ba1ae67abbb44c1",
+      "rating": 1572.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "3ba1ae67abbb44c1",
+      "rating": 1564.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-02",
+  "name": "Stefano Paternò",
+  "nickname": "",
+  "overall_elo": 1564.8,
+  "peak_elo": 1572.3,
+  "slug": "stefano-paterno",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

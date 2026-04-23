@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 270,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kabilan Jelevan",
+      "bout_type": "Catchweight (137 lbs) Muay Thai Bout",
+      "date": "2024-05-03",
+      "elo_delta": -20.6,
+      "event_name": "ONE Friday Fights 61: Phetsukumvit vs. Duangsompong",
+      "fight_id": "ae76ddf3f9768e59",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (right hook)",
+      "opponent": "Muga Seto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1520.5,
+      "red_name": "Muga Seto",
+      "round": "2",
+      "time": "1:29",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sulaiman LooksuanMuayThai",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2023-07-14",
+      "elo_delta": 20.5,
+      "event_name": "ONE Friday Fights 25: Nakrob vs. Phetphuthai",
+      "fight_id": "97b10e635379ea02",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (right hook)",
+      "opponent": "Sulaiman LooksuanMuayThai",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Kabilan Jelevan",
+      "round": "1",
+      "time": "2:51",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-07-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-14",
+      "fight_id": "97b10e635379ea02",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-07-14",
+      "fight_id": "97b10e635379ea02",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-03",
+      "fight_id": "ae76ddf3f9768e59",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-05-03",
+      "fight_id": "ae76ddf3f9768e59",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-05-03",
+  "name": "Kabilan Jelevan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.5,
+  "slug": "kabilan-jelevan",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1551.8,
+  "divisional_rank": 73,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Scott Harvey",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 19.6,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "12ee79e40abea331",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Scott Harvey",
+      "opponent_elo": 1535.1,
+      "outcome": "red_win",
+      "post_elo": 1551.8,
+      "pre_elo": 1532.2,
+      "red_name": "Alexander O'Sullivan",
+      "round": "1",
+      "time": "4:37",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Manuel Lancioli",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": 16.2,
+      "event_name": "Cage Warriors 195: Rome",
+      "fight_id": "d42530d1b32685f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Manuel Lancioli",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1532.2,
+      "pre_elo": 1516.0,
+      "red_name": "Alexander O'Sullivan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Daire Toman",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "ba797b0904aa5bee",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–26, 30–26)",
+      "opponent": "Daire Toman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Alexander O'Sullivan",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-04-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-26",
+      "fight_id": "ba797b0904aa5bee",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "ba797b0904aa5bee",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "d42530d1b32685f1",
+      "rating": 1532.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "d42530d1b32685f1",
+      "rating": 1530.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "12ee79e40abea331",
+      "rating": 1551.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "12ee79e40abea331",
+      "rating": 1547.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Alexander O'Sullivan",
+  "nickname": "",
+  "overall_elo": 1547.9,
+  "peak_elo": 1551.8,
+  "slug": "alexander-o-sullivan",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

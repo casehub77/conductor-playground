@@ -1,0 +1,92 @@
+{
+  "current_elo": 1504.3,
+  "divisional_rank": 265,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ricardo Bravo",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2025-06-07",
+      "elo_delta": 21.4,
+      "event_name": "ONE Fight Night 32: Nakrob vs. Jaosuayai",
+      "fight_id": "3da5708bfb5abc3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ricardo Bravo",
+      "opponent_elo": 1549.3,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1482.9,
+      "red_name": "Arian Esparza",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Arian Esparza",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2025-03-08",
+      "elo_delta": -17.1,
+      "event_name": "ONE Fight Night 29: Rodrigues vs. McManamon",
+      "fight_id": "bd0f5add31164c36",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Nonthachai Jitmuangnon",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Nonthachai Jitmuangnon",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-03-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-08",
+      "fight_id": "bd0f5add31164c36",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "bd0f5add31164c36",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "3da5708bfb5abc3e",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "3da5708bfb5abc3e",
+      "rating": 1503.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-07",
+  "name": "Arian Esparza",
+  "nickname": "",
+  "overall_elo": 1503.7,
+  "peak_elo": 1504.3,
+  "slug": "arian-esparza",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

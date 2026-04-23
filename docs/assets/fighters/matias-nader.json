@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 850,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Matias Nader",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": -19.3,
+      "event_name": "Bellator 288: Nemkov vs. Anderson 2",
+      "fight_id": "0be0e33af3c06c1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Isaiah Hokit",
+      "opponent_elo": 1502.1,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Isaiah Hokit",
+      "round": "2",
+      "time": "3:48",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-11-18",
+      "fight_id": "0be0e33af3c06c1c",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "0be0e33af3c06c1c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-18",
+  "name": "Matias Nader",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "matias-nader",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1466.7,
+  "divisional_rank": 1203,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Gilbert Urbina",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-08-09",
+      "elo_delta": -17.6,
+      "event_name": "UFC Fight Night: Dolidze vs. Hernandez",
+      "fight_id": "b241688afea7c36a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Uros Medic",
+      "opponent_elo": 1516.7,
+      "outcome": "red_win",
+      "post_elo": 1466.7,
+      "pre_elo": 1484.3,
+      "red_name": "Uros Medic",
+      "round": "1.0",
+      "time": "1:03",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Charles Radtke",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-02-03",
+      "elo_delta": -18.7,
+      "event_name": "UFC Fight Night: Dolidze vs. Imavov",
+      "fight_id": "d91d9a30f5635f79",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Charles Radtke",
+      "opponent_elo": 1516.1,
+      "outcome": "blue_win",
+      "post_elo": 1484.3,
+      "pre_elo": 1503.0,
+      "red_name": "Gilbert Urbina",
+      "round": "1.0",
+      "time": "4:47",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gilbert Urbina",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-05-20",
+      "elo_delta": 20.3,
+      "event_name": "UFC Fight Night: Dern vs. Hill",
+      "fight_id": "c5f7d11b1ad685ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Orion Cosce",
+      "opponent_elo": 1497.6,
+      "outcome": "blue_win",
+      "post_elo": 1503.0,
+      "pre_elo": 1482.7,
+      "red_name": "Orion Cosce",
+      "round": "2.0",
+      "time": "2:55",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gilbert Urbina",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-08-28",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Barboza vs. Chikadze",
+      "fight_id": "e5026d118308a0f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Bryan Battle",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Bryan Battle",
+      "round": "2.0",
+      "time": "2:15",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-28",
+      "fight_id": "e5026d118308a0f1",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-08-28",
+      "fight_id": "e5026d118308a0f1",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-20",
+      "fight_id": "c5f7d11b1ad685ea",
+      "rating": 1503.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-05-20",
+      "fight_id": "c5f7d11b1ad685ea",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "d91d9a30f5635f79",
+      "rating": 1484.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "d91d9a30f5635f79",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "b241688afea7c36a",
+      "rating": 1466.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "b241688afea7c36a",
+      "rating": 1468.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-09",
+  "name": "Gilbert Urbina",
+  "nickname": "",
+  "overall_elo": 1468.5,
+  "peak_elo": 1503.0,
+  "slug": "gilbert-urbina",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

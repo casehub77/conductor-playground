@@ -1,0 +1,126 @@
+{
+  "current_elo": 1523.1,
+  "divisional_rank": 69,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ibragim Chuzhigaev",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2025-07-19",
+      "elo_delta": -20.8,
+      "event_name": "XTB KSW 108: Soldaev vs. Brichta",
+      "fight_id": "ad917004f8c1cc11",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Marcin Wójcik",
+      "opponent_elo": 1519.1,
+      "outcome": "red_win",
+      "post_elo": 1523.1,
+      "pre_elo": 1543.9,
+      "red_name": "Marcin Wójcik",
+      "round": "2",
+      "time": "4:20",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Ivan Erslan",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2022-12-17",
+      "elo_delta": 19.1,
+      "event_name": "KSW 77: Khalidov vs. Pudzianowski",
+      "fight_id": "df3cd9408ac0195f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ivan Erslan",
+      "opponent_elo": 1545.8,
+      "outcome": "red_win",
+      "post_elo": 1543.9,
+      "pre_elo": 1524.9,
+      "red_name": "Ibragim Chuzhigaev",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tomasz Narkun",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2022-01-15",
+      "elo_delta": 24.9,
+      "event_name": "KSW 66: Ziółkowski vs. Mańkowski",
+      "fight_id": "346215f0d47ff49a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Tomasz Narkun",
+      "opponent_elo": 1639.3,
+      "outcome": "red_win",
+      "post_elo": 1524.9,
+      "pre_elo": 1500.0,
+      "red_name": "Ibragim Chuzhigaev",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-01-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-15",
+      "fight_id": "346215f0d47ff49a",
+      "rating": 1524.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-01-15",
+      "fight_id": "346215f0d47ff49a",
+      "rating": 1520.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "df3cd9408ac0195f",
+      "rating": 1543.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-12-17",
+      "fight_id": "df3cd9408ac0195f",
+      "rating": 1536.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "ad917004f8c1cc11",
+      "rating": 1523.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "ad917004f8c1cc11",
+      "rating": 1518.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-19",
+  "name": "Ibragim Chuzhigaev",
+  "nickname": "",
+  "overall_elo": 1518.5,
+  "peak_elo": 1543.9,
+  "slug": "ibragim-chuzhigaev",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

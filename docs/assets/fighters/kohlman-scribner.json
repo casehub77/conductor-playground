@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 759,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kohlman Scribner",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": -18.4,
+      "event_name": "Legacy Fighting Alliance 130: Ksiazkiewicz vs. Gambulino",
+      "fight_id": "2e88a206008e9cc9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Billy Elekana",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Billy Elekana",
+      "round": "1",
+      "time": "3:02",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-04-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-22",
+      "fight_id": "2e88a206008e9cc9",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "2e88a206008e9cc9",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-22",
+  "name": "Kohlman Scribner",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kohlman-scribner",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 785,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Bazooka Koki",
+      "bout_type": "Catchweight (143 lbs) Muay Thai Bout",
+      "date": "2024-03-08",
+      "elo_delta": 19.1,
+      "event_name": "ONE Friday Fights 54: Ortikov vs. Watcharapon",
+      "fight_id": "3f1d516655e869c7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Bazooka Koki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.5,
+      "pre_elo": 1479.5,
+      "red_name": "Nonthakit Tor.Morsi",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Nonthakit Tor.Morsi",
+      "bout_type": "Bantamweight Muay Thai Bout",
+      "date": "2023-10-27",
+      "elo_delta": -20.5,
+      "event_name": "ONE Friday Fights 38: Otop vs. Musaev",
+      "fight_id": "fcde7748b927faba",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (left hook to the body)",
+      "opponent": "Lenny Blasi",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Lenny Blasi",
+      "round": "3",
+      "time": "0:55",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-10-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-27",
+      "fight_id": "fcde7748b927faba",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "fcde7748b927faba",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-08",
+      "fight_id": "3f1d516655e869c7",
+      "rating": 1498.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-03-08",
+      "fight_id": "3f1d516655e869c7",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-03-08",
+  "name": "Nonthakit Tor.Morsi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "nonthakit-tor-morsi",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

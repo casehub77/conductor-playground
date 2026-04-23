@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.8,
+  "divisional_rank": 99,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lucas Sousa Andrade",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-01-23",
+      "elo_delta": 18.4,
+      "event_name": "LFA 225: Degli vs. Aguiar",
+      "fight_id": "fca99adffb41730e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Lucas Sousa Andrade",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Breno Yuri Santos",
+      "round": "2",
+      "time": "1:21",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Thiago Horácio",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-11-07",
+      "elo_delta": 19.4,
+      "event_name": "LFA 221: Clark vs. Consuli",
+      "fight_id": "fe6c4c83809c98db",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Thiago Horácio",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Breno Yuri Santos",
+      "round": "2",
+      "time": "3:43",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-11-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-07",
+      "fight_id": "fe6c4c83809c98db",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "fe6c4c83809c98db",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-23",
+      "fight_id": "fca99adffb41730e",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-01-23",
+      "fight_id": "fca99adffb41730e",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-23",
+  "name": "Breno Yuri Santos",
+  "nickname": "",
+  "overall_elo": 1533.7,
+  "peak_elo": 1537.8,
+  "slug": "breno-yuri-santos",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

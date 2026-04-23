@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 839,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alberto Crane",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-01-23",
+      "elo_delta": -16.6,
+      "event_name": "UFC Fight Night: Swick vs Burkman",
+      "fight_id": "b3594cdd24c8686b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Kurt Pellegrino",
+      "opponent_elo": 1536.3,
+      "outcome": "red_win",
+      "post_elo": 1467.8,
+      "pre_elo": 1484.4,
+      "red_name": "Kurt Pellegrino",
+      "round": "2.0",
+      "time": "1:55",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alberto Crane",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-08-25",
+      "elo_delta": -15.6,
+      "event_name": "UFC 74: Respect",
+      "fight_id": "f87af330a7b9ee82",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Roger Huerta",
+      "opponent_elo": 1569.0,
+      "outcome": "red_win",
+      "post_elo": 1484.4,
+      "pre_elo": 1500.0,
+      "red_name": "Roger Huerta",
+      "round": "3.0",
+      "time": "1:50",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2007-08-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-08-25",
+      "fight_id": "f87af330a7b9ee82",
+      "rating": 1484.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-08-25",
+      "fight_id": "f87af330a7b9ee82",
+      "rating": 1485.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-01-23",
+      "fight_id": "b3594cdd24c8686b",
+      "rating": 1467.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-01-23",
+      "fight_id": "b3594cdd24c8686b",
+      "rating": 1470.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-01-23",
+  "name": "Alberto Crane",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "alberto-crane",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1567.8,
+  "divisional_rank": 39,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Andrey Pulyaev",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-01-24",
+      "elo_delta": 15.5,
+      "event_name": "UFC 324: Gaethje vs. Pimblett",
+      "fight_id": "7b37be240bbe8a25",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Andrey Pulyaev",
+      "opponent_elo": 1503.4,
+      "outcome": "red_win",
+      "post_elo": 1567.8,
+      "pre_elo": 1552.3,
+      "red_name": "Ateba Gautier",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tre'Ston Vines",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": 17.5,
+      "event_name": "UFC 320: Ankalaev vs. Pereira 2",
+      "fight_id": "383f85ae640c781b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tre'Ston Vines",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1552.3,
+      "pre_elo": 1534.8,
+      "red_name": "Ateba Gautier",
+      "round": "1.0",
+      "time": "1:41",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Robert Valentin",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": 16.4,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "614452fd0334d9a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Robert Valentin",
+      "opponent_elo": 1463.6,
+      "outcome": "red_win",
+      "post_elo": 1534.8,
+      "pre_elo": 1518.4,
+      "red_name": "Ateba Gautier",
+      "round": "1.0",
+      "time": "1:10",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Ateba Gautier",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-29",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Moreno vs. Erceg",
+      "fight_id": "0570e71f5ebe8d9c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jose Daniel Medina",
+      "opponent_elo": 1482.1,
+      "outcome": "blue_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jose Daniel Medina",
+      "round": "1.0",
+      "time": "3:32",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-29",
+      "fight_id": "0570e71f5ebe8d9c",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-29",
+      "fight_id": "0570e71f5ebe8d9c",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "614452fd0334d9a7",
+      "rating": 1534.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "614452fd0334d9a7",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "383f85ae640c781b",
+      "rating": 1552.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "383f85ae640c781b",
+      "rating": 1547.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "7b37be240bbe8a25",
+      "rating": 1567.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-01-24",
+      "fight_id": "7b37be240bbe8a25",
+      "rating": 1561.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-24",
+  "name": "Ateba Gautier",
+  "nickname": "",
+  "overall_elo": 1561.0,
+  "peak_elo": 1567.8,
+  "slug": "ateba-gautier",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

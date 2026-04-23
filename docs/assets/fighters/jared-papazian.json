@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 516,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tim Elliott",
+      "bout_type": "Flyweight Bout",
+      "date": "2012-12-15",
+      "elo_delta": -17.2,
+      "event_name": "The Ultimate Fighter: Team Carwin vs. Team Nelson Finale",
+      "fight_id": "046a7b0f76d8c2d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tim Elliott",
+      "opponent_elo": 1482.9,
+      "outcome": "blue_win",
+      "post_elo": 1450.2,
+      "pre_elo": 1467.4,
+      "red_name": "Jared Papazian",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jared Papazian",
+      "bout_type": "Bantamweight Bout",
+      "date": "2012-06-08",
+      "elo_delta": -19.6,
+      "event_name": "UFC on FX: Johnson vs McCall",
+      "fight_id": "064c9385d9d07331",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Dustin Pague",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1463.4,
+      "pre_elo": 1483.0,
+      "red_name": "Dustin Pague",
+      "round": "1.0",
+      "time": "3:21",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jared Papazian",
+      "bout_type": "Bantamweight Bout",
+      "date": "2012-01-20",
+      "elo_delta": -17.0,
+      "event_name": "UFC on FX: Guillard vs Miller",
+      "fight_id": "2a93b78491328625",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Mike Easton",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Easton",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2012-01-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-01-20",
+      "fight_id": "2a93b78491328625",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2012-01-20",
+      "fight_id": "2a93b78491328625",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-06-08",
+      "fight_id": "064c9385d9d07331",
+      "rating": 1463.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2012-06-08",
+      "fight_id": "064c9385d9d07331",
+      "rating": 1467.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-12-15",
+      "fight_id": "046a7b0f76d8c2d7",
+      "rating": 1450.2,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2012-12-15",
+      "fight_id": "046a7b0f76d8c2d7",
+      "rating": 1452.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-12-15",
+  "name": "Jared Papazian",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jared-papazian",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

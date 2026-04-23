@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 103,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Germaine De Randamie",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2015-03-14",
+      "elo_delta": -18.6,
+      "event_name": "UFC 185: Pettis vs Dos Anjos",
+      "fight_id": "e16a39768b84de4e",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Germaine De Randamie",
+      "opponent_elo": 1495.9,
+      "outcome": "blue_win",
+      "post_elo": 1462.8,
+      "pre_elo": 1481.4,
+      "red_name": "Larissa Pacheco",
+      "round": "2.0",
+      "time": "2:02",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Larissa Pacheco",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2014-09-13",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Bigfoot vs Arlovski",
+      "fight_id": "82d9197b47ae91c1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jessica Andrade",
+      "opponent_elo": 1515.8,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jessica Andrade",
+      "round": "1.0",
+      "time": "4:33",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2014-09-13",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2014-09-13",
+      "fight_id": "82d9197b47ae91c1",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2014-09-13",
+      "fight_id": "82d9197b47ae91c1",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-03-14",
+      "fight_id": "e16a39768b84de4e",
+      "rating": 1462.8,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2015-03-14",
+      "fight_id": "e16a39768b84de4e",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-03-14",
+  "name": "Larissa Pacheco",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "larissa-pacheco",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

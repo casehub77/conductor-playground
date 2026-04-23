@@ -1,0 +1,194 @@
+{
+  "current_elo": 1570.8,
+  "divisional_rank": 4,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Johanna Persson",
+      "bout_type": "Women's Atomweight Muay Thai Bout",
+      "date": "2025-07-12",
+      "elo_delta": 16.4,
+      "event_name": "ONE Fight Night 33: Rodrigues vs. Persson",
+      "fight_id": "72a1913c36bc9f8d",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Johanna Persson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1570.8,
+      "pre_elo": 1554.3,
+      "red_name": "Allycia Rodrigues",
+      "round": "3",
+      "time": "0:59",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Marie McManamon",
+      "bout_type": "Women's Atomweight Muay Thai Bout",
+      "date": "2025-03-08",
+      "elo_delta": 17.4,
+      "event_name": "ONE Fight Night 29: Rodrigues vs. McManamon",
+      "fight_id": "042db1c028ab4f44",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Marie McManamon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1554.3,
+      "pre_elo": 1537.0,
+      "red_name": "Allycia Rodrigues",
+      "round": "4",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Cristina Morales",
+      "bout_type": "Atomweight Muay Thai Bout",
+      "date": "2024-03-09",
+      "elo_delta": 18.0,
+      "event_name": "ONE Fight Night 20: Todd vs. Phetjeeja",
+      "fight_id": "940de357d9eec4a9",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Cristina Morales",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1537.0,
+      "pre_elo": 1518.9,
+      "red_name": "Allycia Rodrigues",
+      "round": "5",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Allycia Rodrigues",
+      "bout_type": "Women's Strawweight Muay Thai Bout",
+      "date": "2023-09-30",
+      "elo_delta": -19.4,
+      "event_name": "ONE Fight Night 14: Stamp vs. Ham",
+      "fight_id": "991c193dd7bd4c67",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Smilla Sundell",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1497.4,
+      "pre_elo": 1516.7,
+      "red_name": "Smilla Sundell",
+      "round": "3",
+      "time": "2:58",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Janet Todd",
+      "bout_type": "Women's Atomweight Muay Thai Bout",
+      "date": "2023-03-25",
+      "elo_delta": 18.9,
+      "event_name": "ONE Fight Night 8: Superlek vs. Williams",
+      "fight_id": "7f1e120806b8ade9",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Janet Todd",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Allycia Rodrigues",
+      "round": "5",
+      "time": "3:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2023-03-25",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-03-25",
+      "fight_id": "7f1e120806b8ade9",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "7f1e120806b8ade9",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-09-30",
+      "fight_id": "991c193dd7bd4c67",
+      "rating": 1497.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-09-30",
+      "fight_id": "991c193dd7bd4c67",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-03-09",
+      "fight_id": "940de357d9eec4a9",
+      "rating": 1537.0,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2024-03-09",
+      "fight_id": "940de357d9eec4a9",
+      "rating": 1517.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "042db1c028ab4f44",
+      "rating": 1554.3,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "042db1c028ab4f44",
+      "rating": 1533.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "72a1913c36bc9f8d",
+      "rating": 1570.8,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "72a1913c36bc9f8d",
+      "rating": 1549.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": true,
+  "last_fight_date": "2025-07-12",
+  "name": "Allycia Rodrigues",
+  "nickname": "",
+  "overall_elo": 1549.0,
+  "peak_elo": 1570.8,
+  "slug": "allycia-rodrigues",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

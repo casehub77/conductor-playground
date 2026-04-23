@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.0,
+  "divisional_rank": 921,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "David Allakhverdiev",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-02-06",
+      "elo_delta": -20.4,
+      "event_name": "LFA 226: Allakhverdiev vs. Kropschot",
+      "fight_id": "96eba3eb2f854ad1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Joseph Kropschot",
+      "opponent_elo": 1502.2,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1519.4,
+      "red_name": "Joseph Kropschot",
+      "round": "2",
+      "time": "3:24",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "John Moore",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-08-15",
+      "elo_delta": 19.4,
+      "event_name": "LFA 214: Fernando vs. Latu",
+      "fight_id": "d8243a238f54220f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "John Moore",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "David Allakhverdiev",
+      "round": "1",
+      "time": "1:03",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-08-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-08-15",
+      "fight_id": "d8243a238f54220f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "d8243a238f54220f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "96eba3eb2f854ad1",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "96eba3eb2f854ad1",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-06",
+  "name": "David Allakhverdiev",
+  "nickname": "",
+  "overall_elo": 1499.2,
+  "peak_elo": 1519.4,
+  "slug": "david-allakhverdiev",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

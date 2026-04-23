@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.1,
+  "divisional_rank": 687,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jonny Touma",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "d002a5fa6714dba6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Ger Harris",
+      "opponent_elo": 1483.4,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1483.5,
+      "red_name": "Ger Harris",
+      "round": "1",
+      "time": "2:58",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Jonny Touma",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-21",
+      "elo_delta": -16.5,
+      "event_name": "Cage Warriors 186: London",
+      "fight_id": "bf0422159e62fd61",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Jawany Scott",
+      "opponent_elo": 1553.6,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jawany Scott",
+      "round": "1",
+      "time": "1:56",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-03-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-21",
+      "fight_id": "bf0422159e62fd61",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "bf0422159e62fd61",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "d002a5fa6714dba6",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "d002a5fa6714dba6",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-27",
+  "name": "Jonny Touma",
+  "nickname": "",
+  "overall_elo": 1467.8,
+  "peak_elo": 1500.0,
+  "slug": "jonny-touma",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

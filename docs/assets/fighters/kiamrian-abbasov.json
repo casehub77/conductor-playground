@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 757,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kiamrian Abbasov",
+      "bout_type": "Catchweight (186.25 lbs) Bout",
+      "date": "2022-11-19",
+      "elo_delta": -25.9,
+      "event_name": "ONE on Prime Video 4: Abbasov vs. Lee",
+      "fight_id": "e9adc133b9846f69",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Christian Lee",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1454.6,
+      "pre_elo": 1480.6,
+      "red_name": "Christian Lee",
+      "round": "4",
+      "time": "4:20",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kiamrian Abbasov",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": -19.4,
+      "event_name": "ONE: Full Circle",
+      "fight_id": "976325b0dc476c47",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Reinier de Ridder",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Reinier de Ridder",
+      "round": "3",
+      "time": "0:57",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-25",
+      "fight_id": "976325b0dc476c47",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "976325b0dc476c47",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "e9adc133b9846f69",
+      "rating": 1454.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "e9adc133b9846f69",
+      "rating": 1459.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-19",
+  "name": "Kiamrian Abbasov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kiamrian-abbasov",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

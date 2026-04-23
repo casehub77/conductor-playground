@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 430,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jon Adams",
+      "bout_type": "Flyweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "64fd226fa92337c0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (body kick and punches)",
+      "opponent": "Edwin De Los Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Edwin De Los Santos",
+      "round": "1",
+      "time": "3:29",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2021-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-09-18",
+      "fight_id": "64fd226fa92337c0",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "64fd226fa92337c0",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-18",
+  "name": "Jon Adams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jon-adams",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

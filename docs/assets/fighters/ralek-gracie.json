@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 292,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kazushi Sakuraba",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-05-29",
+      "elo_delta": 21.3,
+      "event_name": "Dream 14: Diaz vs. Sakurai",
+      "fight_id": "2c58d7500d47f4b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "unanimous decision",
+      "opponent": "Kazushi Sakuraba",
+      "opponent_elo": 1582.0,
+      "outcome": "red_win",
+      "post_elo": 1538.6,
+      "pre_elo": 1517.3,
+      "red_name": "Ralek Gracie",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Alavutdin Gadjiev",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-06-15",
+      "elo_delta": 19.4,
+      "event_name": "Dream 4: Middleweight Grand Prix 2008 2nd Round",
+      "fight_id": "52c003eecdc36cfe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Alavutdin Gadjiev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ralek Gracie",
+      "round": "1",
+      "time": "3:02",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-06-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-06-15",
+      "fight_id": "52c003eecdc36cfe",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-06-15",
+      "fight_id": "52c003eecdc36cfe",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-29",
+      "fight_id": "2c58d7500d47f4b4",
+      "rating": 1538.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-05-29",
+      "fight_id": "2c58d7500d47f4b4",
+      "rating": 1537.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-05-29",
+  "name": "Ralek Gracie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.6,
+  "slug": "ralek-gracie",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

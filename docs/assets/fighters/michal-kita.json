@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 370,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Michal Wlodarek",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2016-10-01",
+      "elo_delta": 20.3,
+      "event_name": "KSW 36: Materla vs. Palhares",
+      "fight_id": "27ade0ed6a75e0de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Michal Wlodarek",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.8,
+      "pre_elo": 1484.5,
+      "red_name": "Michal Kita",
+      "round": "1",
+      "time": "4:47",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Michal Kita",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2015-11-28",
+      "elo_delta": -15.5,
+      "event_name": "KSW 33: Materla vs. Khalidov",
+      "fight_id": "7a4f9c8b3fe5991d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Head Kick)",
+      "opponent": "Karol Bedorf",
+      "opponent_elo": 1571.6,
+      "outcome": "red_win",
+      "post_elo": 1484.5,
+      "pre_elo": 1500.0,
+      "red_name": "Karol Bedorf",
+      "round": "2",
+      "time": "2:46",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2015-11-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-11-28",
+      "fight_id": "7a4f9c8b3fe5991d",
+      "rating": 1484.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-11-28",
+      "fight_id": "7a4f9c8b3fe5991d",
+      "rating": 1485.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "27ade0ed6a75e0de",
+      "rating": 1504.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "27ade0ed6a75e0de",
+      "rating": 1503.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-10-01",
+  "name": "Michal Kita",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.8,
+  "slug": "michal-kita",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

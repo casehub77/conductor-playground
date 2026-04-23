@@ -1,0 +1,194 @@
+{
+  "current_elo": 1549.6,
+  "divisional_rank": 79,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Nathan Fletcher",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": 17.5,
+      "event_name": "UFC Fight Night: Taira vs. Park",
+      "fight_id": "7c636425e77172cb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nathan Fletcher",
+      "opponent_elo": 1497.6,
+      "outcome": "red_win",
+      "post_elo": 1549.6,
+      "pre_elo": 1532.0,
+      "red_name": "Rinya Nakamura",
+      "round": "1.0",
+      "time": "1:02",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Muin Gafurov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-01-18",
+      "elo_delta": -19.5,
+      "event_name": "UFC 311: Makhachev vs. Moicano",
+      "fight_id": "171e8d9947dfbc56",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Muin Gafurov",
+      "opponent_elo": 1523.3,
+      "outcome": "blue_win",
+      "post_elo": 1532.0,
+      "pre_elo": 1551.5,
+      "red_name": "Rinya Nakamura",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Carlos Vera",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-02-17",
+      "elo_delta": 16.2,
+      "event_name": "UFC 298: Volkanovski vs. Topuria",
+      "fight_id": "252cafe686e7f6c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Carlos Vera",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1551.5,
+      "pre_elo": 1535.3,
+      "red_name": "Rinya Nakamura",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Fernie Garcia",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-08-26",
+      "elo_delta": 15.9,
+      "event_name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+      "fight_id": "93b352aa618c893c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Fernie Garcia",
+      "opponent_elo": 1478.5,
+      "outcome": "red_win",
+      "post_elo": 1535.3,
+      "pre_elo": 1519.4,
+      "red_name": "Rinya Nakamura",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Rinya Nakamura",
+      "bout_type": "Road To UFC 1 Bantamweight Tournament Title Bout",
+      "date": "2023-02-04",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Lewis vs. Spivac",
+      "fight_id": "4fd7fd7a099f8877",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Toshiomi Kazama",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Toshiomi Kazama",
+      "round": "1.0",
+      "time": "0:33",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-04",
+      "fight_id": "4fd7fd7a099f8877",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "4fd7fd7a099f8877",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "93b352aa618c893c",
+      "rating": 1535.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-08-26",
+      "fight_id": "93b352aa618c893c",
+      "rating": 1531.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "252cafe686e7f6c6",
+      "rating": 1551.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-02-17",
+      "fight_id": "252cafe686e7f6c6",
+      "rating": 1546.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "171e8d9947dfbc56",
+      "rating": 1532.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "171e8d9947dfbc56",
+      "rating": 1529.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "7c636425e77172cb",
+      "rating": 1549.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "7c636425e77172cb",
+      "rating": 1544.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-02",
+  "name": "Rinya Nakamura",
+  "nickname": "",
+  "overall_elo": 1544.8,
+  "peak_elo": 1551.5,
+  "slug": "rinya-nakamura",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

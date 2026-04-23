@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 67,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Haifa Reso",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 60: Buchinger vs. Eskiev",
+      "fight_id": "3679350592d7571e",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Laura Kirtzel",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
+      "red_name": "Laura Kirtzel",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Erika Tomm",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2024-05-04",
+      "elo_delta": 19.4,
+      "event_name": "Oktagon 57: Eckerlin vs. Brož",
+      "fight_id": "2488ab08c0a461ba",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Erika Tomm",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Haifa Reso",
+      "round": "3",
+      "time": "2:06",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-05-04",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-05-04",
+      "fight_id": "2488ab08c0a461ba",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-05-04",
+      "fight_id": "2488ab08c0a461ba",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "3679350592d7571e",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "3679350592d7571e",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-07",
+  "name": "Haifa Reso",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "haifa-reso",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

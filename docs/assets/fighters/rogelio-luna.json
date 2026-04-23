@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 544,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rogelio Luna",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-03-10",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 292: Nurmagomedov vs. Henderson",
+      "fight_id": "6d79d8fecfb4db80",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Laird Anderson",
+      "opponent_elo": 1536.9,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1518.5,
+      "red_name": "Laird Anderson",
+      "round": "1",
+      "time": "2:41",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Socrates Hernandez",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-04-15",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 277: McKee vs. Pitbull 2",
+      "fight_id": "98d1323d54449010",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Socrates Hernandez",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Rogelio Luna",
+      "round": "3",
+      "time": "4:48",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-15",
+      "fight_id": "98d1323d54449010",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-15",
+      "fight_id": "98d1323d54449010",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "6d79d8fecfb4db80",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "6d79d8fecfb4db80",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-10",
+  "name": "Rogelio Luna",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "slug": "rogelio-luna",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

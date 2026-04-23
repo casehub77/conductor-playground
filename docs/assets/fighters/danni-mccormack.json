@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 109,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Danni McCormack",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": -20.5,
+      "event_name": "Bellator 275: Mousasi vs. Vanderford",
+      "fight_id": "5a6564776c6d0838",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Stéphanie Page",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Stéphanie Page",
+      "round": "1",
+      "time": "1:46",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Audrey Kerouche",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2021-11-05",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 270: Queally vs. Pitbull 2",
+      "fight_id": "bf8045a7ad0e4e60",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Audrey Kerouche",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Danni McCormack",
+      "round": "3",
+      "time": "3:58",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2021-11-05",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-11-05",
+      "fight_id": "bf8045a7ad0e4e60",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "bf8045a7ad0e4e60",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "5a6564776c6d0838",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "5a6564776c6d0838",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-25",
+  "name": "Danni McCormack",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "danni-mccormack",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

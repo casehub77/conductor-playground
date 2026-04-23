@@ -1,0 +1,228 @@
+{
+  "current_elo": 1569.2,
+  "divisional_rank": 43,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-15",
+      "elo_delta": -18.4,
+      "event_name": "UFC 322: Della Maddalena vs. Makhachev",
+      "fight_id": "9bee87e08b38f947",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Pat Sabatini",
+      "opponent_elo": 1580.5,
+      "outcome": "red_win",
+      "post_elo": 1569.2,
+      "pre_elo": 1587.5,
+      "red_name": "Pat Sabatini",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-01",
+      "elo_delta": 15.9,
+      "event_name": "UFC Fight Night: Kape vs. Almabayev",
+      "fight_id": "90b9f8e6e7fe5c24",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ricardo Ramos",
+      "opponent_elo": 1531.0,
+      "outcome": "blue_win",
+      "post_elo": 1587.5,
+      "pre_elo": 1571.6,
+      "red_name": "Ricardo Ramos",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-08-10",
+      "elo_delta": 17.4,
+      "event_name": "UFC Fight Night: Tybura vs. Spivac 2",
+      "fight_id": "0535b91551b6fe15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Damon Jackson",
+      "opponent_elo": 1542.6,
+      "outcome": "blue_win",
+      "post_elo": 1571.6,
+      "pre_elo": 1554.2,
+      "red_name": "Damon Jackson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-04-06",
+      "elo_delta": 17.1,
+      "event_name": "UFC Fight Night: Allen vs. Curtis 2",
+      "fight_id": "b01a0b617c4fa2b9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Morgan Charriere",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1554.2,
+      "pre_elo": 1537.2,
+      "red_name": "Morgan Charriere",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-09-09",
+      "elo_delta": 20.4,
+      "event_name": "UFC 293: Adesanya vs. Strickland",
+      "fight_id": "e73eace76571d2b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jack Jenkins",
+      "opponent_elo": 1534.4,
+      "outcome": "blue_win",
+      "post_elo": 1537.2,
+      "pre_elo": 1516.7,
+      "red_name": "Jack Jenkins",
+      "round": "2.0",
+      "time": "3:19",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Chepe Mariscal",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-06-24",
+      "elo_delta": 18.9,
+      "event_name": "UFC Fight Night: Emmett vs. Topuria",
+      "fight_id": "ddbc88f72ad2e41a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Trevor Peek",
+      "opponent_elo": 1517.6,
+      "outcome": "blue_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Trevor Peek",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-06-24",
+      "fight_id": "ddbc88f72ad2e41a",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "ddbc88f72ad2e41a",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-09",
+      "fight_id": "e73eace76571d2b6",
+      "rating": 1537.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-09-09",
+      "fight_id": "e73eace76571d2b6",
+      "rating": 1534.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "b01a0b617c4fa2b9",
+      "rating": 1554.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-04-06",
+      "fight_id": "b01a0b617c4fa2b9",
+      "rating": 1549.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "0535b91551b6fe15",
+      "rating": 1571.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-08-10",
+      "fight_id": "0535b91551b6fe15",
+      "rating": 1565.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "90b9f8e6e7fe5c24",
+      "rating": 1587.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "90b9f8e6e7fe5c24",
+      "rating": 1579.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "9bee87e08b38f947",
+      "rating": 1569.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "9bee87e08b38f947",
+      "rating": 1563.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-15",
+  "name": "Chepe Mariscal",
+  "nickname": "",
+  "overall_elo": 1563.5,
+  "peak_elo": 1587.5,
+  "slug": "chepe-mariscal",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

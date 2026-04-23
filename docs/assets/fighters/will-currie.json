@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.4,
+  "divisional_rank": 76,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Eli Aronov",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-03-21",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors 186: London",
+      "fight_id": "c3e42eddccfb1025",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–27)",
+      "opponent": "Eli Aronov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Will Currie",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Leon Aliu",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 169: London",
+      "fight_id": "6c5631f8ebf90656",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (retirement)",
+      "opponent": "Leon Aliu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Will Currie",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "6c5631f8ebf90656",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "6c5631f8ebf90656",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "c3e42eddccfb1025",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-03-21",
+      "fight_id": "c3e42eddccfb1025",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-21",
+  "name": "Will Currie",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1536.4,
+  "slug": "will-currie",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

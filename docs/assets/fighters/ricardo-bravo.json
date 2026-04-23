@@ -1,0 +1,133 @@
+{
+  "current_elo": 1527.9,
+  "divisional_rank": 136,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ricardo Bravo",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2025-06-07",
+      "elo_delta": -21.4,
+      "event_name": "ONE Fight Night 32: Nakrob vs. Jaosuayai",
+      "fight_id": "3da5708bfb5abc3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Arian Esparza",
+      "opponent_elo": 1482.9,
+      "outcome": "red_win",
+      "post_elo": 1527.9,
+      "pre_elo": 1549.3,
+      "red_name": "Arian Esparza",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kenan Bayramov",
+      "bout_type": "Catchweight (161 lbs) Muay Thai Bout",
+      "date": "2024-02-02",
+      "elo_delta": 17.4,
+      "event_name": "ONE Friday Fights 50: Yodphupa vs. Komawut",
+      "fight_id": "aa9bc04a2674981e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (left hook)",
+      "opponent": "Kenan Bayramov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.2,
+      "pre_elo": 1535.8,
+      "red_name": "Ricardo Bravo",
+      "round": "1",
+      "time": "0:30",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Oliver Hansen",
+      "bout_type": "Catchweight (165 lbs) Muay Thai Bout",
+      "date": "2023-11-10",
+      "elo_delta": 18.5,
+      "event_name": "ONE Friday Fights 40: Jaosuayai vs. Paidang",
+      "fight_id": "10eae31fbf16ed60",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (three knockdowns / punches)",
+      "opponent": "Oliver Hansen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Ricardo Bravo",
+      "round": "3",
+      "time": "2:59",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-08-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-08-25",
+      "fight_id": "3828799374e01986",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-10",
+      "fight_id": "10eae31fbf16ed60",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2023-11-10",
+      "fight_id": "10eae31fbf16ed60",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-02",
+      "fight_id": "aa9bc04a2674981e",
+      "rating": 1553.2,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-02-02",
+      "fight_id": "aa9bc04a2674981e",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "3da5708bfb5abc3e",
+      "rating": 1527.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-06-07",
+      "fight_id": "3da5708bfb5abc3e",
+      "rating": 1530.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-07",
+  "name": "Ricardo Bravo",
+  "nickname": "",
+  "overall_elo": 1530.4,
+  "peak_elo": 1553.2,
+  "slug": "ricardo-bravo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

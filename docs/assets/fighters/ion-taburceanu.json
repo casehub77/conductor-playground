@@ -1,0 +1,126 @@
+{
+  "current_elo": 1464.1,
+  "divisional_rank": 1012,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ion Taburceanu",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-12-07",
+      "elo_delta": -16.4,
+      "event_name": "Oktagon 64: Brito vs. Surdu",
+      "fight_id": "3aab5e613736768c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kimura)",
+      "opponent": "Jamie Cordero",
+      "opponent_elo": 1534.4,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1480.6,
+      "red_name": "Jamie Cordero",
+      "round": "1",
+      "time": "1:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Nenad Avramović",
+      "bout_type": "Catchweight (192 lb) Bout",
+      "date": "2024-03-23",
+      "elo_delta": 0.0,
+      "event_name": "Oktagon 55: Jungwirth vs. Pukač 2",
+      "fight_id": "343dc0c1fccb40e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (overturned)",
+      "opponent": "Nenad Avramović",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1480.6,
+      "pre_elo": 1480.6,
+      "red_name": "Ion Taburceanu",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Ion Taburceanu",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-04-29",
+      "elo_delta": -19.4,
+      "event_name": "Oktagon 42: Keita vs. Tichota",
+      "fight_id": "244a00c847c5374c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Vlasto Čepo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Vlasto Čepo",
+      "round": "2",
+      "time": "1:54",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "244a00c847c5374c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-04-29",
+      "fight_id": "244a00c847c5374c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "343dc0c1fccb40e1",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-03-23",
+      "fight_id": "343dc0c1fccb40e1",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "3aab5e613736768c",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "3aab5e613736768c",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-07",
+  "name": "Ion Taburceanu",
+  "nickname": "",
+  "overall_elo": 1467.8,
+  "peak_elo": 1500.0,
+  "slug": "ion-taburceanu",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

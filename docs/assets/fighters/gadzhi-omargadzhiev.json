@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1022,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Gadzhi Omargadzhiev",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-10-22",
+      "elo_delta": -17.3,
+      "event_name": "UFC 280: Oliveira vs. Makhachev",
+      "fight_id": "66dc1ce22e71e193",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Abubakar Nurmagomedov",
+      "opponent_elo": 1498.3,
+      "outcome": "red_win",
+      "post_elo": 1466.7,
+      "pre_elo": 1484.0,
+      "red_name": "Abubakar Nurmagomedov",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Gadzhi Omargadzhiev",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-04-16",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Luque vs. Muhammad",
+      "fight_id": "7507cb16d05149ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Caio Borralho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Caio Borralho",
+      "round": "3.0",
+      "time": "3:56",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2022-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-16",
+      "fight_id": "7507cb16d05149ea",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "7507cb16d05149ea",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-22",
+      "fight_id": "66dc1ce22e71e193",
+      "rating": 1466.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-10-22",
+      "fight_id": "66dc1ce22e71e193",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-22",
+  "name": "Gadzhi Omargadzhiev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "gadzhi-omargadzhiev",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

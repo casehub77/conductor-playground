@@ -1,0 +1,65 @@
+{
+  "current_elo": 1497.2,
+  "divisional_rank": 210,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryuki",
+      "bout_type": "Catchweight 55 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": -18.8,
+      "event_name": "Rizin 50",
+      "fight_id": "87d0adaa20e4d519",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Toki Kagawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1516.0,
+      "red_name": "Toki Kagawa",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2018-08-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-08-12",
+      "fight_id": "fb7b355bfa574e63",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "87d0adaa20e4d519",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "87d0adaa20e4d519",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-30",
+  "name": "Ryuki",
+  "nickname": "",
+  "overall_elo": 1499.3,
+  "peak_elo": 1516.0,
+  "slug": "ryuki",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

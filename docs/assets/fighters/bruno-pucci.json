@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.7,
+  "divisional_rank": 1502,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Bruno Pucci",
+      "bout_type": "Lightweight Submission Grappling Bout",
+      "date": "2024-12-07",
+      "elo_delta": -18.5,
+      "event_name": "ONE Fight Night 26: Lee vs. Rasulov",
+      "fight_id": "d2b95af0dcf29bc0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle armbar)",
+      "opponent": "Dante Leon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.7,
+      "pre_elo": 1483.2,
+      "red_name": "Dante Leon",
+      "round": "1",
+      "time": "2:01",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Bruno Pucci",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-11-19",
+      "elo_delta": -19.0,
+      "event_name": "ONE 163: Akimoto vs. Petchtanong",
+      "fight_id": "b8d88e874361cef8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kirill Gorobets",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kirill Gorobets",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-11-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-11-19",
+      "fight_id": "b8d88e874361cef8",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-11-19",
+      "fight_id": "b8d88e874361cef8",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "d2b95af0dcf29bc0",
+      "rating": 1464.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "d2b95af0dcf29bc0",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-07",
+  "name": "Bruno Pucci",
+  "nickname": "",
+  "overall_elo": 1466.8,
+  "peak_elo": 1500.0,
+  "slug": "bruno-pucci",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 524,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Artur Sowiński",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2022-06-18",
+      "elo_delta": 18.5,
+      "event_name": "KSW 71: Ziółkowski vs. Rajewski",
+      "fight_id": "6b5f2cbe2ff69110",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Artur Sowiński",
+      "opponent_elo": 1488.6,
+      "outcome": "red_win",
+      "post_elo": 1523.3,
+      "pre_elo": 1504.8,
+      "red_name": "Donovan Desmae",
+      "round": "2",
+      "time": "2:42",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Łukasz Rajewski",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2022-01-15",
+      "elo_delta": 21.4,
+      "event_name": "KSW 66: Ziółkowski vs. Mańkowski",
+      "fight_id": "f69eeebb8de20687",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Armbar)",
+      "opponent": "Łukasz Rajewski",
+      "opponent_elo": 1517.9,
+      "outcome": "red_win",
+      "post_elo": 1504.8,
+      "pre_elo": 1483.4,
+      "red_name": "Donovan Desmae",
+      "round": "2",
+      "time": "4:07",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Donovan Desmae",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2021-06-05",
+      "elo_delta": -16.6,
+      "event_name": "KSW 61: To Fight or Not To Fight",
+      "fight_id": "244349d3f83973e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Roman Szymański",
+      "opponent_elo": 1527.7,
+      "outcome": "red_win",
+      "post_elo": 1483.4,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Szymański",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-06-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-05",
+      "fight_id": "244349d3f83973e5",
+      "rating": 1483.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-06-05",
+      "fight_id": "244349d3f83973e5",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-15",
+      "fight_id": "f69eeebb8de20687",
+      "rating": 1504.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-01-15",
+      "fight_id": "f69eeebb8de20687",
+      "rating": 1505.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "6b5f2cbe2ff69110",
+      "rating": 1523.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "6b5f2cbe2ff69110",
+      "rating": 1522.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-18",
+  "name": "Donovan Desmae",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1523.3,
+  "slug": "donovan-desmae",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

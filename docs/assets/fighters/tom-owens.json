@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 512,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tom Owens",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-10-21",
+      "elo_delta": -20.5,
+      "event_name": "WEC 12: Halloween Fury 3",
+      "fight_id": "52aae8ba2579eec9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Knee Injury)",
+      "opponent": "Troy Miller",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1519.7,
+      "red_name": "Troy Miller",
+      "round": "2",
+      "time": "3:56",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tony Alanis",
+      "bout_type": "Welterweight Bout",
+      "date": "2003-10-17",
+      "elo_delta": 22.3,
+      "event_name": "WEC 8: Halloween Fury 2",
+      "fight_id": "12a66ad238df1433",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Armbar)",
+      "opponent": "Tony Alanis",
+      "opponent_elo": 1552.3,
+      "outcome": "red_win",
+      "post_elo": 1522.3,
+      "pre_elo": 1500.0,
+      "red_name": "Tom Owens",
+      "round": "1",
+      "time": "1:49",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2003-10-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-10-17",
+      "fight_id": "12a66ad238df1433",
+      "rating": 1522.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2003-10-17",
+      "fight_id": "12a66ad238df1433",
+      "rating": 1519.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-10-21",
+      "fight_id": "52aae8ba2579eec9",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-10-21",
+      "fight_id": "52aae8ba2579eec9",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-10-21",
+  "name": "Tom Owens",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.3,
+  "slug": "tom-owens",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

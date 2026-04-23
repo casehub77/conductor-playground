@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 399,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ádám Borics",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-10-01",
+      "elo_delta": -19.9,
+      "event_name": "Bellator 286: Pitbull vs. Borics",
+      "fight_id": "9d0b02862deff78d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (48–47, 49–46, 50–45)",
+      "opponent": "Patrício Pitbull",
+      "opponent_elo": 1500.6,
+      "outcome": "red_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1537.8,
+      "red_name": "Patrício Pitbull",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mads Burnell",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-03-12",
+      "elo_delta": 18.2,
+      "event_name": "Bellator 276: Borics vs. Burnell",
+      "fight_id": "f15981e09ec2d1f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 50–45, 49–46)",
+      "opponent": "Mads Burnell",
+      "opponent_elo": 1523.9,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.6,
+      "red_name": "Ádám Borics",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jeremy Kennedy",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-04-09",
+      "elo_delta": 19.6,
+      "event_name": "Bellator 256: Bader vs. Machida 2",
+      "fight_id": "190bc2d657f3e9ef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Jeremy Kennedy",
+      "opponent_elo": 1531.1,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ádám Borics",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-09",
+      "fight_id": "190bc2d657f3e9ef",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "190bc2d657f3e9ef",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "f15981e09ec2d1f0",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-03-12",
+      "fight_id": "f15981e09ec2d1f0",
+      "rating": 1533.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "9d0b02862deff78d",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "9d0b02862deff78d",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-01",
+  "name": "Ádám Borics",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "adam-borics",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

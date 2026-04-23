@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.1,
+  "divisional_rank": 1119,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Junya Hibino",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2024-11-17",
+      "elo_delta": -18.4,
+      "event_name": "Rizin Landmark 10",
+      "fight_id": "90e5b78bd65c611c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Taito Kubota",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.1,
+      "pre_elo": 1481.5,
+      "red_name": "Taito Kubota",
+      "round": "2",
+      "time": "0:36",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Junya Hibino",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2023-10-01",
+      "elo_delta": -18.5,
+      "event_name": "Rizin Landmark 6",
+      "fight_id": "cf35b27c4a66ca6f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Twister)",
+      "opponent": "Joji Goto",
+      "opponent_elo": 1516.4,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Joji Goto",
+      "round": "2",
+      "time": "2:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-01",
+      "fight_id": "cf35b27c4a66ca6f",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-10-01",
+      "fight_id": "cf35b27c4a66ca6f",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-17",
+      "fight_id": "90e5b78bd65c611c",
+      "rating": 1463.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-17",
+      "fight_id": "90e5b78bd65c611c",
+      "rating": 1467.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-17",
+  "name": "Junya Hibino",
+  "nickname": "",
+  "overall_elo": 1467.0,
+  "peak_elo": 1500.0,
+  "slug": "junya-hibino",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

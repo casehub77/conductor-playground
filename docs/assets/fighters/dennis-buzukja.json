@@ -1,0 +1,194 @@
+{
+  "current_elo": 1467.0,
+  "divisional_rank": 1209,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Marcio Barbosa",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-04-18",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "4ce1acb5db1c374b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marcio Barbosa",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1467.0,
+      "pre_elo": 1485.6,
+      "red_name": "Dennis Buzukja",
+      "round": "1",
+      "time": "1:20",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Francis Marshall",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-08-24",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Cannonier vs. Borralho",
+      "fight_id": "aab6c0173d158252",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Francis Marshall",
+      "opponent_elo": 1482.4,
+      "outcome": "blue_win",
+      "post_elo": 1468.6,
+      "pre_elo": 1486.9,
+      "red_name": "Dennis Buzukja",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Connor Matthews",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": 21.4,
+      "event_name": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "fight_id": "714d4a59744faefc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Connor Matthews",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1485.6,
+      "pre_elo": 1464.2,
+      "red_name": "Dennis Buzukja",
+      "round": "3.0",
+      "time": "0:22",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jamall Emmers",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-11-11",
+      "elo_delta": -19.4,
+      "event_name": "UFC 295: Prochazka vs. Pereira",
+      "fight_id": "832e2b1788bae233",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jamall Emmers",
+      "opponent_elo": 1484.9,
+      "outcome": "blue_win",
+      "post_elo": 1464.2,
+      "pre_elo": 1483.5,
+      "red_name": "Dennis Buzukja",
+      "round": "1.0",
+      "time": "0:49",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Dennis Buzukja",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-08-05",
+      "elo_delta": -16.5,
+      "event_name": "UFC Fight Night: Sandhagen vs. Font",
+      "fight_id": "acaa94f053cccaf8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sean Woodson",
+      "opponent_elo": 1529.8,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Sean Woodson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-08-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-08-05",
+      "fight_id": "acaa94f053cccaf8",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-08-05",
+      "fight_id": "acaa94f053cccaf8",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-11",
+      "fight_id": "832e2b1788bae233",
+      "rating": 1464.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-11-11",
+      "fight_id": "832e2b1788bae233",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "714d4a59744faefc",
+      "rating": 1485.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "714d4a59744faefc",
+      "rating": 1486.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "aab6c0173d158252",
+      "rating": 1468.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-08-24",
+      "fight_id": "aab6c0173d158252",
+      "rating": 1470.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "4ce1acb5db1c374b",
+      "rating": 1467.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-04-18",
+      "fight_id": "4ce1acb5db1c374b",
+      "rating": 1454.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-18",
+  "name": "Dennis Buzukja",
+  "nickname": "",
+  "overall_elo": 1454.8,
+  "peak_elo": 1500.0,
+  "slug": "dennis-buzukja",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1428.6,
+  "divisional_rank": 1138,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Saimon Oliveira",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-10-11",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+      "fight_id": "783f61edb5499c53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Luan Lacerda",
+      "opponent_elo": 1481.9,
+      "outcome": "red_win",
+      "post_elo": 1428.6,
+      "pre_elo": 1446.1,
+      "red_name": "Luan Lacerda",
+      "round": "2.0",
+      "time": "3:55",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Saimon Oliveira",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-29",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Moreno vs. Erceg",
+      "fight_id": "8ae3a73659f2b666",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "David Martinez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1446.1,
+      "pre_elo": 1463.5,
+      "red_name": "David Martinez",
+      "round": "1.0",
+      "time": "4:38",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Daniel Marcos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-01-21",
+      "elo_delta": -18.4,
+      "event_name": "UFC 283: Teixeira vs. Hill",
+      "fight_id": "4533e75943f6a04c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Daniel Marcos",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1463.5,
+      "pre_elo": 1481.9,
+      "red_name": "Saimon Oliveira",
+      "round": "2.0",
+      "time": "2:18",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Saimon Oliveira",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-01-22",
+      "elo_delta": -18.1,
+      "event_name": "UFC 270: Ngannou vs. Gane",
+      "fight_id": "9d14724cda90f50f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tony Gravely",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Tony Gravely",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-01-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-01-22",
+      "fight_id": "9d14724cda90f50f",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-01-22",
+      "fight_id": "9d14724cda90f50f",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-21",
+      "fight_id": "4533e75943f6a04c",
+      "rating": 1463.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-01-21",
+      "fight_id": "4533e75943f6a04c",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-29",
+      "fight_id": "8ae3a73659f2b666",
+      "rating": 1446.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-29",
+      "fight_id": "8ae3a73659f2b666",
+      "rating": 1451.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "783f61edb5499c53",
+      "rating": 1428.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-10-11",
+      "fight_id": "783f61edb5499c53",
+      "rating": 1436.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-11",
+  "name": "Saimon Oliveira",
+  "nickname": "",
+  "overall_elo": 1436.1,
+  "peak_elo": 1500.0,
+  "slug": "saimon-oliveira",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

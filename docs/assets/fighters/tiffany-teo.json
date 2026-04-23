@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 50,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ritu Phogat",
+      "bout_type": "Women's Atomweight Bout",
+      "date": "2022-09-29",
+      "elo_delta": 17.4,
+      "event_name": "ONE 161: Petchmorakot vs. Tawanchai",
+      "fight_id": "7bbc75db4174b56f",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Ritu Phogat",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1534.7,
+      "pre_elo": 1517.3,
+      "red_name": "Tiffany Teo",
+      "round": "1",
+      "time": "4:52",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Meng Bo",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-01-14",
+      "elo_delta": 19.4,
+      "event_name": "ONE: Heavy Hitters",
+      "fight_id": "d6c30ff7863c5766",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Meng Bo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tiffany Teo",
+      "round": "2",
+      "time": "3:45",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2022-01-14",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-01-14",
+      "fight_id": "d6c30ff7863c5766",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "d6c30ff7863c5766",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "7bbc75db4174b56f",
+      "rating": 1534.7,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2022-09-29",
+      "fight_id": "7bbc75db4174b56f",
+      "rating": 1532.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-29",
+  "name": "Tiffany Teo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.7,
+  "slug": "tiffany-teo",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

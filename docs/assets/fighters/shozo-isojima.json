@@ -1,0 +1,92 @@
+{
+  "current_elo": 1503.1,
+  "divisional_rank": 277,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shozo Isojima",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-16",
+      "elo_delta": -16.3,
+      "event_name": "ONE 173: Superbon vs. Noiri",
+      "fight_id": "2bc3073e9a9fbaa2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Tye Ruotolo",
+      "opponent_elo": 1575.7,
+      "outcome": "red_win",
+      "post_elo": 1503.1,
+      "pre_elo": 1519.4,
+      "red_name": "Tye Ruotolo",
+      "round": "1",
+      "time": "2:26",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nicolas Vigna",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-10-04",
+      "elo_delta": 19.4,
+      "event_name": "ONE Fight Night 36: Prajanchai vs. Di Bella 2",
+      "fight_id": "2d24ee8b1dcce5e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Nicolas Vigna",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Shozo Isojima",
+      "round": "2",
+      "time": "4:19",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-04",
+      "fight_id": "2d24ee8b1dcce5e5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-10-04",
+      "fight_id": "2d24ee8b1dcce5e5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-16",
+      "fight_id": "2bc3073e9a9fbaa2",
+      "rating": 1503.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-16",
+      "fight_id": "2bc3073e9a9fbaa2",
+      "rating": 1505.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-16",
+  "name": "Shozo Isojima",
+  "nickname": "",
+  "overall_elo": 1505.4,
+  "peak_elo": 1519.4,
+  "slug": "shozo-isojima",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

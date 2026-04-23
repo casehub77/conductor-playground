@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 787,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Paris Stanford",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "a324b0807be829d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (flying knee)",
+      "opponent": "Allan Begosso",
+      "opponent_elo": 1501.3,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Allan Begosso",
+      "round": "1",
+      "time": "0:45",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-07-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-08",
+      "fight_id": "a324b0807be829d0",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "a324b0807be829d0",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-08",
+  "name": "Paris Stanford",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "paris-stanford",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

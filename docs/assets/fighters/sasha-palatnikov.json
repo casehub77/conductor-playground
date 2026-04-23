@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 510,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ramiz Brahimaj",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-08-21",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Cannonier vs. Gastelum",
+      "fight_id": "bc00d4c80388a167",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ramiz Brahimaj",
+      "opponent_elo": 1478.6,
+      "outcome": "blue_win",
+      "post_elo": 1478.2,
+      "pre_elo": 1498.7,
+      "red_name": "Sasha Palatnikov",
+      "round": "1.0",
+      "time": "2:33",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sasha Palatnikov",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-04-10",
+      "elo_delta": -20.7,
+      "event_name": "UFC Fight Night: Vettori vs. Holland",
+      "fight_id": "648faf9c0875afa8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Impa Kasanganay",
+      "opponent_elo": 1496.4,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1519.4,
+      "red_name": "Impa Kasanganay",
+      "round": "2.0",
+      "time": "0:26",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sasha Palatnikov",
+      "bout_type": "Welterweight Bout",
+      "date": "2020-11-21",
+      "elo_delta": 19.4,
+      "event_name": "UFC 255: Figueiredo vs. Perez",
+      "fight_id": "5b834fc21acb40d0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Louis Cosce",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Louis Cosce",
+      "round": "3.0",
+      "time": "2:47",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2020-11-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-11-21",
+      "fight_id": "5b834fc21acb40d0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2020-11-21",
+      "fight_id": "5b834fc21acb40d0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "648faf9c0875afa8",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-04-10",
+      "fight_id": "648faf9c0875afa8",
+      "rating": 1499.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "bc00d4c80388a167",
+      "rating": 1478.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "bc00d4c80388a167",
+      "rating": 1480.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-08-21",
+  "name": "Sasha Palatnikov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "sasha-palatnikov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

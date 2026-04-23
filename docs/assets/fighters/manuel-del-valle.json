@@ -1,0 +1,194 @@
+{
+  "current_elo": 1578.7,
+  "divisional_rank": 32,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Italo Gomes",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2026-03-20",
+      "elo_delta": 8.3,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "5ca01d159ed38890",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Italo Gomes",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1578.7,
+      "pre_elo": 1570.5,
+      "red_name": "Manuel del Valle",
+      "round": "2",
+      "time": "4:44",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Pedro Henrique Dias",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 16.4,
+      "event_name": "Cage Warriors 197: Unplugged",
+      "fight_id": "4b3343d24f275d4c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Pedro Henrique Dias",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1570.5,
+      "pre_elo": 1554.0,
+      "red_name": "Manuel del Valle",
+      "round": "2",
+      "time": "4:56",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Stephen Costello",
+      "bout_type": "Catchweight (177 lb) Bout",
+      "date": "2025-09-27",
+      "elo_delta": 16.3,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "ef7e56ef9b84e699",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Stephen Costello",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1554.0,
+      "pre_elo": 1537.7,
+      "red_name": "Manuel del Valle",
+      "round": "2",
+      "time": "4:23",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sergio Gavinelli",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-02",
+      "elo_delta": 17.2,
+      "event_name": "Cage Warriors 179: Rome",
+      "fight_id": "77b78f0639f66969",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (anaconda choke)",
+      "opponent": "Sergio Gavinelli",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1537.7,
+      "pre_elo": 1520.5,
+      "red_name": "Manuel del Valle",
+      "round": "1",
+      "time": "3:23",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mariusz Mikołajewski",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": 20.5,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "c873c968bd252481",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Mariusz Mikołajewski",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Manuel del Valle",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-07-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-25",
+      "fight_id": "c873c968bd252481",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "c873c968bd252481",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "77b78f0639f66969",
+      "rating": 1537.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-02",
+      "fight_id": "77b78f0639f66969",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "ef7e56ef9b84e699",
+      "rating": 1554.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "ef7e56ef9b84e699",
+      "rating": 1548.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "4b3343d24f275d4c",
+      "rating": 1570.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "4b3343d24f275d4c",
+      "rating": 1563.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "5ca01d159ed38890",
+      "rating": 1578.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "5ca01d159ed38890",
+      "rating": 1570.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Manuel del Valle",
+  "nickname": "",
+  "overall_elo": 1570.0,
+  "peak_elo": 1578.7,
+  "slug": "manuel-del-valle",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

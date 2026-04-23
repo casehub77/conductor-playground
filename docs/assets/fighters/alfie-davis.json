@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 784,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Aalon Cruz",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-08-11",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "92a3049f29fb26d2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Aalon Cruz",
+      "opponent_elo": 1485.0,
+      "outcome": "red_win",
+      "post_elo": 1502.9,
+      "pre_elo": 1484.9,
+      "red_name": "Alfie Davis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Thibault Gouti",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-10-29",
+      "elo_delta": 16.5,
+      "event_name": "Bellator 287: Piccolotti vs. Barnaoui",
+      "fight_id": "858e2054d495e26b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Thibault Gouti",
+      "opponent_elo": 1439.5,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1468.3,
+      "red_name": "Alfie Davis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tim Wilde",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": 2.6,
+      "event_name": "Bellator 281: MVP vs. Storley",
+      "fight_id": "04c4fec1c764f2a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (majority) (29–27, 28–28, 28–28)",
+      "opponent": "Tim Wilde",
+      "opponent_elo": 1517.0,
+      "outcome": "draw",
+      "post_elo": 1468.3,
+      "pre_elo": 1465.7,
+      "red_name": "Alfie Davis",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alfie Davis",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-05-21",
+      "elo_delta": -17.1,
+      "event_name": "Bellator 259: Cyborg vs. Smith 2",
+      "fight_id": "9c0e4267cde44c7a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Alexandr Shabliy",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.7,
+      "pre_elo": 1482.8,
+      "red_name": "Alexandr Shabliy",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alfie Davis",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2018-10-06",
+      "elo_delta": -17.2,
+      "event_name": "KSW 45: The Return to Wembley",
+      "fight_id": "b1befbc55d533b3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Leszek Krakowski",
+      "opponent_elo": 1515.7,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Leszek Krakowski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-10-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-10-06",
+      "fight_id": "b1befbc55d533b3c",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "b1befbc55d533b3c",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "9c0e4267cde44c7a",
+      "rating": 1465.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-05-21",
+      "fight_id": "9c0e4267cde44c7a",
+      "rating": 1468.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "04c4fec1c764f2a2",
+      "rating": 1468.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "04c4fec1c764f2a2",
+      "rating": 1470.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-29",
+      "fight_id": "858e2054d495e26b",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-10-29",
+      "fight_id": "858e2054d495e26b",
+      "rating": 1486.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "92a3049f29fb26d2",
+      "rating": 1502.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "92a3049f29fb26d2",
+      "rating": 1502.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Alfie Davis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.9,
+  "slug": "alfie-davis",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.4,
+  "divisional_rank": 95,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Francesco Mazzeo",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-06-27",
+      "elo_delta": -19.0,
+      "event_name": "Cage Warriors 190: Unplugged",
+      "fight_id": "9c64fed7ff69c89d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Aldo Pereira Aguiar",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Aldo Pereira Aguiar",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Vanderlei Junior",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2024-07-20",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "72c7fef3a2e4ce5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Vanderlei Junior",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Francesco Mazzeo",
+      "round": "1",
+      "time": "0:37",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-07-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-20",
+      "fight_id": "72c7fef3a2e4ce5c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "72c7fef3a2e4ce5c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "9c64fed7ff69c89d",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-06-27",
+      "fight_id": "9c64fed7ff69c89d",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-27",
+  "name": "Francesco Mazzeo",
+  "nickname": "",
+  "overall_elo": 1500.5,
+  "peak_elo": 1519.4,
+  "slug": "francesco-mazzeo",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

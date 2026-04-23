@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 310,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chato Wiest",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-10-14",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 144: Gafurov vs. Silva",
+      "fight_id": "51b478a5f1b75bb8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Chato Wiest",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ronald Coleman",
+      "round": "1",
+      "time": "1:03",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-14",
+      "fight_id": "51b478a5f1b75bb8",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "51b478a5f1b75bb8",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-14",
+  "name": "Ronald Coleman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "ronald-coleman",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

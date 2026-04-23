@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 483,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Zach Zane",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 125: Amorim vs. Young",
+      "fight_id": "e7dbae8048eead04",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kicks and punches)",
+      "opponent": "Zach Zane",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Guilherme Faria",
+      "round": "2",
+      "time": "3:27",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-02-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-25",
+      "fight_id": "e7dbae8048eead04",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "e7dbae8048eead04",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-25",
+  "name": "Guilherme Faria",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "guilherme-faria",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

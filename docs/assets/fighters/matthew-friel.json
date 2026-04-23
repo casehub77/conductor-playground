@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.9,
+  "divisional_rank": 681,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Matthew Friel",
+      "bout_type": "Catchweight (130 lb) Bout",
+      "date": "2025-11-22",
+      "elo_delta": -17.1,
+      "event_name": "Cage Warriors 198: Manchester",
+      "fight_id": "1af6bc681b36ba9f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–27, 29–27)",
+      "opponent": "Nathanael Woods",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1482.0,
+      "red_name": "Nathanael Woods",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Matthew Friel",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "0cac53dc351c79bd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Jordan Molinari",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jordan Molinari",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-21",
+      "fight_id": "0cac53dc351c79bd",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "0cac53dc351c79bd",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "1af6bc681b36ba9f",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "1af6bc681b36ba9f",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Matthew Friel",
+  "nickname": "",
+  "overall_elo": 1468.7,
+  "peak_elo": 1500.0,
+  "slug": "matthew-friel",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

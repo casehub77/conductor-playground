@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 535,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "R. Sokoudjou",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2017-05-27",
+      "elo_delta": -17.2,
+      "event_name": "KSW 39: Colosseum",
+      "fight_id": "8cbcdbf8c8da2b8d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Lukasz Jurkowski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1466.6,
+      "pre_elo": 1483.8,
+      "red_name": "Lukasz Jurkowski",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "R. Sokoudjou",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2016-10-01",
+      "elo_delta": -16.2,
+      "event_name": "KSW 36: Materla vs. Palhares",
+      "fight_id": "a36dcc4b5853d36e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Tomasz Narkun",
+      "opponent_elo": 1557.9,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "Tomasz Narkun",
+      "round": "1",
+      "time": "4:38",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2016-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-10-01",
+      "fight_id": "a36dcc4b5853d36e",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "a36dcc4b5853d36e",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-05-27",
+      "fight_id": "8cbcdbf8c8da2b8d",
+      "rating": 1466.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2017-05-27",
+      "fight_id": "8cbcdbf8c8da2b8d",
+      "rating": 1469.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-05-27",
+  "name": "R. Sokoudjou",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "r-sokoudjou",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

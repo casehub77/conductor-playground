@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 412,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ivan Parshikov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-11-10",
+      "elo_delta": 20.8,
+      "event_name": "ONE Friday Fights 40: Jaosuayai vs. Paidang",
+      "fight_id": "6fc235b5d16ccc45",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ivan Parshikov",
+      "opponent_elo": 1553.8,
+      "outcome": "red_win",
+      "post_elo": 1520.8,
+      "pre_elo": 1500.0,
+      "red_name": "Ben Royle",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-11-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-10",
+      "fight_id": "6fc235b5d16ccc45",
+      "rating": 1520.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-11-10",
+      "fight_id": "6fc235b5d16ccc45",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-10",
+  "name": "Ben Royle",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.8,
+  "slug": "ben-royle",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.0,
+  "divisional_rank": 281,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nick Beukema",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": -18.4,
+      "event_name": "Cage Warriors 185: Manchester",
+      "fight_id": "a9f0c042d7440756",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jack Humphries",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1519.4,
+      "red_name": "Jack Humphries",
+      "round": "2",
+      "time": "2:45",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cameron Chamberlain",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 178: Manchester",
+      "fight_id": "c1244d754e400225",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Cameron Chamberlain",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Beukema",
+      "round": "1",
+      "time": "2:24",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2024-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-09-21",
+      "fight_id": "c1244d754e400225",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "c1244d754e400225",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "a9f0c042d7440756",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "a9f0c042d7440756",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-15",
+  "name": "Nick Beukema",
+  "nickname": "",
+  "overall_elo": 1500.8,
+  "peak_elo": 1519.4,
+  "slug": "nick-beukema",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

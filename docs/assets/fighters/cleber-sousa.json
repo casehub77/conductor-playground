@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 362,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Osamah Almarwai",
+      "bout_type": "Flyweight Submission Grappling Bout",
+      "date": "2024-03-01",
+      "elo_delta": 19.5,
+      "event_name": "ONE 166: Qatar",
+      "fight_id": "667c40832a87be4f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (reverse triangle armbar)",
+      "opponent": "Osamah Almarwai",
+      "opponent_elo": 1483.4,
+      "outcome": "red_win",
+      "post_elo": 1502.3,
+      "pre_elo": 1482.9,
+      "red_name": "Cleber Sousa",
+      "round": "1",
+      "time": "5:31",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Cleber Sousa",
+      "bout_type": "Flyweight Submission Grappling Bout",
+      "date": "2022-10-01",
+      "elo_delta": -17.1,
+      "event_name": "ONE on Prime Video 2: Xiong vs. Lee 3",
+      "fight_id": "8ff5bc40a6f71817",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Mikey Musumeci",
+      "opponent_elo": 1517.0,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Mikey Musumeci",
+      "round": "1",
+      "time": "10:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-01",
+      "fight_id": "8ff5bc40a6f71817",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-10-01",
+      "fight_id": "8ff5bc40a6f71817",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-03-01",
+      "fight_id": "667c40832a87be4f",
+      "rating": 1502.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-03-01",
+      "fight_id": "667c40832a87be4f",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-03-01",
+  "name": "Cleber Sousa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.3,
+  "slug": "cleber-sousa",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

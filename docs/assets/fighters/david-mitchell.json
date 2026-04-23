@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 764,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "David Mitchell",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-10-09",
+      "elo_delta": -15.5,
+      "event_name": "UFC Fight Night: Maia vs Shields",
+      "fight_id": "59c7ca7ed071be64",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yan Cabral",
+      "opponent_elo": 1522.9,
+      "outcome": "red_win",
+      "post_elo": 1458.5,
+      "pre_elo": 1474.0,
+      "red_name": "Yan Cabral",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "David Mitchell",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-07-06",
+      "elo_delta": -12.8,
+      "event_name": "UFC 162: Silva vs Weidman",
+      "fight_id": "9d78ac186e98b1b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mike Pierce",
+      "opponent_elo": 1610.4,
+      "outcome": "red_win",
+      "post_elo": 1474.0,
+      "pre_elo": 1486.8,
+      "red_name": "Mike Pierce",
+      "round": "2.0",
+      "time": "2:55",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "David Mitchell",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-01-26",
+      "elo_delta": 20.6,
+      "event_name": "UFC on FOX: Johnson vs Dodson",
+      "fight_id": "832ce817c7011334",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Simeon Thoresen",
+      "opponent_elo": 1517.0,
+      "outcome": "blue_win",
+      "post_elo": 1486.8,
+      "pre_elo": 1466.2,
+      "red_name": "Simeon Thoresen",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "David Mitchell",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-08-27",
+      "elo_delta": -15.8,
+      "event_name": "UFC 134: Silva vs Okami",
+      "fight_id": "fe9ebbe4c1f5cd05",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Paulo Thiago",
+      "opponent_elo": 1523.7,
+      "outcome": "red_win",
+      "post_elo": 1466.2,
+      "pre_elo": 1482.0,
+      "red_name": "Paulo Thiago",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "David Mitchell",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-09-15",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Marquardt vs Palhares",
+      "fight_id": "b0752cc490633bf8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tj Waldburger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Tj Waldburger",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-09-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-15",
+      "fight_id": "b0752cc490633bf8",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-09-15",
+      "fight_id": "b0752cc490633bf8",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-08-27",
+      "fight_id": "fe9ebbe4c1f5cd05",
+      "rating": 1466.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-08-27",
+      "fight_id": "fe9ebbe4c1f5cd05",
+      "rating": 1469.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-01-26",
+      "fight_id": "832ce817c7011334",
+      "rating": 1486.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-01-26",
+      "fight_id": "832ce817c7011334",
+      "rating": 1487.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-07-06",
+      "fight_id": "9d78ac186e98b1b3",
+      "rating": 1474.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-07-06",
+      "fight_id": "9d78ac186e98b1b3",
+      "rating": 1475.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-10-09",
+      "fight_id": "59c7ca7ed071be64",
+      "rating": 1458.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-10-09",
+      "fight_id": "59c7ca7ed071be64",
+      "rating": 1462.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-10-09",
+  "name": "David Mitchell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "david-mitchell",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

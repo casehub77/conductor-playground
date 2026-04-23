@@ -1,0 +1,92 @@
+{
+  "current_elo": 1501.1,
+  "divisional_rank": 280,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Meijy Portela",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2025-03-28",
+      "elo_delta": 20.5,
+      "event_name": "LFA 205: Pires vs. Abojer",
+      "fight_id": "690349acace20c39",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Meijy Portela",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Herbeth Sousa",
+      "round": "1",
+      "time": "0:52",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Herbeth Sousa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-06-10",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 134: Gafurov vs. Sousa",
+      "fight_id": "e307c541b4cd7f8e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Muin Gafurov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Muin Gafurov",
+      "round": "2",
+      "time": "1:56",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-06-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-10",
+      "fight_id": "e307c541b4cd7f8e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-06-10",
+      "fight_id": "e307c541b4cd7f8e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "690349acace20c39",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-28",
+      "fight_id": "690349acace20c39",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-28",
+  "name": "Herbeth Sousa",
+  "nickname": "",
+  "overall_elo": 1500.9,
+  "peak_elo": 1501.1,
+  "slug": "herbeth-sousa",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

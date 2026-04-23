@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 721,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "David Evenson",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": -20.4,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "d7a26358ab37c337",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jeremiah Humphrey",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Jeremiah Humphrey",
+      "round": "2",
+      "time": "2:59",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-10-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-22",
+      "fight_id": "dbcc5ce9ae3ca053",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "d7a26358ab37c337",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "d7a26358ab37c337",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-03",
+  "name": "David Evenson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "david-evenson",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 116,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Diana Belbiţă",
+      "bout_type": "Women's Flyweight 57 kg Bout",
+      "date": "2017-05-27",
+      "elo_delta": -18.4,
+      "event_name": "KSW 39: Colosseum",
+      "fight_id": "a66ac02f0135a73c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Ariane Lipski",
+      "opponent_elo": 1535.9,
+      "outcome": "red_win",
+      "post_elo": 1498.6,
+      "pre_elo": 1517.0,
+      "red_name": "Ariane Lipski",
+      "round": "1",
+      "time": "4:52",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Katarzyna Lubonska",
+      "bout_type": "Female Flyweight 57 kg Bout",
+      "date": "2016-10-01",
+      "elo_delta": 17.0,
+      "event_name": "KSW 36: Materla vs. Palhares",
+      "fight_id": "9ea4c20770923f41",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Katarzyna Lubonska",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Diana Belbiţă",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2016-10-01",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2016-10-01",
+      "fight_id": "9ea4c20770923f41",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "9ea4c20770923f41",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2017-05-27",
+      "fight_id": "a66ac02f0135a73c",
+      "rating": 1498.6,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2017-05-27",
+      "fight_id": "a66ac02f0135a73c",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-05-27",
+  "name": "Diana Belbiţă",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.0,
+  "slug": "diana-belbita",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

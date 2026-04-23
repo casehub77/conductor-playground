@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 423,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Carter Williams",
+      "bout_type": "Heavyweight Bout",
+      "date": "2007-06-22",
+      "elo_delta": -15.6,
+      "event_name": "Strikeforce: Shamrock vs. Baroni",
+      "fight_id": "e0ed50835fa28375",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Paul Buentello",
+      "opponent_elo": 1569.1,
+      "outcome": "red_win",
+      "post_elo": 1484.4,
+      "pre_elo": 1500.0,
+      "red_name": "Paul Buentello",
+      "round": "2",
+      "time": "0:10",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-06-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-06-22",
+      "fight_id": "e0ed50835fa28375",
+      "rating": 1484.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2007-06-22",
+      "fight_id": "e0ed50835fa28375",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-06-22",
+  "name": "Carter Williams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "carter-williams",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

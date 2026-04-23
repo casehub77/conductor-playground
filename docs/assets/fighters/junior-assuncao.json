@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 648,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Junior Assuncao",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-12-30",
+      "elo_delta": -16.6,
+      "event_name": "UFC 141: Lesnar vs Overeem",
+      "fight_id": "de7e6b4629fa67de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ross Pearson",
+      "opponent_elo": 1531.8,
+      "outcome": "red_win",
+      "post_elo": 1487.9,
+      "pre_elo": 1504.4,
+      "red_name": "Ross Pearson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Eddie Yagin",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": 18.7,
+      "event_name": "UFC 135: Jones vs Rampage",
+      "fight_id": "bb3f6ccb7e9244f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Eddie Yagin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.4,
+      "pre_elo": 1485.7,
+      "red_name": "Junior Assuncao",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Junior Assuncao",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-09-19",
+      "elo_delta": -15.8,
+      "event_name": "UFC Fight Night: Thomas vs Florian",
+      "fight_id": "66b7f2c580f57d34",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Nate Diaz",
+      "opponent_elo": 1566.5,
+      "outcome": "red_win",
+      "post_elo": 1485.2,
+      "pre_elo": 1501.0,
+      "red_name": "Nate Diaz",
+      "round": "1.0",
+      "time": "4:10",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "David Lee",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-04-21",
+      "elo_delta": 19.4,
+      "event_name": "UFC 70: Nations Collide",
+      "fight_id": "7b826109bbbdeaa2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "David Lee",
+      "opponent_elo": 1481.7,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1481.6,
+      "red_name": "Junior Assuncao",
+      "round": "2.0",
+      "time": "1:55",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Junior Assuncao",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-10-14",
+      "elo_delta": -18.4,
+      "event_name": "UFC 64: Unstoppable",
+      "fight_id": "cc879173d5621f6f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kurt Pellegrino",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kurt Pellegrino",
+      "round": "1.0",
+      "time": "2:04",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2006-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-10-14",
+      "fight_id": "cc879173d5621f6f",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-10-14",
+      "fight_id": "cc879173d5621f6f",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-04-21",
+      "fight_id": "7b826109bbbdeaa2",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-04-21",
+      "fight_id": "7b826109bbbdeaa2",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-09-19",
+      "fight_id": "66b7f2c580f57d34",
+      "rating": 1485.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-09-19",
+      "fight_id": "66b7f2c580f57d34",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "bb3f6ccb7e9244f4",
+      "rating": 1504.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "bb3f6ccb7e9244f4",
+      "rating": 1502.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-12-30",
+      "fight_id": "de7e6b4629fa67de",
+      "rating": 1487.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-12-30",
+      "fight_id": "de7e6b4629fa67de",
+      "rating": 1487.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-12-30",
+  "name": "Junior Assuncao",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.4,
+  "slug": "junior-assuncao",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

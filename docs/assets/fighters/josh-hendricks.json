@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 509,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Josh Hendricks",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-11-15",
+      "elo_delta": -16.7,
+      "event_name": "UFC 91: Couture vs Lesnar",
+      "fight_id": "f700d1313d0beaed",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gabriel Gonzaga",
+      "opponent_elo": 1549.4,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Gabriel Gonzaga",
+      "round": "1.0",
+      "time": "1:01",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-11-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-11-15",
+      "fight_id": "f700d1313d0beaed",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-11-15",
+      "fight_id": "f700d1313d0beaed",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-11-15",
+  "name": "Josh Hendricks",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "josh-hendricks",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

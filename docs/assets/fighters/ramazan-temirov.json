@@ -1,0 +1,92 @@
+{
+  "current_elo": 1540.8,
+  "divisional_rank": 63,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ramazan Temirov",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-01",
+      "elo_delta": 21.5,
+      "event_name": "UFC Fight Night: Kape vs. Almabayev",
+      "fight_id": "4ec2e5481de7357a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Charles Johnson",
+      "opponent_elo": 1587.7,
+      "outcome": "blue_win",
+      "post_elo": 1540.8,
+      "pre_elo": 1519.3,
+      "red_name": "Charles Johnson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ramazan Temirov",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-10-12",
+      "elo_delta": 19.3,
+      "event_name": "UFC Fight Night: Royval vs. Taira",
+      "fight_id": "205a5e05a95f90ca",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cj Vergara",
+      "opponent_elo": 1498.3,
+      "outcome": "blue_win",
+      "post_elo": 1519.3,
+      "pre_elo": 1500.0,
+      "red_name": "Cj Vergara",
+      "round": "1.0",
+      "time": "2:50",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-10-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-10-12",
+      "fight_id": "205a5e05a95f90ca",
+      "rating": 1519.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "205a5e05a95f90ca",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "4ec2e5481de7357a",
+      "rating": 1540.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "4ec2e5481de7357a",
+      "rating": 1536.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-01",
+  "name": "Ramazan Temirov",
+  "nickname": "",
+  "overall_elo": 1536.0,
+  "peak_elo": 1540.8,
+  "slug": "ramazan-temirov",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

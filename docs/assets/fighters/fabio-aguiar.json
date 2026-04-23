@@ -1,0 +1,133 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 562,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Fabio Aguiar",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-09-30",
+      "elo_delta": -16.6,
+      "event_name": "Legacy Fighting Alliance 143: Lopes vs. Paiva",
+      "fight_id": "bdffa25e26d398f8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Lucas Fernando",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1468.4,
+      "pre_elo": 1485.0,
+      "red_name": "Lucas Fernando",
+      "round": "1",
+      "time": "2:55",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Fabio Aguiar",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-06-24",
+      "elo_delta": -19.7,
+      "event_name": "Bellator 282: Mousasi vs. Eblen",
+      "fight_id": "b2777607a87daced",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Aaron Jeffery",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1485.0,
+      "pre_elo": 1504.7,
+      "red_name": "Aaron Jeffery",
+      "round": "2",
+      "time": "3:30",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Taylor Johnson",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-08-20",
+      "elo_delta": 19.8,
+      "event_name": "Bellator 265: Kongo vs. Kharitonov",
+      "fight_id": "b25a6d6a3ba0fe94",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (28-29, 29-28, 29-28)",
+      "opponent": "Taylor Johnson",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1504.7,
+      "pre_elo": 1484.9,
+      "red_name": "Fabio Aguiar",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-02",
+      "fight_id": "cc09daae527deee6",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-20",
+      "fight_id": "b25a6d6a3ba0fe94",
+      "rating": 1504.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-08-20",
+      "fight_id": "b25a6d6a3ba0fe94",
+      "rating": 1502.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "b2777607a87daced",
+      "rating": 1485.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-06-24",
+      "fight_id": "b2777607a87daced",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-09-30",
+      "fight_id": "bdffa25e26d398f8",
+      "rating": 1468.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-09-30",
+      "fight_id": "bdffa25e26d398f8",
+      "rating": 1470.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-09-30",
+  "name": "Fabio Aguiar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.7,
+  "slug": "fabio-aguiar",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

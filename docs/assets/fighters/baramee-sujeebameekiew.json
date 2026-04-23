@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 154,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Baramee Sujeebameekiew",
+      "bout_type": "Catchweight (138 lbs) Muay Thai Bout",
+      "date": "2023-09-01",
+      "elo_delta": -18.5,
+      "event_name": "ONE Friday Fights 31: Kongthoranee vs. Kabutov",
+      "fight_id": "5828b4c56b7ae0bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbow)",
+      "opponent": "Sibsan Nokkhao KorMor11",
+      "opponent_elo": 1532.3,
+      "outcome": "red_win",
+      "post_elo": 1497.5,
+      "pre_elo": 1516.0,
+      "red_name": "Sibsan Nokkhao KorMor11",
+      "round": "2",
+      "time": "0:30",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2023-05-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-05-05",
+      "fight_id": "ba569573c21005df",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-01",
+      "fight_id": "5828b4c56b7ae0bc",
+      "rating": 1497.5,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2023-09-01",
+      "fight_id": "5828b4c56b7ae0bc",
+      "rating": 1499.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-01",
+  "name": "Baramee Sujeebameekiew",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.0,
+  "slug": "baramee-sujeebameekiew",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

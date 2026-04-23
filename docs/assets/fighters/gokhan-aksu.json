@@ -1,0 +1,99 @@
+{
+  "current_elo": 1555.0,
+  "divisional_rank": 72,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Denis Frimpong",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-22",
+      "elo_delta": 21.3,
+      "event_name": "Oktagon 80: Legierski vs. Korkmaz",
+      "fight_id": "74db978386928326",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Denis Frimpong",
+      "opponent_elo": 1567.6,
+      "outcome": "red_win",
+      "post_elo": 1555.0,
+      "pre_elo": 1533.6,
+      "red_name": "Gökhan Aksu",
+      "round": "1",
+      "time": "3:58",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ognjen Dimić",
+      "bout_type": "Catchweight (159 lb) Bout",
+      "date": "2025-05-17",
+      "elo_delta": 17.4,
+      "event_name": "Oktagon 71: Poppeck vs. Langer",
+      "fight_id": "634764bfa31da557",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Ognjen Dimić",
+      "opponent_elo": 1480.8,
+      "outcome": "red_win",
+      "post_elo": 1535.5,
+      "pre_elo": 1518.1,
+      "red_name": "Gökhan Aksu",
+      "round": "1",
+      "time": "2:43",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-12-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-07",
+      "fight_id": "f3fb6af03c7dbeeb",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "634764bfa31da557",
+      "rating": 1535.5,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-05-17",
+      "fight_id": "634764bfa31da557",
+      "rating": 1533.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "74db978386928326",
+      "rating": 1555.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-22",
+      "fight_id": "74db978386928326",
+      "rating": 1552.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-22",
+  "name": "Gökhan Aksu",
+  "nickname": "",
+  "overall_elo": 1552.3,
+  "peak_elo": 1555.0,
+  "slug": "gokhan-aksu",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

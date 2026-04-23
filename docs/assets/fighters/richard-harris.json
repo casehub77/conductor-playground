@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.8,
+  "divisional_rank": 48,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Philip Latu",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-04-17",
+      "elo_delta": 18.4,
+      "event_name": "LFA 231: Lozej vs. Ibarra",
+      "fight_id": "f8a4ad46d3582807",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Philip Latu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Richard Harris",
+      "round": "2",
+      "time": "4:01",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Alex Marro",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 19.4,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "75c2e3e853e93a42",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Alex Marro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Richard Harris",
+      "round": "1",
+      "time": "2:17",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-11-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-21",
+      "fight_id": "75c2e3e853e93a42",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "75c2e3e853e93a42",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "f8a4ad46d3582807",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "f8a4ad46d3582807",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-17",
+  "name": "Richard Harris",
+  "nickname": "",
+  "overall_elo": 1533.7,
+  "peak_elo": 1537.8,
+  "slug": "richard-harris",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

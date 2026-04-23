@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 549,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alex Lohoré",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-05-20",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 43: Kincl vs. Vémola 2",
+      "fight_id": "c8758236fbd32249",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "David Kozma",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1518.0,
+      "red_name": "David Kozma",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Samuel Krištofič",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-10",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 40: Kozma vs. Siwiec",
+      "fight_id": "0c784f03d0bec616",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 29–27, 29–28)",
+      "opponent": "Samuel Krištofič",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Alex Lohoré",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-10",
+      "fight_id": "0c784f03d0bec616",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-10",
+      "fight_id": "0c784f03d0bec616",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-20",
+      "fight_id": "c8758236fbd32249",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-05-20",
+      "fight_id": "c8758236fbd32249",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-20",
+  "name": "Alex Lohoré",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "alex-lohore",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

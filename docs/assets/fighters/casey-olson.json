@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 360,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Bobby Sanchez",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-10-07",
+      "elo_delta": 15.9,
+      "event_name": "Strikeforce: Tank vs. Buentello",
+      "fight_id": "4690a31b14bcc557",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Bobby Sanchez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1580.3,
+      "pre_elo": 1564.4,
+      "red_name": "Casey Olson",
+      "round": "1",
+      "time": "1:58",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Chris Solomon",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-08-17",
+      "elo_delta": 15.5,
+      "event_name": "WEC 23: Hot August Fights",
+      "fight_id": "a1806bb96ac4ab54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Chris Solomon",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1564.4,
+      "pre_elo": 1548.9,
+      "red_name": "Casey Olson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alvin Cacdac",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-07-28",
+      "elo_delta": 17.7,
+      "event_name": "WEC 22: The Hitman",
+      "fight_id": "b62f6255452d423e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Alvin Cacdac",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1548.9,
+      "pre_elo": 1531.2,
+      "red_name": "Casey Olson",
+      "round": "1",
+      "time": "2:28",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Joe Martin",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-01-13",
+      "elo_delta": 15.2,
+      "event_name": "WEC 18: Unfinished Business",
+      "fight_id": "7778235d9a2d3727",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Joe Martin",
+      "opponent_elo": 1465.3,
+      "outcome": "red_win",
+      "post_elo": 1534.7,
+      "pre_elo": 1519.4,
+      "red_name": "Casey Olson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Rolland Parli",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-08-18",
+      "elo_delta": 19.4,
+      "event_name": "WEC 16: Clash of the Titans 2",
+      "fight_id": "9f62215e1d370b03",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Rolland Parli",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Casey Olson",
+      "round": "1",
+      "time": "4:58",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-08-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-08-18",
+      "fight_id": "9f62215e1d370b03",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-08-18",
+      "fight_id": "9f62215e1d370b03",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-01-13",
+      "fight_id": "7778235d9a2d3727",
+      "rating": 1534.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-01-13",
+      "fight_id": "7778235d9a2d3727",
+      "rating": 1531.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-07-28",
+      "fight_id": "b62f6255452d423e",
+      "rating": 1548.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-07-28",
+      "fight_id": "b62f6255452d423e",
+      "rating": 1547.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "a1806bb96ac4ab54",
+      "rating": 1564.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "a1806bb96ac4ab54",
+      "rating": 1560.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-10-07",
+      "fight_id": "4690a31b14bcc557",
+      "rating": 1580.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-10-07",
+      "fight_id": "4690a31b14bcc557",
+      "rating": 1575.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-10-07",
+  "name": "Casey Olson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1580.3,
+  "slug": "casey-olson",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

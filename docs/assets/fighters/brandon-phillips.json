@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 967,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brandon Phillips",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-01-14",
+      "elo_delta": -18.1,
+      "event_name": "Legacy Fighting Alliance 121: Brown vs. Jones",
+      "fight_id": "09ba98e6d47f8dfe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Elijah Johns",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1484.0,
+      "red_name": "Elijah Johns",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Brandon Phillips",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-04-16",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 104: McKenzie vs. Phillips",
+      "fight_id": "c262fd3802557ea3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Aaron McKenzie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron McKenzie",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-16",
+      "fight_id": "c262fd3802557ea3",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-04-16",
+      "fight_id": "c262fd3802557ea3",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "09ba98e6d47f8dfe",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-01-14",
+      "fight_id": "09ba98e6d47f8dfe",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-01-14",
+  "name": "Brandon Phillips",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "brandon-phillips",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

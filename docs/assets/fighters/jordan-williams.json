@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1025,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jordan Williams",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-11-06",
+      "elo_delta": -17.6,
+      "event_name": "UFC 268: Usman vs. Covington 2",
+      "fight_id": "7f860b35324d17b1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ian Machado Garry",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1449.5,
+      "pre_elo": 1467.1,
+      "red_name": "Ian Machado Garry",
+      "round": "1.0",
+      "time": "4:59",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jordan Williams",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-07-24",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "fight_id": "59b1ba52d59f3ef1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mickey Gall",
+      "opponent_elo": 1530.4,
+      "outcome": "red_win",
+      "post_elo": 1467.1,
+      "pre_elo": 1484.0,
+      "red_name": "Mickey Gall",
+      "round": "1.0",
+      "time": "2:57",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Nassourdine Imavov",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-10-03",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Holm vs. Aldana",
+      "fight_id": "57d1f8edef7a257e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Nassourdine Imavov",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jordan Williams",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2020-10-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-10-03",
+      "fight_id": "57d1f8edef7a257e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "57d1f8edef7a257e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-07-24",
+      "fight_id": "59b1ba52d59f3ef1",
+      "rating": 1467.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-07-24",
+      "fight_id": "59b1ba52d59f3ef1",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "7f860b35324d17b1",
+      "rating": 1449.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "7f860b35324d17b1",
+      "rating": 1453.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-11-06",
+  "name": "Jordan Williams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jordan-williams",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1516.2,
+  "divisional_rank": 219,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jake McHugh",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-03-13",
+      "elo_delta": -19.5,
+      "event_name": "Cage Warriors 201: Unplugged",
+      "fight_id": "939f7ba849cda78f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Matthew Elliott",
+      "opponent_elo": 1533.9,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1535.8,
+      "red_name": "Matthew Elliott",
+      "round": "1",
+      "time": "0:59",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Armand Herczeg",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": 17.4,
+      "event_name": "Oktagon 52: Mågård vs. Cartwright",
+      "fight_id": "6955dcc0d86cd8bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Armand Herczeg",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1518.4,
+      "red_name": "Jake McHugh",
+      "round": "1",
+      "time": "4:30",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ivan Klevets",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": 18.4,
+      "event_name": "Oktagon 49: Moeil vs. Todev",
+      "fight_id": "e8046f31e87c29d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (triangle choke)",
+      "opponent": "Ivan Klevets",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jake McHugh",
+      "round": "2",
+      "time": "2:32",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-18",
+      "fight_id": "e8046f31e87c29d4",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "e8046f31e87c29d4",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "6955dcc0d86cd8bf",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "6955dcc0d86cd8bf",
+      "rating": 1532.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "939f7ba849cda78f",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-03-13",
+      "fight_id": "939f7ba849cda78f",
+      "rating": 1514.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-13",
+  "name": "Jake McHugh",
+  "nickname": "",
+  "overall_elo": 1514.7,
+  "peak_elo": 1535.8,
+  "slug": "jake-mchugh",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

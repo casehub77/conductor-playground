@@ -1,0 +1,133 @@
+{
+  "current_elo": 1492.2,
+  "divisional_rank": 939,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Steven Hill",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-03-20",
+      "elo_delta": -22.3,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "d2e6c672bbbfb4a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Leon Naumann",
+      "opponent_elo": 1463.6,
+      "outcome": "red_win",
+      "post_elo": 1492.2,
+      "pre_elo": 1514.4,
+      "red_name": "Leon Naumann",
+      "round": "1",
+      "time": "1:28",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Steven Hill",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": -20.4,
+      "event_name": "Cage Warriors 192: London",
+      "fight_id": "abc5f7fef4fffc2e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbow and punches)",
+      "opponent": "Leon Hill",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1514.1,
+      "pre_elo": 1534.5,
+      "red_name": "Leon Hill",
+      "round": "2",
+      "time": "2:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Joël Kouadja",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-25",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 291: Amosov vs. Storley 2",
+      "fight_id": "464ba2450f45c7f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Joël Kouadja",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Steven Hill",
+      "round": "2",
+      "time": "2:03",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2022-10-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-10-29",
+      "fight_id": "55aeced787b4597a",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "464ba2450f45c7f0",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-25",
+      "fight_id": "464ba2450f45c7f0",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "abc5f7fef4fffc2e",
+      "rating": 1514.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "abc5f7fef4fffc2e",
+      "rating": 1514.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "d2e6c672bbbfb4a5",
+      "rating": 1492.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "d2e6c672bbbfb4a5",
+      "rating": 1494.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Steven Hill",
+  "nickname": "",
+  "overall_elo": 1494.8,
+  "peak_elo": 1534.5,
+  "slug": "steven-hill",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

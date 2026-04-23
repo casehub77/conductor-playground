@@ -1,0 +1,92 @@
+{
+  "current_elo": 1470.9,
+  "divisional_rank": 169,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nobuyoshi Nakatsukasa",
+      "bout_type": "Strawweight 53 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": -13.5,
+      "event_name": "Rizin 50",
+      "fight_id": "16014a6ac38610f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Haruo Ochi",
+      "opponent_elo": 1594.3,
+      "outcome": "red_win",
+      "post_elo": 1470.9,
+      "pre_elo": 1484.4,
+      "red_name": "Haruo Ochi",
+      "round": "3",
+      "time": "1:22",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Nobuyoshi Nakatsukasa",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2022-04-16",
+      "elo_delta": -17.6,
+      "event_name": "Rizin Trigger 3",
+      "fight_id": "2f8e53a95606a4cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Soccer Kick and Punches)",
+      "opponent": "Takaki Soya",
+      "opponent_elo": 1533.7,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.0,
+      "red_name": "Takaki Soya",
+      "round": "2",
+      "time": "3:29",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-04-16",
+      "fight_id": "2f8e53a95606a4cd",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-04-16",
+      "fight_id": "2f8e53a95606a4cd",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "16014a6ac38610f1",
+      "rating": 1470.9,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "16014a6ac38610f1",
+      "rating": 1472.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-03-30",
+  "name": "Nobuyoshi Nakatsukasa",
+  "nickname": "",
+  "overall_elo": 1472.9,
+  "peak_elo": 1500.0,
+  "slug": "nobuyoshi-nakatsukasa",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

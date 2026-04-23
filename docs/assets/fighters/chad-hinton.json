@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 903,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chad Hinton",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-06-24",
+      "elo_delta": -17.2,
+      "event_name": "Bellator 23",
+      "fight_id": "32bb24b1faa0e9db",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Daniel Mason-Straus",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1467.0,
+      "pre_elo": 1484.1,
+      "red_name": "Daniel Mason-Straus",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Chad Hinton",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-04-08",
+      "elo_delta": -15.9,
+      "event_name": "Bellator 13",
+      "fight_id": "94f357fc42600737",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kneebar)",
+      "opponent": "Roger Huerta",
+      "opponent_elo": 1564.6,
+      "outcome": "red_win",
+      "post_elo": 1484.1,
+      "pre_elo": 1500.0,
+      "red_name": "Roger Huerta",
+      "round": "3",
+      "time": "0:56",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-04-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-08",
+      "fight_id": "94f357fc42600737",
+      "rating": 1484.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-04-08",
+      "fight_id": "94f357fc42600737",
+      "rating": 1485.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-24",
+      "fight_id": "32bb24b1faa0e9db",
+      "rating": 1467.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-06-24",
+      "fight_id": "32bb24b1faa0e9db",
+      "rating": 1470.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-06-24",
+  "name": "Chad Hinton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "chad-hinton",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

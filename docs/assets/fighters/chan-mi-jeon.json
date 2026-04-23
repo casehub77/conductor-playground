@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 172,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chan-Mi Jeon",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2017-09-22",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Saint Preux vs. Okami",
+      "fight_id": "f6d8f88cd905c152",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Syuri Kondo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.0,
+      "pre_elo": 1481.1,
+      "red_name": "Syuri Kondo",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Chan-Mi Jeon",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2017-06-10",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Lewis vs. Hunt",
+      "fight_id": "0a552e6ce706ab82",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "JJ Aldrich",
+      "opponent_elo": 1481.9,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "JJ Aldrich",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2017-06-10",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-06-10",
+      "fight_id": "0a552e6ce706ab82",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2017-06-10",
+      "fight_id": "0a552e6ce706ab82",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2017-09-22",
+      "fight_id": "f6d8f88cd905c152",
+      "rating": 1464.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2017-09-22",
+      "fight_id": "f6d8f88cd905c152",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-09-22",
+  "name": "Chan-Mi Jeon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "chan-mi-jeon",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1263,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Charlie Leary",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2022-05-06",
+      "elo_delta": -24.1,
+      "event_name": "Bellator 280: Bader vs. Kongo 2",
+      "fight_id": "9615531ce0758dbe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 29–28)",
+      "opponent": "Søren Bak",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1456.5,
+      "pre_elo": 1480.6,
+      "red_name": "Søren Bak",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Charlie Leary",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": -17.5,
+      "event_name": "Bellator 275: Mousasi vs. Vanderford",
+      "fight_id": "843302216ec57c93",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Davy Gallon",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1482.7,
+      "red_name": "Davy Gallon",
+      "round": "2",
+      "time": "3:01",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Charlie Leary",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-02-26",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors: 40",
+      "fight_id": "eb00d81dc21ad086",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Aaron Thomas",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Thomas",
+      "round": "2",
+      "time": "4:57",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-02-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-02-26",
+      "fight_id": "eb00d81dc21ad086",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-02-26",
+      "fight_id": "eb00d81dc21ad086",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "843302216ec57c93",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "843302216ec57c93",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "9615531ce0758dbe",
+      "rating": 1456.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "9615531ce0758dbe",
+      "rating": 1446.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-06",
+  "name": "Charlie Leary",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "charlie-leary",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1535.9,
+  "divisional_rank": 27,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Carli Judice",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 16.9,
+      "event_name": "UFC Fight Night: Strickland vs. Hernandez",
+      "fight_id": "08b712cf845d5758",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Juliana Miller",
+      "opponent_elo": 1497.7,
+      "outcome": "blue_win",
+      "post_elo": 1535.9,
+      "pre_elo": 1519.0,
+      "red_name": "Juliana Miller",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Nicolle Caliari",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": 18.3,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "1bb7aa2b18910b07",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nicolle Caliari",
+      "opponent_elo": 1481.0,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.7,
+      "red_name": "Carli Judice",
+      "round": "3.0",
+      "time": "1:30",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Carli Judice",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-03-15",
+      "elo_delta": 20.6,
+      "event_name": "UFC Fight Night: Vettori vs. Dolidze 2",
+      "fight_id": "f90888f2a28a9b62",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yuneisy Duben",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1480.1,
+      "red_name": "Yuneisy Duben",
+      "round": "1.0",
+      "time": "1:40",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Gabriella Fernandes",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-06-15",
+      "elo_delta": -19.9,
+      "event_name": "UFC Fight Night: Perez vs. Taira",
+      "fight_id": "eb395702c959016c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Gabriella Fernandes",
+      "opponent_elo": 1463.9,
+      "outcome": "blue_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Carli Judice",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-06-15",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-06-15",
+      "fight_id": "eb395702c959016c",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-06-15",
+      "fight_id": "eb395702c959016c",
+      "rating": 1482.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "f90888f2a28a9b62",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-03-15",
+      "fight_id": "f90888f2a28a9b62",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1bb7aa2b18910b07",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1bb7aa2b18910b07",
+      "rating": 1517.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "08b712cf845d5758",
+      "rating": 1535.9,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "08b712cf845d5758",
+      "rating": 1532.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Carli Judice",
+  "nickname": "",
+  "overall_elo": 1532.2,
+  "peak_elo": 1535.9,
+  "slug": "carli-judice",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 623,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Rashad Coulter",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2018-11-24",
+      "elo_delta": 19.8,
+      "event_name": "UFC Fight Night: Blaydes vs. Ngannou 2",
+      "fight_id": "3d5202f5cf648065",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Hu Yaozong",
+      "opponent_elo": 1481.8,
+      "outcome": "blue_win",
+      "post_elo": 1467.1,
+      "pre_elo": 1447.4,
+      "red_name": "Hu Yaozong",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Chris De La Rocha",
+      "bout_type": "Heavyweight Bout",
+      "date": "2018-06-09",
+      "elo_delta": -19.5,
+      "event_name": "UFC 225: Whittaker vs. Romero 2",
+      "fight_id": "cde28c612dd09832",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chris De La Rocha",
+      "opponent_elo": 1459.7,
+      "outcome": "blue_win",
+      "post_elo": 1440.7,
+      "pre_elo": 1460.1,
+      "red_name": "Rashad Coulter",
+      "round": "2.0",
+      "time": "3:53",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tai Tuivasa",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-11-18",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Werdum vs. Tybura",
+      "fight_id": "d58e91b95d63866d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tai Tuivasa",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1460.1,
+      "pre_elo": 1478.4,
+      "red_name": "Rashad Coulter",
+      "round": "1.0",
+      "time": "4:35",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Rashad Coulter",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-05-13",
+      "elo_delta": -21.6,
+      "event_name": "UFC 211: Miocic vs. Dos Santos",
+      "fight_id": "a50dee96d33bbf0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chase Sherman",
+      "opponent_elo": 1460.9,
+      "outcome": "red_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1500.0,
+      "red_name": "Chase Sherman",
+      "round": "2.0",
+      "time": "3:36",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-05-13",
+      "fight_id": "a50dee96d33bbf0d",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-05-13",
+      "fight_id": "a50dee96d33bbf0d",
+      "rating": 1481.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-11-18",
+      "fight_id": "d58e91b95d63866d",
+      "rating": 1460.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-11-18",
+      "fight_id": "d58e91b95d63866d",
+      "rating": 1464.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "cde28c612dd09832",
+      "rating": 1440.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "cde28c612dd09832",
+      "rating": 1447.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-11-24",
+      "fight_id": "3d5202f5cf648065",
+      "rating": 1467.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-11-24",
+      "fight_id": "3d5202f5cf648065",
+      "rating": 1464.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-11-24",
+  "name": "Rashad Coulter",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "rashad-coulter",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

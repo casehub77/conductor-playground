@@ -1,0 +1,65 @@
+{
+  "current_elo": 1494.7,
+  "divisional_rank": 935,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kosuke Terashima",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": -21.3,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "83ae893c0099e95a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Taichi Nakajima",
+      "opponent_elo": 1481.9,
+      "outcome": "red_win",
+      "post_elo": 1494.7,
+      "pre_elo": 1516.0,
+      "red_name": "Taichi Nakajima",
+      "round": "1",
+      "time": "1:17",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-03-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-06",
+      "fight_id": "1a84266a5527b34c",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "83ae893c0099e95a",
+      "rating": 1494.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "83ae893c0099e95a",
+      "rating": 1497.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-14",
+  "name": "Kosuke Terashima",
+  "nickname": "",
+  "overall_elo": 1497.0,
+  "peak_elo": 1516.0,
+  "slug": "kosuke-terashima",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

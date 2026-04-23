@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 596,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sherman Pendergarst",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-05-01",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 5",
+      "fight_id": "604663bff6649e83",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joey Beltran",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1461.2,
+      "pre_elo": 1480.6,
+      "red_name": "Joey Beltran",
+      "round": "1",
+      "time": "2:24",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sherman Pendergarst",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-11-18",
+      "elo_delta": -19.4,
+      "event_name": "UFC 65: Bad Intentions",
+      "fight_id": "fff861287eb6e190",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Antoni Hardonk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Antoni Hardonk",
+      "round": "1.0",
+      "time": "3:15",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-11-18",
+      "fight_id": "fff861287eb6e190",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-11-18",
+      "fight_id": "fff861287eb6e190",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-01",
+      "fight_id": "604663bff6649e83",
+      "rating": 1461.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-05-01",
+      "fight_id": "604663bff6649e83",
+      "rating": 1465.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-01",
+  "name": "Sherman Pendergarst",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "sherman-pendergarst",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

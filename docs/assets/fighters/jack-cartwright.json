@@ -1,0 +1,126 @@
+{
+  "current_elo": 1517.2,
+  "divisional_rank": 210,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mate Sanikidze",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": 17.9,
+      "event_name": "Oktagon 61: Paradeiser vs. Duque",
+      "fight_id": "2d958b274f9d9bb3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Mate Sanikidze",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.2,
+      "pre_elo": 1501.3,
+      "red_name": "Jack Cartwright",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jack Cartwright",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": -19.1,
+      "event_name": "Oktagon 52: Mågård vs. Cartwright",
+      "fight_id": "c9322aa741288876",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Jonas Mågård",
+      "opponent_elo": 1499.7,
+      "outcome": "red_win",
+      "post_elo": 1501.3,
+      "pre_elo": 1520.3,
+      "red_name": "Jonas Mågård",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Júnior Assis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": 20.3,
+      "event_name": "Oktagon 48: Aby vs. Garcia",
+      "fight_id": "f803832d7749bf12",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (scarf hold armlock)",
+      "opponent": "Júnior Assis",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1500.0,
+      "red_name": "Jack Cartwright",
+      "round": "1",
+      "time": "2:15",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-04",
+      "fight_id": "f803832d7749bf12",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "f803832d7749bf12",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "c9322aa741288876",
+      "rating": 1501.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "c9322aa741288876",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "2d958b274f9d9bb3",
+      "rating": 1519.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "2d958b274f9d9bb3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-21",
+  "name": "Jack Cartwright",
+  "nickname": "",
+  "overall_elo": 1515.3,
+  "peak_elo": 1520.3,
+  "slug": "jack-cartwright",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

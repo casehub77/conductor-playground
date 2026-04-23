@@ -1,0 +1,92 @@
+{
+  "current_elo": 1539.1,
+  "divisional_rank": 80,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Islam Dulatov",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": 19.5,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "1de893b9cd340bce",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Adam Fugitt",
+      "opponent_elo": 1519.8,
+      "outcome": "blue_win",
+      "post_elo": 1539.1,
+      "pre_elo": 1519.6,
+      "red_name": "Adam Fugitt",
+      "round": "1.0",
+      "time": "4:06",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "John Palaiologos",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-02-10",
+      "elo_delta": 19.6,
+      "event_name": "Oktagon 53: Dalisda vs. Dourthe",
+      "fight_id": "5f3bfe3730937616",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee to the body)",
+      "opponent": "John Palaiologos",
+      "opponent_elo": 1503.3,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1500.0,
+      "red_name": "Islam Dulatov",
+      "round": "1",
+      "time": "4:59",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-02-10",
+      "fight_id": "5f3bfe3730937616",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-02-10",
+      "fight_id": "5f3bfe3730937616",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1de893b9cd340bce",
+      "rating": 1539.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "1de893b9cd340bce",
+      "rating": 1534.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-19",
+  "name": "Islam Dulatov",
+  "nickname": "",
+  "overall_elo": 1534.7,
+  "peak_elo": 1539.1,
+  "slug": "islam-dulatov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

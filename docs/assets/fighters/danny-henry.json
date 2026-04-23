@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 427,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Danny Henry",
+      "bout_type": "Featherweight Bout",
+      "date": "2020-07-11",
+      "elo_delta": -17.5,
+      "event_name": "UFC 251: Usman vs. Masvidal",
+      "fight_id": "322adb2965d651a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Makwan Amirkhani",
+      "opponent_elo": 1549.2,
+      "outcome": "red_win",
+      "post_elo": 1496.7,
+      "pre_elo": 1514.2,
+      "red_name": "Makwan Amirkhani",
+      "round": "1.0",
+      "time": "3:15",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Dan Ige",
+      "bout_type": "Featherweight Bout",
+      "date": "2019-03-16",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Till vs. Masvidal",
+      "fight_id": "a74c49b649abb2e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Dan Ige",
+      "opponent_elo": 1518.3,
+      "outcome": "blue_win",
+      "post_elo": 1514.2,
+      "pre_elo": 1534.5,
+      "red_name": "Danny Henry",
+      "round": "1.0",
+      "time": "1:17",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Hakeem Dawodu",
+      "bout_type": "Featherweight Bout",
+      "date": "2018-03-17",
+      "elo_delta": 18.5,
+      "event_name": "UFC Fight Night: Werdum vs. Volkov",
+      "fight_id": "56bceff203bcd660",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Hakeem Dawodu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Danny Henry",
+      "round": "1.0",
+      "time": "0:39",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Daniel Teymur",
+      "bout_type": "Lightweight Bout",
+      "date": "2017-07-16",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "fight_id": "da3332783f9f5586",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Daniel Teymur",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Danny Henry",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2017-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-07-16",
+      "fight_id": "da3332783f9f5586",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2017-07-16",
+      "fight_id": "da3332783f9f5586",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-03-17",
+      "fight_id": "56bceff203bcd660",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-03-17",
+      "fight_id": "56bceff203bcd660",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-03-16",
+      "fight_id": "a74c49b649abb2e3",
+      "rating": 1514.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2019-03-16",
+      "fight_id": "a74c49b649abb2e3",
+      "rating": 1514.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-07-11",
+      "fight_id": "322adb2965d651a5",
+      "rating": 1496.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-07-11",
+      "fight_id": "322adb2965d651a5",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-07-11",
+  "name": "Danny Henry",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.5,
+  "slug": "danny-henry",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

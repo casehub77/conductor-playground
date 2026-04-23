@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 29,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Gina Carano",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2009-08-15",
+      "elo_delta": -20.4,
+      "event_name": "Strikeforce: Carano vs. Cyborg",
+      "fight_id": "69c8cc37ee4aeee7",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Cris Cyborg",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Cris Cyborg",
+      "round": "1",
+      "time": "4:59",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Elaina Maxwell",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2006-12-08",
+      "elo_delta": 18.0,
+      "event_name": "Strikeforce: Triple Threat",
+      "fight_id": "9ec34690aedaa174",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Elaina Maxwell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Gina Carano",
+      "round": "3",
+      "time": "2:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2006-12-08",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2006-12-08",
+      "fight_id": "9ec34690aedaa174",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "9ec34690aedaa174",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2009-08-15",
+      "fight_id": "69c8cc37ee4aeee7",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2009-08-15",
+      "fight_id": "69c8cc37ee4aeee7",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-08-15",
+  "name": "Gina Carano",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "gina-carano",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

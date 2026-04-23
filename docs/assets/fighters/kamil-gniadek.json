@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1037,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mateusz Zawadzki",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2015-02-21",
+      "elo_delta": -0.1,
+      "event_name": "KSW 30: Genesis",
+      "fight_id": "1c6b447c9dc8adba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (Split)",
+      "opponent": "Mateusz Zawadzki",
+      "opponent_elo": 1480.6,
+      "outcome": "draw",
+      "post_elo": 1482.9,
+      "pre_elo": 1483.0,
+      "red_name": "Kamil Gniadek",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kamil Gniadek",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2014-10-04",
+      "elo_delta": -17.0,
+      "event_name": "KSW 28: Fighters Den",
+      "fight_id": "25abb13c048459a3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jakub Kowalewicz",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jakub Kowalewicz",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2014-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-10-04",
+      "fight_id": "25abb13c048459a3",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "25abb13c048459a3",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-02-21",
+      "fight_id": "1c6b447c9dc8adba",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-02-21",
+      "fight_id": "1c6b447c9dc8adba",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-02-21",
+  "name": "Kamil Gniadek",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kamil-gniadek",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

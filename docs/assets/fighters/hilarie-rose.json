@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 155,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tiani Valle",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-04-22",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 130: Ksiazkiewicz vs. Gambulino",
+      "fight_id": "5e4de85e9f8ee921",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Tiani Valle",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1482.0,
+      "red_name": "Hilarie Rose",
+      "round": "2",
+      "time": "3:35",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Hilarie Rose",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-02-25",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 125: Amorim vs. Young",
+      "fight_id": "50a8a165af2176df",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ashley Nichols",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ashley Nichols",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2022-02-25",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2022-02-25",
+      "fight_id": "50a8a165af2176df",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-02-25",
+      "fight_id": "50a8a165af2176df",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "5e4de85e9f8ee921",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "5e4de85e9f8ee921",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-22",
+  "name": "Hilarie Rose",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.4,
+  "slug": "hilarie-rose",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

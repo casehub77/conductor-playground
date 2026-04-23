@@ -1,0 +1,126 @@
+{
+  "current_elo": 1513.3,
+  "divisional_rank": 233,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Acoidan Duque",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": -16.8,
+      "event_name": "Oktagon 61: Paradeiser vs. Duque",
+      "fight_id": "19ac15cf62cb2ef1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Ronald Paradeiser",
+      "opponent_elo": 1580.0,
+      "outcome": "red_win",
+      "post_elo": 1515.3,
+      "pre_elo": 1532.0,
+      "red_name": "Ronald Paradeiser",
+      "round": "1",
+      "time": "1:28",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Mochamed Machaev",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-06-08",
+      "elo_delta": 18.1,
+      "event_name": "Oktagon 58: Vémola vs Végh 2",
+      "fight_id": "057fa93df52c0826",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Mochamed Machaev",
+      "opponent_elo": 1519.2,
+      "outcome": "red_win",
+      "post_elo": 1536.1,
+      "pre_elo": 1518.0,
+      "red_name": "Acoidan Duque",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Marcel Grabinski",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-03-02",
+      "elo_delta": 18.0,
+      "event_name": "Oktagon 54: Kincl vs. Wawrzyniak",
+      "fight_id": "a7e22009e61de8fa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Marcel Grabinski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Acoidan Duque",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-03-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-02",
+      "fight_id": "a7e22009e61de8fa",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-03-02",
+      "fight_id": "a7e22009e61de8fa",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "057fa93df52c0826",
+      "rating": 1536.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "057fa93df52c0826",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "19ac15cf62cb2ef1",
+      "rating": 1515.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "19ac15cf62cb2ef1",
+      "rating": 1517.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-21",
+  "name": "Acoidan Duque",
+  "nickname": "",
+  "overall_elo": 1515.2,
+  "peak_elo": 1536.1,
+  "slug": "acoidan-duque",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

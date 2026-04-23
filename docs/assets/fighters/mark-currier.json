@@ -1,0 +1,92 @@
+{
+  "current_elo": 1466.2,
+  "divisional_rank": 718,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mark Currier",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-01-25",
+      "elo_delta": -16.4,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "944d302444053df3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alvin Hines",
+      "opponent_elo": 1536.8,
+      "outcome": "red_win",
+      "post_elo": 1466.2,
+      "pre_elo": 1482.7,
+      "red_name": "Alvin Hines",
+      "round": "1",
+      "time": "1:48",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mark Currier",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-08-12",
+      "elo_delta": -17.3,
+      "event_name": "Bellator 284: Gracie vs. Yamauchi",
+      "fight_id": "1e0950c0835561cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Bailey Schoenfelder",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Bailey Schoenfelder",
+      "round": "2",
+      "time": "2:35",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-08-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-12",
+      "fight_id": "1e0950c0835561cc",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "1e0950c0835561cc",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "944d302444053df3",
+      "rating": 1466.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "944d302444053df3",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-25",
+  "name": "Mark Currier",
+  "nickname": "",
+  "overall_elo": 1469.5,
+  "peak_elo": 1500.0,
+  "slug": "mark-currier",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

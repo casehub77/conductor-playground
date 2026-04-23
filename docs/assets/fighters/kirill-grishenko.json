@@ -1,0 +1,194 @@
+{
+  "current_elo": 1526.3,
+  "divisional_rank": 63,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Ben Tynan",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-08-02",
+      "elo_delta": 20.6,
+      "event_name": "ONE Fight Night 34: Eersel vs. Jarvis",
+      "fight_id": "8cb1d9df8cef7e50",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ben Tynan",
+      "opponent_elo": 1556.2,
+      "outcome": "red_win",
+      "post_elo": 1526.3,
+      "pre_elo": 1505.7,
+      "red_name": "Kirill Grishenko",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mauro Cerilli",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-20",
+      "elo_delta": 20.5,
+      "event_name": "ONE 171: Qatar",
+      "fight_id": "8cd82410e571a5b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kick)",
+      "opponent": "Mauro Cerilli",
+      "opponent_elo": 1504.9,
+      "outcome": "red_win",
+      "post_elo": 1505.7,
+      "pre_elo": 1485.2,
+      "red_name": "Kirill Grishenko",
+      "round": "1",
+      "time": "3:28",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Kang Ji-won",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-07-06",
+      "elo_delta": 20.9,
+      "event_name": "ONE Fight Night 23: Ok vs. Rasulov",
+      "fight_id": "ee70009789c1f447",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kang Ji-won",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1485.2,
+      "pre_elo": 1464.3,
+      "red_name": "Kirill Grishenko",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Kirill Grishenko",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-08-27",
+      "elo_delta": -16.3,
+      "event_name": "ONE on Prime Video 1: Moraes vs. Johnson 2",
+      "fight_id": "896848008b2f3a22",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Marcus Almeida",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1480.6,
+      "red_name": "Marcus Almeida",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Kirill Grishenko",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-02-11",
+      "elo_delta": -19.4,
+      "event_name": "ONE: Bad Blood",
+      "fight_id": "063cda3fcbda9524",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Anatoly Malykhin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Anatoly Malykhin",
+      "round": "2",
+      "time": "3:42",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-02-11",
+      "fight_id": "063cda3fcbda9524",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-02-11",
+      "fight_id": "063cda3fcbda9524",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "896848008b2f3a22",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-08-27",
+      "fight_id": "896848008b2f3a22",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-06",
+      "fight_id": "ee70009789c1f447",
+      "rating": 1485.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-07-06",
+      "fight_id": "ee70009789c1f447",
+      "rating": 1486.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-20",
+      "fight_id": "8cd82410e571a5b0",
+      "rating": 1505.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-20",
+      "fight_id": "8cd82410e571a5b0",
+      "rating": 1504.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "8cb1d9df8cef7e50",
+      "rating": 1526.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-08-02",
+      "fight_id": "8cb1d9df8cef7e50",
+      "rating": 1522.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-02",
+  "name": "Kirill Grishenko",
+  "nickname": "",
+  "overall_elo": 1522.5,
+  "peak_elo": 1526.3,
+  "slug": "kirill-grishenko",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 282,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Joe Stafford",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-06-03",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 133: Stack vs. Delano",
+      "fight_id": "9d59584d8c18483d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joe Stafford",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Frankie Sanchez",
+      "round": "2",
+      "time": "0:55",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-03",
+      "fight_id": "9d59584d8c18483d",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "9d59584d8c18483d",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-03",
+  "name": "Frankie Sanchez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "frankie-sanchez",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

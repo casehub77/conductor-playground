@@ -1,0 +1,99 @@
+{
+  "current_elo": 1512.6,
+  "divisional_rank": 43,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Pataknin SinbiMuayThai",
+      "bout_type": "Strawweight Muay Thai Bout",
+      "date": "2025-01-31",
+      "elo_delta": -21.3,
+      "event_name": "ONE Friday Fights 95: Yodlekpet vs. Jaosuayai",
+      "fight_id": "2d4c98767657dc34",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kicks)",
+      "opponent": "Chalamdam Sor.Boonmeerit",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1512.6,
+      "pre_elo": 1533.9,
+      "red_name": "Chalamdam Sor.Boonmeerit",
+      "round": "1",
+      "time": "2:24",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Petnamkhong Mongkolpet",
+      "bout_type": "Catchweight (122 lbs) Muay Thai Bout",
+      "date": "2024-11-29",
+      "elo_delta": 17.0,
+      "event_name": "ONE Friday Fights 89: Yod-IQ vs. Khomutov",
+      "fight_id": "40c11c04571702b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Petnamkhong Mongkolpet",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1518.8,
+      "red_name": "Pataknin SinbiMuayThai",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-10-04",
+      "fight_id": "2a4666255de2ce34",
+      "rating": 1518.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-29",
+      "fight_id": "40c11c04571702b0",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-11-29",
+      "fight_id": "40c11c04571702b0",
+      "rating": 1533.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-31",
+      "fight_id": "2d4c98767657dc34",
+      "rating": 1512.6,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2025-01-31",
+      "fight_id": "2d4c98767657dc34",
+      "rating": 1515.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-31",
+  "name": "Pataknin SinbiMuayThai",
+  "nickname": "",
+  "overall_elo": 1515.0,
+  "peak_elo": 1535.8,
+  "slug": "pataknin-sinbimuaythai",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

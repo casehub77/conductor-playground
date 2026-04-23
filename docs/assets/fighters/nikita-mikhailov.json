@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 348,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Nikita Mikhailov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-08-11",
+      "elo_delta": -21.8,
+      "event_name": "Bellator 298: Storley vs. Ward",
+      "fight_id": "9d353de3195a52b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Leandro Higo",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1519.9,
+      "pre_elo": 1541.8,
+      "red_name": "Leandro Higo",
+      "round": "2",
+      "time": "2:50",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Darrion Caldwell",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-02-04",
+      "elo_delta": 14.4,
+      "event_name": "Bellator 290: Bader vs. Fedor 2",
+      "fight_id": "8521e602e5a4d2a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Darrion Caldwell",
+      "opponent_elo": 1456.4,
+      "outcome": "red_win",
+      "post_elo": 1541.8,
+      "pre_elo": 1527.4,
+      "red_name": "Nikita Mikhailov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nikita Mikhailov",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2022-04-22",
+      "elo_delta": -8.9,
+      "event_name": "Bellator 278: Velasquez vs. Carmouche",
+      "fight_id": "c44e53bbe99ea5e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Enrique Barzola",
+      "opponent_elo": 1539.5,
+      "outcome": "red_win",
+      "post_elo": 1527.4,
+      "pre_elo": 1536.3,
+      "red_name": "Enrique Barzola",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Blaine Shutt",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-01-29",
+      "elo_delta": 17.4,
+      "event_name": "Bellator 273: Bader vs. Moldavsky",
+      "fight_id": "4c4425c83087f944",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Blaine Shutt",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1536.3,
+      "pre_elo": 1518.9,
+      "red_name": "Nikita Mikhailov",
+      "round": "3",
+      "time": "3:23",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Brian Moore",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-10-23",
+      "elo_delta": 18.9,
+      "event_name": "Bellator 269: Fedor vs. Johnson",
+      "fight_id": "e5bb8c0832393bbe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29-28, 29-28, 29-28)",
+      "opponent": "Brian Moore",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Nikita Mikhailov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-10-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-23",
+      "fight_id": "e5bb8c0832393bbe",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "e5bb8c0832393bbe",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "4c4425c83087f944",
+      "rating": 1536.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-01-29",
+      "fight_id": "4c4425c83087f944",
+      "rating": 1532.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "c44e53bbe99ea5e8",
+      "rating": 1527.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-04-22",
+      "fight_id": "c44e53bbe99ea5e8",
+      "rating": 1524.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "8521e602e5a4d2a0",
+      "rating": 1541.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "8521e602e5a4d2a0",
+      "rating": 1538.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "9d353de3195a52b2",
+      "rating": 1519.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-08-11",
+      "fight_id": "9d353de3195a52b2",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-08-11",
+  "name": "Nikita Mikhailov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1541.8,
+  "slug": "nikita-mikhailov",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 825,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Karate Kinoshita",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-06-24",
+      "elo_delta": -19.9,
+      "event_name": "Rizin 43 – Sapporo",
+      "fight_id": "9d1005199b289916",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Yuta Kubo",
+      "opponent_elo": 1462.7,
+      "outcome": "red_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Yuta Kubo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-06-24",
+      "fight_id": "9d1005199b289916",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-06-24",
+      "fight_id": "9d1005199b289916",
+      "rating": 1482.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-24",
+  "name": "Karate Kinoshita",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "karate-kinoshita",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

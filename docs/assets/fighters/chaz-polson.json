@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.9,
+  "divisional_rank": 922,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chaz Polson",
+      "bout_type": "Middleweight Bout",
+      "date": "2024-11-08",
+      "elo_delta": -20.5,
+      "event_name": "LFA 196: Tanner vs. Ureña",
+      "fight_id": "bcbdf2f8820df2fb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Thomas Keenan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Thomas Keenan",
+      "round": "2",
+      "time": "3:01",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Austin Waterman",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-10-27",
+      "elo_delta": 19.4,
+      "event_name": "LFA 170: Talundžić vs. Frunză",
+      "fight_id": "36547706eb36f2df",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Austin Waterman",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Chaz Polson",
+      "round": "2",
+      "time": "3:52",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2023-10-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-27",
+      "fight_id": "36547706eb36f2df",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-10-27",
+      "fight_id": "36547706eb36f2df",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-08",
+      "fight_id": "bcbdf2f8820df2fb",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2024-11-08",
+      "fight_id": "bcbdf2f8820df2fb",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-08",
+  "name": "Chaz Polson",
+  "nickname": "",
+  "overall_elo": 1499.1,
+  "peak_elo": 1519.4,
+  "slug": "chaz-polson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

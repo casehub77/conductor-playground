@@ -1,0 +1,99 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 54,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Claire Lopez",
+      "bout_type": "W.Super Atomweight 49 kg Bout",
+      "date": "2024-02-24",
+      "elo_delta": -18.4,
+      "event_name": "Rizin Landmark 8 in Saga",
+      "fight_id": "5d88df44a0001147",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Saori Oshima",
+      "opponent_elo": 1522.0,
+      "outcome": "red_win",
+      "post_elo": 1484.1,
+      "pre_elo": 1502.5,
+      "red_name": "Saori Oshima",
+      "round": "2",
+      "time": "3:18",
+      "weight_class": "Atomweight"
+    },
+    {
+      "blue_name": "Claire Lopez",
+      "bout_type": "W.Super Atomweight 49 kg Bout",
+      "date": "2023-07-30",
+      "elo_delta": -18.0,
+      "event_name": "Super Rizin.2: Rizin X Bellator",
+      "fight_id": "4463d7b2786fc2d0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (ninja choke)",
+      "opponent": "Seika Izawa",
+      "opponent_elo": 1547.0,
+      "outcome": "red_win",
+      "post_elo": 1502.5,
+      "pre_elo": 1520.4,
+      "red_name": "Seika Izawa",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "7984d393d7cf3730",
+      "rating": 1520.4,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-07-30",
+      "fight_id": "4463d7b2786fc2d0",
+      "rating": 1502.5,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2023-07-30",
+      "fight_id": "4463d7b2786fc2d0",
+      "rating": 1504.2,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "5d88df44a0001147",
+      "rating": 1484.1,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "5d88df44a0001147",
+      "rating": 1488.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-02-24",
+  "name": "Claire Lopez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "slug": "claire-lopez",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

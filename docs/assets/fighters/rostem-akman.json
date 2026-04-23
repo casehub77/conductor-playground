@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 940,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rostem Akman",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-10-05",
+      "elo_delta": -14.5,
+      "event_name": "UFC 243: Whittaker vs. Adesanya",
+      "fight_id": "a5d908a8dc095a2d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jake Matthews",
+      "opponent_elo": 1550.6,
+      "outcome": "red_win",
+      "post_elo": 1467.5,
+      "pre_elo": 1482.0,
+      "red_name": "Jake Matthews",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sergey Khandozhko",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-06-01",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Gustafsson vs. Smith",
+      "fight_id": "bc1cf5f820d72b83",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sergey Khandozhko",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Rostem Akman",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2019-06-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-01",
+      "fight_id": "bc1cf5f820d72b83",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-06-01",
+      "fight_id": "bc1cf5f820d72b83",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-10-05",
+      "fight_id": "a5d908a8dc095a2d",
+      "rating": 1467.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-10-05",
+      "fight_id": "a5d908a8dc095a2d",
+      "rating": 1470.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-10-05",
+  "name": "Rostem Akman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "rostem-akman",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

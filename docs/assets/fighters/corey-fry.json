@@ -1,0 +1,160 @@
+{
+  "current_elo": 1483.3,
+  "divisional_rank": 1090,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Corey Fry",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": -16.7,
+      "event_name": "Oktagon 79: Surdu vs. Kalašnik",
+      "fight_id": "7dc0410627f85117",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Radek Roušal",
+      "opponent_elo": 1550.0,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1499.9,
+      "red_name": "Radek Roušal",
+      "round": "1",
+      "time": "1:54",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Corey Fry",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-21",
+      "elo_delta": -20.3,
+      "event_name": "Oktagon 61: Paradeiser vs. Duque",
+      "fight_id": "8e8f86a057d07115",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Vladimír Lengál",
+      "opponent_elo": 1484.5,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Vladimír Lengál",
+      "round": "2",
+      "time": "2:25",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Corey Fry",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": -20.6,
+      "event_name": "Oktagon 52: Mågård vs. Cartwright",
+      "fight_id": "4a88dc3201ec05c0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Max Holzer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1520.5,
+      "red_name": "Max Holzer",
+      "round": "2",
+      "time": "2:12",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Deniz Ilbay",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": 20.5,
+      "event_name": "Oktagon 49: Moeil vs. Todev",
+      "fight_id": "9f50ef6a4e1a9128",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Deniz Ilbay",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1520.5,
+      "pre_elo": 1500.0,
+      "red_name": "Corey Fry",
+      "round": "1",
+      "time": "3:35",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-18",
+      "fight_id": "9f50ef6a4e1a9128",
+      "rating": 1520.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "9f50ef6a4e1a9128",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "4a88dc3201ec05c0",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "4a88dc3201ec05c0",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "8e8f86a057d07115",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-21",
+      "fight_id": "8e8f86a057d07115",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "7dc0410627f85117",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "7dc0410627f85117",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-01",
+  "name": "Corey Fry",
+  "nickname": "",
+  "overall_elo": 1467.8,
+  "peak_elo": 1520.5,
+  "slug": "corey-fry",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

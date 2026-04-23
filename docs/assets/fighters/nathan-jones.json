@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1047,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nathan Jones",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "1a5c4d7581ce6b3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jack Grant",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.4,
+      "pre_elo": 1481.9,
+      "red_name": "Jack Grant",
+      "round": "1",
+      "time": "2:16",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Nathan Jones",
+      "bout_type": "Open Weight Bout",
+      "date": "1997-10-11",
+      "elo_delta": -20.5,
+      "event_name": "Pride 1",
+      "fight_id": "1ca9b83f45fe2f82",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (keylock)",
+      "opponent": "Koji Kitao",
+      "opponent_elo": 1480.5,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Koji Kitao",
+      "round": "1",
+      "time": "2:14",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1997-10-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-10-11",
+      "fight_id": "1ca9b83f45fe2f82",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1997-10-11",
+      "fight_id": "1ca9b83f45fe2f82",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "1a5c4d7581ce6b3a",
+      "rating": 1463.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "1a5c4d7581ce6b3a",
+      "rating": 1465.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-01",
+  "name": "Nathan Jones",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "nathan-jones",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

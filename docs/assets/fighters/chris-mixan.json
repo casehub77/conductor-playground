@@ -1,0 +1,58 @@
+{
+  "current_elo": 1520.3,
+  "divisional_rank": 123,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Joey Hart",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-01-25",
+      "elo_delta": 20.3,
+      "event_name": "LFA 200: Johns vs. Douglas",
+      "fight_id": "6ee3d8e4f7fb601f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joey Hart",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Mixan",
+      "round": "1",
+      "time": "2:10",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-01-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-01-25",
+      "fight_id": "6ee3d8e4f7fb601f",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-01-25",
+      "fight_id": "6ee3d8e4f7fb601f",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-01-25",
+  "name": "Chris Mixan",
+  "nickname": "",
+  "overall_elo": 1518.1,
+  "peak_elo": 1520.3,
+  "slug": "chris-mixan",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

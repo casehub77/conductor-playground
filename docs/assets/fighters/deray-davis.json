@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 766,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "DeRay Davis",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": -19.2,
+      "event_name": "Bellator 7/8",
+      "fight_id": "f81f79ff87e1b555",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jesse Juarez",
+      "opponent_elo": 1505.1,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1500.0,
+      "red_name": "Jesse Juarez",
+      "round": "2",
+      "time": "4:47",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-05-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-15",
+      "fight_id": "f81f79ff87e1b555",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "f81f79ff87e1b555",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-15",
+  "name": "DeRay Davis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "deray-davis",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

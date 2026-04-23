@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 317,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryot Waller",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-09-24",
+      "elo_delta": 17.0,
+      "event_name": "Legacy Fighting Alliance 115: Silveira vs. Cummins",
+      "fight_id": "3c169cb7bd8d74bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Ryot Waller",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Roland Dunlap",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Obinwa Ikebunna",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-04-16",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 104: McKenzie vs. Phillips",
+      "fight_id": "5176df473730ba2b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (slam)",
+      "opponent": "Obinwa Ikebunna",
+      "opponent_elo": 1498.9,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Roland Dunlap",
+      "round": "1",
+      "time": "4:19",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-16",
+      "fight_id": "5176df473730ba2b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-04-16",
+      "fight_id": "5176df473730ba2b",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "3c169cb7bd8d74bc",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-09-24",
+      "fight_id": "3c169cb7bd8d74bc",
+      "rating": 1532.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-24",
+  "name": "Roland Dunlap",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "roland-dunlap",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

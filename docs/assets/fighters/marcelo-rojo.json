@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 844,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Francis Marshall",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-12-03",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Thompson vs. Holland",
+      "fight_id": "f2cc82a52d74f67d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Francis Marshall",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1461.7,
+      "pre_elo": 1480.0,
+      "red_name": "Marcelo Rojo",
+      "round": "2.0",
+      "time": "1:14",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Marcelo Rojo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-02-12",
+      "elo_delta": -16.5,
+      "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+      "fight_id": "6e66dd559ec16d49",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kyler Phillips",
+      "opponent_elo": 1534.8,
+      "outcome": "red_win",
+      "post_elo": 1465.7,
+      "pre_elo": 1482.2,
+      "red_name": "Kyler Phillips",
+      "round": "3.0",
+      "time": "1:48",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Marcelo Rojo",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-03-13",
+      "elo_delta": -20.0,
+      "event_name": "UFC Fight Night: Edwards vs. Muhammad",
+      "fight_id": "b05b480a82560c1a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Charles Jourdain",
+      "opponent_elo": 1489.7,
+      "outcome": "red_win",
+      "post_elo": 1480.0,
+      "pre_elo": 1500.0,
+      "red_name": "Charles Jourdain",
+      "round": "3.0",
+      "time": "4:31",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-03-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-13",
+      "fight_id": "b05b480a82560c1a",
+      "rating": 1480.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-03-13",
+      "fight_id": "b05b480a82560c1a",
+      "rating": 1482.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "6e66dd559ec16d49",
+      "rating": 1465.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "6e66dd559ec16d49",
+      "rating": 1467.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "f2cc82a52d74f67d",
+      "rating": 1461.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-12-03",
+      "fight_id": "f2cc82a52d74f67d",
+      "rating": 1451.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-12-03",
+  "name": "Marcelo Rojo",
+  "nickname": "",
+  "overall_elo": 1498.7,
+  "peak_elo": 1500.0,
+  "slug": "marcelo-rojo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

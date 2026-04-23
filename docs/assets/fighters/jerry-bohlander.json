@@ -1,0 +1,262 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 239,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "Jerry Bohlander",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-01-08",
+      "elo_delta": -23.0,
+      "event_name": "UFC 18: The Road to the Heavyweight Title",
+      "fight_id": "92f3f9e096152a9a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Tito Ortiz",
+      "opponent_elo": 1503.1,
+      "outcome": "red_win",
+      "post_elo": 1544.0,
+      "pre_elo": 1567.0,
+      "red_name": "Tito Ortiz",
+      "round": "2.0",
+      "time": "2:31",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Kevin Jackson",
+      "bout_type": "Middleweight Bout",
+      "date": "1998-03-13",
+      "elo_delta": 18.8,
+      "event_name": "UFC 16: Battle in the Bayou",
+      "fight_id": "92035527c63299fb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kevin Jackson",
+      "opponent_elo": 1536.7,
+      "outcome": "red_win",
+      "post_elo": 1567.0,
+      "pre_elo": 1548.2,
+      "red_name": "Jerry Bohlander",
+      "round": "1.0",
+      "time": "10:23",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Rainy Martinez",
+      "bout_type": "Lightweight Bout",
+      "date": "1997-02-07",
+      "elo_delta": 17.5,
+      "event_name": "UFC 12: Judgement Day",
+      "fight_id": "165caf4b3b804424",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Rainy Martinez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1552.1,
+      "pre_elo": 1534.6,
+      "red_name": "Jerry Bohlander",
+      "round": "1.0",
+      "time": "1:24",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nick Sanzo",
+      "bout_type": "Lightweight Bout",
+      "date": "1997-02-07",
+      "elo_delta": 18.5,
+      "event_name": "UFC 12: Judgement Day",
+      "fight_id": "83469cf3d9cc67a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Nick Sanzo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.6,
+      "pre_elo": 1516.0,
+      "red_name": "Jerry Bohlander",
+      "round": "1.0",
+      "time": "0:39",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Fabio Gurgel",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-09-20",
+      "elo_delta": 18.0,
+      "event_name": "UFC 11: The Proving Ground",
+      "fight_id": "234797fb03d582bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Fabio Gurgel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.1,
+      "pre_elo": 1500.1,
+      "red_name": "Jerry Bohlander",
+      "round": "1.0",
+      "time": "15:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Scott Ferrozzo",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-02-16",
+      "elo_delta": 20.6,
+      "event_name": "UFC 8: David vs Goliath",
+      "fight_id": "fadc65f682027404",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Scott Ferrozzo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1479.5,
+      "red_name": "Jerry Bohlander",
+      "round": "1.0",
+      "time": "9:03",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Jerry Bohlander",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-02-16",
+      "elo_delta": -20.5,
+      "event_name": "UFC 8: David vs Goliath",
+      "fight_id": "dfc99c270842857a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gary Goodridge",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Gary Goodridge",
+      "round": "1.0",
+      "time": "5:31",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1996-02-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1996-02-16",
+      "fight_id": "dfc99c270842857a",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-02-16",
+      "fight_id": "fadc65f682027404",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-02-16",
+      "fight_id": "dfc99c270842857a",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1996-02-16",
+      "fight_id": "fadc65f682027404",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1996-09-20",
+      "fight_id": "234797fb03d582bf",
+      "rating": 1518.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-09-20",
+      "fight_id": "234797fb03d582bf",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1997-02-07",
+      "fight_id": "83469cf3d9cc67a5",
+      "rating": 1534.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1997-02-07",
+      "fight_id": "165caf4b3b804424",
+      "rating": 1552.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1997-02-07",
+      "fight_id": "83469cf3d9cc67a5",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1997-02-07",
+      "fight_id": "165caf4b3b804424",
+      "rating": 1548.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1998-03-13",
+      "fight_id": "92035527c63299fb",
+      "rating": 1567.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1998-03-13",
+      "fight_id": "92035527c63299fb",
+      "rating": 1563.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-01-08",
+      "fight_id": "92f3f9e096152a9a",
+      "rating": 1544.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-01-08",
+      "fight_id": "92f3f9e096152a9a",
+      "rating": 1543.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-01-08",
+  "name": "Jerry Bohlander",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1567.0,
+  "slug": "jerry-bohlander",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 884,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Owen Evinger",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-10-29",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 56",
+      "fight_id": "b6523fe8ef5c8b61",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Aaron Ely",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.1,
+      "pre_elo": 1483.6,
+      "red_name": "Aaron Ely",
+      "round": "1",
+      "time": "3:45",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Owen Evinger",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-04-23",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 42",
+      "fight_id": "cea83dcea64ae442",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Brandon Shelton",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Brandon Shelton",
+      "round": "1",
+      "time": "2:35",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-04-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-04-23",
+      "fight_id": "cea83dcea64ae442",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-04-23",
+      "fight_id": "cea83dcea64ae442",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "b6523fe8ef5c8b61",
+      "rating": 1465.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "b6523fe8ef5c8b61",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-29",
+  "name": "Owen Evinger",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "owen-evinger",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

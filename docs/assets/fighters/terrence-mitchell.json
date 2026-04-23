@@ -1,0 +1,92 @@
+{
+  "current_elo": 1491.5,
+  "divisional_rank": 951,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Terrence Mitchell",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-09-16",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "fight_id": "de591df08cb1dedb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Raul Rosas Jr.",
+      "opponent_elo": 1498.8,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1482.6,
+      "red_name": "Raul Rosas Jr.",
+      "round": "1.0",
+      "time": "0:54",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Terrence Mitchell",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-07-08",
+      "elo_delta": -17.4,
+      "event_name": "UFC 290: Volkanovski vs. Rodriguez",
+      "fight_id": "f16155c78a3e4839",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cameron Saaiman",
+      "opponent_elo": 1537.2,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Cameron Saaiman",
+      "round": "1.0",
+      "time": "3:10",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-07-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-08",
+      "fight_id": "f16155c78a3e4839",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-07-08",
+      "fight_id": "f16155c78a3e4839",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "de591df08cb1dedb",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "de591df08cb1dedb",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-16",
+  "name": "Terrence Mitchell",
+  "nickname": "",
+  "overall_elo": 1495.2,
+  "peak_elo": 1500.0,
+  "slug": "terrence-mitchell",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

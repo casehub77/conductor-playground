@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 596,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Patrick Williams",
+      "bout_type": "Bantamweight Bout",
+      "date": "2018-04-14",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Poirier vs. Gaethje",
+      "fight_id": "d90bf44f2656be86",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Luke Sanders",
+      "opponent_elo": 1479.6,
+      "outcome": "red_win",
+      "post_elo": 1464.4,
+      "pre_elo": 1482.5,
+      "red_name": "Luke Sanders",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tom Duquesnoy",
+      "bout_type": "Bantamweight Bout",
+      "date": "2017-04-15",
+      "elo_delta": -19.6,
+      "event_name": "UFC on FOX: Johnson vs. Reis",
+      "fight_id": "13644480581a0009",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tom Duquesnoy",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1502.1,
+      "red_name": "Patrick Williams",
+      "round": "2.0",
+      "time": "0:28",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Patrick Williams",
+      "bout_type": "Bantamweight Bout",
+      "date": "2015-06-13",
+      "elo_delta": 21.5,
+      "event_name": "UFC 188: Velasquez vs Werdum",
+      "fight_id": "3991fc52a9280d76",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Alejandro Perez",
+      "opponent_elo": 1518.0,
+      "outcome": "blue_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1480.6,
+      "red_name": "Alejandro Perez",
+      "round": "1.0",
+      "time": "0:23",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Patrick Williams",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-04-26",
+      "elo_delta": -19.4,
+      "event_name": "UFC 172: Jones vs Teixeira",
+      "fight_id": "19cd4ef2057a632c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Chris Beal",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Beal",
+      "round": "2.0",
+      "time": "1:51",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2014-04-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-04-26",
+      "fight_id": "19cd4ef2057a632c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-04-26",
+      "fight_id": "19cd4ef2057a632c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-06-13",
+      "fight_id": "3991fc52a9280d76",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2015-06-13",
+      "fight_id": "3991fc52a9280d76",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-04-15",
+      "fight_id": "13644480581a0009",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-04-15",
+      "fight_id": "13644480581a0009",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "d90bf44f2656be86",
+      "rating": 1464.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "d90bf44f2656be86",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-04-14",
+  "name": "Patrick Williams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.1,
+  "slug": "patrick-williams",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

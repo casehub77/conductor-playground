@@ -1,0 +1,92 @@
+{
+  "current_elo": 1537.8,
+  "divisional_rank": 86,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Abdurakhmon Fazilov",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": 18.4,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "2627ea65f5a8c103",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Abdurakhmon Fazilov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Farman Hasanov",
+      "round": "1",
+      "time": "4:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Marc-Ari Lewis",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-06-20",
+      "elo_delta": 19.4,
+      "event_name": "LFA 211: Mesquita vs. Dinwoodie",
+      "fight_id": "047a74db34c62f0a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Marc-Ari Lewis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Farman Hasanov",
+      "round": "2",
+      "time": "3:28",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-06-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-06-20",
+      "fight_id": "047a74db34c62f0a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "047a74db34c62f0a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "2627ea65f5a8c103",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "2627ea65f5a8c103",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Farman Hasanov",
+  "nickname": "",
+  "overall_elo": 1533.7,
+  "peak_elo": 1537.8,
+  "slug": "farman-hasanov",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

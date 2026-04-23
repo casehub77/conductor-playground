@@ -1,0 +1,92 @@
+{
+  "current_elo": 1467.9,
+  "divisional_rank": 1204,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brendon Marotte",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-07",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Burns vs. Brady",
+      "fight_id": "745f794eac1de1e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Isaac Dulgarian",
+      "opponent_elo": 1499.6,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1483.5,
+      "red_name": "Isaac Dulgarian",
+      "round": "2.0",
+      "time": "4:19",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Brendon Marotte",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-10-14",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Yusuff vs. Barboza",
+      "fight_id": "cc6f078f6ba5db98",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Terrance Mckinney",
+      "opponent_elo": 1516.6,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Terrance Mckinney",
+      "round": "1.0",
+      "time": "0:20",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-14",
+      "fight_id": "cc6f078f6ba5db98",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-10-14",
+      "fight_id": "cc6f078f6ba5db98",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "745f794eac1de1e3",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-07",
+      "fight_id": "745f794eac1de1e3",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-09-07",
+  "name": "Brendon Marotte",
+  "nickname": "",
+  "overall_elo": 1470.1,
+  "peak_elo": 1500.0,
+  "slug": "brendon-marotte",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 646,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Dante Schiro",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-02-04",
+      "elo_delta": 19.7,
+      "event_name": "Bellator 290: Bader vs. Fedor 2",
+      "fight_id": "0d4959dbe9c57927",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Dante Schiro",
+      "opponent_elo": 1502.4,
+      "outcome": "red_win",
+      "post_elo": 1488.4,
+      "pre_elo": 1468.7,
+      "red_name": "Neiman Gracie",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Neiman Gracie",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-08-12",
+      "elo_delta": -17.5,
+      "event_name": "Bellator 284: Gracie vs. Yamauchi",
+      "fight_id": "8d2839b83e92f2f0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Goiti Yamauchi",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1468.7,
+      "pre_elo": 1486.2,
+      "red_name": "Goiti Yamauchi",
+      "round": "2",
+      "time": "3:58",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Neiman Gracie",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": -17.2,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "c08cafed2d417d16",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (48–47, 50–45, 49–46)",
+      "opponent": "Logan Storley",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1486.2,
+      "pre_elo": 1503.5,
+      "red_name": "Logan Storley",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mark Lemminger",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": 21.5,
+      "event_name": "Bellator 266: Davis vs. Romero",
+      "fight_id": "d8b676ff16bd84c8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "Mark Lemminger",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1503.5,
+      "pre_elo": 1482.0,
+      "red_name": "Neiman Gracie",
+      "round": "1",
+      "time": "1:27",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Neiman Gracie",
+      "bout_type": "Welterweight Bout",
+      "date": "2021-04-02",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 255: Pitbull vs. Sanchez 2",
+      "fight_id": "d5f2eac4490c0a36",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Jason Jackson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jason Jackson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2021-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-02",
+      "fight_id": "d5f2eac4490c0a36",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-04-02",
+      "fight_id": "d5f2eac4490c0a36",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "d8b676ff16bd84c8",
+      "rating": 1503.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "d8b676ff16bd84c8",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "c08cafed2d417d16",
+      "rating": 1486.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "c08cafed2d417d16",
+      "rating": 1487.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "8d2839b83e92f2f0",
+      "rating": 1468.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-08-12",
+      "fight_id": "8d2839b83e92f2f0",
+      "rating": 1471.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "0d4959dbe9c57927",
+      "rating": 1488.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "0d4959dbe9c57927",
+      "rating": 1489.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-04",
+  "name": "Neiman Gracie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.5,
+  "slug": "neiman-gracie",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

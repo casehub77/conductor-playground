@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 541,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tony Johnson",
+      "bout_type": "Middleweight Bout",
+      "date": "2023-03-10",
+      "elo_delta": -15.9,
+      "event_name": "Bellator 292: Nurmagomedov vs. Henderson",
+      "fight_id": "efe0296522ab5281",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Khalid Murtazaliev",
+      "opponent_elo": 1538.0,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1497.2,
+      "red_name": "Khalid Murtazaliev",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tony Johnson",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-04-09",
+      "elo_delta": -18.8,
+      "event_name": "Bellator 256: Bader vs. Machida 2",
+      "fight_id": "aad007311a538d2b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Dalton Rosta",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1516.0,
+      "red_name": "Dalton Rosta",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Derrick Lewis",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-06-25",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 46",
+      "fight_id": "a2702b047cf4f1c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29–28, 29–28, 29–28)",
+      "opponent": "Derrick Lewis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Tony Johnson",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-06-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-06-25",
+      "fight_id": "a2702b047cf4f1c9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-06-25",
+      "fight_id": "a2702b047cf4f1c9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "aad007311a538d2b",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "aad007311a538d2b",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "efe0296522ab5281",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2023-03-10",
+      "fight_id": "efe0296522ab5281",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-10",
+  "name": "Tony Johnson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "tony-johnson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

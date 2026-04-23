@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 887,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Dusko Todorovic",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-10-03",
+      "elo_delta": -17.4,
+      "event_name": "UFC Fight Night: Holm vs. Aldana",
+      "fight_id": "a119a81762e9a954",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dusko Todorovic",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1446.3,
+      "pre_elo": 1463.7,
+      "red_name": "Dequan Townsend",
+      "round": "2.0",
+      "time": "3:15",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Dequan Townsend",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-02-15",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Anderson vs. Blachowicz",
+      "fight_id": "d0010142f3e7bc85",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Devin Clark",
+      "opponent_elo": 1498.4,
+      "outcome": "red_win",
+      "post_elo": 1463.5,
+      "pre_elo": 1480.6,
+      "red_name": "Devin Clark",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Dequan Townsend",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-01-25",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Blaydes vs. Dos Santos",
+      "fight_id": "e830ccdcb1d12fff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bevon Lewis",
+      "opponent_elo": 1463.4,
+      "outcome": "red_win",
+      "post_elo": 1463.7,
+      "pre_elo": 1482.7,
+      "red_name": "Bevon Lewis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Dequan Townsend",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-06-29",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Ngannou vs. Dos Santos",
+      "fight_id": "a710fe66e4a08acc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dalcha Lungiambula",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Dalcha Lungiambula",
+      "round": "3.0",
+      "time": "0:42",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-06-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-29",
+      "fight_id": "a710fe66e4a08acc",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-06-29",
+      "fight_id": "a710fe66e4a08acc",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-01-25",
+      "fight_id": "e830ccdcb1d12fff",
+      "rating": 1463.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-01-25",
+      "fight_id": "e830ccdcb1d12fff",
+      "rating": 1466.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-02-15",
+      "fight_id": "d0010142f3e7bc85",
+      "rating": 1463.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-02-15",
+      "fight_id": "d0010142f3e7bc85",
+      "rating": 1451.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "a119a81762e9a954",
+      "rating": 1446.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-10-03",
+      "fight_id": "a119a81762e9a954",
+      "rating": 1436.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2020-10-03",
+  "name": "Dequan Townsend",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "dequan-townsend",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

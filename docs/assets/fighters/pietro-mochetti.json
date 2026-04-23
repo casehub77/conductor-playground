@@ -1,0 +1,126 @@
+{
+  "current_elo": 1550.9,
+  "divisional_rank": 74,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Sam Kelly",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-03-14",
+      "elo_delta": 15.4,
+      "event_name": "Cage Warriors 202: Manchester",
+      "fight_id": "24c57ee7d46de1db",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Sam Kelly",
+      "opponent_elo": 1485.0,
+      "outcome": "red_win",
+      "post_elo": 1550.9,
+      "pre_elo": 1535.5,
+      "red_name": "Pietro Mochetti",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Dimitrios Tzeiranidis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-05-31",
+      "elo_delta": 18.5,
+      "event_name": "Cage Warriors 189: Rome",
+      "fight_id": "391803cd2ec2bb15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Von Flue choke)",
+      "opponent": "Dimitrios Tzeiranidis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.5,
+      "pre_elo": 1517.0,
+      "red_name": "Pietro Mochetti",
+      "round": "1",
+      "time": "0:47",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Yohan Salvador",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "de3052379861588c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Yohan Salvador",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Pietro Mochetti",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-03-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-08",
+      "fight_id": "de3052379861588c",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "de3052379861588c",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "391803cd2ec2bb15",
+      "rating": 1535.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "391803cd2ec2bb15",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "24c57ee7d46de1db",
+      "rating": 1550.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-03-14",
+      "fight_id": "24c57ee7d46de1db",
+      "rating": 1545.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-14",
+  "name": "Pietro Mochetti",
+  "nickname": "",
+  "overall_elo": 1545.6,
+  "peak_elo": 1550.9,
+  "slug": "pietro-mochetti",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

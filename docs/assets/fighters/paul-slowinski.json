@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 561,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paul Slowinski",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2014-03-22",
+      "elo_delta": -18.4,
+      "event_name": "KSW 26: Materla vs. Silva 3",
+      "fight_id": "8480e4f524907b0a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Michał Andryszak",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Michał Andryszak",
+      "round": "1",
+      "time": "1:06",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Paul Slowinski",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2013-09-28",
+      "elo_delta": -19.4,
+      "event_name": "KSW 24: Clash of the Giants",
+      "fight_id": "f97ef75a4679d55c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-naked Choke)",
+      "opponent": "Marcin Rozalski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Marcin Rozalski",
+      "round": "1",
+      "time": "4:32",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2013-09-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-09-28",
+      "fight_id": "f97ef75a4679d55c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2013-09-28",
+      "fight_id": "f97ef75a4679d55c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-03-22",
+      "fight_id": "8480e4f524907b0a",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-03-22",
+      "fight_id": "8480e4f524907b0a",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-03-22",
+  "name": "Paul Slowinski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "paul-slowinski",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

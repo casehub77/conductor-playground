@@ -1,0 +1,92 @@
+{
+  "current_elo": 1505.5,
+  "divisional_rank": 261,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryuya Fukuda",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2026-04-12",
+      "elo_delta": 23.5,
+      "event_name": "Rizin Landmark 13 in Fukuoka",
+      "fight_id": "b19f3764cd95b0a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Ryuya Fukuda",
+      "opponent_elo": 1556.4,
+      "outcome": "red_win",
+      "post_elo": 1505.5,
+      "pre_elo": 1482.0,
+      "red_name": "Azizbek Temirov",
+      "round": "2",
+      "time": "1:40",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Azizbek Temirov",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-03-06",
+      "elo_delta": -18.0,
+      "event_name": "LFA 203: Satybaldiev vs. Soares",
+      "fight_id": "8f304ecb51219a81",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Daniel Araújo Figueiredo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Araújo Figueiredo",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-03-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-06",
+      "fight_id": "8f304ecb51219a81",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-03-06",
+      "fight_id": "8f304ecb51219a81",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-12",
+      "fight_id": "b19f3764cd95b0a1",
+      "rating": 1505.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-12",
+      "fight_id": "b19f3764cd95b0a1",
+      "rating": 1504.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-12",
+  "name": "Azizbek Temirov",
+  "nickname": "",
+  "overall_elo": 1504.7,
+  "peak_elo": 1505.5,
+  "slug": "azizbek-temirov",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 558,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Oli Thompson",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2019-11-09",
+      "elo_delta": -17.9,
+      "event_name": "KSW 51: Croatia",
+      "fight_id": "7a9907be03ff795e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Ante Delija",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1472.6,
+      "pre_elo": 1490.5,
+      "red_name": "Ante Delija",
+      "round": "2",
+      "time": "1:58",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Michał Włodarek",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2015-10-31",
+      "elo_delta": 22.3,
+      "event_name": "KSW 32: Road to Wembley",
+      "fight_id": "78a11a51640fed1e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Disqualification (Illegal Knee)",
+      "opponent": "Michał Włodarek",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1490.5,
+      "pre_elo": 1468.2,
+      "red_name": "Oli Thompson",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Oli Thompson",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2014-05-17",
+      "elo_delta": -17.2,
+      "event_name": "KSW 27: Cage Time",
+      "fight_id": "049fa39a9c9732a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Mariusz Pudzianowski",
+      "opponent_elo": 1500.6,
+      "outcome": "red_win",
+      "post_elo": 1468.2,
+      "pre_elo": 1485.4,
+      "red_name": "Mariusz Pudzianowski",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Kamil Walus",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2013-12-07",
+      "elo_delta": 21.4,
+      "event_name": "KSW 25: Khalidov vs. Sakurai 2",
+      "fight_id": "dd3515db37a0af00",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Kamil Walus",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1485.4,
+      "pre_elo": 1464.0,
+      "red_name": "Oli Thompson",
+      "round": "2",
+      "time": "1:24",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Oli Thompson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2012-08-04",
+      "elo_delta": -18.5,
+      "event_name": "UFC on FOX: Shogun vs Vera",
+      "fight_id": "1dfeca19169acded",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Philip De Fries",
+      "opponent_elo": 1498.8,
+      "outcome": "red_win",
+      "post_elo": 1464.0,
+      "pre_elo": 1482.5,
+      "red_name": "Philip De Fries",
+      "round": "2.0",
+      "time": "4:16",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Shawn Jordan",
+      "bout_type": "Heavyweight Bout",
+      "date": "2012-03-02",
+      "elo_delta": -17.5,
+      "event_name": "UFC on FX: Alves vs Kampmann",
+      "fight_id": "d8c2cc23ec87870e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Shawn Jordan",
+      "opponent_elo": 1534.8,
+      "outcome": "blue_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1500.0,
+      "red_name": "Oli Thompson",
+      "round": "2.0",
+      "time": "3:53",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2012-03-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-03-02",
+      "fight_id": "d8c2cc23ec87870e",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2012-03-02",
+      "fight_id": "d8c2cc23ec87870e",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-04",
+      "fight_id": "1dfeca19169acded",
+      "rating": 1464.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2012-08-04",
+      "fight_id": "1dfeca19169acded",
+      "rating": 1467.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-12-07",
+      "fight_id": "dd3515db37a0af00",
+      "rating": 1485.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2013-12-07",
+      "fight_id": "dd3515db37a0af00",
+      "rating": 1486.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-05-17",
+      "fight_id": "049fa39a9c9732a7",
+      "rating": 1468.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-05-17",
+      "fight_id": "049fa39a9c9732a7",
+      "rating": 1471.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-10-31",
+      "fight_id": "78a11a51640fed1e",
+      "rating": 1490.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-10-31",
+      "fight_id": "78a11a51640fed1e",
+      "rating": 1490.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "7a9907be03ff795e",
+      "rating": 1472.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "7a9907be03ff795e",
+      "rating": 1474.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-11-09",
+  "name": "Oli Thompson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "oli-thompson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

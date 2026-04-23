@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 707,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Richard Godoy",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-05-26",
+      "elo_delta": -19.3,
+      "event_name": "ONE Friday Fights 18: Harrison vs. Pongsiri",
+      "fight_id": "e78be19f8692f4c5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and elbow)",
+      "opponent": "Ali Kabdulla",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1518.0,
+      "red_name": "Ali Kabdulla",
+      "round": "3",
+      "time": "1:38",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alexy Lyapunov",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-01-20",
+      "elo_delta": 18.0,
+      "event_name": "ONE Friday Fights: Nong-O vs. Ramazanov",
+      "fight_id": "8a3813ad69db1df4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Alexy Lyapunov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Richard Godoy",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-01-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-20",
+      "fight_id": "8a3813ad69db1df4",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-01-20",
+      "fight_id": "8a3813ad69db1df4",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-26",
+      "fight_id": "e78be19f8692f4c5",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-05-26",
+      "fight_id": "e78be19f8692f4c5",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-26",
+  "name": "Richard Godoy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "richard-godoy",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

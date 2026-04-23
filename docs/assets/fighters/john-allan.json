@@ -1,0 +1,160 @@
+{
+  "current_elo": 1451.4,
+  "divisional_rank": 696,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "John Allan",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-04-26",
+      "elo_delta": -15.5,
+      "event_name": "Cage Warriors 188: Dublin",
+      "fight_id": "d8e8e2f9b9f482bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows and punches)",
+      "opponent": "James Webb",
+      "opponent_elo": 1537.5,
+      "outcome": "red_win",
+      "post_elo": 1451.4,
+      "pre_elo": 1467.0,
+      "red_name": "James Webb",
+      "round": "2",
+      "time": "3:22",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "John Allan",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-11-06",
+      "elo_delta": -15.9,
+      "event_name": "UFC 268: Usman vs. Covington 2",
+      "fight_id": "23fe858b706a7e92",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dustin Jacoby",
+      "opponent_elo": 1522.9,
+      "outcome": "red_win",
+      "post_elo": 1467.0,
+      "pre_elo": 1482.9,
+      "red_name": "Dustin Jacoby",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "John Allan",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2020-12-05",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Hermansson vs. Vettori",
+      "fight_id": "bf0f9f895bc6dd3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Roman Dolidze",
+      "opponent_elo": 1517.4,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Dolidze",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "John Allan",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2019-07-13",
+      "elo_delta": 0.0,
+      "event_name": "UFC Fight Night: De Randamie vs. Ladd",
+      "fight_id": "762c03077081a832",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Mike Rodriguez",
+      "opponent_elo": 1502.3,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Rodriguez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-07-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-07-13",
+      "fight_id": "762c03077081a832",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-07-13",
+      "fight_id": "762c03077081a832",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-12-05",
+      "fight_id": "bf0f9f895bc6dd3a",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2020-12-05",
+      "fight_id": "bf0f9f895bc6dd3a",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "23fe858b706a7e92",
+      "rating": 1467.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-11-06",
+      "fight_id": "23fe858b706a7e92",
+      "rating": 1470.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "d8e8e2f9b9f482bf",
+      "rating": 1451.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-04-26",
+      "fight_id": "d8e8e2f9b9f482bf",
+      "rating": 1456.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-26",
+  "name": "John Allan",
+  "nickname": "",
+  "overall_elo": 1456.1,
+  "peak_elo": 1500.0,
+  "slug": "john-allan",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

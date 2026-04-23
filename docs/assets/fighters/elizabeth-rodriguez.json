@@ -1,0 +1,92 @@
+{
+  "current_elo": 1499.8,
+  "divisional_rank": 201,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Elizabeth Rodríguez",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-04-18",
+      "elo_delta": -19.1,
+      "event_name": "LFA 207: Lewis vs. Miranda",
+      "fight_id": "1d4055d80e5dc772",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Cheyanne Bowers",
+      "opponent_elo": 1525.1,
+      "outcome": "red_win",
+      "post_elo": 1499.8,
+      "pre_elo": 1518.9,
+      "red_name": "Cheyanne Bowers",
+      "round": "1",
+      "time": "4:41",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Mariana Poltronieri Piccolo",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-12-06",
+      "elo_delta": 18.9,
+      "event_name": "LFA 198: Miranda vs. Oyarzún",
+      "fight_id": "b8b06260dbd180dc",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Mariana Poltronieri Piccolo",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1518.9,
+      "pre_elo": 1500.0,
+      "red_name": "Elizabeth Rodríguez",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-12-06",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-12-06",
+      "fight_id": "b8b06260dbd180dc",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-12-06",
+      "fight_id": "b8b06260dbd180dc",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-04-18",
+      "fight_id": "1d4055d80e5dc772",
+      "rating": 1499.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-04-18",
+      "fight_id": "1d4055d80e5dc772",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-18",
+  "name": "Elizabeth Rodríguez",
+  "nickname": "",
+  "overall_elo": 1499.6,
+  "peak_elo": 1518.9,
+  "slug": "elizabeth-rodriguez",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

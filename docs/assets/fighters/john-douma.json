@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 511,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Will Smith",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-04-09",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 256: Bader vs. Machida 2",
+      "fight_id": "06b6b9efaf0eee72",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Will Smith",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "John Douma",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-09",
+      "fight_id": "06b6b9efaf0eee72",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-04-09",
+      "fight_id": "06b6b9efaf0eee72",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-04-09",
+  "name": "John Douma",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "john-douma",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 458,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Hoon Kim",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2019-07-28",
+      "elo_delta": -19.4,
+      "event_name": "Rizin 17 - Saitama",
+      "fight_id": "f0cf058500fbfecc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Ivan Shtyrkov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ivan Shtyrkov",
+      "round": "2",
+      "time": "9:05",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-07-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-07-28",
+      "fight_id": "f0cf058500fbfecc",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-07-28",
+      "fight_id": "f0cf058500fbfecc",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-07-28",
+  "name": "Hoon Kim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "hoon-kim",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

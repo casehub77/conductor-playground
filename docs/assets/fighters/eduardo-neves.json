@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 211,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "André Vieira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-03-11",
+      "elo_delta": 18.4,
+      "event_name": "Legacy Fighting Alliance 126: Bilharinho vs. Delano",
+      "fight_id": "9b07694f272278e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "André Vieira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Eduardo Neves",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Eduardo Silva",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 111: De Sa vs. Bonfim",
+      "fight_id": "cf7963ed36bd1855",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Eduardo Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Eduardo Neves",
+      "round": "1",
+      "time": "0:57",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "cf7963ed36bd1855",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "cf7963ed36bd1855",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "9b07694f272278e1",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "9b07694f272278e1",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-03-11",
+  "name": "Eduardo Neves",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "eduardo-neves",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

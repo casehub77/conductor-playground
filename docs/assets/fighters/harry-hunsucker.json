@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 624,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Harry Hunsucker",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-08-20",
+      "elo_delta": -16.5,
+      "event_name": "UFC 278: Usman vs. Edwards",
+      "fight_id": "fd71ca621f796059",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tyson Pedro",
+      "opponent_elo": 1518.6,
+      "outcome": "red_win",
+      "post_elo": 1449.2,
+      "pre_elo": 1465.7,
+      "red_name": "Tyson Pedro",
+      "round": "1.0",
+      "time": "1:05",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Harry Hunsucker",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-12-18",
+      "elo_delta": -20.4,
+      "event_name": "UFC Fight Night: Lewis vs. Daukaus",
+      "fight_id": "94005f657acfa9b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Justin Tafa",
+      "opponent_elo": 1463.9,
+      "outcome": "red_win",
+      "post_elo": 1461.4,
+      "pre_elo": 1481.8,
+      "red_name": "Justin Tafa",
+      "round": "1.0",
+      "time": "1:53",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Harry Hunsucker",
+      "bout_type": "Heavyweight Bout",
+      "date": "2021-03-20",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Brunson vs. Holland",
+      "fight_id": "961239c8253208fd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tai Tuivasa",
+      "opponent_elo": 1522.8,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Tai Tuivasa",
+      "round": "1.0",
+      "time": "0:49",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-03-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-20",
+      "fight_id": "961239c8253208fd",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-03-20",
+      "fight_id": "961239c8253208fd",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "94005f657acfa9b3",
+      "rating": 1461.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2021-12-18",
+      "fight_id": "94005f657acfa9b3",
+      "rating": 1465.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "fd71ca621f796059",
+      "rating": 1449.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "fd71ca621f796059",
+      "rating": 1450.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-20",
+  "name": "Harry Hunsucker",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "harry-hunsucker",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

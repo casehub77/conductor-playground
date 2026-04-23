@@ -1,0 +1,126 @@
+{
+  "current_elo": 1497.5,
+  "divisional_rank": 529,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Florian Doskja",
+      "bout_type": "Catchweight (130 lb) Bout",
+      "date": "2025-06-28",
+      "elo_delta": 0.0,
+      "event_name": "Cage Warriors 191: Manchester",
+      "fight_id": "c2a126a2055407ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental knee to groin)",
+      "opponent": "Connor Wilson",
+      "opponent_elo": 1534.2,
+      "outcome": "no_contest",
+      "post_elo": 1497.5,
+      "pre_elo": 1497.5,
+      "red_name": "Connor Wilson",
+      "round": "1",
+      "time": "2:27",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Florian Doskja",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-03-08",
+      "elo_delta": -19.6,
+      "event_name": "Cage Warriors 183: Rome",
+      "fight_id": "b2320d06fb56bc52",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Davide Scarano",
+      "opponent_elo": 1486.3,
+      "outcome": "red_win",
+      "post_elo": 1497.5,
+      "pre_elo": 1517.1,
+      "red_name": "Davide Scarano",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Christian Tebbett",
+      "bout_type": "Flyweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": 17.1,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "15878568e2070c3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Christian Tebbett",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Florian Doskja",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-07-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-07-25",
+      "fight_id": "15878568e2070c3c",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "15878568e2070c3c",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "b2320d06fb56bc52",
+      "rating": 1497.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-03-08",
+      "fight_id": "b2320d06fb56bc52",
+      "rating": 1498.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "c2a126a2055407ed",
+      "rating": 1497.5,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-06-28",
+      "fight_id": "c2a126a2055407ed",
+      "rating": 1498.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-28",
+  "name": "Florian Doskja",
+  "nickname": "",
+  "overall_elo": 1498.0,
+  "peak_elo": 1517.1,
+  "slug": "florian-doskja",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1511.9,
+  "divisional_rank": 92,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Marcus Buchecha",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-12-13",
+      "elo_delta": 0.9,
+      "event_name": "UFC Fight Night: Royval vs. Kape",
+      "fight_id": "61d0204c520dde3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kennedy Nzechukwu",
+      "opponent_elo": 1527.8,
+      "outcome": "draw",
+      "post_elo": 1511.9,
+      "pre_elo": 1511.1,
+      "red_name": "Kennedy Nzechukwu",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Marcus Buchecha",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -15.5,
+      "event_name": "UFC Fight Night: Whittaker vs. De Ridder",
+      "fight_id": "c783025122dc8f66",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Martin Buday",
+      "opponent_elo": 1574.9,
+      "outcome": "red_win",
+      "post_elo": 1511.1,
+      "pre_elo": 1526.6,
+      "red_name": "Martin Buday",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Amir Aliakbari",
+      "bout_type": "Heavyweight Bout",
+      "date": "2024-11-09",
+      "elo_delta": 26.6,
+      "event_name": "ONE 169: Malykhin vs. Reug Reug",
+      "fight_id": "76980d8aeec87d53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Amir Aliakbari",
+      "opponent_elo": 1633.8,
+      "outcome": "red_win",
+      "post_elo": 1526.6,
+      "pre_elo": 1500.0,
+      "red_name": "Marcus Buchecha",
+      "round": "1",
+      "time": "3:15",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2024-11-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-09",
+      "fight_id": "76980d8aeec87d53",
+      "rating": 1526.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "76980d8aeec87d53",
+      "rating": 1523.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "c783025122dc8f66",
+      "rating": 1511.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "c783025122dc8f66",
+      "rating": 1509.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-13",
+      "fight_id": "61d0204c520dde3f",
+      "rating": 1511.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-12-13",
+      "fight_id": "61d0204c520dde3f",
+      "rating": 1510.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-13",
+  "name": "Marcus Buchecha",
+  "nickname": "",
+  "overall_elo": 1510.1,
+  "peak_elo": 1526.6,
+  "slug": "marcus-buchecha",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

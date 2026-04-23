@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 447,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ira Lukowsky",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": -17.5,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "6cc9a62cf2c3dd52",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Mitchell McKee",
+      "opponent_elo": 1555.1,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1519.4,
+      "red_name": "Mitchell McKee",
+      "round": "2",
+      "time": "0:21",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Alex Macias",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-08-27",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 114: Souza vs. Garcia",
+      "fight_id": "e008daf4df09c2f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Alex Macias",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ira Lukowsky",
+      "round": "1",
+      "time": "2:32",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-08-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-27",
+      "fight_id": "e008daf4df09c2f1",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-08-27",
+      "fight_id": "e008daf4df09c2f1",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "6cc9a62cf2c3dd52",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "6cc9a62cf2c3dd52",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Ira Lukowsky",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "ira-lukowsky",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

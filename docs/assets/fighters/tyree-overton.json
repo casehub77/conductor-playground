@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.4,
+  "divisional_rank": 75,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Pedro Trujillo",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-01-16",
+      "elo_delta": 17.0,
+      "event_name": "LFA 224: Adams vs. Bilalov",
+      "fight_id": "a3025a6ad941aab2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Pedro Trujillo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Tyree Overton",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Eli Pokorny",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-09-12",
+      "elo_delta": 19.4,
+      "event_name": "LFA 217: McKee vs. Nobre",
+      "fight_id": "41d1d326d024f324",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Eli Pokorny",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tyree Overton",
+      "round": "2",
+      "time": "0:29",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-09-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-12",
+      "fight_id": "41d1d326d024f324",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-09-12",
+      "fight_id": "41d1d326d024f324",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "a3025a6ad941aab2",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-01-16",
+      "fight_id": "a3025a6ad941aab2",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-16",
+  "name": "Tyree Overton",
+  "nickname": "",
+  "overall_elo": 1532.5,
+  "peak_elo": 1536.4,
+  "slug": "tyree-overton",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1480.9,
+  "divisional_rank": 1160,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ammari Diedrick",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2024-11-09",
+      "elo_delta": -20.7,
+      "event_name": "Oktagon 63: Buchinger vs. Nafuka",
+      "fight_id": "f15f9e6c8b0d9ba0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Robert Pukač",
+      "opponent_elo": 1449.4,
+      "outcome": "red_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1501.6,
+      "red_name": "Robert Pukač",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Daniel Hromek",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-04-20",
+      "elo_delta": 21.6,
+      "event_name": "Oktagon 56: Aby vs. Creasey",
+      "fight_id": "fadd472cb22a3276",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Daniel Hromek",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1501.6,
+      "pre_elo": 1480.1,
+      "red_name": "Ammari Diedrick",
+      "round": "1",
+      "time": "4:56",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ammari Diedrick",
+      "bout_type": "Welterweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": -19.9,
+      "event_name": "Oktagon 50: Keita vs. Samsonidse",
+      "fight_id": "d03a54f2753f9011",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Máté Kertész",
+      "opponent_elo": 1462.5,
+      "outcome": "red_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Máté Kertész",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2023-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-12-09",
+      "fight_id": "d03a54f2753f9011",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "d03a54f2753f9011",
+      "rating": 1482.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "fadd472cb22a3276",
+      "rating": 1501.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-04-20",
+      "fight_id": "fadd472cb22a3276",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "f15f9e6c8b0d9ba0",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-09",
+      "fight_id": "f15f9e6c8b0d9ba0",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-09",
+  "name": "Ammari Diedrick",
+  "nickname": "",
+  "overall_elo": 1483.2,
+  "peak_elo": 1501.6,
+  "slug": "ammari-diedrick",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

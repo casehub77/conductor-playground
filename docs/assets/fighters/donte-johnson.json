@@ -1,0 +1,92 @@
+{
+  "current_elo": 1536.1,
+  "divisional_rank": 78,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Cody Brundage",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-03-07",
+      "elo_delta": 17.1,
+      "event_name": "UFC 326: Holloway vs. Oliveira 2",
+      "fight_id": "27bb14e45d722738",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Cody Brundage",
+      "opponent_elo": 1501.4,
+      "outcome": "red_win",
+      "post_elo": 1536.1,
+      "pre_elo": 1519.1,
+      "red_name": "Donte Johnson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Sedriques Dumas",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-11-01",
+      "elo_delta": 19.1,
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "fight_id": "7e91300163f648a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Sedriques Dumas",
+      "opponent_elo": 1493.3,
+      "outcome": "red_win",
+      "post_elo": 1519.1,
+      "pre_elo": 1500.0,
+      "red_name": "Donte Johnson",
+      "round": "2.0",
+      "time": "1:25",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-11-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-01",
+      "fight_id": "7e91300163f648a5",
+      "rating": 1519.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-11-01",
+      "fight_id": "7e91300163f648a5",
+      "rating": 1517.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "27bb14e45d722738",
+      "rating": 1536.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "27bb14e45d722738",
+      "rating": 1531.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Donte Johnson",
+  "nickname": "",
+  "overall_elo": 1531.5,
+  "peak_elo": 1536.1,
+  "slug": "donte-johnson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

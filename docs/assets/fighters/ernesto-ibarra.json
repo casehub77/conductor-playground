@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.3,
+  "divisional_rank": 211,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ernesto Ibarra",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-04-17",
+      "elo_delta": -20.0,
+      "event_name": "LFA 231: Lozej vs. Ibarra",
+      "fight_id": "66496d03bb9b4c14",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Devon Lozej",
+      "opponent_elo": 1510.0,
+      "outcome": "red_win",
+      "post_elo": 1500.3,
+      "pre_elo": 1520.3,
+      "red_name": "Devon Lozej",
+      "round": "2",
+      "time": "1:46",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Kyle Estrada",
+      "bout_type": "Flyweight Bout",
+      "date": "2025-10-25",
+      "elo_delta": 20.3,
+      "event_name": "LFA 220: Tanner vs. Cyr",
+      "fight_id": "349e1558f1d326f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Kyle Estrada",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1500.0,
+      "red_name": "Ernesto Ibarra",
+      "round": "1",
+      "time": "4:02",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2025-10-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-25",
+      "fight_id": "349e1558f1d326f2",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2025-10-25",
+      "fight_id": "349e1558f1d326f2",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "66496d03bb9b4c14",
+      "rating": 1500.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-04-17",
+      "fight_id": "66496d03bb9b4c14",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-17",
+  "name": "Ernesto Ibarra",
+  "nickname": "",
+  "overall_elo": 1501.2,
+  "peak_elo": 1520.3,
+  "slug": "ernesto-ibarra",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 241,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Tabera",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2010-09-18",
+      "elo_delta": -14.4,
+      "event_name": "KSW 14: Judgment Day",
+      "fight_id": "a6871f5d4a63dcc8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Corner Stoppage)",
+      "opponent": "Jan Błachowicz",
+      "opponent_elo": 1612.9,
+      "outcome": "red_win",
+      "post_elo": 1506.6,
+      "pre_elo": 1521.0,
+      "red_name": "Jan Błachowicz",
+      "round": "2",
+      "time": "Light Heavyweight Tournament Final",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Grigor Ashughbabyan",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2010-05-07",
+      "elo_delta": 17.8,
+      "event_name": "KSW 13: Kumite",
+      "fight_id": "785ec9fa0e9d3417",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Grigor Ashughbabyan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1521.0,
+      "pre_elo": 1503.1,
+      "red_name": "Daniel Tabera",
+      "round": "2",
+      "time": "Light Heavyweight Tournament Quarter-Finals 1",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Attila Végh",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2010-05-07",
+      "elo_delta": 20.4,
+      "event_name": "KSW 13: Kumite",
+      "fight_id": "f4700a5697f56e37",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kneebar)",
+      "opponent": "Attila Végh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.1,
+      "pre_elo": 1482.7,
+      "red_name": "Daniel Tabera",
+      "round": "1",
+      "time": "Light Heavyweight Tournament Semi-Finals 1",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Daniel Tabera",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-04-17",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 4",
+      "fight_id": "3ff9d249f2198269",
+      "gender": "men",
+      "is_title": false,
+      "method": "submission (rear-naked choke)",
+      "opponent": "Jared Hess",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jared Hess",
+      "round": "1",
+      "time": "2:34",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-17",
+      "fight_id": "3ff9d249f2198269",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-04-17",
+      "fight_id": "3ff9d249f2198269",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "f4700a5697f56e37",
+      "rating": 1503.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "785ec9fa0e9d3417",
+      "rating": 1521.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "f4700a5697f56e37",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "785ec9fa0e9d3417",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "a6871f5d4a63dcc8",
+      "rating": 1506.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "a6871f5d4a63dcc8",
+      "rating": 1503.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-18",
+  "name": "Daniel Tabera",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.0,
+  "slug": "daniel-tabera",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

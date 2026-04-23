@@ -1,0 +1,92 @@
+{
+  "current_elo": 1464.6,
+  "divisional_rank": 723,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "André Vieira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-02-07",
+      "elo_delta": -17.1,
+      "event_name": "LFA 201: Conceição vs. Silva",
+      "fight_id": "3c79d5c6a766bcd3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–24, 30–26, 30–27)",
+      "opponent": "Vladimir Dayneko",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.6,
+      "pre_elo": 1481.6,
+      "red_name": "Vladimir Dayneko",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "André Vieira",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-03-11",
+      "elo_delta": -18.4,
+      "event_name": "Legacy Fighting Alliance 126: Bilharinho vs. Delano",
+      "fight_id": "9b07694f272278e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Eduardo Neves",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Eduardo Neves",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-11",
+      "fight_id": "9b07694f272278e1",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-03-11",
+      "fight_id": "9b07694f272278e1",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "3c79d5c6a766bcd3",
+      "rating": 1464.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-02-07",
+      "fight_id": "3c79d5c6a766bcd3",
+      "rating": 1468.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-02-07",
+  "name": "André Vieira",
+  "nickname": "",
+  "overall_elo": 1468.3,
+  "peak_elo": 1500.0,
+  "slug": "andre-vieira",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1501.4,
+  "divisional_rank": 93,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Dan Vinni",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-12-09",
+      "elo_delta": 20.4,
+      "event_name": "Oktagon 50: Keita vs. Samsonidse",
+      "fight_id": "d2abf2408ffd72b5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Dan Vinni",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1523.0,
+      "pre_elo": 1502.6,
+      "red_name": "Rafael Xavier",
+      "round": "2",
+      "time": "1:27",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Mateusz Strzelczyk",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-06-17",
+      "elo_delta": 20.6,
+      "event_name": "Oktagon 44: Langer vs. Poppeck",
+      "fight_id": "2b82412eb5f38ef2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg injury)",
+      "opponent": "Mateusz Strzelczyk",
+      "opponent_elo": 1503.1,
+      "outcome": "red_win",
+      "post_elo": 1502.6,
+      "pre_elo": 1482.0,
+      "red_name": "Rafael Xavier",
+      "round": "3",
+      "time": "2:47",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Rafael Xavier",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 39: Jungwirth vs. Oliveira",
+      "fight_id": "1f4e0e8c01914d0e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 27–30, 29–28)",
+      "opponent": "Pavol Langer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Pavol Langer",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "1f4e0e8c01914d0e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "1f4e0e8c01914d0e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "2b82412eb5f38ef2",
+      "rating": 1502.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-06-17",
+      "fight_id": "2b82412eb5f38ef2",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "d2abf2408ffd72b5",
+      "rating": 1523.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2023-12-09",
+      "fight_id": "d2abf2408ffd72b5",
+      "rating": 1520.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-12-09",
+  "name": "Rafael Xavier",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1523.0,
+  "slug": "rafael-xavier",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

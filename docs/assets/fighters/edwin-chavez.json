@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 749,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Edwin Chavez",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-06-16",
+      "elo_delta": -15.6,
+      "event_name": "Bellator 297: Nemkov vs. Romero",
+      "fight_id": "8b65766ba69f7f54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
+      "opponent": "Cody Law",
+      "opponent_elo": 1528.2,
+      "outcome": "red_win",
+      "post_elo": 1466.4,
+      "pre_elo": 1482.0,
+      "red_name": "Cody Law",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Edwin Chavez",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-04-30",
+      "elo_delta": -18.0,
+      "event_name": "Legacy Fighting Alliance 106: Silveira vs. Viana",
+      "fight_id": "fb8357874b8b6c69",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Cheyden Leialoha",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Cheyden Leialoha",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-04-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-04-30",
+      "fight_id": "fb8357874b8b6c69",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-04-30",
+      "fight_id": "fb8357874b8b6c69",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "8b65766ba69f7f54",
+      "rating": 1466.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-06-16",
+      "fight_id": "8b65766ba69f7f54",
+      "rating": 1469.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-06-16",
+  "name": "Edwin Chavez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "edwin-chavez",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

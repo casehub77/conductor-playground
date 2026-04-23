@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 428,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Young Min Ji",
+      "bout_type": "Featherweight 66kg Bout",
+      "date": "2021-06-12",
+      "elo_delta": 17.1,
+      "event_name": "ARC 5",
+      "fight_id": "011bf9325d01e9be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Young Min Ji",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.3,
+      "red_name": "Hyun Woo Kim",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Min Soo Cho",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2021-03-27",
+      "elo_delta": 19.4,
+      "event_name": "ARC 003",
+      "fight_id": "de23a959eb30d9a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Min Soo Cho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Hyun Woo Kim",
+      "round": "2",
+      "time": "0:49",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-03-27",
+      "fight_id": "de23a959eb30d9a5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-27",
+      "fight_id": "de23a959eb30d9a5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "011bf9325d01e9be",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-06-12",
+      "fight_id": "011bf9325d01e9be",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-06-12",
+  "name": "Hyun Woo Kim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.4,
+  "slug": "hyun-woo-kim",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

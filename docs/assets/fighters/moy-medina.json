@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 777,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Moy Medina",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-01-13",
+      "elo_delta": -18.5,
+      "event_name": "LFA 150: Farias vs. Sweeney",
+      "fight_id": "1ab0af5da2d9cdd5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Noah Gasho",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Noah Gasho",
+      "round": "3",
+      "time": "2:38",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-01-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-01-13",
+      "fight_id": "1ab0af5da2d9cdd5",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-01-13",
+      "fight_id": "1ab0af5da2d9cdd5",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-01-13",
+  "name": "Moy Medina",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "moy-medina",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

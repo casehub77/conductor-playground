@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 720,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nick Denis",
+      "bout_type": "Bantamweight Bout",
+      "date": "2012-01-20",
+      "elo_delta": -18.4,
+      "event_name": "UFC on FX: Guillard vs Miller",
+      "fight_id": "601efdadfe7d43ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nick Denis",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Joseph Sandoval",
+      "round": "1.0",
+      "time": "0:22",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Joseph Sandoval",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-10-01",
+      "elo_delta": -19.4,
+      "event_name": "UFC Live: Cruz vs Johnson",
+      "fight_id": "a0cecba3fd940811",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Walel Watson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Walel Watson",
+      "round": "1.0",
+      "time": "1:17",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2011-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-10-01",
+      "fight_id": "a0cecba3fd940811",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "a0cecba3fd940811",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-01-20",
+      "fight_id": "601efdadfe7d43ce",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2012-01-20",
+      "fight_id": "601efdadfe7d43ce",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-01-20",
+  "name": "Joseph Sandoval",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "joseph-sandoval",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

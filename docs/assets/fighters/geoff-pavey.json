@@ -1,0 +1,92 @@
+{
+  "current_elo": 1462.6,
+  "divisional_rank": 1017,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Geoff Pavey",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-12-06",
+      "elo_delta": -18.0,
+      "event_name": "Cage Warriors 199: Newcastle",
+      "fight_id": "3ed7cf07bb522ca0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Farshad Nazarnia",
+      "opponent_elo": 1506.2,
+      "outcome": "red_win",
+      "post_elo": 1462.6,
+      "pre_elo": 1480.6,
+      "red_name": "Farshad Nazarnia",
+      "round": "1",
+      "time": "3:50",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Geoff Pavey",
+      "bout_type": "Middleweight Bout",
+      "date": "2025-09-13",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors 193: Newcastle",
+      "fight_id": "09815d0ccc21f33e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Fraser Patterson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Fraser Patterson",
+      "round": "1",
+      "time": "3:54",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2025-09-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-13",
+      "fight_id": "09815d0ccc21f33e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-09-13",
+      "fight_id": "09815d0ccc21f33e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "3ed7cf07bb522ca0",
+      "rating": 1462.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "3ed7cf07bb522ca0",
+      "rating": 1466.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-12-06",
+  "name": "Geoff Pavey",
+  "nickname": "",
+  "overall_elo": 1466.5,
+  "peak_elo": 1500.0,
+  "slug": "geoff-pavey",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

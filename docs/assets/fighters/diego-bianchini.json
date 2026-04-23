@@ -1,0 +1,92 @@
+{
+  "current_elo": 1503.3,
+  "divisional_rank": 198,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yuri Neles",
+      "bout_type": "Catchweight (175 lb) Bout",
+      "date": "2026-03-27",
+      "elo_delta": 20.4,
+      "event_name": "LFA 229: Martins vs. Gonçalves",
+      "fight_id": "d68fcd14835ca12e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Yuri Neles",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.3,
+      "pre_elo": 1482.9,
+      "red_name": "Diego Bianchini",
+      "round": "1",
+      "time": "2:56",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Diego Bianchini",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": -17.1,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "e3a04f5b884d7cd2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Jeff Creighton",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Jeff Creighton",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-11-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-11-21",
+      "fight_id": "e3a04f5b884d7cd2",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "e3a04f5b884d7cd2",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "d68fcd14835ca12e",
+      "rating": 1503.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-03-27",
+      "fight_id": "d68fcd14835ca12e",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-27",
+  "name": "Diego Bianchini",
+  "nickname": "",
+  "overall_elo": 1502.8,
+  "peak_elo": 1503.3,
+  "slug": "diego-bianchini",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

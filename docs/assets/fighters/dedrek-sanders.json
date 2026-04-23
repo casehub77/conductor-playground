@@ -1,0 +1,92 @@
+{
+  "current_elo": 1539.8,
+  "divisional_rank": 104,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nikolay Kiosse",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-02-06",
+      "elo_delta": 18.2,
+      "event_name": "LFA 226: Allakhverdiev vs. Kropschot",
+      "fight_id": "bd93ee1e81d25427",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees to the body)",
+      "opponent": "Nikolay Kiosse",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1539.8,
+      "pre_elo": 1521.6,
+      "red_name": "Dedrek Sanders",
+      "round": "3",
+      "time": "0:20",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Dzhamal Mavliudov",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": 21.6,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "88af20ffbaa8aa89",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches and elbows)",
+      "opponent": "Dzhamal Mavliudov",
+      "opponent_elo": 1538.8,
+      "outcome": "red_win",
+      "post_elo": 1521.6,
+      "pre_elo": 1500.0,
+      "red_name": "Dedrek Sanders",
+      "round": "3",
+      "time": "2:36",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-10-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-10-10",
+      "fight_id": "88af20ffbaa8aa89",
+      "rating": 1521.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "88af20ffbaa8aa89",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "bd93ee1e81d25427",
+      "rating": 1539.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-02-06",
+      "fight_id": "bd93ee1e81d25427",
+      "rating": 1535.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-06",
+  "name": "Dedrek Sanders",
+  "nickname": "",
+  "overall_elo": 1535.3,
+  "peak_elo": 1539.8,
+  "slug": "dedrek-sanders",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

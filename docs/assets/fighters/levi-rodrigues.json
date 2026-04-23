@@ -1,0 +1,65 @@
+{
+  "current_elo": 1536.8,
+  "divisional_rank": 54,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Alan Ribeiro",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2025-09-05",
+      "elo_delta": 19.6,
+      "event_name": "LFA 216: Silva vs. Bertolso",
+      "fight_id": "87fe469e0fc62c75",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Alan Ribeiro",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1517.3,
+      "red_name": "Levi Rodrigues",
+      "round": "1",
+      "time": "2:47",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-11-04",
+      "fight_id": "3ccab6b995efcf86",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "87fe469e0fc62c75",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "87fe469e0fc62c75",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-05",
+  "name": "Levi Rodrigues",
+  "nickname": "",
+  "overall_elo": 1534.6,
+  "peak_elo": 1536.8,
+  "slug": "levi-rodrigues",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

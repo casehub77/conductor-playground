@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 845,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Marcos da Matta",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2011-09-17",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 50",
+      "fight_id": "b81c0e8f2a8bf1bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Shah Bobonis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Shah Bobonis",
+      "round": "3",
+      "time": "2:04",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Marcos da Matta",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-01-30",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Miami",
+      "fight_id": "d68decb282ae3620",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Pablo Alfonso",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Pablo Alfonso",
+      "round": "1",
+      "time": "1:47",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2010-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-30",
+      "fight_id": "d68decb282ae3620",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-01-30",
+      "fight_id": "d68decb282ae3620",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "b81c0e8f2a8bf1bb",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "b81c0e8f2a8bf1bb",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-17",
+  "name": "Marcos da Matta",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "marcos-da-matta",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

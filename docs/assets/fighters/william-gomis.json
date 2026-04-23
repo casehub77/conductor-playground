@@ -1,0 +1,228 @@
+{
+  "current_elo": 1570.8,
+  "divisional_rank": 42,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Robert Ruchala",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-06",
+      "elo_delta": 15.1,
+      "event_name": "UFC Fight Night: Imavov vs. Borralho",
+      "fight_id": "1638e2529b2a492a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Robert Ruchala",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1570.8,
+      "pre_elo": 1555.7,
+      "red_name": "William Gomis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "William Gomis",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-03-01",
+      "elo_delta": -17.3,
+      "event_name": "UFC Fight Night: Kape vs. Almabayev",
+      "fight_id": "2a14d931807179ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Hyder Amil",
+      "opponent_elo": 1586.2,
+      "outcome": "red_win",
+      "post_elo": 1555.7,
+      "pre_elo": 1573.0,
+      "red_name": "Hyder Amil",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Joanderson Brito",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-09-28",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
+      "fight_id": "9f220f15e5994896",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Joanderson Brito",
+      "opponent_elo": 1583.2,
+      "outcome": "red_win",
+      "post_elo": 1573.0,
+      "pre_elo": 1553.4,
+      "red_name": "William Gomis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Yanis Ghemmouri",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-09-02",
+      "elo_delta": 17.4,
+      "event_name": "UFC Fight Night: Gane vs. Spivac",
+      "fight_id": "b5f3cf11b1ba9f61",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yanis Ghemmouri",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1553.4,
+      "pre_elo": 1536.0,
+      "red_name": "William Gomis",
+      "round": "3.0",
+      "time": "2:20",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "William Gomis",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-04-22",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Pavlovich vs. Blaydes",
+      "fight_id": "9fd6df4baae5d107",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Francis Marshall",
+      "opponent_elo": 1518.3,
+      "outcome": "blue_win",
+      "post_elo": 1536.0,
+      "pre_elo": 1518.0,
+      "red_name": "Francis Marshall",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jarno Errens",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-09-03",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Gane vs. Tuivasa",
+      "fight_id": "d5ee88dd4a8a93db",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Jarno Errens",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "William Gomis",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-09-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-03",
+      "fight_id": "d5ee88dd4a8a93db",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-09-03",
+      "fight_id": "d5ee88dd4a8a93db",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "9fd6df4baae5d107",
+      "rating": 1536.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-04-22",
+      "fight_id": "9fd6df4baae5d107",
+      "rating": 1532.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-02",
+      "fight_id": "b5f3cf11b1ba9f61",
+      "rating": 1553.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-09-02",
+      "fight_id": "b5f3cf11b1ba9f61",
+      "rating": 1547.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "9f220f15e5994896",
+      "rating": 1573.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-09-28",
+      "fight_id": "9f220f15e5994896",
+      "rating": 1564.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "2a14d931807179ed",
+      "rating": 1555.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-03-01",
+      "fight_id": "2a14d931807179ed",
+      "rating": 1549.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-06",
+      "fight_id": "1638e2529b2a492a",
+      "rating": 1570.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-06",
+      "fight_id": "1638e2529b2a492a",
+      "rating": 1563.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-06",
+  "name": "William Gomis",
+  "nickname": "",
+  "overall_elo": 1563.2,
+  "peak_elo": 1573.0,
+  "slug": "william-gomis",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

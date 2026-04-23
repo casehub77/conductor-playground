@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 455,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hiroya",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2019-10-12",
+      "elo_delta": -21.5,
+      "event_name": "Rizin 19 - Osaka",
+      "fight_id": "0c4925f5b759c104",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knee)",
+      "opponent": "Takuma Konishi",
+      "opponent_elo": 1483.2,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1520.2,
+      "red_name": "Takuma Konishi",
+      "round": "1",
+      "time": "1:20",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Akiyo Nishiura",
+      "bout_type": "K-1 Featherweight 66 kg Bout",
+      "date": "2015-12-29",
+      "elo_delta": 21.9,
+      "event_name": "Rizin World Grand Prix 2015: Part 1 - Saraba",
+      "fight_id": "5523b2f8ac40fe67",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Akiyo Nishiura",
+      "opponent_elo": 1544.7,
+      "outcome": "red_win",
+      "post_elo": 1521.9,
+      "pre_elo": 1500.0,
+      "red_name": "Hiroya",
+      "round": "3",
+      "time": "7:20",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2015-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-12-29",
+      "fight_id": "5523b2f8ac40fe67",
+      "rating": 1521.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-12-29",
+      "fight_id": "5523b2f8ac40fe67",
+      "rating": 1520.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-10-12",
+      "fight_id": "0c4925f5b759c104",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-10-12",
+      "fight_id": "0c4925f5b759c104",
+      "rating": 1501.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-10-12",
+  "name": "Hiroya",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.9,
+  "slug": "hiroya",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

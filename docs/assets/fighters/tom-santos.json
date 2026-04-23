@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1189,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tom Santos",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2018-07-29",
+      "elo_delta": -18.4,
+      "event_name": "Rizin 11 - Saitama",
+      "fight_id": "3540cbfc53421e41",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Daron Cruickshank",
+      "opponent_elo": 1517.9,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Daron Cruickshank",
+      "round": "3",
+      "time": "14:11",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-07-29",
+      "fight_id": "3540cbfc53421e41",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-07-29",
+      "fight_id": "3540cbfc53421e41",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-07-29",
+  "name": "Tom Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tom-santos",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 345,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Wascar Cruz",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": -19.6,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "b4f9a0a8cf5181b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Felipe Bunes",
+      "opponent_elo": 1485.2,
+      "outcome": "red_win",
+      "post_elo": 1496.8,
+      "pre_elo": 1516.4,
+      "red_name": "Felipe Bunes",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2022-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-03-25",
+      "fight_id": "a3b8dcad7187ccfc",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "b4f9a0a8cf5181b3",
+      "rating": 1496.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "b4f9a0a8cf5181b3",
+      "rating": 1499.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-07-08",
+  "name": "Wascar Cruz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.4,
+  "slug": "wascar-cruz",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 208,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lisa Ellis",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2015-05-09",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Miocic vs Hunt",
+      "fight_id": "f478964288a0fec1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Bec Rawlings",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1446.9,
+      "pre_elo": 1465.4,
+      "red_name": "Bec Rawlings",
+      "round": "1.0",
+      "time": "4:09",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Lisa Ellis",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2014-12-12",
+      "elo_delta": -17.6,
+      "event_name": "The Ultimate Fighter: A Champion Will Be Crowned Finale",
+      "fight_id": "a1dfbbf7a29369e3",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Felice Herrig",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1465.4,
+      "pre_elo": 1483.0,
+      "red_name": "Felice Herrig",
+      "round": "2.0",
+      "time": "3:05",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Lisa Ellis",
+      "bout_type": "Women's (115 lb) Bout",
+      "date": "2011-11-19",
+      "elo_delta": -17.0,
+      "event_name": "Bellator 58",
+      "fight_id": "254d2786ce355c89",
+      "gender": "women",
+      "is_title": false,
+      "method": "Unanimous decision (30-27, 30-27, 30-27)",
+      "opponent": "Jessica Aguilar",
+      "opponent_elo": 1519.2,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jessica Aguilar",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2011-11-19",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2011-11-19",
+      "fight_id": "254d2786ce355c89",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "254d2786ce355c89",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2014-12-12",
+      "fight_id": "a1dfbbf7a29369e3",
+      "rating": 1465.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2014-12-12",
+      "fight_id": "a1dfbbf7a29369e3",
+      "rating": 1469.1,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2015-05-09",
+      "fight_id": "f478964288a0fec1",
+      "rating": 1446.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2015-05-09",
+      "fight_id": "f478964288a0fec1",
+      "rating": 1452.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-05-09",
+  "name": "Lisa Ellis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "lisa-ellis",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,133 @@
+{
+  "current_elo": 1519.0,
+  "divisional_rank": 79,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Hidetaka Arato",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": 19.0,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "8e7fce257a5683ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Hidetaka Arato",
+      "opponent_elo": 1518.5,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.1,
+      "red_name": "Sina Karimian",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sina Karimian",
+      "bout_type": "Catchweight 98 kg Bout",
+      "date": "2025-05-04",
+      "elo_delta": 0.5,
+      "event_name": "Rizin: Otoko Matsuri",
+      "fight_id": "d493da272d046499",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (time limit)",
+      "opponent": "Kouzi",
+      "opponent_elo": 1507.4,
+      "outcome": "draw",
+      "post_elo": 1498.1,
+      "pre_elo": 1497.6,
+      "red_name": "Kouzi",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sina Karimian",
+      "bout_type": "Catchweight 100 kg Bout",
+      "date": "2024-12-31",
+      "elo_delta": -18.4,
+      "event_name": "Rizin 49: Decade",
+      "fight_id": "bfa9b88aa9aafc00",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Rukiya Anpo",
+      "opponent_elo": 1508.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1516.0,
+      "red_name": "Rukiya Anpo",
+      "round": "6",
+      "time": "2:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2022-06-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-19",
+      "fight_id": "439b060f73d40d53",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "bfa9b88aa9aafc00",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2024-12-31",
+      "fight_id": "bfa9b88aa9aafc00",
+      "rating": 1499.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-05-04",
+      "fight_id": "d493da272d046499",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-05-04",
+      "fight_id": "d493da272d046499",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "8e7fce257a5683ea",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "8e7fce257a5683ea",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-14",
+  "name": "Sina Karimian",
+  "nickname": "",
+  "overall_elo": 1516.8,
+  "peak_elo": 1519.0,
+  "slug": "sina-karimian",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

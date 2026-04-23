@@ -1,0 +1,65 @@
+{
+  "current_elo": 1498.4,
+  "divisional_rank": 915,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kensei Yamakawa",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": -18.9,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "d0dfeea7d2fa051a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kanata Ueno",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1517.3,
+      "red_name": "Kanata Ueno",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-06-24",
+      "fight_id": "21171147a59ea500",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "d0dfeea7d2fa051a",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "d0dfeea7d2fa051a",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-14",
+  "name": "Kensei Yamakawa",
+  "nickname": "",
+  "overall_elo": 1500.5,
+  "peak_elo": 1517.3,
+  "slug": "kensei-yamakawa",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

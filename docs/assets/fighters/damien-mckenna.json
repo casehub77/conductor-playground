@@ -1,0 +1,92 @@
+{
+  "current_elo": 1502.1,
+  "divisional_rank": 275,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Pedro Silva",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 20.5,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "b55ac984135f8a20",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch to the body)",
+      "opponent": "Pedro Silva",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1481.6,
+      "red_name": "Damien McKenna",
+      "round": "3",
+      "time": "4:36",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Damien McKenna",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": -18.4,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "198cc73e9e32ca21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Keith Keogh",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Keith Keogh",
+      "round": "1",
+      "time": "2:01",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2025-09-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-27",
+      "fight_id": "198cc73e9e32ca21",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "198cc73e9e32ca21",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "b55ac984135f8a20",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "b55ac984135f8a20",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Damien McKenna",
+  "nickname": "",
+  "overall_elo": 1501.7,
+  "peak_elo": 1502.1,
+  "slug": "damien-mckenna",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,228 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 673,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Makwan Amirkhani",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-01-24",
+      "elo_delta": -16.5,
+      "event_name": "UFC on FOX: Gustafsson vs Johnson",
+      "fight_id": "39ffea678dafa7ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Makwan Amirkhani",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1430.8,
+      "pre_elo": 1447.3,
+      "red_name": "Andy Ogle",
+      "round": "1.0",
+      "time": "0:08",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Maximo Blanco",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-05-31",
+      "elo_delta": -18.7,
+      "event_name": "UFC Fight Night: Munoz vs Mousasi",
+      "fight_id": "c15c0e0beca31d2d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Maximo Blanco",
+      "opponent_elo": 1452.0,
+      "outcome": "blue_win",
+      "post_elo": 1447.3,
+      "pre_elo": 1466.0,
+      "red_name": "Andy Ogle",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Andy Ogle",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-02-15",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Machida vs Mousasi",
+      "fight_id": "bc241b76432f1d3b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Charles Oliveira",
+      "opponent_elo": 1510.4,
+      "outcome": "red_win",
+      "post_elo": 1466.0,
+      "pre_elo": 1484.0,
+      "red_name": "Charles Oliveira",
+      "round": "3.0",
+      "time": "2:40",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Cole Miller",
+      "bout_type": "Featherweight Bout",
+      "date": "2013-10-26",
+      "elo_delta": -17.5,
+      "event_name": "UFC Fight Night: Machida vs Munoz",
+      "fight_id": "20de793ee27a3037",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cole Miller",
+      "opponent_elo": 1510.6,
+      "outcome": "blue_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1501.5,
+      "red_name": "Andy Ogle",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Josh Grispi",
+      "bout_type": "Featherweight Bout",
+      "date": "2013-02-16",
+      "elo_delta": 19.5,
+      "event_name": "UFC on FUEL TV: Barao vs McDonald",
+      "fight_id": "9e77e0345a94f94d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Josh Grispi",
+      "opponent_elo": 1511.5,
+      "outcome": "red_win",
+      "post_elo": 1501.5,
+      "pre_elo": 1482.0,
+      "red_name": "Andy Ogle",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Akira Corassani",
+      "bout_type": "Featherweight Bout",
+      "date": "2012-09-29",
+      "elo_delta": -18.0,
+      "event_name": "UFC on FUEL TV: Struve vs Miocic",
+      "fight_id": "9fabb373935e6b94",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Akira Corassani",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Andy Ogle",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2012-09-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-09-29",
+      "fight_id": "9fabb373935e6b94",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2012-09-29",
+      "fight_id": "9fabb373935e6b94",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-02-16",
+      "fight_id": "9e77e0345a94f94d",
+      "rating": 1501.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2013-02-16",
+      "fight_id": "9e77e0345a94f94d",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-10-26",
+      "fight_id": "20de793ee27a3037",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2013-10-26",
+      "fight_id": "20de793ee27a3037",
+      "rating": 1485.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-02-15",
+      "fight_id": "bc241b76432f1d3b",
+      "rating": 1466.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-02-15",
+      "fight_id": "bc241b76432f1d3b",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "c15c0e0beca31d2d",
+      "rating": 1447.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "c15c0e0beca31d2d",
+      "rating": 1453.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-01-24",
+      "fight_id": "39ffea678dafa7ce",
+      "rating": 1430.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-01-24",
+      "fight_id": "39ffea678dafa7ce",
+      "rating": 1438.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-01-24",
+  "name": "Andy Ogle",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.5,
+  "slug": "andy-ogle",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

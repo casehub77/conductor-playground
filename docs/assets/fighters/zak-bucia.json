@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 518,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Zak Bucia",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-08-15",
+      "elo_delta": -18.4,
+      "event_name": "Strikeforce: Carano vs. Cyborg",
+      "fight_id": "aecc4135e31b421d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "James Terry",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.4,
+      "red_name": "James Terry",
+      "round": "1",
+      "time": "1:23",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Zak Bucia",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-04-11",
+      "elo_delta": -19.0,
+      "event_name": "Strikeforce: Shamrock vs. Diaz",
+      "fight_id": "38bf3c125cd7a86a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "James Terry",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "James Terry",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Adam Steel",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-11-21",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Destruction",
+      "fight_id": "753d270381500bb9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Adam Steel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Zak Bucia",
+      "round": "1",
+      "time": "0:35",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2008-11-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-11-21",
+      "fight_id": "753d270381500bb9",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-11-21",
+      "fight_id": "753d270381500bb9",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-11",
+      "fight_id": "38bf3c125cd7a86a",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-04-11",
+      "fight_id": "38bf3c125cd7a86a",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-08-15",
+      "fight_id": "aecc4135e31b421d",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-08-15",
+      "fight_id": "aecc4135e31b421d",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-08-15",
+  "name": "Zak Bucia",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "zak-bucia",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

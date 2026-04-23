@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 299,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ben Reid",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-01",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors: 44",
+      "fight_id": "6ab64159df1bdcae",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Ben Reid",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Adam Brearley",
+      "round": "2",
+      "time": "0:32",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Doug Wibberly",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-07-09",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors: 43",
+      "fight_id": "52b5f7d64bd23a97",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Doug Wibberly",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Adam Brearley",
+      "round": "1",
+      "time": "1:04",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-07-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-07-09",
+      "fight_id": "52b5f7d64bd23a97",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-07-09",
+      "fight_id": "52b5f7d64bd23a97",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "6ab64159df1bdcae",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "6ab64159df1bdcae",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Adam Brearley",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "slug": "adam-brearley",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

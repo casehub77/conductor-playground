@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 198,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sarah Alpar",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-09-18",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Smith vs. Spann",
+      "fight_id": "4d00dfaa5a9e0aa6",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Erin Blanchfield",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.4,
+      "pre_elo": 1482.5,
+      "red_name": "Erin Blanchfield",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Sarah Alpar",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2020-09-19",
+      "elo_delta": -19.8,
+      "event_name": "UFC Fight Night: Covington vs. Woodley",
+      "fight_id": "f385da8f8201357a",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jessica-Rose Clark",
+      "opponent_elo": 1492.8,
+      "outcome": "red_win",
+      "post_elo": 1480.2,
+      "pre_elo": 1500.0,
+      "red_name": "Jessica-Rose Clark",
+      "round": "3.0",
+      "time": "4:21",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2020-09-19",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2020-09-19",
+      "fight_id": "f385da8f8201357a",
+      "rating": 1480.2,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2020-09-19",
+      "fight_id": "f385da8f8201357a",
+      "rating": 1482.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "4d00dfaa5a9e0aa6",
+      "rating": 1465.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-09-18",
+      "fight_id": "4d00dfaa5a9e0aa6",
+      "rating": 1467.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-09-18",
+  "name": "Sarah Alpar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "sarah-alpar",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

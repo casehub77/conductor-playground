@@ -1,0 +1,133 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 830,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Teodoras Aukštuolis",
+      "bout_type": "Open Weight Bout",
+      "date": "2016-09-25",
+      "elo_delta": -17.2,
+      "event_name": "Rizin World Grand-Prix 2016: 1st Round",
+      "fight_id": "a092c1c54dca99bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Szymon Bajor",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1502.1,
+      "red_name": "Szymon Bajor",
+      "round": "2",
+      "time": "10:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Singh Jaideep",
+      "bout_type": "Catchweight 98 kg Bout",
+      "date": "2016-04-17",
+      "elo_delta": 17.0,
+      "event_name": "Rizin Fighting Federation 1",
+      "fight_id": "a0ca49b11e6ab280",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Singh Jaideep",
+      "opponent_elo": 1484.5,
+      "outcome": "red_win",
+      "post_elo": 1520.6,
+      "pre_elo": 1503.6,
+      "red_name": "Teodoras Aukštuolis",
+      "round": "3",
+      "time": "20:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Teodoras Aukštuolis",
+      "bout_type": "Open Weight Bout",
+      "date": "2015-12-31",
+      "elo_delta": -15.2,
+      "event_name": "Rizin World Grand Prix 2015: Part 2 - Iza",
+      "fight_id": "2d0f885d2dd039a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Muhammed Lawal",
+      "opponent_elo": 1572.3,
+      "outcome": "red_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1517.3,
+      "red_name": "Muhammed Lawal",
+      "round": "2",
+      "time": "15:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2015-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-12-29",
+      "fight_id": "e9df7459f59c022d",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-12-31",
+      "fight_id": "2d0f885d2dd039a5",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2015-12-31",
+      "fight_id": "2d0f885d2dd039a5",
+      "rating": 1503.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-04-17",
+      "fight_id": "a0ca49b11e6ab280",
+      "rating": 1520.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2016-04-17",
+      "fight_id": "a0ca49b11e6ab280",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-09-25",
+      "fight_id": "a092c1c54dca99bc",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2016-09-25",
+      "fight_id": "a092c1c54dca99bc",
+      "rating": 1502.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-09-25",
+  "name": "Teodoras Aukštuolis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.6,
+  "slug": "teodoras-aukstuolis",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

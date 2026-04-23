@@ -1,0 +1,65 @@
+{
+  "current_elo": 1498.0,
+  "divisional_rank": 1303,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Triston Gwaltney",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-08-15",
+      "elo_delta": -19.3,
+      "event_name": "LFA 214: Fernando vs. Latu",
+      "fight_id": "7be5d23b6d299d24",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Dzhamal Mavliudov",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1517.3,
+      "red_name": "Dzhamal Mavliudov",
+      "round": "1",
+      "time": "2:25",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-08-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-05",
+      "fight_id": "d8f31ab318095fe2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "7be5d23b6d299d24",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "7be5d23b6d299d24",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-15",
+  "name": "Triston Gwaltney",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "triston-gwaltney",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

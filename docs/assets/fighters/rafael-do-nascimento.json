@@ -1,0 +1,194 @@
+{
+  "current_elo": 1574.0,
+  "divisional_rank": 41,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Shuya Kamikubo",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-02-27",
+      "elo_delta": 17.9,
+      "event_name": "LFA 227: Nascimento vs. Kamikubo",
+      "fight_id": "3771313f94939f9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Shuya Kamikubo",
+      "opponent_elo": 1553.7,
+      "outcome": "red_win",
+      "post_elo": 1574.0,
+      "pre_elo": 1556.2,
+      "red_name": "Rafael do Nascimento",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Arnold Jimenez",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2025-08-22",
+      "elo_delta": 17.3,
+      "event_name": "LFA 215: Miranda vs. Barzilay",
+      "fight_id": "7ec2fd8def5cd027",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (ninja choke)",
+      "opponent": "Arnold Jimenez",
+      "opponent_elo": 1500.4,
+      "outcome": "red_win",
+      "post_elo": 1556.2,
+      "pre_elo": 1538.9,
+      "red_name": "Rafael do Nascimento",
+      "round": "1",
+      "time": "1:08",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Brandon Altomore",
+      "bout_type": "Featherweight Bout",
+      "date": "2025-01-10",
+      "elo_delta": 17.5,
+      "event_name": "LFA 199: Farias vs. Visconde",
+      "fight_id": "47c01d0c6924279a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (calf slicer)",
+      "opponent": "Brandon Altomore",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1552.1,
+      "pre_elo": 1534.6,
+      "red_name": "Rafael do Nascimento",
+      "round": "1",
+      "time": "2:06",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Justin Wetzell",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 147: Melo vs. Costa",
+      "fight_id": "001c2ccab12975e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Justin Wetzell",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1538.9,
+      "pre_elo": 1519.4,
+      "red_name": "Rafael do Nascimento",
+      "round": "2",
+      "time": "0:26",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Marcus McGhee",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-07-08",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 135: Leyva vs. Reis",
+      "fight_id": "244f95f0bfe83b3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Marcus McGhee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Rafael do Nascimento",
+      "round": "1",
+      "time": "3:12",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2022-07-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-07-08",
+      "fight_id": "244f95f0bfe83b3f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-07-08",
+      "fight_id": "244f95f0bfe83b3f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "001c2ccab12975e6",
+      "rating": 1538.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "001c2ccab12975e6",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "47c01d0c6924279a",
+      "rating": 1552.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-01-10",
+      "fight_id": "47c01d0c6924279a",
+      "rating": 1550.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "7ec2fd8def5cd027",
+      "rating": 1556.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-08-22",
+      "fight_id": "7ec2fd8def5cd027",
+      "rating": 1565.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "3771313f94939f9d",
+      "rating": 1574.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-02-27",
+      "fight_id": "3771313f94939f9d",
+      "rating": 1580.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-27",
+  "name": "Rafael do Nascimento",
+  "nickname": "",
+  "overall_elo": 1580.2,
+  "peak_elo": 1580.2,
+  "slug": "rafael-do-nascimento",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

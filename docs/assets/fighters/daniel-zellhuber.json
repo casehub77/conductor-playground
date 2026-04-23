@@ -1,0 +1,262 @@
+{
+  "current_elo": 1484.8,
+  "divisional_rank": 1364,
+  "fight_count": 7,
+  "fight_log": [
+    {
+      "blue_name": "King Green",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-02-28",
+      "elo_delta": -16.1,
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "fight_id": "f715dd3c5f1a034f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "King Green",
+      "opponent_elo": 1561.5,
+      "outcome": "blue_win",
+      "post_elo": 1484.8,
+      "pre_elo": 1500.8,
+      "red_name": "Daniel Zellhuber",
+      "round": "2.0",
+      "time": "4:55",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Daniel Zellhuber",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-07-19",
+      "elo_delta": -17.5,
+      "event_name": "UFC 318: Holloway vs. Poirier 3",
+      "fight_id": "6eb44296d362c6d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Michael Johnson",
+      "opponent_elo": 1528.5,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1518.3,
+      "red_name": "Michael Johnson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Esteban Ribovics",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-09-14",
+      "elo_delta": -18.7,
+      "event_name": "UFC 306: Riyadh Season Noche UFC",
+      "fight_id": "da6627bfc4885b0b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Esteban Ribovics",
+      "opponent_elo": 1523.8,
+      "outcome": "blue_win",
+      "post_elo": 1518.3,
+      "pre_elo": 1537.0,
+      "red_name": "Daniel Zellhuber",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Francisco Prado",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-02-24",
+      "elo_delta": 17.2,
+      "event_name": "UFC Fight Night: Moreno vs. Royval 2",
+      "fight_id": "de9c6f8dd04d7d95",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Francisco Prado",
+      "opponent_elo": 1503.9,
+      "outcome": "red_win",
+      "post_elo": 1537.0,
+      "pre_elo": 1519.8,
+      "red_name": "Daniel Zellhuber",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Christos Giagos",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-09-16",
+      "elo_delta": 20.5,
+      "event_name": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "fight_id": "f24f894454b97270",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Christos Giagos",
+      "opponent_elo": 1518.1,
+      "outcome": "red_win",
+      "post_elo": 1519.8,
+      "pre_elo": 1499.3,
+      "red_name": "Daniel Zellhuber",
+      "round": "2.0",
+      "time": "3:26",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Daniel Zellhuber",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-04-15",
+      "elo_delta": 18.2,
+      "event_name": "UFC Fight Night: Holloway vs. Allen",
+      "fight_id": "71f4160f423c6c86",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lando Vannata",
+      "opponent_elo": 1485.1,
+      "outcome": "blue_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1481.1,
+      "red_name": "Lando Vannata",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Daniel Zellhuber",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-09-17",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Sandhagen vs. Song",
+      "fight_id": "e0ad014a2393b99d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Trey Ogden",
+      "opponent_elo": 1483.1,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Trey Ogden",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2022-09-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-09-17",
+      "fight_id": "e0ad014a2393b99d",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-09-17",
+      "fight_id": "e0ad014a2393b99d",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-15",
+      "fight_id": "71f4160f423c6c86",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-04-15",
+      "fight_id": "71f4160f423c6c86",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "f24f894454b97270",
+      "rating": 1519.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "f24f894454b97270",
+      "rating": 1517.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "de9c6f8dd04d7d95",
+      "rating": 1537.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-02-24",
+      "fight_id": "de9c6f8dd04d7d95",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-09-14",
+      "fight_id": "da6627bfc4885b0b",
+      "rating": 1518.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-09-14",
+      "fight_id": "da6627bfc4885b0b",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "6eb44296d362c6d4",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-07-19",
+      "fight_id": "6eb44296d362c6d4",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "f715dd3c5f1a034f",
+      "rating": 1484.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-02-28",
+      "fight_id": "f715dd3c5f1a034f",
+      "rating": 1486.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-28",
+  "name": "Daniel Zellhuber",
+  "nickname": "",
+  "overall_elo": 1486.1,
+  "peak_elo": 1537.0,
+  "slug": "daniel-zellhuber",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

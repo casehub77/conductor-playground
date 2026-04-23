@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 394,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Peter Ishiguro",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-02-04",
+      "elo_delta": 16.9,
+      "event_name": "Bellator 290: Bader vs. Fedor 2",
+      "fight_id": "3f91a012bd0fb45b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Peter Ishiguro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1538.3,
+      "pre_elo": 1521.4,
+      "red_name": "Isaiah Hokit",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Matias Nader",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": 19.3,
+      "event_name": "Bellator 288: Nemkov vs. Anderson 2",
+      "fight_id": "0be0e33af3c06c1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Matias Nader",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1521.4,
+      "pre_elo": 1502.1,
+      "red_name": "Isaiah Hokit",
+      "round": "2",
+      "time": "3:48",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Theodore Macuka",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-02-19",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 274: Gracie vs. Storley",
+      "fight_id": "dc77284693423a21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Theodore Macuka",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1482.7,
+      "red_name": "Isaiah Hokit",
+      "round": "1",
+      "time": "3:57",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Isaiah Hokit",
+      "bout_type": "Lightweight Bout",
+      "date": "2021-06-25",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 261: Johnson vs. Moldavsky",
+      "fight_id": "34110d4911e18f80",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Corey Samuels",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Corey Samuels",
+      "round": "1",
+      "time": "0:10",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2021-06-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-25",
+      "fight_id": "34110d4911e18f80",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2021-06-25",
+      "fight_id": "34110d4911e18f80",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "dc77284693423a21",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-02-19",
+      "fight_id": "dc77284693423a21",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "0be0e33af3c06c1c",
+      "rating": 1521.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "0be0e33af3c06c1c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "3f91a012bd0fb45b",
+      "rating": 1538.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-04",
+      "fight_id": "3f91a012bd0fb45b",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-02-04",
+  "name": "Isaiah Hokit",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1538.3,
+  "slug": "isaiah-hokit",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

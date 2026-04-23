@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 393,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Przemyslaw Mysiala",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2019-09-14",
+      "elo_delta": -13.4,
+      "event_name": "KSW 50: London",
+      "fight_id": "c4871a660ff7c831",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Tomasz Narkun",
+      "opponent_elo": 1612.2,
+      "outcome": "red_win",
+      "post_elo": 1487.4,
+      "pre_elo": 1500.9,
+      "red_name": "Tomasz Narkun",
+      "round": "1",
+      "time": "4:07",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Chris Cooper",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-12-09",
+      "elo_delta": 20.5,
+      "event_name": "CWFC: Enter The Rough House",
+      "fight_id": "847cbc503b0a05e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Arm-Triangle Choke)",
+      "opponent": "Chris Cooper",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Przemyslaw Mysiala",
+      "round": "1",
+      "time": "0:33",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Przemyslaw Mysiala",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-03-05",
+      "elo_delta": -19.4,
+      "event_name": "CWFC: Enter the Wolfslair",
+      "fight_id": "8c629f8ba30adc7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Choke)",
+      "opponent": "Mario Neto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mario Neto",
+      "round": "1",
+      "time": "4:52",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-05",
+      "fight_id": "8c629f8ba30adc7f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-03-05",
+      "fight_id": "8c629f8ba30adc7f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-09",
+      "fight_id": "847cbc503b0a05e0",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-12-09",
+      "fight_id": "847cbc503b0a05e0",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-09-14",
+      "fight_id": "c4871a660ff7c831",
+      "rating": 1487.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-09-14",
+      "fight_id": "c4871a660ff7c831",
+      "rating": 1487.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-09-14",
+  "name": "Przemyslaw Mysiala",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.1,
+  "slug": "przemyslaw-mysiala",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

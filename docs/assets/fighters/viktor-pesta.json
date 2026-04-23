@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 389,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Viktor Pesta",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-01-15",
+      "elo_delta": -16.2,
+      "event_name": "UFC Fight Night: Rodriguez vs. Penn",
+      "fight_id": "ec8390958df45738",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Aleksei Oleinik",
+      "opponent_elo": 1520.3,
+      "outcome": "red_win",
+      "post_elo": 1446.1,
+      "pre_elo": 1462.3,
+      "red_name": "Aleksei Oleinik",
+      "round": "1.0",
+      "time": "2:57",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Marcin Tybura",
+      "bout_type": "Heavyweight Bout",
+      "date": "2016-08-06",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Rodriguez vs. Caceres",
+      "fight_id": "cc8e0c315e9674d9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marcin Tybura",
+      "opponent_elo": 1482.1,
+      "outcome": "blue_win",
+      "post_elo": 1462.3,
+      "pre_elo": 1481.7,
+      "red_name": "Viktor Pesta",
+      "round": "2.0",
+      "time": "0:53",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Viktor Pesta",
+      "bout_type": "Heavyweight Bout",
+      "date": "2015-10-03",
+      "elo_delta": -19.2,
+      "event_name": "UFC 192: Cormier vs Gustafsson",
+      "fight_id": "9d27682527bf3ce5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Derrick Lewis",
+      "opponent_elo": 1505.4,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.9,
+      "red_name": "Derrick Lewis",
+      "round": "3.0",
+      "time": "1:15",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Konstantin Erokhin",
+      "bout_type": "Heavyweight Bout",
+      "date": "2015-01-24",
+      "elo_delta": 18.9,
+      "event_name": "UFC on FOX: Gustafsson vs Johnson",
+      "fight_id": "c0c939f7582b666e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Konstantin Erokhin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1482.0,
+      "red_name": "Viktor Pesta",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ruslan Magomedov",
+      "bout_type": "Heavyweight Bout",
+      "date": "2014-05-31",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Munoz vs Mousasi",
+      "fight_id": "21808999f503100a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ruslan Magomedov",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Viktor Pesta",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2014-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-05-31",
+      "fight_id": "21808999f503100a",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "21808999f503100a",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-01-24",
+      "fight_id": "c0c939f7582b666e",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-01-24",
+      "fight_id": "c0c939f7582b666e",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-10-03",
+      "fight_id": "9d27682527bf3ce5",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-10-03",
+      "fight_id": "9d27682527bf3ce5",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-08-06",
+      "fight_id": "cc8e0c315e9674d9",
+      "rating": 1462.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2016-08-06",
+      "fight_id": "cc8e0c315e9674d9",
+      "rating": 1466.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-01-15",
+      "fight_id": "ec8390958df45738",
+      "rating": 1446.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-01-15",
+      "fight_id": "ec8390958df45738",
+      "rating": 1451.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-01-15",
+  "name": "Viktor Pesta",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "slug": "viktor-pesta",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

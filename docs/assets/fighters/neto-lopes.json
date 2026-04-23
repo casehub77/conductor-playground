@@ -1,0 +1,65 @@
+{
+  "current_elo": 1535.8,
+  "divisional_rank": 113,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Thiago Pereira de Oliveira",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-09-05",
+      "elo_delta": 18.5,
+      "event_name": "LFA 216: Silva vs. Bertolso",
+      "fight_id": "9e095c1859fa0480",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (spinning backfist and punches)",
+      "opponent": "Thiago Pereira de Oliveira",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Neto Lopes",
+      "round": "2",
+      "time": "0:17",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-05-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-05-24",
+      "fight_id": "94860c8009a01ad4",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "9e095c1859fa0480",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-09-05",
+      "fight_id": "9e095c1859fa0480",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-05",
+  "name": "Neto Lopes",
+  "nickname": "",
+  "overall_elo": 1533.7,
+  "peak_elo": 1535.8,
+  "slug": "neto-lopes",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

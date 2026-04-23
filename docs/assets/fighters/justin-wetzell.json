@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 455,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Justin Wetzell",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-11-18",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 147: Melo vs. Costa",
+      "fight_id": "001c2ccab12975e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Rafael do Nascimento",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Rafael do Nascimento",
+      "round": "2",
+      "time": "0:26",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Askar Askar",
+      "bout_type": "Bantamweight Bout",
+      "date": "2021-06-05",
+      "elo_delta": 19.4,
+      "event_name": "Legacy Fighting Alliance 109: McKinney vs. Irizarry",
+      "fight_id": "734f49e4f8d1f73e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Askar Askar",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Wetzell",
+      "round": "2",
+      "time": "2:21",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2021-06-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-05",
+      "fight_id": "734f49e4f8d1f73e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-06-05",
+      "fight_id": "734f49e4f8d1f73e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "001c2ccab12975e6",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-11-18",
+      "fight_id": "001c2ccab12975e6",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-11-18",
+  "name": "Justin Wetzell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "justin-wetzell",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

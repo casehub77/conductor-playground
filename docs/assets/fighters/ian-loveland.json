@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 560,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ian Loveland",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-08-27",
+      "elo_delta": -19.6,
+      "event_name": "UFC 134: Silva vs Okami",
+      "fight_id": "64bad22cac3698ab",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Yves Jabouin",
+      "opponent_elo": 1469.9,
+      "outcome": "red_win",
+      "post_elo": 1482.1,
+      "pre_elo": 1501.8,
+      "red_name": "Yves Jabouin",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ian Loveland",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-03-19",
+      "elo_delta": -15.1,
+      "event_name": "UFC 128: Shogun vs Jones",
+      "fight_id": "5a052c1bc26fb2aa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Joseph Benavidez",
+      "opponent_elo": 1574.2,
+      "outcome": "red_win",
+      "post_elo": 1501.8,
+      "pre_elo": 1516.8,
+      "red_name": "Joseph Benavidez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tyler Toner",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-12-04",
+      "elo_delta": 19.1,
+      "event_name": "The Ultimate Fighter: Team GSP vs Team Koscheck Finale",
+      "fight_id": "df7634caf5abd8f6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tyler Toner",
+      "opponent_elo": 1520.6,
+      "outcome": "red_win",
+      "post_elo": 1519.1,
+      "pre_elo": 1500.0,
+      "red_name": "Ian Loveland",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2010-12-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-12-04",
+      "fight_id": "df7634caf5abd8f6",
+      "rating": 1519.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "df7634caf5abd8f6",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "5a052c1bc26fb2aa",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "5a052c1bc26fb2aa",
+      "rating": 1503.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-08-27",
+      "fight_id": "64bad22cac3698ab",
+      "rating": 1482.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-08-27",
+      "fight_id": "64bad22cac3698ab",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-08-27",
+  "name": "Ian Loveland",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.1,
+  "slug": "ian-loveland",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

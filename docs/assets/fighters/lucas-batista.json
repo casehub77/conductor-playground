@@ -1,0 +1,58 @@
+{
+  "current_elo": 1480.6,
+  "divisional_rank": 1168,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Lucas Batista",
+      "bout_type": "Welterweight Bout",
+      "date": "2024-11-22",
+      "elo_delta": -19.4,
+      "event_name": "LFA 197: Kuziutina vs. Guimarães",
+      "fight_id": "50f3a5a4b7d0c0ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Richard Martins",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Richard Martins",
+      "round": "2",
+      "time": "4:29",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2024-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-22",
+      "fight_id": "50f3a5a4b7d0c0ec",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2024-11-22",
+      "fight_id": "50f3a5a4b7d0c0ec",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-11-22",
+  "name": "Lucas Batista",
+  "nickname": "",
+  "overall_elo": 1482.7,
+  "peak_elo": 1500.0,
+  "slug": "lucas-batista",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

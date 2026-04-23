@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1235,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andres Murray",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-10-14",
+      "elo_delta": 21.3,
+      "event_name": "Legacy Fighting Alliance 144: Gafurov vs. Silva",
+      "fight_id": "e909cf73f5b0acef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Andres Murray",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1487.6,
+      "pre_elo": 1466.3,
+      "red_name": "Robson Junior",
+      "round": "1",
+      "time": "0:29",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Robson Junior",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-11-05",
+      "elo_delta": -18.4,
+      "event_name": "Legacy Fighting Alliance 117: Dias vs. Tanak",
+      "fight_id": "d3e99c3e67baa9b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Hyder Amil",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Hyder Amil",
+      "round": "2",
+      "time": "3:26",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Robson Junior",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-06-05",
+      "elo_delta": -19.4,
+      "event_name": "Legacy Fighting Alliance 109: McKinney vs. Irizarry",
+      "fight_id": "c3c146883a783cef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Edwin Cooper Jr.",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Edwin Cooper Jr.",
+      "round": "2",
+      "time": "1:31",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-06-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-06-05",
+      "fight_id": "c3c146883a783cef",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-06-05",
+      "fight_id": "c3c146883a783cef",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "d3e99c3e67baa9b7",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-11-05",
+      "fight_id": "d3e99c3e67baa9b7",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "e909cf73f5b0acef",
+      "rating": 1487.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-10-14",
+      "fight_id": "e909cf73f5b0acef",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-10-14",
+  "name": "Robson Junior",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "robson-junior",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

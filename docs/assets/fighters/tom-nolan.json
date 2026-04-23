@@ -1,0 +1,194 @@
+{
+  "current_elo": 1553.7,
+  "divisional_rank": 80,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Charlie Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-09-27",
+      "elo_delta": 20.6,
+      "event_name": "UFC Fight Night: Ulberg vs. Reyes",
+      "fight_id": "1e98d1f77479ad38",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Charlie Campbell",
+      "opponent_elo": 1553.9,
+      "outcome": "red_win",
+      "post_elo": 1553.7,
+      "pre_elo": 1533.1,
+      "red_name": "Tom Nolan",
+      "round": "1.0",
+      "time": "4:08",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Viacheslav Borshchev",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": 17.5,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "bd3d6761a22be4d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Viacheslav Borshchev",
+      "opponent_elo": 1505.1,
+      "outcome": "red_win",
+      "post_elo": 1533.1,
+      "pre_elo": 1515.6,
+      "red_name": "Tom Nolan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alex Reyes",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-08-17",
+      "elo_delta": 16.3,
+      "event_name": "UFC 305: Du Plessis vs. Adesanya",
+      "fight_id": "1e31cbec161d09c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alex Reyes",
+      "opponent_elo": 1467.2,
+      "outcome": "red_win",
+      "post_elo": 1515.6,
+      "pre_elo": 1499.3,
+      "red_name": "Tom Nolan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tom Nolan",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-05-18",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Barboza vs. Murphy",
+      "fight_id": "a306d8845c9892e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Victor Martinez",
+      "opponent_elo": 1481.6,
+      "outcome": "blue_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1479.7,
+      "red_name": "Victor Martinez",
+      "round": "1.0",
+      "time": "3:50",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Tom Nolan",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-01-13",
+      "elo_delta": -20.3,
+      "event_name": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "fight_id": "6e0d169e834f7e4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nikolas Motta",
+      "opponent_elo": 1485.3,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Nikolas Motta",
+      "round": "1.0",
+      "time": "1:03",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-01-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-01-13",
+      "fight_id": "6e0d169e834f7e4a",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "6e0d169e834f7e4a",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-05-18",
+      "fight_id": "a306d8845c9892e1",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-05-18",
+      "fight_id": "a306d8845c9892e1",
+      "rating": 1499.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "1e31cbec161d09c1",
+      "rating": 1515.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "1e31cbec161d09c1",
+      "rating": 1514.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "bd3d6761a22be4d7",
+      "rating": 1533.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "bd3d6761a22be4d7",
+      "rating": 1529.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "1e98d1f77479ad38",
+      "rating": 1553.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "1e98d1f77479ad38",
+      "rating": 1547.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-09-27",
+  "name": "Tom Nolan",
+  "nickname": "",
+  "overall_elo": 1547.8,
+  "peak_elo": 1553.7,
+  "slug": "tom-nolan",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

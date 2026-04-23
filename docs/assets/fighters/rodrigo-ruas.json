@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 810,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Rodrigo Ruas",
+      "bout_type": "Middleweight Bout",
+      "date": "2002-06-22",
+      "elo_delta": -19.6,
+      "event_name": "UFC 37.5: As Real As It Gets",
+      "fight_id": "72f036e5e58eed09",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tony Fryklund",
+      "opponent_elo": 1497.8,
+      "outcome": "red_win",
+      "post_elo": 1480.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tony Fryklund",
+      "round": "2.0",
+      "time": "3:34",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2002-06-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-06-22",
+      "fight_id": "72f036e5e58eed09",
+      "rating": 1480.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2002-06-22",
+      "fight_id": "72f036e5e58eed09",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-06-22",
+  "name": "Rodrigo Ruas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "rodrigo-ruas",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

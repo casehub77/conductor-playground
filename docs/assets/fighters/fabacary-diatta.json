@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 561,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Keir Harvie",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-05-12",
+      "elo_delta": 18.1,
+      "event_name": "Bellator 296: Mousasi vs. Edwards",
+      "fight_id": "a30c079bf75cd4cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–26)",
+      "opponent": "Keir Harvie",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1498.1,
+      "red_name": "Fabacary Diatta",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Fabacary Diatta",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-05-06",
+      "elo_delta": -19.9,
+      "event_name": "Bellator 280: Bader vs. Kongo 2",
+      "fight_id": "6b477d90e924f5d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (28–29, 29–28, 29–28)",
+      "opponent": "Jordan Barton",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1498.1,
+      "pre_elo": 1518.0,
+      "red_name": "Jordan Barton",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Nathan Rose",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "98c47a6e91a14462",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Nathan Rose",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Fabacary Diatta",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-01",
+      "fight_id": "98c47a6e91a14462",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "98c47a6e91a14462",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "6b477d90e924f5d4",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-05-06",
+      "fight_id": "6b477d90e924f5d4",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "a30c079bf75cd4cf",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-05-12",
+      "fight_id": "a30c079bf75cd4cf",
+      "rating": 1514.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-05-12",
+  "name": "Fabacary Diatta",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "fabacary-diatta",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

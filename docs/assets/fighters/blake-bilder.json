@@ -1,0 +1,126 @@
+{
+  "current_elo": 1497.7,
+  "divisional_rank": 1021,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Blake Bilder",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-02-03",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Dolidze vs. Imavov",
+      "fight_id": "4d95c2c35b217a90",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jeongyeong Lee",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1496.8,
+      "red_name": "Jeongyeong Lee",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Blake Bilder",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-06-10",
+      "elo_delta": -20.3,
+      "event_name": "UFC 289: Nunes vs. Aldana",
+      "fight_id": "875f292f41050935",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kyle Nelson",
+      "opponent_elo": 1472.0,
+      "outcome": "red_win",
+      "post_elo": 1496.8,
+      "pre_elo": 1517.2,
+      "red_name": "Kyle Nelson",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Blake Bilder",
+      "bout_type": "Featherweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": 17.2,
+      "event_name": "UFC 284: Makhachev vs. Volkanovski",
+      "fight_id": "d05fd9cd5f509978",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Shane Young",
+      "opponent_elo": 1483.9,
+      "outcome": "blue_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Shane Young",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2023-02-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-02-11",
+      "fight_id": "d05fd9cd5f509978",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "d05fd9cd5f509978",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "875f292f41050935",
+      "rating": 1496.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-06-10",
+      "fight_id": "875f292f41050935",
+      "rating": 1496.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "4d95c2c35b217a90",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-02-03",
+      "fight_id": "4d95c2c35b217a90",
+      "rating": 1481.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-02-03",
+  "name": "Blake Bilder",
+  "nickname": "",
+  "overall_elo": 1499.4,
+  "peak_elo": 1517.2,
+  "slug": "blake-bilder",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

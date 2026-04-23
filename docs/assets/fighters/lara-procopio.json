@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 122,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lara Procopio",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-06-19",
+      "elo_delta": -18.6,
+      "event_name": "UFC Fight Night: Jung vs. Ige",
+      "fight_id": "ded3e9253fbcccbc",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Casey O'Neill",
+      "opponent_elo": 1518.5,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1503.5,
+      "red_name": "Casey O'Neill",
+      "round": "3.0",
+      "time": "2:54",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Lara Procopio",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2021-02-06",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Overeem vs. Volkov",
+      "fight_id": "e6337c4a385caa46",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Molly Mccann",
+      "opponent_elo": 1513.3,
+      "outcome": "blue_win",
+      "post_elo": 1503.5,
+      "pre_elo": 1484.0,
+      "red_name": "Molly Mccann",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Lara Procopio",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2019-08-31",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Andrade vs. Zhang",
+      "fight_id": "b5082f2eddba79d0",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Karol Rosa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Karol Rosa",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2019-08-31",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2019-08-31",
+      "fight_id": "b5082f2eddba79d0",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2019-08-31",
+      "fight_id": "b5082f2eddba79d0",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-02-06",
+      "fight_id": "e6337c4a385caa46",
+      "rating": 1503.5,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-02-06",
+      "fight_id": "e6337c4a385caa46",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-06-19",
+      "fight_id": "ded3e9253fbcccbc",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2021-06-19",
+      "fight_id": "ded3e9253fbcccbc",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-06-19",
+  "name": "Lara Procopio",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.5,
+  "slug": "lara-procopio",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

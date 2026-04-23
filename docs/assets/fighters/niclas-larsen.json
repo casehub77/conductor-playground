@@ -1,0 +1,126 @@
+{
+  "current_elo": 1493.7,
+  "divisional_rank": 1045,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Niclas Larsen",
+      "bout_type": "Catchweight (158.8 lbs) Muay Thai Bout",
+      "date": "2023-03-25",
+      "elo_delta": -9.2,
+      "event_name": "ONE Fight Night 8: Superlek vs. Williams",
+      "fight_id": "a6e1876dcddaee2c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Eddie Abasolo",
+      "opponent_elo": 1481.9,
+      "outcome": "red_win",
+      "post_elo": 1454.3,
+      "pre_elo": 1463.6,
+      "red_name": "Eddie Abasolo",
+      "round": "2",
+      "time": "2:14",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Niclas Larsen",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2022-10-21",
+      "elo_delta": -18.0,
+      "event_name": "ONE 162: Zhang vs. Di Bella",
+      "fight_id": "ad8d37bf3acb2c73",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Jimmy Vienot",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1481.5,
+      "red_name": "Jimmy Vienot",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Niclas Larsen",
+      "bout_type": "Featherweight Muay Thai Bout",
+      "date": "2022-06-03",
+      "elo_delta": -18.5,
+      "event_name": "ONE 158: Tawanchai vs. Larsen",
+      "fight_id": "881d22fa15800cee",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Tawanchai P.K.Saenchai",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Tawanchai P.K.Saenchai",
+      "round": "2",
+      "time": "1:42",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2022-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-06-03",
+      "fight_id": "881d22fa15800cee",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-06-03",
+      "fight_id": "881d22fa15800cee",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "ad8d37bf3acb2c73",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-10-21",
+      "fight_id": "ad8d37bf3acb2c73",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "a6e1876dcddaee2c",
+      "rating": 1454.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-03-25",
+      "fight_id": "a6e1876dcddaee2c",
+      "rating": 1459.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-03-25",
+  "name": "Niclas Larsen",
+  "nickname": "",
+  "overall_elo": 1498.7,
+  "peak_elo": 1500.0,
+  "slug": "niclas-larsen",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

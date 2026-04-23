@@ -1,0 +1,194 @@
+{
+  "current_elo": 1492.0,
+  "divisional_rank": null,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Eduarda Moura",
+      "bout_type": "Catch Weight Bout",
+      "date": "2026-02-07",
+      "elo_delta": -9.0,
+      "event_name": "UFC Fight Night: Bautista vs. Oliveira",
+      "fight_id": "988fbfa3e6f937d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Wang Cong",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1491.0,
+      "pre_elo": 1500.0,
+      "red_name": "Wang Cong",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Eduarda Moura",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": 19.7,
+      "event_name": "UFC Fight Night: Lewis vs. Teixeira",
+      "fight_id": "619a9cd658a50eee",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Lauren Murphy",
+      "opponent_elo": 1551.4,
+      "outcome": "blue_win",
+      "post_elo": 1539.1,
+      "pre_elo": 1519.5,
+      "red_name": "Lauren Murphy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Eduarda Moura",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-11-16",
+      "elo_delta": 19.6,
+      "event_name": "UFC 309: Jones vs. Miocic",
+      "fight_id": "fd00a982a0d6c98b",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Veronica Hardy",
+      "opponent_elo": 1530.5,
+      "outcome": "blue_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1499.9,
+      "red_name": "Veronica Hardy",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Denise Gomes",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2024-06-08",
+      "elo_delta": -18.8,
+      "event_name": "UFC Fight Night: Cannonier vs. Imavov",
+      "fight_id": "1feb87712056f925",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Denise Gomes",
+      "opponent_elo": 1503.1,
+      "outcome": "blue_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1518.5,
+      "red_name": "Eduarda Moura",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Montserrat Conejo Ruiz",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2023-11-04",
+      "elo_delta": 18.5,
+      "event_name": "UFC Fight Night: Almeida vs. Lewis",
+      "fight_id": "8e28008f6bcaf120",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Montserrat Conejo Ruiz",
+      "opponent_elo": 1483.3,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Eduarda Moura",
+      "round": "2.0",
+      "time": "2:14",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2023-11-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-11-04",
+      "fight_id": "8e28008f6bcaf120",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-11-04",
+      "fight_id": "8e28008f6bcaf120",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "1feb87712056f925",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2024-06-08",
+      "fight_id": "1feb87712056f925",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2024-11-16",
+      "fight_id": "fd00a982a0d6c98b",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-11-16",
+      "fight_id": "fd00a982a0d6c98b",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "619a9cd658a50eee",
+      "rating": 1539.1,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "619a9cd658a50eee",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "988fbfa3e6f937d4",
+      "rating": 1491.0,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2026-02-07",
+      "fight_id": "988fbfa3e6f937d4",
+      "rating": 1492.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": "https://www.instagram.com/eduardaronda_ufc/",
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-07",
+  "name": "Eduarda Moura",
+  "nickname": "",
+  "overall_elo": 1492.0,
+  "peak_elo": 1539.1,
+  "slug": "eduarda-moura",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

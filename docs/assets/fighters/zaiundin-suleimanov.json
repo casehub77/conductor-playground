@@ -1,0 +1,126 @@
+{
+  "current_elo": 1493.6,
+  "divisional_rank": 142,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Zaiundin Suleimanov",
+      "bout_type": "Strawweight MMA Bout",
+      "date": "2024-04-19",
+      "elo_delta": -18.5,
+      "event_name": "ONE Friday Fights 59: Yamin vs. Ouraghi",
+      "fight_id": "3b701f392bf22a50",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (spinning back kick and punches)",
+      "opponent": "Avazbek Kholmirzaev",
+      "opponent_elo": 1516.6,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1499.4,
+      "red_name": "Avazbek Kholmirzaev",
+      "round": "3",
+      "time": "0:16",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Zaiundin Suleimanov",
+      "bout_type": "Strawweight Bout",
+      "date": "2023-11-24",
+      "elo_delta": -17.8,
+      "event_name": "ONE Friday Fights 42: Kaonar vs. Lobo",
+      "fight_id": "52965affb83eed3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Sanzhar Zakirov",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1499.4,
+      "pre_elo": 1517.3,
+      "red_name": "Sanzhar Zakirov",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Adilet Mamytov",
+      "bout_type": "Flyweight Bout",
+      "date": "2023-10-06",
+      "elo_delta": 19.4,
+      "event_name": "ONE Friday Fights 36: Superball vs. Lobo",
+      "fight_id": "cd85e7f94907a738",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Adilet Mamytov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Zaiundin Suleimanov",
+      "round": "2",
+      "time": "2:46",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-10-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-10-06",
+      "fight_id": "cd85e7f94907a738",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2023-10-06",
+      "fight_id": "cd85e7f94907a738",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-24",
+      "fight_id": "52965affb83eed3c",
+      "rating": 1499.4,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2023-11-24",
+      "fight_id": "52965affb83eed3c",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-19",
+      "fight_id": "3b701f392bf22a50",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2024-04-19",
+      "fight_id": "3b701f392bf22a50",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-04-19",
+  "name": "Zaiundin Suleimanov",
+  "nickname": "",
+  "overall_elo": 1497.4,
+  "peak_elo": 1519.4,
+  "slug": "zaiundin-suleimanov",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

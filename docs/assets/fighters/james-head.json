@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 410,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Jason High",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-08-28",
+      "elo_delta": -20.0,
+      "event_name": "UFC Fight Night: Condit vs Kampmann 2",
+      "fight_id": "ca897e2d732d097f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jason High",
+      "opponent_elo": 1500.5,
+      "outcome": "blue_win",
+      "post_elo": 1490.0,
+      "pre_elo": 1510.0,
+      "red_name": "James Head",
+      "round": "1.0",
+      "time": "1:41",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "James Head",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-12-15",
+      "elo_delta": -15.6,
+      "event_name": "The Ultimate Fighter: Team Carwin vs. Team Nelson Finale",
+      "fight_id": "d305aaf26f39b89d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mike Pyle",
+      "opponent_elo": 1595.1,
+      "outcome": "red_win",
+      "post_elo": 1510.0,
+      "pre_elo": 1525.6,
+      "red_name": "Mike Pyle",
+      "round": "1.0",
+      "time": "1:55",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "James Head",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-07-21",
+      "elo_delta": 21.6,
+      "event_name": "UFC 149: Faber vs Barao",
+      "fight_id": "5e3afa7949de147d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Brian Ebersole",
+      "opponent_elo": 1575.2,
+      "outcome": "blue_win",
+      "post_elo": 1525.6,
+      "pre_elo": 1503.9,
+      "red_name": "Brian Ebersole",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "James Head",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-04-14",
+      "elo_delta": 19.5,
+      "event_name": "UFC on FUEL TV: Gustafsson vs Silva",
+      "fight_id": "ea8f6e6bb6fed365",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Papy Abedi",
+      "opponent_elo": 1485.9,
+      "outcome": "blue_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1484.4,
+      "red_name": "Papy Abedi",
+      "round": "1.0",
+      "time": "4:33",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "James Head",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-06-11",
+      "elo_delta": -17.3,
+      "event_name": "UFC 131: Dos Santos vs Carwin",
+      "fight_id": "1cc0f6315063f65f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Nick Ring",
+      "opponent_elo": 1538.1,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Ring",
+      "round": "3.0",
+      "time": "3:33",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2011-06-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-06-11",
+      "fight_id": "1cc0f6315063f65f",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-06-11",
+      "fight_id": "1cc0f6315063f65f",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-04-14",
+      "fight_id": "ea8f6e6bb6fed365",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-04-14",
+      "fight_id": "ea8f6e6bb6fed365",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-07-21",
+      "fight_id": "5e3afa7949de147d",
+      "rating": 1525.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-07-21",
+      "fight_id": "5e3afa7949de147d",
+      "rating": 1520.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-12-15",
+      "fight_id": "d305aaf26f39b89d",
+      "rating": 1510.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-12-15",
+      "fight_id": "d305aaf26f39b89d",
+      "rating": 1506.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "ca897e2d732d097f",
+      "rating": 1490.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "ca897e2d732d097f",
+      "rating": 1489.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-08-28",
+  "name": "James Head",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1525.6,
+  "slug": "james-head",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

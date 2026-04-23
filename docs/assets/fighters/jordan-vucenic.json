@@ -1,0 +1,228 @@
+{
+  "current_elo": 1534.1,
+  "divisional_rank": 131,
+  "fight_count": 6,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Konrad",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-03-20",
+      "elo_delta": 20.0,
+      "event_name": "Cage Warriors 203: London",
+      "fight_id": "cf58cf2e2c2866f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Daniel Konrad",
+      "opponent_elo": 1523.7,
+      "outcome": "red_win",
+      "post_elo": 1534.1,
+      "pre_elo": 1514.1,
+      "red_name": "Jordan Vucenic",
+      "round": "1",
+      "time": "1:31",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Torpal Merjoev",
+      "bout_type": "Catchweight (160 lb) Bout",
+      "date": "2025-11-15",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 196: London",
+      "fight_id": "9633bbf883d9f2b6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 30–27, 30–26)",
+      "opponent": "Torpal Merjoev",
+      "opponent_elo": 1522.6,
+      "outcome": "red_win",
+      "post_elo": 1514.1,
+      "pre_elo": 1494.7,
+      "red_name": "Jordan Vucenic",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Chris Duncan",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": -18.1,
+      "event_name": "UFC Fight Night: Edwards vs. Brady",
+      "fight_id": "1c35e008642370b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Chris Duncan",
+      "opponent_elo": 1536.9,
+      "outcome": "blue_win",
+      "post_elo": 1494.7,
+      "pre_elo": 1512.8,
+      "red_name": "Jordan Vucenic",
+      "round": "2.0",
+      "time": "3:42",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jordan Vucenic",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-08-03",
+      "elo_delta": -20.1,
+      "event_name": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "fight_id": "c6e6923abc97597f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Guram Kutateladze",
+      "opponent_elo": 1491.6,
+      "outcome": "red_win",
+      "post_elo": 1512.8,
+      "pre_elo": 1532.9,
+      "red_name": "Guram Kutateladze",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Adrian Kępa",
+      "bout_type": "Catchweight (159 lb) Bout",
+      "date": "2024-07-20",
+      "elo_delta": 17.4,
+      "event_name": "Cage Warriors 174: London",
+      "fight_id": "3f1e01e67f19ada7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Adrian Kępa",
+      "opponent_elo": 1483.6,
+      "outcome": "red_win",
+      "post_elo": 1536.9,
+      "pre_elo": 1519.4,
+      "red_name": "Jordan Vucenic",
+      "round": "1",
+      "time": "1:22",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Simeone D'Anna",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-30",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 169: London",
+      "fight_id": "586e7e69aed40e31",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kimura)",
+      "opponent": "Simeone D'Anna",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jordan Vucenic",
+      "round": "2",
+      "time": "2:53",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-30",
+      "fight_id": "586e7e69aed40e31",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-30",
+      "fight_id": "586e7e69aed40e31",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "3f1e01e67f19ada7",
+      "rating": 1536.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-20",
+      "fight_id": "3f1e01e67f19ada7",
+      "rating": 1532.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-03",
+      "fight_id": "c6e6923abc97597f",
+      "rating": 1512.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-08-03",
+      "fight_id": "c6e6923abc97597f",
+      "rating": 1515.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "1c35e008642370b4",
+      "rating": 1494.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "1c35e008642370b4",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "9633bbf883d9f2b6",
+      "rating": 1514.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-15",
+      "fight_id": "9633bbf883d9f2b6",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "cf58cf2e2c2866f5",
+      "rating": 1534.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-03-20",
+      "fight_id": "cf58cf2e2c2866f5",
+      "rating": 1533.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-20",
+  "name": "Jordan Vucenic",
+  "nickname": "",
+  "overall_elo": 1533.0,
+  "peak_elo": 1536.9,
+  "slug": "jordan-vucenic",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

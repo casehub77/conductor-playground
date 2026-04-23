@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1185,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Thomas Gifford",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-10-12",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Joanna vs. Waterson",
+      "fight_id": "4c40bcc90ae1c327",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mike Davis",
+      "opponent_elo": 1484.3,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1483.0,
+      "red_name": "Mike Davis",
+      "round": "3.0",
+      "time": "4:45",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Thomas Gifford",
+      "bout_type": "Lightweight Bout",
+      "date": "2019-04-27",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Jacare vs. Hermansson",
+      "fight_id": "facf95ef4c91a9a3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Roosevelt Roberts",
+      "opponent_elo": 1518.8,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Roosevelt Roberts",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2019-04-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-04-27",
+      "fight_id": "facf95ef4c91a9a3",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-04-27",
+      "fight_id": "facf95ef4c91a9a3",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-10-12",
+      "fight_id": "4c40bcc90ae1c327",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2019-10-12",
+      "fight_id": "4c40bcc90ae1c327",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-10-12",
+  "name": "Thomas Gifford",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "thomas-gifford",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.9,
+  "divisional_rank": 51,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Beatriz Consuli",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2025-11-07",
+      "elo_delta": -17.1,
+      "event_name": "LFA 221: Clark vs. Consuli",
+      "fight_id": "38a4e3953458bc5d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (48–47, 49–46, 49–46)",
+      "opponent": "Shannon Clark",
+      "opponent_elo": 1535.1,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1518.0,
+      "red_name": "Shannon Clark",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Carol Foro",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2024-01-27",
+      "elo_delta": 18.0,
+      "event_name": "LFA 175: Lopes vs. Brigagão",
+      "fight_id": "7c0eb748ddacabb8",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Carol Foro",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Beatriz Consuli",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2024-01-27",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2024-01-27",
+      "fight_id": "7c0eb748ddacabb8",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "7c0eb748ddacabb8",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "38a4e3953458bc5d",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2025-11-07",
+      "fight_id": "38a4e3953458bc5d",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-07",
+  "name": "Beatriz Consuli",
+  "nickname": "",
+  "overall_elo": 1500.7,
+  "peak_elo": 1518.0,
+  "slug": "beatriz-consuli",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

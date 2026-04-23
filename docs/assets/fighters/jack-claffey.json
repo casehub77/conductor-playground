@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 569,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jack Claffey",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-07-25",
+      "elo_delta": -21.4,
+      "event_name": "Cage Warriors 175: Manchester",
+      "fight_id": "0885de43023820e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Kallum Parker",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1496.6,
+      "pre_elo": 1518.0,
+      "red_name": "Kallum Parker",
+      "round": "1",
+      "time": "1:15",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Marko Sarasjärvi",
+      "bout_type": "Featherweight Bout",
+      "date": "2024-03-15",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 167: Unplugged",
+      "fight_id": "b5ced3fca3b98980",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Marko Sarasjärvi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jack Claffey",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2024-03-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-03-15",
+      "fight_id": "b5ced3fca3b98980",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-03-15",
+      "fight_id": "b5ced3fca3b98980",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "0885de43023820e5",
+      "rating": 1496.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-07-25",
+      "fight_id": "0885de43023820e5",
+      "rating": 1497.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-07-25",
+  "name": "Jack Claffey",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "jack-claffey",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 682,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Danny van Bergen",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2010-09-18",
+      "elo_delta": -17.9,
+      "event_name": "KSW 14: Judgment Day",
+      "fight_id": "7ae0aa2cc049293c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Niko Puhakka",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1518.0,
+      "red_name": "Niko Puhakka",
+      "round": "2",
+      "time": "Lightweight Tournament Semi-Finals 2",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Artur Sowiński",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2010-09-18",
+      "elo_delta": 18.0,
+      "event_name": "KSW 14: Judgment Day",
+      "fight_id": "825dacf2f765b350",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous - Extra Round)",
+      "opponent": "Artur Sowiński",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Danny van Bergen",
+      "round": "3",
+      "time": "Lightweight Tournament Quarter-Finals 3",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-18",
+      "fight_id": "825dacf2f765b350",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "7ae0aa2cc049293c",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "825dacf2f765b350",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "7ae0aa2cc049293c",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-18",
+  "name": "Danny van Bergen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "danny-van-bergen",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

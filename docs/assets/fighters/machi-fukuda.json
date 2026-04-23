@@ -1,0 +1,126 @@
+{
+  "current_elo": 1551.6,
+  "divisional_rank": 22,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Haruka Hasegawa",
+      "bout_type": "Women's Strawweight 52 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": 15.2,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "2a53d7d506b88e67",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Haruka Hasegawa",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1551.6,
+      "pre_elo": 1536.4,
+      "red_name": "Machi Fukuda",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Park Seo-young",
+      "bout_type": "Women's Strawweight 52 kg Bout",
+      "date": "2025-03-30",
+      "elo_delta": 18.4,
+      "event_name": "Rizin 50",
+      "fight_id": "e4865ee1ce2b8a73",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Park Seo-young",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Machi Fukuda",
+      "round": "2",
+      "time": "4:04",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Ayaka Watanabe",
+      "bout_type": "Women's Strawweight 52,5 kg Bout",
+      "date": "2023-10-01",
+      "elo_delta": 18.0,
+      "event_name": "Rizin Landmark 6",
+      "fight_id": "5d32924683fad049",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Ayaka Watanabe",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Machi Fukuda",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2023-10-01",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-10-01",
+      "fight_id": "5d32924683fad049",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-10-01",
+      "fight_id": "5d32924683fad049",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "e4865ee1ce2b8a73",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-03-30",
+      "fight_id": "e4865ee1ce2b8a73",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "2a53d7d506b88e67",
+      "rating": 1551.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "2a53d7d506b88e67",
+      "rating": 1546.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-14",
+  "name": "Machi Fukuda",
+  "nickname": "",
+  "overall_elo": 1546.3,
+  "peak_elo": 1551.6,
+  "slug": "machi-fukuda",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

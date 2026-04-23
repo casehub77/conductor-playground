@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 717,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Joey Gomez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2016-09-17",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Poirier vs. Johnson",
+      "fight_id": "79464d16133891e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jose Quinonez",
+      "opponent_elo": 1501.6,
+      "outcome": "red_win",
+      "post_elo": 1464.7,
+      "pre_elo": 1481.7,
+      "red_name": "Jose Quinonez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Joey Gomez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2016-01-17",
+      "elo_delta": -18.3,
+      "event_name": "UFC Fight Night: Dillashaw vs Cruz",
+      "fight_id": "07148cfbf83259d2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Rob Font",
+      "opponent_elo": 1520.1,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Rob Font",
+      "round": "2.0",
+      "time": "4:13",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2016-01-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-01-17",
+      "fight_id": "07148cfbf83259d2",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2016-01-17",
+      "fight_id": "07148cfbf83259d2",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-09-17",
+      "fight_id": "79464d16133891e6",
+      "rating": 1464.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2016-09-17",
+      "fight_id": "79464d16133891e6",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-09-17",
+  "name": "Joey Gomez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "joey-gomez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

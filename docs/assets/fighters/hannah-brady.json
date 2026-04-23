@@ -1,0 +1,65 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 186,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hannah Brady",
+      "bout_type": "Women's Strawweight Muay Thai Bout",
+      "date": "2023-09-08",
+      "elo_delta": -16.9,
+      "event_name": "ONE Friday Fights 32: Kompetch vs. Kongchai",
+      "fight_id": "7631dbd9218b37d8",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Natalia Diachkova",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Natalia Diachkova",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2023-02-17",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2023-02-17",
+      "fight_id": "3f835309c0a75c0f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-08",
+      "fight_id": "7631dbd9218b37d8",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2023-09-08",
+      "fight_id": "7631dbd9218b37d8",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-08",
+  "name": "Hannah Brady",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
+  "slug": "hannah-brady",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1555.1,
+  "divisional_rank": 56,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Aldo Pereira Aguiar",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-02-21",
+      "elo_delta": 17.5,
+      "event_name": "Cage Warriors 200: Dublin",
+      "fight_id": "92eb0906521fad18",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knee and punches)",
+      "opponent": "Aldo Pereira Aguiar",
+      "opponent_elo": 1502.2,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.7,
+      "red_name": "Leon Hill",
+      "round": "2",
+      "time": "3:16",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Samuel Blasco",
+      "bout_type": "Catchweight (179 lb) Bout",
+      "date": "2025-09-27",
+      "elo_delta": 18.4,
+      "event_name": "Cage Warriors 194: Dublin",
+      "fight_id": "4aca36065ac174b9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick and punches)",
+      "opponent": "Samuel Blasco",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Leon Hill",
+      "round": "1",
+      "time": "0:58",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Steven Hill",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-07-12",
+      "elo_delta": 20.4,
+      "event_name": "Cage Warriors 192: London",
+      "fight_id": "abc5f7fef4fffc2e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbow and punches)",
+      "opponent": "Steven Hill",
+      "opponent_elo": 1534.5,
+      "outcome": "red_win",
+      "post_elo": 1537.7,
+      "pre_elo": 1517.3,
+      "red_name": "Leon Hill",
+      "round": "2",
+      "time": "2:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Tommy Hawthorn",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-05-25",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 172: Newcastle",
+      "fight_id": "2a50ce2f972c230c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Tommy Hawthorn",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Leon Hill",
+      "round": "2",
+      "time": "2:28",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-05-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-05-25",
+      "fight_id": "2a50ce2f972c230c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-05-25",
+      "fight_id": "2a50ce2f972c230c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "abc5f7fef4fffc2e",
+      "rating": 1537.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-07-12",
+      "fight_id": "abc5f7fef4fffc2e",
+      "rating": 1535.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "4aca36065ac174b9",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-09-27",
+      "fight_id": "4aca36065ac174b9",
+      "rating": 1550.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "92eb0906521fad18",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-02-21",
+      "fight_id": "92eb0906521fad18",
+      "rating": 1565.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-02-21",
+  "name": "Leon Hill",
+  "nickname": "",
+  "overall_elo": 1565.8,
+  "peak_elo": 1565.8,
+  "slug": "leon-hill",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

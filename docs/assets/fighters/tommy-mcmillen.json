@@ -1,0 +1,58 @@
+{
+  "current_elo": 1518.4,
+  "divisional_rank": 187,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Manolo Zecchini",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": 18.4,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "39b2fcd6ad3be7f2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Manolo Zecchini",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tommy McMillen",
+      "round": "1",
+      "time": "3:57",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2026-04-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-04-04",
+      "fight_id": "39b2fcd6ad3be7f2",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "39b2fcd6ad3be7f2",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Tommy McMillen",
+  "nickname": "",
+  "overall_elo": 1516.4,
+  "peak_elo": 1518.4,
+  "slug": "tommy-mcmillen",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

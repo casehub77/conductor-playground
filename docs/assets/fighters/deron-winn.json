@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 538,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Deron Winn",
+      "bout_type": "Middleweight Bout",
+      "date": "2022-06-18",
+      "elo_delta": -17.5,
+      "event_name": "UFC Fight Night: Kattar vs. Emmett",
+      "fight_id": "fe13c6ee02d91300",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Phil Hawes",
+      "opponent_elo": 1531.2,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1497.0,
+      "red_name": "Phil Hawes",
+      "round": "2.0",
+      "time": "4:25",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Antonio Arroyo",
+      "bout_type": "Catch Weight Bout",
+      "date": "2020-12-19",
+      "elo_delta": 18.2,
+      "event_name": "UFC Fight Night: Thompson vs. Neal",
+      "fight_id": "5a425187e094350a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Antonio Arroyo",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1497.0,
+      "pre_elo": 1478.8,
+      "red_name": "Deron Winn",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Deron Winn",
+      "bout_type": "Middleweight Bout",
+      "date": "2020-03-07",
+      "elo_delta": -18.2,
+      "event_name": "UFC 248: Adesanya vs. Romero",
+      "fight_id": "4de4ac8afba05b1b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gerald Meerschaert",
+      "opponent_elo": 1519.8,
+      "outcome": "red_win",
+      "post_elo": 1478.8,
+      "pre_elo": 1497.0,
+      "red_name": "Gerald Meerschaert",
+      "round": "3.0",
+      "time": "2:13",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Darren Stewart",
+      "bout_type": "Middleweight Bout",
+      "date": "2019-10-18",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Reyes vs. Weidman",
+      "fight_id": "512b93fc5f30dfc5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Darren Stewart",
+      "opponent_elo": 1493.0,
+      "outcome": "blue_win",
+      "post_elo": 1497.0,
+      "pre_elo": 1516.2,
+      "red_name": "Deron Winn",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Eric Spicely",
+      "bout_type": "Middleweight Bout",
+      "date": "2019-06-22",
+      "elo_delta": 16.2,
+      "event_name": "UFC Fight Night: Moicano vs. The Korean Zombie",
+      "fight_id": "9c870c04b407c4ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Eric Spicely",
+      "opponent_elo": 1465.5,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1500.0,
+      "red_name": "Deron Winn",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2019-06-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-06-22",
+      "fight_id": "9c870c04b407c4ba",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2019-06-22",
+      "fight_id": "9c870c04b407c4ba",
+      "rating": 1514.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-10-18",
+      "fight_id": "512b93fc5f30dfc5",
+      "rating": 1497.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2019-10-18",
+      "fight_id": "512b93fc5f30dfc5",
+      "rating": 1497.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-03-07",
+      "fight_id": "4de4ac8afba05b1b",
+      "rating": 1478.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-03-07",
+      "fight_id": "4de4ac8afba05b1b",
+      "rating": 1481.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-12-19",
+      "fight_id": "5a425187e094350a",
+      "rating": 1497.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2020-12-19",
+      "fight_id": "5a425187e094350a",
+      "rating": 1497.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "fe13c6ee02d91300",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-06-18",
+      "fight_id": "fe13c6ee02d91300",
+      "rating": 1481.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-06-18",
+  "name": "Deron Winn",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1516.2,
+  "slug": "deron-winn",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 121,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Kay Hansen",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2022-04-09",
+      "elo_delta": -17.0,
+      "event_name": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "fight_id": "6d25233dad36bd8c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Piera Rodriguez",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1499.7,
+      "red_name": "Piera Rodriguez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jasmine Jasudavicius",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2022-01-22",
+      "elo_delta": -18.0,
+      "event_name": "UFC 270: Ngannou vs. Gane",
+      "fight_id": "58616a798cb20f0d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jasmine Jasudavicius",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1499.8,
+      "red_name": "Kay Hansen",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Cory Mckenna",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2020-11-14",
+      "elo_delta": -19.0,
+      "event_name": "UFC Fight Night: Felder vs. Dos Anjos",
+      "fight_id": "9765527d1880e6c9",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Cory Mckenna",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1499.7,
+      "pre_elo": 1518.7,
+      "red_name": "Kay Hansen",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Jinh Yu Frey",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2020-06-27",
+      "elo_delta": 18.7,
+      "event_name": "UFC Fight Night: Poirier vs. Hooker",
+      "fight_id": "b24a89d100d06361",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jinh Yu Frey",
+      "opponent_elo": 1486.4,
+      "outcome": "red_win",
+      "post_elo": 1518.7,
+      "pre_elo": 1500.0,
+      "red_name": "Kay Hansen",
+      "round": "3.0",
+      "time": "2:26",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2020-06-27",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2020-06-27",
+      "fight_id": "b24a89d100d06361",
+      "rating": 1518.7,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2020-06-27",
+      "fight_id": "b24a89d100d06361",
+      "rating": 1516.6,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2020-11-14",
+      "fight_id": "9765527d1880e6c9",
+      "rating": 1499.7,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2020-11-14",
+      "fight_id": "9765527d1880e6c9",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-01-22",
+      "fight_id": "58616a798cb20f0d",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2022-01-22",
+      "fight_id": "58616a798cb20f0d",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-04-09",
+      "fight_id": "6d25233dad36bd8c",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2022-04-09",
+      "fight_id": "6d25233dad36bd8c",
+      "rating": 1469.4,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-04-09",
+  "name": "Kay Hansen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.7,
+  "slug": "kay-hansen",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 678,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brett Pastore",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-09-08",
+      "elo_delta": -20.4,
+      "event_name": "ONE Friday Fights 32: Kompetch vs. Kongchai",
+      "fight_id": "e3b4efd30c269c1a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Ivan Podrugin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1518.0,
+      "red_name": "Ivan Podrugin",
+      "round": "2",
+      "time": "1:53",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Emran Hafızoğlu",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-07-21",
+      "elo_delta": 18.0,
+      "event_name": "ONE Friday Fights 26: Kulabdam vs. Bohic",
+      "fight_id": "4a7cb03689e74fac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Emran Hafızoğlu",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Brett Pastore",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2023-07-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-07-21",
+      "fight_id": "4a7cb03689e74fac",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-07-21",
+      "fight_id": "4a7cb03689e74fac",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-08",
+      "fight_id": "e3b4efd30c269c1a",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-09-08",
+      "fight_id": "e3b4efd30c269c1a",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-09-08",
+  "name": "Brett Pastore",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "slug": "brett-pastore",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

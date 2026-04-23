@@ -1,0 +1,58 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1296,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "John Campetella",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-07-12",
+      "elo_delta": -19.4,
+      "event_name": "UFC 10: The Tournament",
+      "fight_id": "7367a19a0a69d6fd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gary Goodridge",
+      "opponent_elo": 1499.9,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Gary Goodridge",
+      "round": "1.0",
+      "time": "1:28",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1996-07-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1996-07-12",
+      "fight_id": "7367a19a0a69d6fd",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-07-12",
+      "fight_id": "7367a19a0a69d6fd",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1996-07-12",
+  "name": "John Campetella",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "john-campetella",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

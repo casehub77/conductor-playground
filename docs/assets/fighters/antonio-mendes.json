@@ -1,0 +1,194 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 155,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Antonio Mendes",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2009-01-17",
+      "elo_delta": -21.1,
+      "event_name": "UFC 93: Franklin vs Henderson",
+      "fight_id": "94726f0df498c1c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eric Schafer",
+      "opponent_elo": 1505.7,
+      "outcome": "red_win",
+      "post_elo": 1514.8,
+      "pre_elo": 1535.9,
+      "red_name": "Eric Schafer",
+      "round": "1.0",
+      "time": "3:35",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Antonio Mendes",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-05-24",
+      "elo_delta": -19.2,
+      "event_name": "UFC 84: Ill Will",
+      "fight_id": "c99695d1e39aa348",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Thiago Silva",
+      "opponent_elo": 1558.8,
+      "outcome": "red_win",
+      "post_elo": 1535.9,
+      "pre_elo": 1555.2,
+      "red_name": "Thiago Silva",
+      "round": "1.0",
+      "time": "2:24",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Robert Jocz",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2007-06-02",
+      "elo_delta": 17.2,
+      "event_name": "KSW VII: Konfrontacja",
+      "fight_id": "d07e0c1299dfb6d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Robert Jocz",
+      "opponent_elo": 1522.9,
+      "outcome": "red_win",
+      "post_elo": 1555.2,
+      "pre_elo": 1538.0,
+      "red_name": "Antonio Mendes",
+      "round": "2",
+      "time": "Tournament Quarter-Finals 3",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Michał Materla",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2007-06-02",
+      "elo_delta": 20.0,
+      "event_name": "KSW VII: Konfrontacja",
+      "fight_id": "245b1a4a43c54171",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Michał Materla",
+      "opponent_elo": 1556.1,
+      "outcome": "red_win",
+      "post_elo": 1538.0,
+      "pre_elo": 1518.0,
+      "red_name": "Antonio Mendes",
+      "round": "2",
+      "time": "Tournament Semi-Finals 2",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Martin Zawada",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2007-06-02",
+      "elo_delta": 18.0,
+      "event_name": "KSW VII: Konfrontacja",
+      "fight_id": "053eb25803e89edd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Martin Zawada",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Antonio Mendes",
+      "round": "2",
+      "time": "Tournament Final",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-06-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-06-02",
+      "fight_id": "053eb25803e89edd",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-06-02",
+      "fight_id": "245b1a4a43c54171",
+      "rating": 1538.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-06-02",
+      "fight_id": "d07e0c1299dfb6d7",
+      "rating": 1555.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-06-02",
+      "fight_id": "053eb25803e89edd",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-06-02",
+      "fight_id": "245b1a4a43c54171",
+      "rating": 1533.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-06-02",
+      "fight_id": "d07e0c1299dfb6d7",
+      "rating": 1548.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-05-24",
+      "fight_id": "c99695d1e39aa348",
+      "rating": 1535.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-05-24",
+      "fight_id": "c99695d1e39aa348",
+      "rating": 1531.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-01-17",
+      "fight_id": "94726f0df498c1c9",
+      "rating": 1514.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2009-01-17",
+      "fight_id": "94726f0df498c1c9",
+      "rating": 1513.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-01-17",
+  "name": "Antonio Mendes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1555.2,
+  "slug": "antonio-mendes",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

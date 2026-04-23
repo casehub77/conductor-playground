@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 585,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Borys Borkowski",
+      "bout_type": "Catchweight 83 kg Bout",
+      "date": "2022-08-20",
+      "elo_delta": -19.6,
+      "event_name": "KSW 73: Wrzosek vs. Sarara",
+      "fight_id": "ac85a602e7e319ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Dominik Humburger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1502.0,
+      "red_name": "Dominik Humburger",
+      "round": "2",
+      "time": "2:30",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Arkadiusz Kaszuba",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2022-02-26",
+      "elo_delta": 20.5,
+      "event_name": "KSW 67: De Fries vs. Stošić",
+      "fight_id": "02225428e4a56529",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Arkadiusz Kaszuba",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1481.6,
+      "red_name": "Borys Borkowski",
+      "round": "1",
+      "time": "3:55",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Borys Borkowski",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2021-07-17",
+      "elo_delta": -18.4,
+      "event_name": "KSW 62: Kołecki vs. Szostak",
+      "fight_id": "246c69a6258e3517",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Slam)",
+      "opponent": "Marcin Krakowiak",
+      "opponent_elo": 1518.1,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Marcin Krakowiak",
+      "round": "1",
+      "time": "1:02",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-07-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-07-17",
+      "fight_id": "246c69a6258e3517",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-07-17",
+      "fight_id": "246c69a6258e3517",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "02225428e4a56529",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "02225428e4a56529",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "ac85a602e7e319ee",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2022-08-20",
+      "fight_id": "ac85a602e7e319ee",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-08-20",
+  "name": "Borys Borkowski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1502.0,
+  "slug": "borys-borkowski",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

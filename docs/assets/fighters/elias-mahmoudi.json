@@ -1,0 +1,99 @@
+{
+  "current_elo": 1533.4,
+  "divisional_rank": 89,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Denis Purić",
+      "bout_type": "Flyweight Muay Thai Bout",
+      "date": "2024-12-07",
+      "elo_delta": 0.0,
+      "event_name": "ONE Fight Night 26: Lee vs. Rasulov",
+      "fight_id": "8f884e12a51bebf6",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (overturned)",
+      "opponent": "Denis Purić",
+      "opponent_elo": 1504.9,
+      "outcome": "no_contest",
+      "post_elo": 1533.4,
+      "pre_elo": 1533.4,
+      "red_name": "Elias Mahmoudi",
+      "round": "3",
+      "time": "2:58",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Taiki Naito",
+      "bout_type": "Flyweight Kickboxing Bout",
+      "date": "2024-08-03",
+      "elo_delta": 16.9,
+      "event_name": "ONE Fight Night 24: Brooks vs. Balart",
+      "fight_id": "2cf1954281f2f3af",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (spinning backfist)",
+      "opponent": "Taiki Naito",
+      "opponent_elo": 1471.3,
+      "outcome": "red_win",
+      "post_elo": 1533.4,
+      "pre_elo": 1516.5,
+      "red_name": "Elias Mahmoudi",
+      "round": "3",
+      "time": "2:56",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2023-08-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-08-05",
+      "fight_id": "277681f38a6ea3ad",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-03",
+      "fight_id": "2cf1954281f2f3af",
+      "rating": 1533.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-08-03",
+      "fight_id": "2cf1954281f2f3af",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "8f884e12a51bebf6",
+      "rating": 1533.4,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "8f884e12a51bebf6",
+      "rating": 1531.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-12-07",
+  "name": "Elias Mahmoudi",
+  "nickname": "",
+  "overall_elo": 1531.7,
+  "peak_elo": 1533.4,
+  "slug": "elias-mahmoudi",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

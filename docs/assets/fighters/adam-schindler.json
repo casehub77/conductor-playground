@@ -1,0 +1,133 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 433,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Adam Schindler",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-10-29",
+      "elo_delta": -17.7,
+      "event_name": "Bellator 56",
+      "fight_id": "360bd62e8143dac8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision",
+      "opponent": "Jeremy Spoon",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1494.4,
+      "pre_elo": 1512.1,
+      "red_name": "Jeremy Spoon",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Adam Schindler",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-06-25",
+      "elo_delta": -20.4,
+      "event_name": "Bellator 46",
+      "fight_id": "8c6666dd436afcdf",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Ronnie Mann",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1512.1,
+      "pre_elo": 1532.5,
+      "red_name": "Ronnie Mann",
+      "round": "1",
+      "time": "4:14",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kierre Gooch",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-08-21",
+      "elo_delta": 18.5,
+      "event_name": "Strikeforce: Houston",
+      "fight_id": "72769b2a55d1a322",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Kierre Gooch",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.5,
+      "pre_elo": 1516.0,
+      "red_name": "Adam Schindler",
+      "round": "1",
+      "time": "1:58",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-05-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-05-27",
+      "fight_id": "1a38dc606b28f2c8",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "72769b2a55d1a322",
+      "rating": 1534.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "72769b2a55d1a322",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-25",
+      "fight_id": "8c6666dd436afcdf",
+      "rating": 1512.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-06-25",
+      "fight_id": "8c6666dd436afcdf",
+      "rating": 1514.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "360bd62e8143dac8",
+      "rating": 1494.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "360bd62e8143dac8",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-29",
+  "name": "Adam Schindler",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.5,
+  "slug": "adam-schindler",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

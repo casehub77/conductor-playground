@@ -1,0 +1,126 @@
+{
+  "current_elo": 1455.3,
+  "divisional_rank": 1519,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Alex Reyes",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-08-17",
+      "elo_delta": -16.3,
+      "event_name": "UFC 305: Du Plessis vs. Adesanya",
+      "fight_id": "1e31cbec161d09c1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Tom Nolan",
+      "opponent_elo": 1499.3,
+      "outcome": "red_win",
+      "post_elo": 1450.9,
+      "pre_elo": 1467.2,
+      "red_name": "Tom Nolan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Charlie Campbell",
+      "bout_type": "Lightweight Bout",
+      "date": "2023-09-16",
+      "elo_delta": -17.5,
+      "event_name": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "fight_id": "590e50695c67ff9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Charlie Campbell",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1467.2,
+      "pre_elo": 1484.7,
+      "red_name": "Alex Reyes",
+      "round": "1.0",
+      "time": "3:38",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alex Reyes",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-09-16",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Rockhold vs. Branch",
+      "fight_id": "17aa2320af9d1454",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mike Perry",
+      "opponent_elo": 1545.8,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Perry",
+      "round": "1.0",
+      "time": "1:19",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2017-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-09-16",
+      "fight_id": "17aa2320af9d1454",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-09-16",
+      "fight_id": "17aa2320af9d1454",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "590e50695c67ff9d",
+      "rating": 1467.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2023-09-16",
+      "fight_id": "590e50695c67ff9d",
+      "rating": 1469.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "1e31cbec161d09c1",
+      "rating": 1450.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-08-17",
+      "fight_id": "1e31cbec161d09c1",
+      "rating": 1454.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2024-08-17",
+  "name": "Alex Reyes",
+  "nickname": "",
+  "overall_elo": 1458.8,
+  "peak_elo": 1500.0,
+  "slug": "alex-reyes",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

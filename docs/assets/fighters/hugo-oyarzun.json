@@ -1,0 +1,92 @@
+{
+  "current_elo": 1466.7,
+  "divisional_rank": 1494,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hugo Oyarzún",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-06-20",
+      "elo_delta": -18.6,
+      "event_name": "LFA 211: Mesquita vs. Dinwoodie",
+      "fight_id": "30ee505b6912cd40",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Adam Livingston",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1466.7,
+      "pre_elo": 1485.4,
+      "red_name": "Adam Livingston",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Hugo Oyarzún",
+      "bout_type": "Lightweight Bout",
+      "date": "2024-12-06",
+      "elo_delta": -14.6,
+      "event_name": "LFA 198: Miranda vs. Oyarzún",
+      "fight_id": "d05ccb4795ce41af",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Richie Miranda",
+      "opponent_elo": 1565.4,
+      "outcome": "red_win",
+      "post_elo": 1485.4,
+      "pre_elo": 1500.0,
+      "red_name": "Richie Miranda",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2024-12-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-12-06",
+      "fight_id": "d05ccb4795ce41af",
+      "rating": 1485.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-12-06",
+      "fight_id": "d05ccb4795ce41af",
+      "rating": 1486.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "30ee505b6912cd40",
+      "rating": 1466.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-06-20",
+      "fight_id": "30ee505b6912cd40",
+      "rating": 1470.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-20",
+  "name": "Hugo Oyarzún",
+  "nickname": "",
+  "overall_elo": 1470.1,
+  "peak_elo": 1500.0,
+  "slug": "hugo-oyarzun",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

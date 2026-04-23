@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.5,
+  "divisional_rank": 296,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kyle Pufahl",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": -17.5,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "80e07084a08748c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Steve Collins",
+      "opponent_elo": 1553.6,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1518.0,
+      "red_name": "Steve Collins",
+      "round": "1",
+      "time": "4:01",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kevin Carrier",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-03-22",
+      "elo_delta": 18.0,
+      "event_name": "LFA 204: Cunha vs. Freeman",
+      "fight_id": "ba6210dd851abc0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Kevin Carrier",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kyle Pufahl",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-03-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-03-22",
+      "fight_id": "ba6210dd851abc0d",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-03-22",
+      "fight_id": "ba6210dd851abc0d",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "80e07084a08748c9",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "80e07084a08748c9",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Kyle Pufahl",
+  "nickname": "",
+  "overall_elo": 1500.3,
+  "peak_elo": 1518.0,
+  "slug": "kyle-pufahl",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

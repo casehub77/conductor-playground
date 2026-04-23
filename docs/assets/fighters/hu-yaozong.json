@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 913,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andre Petroski",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-10-30",
+      "elo_delta": -16.4,
+      "event_name": "UFC 267: Blachowicz vs. Teixeira",
+      "fight_id": "fe7ace55a5449be0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Andre Petroski",
+      "opponent_elo": 1519.4,
+      "outcome": "blue_win",
+      "post_elo": 1447.8,
+      "pre_elo": 1464.2,
+      "red_name": "Hu Yaozong",
+      "round": "3.0",
+      "time": "4:46",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Rashad Coulter",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2018-11-24",
+      "elo_delta": -19.8,
+      "event_name": "UFC Fight Night: Blaydes vs. Ngannou 2",
+      "fight_id": "3d5202f5cf648065",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rashad Coulter",
+      "opponent_elo": 1447.4,
+      "outcome": "blue_win",
+      "post_elo": 1462.0,
+      "pre_elo": 1481.8,
+      "red_name": "Hu Yaozong",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Hu Yaozong",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-11-25",
+      "elo_delta": -20.7,
+      "event_name": "UFC Fight Night: Bisping vs. Gastelum",
+      "fight_id": "051492a3382351f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Cyril Asker",
+      "opponent_elo": 1478.1,
+      "outcome": "red_win",
+      "post_elo": 1479.3,
+      "pre_elo": 1500.0,
+      "red_name": "Cyril Asker",
+      "round": "2.0",
+      "time": "2:33",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-11-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-11-25",
+      "fight_id": "051492a3382351f5",
+      "rating": 1479.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-11-25",
+      "fight_id": "051492a3382351f5",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-11-24",
+      "fight_id": "3d5202f5cf648065",
+      "rating": 1462.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-11-24",
+      "fight_id": "3d5202f5cf648065",
+      "rating": 1464.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "fe7ace55a5449be0",
+      "rating": 1447.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-10-30",
+      "fight_id": "fe7ace55a5449be0",
+      "rating": 1449.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-10-30",
+  "name": "Hu Yaozong",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "hu-yaozong",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

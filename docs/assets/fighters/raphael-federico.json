@@ -1,0 +1,92 @@
+{
+  "current_elo": 1463.6,
+  "divisional_rank": 1509,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Raphael Federico",
+      "bout_type": "Catchweight (152 lb) Bout",
+      "date": "2025-08-09",
+      "elo_delta": -18.4,
+      "event_name": "Oktagon 74: Bolander vs. Szabová",
+      "fight_id": "6af3dbd279e5c480",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Vojtěch Khol",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.0,
+      "red_name": "Vojtěch Khol",
+      "round": "3",
+      "time": "1:11",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Raphael Federico",
+      "bout_type": "Lightweight Bout",
+      "date": "2025-02-01",
+      "elo_delta": -18.0,
+      "event_name": "Oktagon 66: Engizek vs. Oniszczuk",
+      "fight_id": "1337e3bdd8326fd2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Daniel Solaja",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Solaja",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2025-02-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-01",
+      "fight_id": "1337e3bdd8326fd2",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-02-01",
+      "fight_id": "1337e3bdd8326fd2",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "6af3dbd279e5c480",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-08-09",
+      "fight_id": "6af3dbd279e5c480",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-08-09",
+  "name": "Raphael Federico",
+  "nickname": "",
+  "overall_elo": 1467.5,
+  "peak_elo": 1500.0,
+  "slug": "raphael-federico",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

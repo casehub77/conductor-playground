@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 887,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rob Whiteford",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-05-13",
+      "elo_delta": -19.0,
+      "event_name": "Bellator 281: MVP vs. Storley",
+      "fight_id": "ff91f1355aaf8914",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Daniel Weichel",
+      "opponent_elo": 1508.3,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Weichel",
+      "round": "1",
+      "time": "1:12",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Andrew Fisher",
+      "bout_type": "Featherweight Bout",
+      "date": "2021-10-01",
+      "elo_delta": 0.0,
+      "event_name": "Bellator 267: Lima vs. MVP 2",
+      "fight_id": "6b64dbd64b8a17d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (accidental eye poke)",
+      "opponent": "Andrew Fisher",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Rob Whiteford",
+      "round": "2",
+      "time": "2:50",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-10-01",
+      "fight_id": "6b64dbd64b8a17d8",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-10-01",
+      "fight_id": "6b64dbd64b8a17d8",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "ff91f1355aaf8914",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-05-13",
+      "fight_id": "ff91f1355aaf8914",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-05-13",
+  "name": "Rob Whiteford",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "rob-whiteford",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

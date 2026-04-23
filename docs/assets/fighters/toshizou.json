@@ -1,0 +1,65 @@
+{
+  "current_elo": 1466.8,
+  "divisional_rank": 265,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Toshizou",
+      "bout_type": "Catchweight 55 kg Bout",
+      "date": "2025-06-14",
+      "elo_delta": -17.2,
+      "event_name": "Rizin Landmark 11 in Sapporo",
+      "fight_id": "caee60a8b94fac43",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Yuya Uzawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1466.8,
+      "pre_elo": 1484.0,
+      "red_name": "Yuya Uzawa",
+      "round": "3",
+      "time": "3:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2024-11-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2024-11-17",
+      "fight_id": "fa847b4db4fcf031",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "caee60a8b94fac43",
+      "rating": 1466.8,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2025-06-14",
+      "fight_id": "caee60a8b94fac43",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-06-14",
+  "name": "Toshizou",
+  "nickname": "",
+  "overall_elo": 1468.7,
+  "peak_elo": 1500.0,
+  "slug": "toshizou",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

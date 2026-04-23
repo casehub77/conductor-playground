@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.9,
+  "divisional_rank": 107,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Thomas Petersen",
+      "bout_type": "Heavyweight Bout",
+      "date": "2026-04-04",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "fight_id": "14e4fce2820b8378",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Thomas Petersen",
+      "opponent_elo": 1536.3,
+      "outcome": "blue_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1518.0,
+      "red_name": "Guilherme Pat",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Guilherme Pat",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-12-13",
+      "elo_delta": 18.0,
+      "event_name": "UFC Fight Night: Royval vs. Kape",
+      "fight_id": "98e10a1ae404e8c8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Allen Frye Jr.",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Allen Frye Jr.",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2025-12-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-12-13",
+      "fight_id": "98e10a1ae404e8c8",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-12-13",
+      "fight_id": "98e10a1ae404e8c8",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "14e4fce2820b8378",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2026-04-04",
+      "fight_id": "14e4fce2820b8378",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-04-04",
+  "name": "Guilherme Pat",
+  "nickname": "",
+  "overall_elo": 1500.8,
+  "peak_elo": 1518.0,
+  "slug": "guilherme-pat",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

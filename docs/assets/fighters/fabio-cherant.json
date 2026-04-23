@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 345,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Fabio Cherant",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2022-02-12",
+      "elo_delta": -17.8,
+      "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+      "fight_id": "9f0e832e89466ae9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Carlos Ulberg",
+      "opponent_elo": 1480.5,
+      "outcome": "red_win",
+      "post_elo": 1459.7,
+      "pre_elo": 1477.6,
+      "red_name": "Carlos Ulberg",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Fabio Cherant",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-08-21",
+      "elo_delta": -19.2,
+      "event_name": "UFC Fight Night: Cannonier vs. Gastelum",
+      "fight_id": "df9d0d2a3946a726",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "William Knight",
+      "opponent_elo": 1501.8,
+      "outcome": "red_win",
+      "post_elo": 1477.6,
+      "pre_elo": 1496.7,
+      "red_name": "William Knight",
+      "round": "1.0",
+      "time": "3:58",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Fabio Cherant",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-03-27",
+      "elo_delta": -20.3,
+      "event_name": "UFC 260: Miocic vs. Ngannou",
+      "fight_id": "f8aa1ac306224b80",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Alonzo Menifield",
+      "opponent_elo": 1502.2,
+      "outcome": "red_win",
+      "post_elo": 1496.7,
+      "pre_elo": 1517.0,
+      "red_name": "Alonzo Menifield",
+      "round": "1.0",
+      "time": "1:11",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Myron Dennis",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2021-02-12",
+      "elo_delta": 17.0,
+      "event_name": "Legacy Fighting Alliance 99: Dennis vs. Cherant",
+      "fight_id": "d473fc4f8751b79e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Myron Dennis",
+      "opponent_elo": 1480.5,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Fabio Cherant",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2021-02-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-02-12",
+      "fight_id": "d473fc4f8751b79e",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-02-12",
+      "fight_id": "d473fc4f8751b79e",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-03-27",
+      "fight_id": "f8aa1ac306224b80",
+      "rating": 1496.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-03-27",
+      "fight_id": "f8aa1ac306224b80",
+      "rating": 1497.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "df9d0d2a3946a726",
+      "rating": 1477.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2021-08-21",
+      "fight_id": "df9d0d2a3946a726",
+      "rating": 1480.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "9f0e832e89466ae9",
+      "rating": 1459.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2022-02-12",
+      "fight_id": "9f0e832e89466ae9",
+      "rating": 1464.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-12",
+  "name": "Fabio Cherant",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.0,
+  "slug": "fabio-cherant",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

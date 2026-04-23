@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 932,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Ricardo Funch",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-06-22",
+      "elo_delta": -16.5,
+      "event_name": "UFC on FX: Maynard vs Guida",
+      "fight_id": "7589b56c347d0639",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Dan Miller",
+      "opponent_elo": 1506.1,
+      "outcome": "red_win",
+      "post_elo": 1435.8,
+      "pre_elo": 1452.3,
+      "red_name": "Dan Miller",
+      "round": "3.0",
+      "time": "3:12",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mike Pyle",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-01-14",
+      "elo_delta": -14.0,
+      "event_name": "UFC 142: Aldo vs Mendes",
+      "fight_id": "d9b09798f238f783",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mike Pyle",
+      "opponent_elo": 1565.5,
+      "outcome": "blue_win",
+      "post_elo": 1452.3,
+      "pre_elo": 1466.3,
+      "red_name": "Ricardo Funch",
+      "round": "1.0",
+      "time": "1:22",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Claude Patrick",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-06-12",
+      "elo_delta": -18.6,
+      "event_name": "UFC 115: Liddell vs Franklin",
+      "fight_id": "198228c2b224ea96",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Claude Patrick",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1466.3,
+      "pre_elo": 1484.9,
+      "red_name": "Ricardo Funch",
+      "round": "2.0",
+      "time": "1:48",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ricardo Funch",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-12-12",
+      "elo_delta": -15.1,
+      "event_name": "UFC 107: Penn vs Sanchez",
+      "fight_id": "d4c52513d32ec022",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Johny Hendricks",
+      "opponent_elo": 1556.3,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1500.0,
+      "red_name": "Johny Hendricks",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-12-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-12-12",
+      "fight_id": "d4c52513d32ec022",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-12-12",
+      "fight_id": "d4c52513d32ec022",
+      "rating": 1486.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-12",
+      "fight_id": "198228c2b224ea96",
+      "rating": 1466.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-06-12",
+      "fight_id": "198228c2b224ea96",
+      "rating": 1469.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-01-14",
+      "fight_id": "d9b09798f238f783",
+      "rating": 1452.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-01-14",
+      "fight_id": "d9b09798f238f783",
+      "rating": 1456.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-06-22",
+      "fight_id": "7589b56c347d0639",
+      "rating": 1435.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-06-22",
+      "fight_id": "7589b56c347d0639",
+      "rating": 1441.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-06-22",
+  "name": "Ricardo Funch",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "ricardo-funch",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

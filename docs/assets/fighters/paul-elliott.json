@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.3,
+  "divisional_rank": 111,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ryugo Takeuchi",
+      "bout_type": "Heavyweight Bout",
+      "date": "2025-04-05",
+      "elo_delta": 20.6,
+      "event_name": "ONE Fight Night 30: Kryklia vs. Knowles",
+      "fight_id": "eb26e00126f7564d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ryugo Takeuchi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.3,
+      "pre_elo": 1479.7,
+      "red_name": "Paul Elliott",
+      "round": "3",
+      "time": "1:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Paul Elliott",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-09-30",
+      "elo_delta": -20.3,
+      "event_name": "ONE Fight Night 14: Stamp vs. Ham",
+      "fight_id": "3e597b186f1273d4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Mauro Cerilli",
+      "opponent_elo": 1484.6,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Mauro Cerilli",
+      "round": "1",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Paul Elliott",
+      "bout_type": "Heavyweight Bout",
+      "date": "2022-08-26",
+      "elo_delta": 0.0,
+      "event_name": "ONE 160: Ok vs. Lee 2",
+      "fight_id": "8cb4abc6d512d4a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (overturned)",
+      "opponent": "Martin Batur",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Martin Batur",
+      "round": "1",
+      "time": "3:38",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2022-08-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2022-08-26",
+      "fight_id": "8cb4abc6d512d4a1",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-08-26",
+      "fight_id": "8cb4abc6d512d4a1",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-30",
+      "fight_id": "3e597b186f1273d4",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-09-30",
+      "fight_id": "3e597b186f1273d4",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "eb26e00126f7564d",
+      "rating": 1500.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2025-04-05",
+      "fight_id": "eb26e00126f7564d",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-04-05",
+  "name": "Paul Elliott",
+  "nickname": "",
+  "overall_elo": 1500.2,
+  "peak_elo": 1500.3,
+  "slug": "paul-elliott",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

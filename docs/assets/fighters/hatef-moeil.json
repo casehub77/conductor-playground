@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 276,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lazar Todev",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-11-18",
+      "elo_delta": 19.8,
+      "event_name": "Oktagon 49: Moeil vs. Todev",
+      "fight_id": "02047621021841ce",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–46, 49–46, 48–47)",
+      "opponent": "Lazar Todev",
+      "opponent_elo": 1535.4,
+      "outcome": "red_win",
+      "post_elo": 1520.3,
+      "pre_elo": 1500.5,
+      "red_name": "Hatef Moeil",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Wallyson Carvalho",
+      "bout_type": "Heavyweight Bout",
+      "date": "2023-02-11",
+      "elo_delta": 19.0,
+      "event_name": "Oktagon 39: Jungwirth vs. Oliveira",
+      "fight_id": "87a6e946a1073ff3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Wallyson Carvalho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.5,
+      "pre_elo": 1481.5,
+      "red_name": "Hatef Moeil",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Hatef Moeil",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2018-03-03",
+      "elo_delta": -18.5,
+      "event_name": "KSW 42: Khalidov vs. Narkun",
+      "fight_id": "d62df77846120f77",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Retirement)",
+      "opponent": "Marcin Wójcik",
+      "opponent_elo": 1516.8,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Marcin Wójcik",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-03-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-03-03",
+      "fight_id": "d62df77846120f77",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-03-03",
+      "fight_id": "d62df77846120f77",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "87a6e946a1073ff3",
+      "rating": 1500.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-02-11",
+      "fight_id": "87a6e946a1073ff3",
+      "rating": 1500.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "02047621021841ce",
+      "rating": 1520.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2023-11-18",
+      "fight_id": "02047621021841ce",
+      "rating": 1517.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-11-18",
+  "name": "Hatef Moeil",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.3,
+  "slug": "hatef-moeil",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

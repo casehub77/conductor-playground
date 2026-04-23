@@ -1,0 +1,92 @@
+{
+  "current_elo": 1539.1,
+  "divisional_rank": 81,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Oban Elliott",
+      "bout_type": "Welterweight Bout",
+      "date": "2026-01-31",
+      "elo_delta": 20.1,
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "fight_id": "68ee81afcc7d18ff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Oban Elliott",
+      "opponent_elo": 1531.7,
+      "outcome": "red_win",
+      "post_elo": 1539.1,
+      "pre_elo": 1519.0,
+      "red_name": "Jonathan Micallef",
+      "round": "2.0",
+      "time": "3:31",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kevin Jousset",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-02-08",
+      "elo_delta": 19.0,
+      "event_name": "UFC 312: Du Plessis vs. Strickland 2",
+      "fight_id": "9d9d185478ab3d04",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Kevin Jousset",
+      "opponent_elo": 1519.0,
+      "outcome": "red_win",
+      "post_elo": 1519.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jonathan Micallef",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-02-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-02-08",
+      "fight_id": "9d9d185478ab3d04",
+      "rating": 1519.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-02-08",
+      "fight_id": "9d9d185478ab3d04",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "68ee81afcc7d18ff",
+      "rating": 1539.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2026-01-31",
+      "fight_id": "68ee81afcc7d18ff",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-01-31",
+  "name": "Jonathan Micallef",
+  "nickname": "",
+  "overall_elo": 1534.6,
+  "peak_elo": 1539.1,
+  "slug": "jonathan-micallef",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

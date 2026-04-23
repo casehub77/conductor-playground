@@ -1,0 +1,92 @@
+{
+  "current_elo": 1498.1,
+  "divisional_rank": 131,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nikola Kacperska",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-11-21",
+      "elo_delta": -19.9,
+      "event_name": "LFA 223: Francischinelli vs. Piersma",
+      "fight_id": "96565a76ba6264c2",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Hope Chase",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1498.1,
+      "pre_elo": 1518.0,
+      "red_name": "Hope Chase",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Lizzy Gevers",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2025-08-15",
+      "elo_delta": 18.0,
+      "event_name": "LFA 214: Fernando vs. Latu",
+      "fight_id": "890dc32654451245",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 28–29, 30–27)",
+      "opponent": "Lizzy Gevers",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Nikola Kacperska",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-08-15",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2025-08-15",
+      "fight_id": "890dc32654451245",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-08-15",
+      "fight_id": "890dc32654451245",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "96565a76ba6264c2",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2025-11-21",
+      "fight_id": "96565a76ba6264c2",
+      "rating": 1498.5,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-11-21",
+  "name": "Nikola Kacperska",
+  "nickname": "",
+  "overall_elo": 1498.5,
+  "peak_elo": 1518.0,
+  "slug": "nikola-kacperska",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

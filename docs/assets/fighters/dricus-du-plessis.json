@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 401,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Joilton Santos",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2019-09-14",
+      "elo_delta": 19.4,
+      "event_name": "KSW 50: London",
+      "fight_id": "f20aac671609d349",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Joilton Santos",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.1,
+      "red_name": "Dricus du Plessis",
+      "round": "2",
+      "time": "3:01",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Dricus du Plessis",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2018-10-06",
+      "elo_delta": -20.5,
+      "event_name": "KSW 45: The Return to Wembley",
+      "fight_id": "c98872145f53dc4d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Roberto Soldić",
+      "opponent_elo": 1501.5,
+      "outcome": "red_win",
+      "post_elo": 1500.2,
+      "pre_elo": 1520.7,
+      "red_name": "Roberto Soldić",
+      "round": "3",
+      "time": "2:33",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Roberto Soldić",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2018-04-14",
+      "elo_delta": 20.7,
+      "event_name": "KSW 43: Soldić vs. Du Plessis",
+      "fight_id": "d789f9ee265713da",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Roberto Soldić",
+      "opponent_elo": 1522.1,
+      "outcome": "red_win",
+      "post_elo": 1520.7,
+      "pre_elo": 1500.0,
+      "red_name": "Dricus du Plessis",
+      "round": "2",
+      "time": "1:38",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2018-04-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-04-14",
+      "fight_id": "d789f9ee265713da",
+      "rating": 1520.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "d789f9ee265713da",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "c98872145f53dc4d",
+      "rating": 1500.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "c98872145f53dc4d",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-09-14",
+      "fight_id": "f20aac671609d349",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2019-09-14",
+      "fight_id": "f20aac671609d349",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": "https://www.instagram.com/dricusduplessis/",
+  "instagram_featured": false,
+  "last_fight_date": "2019-09-14",
+  "name": "Dricus du Plessis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.7,
+  "slug": "dricus-du-plessis",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

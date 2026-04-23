@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 673,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ira Boyd",
+      "bout_type": "Catchweight (174 lb) Bout",
+      "date": "2009-05-08",
+      "elo_delta": 20.5,
+      "event_name": "Bellator 6",
+      "fight_id": "dc49a1763dd63010",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (arm injury)",
+      "opponent": "Ira Boyd",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Héctor Urbina",
+      "round": "1",
+      "time": "0:19",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Héctor Urbina",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-04-10",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 2",
+      "fight_id": "e36bb92dd8656b7a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Lyman Good",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Lyman Good",
+      "round": "2",
+      "time": "3:22",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-04-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-10",
+      "fight_id": "e36bb92dd8656b7a",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-04-10",
+      "fight_id": "e36bb92dd8656b7a",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-08",
+      "fight_id": "dc49a1763dd63010",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-05-08",
+      "fight_id": "dc49a1763dd63010",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-08",
+  "name": "Héctor Urbina",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.1,
+  "slug": "hector-urbina",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

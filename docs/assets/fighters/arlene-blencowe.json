@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 16,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Arlene Blencowe",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2023-04-21",
+      "elo_delta": -19.1,
+      "event_name": "Bellator 294: Carmouche vs. Bennett 2",
+      "fight_id": "77e73bb59065c045",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–27, 30–27, 30–26)",
+      "opponent": "Sara McMann",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.1,
+      "pre_elo": 1521.2,
+      "red_name": "Sara McMann",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Arlene Blencowe",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2022-04-23",
+      "elo_delta": -15.3,
+      "event_name": "Bellator 279: Cyborg vs. Blencowe 2",
+      "fight_id": "5e5e713c5b93401d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (49–45, 49–45, 49–45)",
+      "opponent": "Cris Cyborg",
+      "opponent_elo": 1589.8,
+      "outcome": "red_win",
+      "post_elo": 1521.2,
+      "pre_elo": 1536.4,
+      "red_name": "Cris Cyborg",
+      "round": "5",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Pam Sorenson",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2021-11-12",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 271: Cyborg vs. Kavanagh",
+      "fight_id": "412a425fbb6691bb",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
+      "opponent": "Pam Sorenson",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.4,
+      "red_name": "Arlene Blencowe",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Dayana Silva",
+      "bout_type": "Women's Featherweight Bout",
+      "date": "2021-07-16",
+      "elo_delta": 18.4,
+      "event_name": "Bellator 262: Velasquez vs. Kielholtz",
+      "fight_id": "981e4faceadc4534",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Dayana Silva",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Arlene Blencowe",
+      "round": "3",
+      "time": "1:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2021-07-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2021-07-16",
+      "fight_id": "981e4faceadc4534",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2021-07-16",
+      "fight_id": "981e4faceadc4534",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "412a425fbb6691bb",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2021-11-12",
+      "fight_id": "412a425fbb6691bb",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "5e5e713c5b93401d",
+      "rating": 1521.2,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2022-04-23",
+      "fight_id": "5e5e713c5b93401d",
+      "rating": 1518.7,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "77e73bb59065c045",
+      "rating": 1502.1,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2023-04-21",
+      "fight_id": "77e73bb59065c045",
+      "rating": 1501.8,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-21",
+  "name": "Arlene Blencowe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "slug": "arlene-blencowe",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

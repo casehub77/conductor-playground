@@ -1,0 +1,160 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 835,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Kyle Aguon",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2023-04-01",
+      "elo_delta": -15.5,
+      "event_name": "Rizin 41 – Osaka",
+      "fight_id": "37f7709e3adfa0e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kyohei Hagiwara",
+      "opponent_elo": 1534.7,
+      "outcome": "red_win",
+      "post_elo": 1471.0,
+      "pre_elo": 1486.5,
+      "red_name": "Kyohei Hagiwara",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Takahiro Ashida",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2022-04-17",
+      "elo_delta": 19.6,
+      "event_name": "Rizin 35",
+      "fight_id": "319b3a627e30e1e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Takahiro Ashida",
+      "opponent_elo": 1498.4,
+      "outcome": "red_win",
+      "post_elo": 1486.5,
+      "pre_elo": 1466.8,
+      "red_name": "Kyle Aguon",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kyle Aguon",
+      "bout_type": "Catchweight 67 kg Bout",
+      "date": "2020-12-31",
+      "elo_delta": -15.2,
+      "event_name": "Rizin 26 – Saitama",
+      "fight_id": "4c2536283b288ba7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Brabo Choke)",
+      "opponent": "Kleber Koike Erbst",
+      "opponent_elo": 1559.8,
+      "outcome": "red_win",
+      "post_elo": 1466.8,
+      "pre_elo": 1482.0,
+      "red_name": "Kleber Koike Erbst",
+      "round": "1",
+      "time": "4:21",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kyle Aguon",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2020-02-22",
+      "elo_delta": -18.0,
+      "event_name": "Rizin 21 – Hamamatsu",
+      "fight_id": "8f38eea3806e6d77",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Vugar Karamov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Vugar Karamov",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-02-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-02-22",
+      "fight_id": "8f38eea3806e6d77",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-02-22",
+      "fight_id": "8f38eea3806e6d77",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-12-31",
+      "fight_id": "4c2536283b288ba7",
+      "rating": 1466.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-12-31",
+      "fight_id": "4c2536283b288ba7",
+      "rating": 1470.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-04-17",
+      "fight_id": "319b3a627e30e1e7",
+      "rating": 1486.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-04-17",
+      "fight_id": "319b3a627e30e1e7",
+      "rating": 1487.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-04-01",
+      "fight_id": "37f7709e3adfa0e0",
+      "rating": 1471.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-04-01",
+      "fight_id": "37f7709e3adfa0e0",
+      "rating": 1473.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2023-04-01",
+  "name": "Kyle Aguon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "kyle-aguon",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

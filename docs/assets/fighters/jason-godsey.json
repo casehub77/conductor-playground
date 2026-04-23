@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 486,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jason Godsey",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": -18.1,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "ffed43deac890838",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jeremy Horn",
+      "opponent_elo": 1505.2,
+      "outcome": "red_win",
+      "post_elo": 1462.8,
+      "pre_elo": 1480.9,
+      "red_name": "Jeremy Horn",
+      "round": "1.0",
+      "time": "2:08",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jason Godsey",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-03-05",
+      "elo_delta": -19.1,
+      "event_name": "UFC 19: Ultimate Young Guns",
+      "fight_id": "f17e2f0d6b89e29c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Pete Williams",
+      "opponent_elo": 1505.6,
+      "outcome": "red_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1500.0,
+      "red_name": "Pete Williams",
+      "round": "1.0",
+      "time": "1:56",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1999-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-03-05",
+      "fight_id": "f17e2f0d6b89e29c",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-03-05",
+      "fight_id": "f17e2f0d6b89e29c",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "ffed43deac890838",
+      "rating": 1462.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "ffed43deac890838",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-09-24",
+  "name": "Jason Godsey",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jason-godsey",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

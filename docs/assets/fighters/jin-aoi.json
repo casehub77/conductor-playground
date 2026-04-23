@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 458,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jin Aoi",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2021-06-27",
+      "elo_delta": -18.9,
+      "event_name": "Rizin 29 – Osaka",
+      "fight_id": "0f63ba25b92ede41",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Rikuto Shirakawa",
+      "opponent_elo": 1504.4,
+      "outcome": "red_win",
+      "post_elo": 1503.3,
+      "pre_elo": 1522.2,
+      "red_name": "Rikuto Shirakawa",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Kotetsu Boku",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2020-08-10",
+      "elo_delta": 22.2,
+      "event_name": "Rizin 23 – Calling Over",
+      "fight_id": "4bab32a96fda54f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kotetsu Boku",
+      "opponent_elo": 1583.0,
+      "outcome": "red_win",
+      "post_elo": 1522.2,
+      "pre_elo": 1500.0,
+      "red_name": "Jin Aoi",
+      "round": "3",
+      "time": "15:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2020-08-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2020-08-10",
+      "fight_id": "4bab32a96fda54f5",
+      "rating": 1522.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-08-10",
+      "fight_id": "4bab32a96fda54f5",
+      "rating": 1519.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-06-27",
+      "fight_id": "0f63ba25b92ede41",
+      "rating": 1503.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2021-06-27",
+      "fight_id": "0f63ba25b92ede41",
+      "rating": 1503.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2021-06-27",
+  "name": "Jin Aoi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.2,
+  "slug": "jin-aoi",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

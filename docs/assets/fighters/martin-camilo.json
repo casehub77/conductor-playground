@@ -1,0 +1,92 @@
+{
+  "current_elo": 1538.9,
+  "divisional_rank": 83,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Raheam Forest",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-10-10",
+      "elo_delta": 19.4,
+      "event_name": "LFA 219: Thomson vs. Islomboev",
+      "fight_id": "040bb8e76daebea0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbows and punches)",
+      "opponent": "Raheam Forest",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1538.9,
+      "pre_elo": 1519.4,
+      "red_name": "Martin Camilo",
+      "round": "1",
+      "time": "3:39",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Perry Stargel",
+      "bout_type": "Welterweight Bout",
+      "date": "2025-04-11",
+      "elo_delta": 19.4,
+      "event_name": "LFA 206: Gennrich vs. Lebosnoyani",
+      "fight_id": "5e4947b305f6c8a2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (elbow and punch)",
+      "opponent": "Perry Stargel",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Martin Camilo",
+      "round": "1",
+      "time": "0:35",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2025-04-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-04-11",
+      "fight_id": "5e4947b305f6c8a2",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-04-11",
+      "fight_id": "5e4947b305f6c8a2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "040bb8e76daebea0",
+      "rating": 1538.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2025-10-10",
+      "fight_id": "040bb8e76daebea0",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-10-10",
+  "name": "Martin Camilo",
+  "nickname": "",
+  "overall_elo": 1534.6,
+  "peak_elo": 1538.9,
+  "slug": "martin-camilo",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

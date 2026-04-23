@@ -1,0 +1,92 @@
+{
+  "current_elo": 1534.1,
+  "divisional_rank": 117,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ali Gündüz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-03-07",
+      "elo_delta": 17.1,
+      "event_name": "Oktagon 85: Severino vs. Kakhorov",
+      "fight_id": "a28a611727fee6c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (28–29, 29–28, 29–28)",
+      "opponent": "Ali Gündüz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.1,
+      "pre_elo": 1517.0,
+      "red_name": "Raul Lemberanskij",
+      "round": "2",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jose Zarauz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-09-20",
+      "elo_delta": 17.0,
+      "event_name": "Oktagon 76: Weichel vs. Tounkara",
+      "fight_id": "4ec3ecfeff408195",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Jose Zarauz",
+      "opponent_elo": 1480.4,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Raul Lemberanskij",
+      "round": "3",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2025-09-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2025-09-20",
+      "fight_id": "4ec3ecfeff408195",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-09-20",
+      "fight_id": "4ec3ecfeff408195",
+      "rating": 1515.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "a28a611727fee6c9",
+      "rating": 1534.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-03-07",
+      "fight_id": "a28a611727fee6c9",
+      "rating": 1530.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-03-07",
+  "name": "Raul Lemberanskij",
+  "nickname": "",
+  "overall_elo": 1530.4,
+  "peak_elo": 1534.1,
+  "slug": "raul-lemberanskij",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

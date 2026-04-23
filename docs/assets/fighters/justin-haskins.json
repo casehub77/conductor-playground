@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 847,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Justin Haskins",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-03-01",
+      "elo_delta": -18.4,
+      "event_name": "WEC 39: Brown vs. Garcia",
+      "fight_id": "8547ac6612541fa6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Mike Pierce",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Mike Pierce",
+      "round": "3",
+      "time": "3:39",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Justin Haskins",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-12-03",
+      "elo_delta": -19.4,
+      "event_name": "WEC 37: Torres vs. Tapia",
+      "fight_id": "1dae522bb117483d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Johny Hendricks",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Johny Hendricks",
+      "round": "2",
+      "time": "0:43",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2008-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-03",
+      "fight_id": "1dae522bb117483d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-12-03",
+      "fight_id": "1dae522bb117483d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-03-01",
+      "fight_id": "8547ac6612541fa6",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-03-01",
+      "fight_id": "8547ac6612541fa6",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-03-01",
+  "name": "Justin Haskins",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "justin-haskins",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

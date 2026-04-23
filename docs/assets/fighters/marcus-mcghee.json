@@ -1,0 +1,167 @@
+{
+  "current_elo": 1555.9,
+  "divisional_rank": 59,
+  "fight_count": 5,
+  "fight_log": [
+    {
+      "blue_name": "Marcus Mcghee",
+      "bout_type": "Bantamweight Bout",
+      "date": "2025-07-26",
+      "elo_delta": -15.4,
+      "event_name": "UFC Fight Night: Whittaker vs. De Ridder",
+      "fight_id": "552b478fbaaa5efd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Petr Yan",
+      "opponent_elo": 1621.7,
+      "outcome": "red_win",
+      "post_elo": 1555.9,
+      "pre_elo": 1571.3,
+      "red_name": "Petr Yan",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Marcus Mcghee",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-11-16",
+      "elo_delta": 19.4,
+      "event_name": "UFC 309: Jones vs. Miocic",
+      "fight_id": "5ec4238e6ad9a55d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jonathan Martinez",
+      "opponent_elo": 1579.9,
+      "outcome": "blue_win",
+      "post_elo": 1571.3,
+      "pre_elo": 1551.9,
+      "red_name": "Jonathan Martinez",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Gaston Bolanos",
+      "bout_type": "Bantamweight Bout",
+      "date": "2024-01-13",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "fight_id": "d969ef4b4bf2ccfd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Gaston Bolanos",
+      "opponent_elo": 1531.0,
+      "outcome": "red_win",
+      "post_elo": 1551.9,
+      "pre_elo": 1532.5,
+      "red_name": "Marcus Mcghee",
+      "round": "2.0",
+      "time": "3:29",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Marcus Mcghee",
+      "bout_type": "Bantamweight Bout",
+      "date": "2023-08-12",
+      "elo_delta": 16.7,
+      "event_name": "UFC Fight Night: Luque vs. Dos Anjos",
+      "fight_id": "d685af4be8280fc5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jp Buys",
+      "opponent_elo": 1466.1,
+      "outcome": "blue_win",
+      "post_elo": 1532.5,
+      "pre_elo": 1515.9,
+      "red_name": "Jp Buys",
+      "round": "1.0",
+      "time": "2:19",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2023-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2023-04-29",
+      "fight_id": "e8a98a8a083de690",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-08-12",
+      "fight_id": "d685af4be8280fc5",
+      "rating": 1532.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-08-12",
+      "fight_id": "d685af4be8280fc5",
+      "rating": 1530.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "d969ef4b4bf2ccfd",
+      "rating": 1551.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-13",
+      "fight_id": "d969ef4b4bf2ccfd",
+      "rating": 1547.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-11-16",
+      "fight_id": "5ec4238e6ad9a55d",
+      "rating": 1571.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-11-16",
+      "fight_id": "5ec4238e6ad9a55d",
+      "rating": 1565.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "552b478fbaaa5efd",
+      "rating": 1555.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2025-07-26",
+      "fight_id": "552b478fbaaa5efd",
+      "rating": 1551.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2025-07-26",
+  "name": "Marcus Mcghee",
+  "nickname": "",
+  "overall_elo": 1551.5,
+  "peak_elo": 1571.3,
+  "slug": "marcus-mcghee",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

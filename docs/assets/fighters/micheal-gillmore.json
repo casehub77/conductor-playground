@@ -1,0 +1,92 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 1040,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Micheal Gillmore",
+      "bout_type": "Welterweight Bout",
+      "date": "2022-02-26",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Makhachev vs. Green",
+      "fight_id": "53fbdbdff7697690",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ramiz Brahimaj",
+      "opponent_elo": 1481.0,
+      "outcome": "red_win",
+      "post_elo": 1463.2,
+      "pre_elo": 1482.7,
+      "red_name": "Ramiz Brahimaj",
+      "round": "1.0",
+      "time": "2:02",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Micheal Gillmore",
+      "bout_type": "Middleweight Bout",
+      "date": "2021-08-28",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Barboza vs. Chikadze",
+      "fight_id": "3a2137623972475c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Andre Petroski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Andre Petroski",
+      "round": "3.0",
+      "time": "3:12",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2021-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2021-08-28",
+      "fight_id": "3a2137623972475c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2021-08-28",
+      "fight_id": "3a2137623972475c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "53fbdbdff7697690",
+      "rating": 1463.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2022-02-26",
+      "fight_id": "53fbdbdff7697690",
+      "rating": 1465.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2022-02-26",
+  "name": "Micheal Gillmore",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "micheal-gillmore",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

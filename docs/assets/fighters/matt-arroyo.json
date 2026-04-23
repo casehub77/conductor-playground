@@ -1,0 +1,126 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 497,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Matt Arroyo",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-01-31",
+      "elo_delta": -17.9,
+      "event_name": "UFC 94: St-Pierre vs Penn 2",
+      "fight_id": "c73be69fabfea80e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Dan Cramer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1498.9,
+      "red_name": "Dan Cramer",
+      "round": "3.0",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Matt Arroyo",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-06-21",
+      "elo_delta": -20.5,
+      "event_name": "The Ultimate Fighter: Team Rampage vs Team Forrest Finale",
+      "fight_id": "be0569e7676cf0d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Matt Brown",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Matt Brown",
+      "round": "2.0",
+      "time": "3:40",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "John Kolosci",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-12-08",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Hughes vs. Team Serra Finale",
+      "fight_id": "fd8a3cdcdd7feedb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "John Kolosci",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Matt Arroyo",
+      "round": "1.0",
+      "time": "4:42",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-12-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-12-08",
+      "fight_id": "fd8a3cdcdd7feedb",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-12-08",
+      "fight_id": "fd8a3cdcdd7feedb",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-06-21",
+      "fight_id": "be0569e7676cf0d5",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-06-21",
+      "fight_id": "be0569e7676cf0d5",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-01-31",
+      "fight_id": "c73be69fabfea80e",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-01-31",
+      "fight_id": "c73be69fabfea80e",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-01-31",
+  "name": "Matt Arroyo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "slug": "matt-arroyo",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}
