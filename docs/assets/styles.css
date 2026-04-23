@@ -38,6 +38,11 @@ body {
   letter-spacing: 0;
 }
 
+img,
+svg {
+  max-width: 100%;
+}
+
 body::after {
   content: "";
   position: fixed;
@@ -89,6 +94,7 @@ a:hover {
   justify-content: space-between;
   gap: 16px;
   padding: 6px 16px;
+  min-width: 0;
 }
 
 .site-logo {
@@ -136,6 +142,7 @@ a:hover {
   flex-wrap: wrap;
   justify-content: flex-end;
   gap: 4px;
+  min-width: 0;
 }
 
 .nav-btn,
@@ -155,6 +162,10 @@ a:hover {
   box-shadow: inset 1px 1px 0 rgba(255, 255, 255, 0.08), inset -1px -1px 0 rgba(0, 0, 0, 0.55);
   cursor: pointer;
   transition: all 0.05s;
+}
+
+.nav-btn {
+  min-width: 0;
 }
 
 .nav-btn:hover,
@@ -234,6 +245,12 @@ a:hover {
   background-size: auto, 96px 96px, auto, auto;
 }
 
+.fighter-head > div,
+.hero-copy,
+.hero-stats {
+  min-width: 0;
+}
+
 .hero-band::after,
 .fighter-head::after {
   content: "";
@@ -274,6 +291,7 @@ a:hover {
   text-transform: uppercase;
   -webkit-text-stroke: 2px #cc0000;
   animation: flicker1 0.15s infinite alternate;
+  overflow-wrap: anywhere;
 }
 
 .fighter-head h1 {
@@ -508,6 +526,7 @@ a:hover {
 
 .table-wrap {
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border: 1px solid rgba(220, 199, 122, 0.35);
   border-top: none;
   background: rgba(8, 8, 8, 0.92);
@@ -1007,13 +1026,28 @@ code {
 }
 
 @media (max-width: 760px) {
-  .header-inner,
+  body::after {
+    display: none;
+  }
+
+  .header-inner {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    padding: 10px 12px;
+  }
+
   .hero-band,
   .fighter-head,
   .instagram-panel {
     grid-template-columns: 1fr;
-    flex-direction: column;
     align-items: stretch;
+  }
+
+  .hero-band,
+  .fighter-head {
+    gap: 16px;
+    padding: 28px 16px 22px;
   }
 
   .instagram-profile-card {
@@ -1035,19 +1069,47 @@ code {
     justify-content: center;
   }
 
+  .site-logo {
+    min-width: 0;
+    flex-wrap: wrap;
+    row-gap: 6px;
+  }
+
+  .logo-text {
+    font-size: 22px;
+    letter-spacing: 2px;
+  }
+
+  .logo-badge {
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+
+  .live-dot {
+    width: 100%;
+    text-align: center;
+  }
+
+  .site-nav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .nav-btn {
-    flex: 1 1 auto;
     text-align: center;
     padding: 6px 10px;
+    font-size: 16px;
+    letter-spacing: 1px;
   }
 
   .hero-stats {
     flex-direction: row;
+    flex-wrap: wrap;
   }
 
   .stat {
     min-width: 0;
-    flex: 1;
+    flex: 1 1 120px;
     padding: 8px;
   }
 
@@ -1057,16 +1119,37 @@ code {
 
   .hero-copy h1,
   .fire-title {
-    font-size: 56px;
+    font-size: clamp(40px, 14vw, 56px);
+    -webkit-text-stroke: 1px #cc0000;
+    letter-spacing: 2px;
   }
 
   .fighter-head h1 {
-    font-size: 46px;
+    font-size: clamp(34px, 12vw, 46px);
+  }
+
+  .dek,
+  .hero-desc {
+    font-size: 15px;
+  }
+
+  .section-header {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .section-title {
+    font-size: clamp(28px, 9vw, 36px);
+    letter-spacing: 2px;
   }
 
   .result-grid,
   .result-grid.wide {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .fighter-result {
+    min-height: 96px;
   }
 
   .tabs {
@@ -1082,6 +1165,82 @@ code {
   .lineage-step {
     grid-template-columns: 1fr;
   }
+
+  .fighter-meta {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .fighter-meta > * {
+    min-width: 0;
+    text-align: center;
+  }
+
+  .search-wrap {
+    max-width: none;
+  }
+
+  .search {
+    font-size: 16px;
+    padding: 10px 12px;
+  }
+
+  .select-label {
+    width: 100%;
+  }
+
+  .select {
+    min-width: 0;
+    width: 100%;
+  }
+
+  table {
+    min-width: 620px;
+    font-size: 12px;
+  }
+
+  th {
+    padding: 8px 10px;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  td {
+    padding: 8px 10px;
+  }
+
+  td:nth-child(3),
+  td:nth-child(4) {
+    font-size: 18px;
+  }
+
+  .chart-wrap {
+    padding: 10px;
+  }
+
+  .elo-svg {
+    min-height: 240px;
+  }
+
+  .axis-label,
+  .axis-title {
+    font-size: 16px;
+  }
+
+  .chart-point-label text {
+    font-size: 13px;
+  }
+
+  .ad-slot {
+    width: min(1200px, calc(100% - 20px));
+    padding: 12px;
+  }
+
+  .site-footer {
+    padding: 18px 14px 24px;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
 }
 
 @media (max-width: 430px) {
@@ -1092,5 +1251,46 @@ code {
 
   .hero-stats {
     flex-direction: column;
+  }
+
+  .site-nav,
+  .tabs,
+  .fighter-meta {
+    grid-template-columns: 1fr;
+  }
+
+  .main-content,
+  .band,
+  .loading,
+  .error,
+  .ad-slot {
+    width: min(1200px, calc(100% - 16px));
+  }
+
+  .hero-band,
+  .fighter-head {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .section-title {
+    font-size: 28px;
+  }
+
+  .fighter-result strong {
+    font-size: 13px;
+    padding-right: 24px;
+  }
+
+  .fighter-result span {
+    font-size: 12px;
+  }
+
+  table {
+    min-width: 560px;
+  }
+
+  .chart-context {
+    font-size: 16px;
   }
 }
