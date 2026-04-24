@@ -1,17 +1,17 @@
 :root {
-  --gold: #dcc77a;
-  --gold-bright: #f3e1a3;
-  --gold-dark: #7a6331;
-  --red: #c9302c;
+  --gold: #e8b94a;
+  --gold-bright: #f5d060;
+  --gold-dark: #a07820;
+  --red: #cc1a1a;
   --red-bright: #ff2222;
-  --bg: #090909;
-  --bg2: #11100d;
-  --bg3: #171614;
-  --text: #ebe1bd;
-  --text-dim: #aa9d7d;
-  --green: #59c89a;
-  --bevel-light: #c9b87c;
-  --bevel-dark: #3b3020;
+  --bg: #0a0a0a;
+  --bg2: #111108;
+  --bg3: #1a1a12;
+  --text: #e8e0cc;
+  --text-dim: #8a8070;
+  --green: #44cc44;
+  --bevel-light: #c8b060;
+  --bevel-dark: #3a2a00;
 }
 
 * {
@@ -27,12 +27,13 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   background-image:
-    linear-gradient(rgba(9, 9, 9, 0.92), rgba(9, 9, 9, 0.92)),
-    url("cage-texture.svg"),
-    linear-gradient(180deg, #060606 0%, #0d0d0d 100%);
+    repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.3) 2px, rgba(0,0,0,0.3) 4px),
+    repeating-linear-gradient(90deg, transparent, transparent 40px, rgba(232,185,74,0.02) 40px, rgba(232,185,74,0.02) 41px),
+    linear-gradient(rgba(10, 10, 10, 0.94), rgba(10, 10, 10, 0.94)),
+    url("cage-texture.svg");
   background-color: var(--bg);
-  background-size: auto, 96px 96px, auto;
-  background-attachment: scroll, fixed, scroll;
+  background-size: auto, auto, auto, 96px 96px;
+  background-attachment: scroll, scroll, scroll, fixed;
   color: var(--text);
   font-family: "Courier Prime", Courier, monospace;
   letter-spacing: 0;
@@ -83,9 +84,9 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: linear-gradient(180deg, #120d0a 0%, #050505 64%);
+  background: linear-gradient(180deg, #1a0000 0%, #000 60%);
   border-bottom: 4px solid var(--red);
-  box-shadow: 0 4px 0 rgba(122, 99, 49, 0.95);
+  box-shadow: 0 4px 0 var(--gold-dark);
 }
 
 .header-inner {
@@ -185,10 +186,10 @@ a:hover {
 .marquee-wrap {
   overflow: hidden;
   white-space: nowrap;
-  background: #060606;
-  border-top: 1px solid rgba(220, 199, 122, 0.35);
-  border-bottom: 1px solid rgba(220, 199, 122, 0.35);
-  padding: 4px 0;
+  background: #000;
+  border-top: 2px solid var(--gold-dark);
+  border-bottom: 2px solid var(--gold-dark);
+  padding: 2px 0;
 }
 
 .marquee-inner {
@@ -271,11 +272,11 @@ a:hover {
 
 .eyebrow {
   margin: 0 0 8px;
-  color: #78d4ad;
+  color: var(--green);
   font-family: "VT323", monospace;
   font-size: 20px;
   letter-spacing: 3px;
-  text-shadow: 0 0 10px rgba(89, 200, 154, 0.45);
+  text-shadow: 0 0 10px var(--green);
   text-transform: uppercase;
 }
 
@@ -328,10 +329,11 @@ a:hover {
   min-width: 140px;
   padding: 14px 16px 12px;
   text-align: left;
-  background: rgba(10, 10, 10, 0.92);
-  border: 2px solid rgba(220, 199, 122, 0.92);
+  background: #0a0800;
+  border: 3px solid;
+  border-color: var(--bevel-light) var(--bevel-dark) var(--bevel-dark) var(--bevel-light);
   border-radius: 4px;
-  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.03) inset;
+  box-shadow: inset 1px 1px 0 rgba(255,255,255,0.1), inset -1px -1px 0 rgba(0,0,0,0.5);
 }
 
 .stat span {
