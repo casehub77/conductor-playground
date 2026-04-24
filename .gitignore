@@ -4,3 +4,10 @@ __pycache__/
 .context/
 data/processed/dry_run_*
 data/processed/source_conflicts.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
