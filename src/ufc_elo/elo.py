@@ -465,6 +465,8 @@ def build_profiles(
         division_state = ratings.get(division_system, {}).get(name)
         current_overall = apply_inactivity_decay(overall_state.rating, overall_state.last_fight_date, as_of, config) if overall_state else None
         current_division = apply_inactivity_decay(division_state.rating, division_state.last_fight_date, as_of, config) if division_state else None
+        raw_overall = overall_state.rating if overall_state else None
+        raw_division = division_state.rating if division_state else None
         profile = {
             "name": name,
             "slug": slugify(name),
@@ -476,7 +478,13 @@ def build_profiles(
                 "division": division_system,
             },
             "current_elo": round(current_division if current_division is not None else current_overall or 1500, 1),
+            "raw_current_elo": round(raw_division if raw_division is not None else raw_overall or 1500, 1),
             "overall_elo": round(current_overall, 1) if current_overall is not None else None,
+            "raw_overall_elo": round(raw_overall, 1) if raw_overall is not None else None,
+            "inactivity_adjusted": bool(
+                (current_division is not None and raw_division is not None and round(current_division, 1) != round(raw_division, 1))
+                or (current_division is None and current_overall is not None and raw_overall is not None and round(current_overall, 1) != round(raw_overall, 1))
+            ),
             "peak_elo": round(max([state.peak for systems in ratings.values() for fighter, state in systems.items() if fighter == name] or [1500]), 1),
             "divisional_rank": rank_lookup.get((division_system, name)),
             "fight_count": base["fight_count"],

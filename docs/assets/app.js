@@ -386,6 +386,7 @@ async function renderFighter() {
       </div>
       <div class="hero-stats">
         ${stat("Current Elo", fighter.current_elo)}
+        ${fighter.inactivity_adjusted ? stat("Last Active Elo", fighter.raw_current_elo) : ""}
         ${stat("Peak Elo", fighter.peak_elo)}
         ${stat("Div. rank", fighter.divisional_rank)}
       </div>
@@ -396,6 +397,7 @@ async function renderFighter() {
         <span>${fmt(fighter.fight_count)} bouts</span>
         <span>First: ${fmt(fighter.first_fight_date)}</span>
         <span>Last: ${fmt(fighter.last_fight_date)}</span>
+        ${fighter.inactivity_adjusted ? `<span>Inactive decay applied</span>` : ""}
         ${fighter.instagram ? `<a href="${fighter.instagram}" rel="nofollow noopener" target="_blank">INSTAGRAM</a>` : "<span>NO VERIFIED INSTAGRAM</span>"}
       </div>
       ${renderInstagramEmbed(fighter)}
