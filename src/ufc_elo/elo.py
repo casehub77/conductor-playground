@@ -444,6 +444,23 @@ def apply_inactivity_decay(rating: float, last_fight_date: date | None, as_of: d
     return min(floor, rating + penalty)
 
 
+def inactivity_summary(last_fight_date: date | None, as_of: date, config: dict[str, Any]) -> dict[str, Any]:
+    decay = config.get("inactivity_decay", {})
+    after_days = int(decay.get("after_days", 545))
+    if not last_fight_date:
+        return {
+            "status": "unknown",
+            "days_since_last_fight": None,
+            "inactive_after_days": after_days,
+        }
+    days_since = max(0, (as_of - last_fight_date).days)
+    return {
+        "status": "inactive" if days_since > after_days else "active",
+        "days_since_last_fight": days_since,
+        "inactive_after_days": after_days,
+    }
+
+
 def build_profiles(
     fighters: dict[str, dict[str, Any]],
     ratings: dict[str, dict[str, RatingState]],
@@ -467,6 +484,7 @@ def build_profiles(
         current_division = apply_inactivity_decay(division_state.rating, division_state.last_fight_date, as_of, config) if division_state else None
         raw_overall = overall_state.rating if overall_state else None
         raw_division = division_state.rating if division_state else None
+        inactivity = inactivity_summary(base["last_fight_date"], as_of, config)
         profile = {
             "name": name,
             "slug": slugify(name),
@@ -485,6 +503,9 @@ def build_profiles(
                 (current_division is not None and raw_division is not None and round(current_division, 1) != round(raw_division, 1))
                 or (current_division is None and current_overall is not None and raw_overall is not None and round(current_overall, 1) != round(raw_overall, 1))
             ),
+            "activity_status": inactivity["status"],
+            "days_since_last_fight": inactivity["days_since_last_fight"],
+            "inactive_after_days": inactivity["inactive_after_days"],
             "peak_elo": round(max([state.peak for systems in ratings.values() for fighter, state in systems.items() if fighter == name] or [1500]), 1),
             "divisional_rank": rank_lookup.get((division_system, name)),
             "fight_count": base["fight_count"],

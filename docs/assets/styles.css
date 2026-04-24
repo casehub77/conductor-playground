@@ -280,6 +280,28 @@ a:hover {
   text-transform: uppercase;
 }
 
+.activity-badge {
+  display: inline-block;
+  margin: 0 0 10px;
+  padding: 2px 10px;
+  border: 2px solid;
+  font-family: "VT323", monospace;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
+.activity-badge.active {
+  border-color: var(--green);
+  color: var(--green);
+  background: rgba(68, 204, 68, 0.08);
+}
+
+.activity-badge.inactive {
+  border-color: var(--red);
+  color: #fff;
+  background: rgba(204, 26, 26, 0.82);
+}
+
 .hero-copy h1,
 .fighter-head h1,
 .fire-title {

@@ -381,6 +381,7 @@ async function renderFighter() {
     <section class="fighter-head">
       <div>
         <p class="eyebrow">${escapeHtml(fighter.gender)} ${escapeHtml(fighter.weight_class)}</p>
+        ${renderActivityStatus(fighter)}
         <h1>${escapeHtml(fighter.name)}</h1>
         ${fighter.nickname ? `<p class="nickname">"${escapeHtml(fighter.nickname)}"</p>` : ""}
       </div>
@@ -397,7 +398,7 @@ async function renderFighter() {
         <span>${fmt(fighter.fight_count)} bouts</span>
         <span>First: ${fmt(fighter.first_fight_date)}</span>
         <span>Last: ${fmt(fighter.last_fight_date)}</span>
-        ${fighter.inactivity_adjusted ? `<span>Inactive decay applied</span>` : ""}
+        ${renderActivityMeta(fighter)}
         ${fighter.instagram ? `<a href="${fighter.instagram}" rel="nofollow noopener" target="_blank">INSTAGRAM</a>` : "<span>NO VERIFIED INSTAGRAM</span>"}
       </div>
       ${renderInstagramEmbed(fighter)}
@@ -425,6 +426,24 @@ async function renderFighter() {
   });
   drawChart(activeSystem);
   processInstagramEmbeds();
+}
+
+function renderActivityStatus(fighter) {
+  const status = fighter.activity_status;
+  if (!status || status === "unknown") return "";
+  const label = status === "inactive" ? "INACTIVE" : "ACTIVE";
+  const klass = status === "inactive" ? "inactive" : "active";
+  return `<div class="activity-badge ${klass}">${label}</div>`;
+}
+
+function renderActivityMeta(fighter) {
+  if (fighter.activity_status === "inactive") {
+    return `<span>Inactive after ${fmt(fighter.inactive_after_days)} days</span>`;
+  }
+  if (fighter.activity_status === "active" && fighter.days_since_last_fight !== null && fighter.days_since_last_fight !== undefined) {
+    return `<span>${fmt(fighter.days_since_last_fight)} days since last fight</span>`;
+  }
+  return "";
 }
 
 function renderInstagramEmbed(fighter) {
