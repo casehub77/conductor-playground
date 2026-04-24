@@ -75,8 +75,8 @@ def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict
         page_dir.mkdir(parents=True, exist_ok=True)
         (page_dir / "index.html").write_text(
             html_shell(
-                title=f"{fighter['name']} Elo",
-                description=f"{fighter['name']} Elo rating history, fight log, opponent strength, and divisional rank.",
+                title=f"{fighter['name']} | MMA ELO Tracker",
+                description=f"{fighter['name']} MMA Elo rating history, fight log, opponent strength, and divisional rank.",
                 page="fighter",
                 asset_prefix="../../assets",
                 fighter_slug=slug,
@@ -88,7 +88,7 @@ def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict
 
     (docs_dir / "index.html").write_text(
         html_shell(
-            title=site_config.get("title", "ELO Pit Fighter Ratings"),
+            title=site_config.get("title", "MMA ELO Tracker"),
             description=site_config.get("description", "MMA fighter Elo ratings from full-history capable fight data."),
             page="home",
             asset_prefix="assets",
@@ -99,8 +99,8 @@ def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict
     )
     (fighter_pages / "index.html").write_text(
         html_shell(
-            title="All Fighters Elo Index",
-            description="Search every fighter in the Elo ratings database.",
+            title="All Fighters | MMA ELO Tracker",
+            description="Search every fighter in the MMA Elo ratings database.",
             page="fighters",
             asset_prefix="../assets",
             asset_version=asset_version,
@@ -112,8 +112,8 @@ def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict
     champions_dir.mkdir(exist_ok=True)
     (champions_dir / "index.html").write_text(
         html_shell(
-            title="Previous Champions Elo",
-            description="Title fight winners and previous champions with current Elo context.",
+            title="Previous Champions | MMA ELO Tracker",
+            description="Title fight winners and previous champions with current MMA Elo context.",
             page="champions",
             asset_prefix="../assets",
             asset_version=asset_version,
@@ -125,8 +125,8 @@ def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict
     rankings_dir.mkdir(exist_ok=True)
     (rankings_dir / "index.html").write_text(
         html_shell(
-            title="Elo Rankings",
-            description="Current Elo rankings by gender and weight class.",
+            title="Rankings | MMA ELO Tracker",
+            description="Current MMA Elo rankings by gender and weight class.",
             page="rankings",
             asset_prefix="../assets",
             asset_version=asset_version,
@@ -193,8 +193,8 @@ def html_shell(
   <header class="site-header">
     <div class="header-inner">
     <a class="site-logo" href="{nav_href(page, 'home')}">
-      <span class="logo-badge">ELO</span>
-      <span class="logo-text">ELO PIT</span>
+      <span class="logo-badge">MMA</span>
+      <span class="logo-text">ELO TRACKER</span>
       <span class="live-dot">● LIVE</span>
     </a>
     <nav class="site-nav">
@@ -205,7 +205,7 @@ def html_shell(
     </nav>
     </div>
     <div class="marquee-wrap">
-      <span class="marquee-inner">★ INDEPENDENT FIGHTER ELO RATINGS ★ CHESS-STYLE RANKINGS FROM FIGHT HISTORY ★ FULL HISTORY BUILD ★ ELO PIT IS FAN-MADE ★ FIGHT NIGHT RESULTS UPDATED BY PIPELINE ★</span>
+      <span class="marquee-inner">★ INDEPENDENT MMA ELO RATINGS ★ CHESS-STYLE RANKINGS FROM FIGHT HISTORY ★ FULL HISTORY BUILD ★ MMA ELO TRACKER IS FAN-MADE ★ FIGHT NIGHT RESULTS UPDATED BY PIPELINE ★</span>
     </div>
   </header>
   <main id="app" class="app" aria-live="polite">

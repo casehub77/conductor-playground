@@ -164,7 +164,7 @@ async function renderHome() {
     <section class="hero-band">
       <div class="hero-copy">
         <p class="eyebrow">Independent ratings from fight history</p>
-        <h1>ELO PIT</h1>
+        <h1>MMA ELO TRACKER</h1>
         <p class="dek">Chess-style fighter ratings split by gender and division, built from public fight result data with fallback imports and manual correction files.</p>
       </div>
       <div class="hero-stats">
