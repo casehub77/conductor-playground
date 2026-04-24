@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 270,
+  "divisional_rank": 278,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Junior Albini",
       "bout_type": "Heavyweight Bout",
       "date": "2019-06-29",
-      "elo_delta": -15.6,
+      "elo_delta": -15.7,
       "event_name": "UFC Fight Night: Ngannou vs. Dos Santos",
       "fight_id": "5b8e737f558fbecd",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Maurice Greene",
       "opponent_elo": 1536.4,
       "outcome": "red_win",
-      "post_elo": 1452.1,
-      "pre_elo": 1467.7,
+      "post_elo": 1452.2,
+      "pre_elo": 1467.8,
       "red_name": "Maurice Greene",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:38",
       "weight_class": "Heavyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Jairzinho Rozenstruik",
       "opponent_elo": 1518.0,
       "outcome": "blue_win",
-      "post_elo": 1467.7,
-      "pre_elo": 1485.3,
+      "post_elo": 1467.8,
+      "pre_elo": 1485.4,
       "red_name": "Junior Albini",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:54",
       "weight_class": "Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Aleksei Oleinik",
-      "opponent_elo": 1536.1,
+      "opponent_elo": 1536.5,
       "outcome": "red_win",
-      "post_elo": 1485.3,
-      "pre_elo": 1502.9,
+      "post_elo": 1485.4,
+      "pre_elo": 1503.0,
       "red_name": "Aleksei Oleinik",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:45",
       "weight_class": "Heavyweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Andrei Arlovski",
       "bout_type": "Heavyweight Bout",
       "date": "2017-11-11",
-      "elo_delta": -17.6,
+      "elo_delta": -17.5,
       "event_name": "UFC Fight Night: Poirier vs. Pettis",
       "fight_id": "38ae40ec212d3965",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Andrei Arlovski",
-      "opponent_elo": 1528.0,
+      "opponent_elo": 1530.0,
       "outcome": "blue_win",
-      "post_elo": 1502.9,
+      "post_elo": 1503.0,
       "pre_elo": 1520.5,
       "red_name": "Junior Albini",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Timothy Johnson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:51",
       "weight_class": "Heavyweight"
     }
@@ -124,56 +134,56 @@
     {
       "date": "2017-11-11",
       "fight_id": "38ae40ec212d3965",
-      "rating": 1502.9,
+      "rating": 1503.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2017-11-11",
       "fight_id": "38ae40ec212d3965",
-      "rating": 1502.6,
+      "rating": 1502.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2018-05-12",
       "fight_id": "7966427b28cb4c0d",
-      "rating": 1485.3,
+      "rating": 1485.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2018-05-12",
       "fight_id": "7966427b28cb4c0d",
-      "rating": 1486.8,
+      "rating": 1486.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-02-02",
       "fight_id": "6e1d1b84ae4c57e0",
-      "rating": 1467.7,
+      "rating": 1467.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2019-02-02",
       "fight_id": "6e1d1b84ae4c57e0",
-      "rating": 1471.0,
+      "rating": 1471.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-06-29",
       "fight_id": "5b8e737f558fbecd",
-      "rating": 1452.1,
+      "rating": 1452.2,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2019-06-29",
       "fight_id": "5b8e737f558fbecd",
-      "rating": 1456.7,
+      "rating": 1456.8,
       "scope": "overall",
       "system": "men:overall"
     }

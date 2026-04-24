@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 972,
+  "divisional_rank": 968,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Masakazu Taguchi",
       "bout_type": "Open Weight Bout",
       "date": "2010-07-04",
-      "elo_delta": -15.5,
+      "elo_delta": -15.6,
       "event_name": "Shooto: Gig Saitama 2",
       "fight_id": "cb46356f25d6d229",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Paolo Milano",
-      "opponent_elo": 1497.7,
+      "opponent_elo": 1495.2,
       "outcome": "red_win",
-      "post_elo": 1433.2,
+      "post_elo": 1433.1,
       "pre_elo": 1448.7,
       "red_name": "Paolo Milano",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1427.2,
       "red_name": "Masakazu Taguchi",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "2:37",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1443.4,
       "red_name": "Hisaki Hiraishi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Shinobu Miura",
-      "opponent_elo": 1467.4,
+      "opponent_elo": 1467.3,
       "outcome": "red_win",
       "post_elo": 1443.4,
       "pre_elo": 1461.0,
       "red_name": "Shinobu Miura",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1480.4,
       "red_name": "Kenichi Hattori",
       "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "2:30",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.9,
       "red_name": "Hidekazu Asakura",
       "round": "1",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "3:50",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yuki Inoue",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -234,14 +248,14 @@
     {
       "date": "2010-07-04",
       "fight_id": "cb46356f25d6d229",
-      "rating": 1433.2,
+      "rating": 1433.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-07-04",
       "fight_id": "cb46356f25d6d229",
-      "rating": 1440.0,
+      "rating": 1439.9,
       "scope": "overall",
       "system": "men:overall"
     }

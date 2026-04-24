@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 217,
-  "fight_count": 8,
+  "divisional_rank": 326,
+  "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Osunaarashi",
       "bout_type": "Open Weight Bout",
       "date": "2018-09-30",
-      "elo_delta": 16.1,
+      "elo_delta": 17.0,
       "event_name": "Rizin 13 - Saitama",
       "fight_id": "24df367ea65665c2",
       "gender": "men",
@@ -16,31 +16,13 @@
       "opponent": "Osunaarashi",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1552.2,
-      "pre_elo": 1536.1,
-      "red_name": "Bob Sapp",
-      "round": "3",
-      "time": "9:00",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Akebono Tarō",
-      "bout_type": "Open Weight Bout",
-      "date": "2015-12-31",
-      "elo_delta": 17.0,
-      "event_name": "Rizin World Grand Prix 2015: Part 2 - Iza",
-      "fight_id": "23e00fd3e34df149",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (Unanimous)",
-      "opponent": "Akebono Tarō",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
       "post_elo": 1536.1,
       "pre_elo": 1519.1,
       "red_name": "Bob Sapp",
       "round": "3",
-      "time": "15:00",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
+      "time": "9:00",
       "weight_class": "Open Weight"
     },
     {
@@ -54,12 +36,14 @@
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Rameau Thierry Sokoudjou",
-      "opponent_elo": 1551.4,
+      "opponent_elo": 1551.5,
       "outcome": "red_win",
       "post_elo": 1465.1,
       "pre_elo": 1480.6,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 11",
       "time": "1:31",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +64,8 @@
       "pre_elo": 1496.1,
       "red_name": "Ikuhisa Minowa",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 9",
       "time": "1:15",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +86,8 @@
       "pre_elo": 1517.6,
       "red_name": "Jan Nortje",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: At The Dome",
       "time": "0:55",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +108,8 @@
       "pre_elo": 1537.1,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Shockwave",
       "time": "4:03",
       "weight_class": "Open Weight"
     },
@@ -140,6 +130,8 @@
       "pre_elo": 1519.6,
       "red_name": "Bob Sapp",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 21",
       "time": "0:11",
       "weight_class": "Open Weight"
     },
@@ -160,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Bob Sapp",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 20",
       "time": "2:44",
       "weight_class": "Open Weight"
     }
@@ -252,30 +246,16 @@
       "system": "men:overall"
     },
     {
-      "date": "2015-12-31",
-      "fight_id": "23e00fd3e34df149",
+      "date": "2018-09-30",
+      "fight_id": "24df367ea65665c2",
       "rating": 1536.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
-      "date": "2015-12-31",
-      "fight_id": "23e00fd3e34df149",
+      "date": "2018-09-30",
+      "fight_id": "24df367ea65665c2",
       "rating": 1483.2,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2018-09-30",
-      "fight_id": "24df367ea65665c2",
-      "rating": 1552.2,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2018-09-30",
-      "fight_id": "24df367ea65665c2",
-      "rating": 1500.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -286,7 +266,7 @@
   "name": "Bob Sapp",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1552.2,
+  "peak_elo": 1537.1,
   "slug": "bob-sapp",
   "systems": {
     "division": "men:Open Weight",

@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 493,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "John Meirzwa",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2005-07-28",
+      "elo_delta": -15.4,
+      "event_name": "Universal Above Ground Fighting",
+      "fight_id": "39b70c7d51cc0d31",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (injury)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1573.6,
+      "outcome": "red_win",
+      "post_elo": 1484.6,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "N/A",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-07-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-07-28",
+      "fight_id": "39b70c7d51cc0d31",
+      "rating": 1484.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-07-28",
+      "fight_id": "39b70c7d51cc0d31",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-07-28",
+  "name": "John Meirzwa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "john-meirzwa",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

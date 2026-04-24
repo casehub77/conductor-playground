@@ -1,13 +1,13 @@
 {
-  "current_elo": 1519.9,
-  "divisional_rank": 113,
+  "current_elo": 1521.3,
+  "divisional_rank": 78,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Joshua Pacio",
       "bout_type": "Flyweight Bout",
       "date": "2025-11-16",
-      "elo_delta": -18.6,
+      "elo_delta": -18.7,
       "event_name": "ONE 173: Superbon vs. Noiri",
       "fight_id": "887931f3167c4e63",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Yuya Wakamatsu",
       "opponent_elo": 1553.9,
       "outcome": "red_win",
-      "post_elo": 1519.9,
-      "pre_elo": 1538.5,
+      "post_elo": 1521.3,
+      "pre_elo": 1540.0,
       "red_name": "Yuya Wakamatsu",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE 173",
       "time": "0:54",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1524.1,
       "red_name": "Joshua Pacio",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE 171",
       "time": "4:22",
       "weight_class": "Strawweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1502.9,
       "red_name": "Joshua Pacio",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 166",
       "time": "0:56",
       "weight_class": "Strawweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1482.9,
       "red_name": "Joshua Pacio",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 15",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jarred Brooks",
       "round": "5",
+      "source": "manual",
+      "source_title": "ONE 164",
       "time": "5:00",
       "weight_class": "Strawweight"
     }
@@ -145,7 +155,7 @@
     {
       "date": "2024-03-01",
       "fight_id": "678136c988054a32",
-      "rating": 1521.6,
+      "rating": 1522.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -159,31 +169,31 @@
     {
       "date": "2025-02-20",
       "fight_id": "393d6de33c5f8d68",
-      "rating": 1538.5,
+      "rating": 1540.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-11-16",
       "fight_id": "887931f3167c4e63",
-      "rating": 1519.9,
+      "rating": 1521.3,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-11-16",
       "fight_id": "887931f3167c4e63",
-      "rating": 1521.7,
+      "rating": 1523.1,
       "scope": "overall",
       "system": "men:overall"
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
+  "instagram_featured": true,
   "last_fight_date": "2025-11-16",
   "name": "Joshua Pacio",
   "nickname": "",
-  "overall_elo": 1521.7,
+  "overall_elo": 1523.1,
   "peak_elo": 1544.1,
   "slug": "joshua-pacio",
   "systems": {

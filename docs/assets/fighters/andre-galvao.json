@@ -1,28 +1,8 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 873,
-  "fight_count": 2,
+  "divisional_rank": 701,
+  "fight_count": 1,
   "fight_log": [
-    {
-      "blue_name": "André Galvão",
-      "bout_type": "Middleweight Submission Grappling Bout",
-      "date": "2022-03-26",
-      "elo_delta": 1.9,
-      "event_name": "ONE X: 10 Years Anniversary",
-      "fight_id": "846202f37599084c",
-      "gender": "men",
-      "is_title": false,
-      "method": "Draw (time expire)",
-      "opponent": "Reinier de Ridder",
-      "opponent_elo": 1519.4,
-      "outcome": "draw",
-      "post_elo": 1485.4,
-      "pre_elo": 1483.6,
-      "red_name": "Reinier de Ridder",
-      "round": "1",
-      "time": "12:00",
-      "weight_class": "Middleweight"
-    },
     {
       "blue_name": "André Galvão",
       "bout_type": "Welterweight Bout",
@@ -40,6 +20,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tyron Woodley",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Diaz vs. Noons II",
       "time": "1:48",
       "weight_class": "Welterweight"
     }
@@ -60,33 +42,19 @@
       "rating": 1483.6,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2022-03-26",
-      "fight_id": "846202f37599084c",
-      "rating": 1485.4,
-      "scope": "division",
-      "system": "men:Middleweight"
-    },
-    {
-      "date": "2022-03-26",
-      "fight_id": "846202f37599084c",
-      "rating": 1485.1,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2022-03-26",
+  "last_fight_date": "2010-10-09",
   "name": "André Galvão",
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
   "slug": "andre-galvao",
   "systems": {
-    "division": "men:Middleweight",
+    "division": "men:Welterweight",
     "overall": "men:overall"
   },
-  "weight_class": "Middleweight"
+  "weight_class": "Welterweight"
 }

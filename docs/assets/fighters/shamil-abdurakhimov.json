@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 172,
+  "divisional_rank": 170,
   "fight_count": 11,
   "fight_log": [
     {
       "blue_name": "Jailton Almeida",
       "bout_type": "Heavyweight Bout",
       "date": "2023-01-21",
-      "elo_delta": -17.4,
+      "elo_delta": -17.5,
       "event_name": "UFC 283: Teixeira vs. Hill",
       "fight_id": "ce0a2f7461fd5abd",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Jailton Almeida",
       "opponent_elo": 1538.1,
       "outcome": "blue_win",
-      "post_elo": 1484.9,
-      "pre_elo": 1502.3,
+      "post_elo": 1485.0,
+      "pre_elo": 1502.4,
       "red_name": "Shamil Abdurakhimov",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:56",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Sergei Pavlovich",
-      "opponent_elo": 1528.5,
+      "opponent_elo": 1528.6,
       "outcome": "blue_win",
-      "post_elo": 1502.3,
-      "pre_elo": 1521.4,
+      "post_elo": 1502.4,
+      "pre_elo": 1521.5,
       "red_name": "Shamil Abdurakhimov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:03",
       "weight_class": "Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Chris Daukaus",
-      "opponent_elo": 1559.4,
+      "opponent_elo": 1559.5,
       "outcome": "blue_win",
-      "post_elo": 1521.4,
-      "pre_elo": 1539.7,
+      "post_elo": 1521.5,
+      "pre_elo": 1539.8,
       "red_name": "Shamil Abdurakhimov",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:23",
       "weight_class": "Heavyweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Curtis Blaydes",
-      "opponent_elo": 1582.9,
+      "opponent_elo": 1583.1,
       "outcome": "red_win",
-      "post_elo": 1539.7,
-      "pre_elo": 1557.8,
+      "post_elo": 1539.8,
+      "pre_elo": 1557.9,
       "red_name": "Curtis Blaydes",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:22",
       "weight_class": "Heavyweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Marcin Tybura",
-      "opponent_elo": 1532.1,
+      "opponent_elo": 1532.3,
       "outcome": "blue_win",
-      "post_elo": 1557.8,
-      "pre_elo": 1538.7,
+      "post_elo": 1557.9,
+      "pre_elo": 1538.8,
       "red_name": "Marcin Tybura",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:15",
       "weight_class": "Heavyweight"
     },
@@ -114,12 +124,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Andrei Arlovski",
-      "opponent_elo": 1545.6,
+      "opponent_elo": 1547.4,
       "outcome": "blue_win",
-      "post_elo": 1538.7,
+      "post_elo": 1538.8,
       "pre_elo": 1519.3,
       "red_name": "Andrei Arlovski",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1499.9,
       "red_name": "Chase Sherman",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:24",
       "weight_class": "Heavyweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Derrick Lewis",
-      "opponent_elo": 1578.3,
+      "opponent_elo": 1578.4,
       "outcome": "red_win",
       "post_elo": 1499.9,
       "pre_elo": 1515.9,
       "red_name": "Derrick Lewis",
       "round": "4.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:42",
       "weight_class": "Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1499.5,
       "red_name": "Shamil Abdurakhimov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1480.6,
       "red_name": "Anthony Hamilton",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Shamil Abdurakhimov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:57",
       "weight_class": "Heavyweight"
     }
@@ -300,84 +322,84 @@
     {
       "date": "2018-09-15",
       "fight_id": "c5a1818347236b7e",
-      "rating": 1538.7,
+      "rating": 1538.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2018-09-15",
       "fight_id": "c5a1818347236b7e",
-      "rating": 1534.1,
+      "rating": 1534.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-04-20",
       "fight_id": "ee2b037b6e5efeb7",
-      "rating": 1557.8,
+      "rating": 1557.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2019-04-20",
       "fight_id": "ee2b037b6e5efeb7",
-      "rating": 1551.1,
+      "rating": 1551.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-09-07",
       "fight_id": "4472ecdd68655b79",
-      "rating": 1539.7,
+      "rating": 1539.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2019-09-07",
       "fight_id": "4472ecdd68655b79",
-      "rating": 1534.9,
+      "rating": 1535.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-09-25",
       "fight_id": "97841a2645b6e384",
-      "rating": 1521.4,
+      "rating": 1521.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2021-09-25",
       "fight_id": "97841a2645b6e384",
-      "rating": 1518.5,
+      "rating": 1518.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-03-19",
       "fight_id": "d6d9a0b89ef67f8a",
-      "rating": 1502.3,
+      "rating": 1502.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2022-03-19",
       "fight_id": "d6d9a0b89ef67f8a",
-      "rating": 1501.6,
+      "rating": 1501.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-01-21",
       "fight_id": "ce0a2f7461fd5abd",
-      "rating": 1484.9,
+      "rating": 1485.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2023-01-21",
       "fight_id": "ce0a2f7461fd5abd",
-      "rating": 1486.7,
+      "rating": 1486.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -388,7 +410,7 @@
   "name": "Shamil Abdurakhimov",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1557.8,
+  "peak_elo": 1557.9,
   "slug": "shamil-abdurakhimov",
   "systems": {
     "division": "men:Heavyweight",

@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 796,
+  "divisional_rank": 771,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Chris Wade",
       "bout_type": "Lightweight Bout",
       "date": "2017-07-22",
-      "elo_delta": -15.6,
+      "elo_delta": -15.3,
       "event_name": "UFC Fight Night: Weidman vs. Gastelum",
       "fight_id": "fe4f9db50cf5eeea",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Chris Wade",
-      "opponent_elo": 1531.0,
+      "opponent_elo": 1538.3,
       "outcome": "blue_win",
-      "post_elo": 1469.5,
+      "post_elo": 1469.9,
       "pre_elo": 1485.2,
       "red_name": "Frankie Perez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1502.4,
       "red_name": "Frankie Perez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1481.5,
       "red_name": "Sam Stout",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:54",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Johnny Case",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:54",
       "weight_class": "Lightweight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2017-07-22",
       "fight_id": "fe4f9db50cf5eeea",
-      "rating": 1469.5,
+      "rating": 1469.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2017-07-22",
       "fight_id": "fe4f9db50cf5eeea",
-      "rating": 1471.7,
+      "rating": 1472.0,
       "scope": "overall",
       "system": "men:overall"
     }

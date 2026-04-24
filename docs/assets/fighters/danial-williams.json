@@ -1,33 +1,13 @@
 {
-  "current_elo": 1495.5,
-  "divisional_rank": 139,
-  "fight_count": 9,
+  "current_elo": 1530.3,
+  "divisional_rank": 10,
+  "fight_count": 6,
   "fight_log": [
-    {
-      "blue_name": "Danial Williams",
-      "bout_type": "Strawweight Muay Thai Bout",
-      "date": "2024-12-07",
-      "elo_delta": -19.0,
-      "event_name": "ONE Fight Night 26: Lee vs. Rasulov",
-      "fight_id": "70032a874c2d6b20",
-      "gender": "men",
-      "is_title": false,
-      "method": "TKO (punches)",
-      "opponent": "Thongpoon P.K.Saenchai",
-      "opponent_elo": 1522.0,
-      "outcome": "red_win",
-      "post_elo": 1495.5,
-      "pre_elo": 1514.5,
-      "red_name": "Thongpoon P.K.Saenchai",
-      "round": "2",
-      "time": "1:10",
-      "weight_class": "Strawweight"
-    },
     {
       "blue_name": "Banma Duoji",
       "bout_type": "Catchweight (136.25 lb) Bout",
       "date": "2024-10-05",
-      "elo_delta": 19.1,
+      "elo_delta": 18.1,
       "event_name": "ONE Fight Night 25: Nicolas vs. Eersel 2",
       "fight_id": "02219ba8deaa35f4",
       "gender": "men",
@@ -36,10 +16,12 @@
       "opponent": "Banma Duoji",
       "opponent_elo": 1516.0,
       "outcome": "red_win",
-      "post_elo": 1514.5,
-      "pre_elo": 1495.5,
+      "post_elo": 1531.3,
+      "pre_elo": 1513.1,
       "red_name": "Danial Williams",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 25",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -47,7 +29,7 @@
       "blue_name": "Danial Williams",
       "bout_type": "Strawweight Bout",
       "date": "2024-02-17",
-      "elo_delta": -17.6,
+      "elo_delta": -18.6,
       "event_name": "ONE Fight Night 19: Haggerty vs. Lobo",
       "fight_id": "0e9b77ce74c14256",
       "gender": "men",
@@ -56,52 +38,14 @@
       "opponent": "Lito Adiwang",
       "opponent_elo": 1520.9,
       "outcome": "red_win",
-      "post_elo": 1495.5,
-      "pre_elo": 1513.1,
-      "red_name": "Lito Adiwang",
-      "round": "3",
-      "time": "5:00",
-      "weight_class": "Strawweight"
-    },
-    {
-      "blue_name": "Danial Williams",
-      "bout_type": "Strawweight Kickboxing Bout",
-      "date": "2023-10-07",
-      "elo_delta": -18.6,
-      "event_name": "ONE Fight Night 15: Le vs. Freymanov",
-      "fight_id": "3010fd1b7f46078f",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous) (50–45, 50–45, 50–45)",
-      "opponent": "Jonathan Di Bella",
-      "opponent_elo": 1519.9,
-      "outcome": "red_win",
       "post_elo": 1513.1,
       "pre_elo": 1531.7,
-      "red_name": "Jonathan Di Bella",
-      "round": "5",
-      "time": "3:00",
-      "weight_class": "Strawweight"
-    },
-    {
-      "blue_name": "Danial Williams",
-      "bout_type": "Flyweight Kickboxing Bout",
-      "date": "2023-03-25",
-      "elo_delta": -19.1,
-      "event_name": "ONE Fight Night 8: Superlek vs. Williams",
-      "fight_id": "02f53839af07b8f6",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (punches)",
-      "opponent": "Superlek Kiatmuu9",
-      "opponent_elo": 1534.9,
-      "outcome": "red_win",
-      "post_elo": 1509.5,
-      "pre_elo": 1528.6,
-      "red_name": "Superlek Kiatmuu9",
+      "red_name": "Lito Adiwang",
       "round": "3",
-      "time": "1:55",
-      "weight_class": "Flyweight"
+      "source": "manual",
+      "source_title": "ONE Fight Night 19",
+      "time": "5:00",
+      "weight_class": "Strawweight"
     },
     {
       "blue_name": "Danial Williams",
@@ -120,6 +64,8 @@
       "pre_elo": 1553.0,
       "red_name": "Jeremy Miado",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE on Prime Video 3",
       "time": "0:31",
       "weight_class": "Catch Weight"
     },
@@ -140,6 +86,8 @@
       "pre_elo": 1535.5,
       "red_name": "Danial Williams",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 159",
       "time": "4:20",
       "weight_class": "Strawweight"
     },
@@ -160,6 +108,8 @@
       "pre_elo": 1519.4,
       "red_name": "Danial Williams",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 156",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -180,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Danial Williams",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE: Bad Blood",
       "time": "1:35",
       "weight_class": "Strawweight"
     }
@@ -244,82 +196,40 @@
       "system": "men:overall"
     },
     {
-      "date": "2023-03-25",
-      "fight_id": "02f53839af07b8f6",
-      "rating": 1509.5,
-      "scope": "division",
-      "system": "men:Flyweight"
-    },
-    {
-      "date": "2023-03-25",
-      "fight_id": "02f53839af07b8f6",
-      "rating": 1511.6,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2023-10-07",
-      "fight_id": "3010fd1b7f46078f",
+      "date": "2024-02-17",
+      "fight_id": "0e9b77ce74c14256",
       "rating": 1513.1,
       "scope": "division",
       "system": "men:Strawweight"
     },
     {
-      "date": "2023-10-07",
-      "fight_id": "3010fd1b7f46078f",
-      "rating": 1495.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2024-02-17",
       "fight_id": "0e9b77ce74c14256",
-      "rating": 1495.5,
-      "scope": "division",
-      "system": "men:Strawweight"
-    },
-    {
-      "date": "2024-02-17",
-      "fight_id": "0e9b77ce74c14256",
-      "rating": 1480.9,
+      "rating": 1512.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-10-05",
       "fight_id": "02219ba8deaa35f4",
-      "rating": 1514.5,
+      "rating": 1531.3,
       "scope": "division",
       "system": "men:Strawweight"
     },
     {
       "date": "2024-10-05",
       "fight_id": "02219ba8deaa35f4",
-      "rating": 1498.5,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-12-07",
-      "fight_id": "70032a874c2d6b20",
-      "rating": 1495.5,
-      "scope": "division",
-      "system": "men:Strawweight"
-    },
-    {
-      "date": "2024-12-07",
-      "fight_id": "70032a874c2d6b20",
-      "rating": 1482.5,
+      "rating": 1528.3,
       "scope": "overall",
       "system": "men:overall"
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
-  "last_fight_date": "2024-12-07",
+  "instagram_featured": true,
+  "last_fight_date": "2024-10-05",
   "name": "Danial Williams",
   "nickname": "",
-  "overall_elo": 1482.5,
+  "overall_elo": 1527.3,
   "peak_elo": 1553.0,
   "slug": "danial-williams",
   "systems": {

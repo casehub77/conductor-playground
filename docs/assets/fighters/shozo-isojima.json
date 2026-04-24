@@ -1,5 +1,5 @@
 {
-  "current_elo": 1503.1,
+  "current_elo": 1500.2,
   "divisional_rank": 277,
   "fight_count": 2,
   "fight_log": [
@@ -7,19 +7,21 @@
       "blue_name": "Shozo Isojima",
       "bout_type": "Lightweight Bout",
       "date": "2025-11-16",
-      "elo_delta": -16.3,
+      "elo_delta": -19.3,
       "event_name": "ONE 173: Superbon vs. Noiri",
       "fight_id": "2bc3073e9a9fbaa2",
       "gender": "men",
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Tye Ruotolo",
-      "opponent_elo": 1575.7,
+      "opponent_elo": 1522.5,
       "outcome": "red_win",
-      "post_elo": 1503.1,
+      "post_elo": 1500.2,
       "pre_elo": 1519.4,
       "red_name": "Tye Ruotolo",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 173",
       "time": "2:26",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Shozo Isojima",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE Fight Night 36",
       "time": "4:19",
       "weight_class": "Lightweight"
     }
@@ -64,14 +68,14 @@
     {
       "date": "2025-11-16",
       "fight_id": "2bc3073e9a9fbaa2",
-      "rating": 1503.1,
+      "rating": 1500.2,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-11-16",
       "fight_id": "2bc3073e9a9fbaa2",
-      "rating": 1505.4,
+      "rating": 1500.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -81,7 +85,7 @@
   "last_fight_date": "2025-11-16",
   "name": "Shozo Isojima",
   "nickname": "",
-  "overall_elo": 1505.4,
+  "overall_elo": 1500.1,
   "peak_elo": 1519.4,
   "slug": "shozo-isojima",
   "systems": {

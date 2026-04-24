@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 951,
+  "divisional_rank": 917,
   "fight_count": 8,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1476.9,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:15",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1494.6,
       "red_name": "Jonathan Brookins",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:42",
       "weight_class": "Featherweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1472.5,
       "red_name": "Jonathan Brookins",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:32",
       "weight_class": "Featherweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Erik Koch",
-      "opponent_elo": 1553.8,
+      "opponent_elo": 1553.7,
       "outcome": "blue_win",
       "post_elo": 1472.5,
       "pre_elo": 1487.1,
       "red_name": "Jonathan Brookins",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1486.6,
       "red_name": "Jonathan Brookins",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1466.9,
       "red_name": "Jonathan Brookins",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 1",
       "time": "3:32",
       "weight_class": "Featherweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1484.0,
       "red_name": "José Aldo",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 36",
       "time": "0:45",
       "weight_class": "Featherweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Greg Loughran",
       "round": "3",
+      "source": "manual",
+      "source_title": "2008 in Cage Warriors",
       "time": "5:00",
       "weight_class": "Open Weight"
     }

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 305,
+  "divisional_rank": 304,
   "fight_count": 10,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1537.4,
       "red_name": "Jason Macdonald",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:20",
       "weight_class": "Middleweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1561.3,
       "red_name": "Luiz Cane",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:07",
       "weight_class": "Light Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Wilson Gouveia",
-      "opponent_elo": 1538.0,
+      "opponent_elo": 1538.1,
       "outcome": "red_win",
       "post_elo": 1561.3,
       "pre_elo": 1583.3,
       "red_name": "Wilson Gouveia",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:37",
       "weight_class": "Light Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1565.0,
       "red_name": "Jason Lambert",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:36",
       "weight_class": "Light Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1586.3,
       "red_name": "Rashad Evans",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:22",
       "weight_class": "Light Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1570.7,
       "red_name": "Jason Lambert",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1554.2,
       "red_name": "Jason Lambert",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:37",
       "weight_class": "Light Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1536.8,
       "red_name": "Jason Lambert",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:54",
       "weight_class": "Light Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1517.3,
       "red_name": "Jason Lambert",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 13",
       "time": "2:45",
       "weight_class": "Light Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jason Lambert",
       "round": "2",
+      "source": "manual",
+      "source_title": "WEC 12",
       "time": "3:28",
       "weight_class": "Open Weight"
     }

@@ -1,6 +1,6 @@
 {
   "current_elo": 1498.8,
-  "divisional_rank": 910,
+  "divisional_rank": 828,
   "fight_count": 2,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1519.4,
       "outcome": "red_win",
       "post_elo": 1498.8,
-      "pre_elo": 1518.2,
+      "pre_elo": 1518.1,
       "red_name": "Tatsuya Ando",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "3:33",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Rikuto Shirakawa",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2024-11-17",
-      "elo_delta": 18.2,
+      "elo_delta": 18.1,
       "event_name": "Rizin Landmark 10",
       "fight_id": "582322ebb4be4db1",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Rikuto Shirakawa",
-      "opponent_elo": 1503.5,
+      "opponent_elo": 1502.7,
       "outcome": "red_win",
-      "post_elo": 1518.2,
+      "post_elo": 1518.1,
       "pre_elo": 1500.0,
       "red_name": "Magerram Gasanzade",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -50,14 +54,14 @@
     {
       "date": "2024-11-17",
       "fight_id": "582322ebb4be4db1",
-      "rating": 1518.2,
+      "rating": 1518.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-11-17",
       "fight_id": "582322ebb4be4db1",
-      "rating": 1516.2,
+      "rating": 1516.1,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -82,7 +86,7 @@
   "name": "Magerram Gasanzade",
   "nickname": "",
   "overall_elo": 1498.9,
-  "peak_elo": 1518.2,
+  "peak_elo": 1518.1,
   "slug": "magerram-gasanzade",
   "systems": {
     "division": "men:Bantamweight",

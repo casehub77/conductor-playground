@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 538,
+  "divisional_rank": 550,
   "fight_count": 11,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1489.5,
       "red_name": "Jan Błachowicz",
       "round": "3",
+      "source": "manual",
+      "source_title": "2011 in Konfrontacja Sztuk Walki",
       "time": "For the KSW Light Heavyweight Championship .",
       "weight_class": "Light Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1461.5,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Konfrontacja Sztuk Walki",
       "time": "For the vacant KSW Light Heavyweight Championship .",
       "weight_class": "Light Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Gegard Mousasi",
-      "opponent_elo": 1627.2,
+      "opponent_elo": 1627.3,
       "outcome": "red_win",
       "post_elo": 1461.5,
       "pre_elo": 1472.8,
       "red_name": "Gegard Mousasi",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Rogers",
       "time": "3:43",
       "weight_class": "Light Heavyweight"
     },
@@ -77,9 +83,11 @@
       "opponent_elo": 1480.6,
       "outcome": "red_win",
       "post_elo": 1567.0,
-      "pre_elo": 1551.4,
+      "pre_elo": 1551.5,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 11",
       "time": "1:31",
       "weight_class": "Heavyweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Jan Nortje",
       "opponent_elo": 1503.3,
       "outcome": "red_win",
-      "post_elo": 1551.4,
-      "pre_elo": 1533.7,
+      "post_elo": 1551.5,
+      "pre_elo": 1533.8,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 9",
       "time": "2:29",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1491.5,
       "red_name": "Luiz Cane",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:15",
       "weight_class": "Light Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1466.4,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1481.7,
       "red_name": "Lyoto Machida",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:20",
       "weight_class": "Light Heavyweight"
     },
@@ -174,12 +190,14 @@
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Ricardo Arona",
-      "opponent_elo": 1588.7,
+      "opponent_elo": 1589.1,
       "outcome": "red_win",
-      "post_elo": 1533.7,
-      "pre_elo": 1509.9,
+      "post_elo": 1533.8,
+      "pre_elo": 1510.0,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 34",
       "time": "1:59",
       "weight_class": "Heavyweight"
     },
@@ -194,12 +212,14 @@
       "is_title": false,
       "method": "KO (punch)",
       "opponent": "Antônio Rogério Nogueira",
-      "opponent_elo": 1611.9,
+      "opponent_elo": 1612.7,
       "outcome": "red_win",
-      "post_elo": 1509.9,
+      "post_elo": 1510.0,
       "pre_elo": 1483.6,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 33",
       "time": "0:23",
       "weight_class": "Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Glover Teixeira",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 24",
       "time": "1:41",
       "weight_class": "Light Heavyweight"
     }
@@ -244,7 +266,7 @@
     {
       "date": "2007-02-24",
       "fight_id": "3fc1a30361c18a60",
-      "rating": 1509.9,
+      "rating": 1510.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -258,7 +280,7 @@
     {
       "date": "2007-04-08",
       "fight_id": "4854c0f558419480",
-      "rating": 1533.7,
+      "rating": 1533.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -279,7 +301,7 @@
     {
       "date": "2007-12-29",
       "fight_id": "9e4940e3617b4db6",
-      "rating": 1512.1,
+      "rating": 1512.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -307,21 +329,21 @@
     {
       "date": "2008-10-18",
       "fight_id": "b6413d5ca96775de",
-      "rating": 1512.9,
+      "rating": 1513.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2009-05-26",
       "fight_id": "e7d2cf3abc07a8a0",
-      "rating": 1551.4,
+      "rating": 1551.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2009-05-26",
       "fight_id": "e7d2cf3abc07a8a0",
-      "rating": 1529.6,
+      "rating": 1529.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -349,7 +371,7 @@
     {
       "date": "2009-11-07",
       "fight_id": "abad5ebce9f1f8db",
-      "rating": 1531.1,
+      "rating": 1531.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -363,7 +385,7 @@
     {
       "date": "2011-03-19",
       "fight_id": "2029cf03291da5f6",
-      "rating": 1552.5,
+      "rating": 1552.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -377,7 +399,7 @@
     {
       "date": "2011-11-26",
       "fight_id": "59c8774c506e764a",
-      "rating": 1538.4,
+      "rating": 1538.5,
       "scope": "overall",
       "system": "men:overall"
     }

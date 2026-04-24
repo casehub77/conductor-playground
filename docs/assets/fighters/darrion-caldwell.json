@@ -1,6 +1,6 @@
 {
   "current_elo": 1484.7,
-  "divisional_rank": 984,
+  "divisional_rank": 885,
   "fight_count": 4,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1527.4,
       "outcome": "red_win",
       "post_elo": 1442.0,
-      "pre_elo": 1456.4,
+      "pre_elo": 1456.3,
       "red_name": "Nikita Mikhailov",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 290",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Enrique Barzola",
       "opponent_elo": 1539.6,
       "outcome": "red_win",
-      "post_elo": 1456.4,
+      "post_elo": 1456.3,
       "pre_elo": 1472.1,
       "red_name": "Enrique Barzola",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 273",
       "time": "3:01",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1489.5,
       "red_name": "Leandro Higo",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 259",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Submission (Guillotine Choke)",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1673.4,
+      "opponent_elo": 1672.9,
       "outcome": "red_win",
       "post_elo": 1489.5,
       "pre_elo": 1500.0,
       "red_name": "Kyoji Horiguchi",
       "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
       "time": "11:13",
       "weight_class": "Bantamweight"
     }
@@ -111,14 +119,14 @@
     {
       "date": "2021-05-21",
       "fight_id": "a1d35a8dac49d5fb",
-      "rating": 1476.3,
+      "rating": 1476.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-01-29",
       "fight_id": "2b045243326673cb",
-      "rating": 1456.4,
+      "rating": 1456.3,
       "scope": "division",
       "system": "men:Bantamweight"
     },

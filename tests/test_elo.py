@@ -8,7 +8,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 from ufc_elo.elo import catchweight_multipliers, compute_ratings
-from ufc_elo.ingestion import ManualRowError, detect_source_conflicts, load_manual_rows, merge_new_fights, parse_bout_type, rows_to_fights
+from ufc_elo.ingestion import ManualRowError, detect_source_conflicts, is_mma_bout, load_manual_rows, merge_new_fights, parse_bout_type, rows_to_fights
 from ufc_elo.overrides import OverrideData
 
 
@@ -153,6 +153,12 @@ class BoutTypeParsingTest(unittest.TestCase):
 
     def test_parse_nearby_womens_numeric_weight_class(self) -> None:
         self.assertEqual(parse_bout_type("Women's (127 lb) Bout"), ("women", "Flyweight"))
+
+    def test_non_mma_bouts_are_filtered(self) -> None:
+        self.assertFalse(is_mma_bout("ONE 167", "Bantamweight Submission Grappling Bout", "Submission"))
+        self.assertFalse(is_mma_bout("ONE Friday Fights", "Flyweight Muay Thai Bout", "Decision"))
+        self.assertFalse(is_mma_bout("ONE Fight Night", "Featherweight Kickboxing Bout", "KO"))
+        self.assertTrue(is_mma_bout("UFC 300", "Lightweight Bout", "Decision"))
 
 
 class CatchweightIntegrationTest(unittest.TestCase):

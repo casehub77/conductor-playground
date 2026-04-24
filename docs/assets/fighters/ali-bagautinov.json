@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 233,
+  "divisional_rank": 172,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Ali Bagautinov",
       "bout_type": "Flyweight Bout",
       "date": "2016-11-19",
-      "elo_delta": -12.9,
+      "elo_delta": -13.0,
       "event_name": "UFC Fight Night: Mousasi vs. Hall 2",
       "fight_id": "a2bc6eac1d808090",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1646.1,
+      "opponent_elo": 1645.6,
       "outcome": "red_win",
-      "post_elo": 1532.7,
+      "post_elo": 1532.6,
       "pre_elo": 1545.6,
       "red_name": "Kyoji Horiguchi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1528.9,
       "red_name": "Ali Bagautinov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1541.2,
       "red_name": "Joseph Benavidez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1556.4,
       "red_name": "Demetrious Johnson",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1537.4,
       "red_name": "John Lineker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.5,
       "red_name": "Tim Elliott",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Marcos Vinicius",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:28",
       "weight_class": "Flyweight"
     }
@@ -234,7 +248,7 @@
     {
       "date": "2016-11-19",
       "fight_id": "a2bc6eac1d808090",
-      "rating": 1532.7,
+      "rating": 1532.6,
       "scope": "division",
       "system": "men:Flyweight"
     },

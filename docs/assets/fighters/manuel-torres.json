@@ -1,6 +1,6 @@
 {
-  "current_elo": 1582.1,
-  "divisional_rank": 37,
+  "current_elo": 1582.3,
+  "divisional_rank": 34,
   "fight_count": 6,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Grant Dawson",
-      "opponent_elo": 1653.3,
+      "opponent_elo": 1653.5,
       "outcome": "blue_win",
-      "post_elo": 1582.1,
-      "pre_elo": 1557.4,
+      "post_elo": 1582.3,
+      "pre_elo": 1557.6,
       "red_name": "Grant Dawson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:25",
       "weight_class": "Lightweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Drew Dober",
       "bout_type": "Lightweight Bout",
       "date": "2025-03-29",
-      "elo_delta": 20.9,
+      "elo_delta": 21.1,
       "event_name": "UFC Fight Night: Moreno vs. Erceg",
       "fight_id": "c3c971b7307aec65",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Drew Dober",
-      "opponent_elo": 1562.3,
+      "opponent_elo": 1566.1,
       "outcome": "red_win",
-      "post_elo": 1557.4,
+      "post_elo": 1557.6,
       "pre_elo": 1536.6,
       "red_name": "Manuel Torres",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:45",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1556.8,
       "red_name": "Manuel Torres",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:02",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1537.4,
       "red_name": "Manuel Torres",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:46",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1518.8,
       "red_name": "Manuel Torres",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:50",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Frank Camacho",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:27",
       "weight_class": "Lightweight"
     }
@@ -186,28 +198,28 @@
     {
       "date": "2025-03-29",
       "fight_id": "c3c971b7307aec65",
-      "rating": 1557.4,
+      "rating": 1557.6,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-03-29",
       "fight_id": "c3c971b7307aec65",
-      "rating": 1550.2,
+      "rating": 1550.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-06",
       "fight_id": "4f124cb0daef14b5",
-      "rating": 1582.1,
+      "rating": 1582.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-12-06",
       "fight_id": "4f124cb0daef14b5",
-      "rating": 1572.0,
+      "rating": 1572.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -217,8 +229,8 @@
   "last_fight_date": "2025-12-06",
   "name": "Manuel Torres",
   "nickname": "",
-  "overall_elo": 1572.0,
-  "peak_elo": 1582.1,
+  "overall_elo": 1572.2,
+  "peak_elo": 1582.3,
   "slug": "manuel-torres",
   "systems": {
     "division": "men:Lightweight",

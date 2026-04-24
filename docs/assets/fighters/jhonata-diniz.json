@@ -1,6 +1,6 @@
 {
-  "current_elo": 1520.4,
-  "divisional_rank": 72,
+  "current_elo": 1520.5,
+  "divisional_rank": 69,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Mario Pinto",
       "opponent_elo": 1518.5,
       "outcome": "blue_win",
-      "post_elo": 1520.4,
+      "post_elo": 1520.5,
       "pre_elo": 1541.2,
       "red_name": "Jhonata Diniz",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:10",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1520.6,
       "red_name": "Jhonata Diniz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "TKO - Doctor's Stoppage",
       "opponent": "Marcin Tybura",
-      "opponent_elo": 1576.9,
+      "opponent_elo": 1577.1,
       "outcome": "red_win",
       "post_elo": 1520.6,
       "pre_elo": 1537.9,
       "red_name": "Marcin Tybura",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1518.4,
       "red_name": "Jhonata Diniz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Austen Lane",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:12",
       "weight_class": "Heavyweight"
     }
@@ -159,14 +169,14 @@
     {
       "date": "2025-06-28",
       "fight_id": "a2eabbc0f7121995",
-      "rating": 1536.1,
+      "rating": 1536.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-10-11",
       "fight_id": "cc7c474a02da29fa",
-      "rating": 1520.4,
+      "rating": 1520.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },

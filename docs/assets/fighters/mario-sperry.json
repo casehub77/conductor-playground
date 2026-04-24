@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 437,
+  "divisional_rank": 433,
   "fight_count": 7,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1520.4,
       "red_name": "Tsuyoshi Kosaka",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 31",
       "time": "1:20",
       "weight_class": "Open Weight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "TKO (knees)",
       "opponent": "Hirotaka Yokoi",
-      "opponent_elo": 1504.0,
+      "opponent_elo": 1504.1,
       "outcome": "red_win",
-      "post_elo": 1536.7,
+      "post_elo": 1536.8,
       "pre_elo": 1518.1,
       "red_name": "Mario Sperry",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 29",
       "time": "9:08",
       "weight_class": "Middleweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO (Punch)",
       "opponent": "Mike Bencic",
-      "opponent_elo": 1482.7,
+      "opponent_elo": 1483.3,
       "outcome": "red_win",
       "post_elo": 1520.4,
       "pre_elo": 1502.0,
       "red_name": "Mario Sperry",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 2",
       "time": "0:11",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1523.7,
       "red_name": "Yuki Kondo",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2003",
       "time": "3:27",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1504.5,
       "red_name": "Mario Sperry",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 22",
       "time": "6:02",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1522.6,
       "red_name": "Murilo Rua",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 20",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mario Sperry",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 17",
       "time": "2:52",
       "weight_class": "Open Weight"
     }
@@ -220,7 +234,7 @@
     {
       "date": "2005-02-20",
       "fight_id": "a371fd31fae08f27",
-      "rating": 1536.7,
+      "rating": 1536.8,
       "scope": "division",
       "system": "men:Middleweight"
     },
@@ -241,7 +255,7 @@
     {
       "date": "2006-02-26",
       "fight_id": "e6bd4e3037256611",
-      "rating": 1515.1,
+      "rating": 1515.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -252,7 +266,7 @@
   "name": "Mario Sperry",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1536.7,
+  "peak_elo": 1536.8,
   "slug": "mario-sperry",
   "systems": {
     "division": "men:Open Weight",

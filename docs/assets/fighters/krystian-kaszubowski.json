@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 318,
+  "divisional_rank": 317,
   "fight_count": 8,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Adrian Bartosiński",
       "opponent_elo": 1558.3,
       "outcome": "red_win",
-      "post_elo": 1513.2,
-      "pre_elo": 1531.1,
+      "post_elo": 1512.7,
+      "pre_elo": 1530.6,
       "red_name": "Adrian Bartosiński",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "4:58",
       "weight_class": "Welterweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Robert Maciejowski",
       "bout_type": "Middleweight 84 kg Bout",
       "date": "2022-01-15",
-      "elo_delta": 16.5,
+      "elo_delta": 16.6,
       "event_name": "KSW 66: Ziółkowski vs. Mańkowski",
       "fight_id": "816caf3024401ba1",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Robert Maciejowski",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1544.8,
-      "pre_elo": 1528.3,
+      "post_elo": 1544.4,
+      "pre_elo": 1527.8,
       "red_name": "Krystian Kaszubowski",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Krystian Kaszubowski",
       "bout_type": "Welterweight 77 kg Bout",
       "date": "2021-03-20",
-      "elo_delta": -19.7,
+      "elo_delta": -19.6,
       "event_name": "KSW 59: Fight Code",
       "fight_id": "911363016bfa1250",
       "gender": "men",
@@ -56,10 +60,12 @@
       "opponent": "Michał Pietrzak",
       "opponent_elo": 1518.5,
       "outcome": "red_win",
-      "post_elo": 1531.1,
-      "pre_elo": 1550.8,
+      "post_elo": 1530.6,
+      "pre_elo": 1550.3,
       "red_name": "Michał Pietrzak",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Jakub Kamieniarz",
       "opponent_elo": 1482.7,
       "outcome": "red_win",
-      "post_elo": 1550.8,
-      "pre_elo": 1535.5,
+      "post_elo": 1550.3,
+      "pre_elo": 1535.0,
       "red_name": "Krystian Kaszubowski",
       "round": "3",
+      "source": "manual",
+      "source_title": "2020 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "Ivica Trušček",
       "bout_type": "Welterweight 77 kg Bout",
       "date": "2019-11-09",
-      "elo_delta": 17.0,
+      "elo_delta": 16.5,
       "event_name": "KSW 51: Croatia",
       "fight_id": "1586e32e3cce0f7a",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Split)",
       "opponent": "Ivica Trušček",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1489.2,
       "outcome": "red_win",
-      "post_elo": 1535.5,
+      "post_elo": 1535.0,
       "pre_elo": 1518.5,
       "red_name": "Krystian Kaszubowski",
       "round": "3",
+      "source": "manual",
+      "source_title": "2019 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1537.8,
       "red_name": "Roberto Soldić",
       "round": "1",
+      "source": "manual",
+      "source_title": "2019 in Konfrontacja Sztuk Walki",
       "time": "1:25",
       "weight_class": "Welterweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1519.4,
       "red_name": "Krystian Kaszubowski",
       "round": "1",
+      "source": "manual",
+      "source_title": "2018 in Konfrontacja Sztuk Walki",
       "time": "2:14",
       "weight_class": "Welterweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Krystian Kaszubowski",
       "round": "1",
+      "source": "manual",
+      "source_title": "2018 in Konfrontacja Sztuk Walki",
       "time": "1:10",
       "weight_class": "Welterweight"
     }
@@ -212,70 +228,70 @@
     {
       "date": "2019-11-09",
       "fight_id": "1586e32e3cce0f7a",
-      "rating": 1535.5,
+      "rating": 1535.0,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2019-11-09",
       "fight_id": "1586e32e3cce0f7a",
-      "rating": 1531.8,
+      "rating": 1531.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2020-10-10",
       "fight_id": "b1fd19da12d26d40",
-      "rating": 1550.8,
+      "rating": 1550.3,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2020-10-10",
       "fight_id": "b1fd19da12d26d40",
-      "rating": 1545.5,
+      "rating": 1545.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-03-20",
       "fight_id": "911363016bfa1250",
-      "rating": 1531.1,
+      "rating": 1530.6,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2021-03-20",
       "fight_id": "911363016bfa1250",
-      "rating": 1528.3,
+      "rating": 1527.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-01-15",
       "fight_id": "816caf3024401ba1",
-      "rating": 1544.8,
+      "rating": 1544.4,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2022-01-15",
       "fight_id": "816caf3024401ba1",
-      "rating": 1543.0,
+      "rating": 1542.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-11-12",
       "fight_id": "3bd07a9a4c91d450",
-      "rating": 1513.2,
+      "rating": 1512.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-11-12",
       "fight_id": "3bd07a9a4c91d450",
-      "rating": 1526.1,
+      "rating": 1525.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -286,7 +302,7 @@
   "name": "Krystian Kaszubowski",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1550.8,
+  "peak_elo": 1550.3,
   "slug": "krystian-kaszubowski",
   "systems": {
     "division": "men:Welterweight",

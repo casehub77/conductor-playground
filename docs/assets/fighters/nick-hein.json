@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 397,
+  "divisional_rank": 376,
   "fight_count": 8,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1514.1,
       "red_name": "Nick Hein",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:56",
       "weight_class": "Lightweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1487.2,
       "outcome": "blue_win",
       "post_elo": 1514.1,
-      "pre_elo": 1534.5,
+      "pre_elo": 1534.6,
       "red_name": "Nick Hein",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Davi Ramos",
       "opponent_elo": 1508.1,
       "outcome": "red_win",
-      "post_elo": 1534.5,
+      "post_elo": 1534.6,
       "pre_elo": 1556.7,
       "red_name": "Davi Ramos",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:15",
       "weight_class": "Lightweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Tae Hyun Bang",
       "bout_type": "Lightweight Bout",
       "date": "2016-09-03",
-      "elo_delta": 15.9,
+      "elo_delta": 16.0,
       "event_name": "UFC Fight Night: Arlovski vs. Barnett",
       "fight_id": "9f0760c88c5bc7ad",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Tae Hyun Bang",
-      "opponent_elo": 1500.8,
+      "opponent_elo": 1501.3,
       "outcome": "red_win",
       "post_elo": 1556.7,
-      "pre_elo": 1540.7,
+      "pre_elo": 1540.8,
       "red_name": "Nick Hein",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Yusuke Kasuya",
-      "opponent_elo": 1561.5,
+      "opponent_elo": 1562.2,
       "outcome": "red_win",
-      "post_elo": 1540.7,
+      "post_elo": 1540.8,
       "pre_elo": 1520.6,
       "red_name": "Nick Hein",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1502.8,
       "red_name": "Nick Hein",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1519.8,
       "red_name": "James Vick",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Nick Hein",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -212,14 +228,14 @@
     {
       "date": "2015-09-26",
       "fight_id": "a1a9a553ae89b6cf",
-      "rating": 1540.7,
+      "rating": 1540.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2015-09-26",
       "fight_id": "a1a9a553ae89b6cf",
-      "rating": 1535.4,
+      "rating": 1535.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -233,21 +249,21 @@
     {
       "date": "2016-09-03",
       "fight_id": "9f0760c88c5bc7ad",
-      "rating": 1549.8,
+      "rating": 1549.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2018-05-12",
       "fight_id": "6443029ea57e63fd",
-      "rating": 1534.5,
+      "rating": 1534.6,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2018-05-12",
       "fight_id": "6443029ea57e63fd",
-      "rating": 1530.3,
+      "rating": 1530.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -261,7 +277,7 @@
     {
       "date": "2018-07-22",
       "fight_id": "6df18359bd0aa8a3",
-      "rating": 1512.4,
+      "rating": 1512.5,
       "scope": "overall",
       "system": "men:overall"
     },

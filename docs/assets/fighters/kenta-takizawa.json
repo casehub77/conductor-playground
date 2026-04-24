@@ -1,13 +1,13 @@
 {
-  "current_elo": 1488.1,
-  "divisional_rank": 961,
-  "fight_count": 8,
+  "current_elo": 1473.9,
+  "divisional_rank": 976,
+  "fight_count": 9,
   "fight_log": [
     {
       "blue_name": "Kenta Takizawa",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2024-02-24",
-      "elo_delta": -18.9,
+      "elo_delta": -18.1,
       "event_name": "Rizin Landmark 8 in Saga",
       "fight_id": "338f97a71059a048",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Shohei Nose",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1471.7,
-      "pre_elo": 1490.6,
+      "post_elo": 1457.5,
+      "pre_elo": 1475.6,
       "red_name": "Shohei Nose",
       "round": "2",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "2:48",
       "weight_class": "Bantamweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Kenta Takizawa",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2023-07-30",
-      "elo_delta": -19.0,
+      "elo_delta": -18.1,
       "event_name": "Super Rizin.2: Rizin X Bellator",
       "fight_id": "52f4fc861f4861cc",
       "gender": "men",
@@ -36,11 +38,35 @@
       "opponent": "Shinobu Ota",
       "opponent_elo": 1517.3,
       "outcome": "red_win",
-      "post_elo": 1490.6,
-      "pre_elo": 1509.6,
+      "post_elo": 1475.6,
+      "pre_elo": 1493.7,
       "red_name": "Shinobu Ota",
       "round": "1",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "4:54",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kenta Takizawa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2022-12-31",
+      "elo_delta": -15.9,
+      "event_name": "Bellator MMA vs. Rizin FF",
+      "fight_id": "01c08d6f35ee2d26",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kimura)",
+      "opponent": "Naoki Inoue",
+      "opponent_elo": 1573.4,
+      "outcome": "red_win",
+      "post_elo": 1493.7,
+      "pre_elo": 1509.6,
+      "red_name": "Naoki Inoue",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Rizin 40",
+      "time": "3:53",
       "weight_class": "Bantamweight"
     },
     {
@@ -60,6 +86,8 @@
       "pre_elo": 1523.5,
       "red_name": "Kai Asakura",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +108,8 @@
       "pre_elo": 1503.8,
       "red_name": "Kenta Takizawa",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "2:27",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +130,8 @@
       "pre_elo": 1485.2,
       "red_name": "Kenta Takizawa",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -114,12 +146,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Ulka Sasaki",
-      "opponent_elo": 1486.8,
+      "opponent_elo": 1486.7,
       "outcome": "red_win",
       "post_elo": 1485.2,
       "pre_elo": 1504.1,
       "red_name": "Ulka Sasaki",
       "round": "3",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +174,8 @@
       "pre_elo": 1519.0,
       "red_name": "Hiromasa Ougikubo",
       "round": "3",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
       "time": "15:00",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kenta Takizawa",
       "round": "3",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
       "time": "15:00",
       "weight_class": "Bantamweight"
     }
@@ -252,30 +290,44 @@
       "system": "men:overall"
     },
     {
+      "date": "2022-12-31",
+      "fight_id": "01c08d6f35ee2d26",
+      "rating": 1493.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "01c08d6f35ee2d26",
+      "rating": 1494.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2023-07-30",
       "fight_id": "52f4fc861f4861cc",
-      "rating": 1490.6,
+      "rating": 1475.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-07-30",
       "fight_id": "52f4fc861f4861cc",
-      "rating": 1492.5,
+      "rating": 1478.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-02-24",
       "fight_id": "338f97a71059a048",
-      "rating": 1471.7,
+      "rating": 1457.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-02-24",
       "fight_id": "338f97a71059a048",
-      "rating": 1475.6,
+      "rating": 1462.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -285,7 +337,7 @@
   "last_fight_date": "2024-02-24",
   "name": "Kenta Takizawa",
   "nickname": "",
-  "overall_elo": 1491.9,
+  "overall_elo": 1478.9,
   "peak_elo": 1523.5,
   "slug": "kenta-takizawa",
   "systems": {

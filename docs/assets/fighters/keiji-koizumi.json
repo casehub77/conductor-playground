@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1342,
+  "divisional_rank": 1333,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Keiji Koizumi",
       "bout_type": "Open Weight Bout",
       "date": "2011-08-06",
-      "elo_delta": -17.4,
+      "elo_delta": -16.9,
       "event_name": "Shooto: Gig Tokyo 7",
       "fight_id": "04e2e5964bcf06a1",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Tatsuro Kamei",
-      "opponent_elo": 1455.8,
+      "opponent_elo": 1466.3,
       "outcome": "red_win",
-      "post_elo": 1427.5,
+      "post_elo": 1428.0,
       "pre_elo": 1444.9,
       "red_name": "Tatsuro Kamei",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1462.8,
       "red_name": "Yuya Kaneuchi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1480.5,
       "red_name": "Masumi Tozawa",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Akinobu Watanabe",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "4:45",
       "weight_class": "Open Weight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2011-08-06",
       "fight_id": "04e2e5964bcf06a1",
-      "rating": 1427.5,
+      "rating": 1428.0,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-08-06",
       "fight_id": "04e2e5964bcf06a1",
-      "rating": 1435.5,
+      "rating": 1435.9,
       "scope": "overall",
       "system": "men:overall"
     }

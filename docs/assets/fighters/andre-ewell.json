@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 684,
+  "divisional_rank": 653,
   "fight_count": 9,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Charles Jourdain",
-      "opponent_elo": 1488.9,
+      "opponent_elo": 1489.0,
       "outcome": "red_win",
       "post_elo": 1481.5,
       "pre_elo": 1500.1,
       "red_name": "Charles Jourdain",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1519.2,
       "red_name": "Julio Arce",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:45",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1538.3,
       "red_name": "Andre Ewell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -77,9 +83,11 @@
       "opponent_elo": 1504.1,
       "outcome": "red_win",
       "post_elo": 1538.3,
-      "pre_elo": 1521.1,
+      "pre_elo": 1521.2,
       "red_name": "Andre Ewell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Jonathan Martinez",
       "opponent_elo": 1519.1,
       "outcome": "red_win",
-      "post_elo": 1521.1,
+      "post_elo": 1521.2,
       "pre_elo": 1502.3,
       "red_name": "Andre Ewell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -114,12 +124,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Marlon Vera",
-      "opponent_elo": 1565.4,
+      "opponent_elo": 1565.5,
       "outcome": "red_win",
       "post_elo": 1502.3,
       "pre_elo": 1519.1,
       "red_name": "Marlon Vera",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:17",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1502.0,
       "red_name": "Andre Ewell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1521.6,
       "red_name": "Nathaniel Wood",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:12",
       "weight_class": "Bantamweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Renan Barao",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -246,7 +264,7 @@
     {
       "date": "2020-02-08",
       "fight_id": "d268ea8d338c3552",
-      "rating": 1521.1,
+      "rating": 1521.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
@@ -309,7 +327,7 @@
     {
       "date": "2021-12-18",
       "fight_id": "e9c23bbe02d83034",
-      "rating": 1483.5,
+      "rating": 1483.6,
       "scope": "overall",
       "system": "men:overall"
     }

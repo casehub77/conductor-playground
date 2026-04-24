@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 185,
+  "divisional_rank": 184,
   "fight_count": 12,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1616.9,
       "red_name": "Michael Bisping",
       "round": "4.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:57",
       "weight_class": "Middleweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1594.2,
       "red_name": "Rich Franklin",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:17",
       "weight_class": "Middleweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1581.6,
       "red_name": "Cung Le",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Wanderlei Silva",
-      "opponent_elo": 1588.6,
+      "opponent_elo": 1588.7,
       "outcome": "red_win",
       "post_elo": 1581.6,
       "pre_elo": 1601.7,
       "red_name": "Wanderlei Silva",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:49",
       "weight_class": "Middleweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1584.7,
       "red_name": "Cung Le",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Werdum",
       "time": "1:46",
       "weight_class": "Middleweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1609.2,
       "red_name": "Scott Smith",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Evolution",
       "time": "3:25",
       "weight_class": "Middleweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1587.4,
       "red_name": "Cung Le",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Le",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1573.8,
       "red_name": "Cung Le",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Four Men Enter, One Man Survives",
       "time": "1:58",
       "weight_class": "Middleweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1556.8,
       "red_name": "Cung Le",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Baroni",
       "time": "0:25",
       "weight_class": "Middleweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1537.8,
       "red_name": "Cung Le",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Triple Threat",
       "time": "0:43",
       "weight_class": "Middleweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1519.4,
       "red_name": "Cung Le",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Revenge",
       "time": "4:19",
       "weight_class": "Middleweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1500.0,
       "red_name": "Cung Le",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Gracie",
       "time": "3:51",
       "weight_class": "Middleweight"
     }

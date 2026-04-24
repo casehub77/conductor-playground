@@ -1,28 +1,8 @@
 {
-  "current_elo": 1507.9,
-  "divisional_rank": 249,
-  "fight_count": 7,
+  "current_elo": 1507.3,
+  "divisional_rank": 242,
+  "fight_count": 6,
   "fight_log": [
-    {
-      "blue_name": "Rukiya Anpo",
-      "bout_type": "Featherweight Kickboxing Bout",
-      "date": "2025-11-16",
-      "elo_delta": -18.8,
-      "event_name": "ONE 173: Superbon vs. Noiri",
-      "fight_id": "912667f0bef23b25",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Marat Grigorian",
-      "opponent_elo": 1510.6,
-      "outcome": "red_win",
-      "post_elo": 1507.9,
-      "pre_elo": 1526.7,
-      "red_name": "Marat Grigorian",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Featherweight"
-    },
     {
       "blue_name": "Sina Karimian",
       "bout_type": "Catchweight 100 kg Bout",
@@ -40,6 +20,8 @@
       "pre_elo": 1508.0,
       "red_name": "Rukiya Anpo",
       "round": "6",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "2:00",
       "weight_class": "Catch Weight"
     },
@@ -57,9 +39,11 @@
       "opponent_elo": 1500.0,
       "outcome": "draw",
       "post_elo": 1508.0,
-      "pre_elo": 1508.5,
+      "pre_elo": 1508.4,
       "red_name": "Manny Pacquiao",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "3:00",
       "weight_class": "Catch Weight"
     },
@@ -76,10 +60,12 @@
       "opponent": "Yuta Kubo",
       "opponent_elo": 1482.6,
       "outcome": "red_win",
-      "post_elo": 1508.5,
-      "pre_elo": 1530.6,
+      "post_elo": 1508.4,
+      "pre_elo": 1530.5,
       "red_name": "Yuta Kubo",
       "round": "1",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "4:28",
       "weight_class": "Catch Weight"
     },
@@ -94,12 +80,14 @@
       "is_title": false,
       "method": "Decision (Unanimous) (29–27, 29–26, 29–26)",
       "opponent": "Sho Patrick Usami",
-      "opponent_elo": 1500.1,
+      "opponent_elo": 1499.1,
       "outcome": "red_win",
-      "post_elo": 1534.2,
+      "post_elo": 1534.1,
       "pre_elo": 1517.1,
       "red_name": "Rukiya Anpo",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "3:00",
       "weight_class": "Catch Weight"
     },
@@ -120,6 +108,8 @@
       "pre_elo": 1518.0,
       "red_name": "Buakaw Banchamek",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "3:00",
       "weight_class": "Catch Weight"
     },
@@ -140,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Rukiya Anpo",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "3:00",
       "weight_class": "Lightweight"
     }
@@ -178,21 +170,21 @@
     {
       "date": "2023-09-24",
       "fight_id": "bdef5f6f029b4794",
-      "rating": 1534.2,
+      "rating": 1534.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-09-24",
       "fight_id": "bdef5f6f029b4794",
-      "rating": 1530.6,
+      "rating": 1530.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-12-31",
       "fight_id": "e1c7c6d3da6d3c85",
-      "rating": 1508.5,
+      "rating": 1508.4,
       "scope": "division",
       "system": "men:Catch Weight"
     },
@@ -213,7 +205,7 @@
     {
       "date": "2024-07-28",
       "fight_id": "902c1715bfca5890",
-      "rating": 1510.5,
+      "rating": 1510.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -230,33 +222,19 @@
       "rating": 1526.7,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2025-11-16",
-      "fight_id": "912667f0bef23b25",
-      "rating": 1507.9,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2025-11-16",
-      "fight_id": "912667f0bef23b25",
-      "rating": 1509.9,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
-  "last_fight_date": "2025-11-16",
+  "instagram_featured": true,
+  "last_fight_date": "2024-12-31",
   "name": "Rukiya Anpo",
   "nickname": "",
-  "overall_elo": 1509.9,
-  "peak_elo": 1534.2,
+  "overall_elo": 1526.7,
+  "peak_elo": 1534.1,
   "slug": "rukiya-anpo",
   "systems": {
-    "division": "men:Featherweight",
+    "division": "men:Lightweight",
     "overall": "men:overall"
   },
-  "weight_class": "Featherweight"
+  "weight_class": "Lightweight"
 }

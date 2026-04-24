@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 197,
+  "divisional_rank": 196,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Marcio Cruz",
       "bout_type": "Heavyweight Bout",
       "date": "2006-12-30",
-      "elo_delta": -17.5,
+      "elo_delta": -17.3,
       "event_name": "UFC 66: Liddell vs Ortiz 2",
       "fight_id": "697618c709c09f3d",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Andrei Arlovski",
-      "opponent_elo": 1558.9,
+      "opponent_elo": 1561.8,
       "outcome": "red_win",
-      "post_elo": 1506.1,
+      "post_elo": 1506.3,
       "pre_elo": 1523.6,
       "red_name": "Andrei Arlovski",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:15",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1542.8,
       "red_name": "Jeff Monson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1519.4,
       "red_name": "Marcio Cruz",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:10",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Marcio Cruz",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:02",
       "weight_class": "Heavyweight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2006-12-30",
       "fight_id": "697618c709c09f3d",
-      "rating": 1506.1,
+      "rating": 1506.3,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2006-12-30",
       "fight_id": "697618c709c09f3d",
-      "rating": 1506.7,
+      "rating": 1506.8,
       "scope": "overall",
       "system": "men:overall"
     }

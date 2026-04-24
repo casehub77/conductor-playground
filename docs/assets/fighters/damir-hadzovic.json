@@ -1,25 +1,27 @@
 {
-  "current_elo": 1472.7,
-  "divisional_rank": 1483,
+  "current_elo": 1472.8,
+  "divisional_rank": 1442,
   "fight_count": 10,
   "fight_log": [
     {
       "blue_name": "Damir Hadzovic",
       "bout_type": "Lightweight Bout",
       "date": "2025-02-01",
-      "elo_delta": -18.2,
+      "elo_delta": -18.1,
       "event_name": "UFC Fight Night: Adesanya vs. Imavov",
       "fight_id": "347557a9bb1a06ec",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Terrance Mckinney",
-      "opponent_elo": 1513.8,
+      "opponent_elo": 1514.0,
       "outcome": "red_win",
-      "post_elo": 1472.7,
+      "post_elo": 1472.8,
       "pre_elo": 1490.9,
       "red_name": "Terrance Mckinney",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:01",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1508.9,
       "red_name": "Marc Diakiese",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1491.5,
       "red_name": "Yancy Medeiros",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1509.5,
       "red_name": "Renato Moicano",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:44",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1529.6,
       "red_name": "Damir Hadzovic",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1507.7,
       "red_name": "Damir Hadzovic",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:03",
       "weight_class": "Lightweight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Nick Hein",
-      "opponent_elo": 1534.5,
+      "opponent_elo": 1534.6,
       "outcome": "blue_win",
       "post_elo": 1507.7,
       "pre_elo": 1487.2,
       "red_name": "Nick Hein",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1502.5,
       "red_name": "Alan Patrick",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1483.7,
       "red_name": "Marcin Held",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:07",
       "weight_class": "Lightweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mairbek Taisumov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:44",
       "weight_class": "Lightweight"
     }
@@ -336,14 +356,14 @@
     {
       "date": "2025-02-01",
       "fight_id": "347557a9bb1a06ec",
-      "rating": 1472.7,
+      "rating": 1472.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-02-01",
       "fight_id": "347557a9bb1a06ec",
-      "rating": 1476.8,
+      "rating": 1476.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -353,7 +373,7 @@
   "last_fight_date": "2025-02-01",
   "name": "Damir Hadzovic",
   "nickname": "",
-  "overall_elo": 1476.8,
+  "overall_elo": 1476.9,
   "peak_elo": 1529.6,
   "slug": "damir-hadzovic",
   "systems": {

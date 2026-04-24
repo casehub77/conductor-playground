@@ -1,6 +1,6 @@
 {
-  "current_elo": 1551.6,
-  "divisional_rank": 12,
+  "current_elo": 1551.7,
+  "divisional_rank": 4,
   "fight_count": 5,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Lito Adiwang",
-      "opponent_elo": 1538.5,
+      "opponent_elo": 1539.4,
       "outcome": "red_win",
-      "post_elo": 1551.6,
+      "post_elo": 1551.7,
       "pre_elo": 1533.4,
       "red_name": "Keito Yamakita",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 28",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision (split)",
       "opponent": "Yosuke Saruta",
-      "opponent_elo": 1467.8,
+      "opponent_elo": 1468.2,
       "outcome": "red_win",
       "post_elo": 1533.4,
       "pre_elo": 1517.9,
       "red_name": "Keito Yamakita",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 24",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1498.4,
       "red_name": "Keito Yamakita",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 166",
       "time": "4:04",
       "weight_class": "Strawweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1517.2,
       "red_name": "Bokang Masunyane",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 165",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Keito Yamakita",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 8",
       "time": "5:00",
       "weight_class": "Strawweight"
     }
@@ -166,25 +176,25 @@
     {
       "date": "2025-02-08",
       "fight_id": "b6d65d0377aa9dad",
-      "rating": 1551.6,
+      "rating": 1551.7,
       "scope": "division",
       "system": "men:Strawweight"
     },
     {
       "date": "2025-02-08",
       "fight_id": "b6d65d0377aa9dad",
-      "rating": 1546.1,
+      "rating": 1546.2,
       "scope": "overall",
       "system": "men:overall"
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
+  "instagram_featured": true,
   "last_fight_date": "2025-02-08",
   "name": "Keito Yamakita",
   "nickname": "",
-  "overall_elo": 1546.1,
-  "peak_elo": 1551.6,
+  "overall_elo": 1546.2,
+  "peak_elo": 1551.7,
   "slug": "keito-yamakita",
   "systems": {
     "division": "men:Strawweight",

@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 467,
+  "divisional_rank": 397,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Fabio Maldonado",
       "bout_type": "Light Heavyweight Bout",
       "date": "2010-10-16",
-      "elo_delta": -19.4,
+      "elo_delta": -19.5,
       "event_name": "UFC 120: Bisping vs Akiyama",
       "fight_id": "d882864453c6c1e1",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Fabio Maldonado",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1480.5,
-      "pre_elo": 1500.0,
+      "post_elo": 1481.3,
+      "pre_elo": 1500.8,
       "red_name": "James Mcsweeney",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:48",
       "weight_class": "Light Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Travis Browne",
       "bout_type": "Heavyweight Bout",
       "date": "2010-06-19",
-      "elo_delta": -19.5,
+      "elo_delta": -18.3,
       "event_name": "The Ultimate Fighter: Team Liddell vs Team Ortiz Finale",
       "fight_id": "05dce815e274c3f4",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Travis Browne",
-      "opponent_elo": 1519.0,
+      "opponent_elo": 1539.0,
       "outcome": "blue_win",
-      "post_elo": 1500.0,
+      "post_elo": 1501.1,
       "pre_elo": 1519.4,
       "red_name": "James Mcsweeney",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:32",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "James Mcsweeney",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:20",
       "weight_class": "Heavyweight"
     }
@@ -84,28 +90,28 @@
     {
       "date": "2010-06-19",
       "fight_id": "05dce815e274c3f4",
-      "rating": 1500.0,
+      "rating": 1501.1,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2010-06-19",
       "fight_id": "05dce815e274c3f4",
-      "rating": 1500.0,
+      "rating": 1500.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-10-16",
       "fight_id": "d882864453c6c1e1",
-      "rating": 1480.5,
+      "rating": 1481.3,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2010-10-16",
       "fight_id": "d882864453c6c1e1",
-      "rating": 1482.7,
+      "rating": 1483.5,
       "scope": "overall",
       "system": "men:overall"
     }

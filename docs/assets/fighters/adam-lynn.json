@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 899,
+  "divisional_rank": 892,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Yoshihiro Koyama",
       "bout_type": "Open Weight Bout",
       "date": "2010-11-19",
-      "elo_delta": 22.8,
+      "elo_delta": 22.7,
       "event_name": "Shooto: The Way of Shooto 6: Like a Tiger, Like a Dragon",
       "fight_id": "58bfe98d34e61018",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Yoshihiro Koyama",
-      "opponent_elo": 1576.4,
+      "opponent_elo": 1574.2,
       "outcome": "red_win",
-      "post_elo": 1504.0,
+      "post_elo": 1503.9,
       "pre_elo": 1481.1,
       "red_name": "Adam Lynn",
       "round": "3",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1466.9,
       "red_name": "Josh Thomson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Playboy Mansion",
       "time": "4:45",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1483.2,
       "red_name": "Rich Crunkilton",
       "round": "2",
+      "source": "manual",
+      "source_title": "WEC 21",
       "time": "1:20",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jay Hieron",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 15",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -132,7 +140,7 @@
     {
       "date": "2010-11-19",
       "fight_id": "58bfe98d34e61018",
-      "rating": 1504.0,
+      "rating": 1503.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -150,7 +158,7 @@
   "name": "Adam Lynn",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1504.0,
+  "peak_elo": 1503.9,
   "slug": "adam-lynn",
   "systems": {
     "division": "men:Open Weight",

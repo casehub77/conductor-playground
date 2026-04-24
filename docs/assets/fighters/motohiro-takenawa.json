@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 412,
-  "fight_count": 4,
+  "divisional_rank": 854,
+  "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Motohiro Takenawa",
       "bout_type": "Open Weight Bout",
       "date": "2010-12-26",
-      "elo_delta": -20.2,
+      "elo_delta": -19.3,
       "event_name": "Shooto: Border: Season 2: Immovable",
       "fight_id": "73a44482a4640e95",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Taiki Hamasaki",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1493.2,
-      "pre_elo": 1513.4,
+      "post_elo": 1478.4,
+      "pre_elo": 1497.7,
       "red_name": "Taiki Hamasaki",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "3:57",
       "weight_class": "Open Weight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Motohiro Takenawa",
       "bout_type": "Open Weight Bout",
       "date": "2010-09-17",
-      "elo_delta": -18.7,
+      "elo_delta": -17.8,
       "event_name": "Shooto: Kitazawa Shooto Vol. 4",
       "fight_id": "77cbbadaabb43e59",
       "gender": "men",
@@ -36,30 +38,12 @@
       "opponent": "Yuta Sasaki",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1513.4,
-      "pre_elo": 1532.1,
+      "post_elo": 1497.7,
+      "pre_elo": 1515.5,
       "red_name": "Yuta Sasaki",
       "round": "2",
-      "time": "5:00",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Hiroaki Nakayama",
-      "bout_type": "Open Weight Bout",
-      "date": "2010-05-16",
-      "elo_delta": 16.5,
-      "event_name": "Shooto: Grapplingman 11",
-      "fight_id": "3fb7a08d13f1414d",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (Majority)",
-      "opponent": "Hiroaki Nakayama",
-      "opponent_elo": 1487.1,
-      "outcome": "red_win",
-      "post_elo": 1532.1,
-      "pre_elo": 1515.5,
-      "red_name": "Motohiro Takenawa",
-      "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Motohiro Takenawa",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "4:15",
       "weight_class": "Open Weight"
     }
@@ -102,44 +88,30 @@
       "system": "men:overall"
     },
     {
-      "date": "2010-05-16",
-      "fight_id": "3fb7a08d13f1414d",
-      "rating": 1532.1,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2010-05-16",
-      "fight_id": "3fb7a08d13f1414d",
-      "rating": 1529.0,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2010-09-17",
       "fight_id": "77cbbadaabb43e59",
-      "rating": 1513.4,
+      "rating": 1497.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-09-17",
       "fight_id": "77cbbadaabb43e59",
-      "rating": 1512.4,
+      "rating": 1498.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-12-26",
       "fight_id": "73a44482a4640e95",
-      "rating": 1493.2,
+      "rating": 1478.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-12-26",
       "fight_id": "73a44482a4640e95",
-      "rating": 1494.5,
+      "rating": 1481.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -150,7 +122,7 @@
   "name": "Motohiro Takenawa",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1532.1,
+  "peak_elo": 1515.5,
   "slug": "motohiro-takenawa",
   "systems": {
     "division": "men:Open Weight",

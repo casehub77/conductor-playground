@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 613,
+  "divisional_rank": 620,
   "fight_count": 2,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Alessio Sakara",
       "opponent_elo": 1499.1,
       "outcome": "no_contest",
-      "post_elo": 1483.6,
-      "pre_elo": 1483.6,
+      "post_elo": 1484.5,
+      "pre_elo": 1484.5,
       "red_name": "Alessio Sakara",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:10",
       "weight_class": "Light Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Ron Faircloth",
       "bout_type": "Open Weight Bout",
       "date": "2001-10-04",
-      "elo_delta": -18.4,
+      "elo_delta": -17.3,
       "event_name": "WEC 2: Clash of the Titans",
       "fight_id": "edc748a06370da2b",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Gan McGee",
-      "opponent_elo": 1519.4,
+      "opponent_elo": 1538.0,
       "outcome": "red_win",
-      "post_elo": 1481.6,
+      "post_elo": 1482.7,
       "pre_elo": 1500.0,
       "red_name": "Gan McGee",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 2",
       "time": "0:12",
       "weight_class": "Open Weight"
     }
@@ -50,28 +54,28 @@
     {
       "date": "2001-10-04",
       "fight_id": "edc748a06370da2b",
-      "rating": 1481.6,
+      "rating": 1482.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2001-10-04",
       "fight_id": "edc748a06370da2b",
-      "rating": 1483.6,
+      "rating": 1484.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2005-10-07",
       "fight_id": "18b59970e2c9e30b",
-      "rating": 1483.6,
+      "rating": 1484.5,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2005-10-07",
       "fight_id": "18b59970e2c9e30b",
-      "rating": 1483.6,
+      "rating": 1484.5,
       "scope": "overall",
       "system": "men:overall"
     }

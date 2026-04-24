@@ -1,6 +1,6 @@
 {
-  "current_elo": 1538.5,
-  "divisional_rank": 96,
+  "current_elo": 1538.6,
+  "divisional_rank": 76,
   "fight_count": 6,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Farid Basharat",
       "opponent_elo": 1575.2,
       "outcome": "blue_win",
-      "post_elo": 1538.5,
-      "pre_elo": 1555.5,
+      "post_elo": 1538.6,
+      "pre_elo": 1555.6,
       "red_name": "Jean Matsumoto",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Miles Johns",
       "opponent_elo": 1563.8,
       "outcome": "blue_win",
-      "post_elo": 1555.5,
-      "pre_elo": 1536.1,
+      "post_elo": 1555.6,
+      "pre_elo": 1536.2,
       "red_name": "Miles Johns",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Rob Font",
-      "opponent_elo": 1586.1,
+      "opponent_elo": 1586.2,
       "outcome": "red_win",
-      "post_elo": 1536.1,
-      "pre_elo": 1552.3,
+      "post_elo": 1536.2,
+      "pre_elo": 1552.4,
       "red_name": "Rob Font",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Jean Matsumoto",
       "bout_type": "Bantamweight Bout",
       "date": "2024-10-19",
-      "elo_delta": 16.6,
+      "elo_delta": 16.8,
       "event_name": "UFC Fight Night: Hernandez vs. Pereira",
       "fight_id": "251168a13a48f2c3",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Brad Katona",
-      "opponent_elo": 1509.5,
+      "opponent_elo": 1511.5,
       "outcome": "blue_win",
-      "post_elo": 1552.3,
+      "post_elo": 1552.4,
       "pre_elo": 1535.7,
       "red_name": "Brad Katona",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1517.1,
       "red_name": "Dan Argueta",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:59",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jean Matsumoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Legacy Fighting Alliance",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -158,56 +170,56 @@
     {
       "date": "2024-10-19",
       "fight_id": "251168a13a48f2c3",
-      "rating": 1552.3,
+      "rating": 1552.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-10-19",
       "fight_id": "251168a13a48f2c3",
-      "rating": 1546.8,
+      "rating": 1546.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-02-22",
       "fight_id": "70f970dfb9b18865",
-      "rating": 1536.1,
+      "rating": 1536.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-02-22",
       "fight_id": "70f970dfb9b18865",
-      "rating": 1532.3,
+      "rating": 1532.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-08-09",
       "fight_id": "40474dd6ceaf28e3",
-      "rating": 1555.5,
+      "rating": 1555.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-08-09",
       "fight_id": "40474dd6ceaf28e3",
-      "rating": 1548.6,
+      "rating": 1548.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-02-07",
       "fight_id": "8530c2caace9b6a1",
-      "rating": 1538.5,
+      "rating": 1538.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-02-07",
       "fight_id": "8530c2caace9b6a1",
-      "rating": 1534.1,
+      "rating": 1534.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -217,8 +229,8 @@
   "last_fight_date": "2026-02-07",
   "name": "Jean Matsumoto",
   "nickname": "",
-  "overall_elo": 1534.1,
-  "peak_elo": 1555.5,
+  "overall_elo": 1534.2,
+  "peak_elo": 1555.6,
   "slug": "jean-matsumoto",
   "systems": {
     "division": "men:Bantamweight",

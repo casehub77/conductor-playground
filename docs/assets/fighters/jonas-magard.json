@@ -1,6 +1,6 @@
 {
-  "current_elo": 1549.9,
-  "divisional_rank": 77,
+  "current_elo": 1550.0,
+  "divisional_rank": 62,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Elvis Batista da Silva",
       "opponent_elo": 1518.2,
       "outcome": "red_win",
-      "post_elo": 1549.9,
+      "post_elo": 1550.0,
       "pre_elo": 1532.7,
       "red_name": "Jonas Mågård",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1519.0,
       "outcome": "red_win",
       "post_elo": 1532.7,
-      "pre_elo": 1514.4,
+      "pre_elo": 1514.5,
       "red_name": "Jonas Mågård",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Igor Severino",
       "opponent_elo": 1482.7,
       "outcome": "red_win",
-      "post_elo": 1514.4,
-      "pre_elo": 1535.1,
+      "post_elo": 1514.5,
+      "pre_elo": 1535.2,
       "red_name": "Igor Severino",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
       "opponent": "Josh Hill",
-      "opponent_elo": 1485.9,
+      "opponent_elo": 1485.2,
       "outcome": "red_win",
-      "post_elo": 1535.1,
-      "pre_elo": 1518.8,
+      "post_elo": 1535.2,
+      "pre_elo": 1518.9,
       "red_name": "Jonas Mågård",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Jack Cartwright",
       "opponent_elo": 1520.3,
       "outcome": "red_win",
-      "post_elo": 1518.8,
-      "pre_elo": 1499.7,
+      "post_elo": 1518.9,
+      "pre_elo": 1499.9,
       "red_name": "Jonas Mågård",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -116,10 +126,12 @@
       "opponent": "Felipe Lima",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1499.7,
-      "pre_elo": 1518.7,
+      "post_elo": 1499.9,
+      "pre_elo": 1518.8,
       "red_name": "Felipe Lima",
       "round": "5",
+      "source": "manual",
+      "source_title": "2023 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -127,19 +139,21 @@
       "blue_name": "Gustavo Lopez",
       "bout_type": "Bantamweight Bout",
       "date": "2023-04-15",
-      "elo_delta": 18.7,
+      "elo_delta": 18.8,
       "event_name": "Oktagon 41: Mågård vs. Lopez",
       "fight_id": "cfefea803b57d93b",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Gustavo Lopez",
-      "opponent_elo": 1487.1,
+      "opponent_elo": 1489.4,
       "outcome": "red_win",
-      "post_elo": 1518.7,
+      "post_elo": 1518.8,
       "pre_elo": 1500.0,
       "red_name": "Jonas Mågård",
       "round": "2",
+      "source": "manual",
+      "source_title": "2023 in Oktagon MMA",
       "time": "0:31",
       "weight_class": "Bantamweight"
     }
@@ -150,70 +164,70 @@
     {
       "date": "2023-04-15",
       "fight_id": "cfefea803b57d93b",
-      "rating": 1518.7,
+      "rating": 1518.8,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-04-15",
       "fight_id": "cfefea803b57d93b",
-      "rating": 1516.6,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2023-07-28",
-      "fight_id": "f8e16657e2af2487",
-      "rating": 1499.7,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2023-07-28",
-      "fight_id": "f8e16657e2af2487",
-      "rating": 1499.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-01-27",
-      "fight_id": "c9322aa741288876",
-      "rating": 1518.8,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2024-01-27",
-      "fight_id": "c9322aa741288876",
       "rating": 1516.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
+      "date": "2023-07-28",
+      "fight_id": "f8e16657e2af2487",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2023-07-28",
+      "fight_id": "f8e16657e2af2487",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "c9322aa741288876",
+      "rating": 1518.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2024-01-27",
+      "fight_id": "c9322aa741288876",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2024-07-20",
       "fight_id": "6f270218d0adf91e",
-      "rating": 1535.1,
+      "rating": 1535.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-07-20",
       "fight_id": "6f270218d0adf91e",
-      "rating": 1531.3,
+      "rating": 1531.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-12-29",
       "fight_id": "fedc6c073db66a20",
-      "rating": 1514.4,
+      "rating": 1514.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-12-29",
       "fight_id": "fedc6c073db66a20",
-      "rating": 1513.1,
+      "rating": 1513.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -234,14 +248,14 @@
     {
       "date": "2025-12-28",
       "fight_id": "7e06f423d6327c20",
-      "rating": 1549.9,
+      "rating": 1550.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-12-28",
       "fight_id": "7e06f423d6327c20",
-      "rating": 1544.7,
+      "rating": 1544.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,8 +265,8 @@
   "last_fight_date": "2025-12-28",
   "name": "Jonas Mågård",
   "nickname": "",
-  "overall_elo": 1544.7,
-  "peak_elo": 1549.9,
+  "overall_elo": 1544.8,
+  "peak_elo": 1550.0,
   "slug": "jonas-magard",
   "systems": {
     "division": "men:Bantamweight",

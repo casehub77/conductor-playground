@@ -1,25 +1,27 @@
 {
-  "current_elo": 1519.9,
-  "divisional_rank": 159,
+  "current_elo": 1519.3,
+  "divisional_rank": 164,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Koji Takeda",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2025-05-31",
-      "elo_delta": 19.9,
+      "elo_delta": 19.3,
       "event_name": "Rizin World Series in Korea",
       "fight_id": "c53a80191c620f9c",
       "gender": "men",
       "is_title": false,
       "method": "TKO (knees and punches)",
       "opponent": "Koji Takeda",
-      "opponent_elo": 1508.5,
+      "opponent_elo": 1497.2,
       "outcome": "red_win",
-      "post_elo": 1519.9,
+      "post_elo": 1519.3,
       "pre_elo": 1500.0,
       "red_name": "Ji Hyuk-min",
       "round": "2",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "4:13",
       "weight_class": "Featherweight"
     }
@@ -30,14 +32,14 @@
     {
       "date": "2025-05-31",
       "fight_id": "c53a80191c620f9c",
-      "rating": 1519.9,
+      "rating": 1519.3,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-05-31",
       "fight_id": "c53a80191c620f9c",
-      "rating": 1517.6,
+      "rating": 1517.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -47,8 +49,8 @@
   "last_fight_date": "2025-05-31",
   "name": "Ji Hyuk-min",
   "nickname": "",
-  "overall_elo": 1517.6,
-  "peak_elo": 1519.9,
+  "overall_elo": 1517.0,
+  "peak_elo": 1519.3,
   "slug": "ji-hyuk-min",
   "systems": {
     "division": "men:Featherweight",

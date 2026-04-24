@@ -1,46 +1,28 @@
 {
-  "current_elo": 1515.5,
-  "divisional_rank": 66,
-  "fight_count": 3,
+  "current_elo": 1533.4,
+  "divisional_rank": 8,
+  "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Taiga Kawabe",
       "bout_type": "Catchweight 62 kg Bout",
       "date": "2025-07-27",
-      "elo_delta": 17.1,
+      "elo_delta": 16.1,
       "event_name": "Super Rizin 4",
       "fight_id": "ce84f6c18ec0b0f6",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Taiga Kawabe",
-      "opponent_elo": 1481.7,
+      "opponent_elo": 1480.9,
       "outcome": "red_win",
-      "post_elo": 1515.5,
-      "pre_elo": 1498.4,
+      "post_elo": 1533.4,
+      "pre_elo": 1517.3,
       "red_name": "Shogo Kuriaki",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
-      "weight_class": "Catch Weight"
-    },
-    {
-      "blue_name": "Shogo Kuriaki",
-      "bout_type": "Catchweight (132 lbs) Muay Thai Bout",
-      "date": "2024-02-02",
-      "elo_delta": -18.9,
-      "event_name": "ONE Friday Fights 50: Yodphupa vs. Komawut",
-      "fight_id": "bd37035e8afdf19b",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Petchpalangchai Por.Charoenpaet",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1498.4,
-      "pre_elo": 1517.3,
-      "red_name": "Petchpalangchai Por.Charoenpaet",
-      "round": "3",
-      "time": "3:00",
       "weight_class": "Catch Weight"
     }
   ],
@@ -55,41 +37,27 @@
       "system": "men:overall"
     },
     {
-      "date": "2024-02-02",
-      "fight_id": "bd37035e8afdf19b",
-      "rating": 1498.4,
-      "scope": "division",
-      "system": "men:Catch Weight"
-    },
-    {
-      "date": "2024-02-02",
-      "fight_id": "bd37035e8afdf19b",
-      "rating": 1500.5,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2025-07-27",
       "fight_id": "ce84f6c18ec0b0f6",
-      "rating": 1515.5,
+      "rating": 1533.4,
       "scope": "division",
       "system": "men:Catch Weight"
     },
     {
       "date": "2025-07-27",
       "fight_id": "ce84f6c18ec0b0f6",
-      "rating": 1515.7,
+      "rating": 1531.7,
       "scope": "overall",
       "system": "men:overall"
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
+  "instagram_featured": true,
   "last_fight_date": "2025-07-27",
   "name": "Shogo Kuriaki",
   "nickname": "",
-  "overall_elo": 1515.7,
-  "peak_elo": 1517.3,
+  "overall_elo": 1531.7,
+  "peak_elo": 1533.4,
   "slug": "shogo-kuriaki",
   "systems": {
     "division": "men:Catch Weight",

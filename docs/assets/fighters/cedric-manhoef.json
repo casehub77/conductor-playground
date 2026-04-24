@@ -1,25 +1,27 @@
 {
-  "current_elo": 1482.8,
-  "divisional_rank": 1390,
+  "current_elo": 1482.0,
+  "divisional_rank": 1367,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Cedric Manhoef",
       "bout_type": "Lightweight Bout",
       "date": "2025-07-26",
-      "elo_delta": -17.2,
+      "elo_delta": -18.0,
       "event_name": "LFA 213: Gonzalez vs. Rosales",
       "fight_id": "8ff92818ecc874b6",
       "gender": "men",
       "is_title": false,
       "method": "KO (punch)",
       "opponent": "BeyNoah",
-      "opponent_elo": 1540.4,
+      "opponent_elo": 1525.4,
       "outcome": "red_win",
-      "post_elo": 1482.8,
+      "post_elo": 1482.0,
       "pre_elo": 1500.0,
       "red_name": "BeyNoah",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "0:49",
       "weight_class": "Lightweight"
     }
@@ -30,14 +32,14 @@
     {
       "date": "2025-07-26",
       "fight_id": "8ff92818ecc874b6",
-      "rating": 1482.8,
+      "rating": 1482.0,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-07-26",
       "fight_id": "8ff92818ecc874b6",
-      "rating": 1483.8,
+      "rating": 1483.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -47,7 +49,7 @@
   "last_fight_date": "2025-07-26",
   "name": "Cedric Manhoef",
   "nickname": "",
-  "overall_elo": 1483.8,
+  "overall_elo": 1483.2,
   "peak_elo": 1500.0,
   "slug": "cedric-manhoef",
   "systems": {

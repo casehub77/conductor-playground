@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 507,
+  "divisional_rank": 484,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Sidney Outlaw",
       "bout_type": "Lightweight Bout",
       "date": "2023-11-17",
-      "elo_delta": -18.5,
+      "elo_delta": -17.3,
       "event_name": "Bellator 301: Amosov vs. Jackson",
       "fight_id": "2e25034c13576aa3",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
       "opponent": "A. J. McKee",
-      "opponent_elo": 1517.7,
+      "opponent_elo": 1541.1,
       "outcome": "red_win",
-      "post_elo": 1508.6,
+      "post_elo": 1509.8,
       "pre_elo": 1527.1,
       "red_name": "A. J. McKee",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 301",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1508.2,
       "red_name": "Sidney Outlaw",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 298",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1524.8,
       "red_name": "Tofiq Musayev",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 283",
       "time": "0:27",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Sidney Outlaw",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 261",
       "time": "4:44",
       "weight_class": "Lightweight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2023-11-17",
       "fight_id": "2e25034c13576aa3",
-      "rating": 1508.6,
+      "rating": 1509.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-11-17",
       "fight_id": "2e25034c13576aa3",
-      "rating": 1506.0,
+      "rating": 1507.0,
       "scope": "overall",
       "system": "men:overall"
     }

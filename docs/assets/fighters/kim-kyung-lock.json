@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1269,
-  "fight_count": 2,
+  "divisional_rank": 1026,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Kim Kyung-lock",
       "bout_type": "Lightweight Bout",
       "date": "2022-06-03",
-      "elo_delta": -18.0,
+      "elo_delta": -18.9,
       "event_name": "ONE 158: Tawanchai vs. Larsen",
       "fight_id": "b04987b44808f4ba",
       "gender": "men",
@@ -16,35 +16,30 @@
       "opponent": "Edson Marques",
       "opponent_elo": 1482.7,
       "outcome": "red_win",
-      "post_elo": 1464.7,
-      "pre_elo": 1482.7,
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
       "red_name": "Edson Marques",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 158",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
   ],
-  "first_fight_date": "2022-03-11",
+  "first_fight_date": "2022-06-03",
   "gender": "men",
   "history": [
     {
-      "date": "2022-03-11",
-      "fight_id": "cc77867cbf91db35",
-      "rating": 1482.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2022-06-03",
       "fight_id": "b04987b44808f4ba",
-      "rating": 1464.7,
+      "rating": 1481.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-06-03",
       "fight_id": "b04987b44808f4ba",
-      "rating": 1466.7,
+      "rating": 1483.2,
       "scope": "overall",
       "system": "men:overall"
     }

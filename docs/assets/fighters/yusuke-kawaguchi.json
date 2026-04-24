@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 281,
+  "divisional_rank": 289,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "James Thompson",
       "bout_type": "Heavyweight Bout",
       "date": "2010-09-25",
-      "elo_delta": 19.9,
+      "elo_delta": 20.0,
       "event_name": "Dream 16",
       "fight_id": "2827531e2bf51f85",
       "gender": "men",
       "is_title": false,
       "method": "split decision",
       "opponent": "James Thompson",
-      "opponent_elo": 1537.6,
+      "opponent_elo": 1537.9,
       "outcome": "red_win",
-      "post_elo": 1519.9,
+      "post_elo": 1520.0,
       "pre_elo": 1500.0,
       "red_name": "Yusuke Kawaguchi",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 16",
       "time": "5:00",
       "weight_class": "Heavyweight"
     }
@@ -30,7 +32,7 @@
     {
       "date": "2010-09-25",
       "fight_id": "2827531e2bf51f85",
-      "rating": 1519.9,
+      "rating": 1520.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -48,7 +50,7 @@
   "name": "Yusuke Kawaguchi",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1519.9,
+  "peak_elo": 1520.0,
   "slug": "yusuke-kawaguchi",
   "systems": {
     "division": "men:Heavyweight",

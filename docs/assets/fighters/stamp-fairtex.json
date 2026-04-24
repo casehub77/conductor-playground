@@ -1,28 +1,8 @@
 {
-  "current_elo": 1519.1,
-  "divisional_rank": 29,
-  "fight_count": 7,
+  "current_elo": 1513.3,
+  "divisional_rank": 14,
+  "fight_count": 5,
   "fight_log": [
-    {
-      "blue_name": "Stamp Fairtex",
-      "bout_type": "Women's Atomweight Kickboxing Bout",
-      "date": "2025-11-16",
-      "elo_delta": -20.7,
-      "event_name": "ONE 173: Superbon vs. Noiri",
-      "fight_id": "82485de13188ee30",
-      "gender": "women",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Kana Morimoto",
-      "opponent_elo": 1488.2,
-      "outcome": "red_win",
-      "post_elo": 1519.1,
-      "pre_elo": 1539.8,
-      "red_name": "Kana Morimoto",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Atomweight"
-    },
     {
       "blue_name": "Ham Seo-hee",
       "bout_type": "Women's Atomweight Bout",
@@ -40,6 +20,8 @@
       "pre_elo": 1519.5,
       "red_name": "Stamp Fairtex",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 14",
       "time": "1:04",
       "weight_class": "Atomweight"
     },
@@ -60,28 +42,10 @@
       "pre_elo": 1498.9,
       "red_name": "Stamp Fairtex",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE Fight Night 10",
       "time": "2:27",
       "weight_class": "Atomweight"
-    },
-    {
-      "blue_name": "Anna Jaroonsak",
-      "bout_type": "Women's Strawweight Kickboxing Bout",
-      "date": "2023-01-14",
-      "elo_delta": 18.0,
-      "event_name": "ONE Fight Night 6: Superbon vs. Allazov",
-      "fight_id": "c509e975a7ed45af",
-      "gender": "women",
-      "is_title": false,
-      "method": "Decision (split)",
-      "opponent": "Anna Jaroonsak",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1517.2,
-      "pre_elo": 1499.1,
-      "red_name": "Stamp Fairtex",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Strawweight"
     },
     {
       "blue_name": "Jihin Radzuan",
@@ -100,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Stamp Fairtex",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE on Prime Video 2",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -120,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Angela Lee",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE: X",
       "time": "4:50",
       "weight_class": "Atomweight"
     },
@@ -140,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Stamp Fairtex",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE: Winter Warriors",
       "time": "2:14",
       "weight_class": "Atomweight"
     }
@@ -190,20 +160,6 @@
       "system": "men:overall"
     },
     {
-      "date": "2023-01-14",
-      "fight_id": "c509e975a7ed45af",
-      "rating": 1517.2,
-      "scope": "division",
-      "system": "women:Strawweight"
-    },
-    {
-      "date": "2023-01-14",
-      "fight_id": "c509e975a7ed45af",
-      "rating": 1515.2,
-      "scope": "overall",
-      "system": "women:overall"
-    },
-    {
       "date": "2023-05-05",
       "fight_id": "80ce579e0859fe80",
       "rating": 1519.5,
@@ -213,7 +169,7 @@
     {
       "date": "2023-05-05",
       "fight_id": "80ce579e0859fe80",
-      "rating": 1532.6,
+      "rating": 1517.3,
       "scope": "overall",
       "system": "women:overall"
     },
@@ -227,32 +183,18 @@
     {
       "date": "2023-09-30",
       "fight_id": "fb51685dfbd143f8",
-      "rating": 1549.7,
-      "scope": "overall",
-      "system": "women:overall"
-    },
-    {
-      "date": "2025-11-16",
-      "fight_id": "82485de13188ee30",
-      "rating": 1519.1,
-      "scope": "division",
-      "system": "women:Atomweight"
-    },
-    {
-      "date": "2025-11-16",
-      "fight_id": "82485de13188ee30",
-      "rating": 1530.9,
+      "rating": 1535.3,
       "scope": "overall",
       "system": "women:overall"
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
-  "last_fight_date": "2025-11-16",
+  "instagram_featured": true,
+  "last_fight_date": "2023-09-30",
   "name": "Stamp Fairtex",
   "nickname": "",
-  "overall_elo": 1530.9,
-  "peak_elo": 1549.7,
+  "overall_elo": 1508.8,
+  "peak_elo": 1539.8,
   "slug": "stamp-fairtex",
   "systems": {
     "division": "women:Atomweight",

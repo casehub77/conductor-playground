@@ -20,6 +20,8 @@
       "pre_elo": 1564.2,
       "red_name": "Paweł Pawlak",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "3:54",
       "weight_class": "Middleweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1544.9,
       "red_name": "Tom Breese",
       "round": "2",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "1:55",
       "weight_class": "Middleweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1564.5,
       "red_name": "Omari Akhmedov",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:41",
       "weight_class": "Middleweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1547.7,
       "red_name": "Tom Breese",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:42",
       "weight_class": "Middleweight"
     },
@@ -97,9 +105,11 @@
       "opponent_elo": 1521.8,
       "outcome": "red_win",
       "post_elo": 1547.7,
-      "pre_elo": 1569.8,
+      "pre_elo": 1569.9,
       "red_name": "Brendan Allen",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:47",
       "weight_class": "Middleweight"
     },
@@ -114,12 +124,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Daniel Kelly",
-      "opponent_elo": 1549.8,
+      "opponent_elo": 1549.9,
       "outcome": "blue_win",
-      "post_elo": 1569.8,
+      "post_elo": 1569.9,
       "pre_elo": 1550.4,
       "red_name": "Daniel Kelly",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:33",
       "weight_class": "Middleweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1573.8,
       "red_name": "Sean Strickland",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1556.1,
       "red_name": "Tom Breese",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1534.7,
       "red_name": "Cathal Pendred",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:37",
       "weight_class": "Welterweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1517.3,
       "red_name": "Luiz Dutra",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:58",
       "weight_class": "Welterweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tom Breese",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Cage Warriors",
       "time": "2:13",
       "weight_class": "Open Weight"
     }
@@ -300,7 +322,7 @@
     {
       "date": "2018-05-27",
       "fight_id": "0c8df15f25be19bb",
-      "rating": 1569.8,
+      "rating": 1569.9,
       "scope": "division",
       "system": "men:Middleweight"
     },

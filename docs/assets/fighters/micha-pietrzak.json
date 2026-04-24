@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 348,
+  "divisional_rank": 346,
   "fight_count": 5,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1519.7,
       "red_name": "Brian Hooi",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "3:20",
       "weight_class": "Welterweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1538.8,
       "red_name": "Tomasz Romanowski",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1551.4,
       "outcome": "draw",
       "post_elo": 1538.8,
-      "pre_elo": 1538.2,
+      "pre_elo": 1538.1,
       "red_name": "Michał Pietrzak",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Krystian Kaszubowski",
       "bout_type": "Welterweight 77 kg Bout",
       "date": "2021-03-20",
-      "elo_delta": 19.7,
+      "elo_delta": 19.6,
       "event_name": "KSW 59: Fight Code",
       "fight_id": "911363016bfa1250",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Split)",
       "opponent": "Krystian Kaszubowski",
-      "opponent_elo": 1550.8,
+      "opponent_elo": 1550.3,
       "outcome": "red_win",
-      "post_elo": 1538.2,
+      "post_elo": 1538.1,
       "pre_elo": 1518.5,
       "red_name": "Michał Pietrzak",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Welterweight"
     }
@@ -97,7 +105,7 @@
     {
       "date": "2021-03-20",
       "fight_id": "911363016bfa1250",
-      "rating": 1538.2,
+      "rating": 1538.1,
       "scope": "division",
       "system": "men:Welterweight"
     },
@@ -118,7 +126,7 @@
     {
       "date": "2021-10-23",
       "fight_id": "7cb90de4eb5fa047",
-      "rating": 1536.4,
+      "rating": 1536.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -146,7 +154,7 @@
     {
       "date": "2022-07-23",
       "fight_id": "90947947a2d48149",
-      "rating": 1500.4,
+      "rating": 1500.3,
       "scope": "overall",
       "system": "men:overall"
     }

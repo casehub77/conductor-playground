@@ -1,25 +1,27 @@
 {
   "current_elo": 1554.0,
-  "divisional_rank": 45,
+  "divisional_rank": 33,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Takaki Soya",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2026-03-07",
-      "elo_delta": 19.1,
+      "elo_delta": 19.2,
       "event_name": "Rizin 52",
       "fight_id": "ebe25cdeedca336e",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Takaki Soya",
-      "opponent_elo": 1529.2,
+      "opponent_elo": 1529.9,
       "outcome": "red_win",
       "post_elo": 1554.0,
       "pre_elo": 1534.8,
       "red_name": "Tony Laramie",
       "round": "3",
+      "source": "manual",
+      "source_title": "2026 in Rizin Fighting Federation",
       "time": "2:00",
       "weight_class": "Flyweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1500.0,
       "outcome": "red_win",
       "post_elo": 1534.8,
-      "pre_elo": 1517.8,
+      "pre_elo": 1517.7,
       "red_name": "Tony Laramie",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Yuki Ito",
       "opponent_elo": 1579.2,
       "outcome": "red_win",
-      "post_elo": 1517.8,
+      "post_elo": 1517.7,
       "pre_elo": 1533.4,
       "red_name": "Yuki Ito",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Yutaro Muramoto",
-      "opponent_elo": 1467.6,
+      "opponent_elo": 1466.8,
       "outcome": "red_win",
       "post_elo": 1533.4,
       "pre_elo": 1518.0,
       "red_name": "Tony Laramie",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tony Laramie",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Legacy Fighting Alliance",
       "time": "5:00",
       "weight_class": "Flyweight"
     }
@@ -131,14 +141,14 @@
     {
       "date": "2024-11-17",
       "fight_id": "88ac9a7ead5d27b6",
-      "rating": 1529.9,
+      "rating": 1529.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-03-30",
       "fight_id": "a08800335f17adc9",
-      "rating": 1517.8,
+      "rating": 1517.7,
       "scope": "division",
       "system": "men:Flyweight"
     },
@@ -159,7 +169,7 @@
     {
       "date": "2025-11-03",
       "fight_id": "1bee675f9a984731",
-      "rating": 1531.1,
+      "rating": 1531.0,
       "scope": "overall",
       "system": "men:overall"
     },

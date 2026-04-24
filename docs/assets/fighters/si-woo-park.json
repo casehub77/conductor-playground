@@ -1,8 +1,31 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": null,
-  "fight_count": 1,
-  "fight_log": [],
+  "divisional_rank": 24,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Si Woo Park",
+      "bout_type": "Super Atomweight Bout",
+      "date": "2022-12-31",
+      "elo_delta": -16.6,
+      "event_name": "Bellator MMA vs. Rizin FF",
+      "fight_id": "0accfd5feb115f81",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Seika Izawa",
+      "opponent_elo": 1547.0,
+      "outcome": "red_win",
+      "post_elo": 1503.2,
+      "pre_elo": 1519.8,
+      "red_name": "Seika Izawa",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Rizin 40",
+      "time": "5:00",
+      "weight_class": "Atomweight"
+    }
+  ],
   "first_fight_date": "2021-12-31",
   "gender": "women",
   "history": [
@@ -12,19 +35,33 @@
       "rating": 1519.8,
       "scope": "overall",
       "system": "women:overall"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "0accfd5feb115f81",
+      "rating": 1503.2,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "0accfd5feb115f81",
+      "rating": 1504.8,
+      "scope": "overall",
+      "system": "women:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2021-12-31",
+  "last_fight_date": "2022-12-31",
   "name": "Si Woo Park",
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1519.8,
   "slug": "si-woo-park",
   "systems": {
-    "division": "women:Catch Weight",
+    "division": "women:Atomweight",
     "overall": "women:overall"
   },
-  "weight_class": "Catch Weight"
+  "weight_class": "Atomweight"
 }

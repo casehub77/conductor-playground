@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1430,
+  "divisional_rank": 1423,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Matteus Lahdesmaki",
       "bout_type": "Open Weight Bout",
       "date": "2010-07-19",
-      "elo_delta": -15.5,
+      "elo_delta": -16.4,
       "event_name": "Shooto: The Way of Shooto 4: Like a Tiger, Like a Dragon",
       "fight_id": "797783ee068ca8be",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Punches)",
       "opponent": "Tenkei Oda",
-      "opponent_elo": 1554.3,
+      "opponent_elo": 1537.9,
       "outcome": "red_win",
-      "post_elo": 1468.0,
+      "post_elo": 1467.1,
       "pre_elo": 1483.6,
       "red_name": "Tenkei Oda",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "4:08",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Akiyo Nishiura",
       "round": "3",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "2:17",
       "weight_class": "Open Weight"
     }
@@ -64,14 +68,14 @@
     {
       "date": "2010-07-19",
       "fight_id": "797783ee068ca8be",
-      "rating": 1468.0,
+      "rating": 1467.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-07-19",
       "fight_id": "797783ee068ca8be",
-      "rating": 1471.0,
+      "rating": 1470.2,
       "scope": "overall",
       "system": "men:overall"
     }

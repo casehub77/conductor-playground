@@ -1,13 +1,13 @@
 {
-  "current_elo": 1588.9,
-  "divisional_rank": 17,
-  "fight_count": 5,
+  "current_elo": 1573.4,
+  "divisional_rank": 22,
+  "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Anatoly Malykhin",
       "bout_type": "Heavyweight Bout",
       "date": "2024-11-09",
-      "elo_delta": 16.3,
+      "elo_delta": 17.1,
       "event_name": "ONE 169: Malykhin vs. Reug Reug",
       "fight_id": "9809cdf44ddbea94",
       "gender": "men",
@@ -16,31 +16,13 @@
       "opponent": "Anatoly Malykhin",
       "opponent_elo": 1539.7,
       "outcome": "red_win",
-      "post_elo": 1588.9,
-      "pre_elo": 1572.6,
-      "red_name": "Oumar Kane",
-      "round": "5",
-      "time": "5:00",
-      "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Mamadou Kamara",
-      "bout_type": "Heavyweight Kickboxing Bout",
-      "date": "2024-07-06",
-      "elo_delta": 16.3,
-      "event_name": "ONE Fight Night 23: Ok vs. Rasulov",
-      "fight_id": "d0b2d35db837afbd",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (punches)",
-      "opponent": "Mamadou Kamara",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1572.6,
+      "post_elo": 1573.4,
       "pre_elo": 1556.2,
       "red_name": "Oumar Kane",
-      "round": "1",
-      "time": "2:08",
+      "round": "5",
+      "source": "manual",
+      "source_title": "ONE 169",
+      "time": "5:00",
       "weight_class": "Heavyweight"
     },
     {
@@ -60,6 +42,8 @@
       "pre_elo": 1537.4,
       "red_name": "Oumar Kane",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 13",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +64,8 @@
       "pre_elo": 1519.4,
       "red_name": "Oumar Kane",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE on Prime Video 5",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Oumar Kane",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE 161",
       "time": "2:15",
       "weight_class": "Heavyweight"
     }
@@ -150,30 +138,16 @@
       "system": "men:overall"
     },
     {
-      "date": "2024-07-06",
-      "fight_id": "d0b2d35db837afbd",
-      "rating": 1572.6,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2024-07-06",
-      "fight_id": "d0b2d35db837afbd",
-      "rating": 1564.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2024-11-09",
       "fight_id": "9809cdf44ddbea94",
-      "rating": 1588.9,
+      "rating": 1573.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2024-11-09",
       "fight_id": "9809cdf44ddbea94",
-      "rating": 1580.8,
+      "rating": 1566.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,8 +157,8 @@
   "last_fight_date": "2024-11-09",
   "name": "Oumar Kane",
   "nickname": "",
-  "overall_elo": 1580.8,
-  "peak_elo": 1588.9,
+  "overall_elo": 1566.8,
+  "peak_elo": 1573.4,
   "slug": "oumar-kane",
   "systems": {
     "division": "men:Heavyweight",

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 488,
+  "divisional_rank": 497,
   "fight_count": 3,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Eddie Sanchez",
-      "opponent_elo": 1498.3,
+      "opponent_elo": 1498.4,
       "outcome": "red_win",
       "post_elo": 1444.8,
       "pre_elo": 1462.2,
       "red_name": "Eddie Sanchez",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 7",
       "time": "0:10",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1480.6,
       "red_name": "Jake O'Brien",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 19",
       "time": "0:14",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Christian Wellisch",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 4",
       "time": "3:42",
       "weight_class": "Heavyweight"
     }

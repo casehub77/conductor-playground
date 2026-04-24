@@ -1,6 +1,6 @@
 {
-  "current_elo": 1478.2,
-  "divisional_rank": 1473,
+  "current_elo": 1478.1,
+  "divisional_rank": 1433,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Jai Herbert",
       "opponent_elo": 1480.3,
       "outcome": "blue_win",
-      "post_elo": 1478.2,
+      "post_elo": 1478.1,
       "pre_elo": 1498.6,
       "red_name": "Mandel Nallo",
       "round": "1",
+      "source": "ufc:official",
+      "source_title": "",
       "time": "2:05",
       "weight_class": "Lightweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Adam Piccolotti",
-      "opponent_elo": 1498.6,
+      "opponent_elo": 1497.9,
       "outcome": "red_win",
       "post_elo": 1498.6,
       "pre_elo": 1519.2,
       "red_name": "Adam Piccolotti",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 293",
       "time": "4:26",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.9,
       "red_name": "Mandel Nallo",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 282",
       "time": "1:07",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Nick Browne",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 274",
       "time": "2:20",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mandel Nallo",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 255",
       "time": "3:23",
       "weight_class": "Lightweight"
     }
@@ -166,14 +176,14 @@
     {
       "date": "2026-04-18",
       "fight_id": "a8bfa110a9c73bdc",
-      "rating": 1478.2,
+      "rating": 1478.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-04-18",
       "fight_id": "a8bfa110a9c73bdc",
-      "rating": 1480.8,
+      "rating": 1480.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,7 +193,7 @@
   "last_fight_date": "2026-04-18",
   "name": "Mandel Nallo",
   "nickname": "",
-  "overall_elo": 1480.8,
+  "overall_elo": 1480.7,
   "peak_elo": 1519.4,
   "slug": "mandel-nallo",
   "systems": {

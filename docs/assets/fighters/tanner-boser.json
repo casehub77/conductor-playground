@@ -1,6 +1,6 @@
 {
-  "current_elo": 1485.8,
-  "divisional_rank": 670,
+  "current_elo": 1485.9,
+  "divisional_rank": 682,
   "fight_count": 11,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Gokhan Saricam",
       "opponent_elo": 1537.9,
       "outcome": "blue_win",
-      "post_elo": 1485.8,
-      "pre_elo": 1503.3,
+      "post_elo": 1485.9,
+      "pre_elo": 1503.4,
       "red_name": "Tanner Boser",
       "round": "2",
+      "source": "ufc:official",
+      "source_title": "",
       "time": "4:43",
       "weight_class": "Heavyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Aleksa Camur",
       "opponent_elo": 1480.5,
       "outcome": "red_win",
-      "post_elo": 1499.6,
+      "post_elo": 1499.7,
       "pre_elo": 1481.7,
       "red_name": "Tanner Boser",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1461.9,
       "outcome": "blue_win",
       "post_elo": 1481.7,
-      "pre_elo": 1503.4,
+      "pre_elo": 1503.5,
       "red_name": "Tanner Boser",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:05",
       "weight_class": "Light Heavyweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Rodrigo Nascimento",
       "opponent_elo": 1499.0,
       "outcome": "blue_win",
-      "post_elo": 1503.3,
-      "pre_elo": 1522.5,
+      "post_elo": 1503.4,
+      "pre_elo": 1522.6,
       "red_name": "Tanner Boser",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Ovince Saint Preux",
       "opponent_elo": 1544.5,
       "outcome": "red_win",
-      "post_elo": 1522.5,
+      "post_elo": 1522.6,
       "pre_elo": 1500.7,
       "red_name": "Tanner Boser",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:31",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1518.3,
       "red_name": "Tanner Boser",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -127,19 +139,21 @@
       "blue_name": "Tanner Boser",
       "bout_type": "Heavyweight Bout",
       "date": "2020-11-07",
-      "elo_delta": -18.5,
+      "elo_delta": -18.4,
       "event_name": "UFC Fight Night: Santos vs. Teixeira",
       "fight_id": "060ea52ee2d33566",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Andrei Arlovski",
-      "opponent_elo": 1527.3,
+      "opponent_elo": 1528.7,
       "outcome": "red_win",
       "post_elo": 1518.3,
       "pre_elo": 1536.8,
       "red_name": "Andrei Arlovski",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1518.4,
       "red_name": "Tanner Boser",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:36",
       "weight_class": "Heavyweight"
     },
@@ -174,12 +190,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Philipe Lins",
-      "opponent_elo": 1482.5,
+      "opponent_elo": 1482.6,
       "outcome": "blue_win",
       "post_elo": 1518.4,
       "pre_elo": 1499.9,
       "red_name": "Philipe Lins",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:41",
       "weight_class": "Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1516.9,
       "red_name": "Ciryl Gane",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Daniel Spitz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     }
@@ -293,7 +315,7 @@
     {
       "date": "2020-11-07",
       "fight_id": "060ea52ee2d33566",
-      "rating": 1516.6,
+      "rating": 1516.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -307,35 +329,35 @@
     {
       "date": "2021-06-05",
       "fight_id": "f64298ae7df53512",
-      "rating": 1501.1,
+      "rating": 1501.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-06-26",
       "fight_id": "0ba7116901ac5056",
-      "rating": 1522.5,
+      "rating": 1522.6,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2021-06-26",
       "fight_id": "0ba7116901ac5056",
-      "rating": 1520.4,
+      "rating": 1520.5,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2022-09-17",
-      "fight_id": "484e5c6d33f26b18",
-      "rating": 1503.3,
-      "scope": "division",
-      "system": "men:Heavyweight"
     },
     {
       "date": "2022-09-17",
       "fight_id": "484e5c6d33f26b18",
       "rating": 1503.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2022-09-17",
+      "fight_id": "484e5c6d33f26b18",
+      "rating": 1503.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -349,14 +371,14 @@
     {
       "date": "2023-04-15",
       "fight_id": "1c941cf98c69d303",
-      "rating": 1484.2,
+      "rating": 1484.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-08-05",
       "fight_id": "9ab2bf2cd59441ce",
-      "rating": 1499.6,
+      "rating": 1499.7,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -370,7 +392,7 @@
     {
       "date": "2026-04-18",
       "fight_id": "7542be563f6c1c11",
-      "rating": 1485.8,
+      "rating": 1485.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },

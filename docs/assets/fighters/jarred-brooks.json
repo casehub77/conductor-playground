@@ -1,13 +1,13 @@
 {
-  "current_elo": 1468.8,
-  "divisional_rank": 668,
-  "fight_count": 14,
+  "current_elo": 1483.8,
+  "divisional_rank": 458,
+  "fight_count": 13,
   "fight_log": [
     {
       "blue_name": "Jarred Brooks",
       "bout_type": "Flyweight Bout",
       "date": "2025-10-04",
-      "elo_delta": -16.8,
+      "elo_delta": -17.7,
       "event_name": "ONE Fight Night 36: Prajanchai vs. Di Bella 2",
       "fight_id": "793eda767b6440b2",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Mansur Malachiev",
       "opponent_elo": 1532.8,
       "outcome": "red_win",
-      "post_elo": 1468.8,
-      "pre_elo": 1485.7,
+      "post_elo": 1483.8,
+      "pre_elo": 1501.5,
       "red_name": "Mansur Malachiev",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE Fight Night 36",
       "time": "2:09",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1534.5,
       "red_name": "Joshua Pacio",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE 171",
       "time": "4:22",
       "weight_class": "Strawweight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Jarred Brooks",
       "bout_type": "Flyweight Bout",
       "date": "2024-12-07",
-      "elo_delta": -16.0,
+      "elo_delta": -16.9,
       "event_name": "ONE Fight Night 26: Lee vs. Rasulov",
       "fight_id": "2e8eca7ba91e476b",
       "gender": "men",
@@ -56,10 +60,12 @@
       "opponent": "Reece McLaren",
       "opponent_elo": 1539.6,
       "outcome": "red_win",
-      "post_elo": 1485.7,
-      "pre_elo": 1501.7,
+      "post_elo": 1501.5,
+      "pre_elo": 1518.4,
       "red_name": "Reece McLaren",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 26",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1513.0,
       "red_name": "Jarred Brooks",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE Fight Night 24",
       "time": "4:39",
       "weight_class": "Strawweight"
     },
@@ -100,28 +108,10 @@
       "pre_elo": 1534.2,
       "red_name": "Joshua Pacio",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 166",
       "time": "0:56",
       "weight_class": "Strawweight"
-    },
-    {
-      "blue_name": "Jarred Brooks",
-      "bout_type": "Flyweight Submission Grappling Bout",
-      "date": "2023-08-05",
-      "elo_delta": -16.7,
-      "event_name": "ONE Fight Night 13: Allazov vs. Grigorian",
-      "fight_id": "ea4b4cd6cade8ab6",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (triangle armbar)",
-      "opponent": "Mikey Musumeci",
-      "opponent_elo": 1567.0,
-      "outcome": "red_win",
-      "post_elo": 1501.7,
-      "pre_elo": 1518.4,
-      "red_name": "Mikey Musumeci",
-      "round": "1",
-      "time": "7:30",
-      "weight_class": "Flyweight"
     },
     {
       "blue_name": "Joshua Pacio",
@@ -140,6 +130,8 @@
       "pre_elo": 1517.1,
       "red_name": "Jarred Brooks",
       "round": "5",
+      "source": "manual",
+      "source_title": "ONE 164",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -160,6 +152,8 @@
       "pre_elo": 1498.9,
       "red_name": "Jarred Brooks",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 156",
       "time": "4:39",
       "weight_class": "Catch Weight"
     },
@@ -180,6 +174,8 @@
       "pre_elo": 1499.0,
       "red_name": "Jarred Brooks",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE: Only the Brave",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -194,12 +190,14 @@
       "is_title": false,
       "method": "No Contest (Accidental Headbutt)",
       "opponent": "Haruo Ochi",
-      "opponent_elo": 1594.3,
+      "opponent_elo": 1581.3,
       "outcome": "no_contest",
       "post_elo": 1499.0,
       "pre_elo": 1499.0,
       "red_name": "Haruo Ochi",
       "round": "1",
+      "source": "manual",
+      "source_title": "2019 in Rizin Fighting Federation",
       "time": "0:11",
       "weight_class": "Strawweight"
     },
@@ -220,6 +218,8 @@
       "pre_elo": 1479.9,
       "red_name": "Robert Sanchez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -240,6 +240,8 @@
       "pre_elo": 1499.3,
       "red_name": "Jarred Brooks",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:55",
       "weight_class": "Flyweight"
     },
@@ -260,6 +262,8 @@
       "pre_elo": 1517.1,
       "red_name": "Deiveson Figueiredo",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -280,6 +284,8 @@
       "pre_elo": 1500.0,
       "red_name": "Eric Shelton",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     }
@@ -400,20 +406,6 @@
       "system": "men:overall"
     },
     {
-      "date": "2023-08-05",
-      "fight_id": "ea4b4cd6cade8ab6",
-      "rating": 1501.7,
-      "scope": "division",
-      "system": "men:Flyweight"
-    },
-    {
-      "date": "2023-08-05",
-      "fight_id": "ea4b4cd6cade8ab6",
-      "rating": 1529.6,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2024-03-01",
       "fight_id": "678136c988054a32",
       "rating": 1513.0,
@@ -423,7 +415,7 @@
     {
       "date": "2024-03-01",
       "fight_id": "678136c988054a32",
-      "rating": 1511.0,
+      "rating": 1526.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -437,21 +429,21 @@
     {
       "date": "2024-08-03",
       "fight_id": "eee9108f6ddf305e",
-      "rating": 1530.0,
+      "rating": 1544.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-12-07",
       "fight_id": "2e8eca7ba91e476b",
-      "rating": 1485.7,
+      "rating": 1501.5,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2024-12-07",
       "fight_id": "2e8eca7ba91e476b",
-      "rating": 1514.2,
+      "rating": 1528.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -465,21 +457,21 @@
     {
       "date": "2025-02-20",
       "fight_id": "393d6de33c5f8d68",
-      "rating": 1497.3,
+      "rating": 1510.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-10-04",
       "fight_id": "793eda767b6440b2",
-      "rating": 1468.8,
+      "rating": 1483.8,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-10-04",
       "fight_id": "793eda767b6440b2",
-      "rating": 1481.8,
+      "rating": 1494.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -489,7 +481,7 @@
   "last_fight_date": "2025-10-04",
   "name": "Jarred Brooks",
   "nickname": "",
-  "overall_elo": 1481.8,
+  "overall_elo": 1494.7,
   "peak_elo": 1546.1,
   "slug": "jarred-brooks",
   "systems": {

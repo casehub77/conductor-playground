@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 622,
+  "divisional_rank": 635,
   "fight_count": 7,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO (Punch)",
       "opponent": "Vitor Belfort",
-      "opponent_elo": 1534.3,
+      "opponent_elo": 1534.7,
       "outcome": "red_win",
-      "post_elo": 1454.9,
-      "pre_elo": 1470.8,
+      "post_elo": 1455.0,
+      "pre_elo": 1470.9,
       "red_name": "Vitor Belfort",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown Absolute",
       "time": "0:36",
       "weight_class": "Light Heavyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Igor Vovchanchyn",
       "opponent_elo": 1541.9,
       "outcome": "red_win",
-      "post_elo": 1469.0,
-      "pre_elo": 1485.3,
+      "post_elo": 1469.1,
+      "pre_elo": 1485.4,
       "red_name": "Igor Vovchanchyn",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 29",
       "time": "1:10",
       "weight_class": "Middleweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Heath Herring",
-      "opponent_elo": 1570.8,
+      "opponent_elo": 1571.7,
       "outcome": "red_win",
       "post_elo": 1484.5,
       "pre_elo": 1500.0,
       "red_name": "Heath Herring",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2004",
       "time": "4:53",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Masakatsu Funaki",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 4",
       "time": "3:09",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kazuo Takahashi",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 3",
       "time": "1:11",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.4,
       "red_name": "Ken Shamrock",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 2",
       "time": "12:23",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kazuo Takahashi",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 1",
       "time": "1:23",
       "weight_class": "Open Weight"
     }
@@ -213,35 +227,35 @@
     {
       "date": "2004-04-25",
       "fight_id": "cb6d63a01c6a0fed",
-      "rating": 1485.3,
+      "rating": 1485.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2005-02-20",
       "fight_id": "e9a7ceecf8643552",
-      "rating": 1469.0,
+      "rating": 1469.1,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2005-02-20",
       "fight_id": "e9a7ceecf8643552",
-      "rating": 1470.8,
+      "rating": 1470.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2006-07-01",
       "fight_id": "055681749ac67eb7",
-      "rating": 1454.9,
+      "rating": 1455.0,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2006-07-01",
       "fight_id": "055681749ac67eb7",
-      "rating": 1456.0,
+      "rating": 1456.1,
       "scope": "overall",
       "system": "men:overall"
     }

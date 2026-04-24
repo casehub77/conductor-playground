@@ -1,25 +1,27 @@
 {
-  "current_elo": 1518.3,
-  "divisional_rank": 82,
+  "current_elo": 1519.4,
+  "divisional_rank": 75,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Bruno Susano",
       "bout_type": "Heavyweight Bout",
       "date": "2025-09-27",
-      "elo_delta": 18.3,
+      "elo_delta": 19.4,
       "event_name": "LFA 218: Nascimento vs. Makaev",
       "fight_id": "64dff9fc794a6e51",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Bruno Susano",
-      "opponent_elo": 1479.2,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1518.3,
+      "post_elo": 1519.4,
       "pre_elo": 1500.0,
       "red_name": "Malick Badiane",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "1:00",
       "weight_class": "Heavyweight"
     }
@@ -30,14 +32,14 @@
     {
       "date": "2025-09-27",
       "fight_id": "64dff9fc794a6e51",
-      "rating": 1518.3,
+      "rating": 1519.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2025-09-27",
       "fight_id": "64dff9fc794a6e51",
-      "rating": 1516.3,
+      "rating": 1517.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -47,8 +49,8 @@
   "last_fight_date": "2025-09-27",
   "name": "Malick Badiane",
   "nickname": "",
-  "overall_elo": 1516.3,
-  "peak_elo": 1518.3,
+  "overall_elo": 1517.3,
+  "peak_elo": 1519.4,
   "slug": "malick-badiane",
   "systems": {
     "division": "men:Heavyweight",

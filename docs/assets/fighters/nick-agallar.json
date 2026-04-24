@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1219,
+  "divisional_rank": 1191,
   "fight_count": 4,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1481.8,
       "red_name": "Jorge Masvidal",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 1",
       "time": "1:19",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1499.9,
       "red_name": "Yves Edwards",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:14",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1519.4,
       "red_name": "Charlie Pearson",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 2",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Nick Agallar",
       "round": "2",
+      "source": "manual",
+      "source_title": "WEC 1",
       "time": "4:29",
       "weight_class": "Open Weight"
     }

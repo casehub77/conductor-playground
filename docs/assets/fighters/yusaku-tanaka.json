@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 698,
+  "divisional_rank": 695,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Yusaku Tanaka",
       "bout_type": "Open Weight Bout",
       "date": "2008-09-20",
-      "elo_delta": -19.0,
+      "elo_delta": -19.9,
       "event_name": "Shooto: Gig West 10",
       "fight_id": "5cb8aa39512ea5b7",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Takaaki Oban",
-      "opponent_elo": 1499.7,
+      "opponent_elo": 1482.4,
       "outcome": "red_win",
-      "post_elo": 1500.4,
+      "post_elo": 1499.5,
       "pre_elo": 1519.4,
       "red_name": "Takaaki Oban",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yusaku Tanaka",
       "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "2:00",
       "weight_class": "Open Weight"
     }
@@ -64,14 +68,14 @@
     {
       "date": "2008-09-20",
       "fight_id": "5cb8aa39512ea5b7",
-      "rating": 1500.4,
+      "rating": 1499.5,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2008-09-20",
       "fight_id": "5cb8aa39512ea5b7",
-      "rating": 1500.5,
+      "rating": 1499.8,
       "scope": "overall",
       "system": "men:overall"
     }

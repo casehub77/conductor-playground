@@ -1,0 +1,96 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 402,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Al Harlow",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "1999-06-06",
+      "elo_delta": -16.3,
+      "event_name": "WCNHBC: West Coast NHB Championships 3",
+      "fight_id": "4a6b9b0551696fb5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1480.6,
+      "red_name": "Aaron Brink",
+      "round": "N/A",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "N/A",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Al Harlow",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "1998-12-08",
+      "elo_delta": -19.4,
+      "event_name": "WCNHBC: West Coast NHB Championships 1",
+      "fight_id": "5831dff9115255f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "1:24",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "1998-12-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1998-12-08",
+      "fight_id": "5831dff9115255f4",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "1998-12-08",
+      "fight_id": "5831dff9115255f4",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-06-06",
+      "fight_id": "4a6b9b0551696fb5",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "1999-06-06",
+      "fight_id": "4a6b9b0551696fb5",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-06-06",
+  "name": "Al Harlow",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "al-harlow",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,65 +1,49 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1670,
-  "fight_count": 7,
+  "divisional_rank": 1662,
+  "fight_count": 6,
   "fight_log": [
     {
       "blue_name": "Tomohiko Yoshida",
       "bout_type": "Open Weight Bout",
       "date": "2010-06-13",
-      "elo_delta": -17.8,
+      "elo_delta": -16.5,
       "event_name": "Shooto: Gig Central 20",
       "fight_id": "f39b506275341747",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Rear-Naked Choke)",
       "opponent": "Masanobu Mori",
-      "opponent_elo": 1481.0,
+      "opponent_elo": 1481.8,
       "outcome": "red_win",
-      "post_elo": 1433.7,
-      "pre_elo": 1451.5,
+      "post_elo": 1411.8,
+      "pre_elo": 1428.2,
       "red_name": "Masanobu Mori",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "3:00",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Yoshitaka Aki",
-      "bout_type": "Open Weight Bout",
-      "date": "2010-04-04",
-      "elo_delta": 24.1,
-      "event_name": "Shooto: Grapplingman 10",
-      "fight_id": "1e783700201a51d9",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (Kimura)",
-      "opponent": "Yoshitaka Aki",
-      "opponent_elo": 1512.7,
-      "outcome": "red_win",
-      "post_elo": 1451.5,
-      "pre_elo": 1427.3,
-      "red_name": "Tomohiko Yoshida",
-      "round": "1",
-      "time": "3:42",
       "weight_class": "Open Weight"
     },
     {
       "blue_name": "Tomohiko Yoshida",
       "bout_type": "Open Weight Bout",
       "date": "2008-03-16",
-      "elo_delta": -18.0,
+      "elo_delta": -17.1,
       "event_name": "Shooto: Gig Central 14",
       "fight_id": "558f80e118805372",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Kenya Kato",
-      "opponent_elo": 1446.0,
+      "opponent_elo": 1463.2,
       "outcome": "red_win",
-      "post_elo": 1427.3,
+      "post_elo": 1428.2,
       "pre_elo": 1445.3,
       "red_name": "Kenya Kato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +64,8 @@
       "pre_elo": 1461.8,
       "red_name": "Hiroyuki Abe",
       "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "4:11",
       "weight_class": "Open Weight"
     },
@@ -100,6 +86,8 @@
       "pre_elo": 1478.8,
       "red_name": "Katsuya Murofushi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kenichi Sawada",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -140,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Hiroyuki Ikeda",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -206,42 +198,28 @@
     {
       "date": "2008-03-16",
       "fight_id": "558f80e118805372",
-      "rating": 1427.3,
+      "rating": 1428.2,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2008-03-16",
       "fight_id": "558f80e118805372",
-      "rating": 1434.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2010-04-04",
-      "fight_id": "1e783700201a51d9",
-      "rating": 1451.5,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2010-04-04",
-      "fight_id": "1e783700201a51d9",
-      "rating": 1455.9,
+      "rating": 1435.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-06-13",
       "fight_id": "f39b506275341747",
-      "rating": 1433.7,
+      "rating": 1411.8,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-06-13",
       "fight_id": "f39b506275341747",
-      "rating": 1439.9,
+      "rating": 1420.6,
       "scope": "overall",
       "system": "men:overall"
     }

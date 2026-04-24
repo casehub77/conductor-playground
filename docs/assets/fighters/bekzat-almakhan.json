@@ -1,6 +1,6 @@
 {
-  "current_elo": 1487.6,
-  "divisional_rank": 966,
+  "current_elo": 1487.7,
+  "divisional_rank": 870,
   "fight_count": 3,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Aleksandre Topuria",
       "opponent_elo": 1518.0,
       "outcome": "blue_win",
-      "post_elo": 1487.6,
-      "pre_elo": 1504.9,
+      "post_elo": 1487.7,
+      "pre_elo": 1505.0,
       "red_name": "Bekzat Almakhan",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Bekzat Almakhan",
       "bout_type": "Bantamweight Bout",
       "date": "2025-05-10",
-      "elo_delta": 19.9,
+      "elo_delta": 20.0,
       "event_name": "UFC 315: Muhammad vs. Della Maddalena",
       "fight_id": "cfa94bfdba6949e1",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Brad Katona",
-      "opponent_elo": 1492.9,
+      "opponent_elo": 1494.8,
       "outcome": "blue_win",
-      "post_elo": 1504.9,
+      "post_elo": 1505.0,
       "pre_elo": 1485.0,
       "red_name": "Brad Katona",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:04",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Umar Nurmagomedov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -84,28 +90,28 @@
     {
       "date": "2025-05-10",
       "fight_id": "cfa94bfdba6949e1",
-      "rating": 1504.9,
+      "rating": 1505.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-05-10",
       "fight_id": "cfa94bfdba6949e1",
-      "rating": 1504.8,
+      "rating": 1505.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-11-22",
       "fight_id": "f5da488a4d368d92",
-      "rating": 1487.6,
+      "rating": 1487.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-11-22",
       "fight_id": "f5da488a4d368d92",
-      "rating": 1489.4,
+      "rating": 1489.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -115,8 +121,8 @@
   "last_fight_date": "2025-11-22",
   "name": "Bekzat Almakhan",
   "nickname": "",
-  "overall_elo": 1489.4,
-  "peak_elo": 1504.9,
+  "overall_elo": 1489.5,
+  "peak_elo": 1505.0,
   "slug": "bekzat-almakhan",
   "systems": {
     "division": "men:Bantamweight",

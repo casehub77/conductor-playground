@@ -1,25 +1,27 @@
 {
-  "current_elo": 1566.2,
-  "divisional_rank": 49,
+  "current_elo": 1566.3,
+  "divisional_rank": 42,
   "fight_count": 8,
   "fight_log": [
     {
       "blue_name": "Vince Morales",
       "bout_type": "Bantamweight Bout",
       "date": "2024-09-28",
-      "elo_delta": 15.6,
+      "elo_delta": 15.7,
       "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
       "fight_id": "90f814df052dcc01",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Vince Morales",
-      "opponent_elo": 1506.1,
+      "opponent_elo": 1506.9,
       "outcome": "red_win",
-      "post_elo": 1567.7,
+      "post_elo": 1567.8,
       "pre_elo": 1552.1,
       "red_name": "Taylor Lapilus",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Taylor Lapilus",
       "bout_type": "Bantamweight Bout",
       "date": "2024-06-08",
-      "elo_delta": 18.1,
+      "elo_delta": 18.2,
       "event_name": "UFC Fight Night: Cannonier vs. Imavov",
       "fight_id": "b18516b5ce79e7c2",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Cody Stamann",
-      "opponent_elo": 1536.5,
+      "opponent_elo": 1538.1,
       "outcome": "blue_win",
       "post_elo": 1552.1,
       "pre_elo": 1533.9,
       "red_name": "Cody Stamann",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1552.8,
       "red_name": "Farid Basharat",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1536.7,
       "red_name": "Taylor Lapilus",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Leandro Issa",
-      "opponent_elo": 1507.4,
+      "opponent_elo": 1507.3,
       "outcome": "red_win",
       "post_elo": 1536.7,
       "pre_elo": 1519.3,
       "red_name": "Taylor Lapilus",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1537.6,
       "red_name": "Erik Perez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Yuta Sasaki",
-      "opponent_elo": 1555.3,
+      "opponent_elo": 1554.9,
       "outcome": "red_win",
       "post_elo": 1537.6,
       "pre_elo": 1516.0,
       "red_name": "Taylor Lapilus",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:26",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Taylor Lapilus",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -191,7 +207,7 @@
     {
       "date": "2015-06-20",
       "fight_id": "7df69cdebfd6bd2f",
-      "rating": 1535.3,
+      "rating": 1535.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -205,7 +221,7 @@
     {
       "date": "2015-11-21",
       "fight_id": "bbf6bcbacecbe88f",
-      "rating": 1519.0,
+      "rating": 1518.9,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -261,21 +277,21 @@
     {
       "date": "2024-06-08",
       "fight_id": "b18516b5ce79e7c2",
-      "rating": 1548.1,
+      "rating": 1548.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-09-28",
       "fight_id": "90f814df052dcc01",
-      "rating": 1567.7,
+      "rating": 1567.8,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-09-28",
       "fight_id": "90f814df052dcc01",
-      "rating": 1561.6,
+      "rating": 1561.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -285,8 +301,8 @@
   "last_fight_date": "2024-09-28",
   "name": "Taylor Lapilus",
   "nickname": "",
-  "overall_elo": 1560.1,
-  "peak_elo": 1567.7,
+  "overall_elo": 1560.2,
+  "peak_elo": 1567.8,
   "slug": "taylor-lapilus",
   "systems": {
     "division": "men:Bantamweight",

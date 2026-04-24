@@ -1,7 +1,7 @@
 {
   "current_elo": 1538.7,
-  "divisional_rank": 17,
-  "fight_count": 7,
+  "divisional_rank": 10,
+  "fight_count": 6,
   "fight_log": [
     {
       "blue_name": "Ritu Phogat",
@@ -20,6 +20,8 @@
       "pre_elo": 1522.6,
       "red_name": "Ayaka Miura",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 171",
       "time": "2:24",
       "weight_class": "Atomweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1503.3,
       "red_name": "Ayaka Miura",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 169",
       "time": "2:20",
       "weight_class": "Atomweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1486.4,
       "red_name": "Ayaka Miura",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 165",
       "time": "5:00",
       "weight_class": "Atomweight"
     },
@@ -80,28 +86,10 @@
       "pre_elo": 1463.6,
       "red_name": "Ayaka Miura",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE Fight Night 16",
       "time": "2:09",
       "weight_class": "Strawweight"
-    },
-    {
-      "blue_name": "Ayaka Miura",
-      "bout_type": "Catchweight (119 lbs) Submission Grappling Bout",
-      "date": "2023-02-25",
-      "elo_delta": -27.0,
-      "event_name": "ONE Fight Night 7: Lineker vs. Andrade 2",
-      "fight_id": "10bad951a920f8aa",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Danielle Kelly",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1473.0,
-      "pre_elo": 1500.0,
-      "red_name": "Danielle Kelly",
-      "round": "1",
-      "time": "10:00",
-      "weight_class": "Catch Weight"
     },
     {
       "blue_name": "Ayaka Miura",
@@ -120,6 +108,8 @@
       "pre_elo": 1482.0,
       "red_name": "Dayane Souza",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE 156",
       "time": "0:56",
       "weight_class": "Strawweight"
     },
@@ -140,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Xiong Jing Nan",
       "round": "5",
+      "source": "manual",
+      "source_title": "ONE: Heavy Hitters",
       "time": "5:00",
       "weight_class": "Strawweight"
     }
@@ -174,20 +166,6 @@
       "rating": 1467.5,
       "scope": "overall",
       "system": "women:overall"
-    },
-    {
-      "date": "2023-02-25",
-      "fight_id": "10bad951a920f8aa",
-      "rating": 1473.0,
-      "scope": "division",
-      "system": "men:Strawweight"
-    },
-    {
-      "date": "2023-02-25",
-      "fight_id": "10bad951a920f8aa",
-      "rating": 1476.0,
-      "scope": "overall",
-      "system": "men:overall"
     },
     {
       "date": "2023-11-04",
@@ -247,7 +225,7 @@
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
+  "instagram_featured": true,
   "last_fight_date": "2025-02-20",
   "name": "Ayaka Miura",
   "nickname": "",

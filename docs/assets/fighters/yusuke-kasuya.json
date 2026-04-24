@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 387,
+  "divisional_rank": 364,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Alexander Volkanovski",
       "bout_type": "Lightweight Bout",
       "date": "2016-11-26",
-      "elo_delta": -21.7,
+      "elo_delta": -21.8,
       "event_name": "UFC Fight Night: Whittaker vs. Brunson",
       "fight_id": "694014278812133c",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Alexander Volkanovski",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1519.7,
-      "pre_elo": 1541.4,
+      "post_elo": 1520.3,
+      "pre_elo": 1542.1,
       "red_name": "Yusuke Kasuya",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:06",
       "weight_class": "Lightweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Nick Hein",
       "opponent_elo": 1520.6,
       "outcome": "red_win",
-      "post_elo": 1541.4,
-      "pre_elo": 1561.5,
+      "post_elo": 1542.1,
+      "pre_elo": 1562.2,
       "red_name": "Nick Hein",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Nobumitsu Osawa",
       "opponent_elo": 1535.3,
       "outcome": "red_win",
-      "post_elo": 1568.3,
-      "pre_elo": 1549.6,
+      "post_elo": 1569.1,
+      "pre_elo": 1550.6,
       "red_name": "Yusuke Kasuya",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "2:25",
       "weight_class": "Open Weight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Takayuki Kobayashi",
       "bout_type": "Open Weight Bout",
       "date": "2011-10-01",
-      "elo_delta": -2.6,
+      "elo_delta": -1.7,
       "event_name": "Shooto: Shooting Disco 16: Regeneration",
       "fight_id": "c861321bbb307b1b",
       "gender": "men",
       "is_title": false,
       "method": "Technical Draw",
       "opponent": "Takayuki Kobayashi",
-      "opponent_elo": 1501.0,
+      "opponent_elo": 1519.5,
       "outcome": "draw",
-      "post_elo": 1549.6,
+      "post_elo": 1550.6,
       "pre_elo": 1552.3,
       "red_name": "Yusuke Kasuya",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "0:23",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1534.8,
       "red_name": "Yusuke Kasuya",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "4:47",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.4,
       "red_name": "Yusuke Kasuya",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "4:14",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yusuke Kasuya",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "4:02",
       "weight_class": "Open Weight"
     }
@@ -192,56 +206,56 @@
     {
       "date": "2011-10-01",
       "fight_id": "c861321bbb307b1b",
-      "rating": 1549.6,
+      "rating": 1550.6,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-10-01",
       "fight_id": "c861321bbb307b1b",
-      "rating": 1544.9,
+      "rating": 1545.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-12-18",
       "fight_id": "53b6be80b5a685cd",
-      "rating": 1568.3,
+      "rating": 1569.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-12-18",
       "fight_id": "53b6be80b5a685cd",
-      "rating": 1561.5,
+      "rating": 1562.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2015-09-26",
       "fight_id": "a1a9a553ae89b6cf",
-      "rating": 1541.4,
+      "rating": 1542.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2015-09-26",
       "fight_id": "a1a9a553ae89b6cf",
-      "rating": 1543.5,
+      "rating": 1544.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2016-11-26",
       "fight_id": "694014278812133c",
-      "rating": 1519.7,
+      "rating": 1520.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2016-11-26",
       "fight_id": "694014278812133c",
-      "rating": 1524.1,
+      "rating": 1524.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -252,7 +266,7 @@
   "name": "Yusuke Kasuya",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1568.3,
+  "peak_elo": 1569.1,
   "slug": "yusuke-kasuya",
   "systems": {
     "division": "men:Lightweight",

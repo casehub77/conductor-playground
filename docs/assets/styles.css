@@ -772,6 +772,30 @@ td:nth-child(4) {
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.24);
 }
 
+.division-selector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 12px;
+}
+
+.division-chip {
+  padding: 7px 12px 6px;
+  background: rgba(28, 26, 24, 0.88);
+  border: 1px solid rgba(220, 199, 122, 0.35);
+  border-radius: 4px;
+  color: var(--text-dim);
+  font-family: "VT323", monospace;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.division-chip.active {
+  background: rgba(88, 12, 12, 0.94);
+  border-color: rgba(243, 225, 163, 0.92);
+  color: var(--gold-bright);
+}
+
 .chart-context {
   margin: 0 0 10px;
   color: var(--text-dim);

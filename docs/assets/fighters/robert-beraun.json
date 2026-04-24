@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 257,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Aaron Brink",
+      "bout_type": "Heavyweight Bout",
+      "date": "2005-11-11",
+      "elo_delta": 23.9,
+      "event_name": "RITC 76: Hello Tucson",
+      "fight_id": "dac4d47349a4c7d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1580.3,
+      "outcome": "red_win",
+      "post_elo": 1523.9,
+      "pre_elo": 1500.0,
+      "red_name": "Robert Beraun",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "2:04",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-11-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-11-11",
+      "fight_id": "dac4d47349a4c7d3",
+      "rating": 1523.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2005-11-11",
+      "fight_id": "dac4d47349a4c7d3",
+      "rating": 1519.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-11-11",
+  "name": "Robert Beraun",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1523.9,
+  "slug": "robert-beraun",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 480,
+  "divisional_rank": 489,
   "fight_count": 3,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1463.0,
       "red_name": "Tyrell Fortune",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 255",
       "time": "3:16",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Shawn Jordan",
-      "opponent_elo": 1531.6,
+      "opponent_elo": 1531.8,
       "outcome": "red_win",
       "post_elo": 1463.0,
       "pre_elo": 1479.6,
       "red_name": "Shawn Jordan",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:03",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Derrick Lewis",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:23",
       "weight_class": "Heavyweight"
     }

@@ -1,7 +1,7 @@
 {
   "current_elo": 1523.9,
-  "divisional_rank": 141,
-  "fight_count": 6,
+  "divisional_rank": 128,
+  "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Garry Tonon",
@@ -20,6 +20,8 @@
       "pre_elo": 1540.7,
       "red_name": "Shamil Gasanov",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 34",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1521.5,
       "red_name": "Garry Tonon",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 165",
       "time": "4:41",
       "weight_class": "Featherweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1501.1,
       "red_name": "Garry Tonon",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE Fight Night 12",
       "time": "2:26",
       "weight_class": "Featherweight"
     },
@@ -80,28 +86,10 @@
       "pre_elo": 1480.6,
       "red_name": "Garry Tonon",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE Fight Night 6",
       "time": "1:53",
       "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Garry Tonon",
-      "bout_type": "Lightweight Submission Grappling Bout",
-      "date": "2022-05-20",
-      "elo_delta": -18.5,
-      "event_name": "ONE 157: Petchmorakot vs. Vienot",
-      "fight_id": "1f4cd80a7a85704d",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (D'Arce choke)",
-      "opponent": "Tye Ruotolo",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1464.2,
-      "pre_elo": 1482.7,
-      "red_name": "Tye Ruotolo",
-      "round": "1",
-      "time": "1:27",
-      "weight_class": "Lightweight"
     },
     {
       "blue_name": "Garry Tonon",
@@ -120,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Thanh Le",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE: Lights Out",
       "time": "0:56",
       "weight_class": "Featherweight"
     }
@@ -142,20 +132,6 @@
       "system": "men:overall"
     },
     {
-      "date": "2022-05-20",
-      "fight_id": "1f4cd80a7a85704d",
-      "rating": 1464.2,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2022-05-20",
-      "fight_id": "1f4cd80a7a85704d",
-      "rating": 1466.3,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2023-01-14",
       "fight_id": "d4c5fba055229abe",
       "rating": 1501.1,
@@ -165,7 +141,7 @@
     {
       "date": "2023-01-14",
       "fight_id": "d4c5fba055229abe",
-      "rating": 1485.2,
+      "rating": 1500.9,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -179,7 +155,7 @@
     {
       "date": "2023-07-15",
       "fight_id": "2ca7c80400257793",
-      "rating": 1504.1,
+      "rating": 1518.9,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -193,7 +169,7 @@
     {
       "date": "2024-01-28",
       "fight_id": "690eb6ceb3c73f01",
-      "rating": 1521.9,
+      "rating": 1536.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -207,7 +183,7 @@
     {
       "date": "2025-08-02",
       "fight_id": "71a8de0d387faad9",
-      "rating": 1507.6,
+      "rating": 1521.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -217,7 +193,7 @@
   "last_fight_date": "2025-08-02",
   "name": "Garry Tonon",
   "nickname": "",
-  "overall_elo": 1507.6,
+  "overall_elo": 1521.1,
   "peak_elo": 1540.7,
   "slug": "garry-tonon",
   "systems": {

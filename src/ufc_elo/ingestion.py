@@ -27,6 +27,13 @@ class ManualRowError(ValueError):
 
 
 MANUAL_REQUIRED_FIELDS = ("event_date", "red_fighter_name", "blue_fighter_name", "bout_type")
+NON_MMA_BOUT_KEYWORDS = (
+    "muay thai",
+    "kickboxing",
+    "boxing",
+    "submission grappling",
+    "grappling",
+)
 
 
 WEIGHT_CLASSES = [
@@ -157,6 +164,17 @@ def has_manual_result(row: dict[str, str]) -> bool:
     return normalize_outcome(row) != "unknown"
 
 
+def is_mma_bout(event_name: str, bout_type: str, method: str) -> bool:
+    haystack = " | ".join(
+        [
+            clean_text(event_name).lower(),
+            clean_text(bout_type).lower(),
+            clean_text(method).lower(),
+        ]
+    )
+    return not any(keyword in haystack for keyword in NON_MMA_BOUT_KEYWORDS)
+
+
 def rows_to_fights(rows: list[dict[str, str]], source: str, overrides: OverrideData) -> list[Fight]:
     fights: list[Fight] = []
     for row in rows:
@@ -173,6 +191,8 @@ def rows_to_fights(rows: list[dict[str, str]], source: str, overrides: OverrideD
         red_name = canonical_name(red_name, overrides)
         blue_name = canonical_name(blue_name, overrides)
         bout_type = clean_text(row.get("bout_type", "Unknown Bout"))
+        if not is_mma_bout(row.get("event_name", ""), bout_type, row.get("method", "")):
+            continue
         gender, weight_class = parse_bout_type(bout_type)
         outcome = normalize_outcome(row)
         fight_id = make_fight_id(event_date, row.get("event_name", ""), red_name, blue_name, bout_type)

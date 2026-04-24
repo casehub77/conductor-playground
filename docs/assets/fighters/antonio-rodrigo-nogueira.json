@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 168,
+  "divisional_rank": 166,
   "fight_count": 20,
   "fight_log": [
     {
       "blue_name": "Josh Barnett",
       "bout_type": "Heavyweight Bout",
       "date": "2006-12-31",
-      "elo_delta": 20.2,
+      "elo_delta": 20.3,
       "event_name": "Pride: Shockwave 2006",
       "fight_id": "5db1300074405116",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Josh Barnett",
-      "opponent_elo": 1583.3,
+      "opponent_elo": 1584.2,
       "outcome": "red_win",
-      "post_elo": 1560.3,
+      "post_elo": 1560.4,
       "pre_elo": 1540.1,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2006",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision (Split)",
       "opponent": "Josh Barnett",
-      "opponent_elo": 1590.9,
+      "opponent_elo": 1592.2,
       "outcome": "red_win",
-      "post_elo": 1682.1,
-      "pre_elo": 1705.8,
+      "post_elo": 1682.2,
+      "pre_elo": 1705.9,
       "red_name": "Josh Barnett",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Final Conflict Absolute",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Fabrício Werdum",
       "bout_type": "Open Weight Bout",
       "date": "2006-07-01",
-      "elo_delta": 11.4,
+      "elo_delta": 11.5,
       "event_name": "Pride: Critical Countdown Absolute",
       "fight_id": "329ea7a28dfa6c74",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Fabrício Werdum",
-      "opponent_elo": 1561.6,
+      "opponent_elo": 1562.1,
       "outcome": "red_win",
-      "post_elo": 1705.8,
+      "post_elo": 1705.9,
       "pre_elo": 1694.4,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown Absolute",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1683.4,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Total Elimination Absolute",
       "time": "2:17",
       "weight_class": "Open Weight"
     },
@@ -97,9 +105,11 @@
       "opponent_elo": 1526.5,
       "outcome": "red_win",
       "post_elo": 1683.4,
-      "pre_elo": 1671.6,
+      "pre_elo": 1671.7,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 31",
       "time": "2:24",
       "weight_class": "Open Weight"
     },
@@ -116,10 +126,12 @@
       "opponent": "Pawel Nastula",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1671.6,
+      "post_elo": 1671.7,
       "pre_elo": 1660.6,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2005",
       "time": "8:38",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1558.3,
       "red_name": "Fedor Emelianenko",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2004",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1646.2,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1646.2,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "3:52",
       "weight_class": "Open Weight"
     },
@@ -194,12 +212,14 @@
       "is_title": false,
       "method": "Submission (Anaconda Choke)",
       "opponent": "Heath Herring",
-      "opponent_elo": 1586.4,
+      "opponent_elo": 1587.2,
       "outcome": "red_win",
       "post_elo": 1646.2,
       "pre_elo": 1629.1,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2004",
       "time": "0:30",
       "weight_class": "Open Weight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1613.9,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2004",
       "time": "1:25",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1537.9,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2003",
       "time": "1:45",
       "weight_class": "Heavyweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1556.9,
       "red_name": "Fedor Emelianenko",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 25",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1598.2,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 24",
       "time": "1:49",
       "weight_class": "Open Weight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1581.5,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 23",
       "time": "6:36",
       "weight_class": "Open Weight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1563.5,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Shockwave",
       "time": "4:03",
       "weight_class": "Open Weight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1546.5,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 19",
       "time": "6:17",
       "weight_class": "Open Weight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1539.9,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 17",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1520.1,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 16",
       "time": "6:10",
       "weight_class": "Open Weight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1500.0,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 15",
       "time": "2:37",
       "weight_class": "Open Weight"
     }
@@ -557,7 +597,7 @@
     {
       "date": "2004-06-20",
       "fight_id": "41592a6c97fe6209",
-      "rating": 1637.6,
+      "rating": 1637.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -578,14 +618,14 @@
     {
       "date": "2004-08-15",
       "fight_id": "760bafc079001f4c",
-      "rating": 1637.6,
+      "rating": 1637.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2004-08-15",
       "fight_id": "d3944ff475ad36c6",
-      "rating": 1650.4,
+      "rating": 1650.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -606,7 +646,7 @@
     {
       "date": "2005-06-26",
       "fight_id": "df305fc51cbe9e74",
-      "rating": 1671.6,
+      "rating": 1671.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -627,7 +667,7 @@
     {
       "date": "2006-02-26",
       "fight_id": "1934eaa1b03a501b",
-      "rating": 1656.1,
+      "rating": 1656.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -648,42 +688,42 @@
     {
       "date": "2006-07-01",
       "fight_id": "329ea7a28dfa6c74",
-      "rating": 1705.8,
+      "rating": 1705.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2006-07-01",
       "fight_id": "329ea7a28dfa6c74",
-      "rating": 1678.1,
+      "rating": 1678.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2006-09-10",
       "fight_id": "48a42725b3dd2a10",
-      "rating": 1682.1,
+      "rating": 1682.2,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2006-09-10",
       "fight_id": "48a42725b3dd2a10",
-      "rating": 1657.9,
+      "rating": 1658.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2006-12-31",
       "fight_id": "5db1300074405116",
-      "rating": 1560.3,
+      "rating": 1560.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2006-12-31",
       "fight_id": "5db1300074405116",
-      "rating": 1671.4,
+      "rating": 1671.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -694,7 +734,7 @@
   "name": "Antônio Rodrigo Nogueira",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1705.8,
+  "peak_elo": 1705.9,
   "slug": "antonio-rodrigo-nogueira",
   "systems": {
     "division": "men:Heavyweight",

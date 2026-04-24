@@ -1,25 +1,27 @@
 {
-  "current_elo": 1572.1,
-  "divisional_rank": 28,
+  "current_elo": 1572.8,
+  "divisional_rank": 21,
   "fight_count": 8,
   "fight_log": [
     {
       "blue_name": "Kyoji Horiguchi",
       "bout_type": "Flyweight Bout",
       "date": "2025-11-22",
-      "elo_delta": -13.2,
+      "elo_delta": -12.5,
       "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
       "fight_id": "2f12bbbca768bc9f",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1700.6,
+      "opponent_elo": 1715.1,
       "outcome": "blue_win",
-      "post_elo": 1572.1,
-      "pre_elo": 1585.4,
+      "post_elo": 1572.8,
+      "pre_elo": 1585.3,
       "red_name": "Tagir Ulanbekov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:18",
       "weight_class": "Flyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Azat Maksum",
       "opponent_elo": 1498.0,
       "outcome": "red_win",
-      "post_elo": 1585.4,
+      "post_elo": 1585.3,
       "pre_elo": 1571.1,
       "red_name": "Tagir Ulanbekov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1552.3,
       "red_name": "Tagir Ulanbekov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1531.4,
       "red_name": "Tagir Ulanbekov",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:25",
       "weight_class": "Flyweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Nate Maness",
-      "opponent_elo": 1525.0,
+      "opponent_elo": 1524.4,
       "outcome": "red_win",
       "post_elo": 1531.4,
       "pre_elo": 1511.2,
       "red_name": "Tagir Ulanbekov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:11",
       "weight_class": "Flyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1533.3,
       "red_name": "Tim Elliott",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1517.1,
       "red_name": "Tagir Ulanbekov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Bruno Silva",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     }
@@ -254,7 +270,7 @@
     {
       "date": "2025-06-21",
       "fight_id": "197e382204e3edf4",
-      "rating": 1585.4,
+      "rating": 1585.3,
       "scope": "division",
       "system": "men:Flyweight"
     },
@@ -268,14 +284,14 @@
     {
       "date": "2025-11-22",
       "fight_id": "2f12bbbca768bc9f",
-      "rating": 1572.1,
+      "rating": 1572.8,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-11-22",
       "fight_id": "2f12bbbca768bc9f",
-      "rating": 1565.5,
+      "rating": 1566.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -285,8 +301,8 @@
   "last_fight_date": "2025-11-22",
   "name": "Tagir Ulanbekov",
   "nickname": "",
-  "overall_elo": 1565.5,
-  "peak_elo": 1585.4,
+  "overall_elo": 1566.1,
+  "peak_elo": 1585.3,
   "slug": "tagir-ulanbekov",
   "systems": {
     "division": "men:Flyweight",

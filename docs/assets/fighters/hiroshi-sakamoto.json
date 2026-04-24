@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 716,
+  "divisional_rank": 712,
   "fight_count": 8,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1478.5,
       "red_name": "Joji Shimada",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "3:49",
       "weight_class": "Open Weight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1462.0,
       "outcome": "red_win",
       "post_elo": 1478.5,
-      "pre_elo": 1498.4,
+      "pre_elo": 1498.3,
       "red_name": "Hiroharu Matsufuji",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Keisuke Kurata",
       "opponent_elo": 1488.1,
       "outcome": "red_win",
-      "post_elo": 1498.4,
+      "post_elo": 1498.3,
       "pre_elo": 1479.9,
       "red_name": "Hiroshi Sakamoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Hiroshi Sakamoto",
       "bout_type": "Open Weight Bout",
       "date": "2007-10-08",
-      "elo_delta": -20.5,
+      "elo_delta": -20.6,
       "event_name": "Shooto: Gig Central 13",
       "fight_id": "c176c220d7d95ed6",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Shinichi Hanawa",
-      "opponent_elo": 1451.3,
+      "opponent_elo": 1450.5,
       "outcome": "red_win",
       "post_elo": 1479.9,
       "pre_elo": 1500.5,
       "red_name": "Shinichi Hanawa",
       "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1518.6,
       "red_name": "Hideru Inoue",
       "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1499.1,
       "red_name": "Hiroshi Sakamoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "1:05",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1518.0,
       "red_name": "Takuya Mori",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Hiroshi Sakamoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -240,7 +256,7 @@
     {
       "date": "2008-08-03",
       "fight_id": "2cc46c5f8ece7670",
-      "rating": 1498.4,
+      "rating": 1498.3,
       "scope": "division",
       "system": "men:Open Weight"
     },

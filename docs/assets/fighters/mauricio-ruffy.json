@@ -1,6 +1,6 @@
 {
-  "current_elo": 1558.9,
-  "divisional_rank": 63,
+  "current_elo": 1559.1,
+  "divisional_rank": 60,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Rafael Fiziev",
       "opponent_elo": 1576.3,
       "outcome": "blue_win",
-      "post_elo": 1558.9,
-      "pre_elo": 1537.3,
+      "post_elo": 1559.1,
+      "pre_elo": 1537.5,
       "red_name": "Rafael Fiziev",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:30",
       "weight_class": "Lightweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Benoit Saint Denis",
-      "opponent_elo": 1567.7,
+      "opponent_elo": 1568.0,
       "outcome": "red_win",
-      "post_elo": 1537.3,
-      "pre_elo": 1556.1,
+      "post_elo": 1537.5,
+      "pre_elo": 1556.3,
       "red_name": "Benoit Saint Denis",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:56",
       "weight_class": "Lightweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Mauricio Ruffy",
       "bout_type": "Lightweight Bout",
       "date": "2025-03-08",
-      "elo_delta": 21.1,
+      "elo_delta": 21.3,
       "event_name": "UFC 313: Pereira vs. Ankalaev",
       "fight_id": "4b14e2eb70015878",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "King Green",
-      "opponent_elo": 1564.4,
+      "opponent_elo": 1567.7,
       "outcome": "blue_win",
-      "post_elo": 1556.1,
+      "post_elo": 1556.3,
       "pre_elo": 1535.0,
       "red_name": "King Green",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:07",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.9,
       "red_name": "Mauricio Ruffy",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mauricio Ruffy",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:42",
       "weight_class": "Lightweight"
     }
@@ -138,42 +148,42 @@
     {
       "date": "2025-03-08",
       "fight_id": "4b14e2eb70015878",
-      "rating": 1556.1,
+      "rating": 1556.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-03-08",
       "fight_id": "4b14e2eb70015878",
-      "rating": 1549.9,
+      "rating": 1550.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-09-06",
       "fight_id": "707d76e4c82e985c",
-      "rating": 1537.3,
+      "rating": 1537.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-09-06",
       "fight_id": "707d76e4c82e985c",
-      "rating": 1533.1,
+      "rating": 1533.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-01-31",
       "fight_id": "9f36dc7499e2646d",
-      "rating": 1558.9,
+      "rating": 1559.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-01-31",
       "fight_id": "9f36dc7499e2646d",
-      "rating": 1552.1,
+      "rating": 1552.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,8 +193,8 @@
   "last_fight_date": "2026-01-31",
   "name": "Mauricio Ruffy",
   "nickname": "",
-  "overall_elo": 1552.1,
-  "peak_elo": 1558.9,
+  "overall_elo": 1552.2,
+  "peak_elo": 1559.1,
   "slug": "mauricio-ruffy",
   "systems": {
     "division": "men:Lightweight",

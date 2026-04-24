@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 327,
+  "divisional_rank": 318,
   "fight_count": 5,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO (Punch)",
       "opponent": "Yusaku Inoue",
-      "opponent_elo": 1551.5,
+      "opponent_elo": 1552.2,
       "outcome": "red_win",
-      "post_elo": 1497.6,
-      "pre_elo": 1515.0,
+      "post_elo": 1498.6,
+      "pre_elo": 1516.0,
       "red_name": "Yusaku Inoue",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "0:09",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Takahiro Suzuki",
       "bout_type": "Open Weight Bout",
       "date": "2011-04-17",
-      "elo_delta": -1.1,
+      "elo_delta": -0.0,
       "event_name": "Shooto: Gig Central 22",
       "fight_id": "7c1a31b5568035f1",
       "gender": "men",
       "is_title": false,
       "method": "Draw",
       "opponent": "Makoto Maeda",
-      "opponent_elo": 1495.6,
+      "opponent_elo": 1515.2,
       "outcome": "draw",
-      "post_elo": 1515.0,
+      "post_elo": 1516.0,
       "pre_elo": 1516.0,
       "red_name": "Makoto Maeda",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1537.6,
       "red_name": "Jun-Hee Moon",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "2:45",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1518.0,
       "red_name": "Takahiro Suzuki",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "3:52",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Takahiro Suzuki",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -152,28 +162,28 @@
     {
       "date": "2011-04-17",
       "fight_id": "7c1a31b5568035f1",
-      "rating": 1515.0,
+      "rating": 1516.0,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-04-17",
       "fight_id": "7c1a31b5568035f1",
-      "rating": 1513.6,
+      "rating": 1514.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-10-01",
       "fight_id": "564df173fe89559e",
-      "rating": 1497.6,
+      "rating": 1498.6,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-10-01",
       "fight_id": "564df173fe89559e",
-      "rating": 1497.9,
+      "rating": 1498.7,
       "scope": "overall",
       "system": "men:overall"
     }

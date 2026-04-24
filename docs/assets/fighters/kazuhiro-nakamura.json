@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 213,
+  "divisional_rank": 212,
   "fight_count": 21,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1581.9,
       "red_name": "Gerald Harris",
       "round": "3",
+      "source": "manual",
+      "source_title": "Dream 17",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1566.5,
       "red_name": "Kazuhiro Nakamura",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 15",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Rameau Thierry Sokoudjou",
       "opponent_elo": 1466.4,
       "outcome": "red_win",
-      "post_elo": 1544.3,
+      "post_elo": 1544.4,
       "pre_elo": 1569.4,
       "red_name": "Rameau Thierry Sokoudjou",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -77,9 +83,11 @@
       "opponent_elo": 1536.9,
       "outcome": "red_win",
       "post_elo": 1569.4,
-      "pre_elo": 1590.1,
+      "pre_elo": 1590.2,
       "red_name": "Lyoto Machida",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1584.3,
       "red_name": "Maurício Rua",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2006",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -116,10 +126,12 @@
       "opponent": "Travis Galbraith",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1590.1,
-      "pre_elo": 1574.8,
+      "post_elo": 1590.2,
+      "pre_elo": 1574.9,
       "red_name": "Kazuhiro Nakamura",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 32",
       "time": "1:16",
       "weight_class": "Light Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1568.9,
       "red_name": "Kazuhiro Nakamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Final Conflict Absolute",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1552.4,
       "red_name": "Kazuhiro Nakamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown Absolute",
       "time": "4:49",
       "weight_class": "Middleweight"
     },
@@ -167,19 +183,21 @@
       "blue_name": "Kazuhiro Nakamura",
       "bout_type": "Open Weight Bout",
       "date": "2006-02-26",
-      "elo_delta": -20.0,
+      "elo_delta": -19.9,
       "event_name": "Pride 31",
       "fight_id": "281e625b6d1434df",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Rear-Naked Choke)",
       "opponent": "Josh Barnett",
-      "opponent_elo": 1531.0,
+      "opponent_elo": 1532.6,
       "outcome": "red_win",
-      "post_elo": 1521.3,
-      "pre_elo": 1541.3,
+      "post_elo": 1521.4,
+      "pre_elo": 1541.4,
       "red_name": "Josh Barnett",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 31",
       "time": "8:10",
       "weight_class": "Open Weight"
     },
@@ -196,10 +214,12 @@
       "opponent": "Yuki Kondo",
       "opponent_elo": 1477.4,
       "outcome": "red_win",
-      "post_elo": 1541.3,
-      "pre_elo": 1525.8,
+      "post_elo": 1541.4,
+      "pre_elo": 1525.9,
       "red_name": "Kazuhiro Nakamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2005",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -214,12 +234,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Igor Vovchanchyn",
-      "opponent_elo": 1529.6,
+      "opponent_elo": 1530.2,
       "outcome": "red_win",
-      "post_elo": 1525.8,
+      "post_elo": 1525.9,
       "pre_elo": 1506.6,
       "red_name": "Kazuhiro Nakamura",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2005",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1522.0,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2005",
       "time": "5:24",
       "weight_class": "Open Weight"
     },
@@ -254,12 +278,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Kevin Randleman",
-      "opponent_elo": 1505.1,
+      "opponent_elo": 1505.0,
       "outcome": "red_win",
       "post_elo": 1552.4,
       "pre_elo": 1536.0,
       "red_name": "Kazuhiro Nakamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2005",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1519.5,
       "red_name": "Kazuhiro Nakamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 29",
       "time": "0:54",
       "weight_class": "Middleweight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1540.8,
       "red_name": "Dan Henderson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 28",
       "time": "1:15",
       "weight_class": "Open Weight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1522.8,
       "red_name": "Kazuhiro Nakamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1538.9,
       "red_name": "Antônio Rogério Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Bushido 4",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1519.6,
       "red_name": "Kazuhiro Nakamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 3",
       "time": "4:45",
       "weight_class": "Open Weight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1502.6,
       "red_name": "Kazuhiro Nakamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 27",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1482.7,
       "red_name": "Kazuhiro Nakamura",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Bushido 1",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -420,6 +460,8 @@
       "pre_elo": 1500.0,
       "red_name": "Antônio Rogério Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 25",
       "time": "3:49",
       "weight_class": "Open Weight"
     }
@@ -570,7 +612,7 @@
     {
       "date": "2005-08-28",
       "fight_id": "8a19992994eb552d",
-      "rating": 1525.8,
+      "rating": 1525.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -584,7 +626,7 @@
     {
       "date": "2005-12-31",
       "fight_id": "d6c6ea4b95b4370d",
-      "rating": 1541.3,
+      "rating": 1541.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -598,7 +640,7 @@
     {
       "date": "2006-02-26",
       "fight_id": "281e625b6d1434df",
-      "rating": 1521.3,
+      "rating": 1521.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -619,7 +661,7 @@
     {
       "date": "2006-07-01",
       "fight_id": "12243824fd6bb032",
-      "rating": 1560.8,
+      "rating": 1560.9,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -633,21 +675,21 @@
     {
       "date": "2006-09-10",
       "fight_id": "30a017c1fa50c2d5",
-      "rating": 1574.8,
+      "rating": 1574.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2006-10-21",
       "fight_id": "fcff96f967e7ae9e",
-      "rating": 1590.1,
+      "rating": 1590.2,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2006-10-21",
       "fight_id": "fcff96f967e7ae9e",
-      "rating": 1588.4,
+      "rating": 1588.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -661,7 +703,7 @@
     {
       "date": "2006-12-31",
       "fight_id": "04997ebe42231610",
-      "rating": 1574.5,
+      "rating": 1574.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -675,21 +717,21 @@
     {
       "date": "2007-09-22",
       "fight_id": "b60d64664a8c726f",
-      "rating": 1556.6,
+      "rating": 1556.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2008-05-24",
       "fight_id": "1f07024ca5091819",
-      "rating": 1544.3,
+      "rating": 1544.4,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2008-05-24",
       "fight_id": "1f07024ca5091819",
-      "rating": 1537.1,
+      "rating": 1537.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -703,7 +745,7 @@
     {
       "date": "2010-07-10",
       "fight_id": "deb6048d2a2e78b7",
-      "rating": 1552.2,
+      "rating": 1552.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -717,7 +759,7 @@
     {
       "date": "2011-09-24",
       "fight_id": "c58936a0cee3acb4",
-      "rating": 1535.3,
+      "rating": 1535.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -728,7 +770,7 @@
   "name": "Kazuhiro Nakamura",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1590.1,
+  "peak_elo": 1590.2,
   "slug": "kazuhiro-nakamura",
   "systems": {
     "division": "men:Middleweight",

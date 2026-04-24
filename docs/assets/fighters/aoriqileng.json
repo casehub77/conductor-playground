@@ -1,6 +1,6 @@
 {
   "current_elo": 1506.7,
-  "divisional_rank": 256,
+  "divisional_rank": 214,
   "fight_count": 9,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Cody Gibson",
-      "opponent_elo": 1462.1,
+      "opponent_elo": 1462.2,
       "outcome": "blue_win",
       "post_elo": 1506.7,
       "pre_elo": 1488.7,
       "red_name": "Cody Gibson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:21",
       "weight_class": "Bantamweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1505.1,
       "red_name": "Raul Rosas Jr.",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Could Not Continue",
       "opponent": "Daniel Marcos",
-      "opponent_elo": 1537.3,
+      "opponent_elo": 1537.2,
       "outcome": "no_contest",
       "post_elo": 1505.1,
       "pre_elo": 1505.1,
       "red_name": "Daniel Marcos",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:28",
       "weight_class": "Bantamweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Johnny Munoz",
       "bout_type": "Bantamweight Bout",
       "date": "2023-10-07",
-      "elo_delta": 17.9,
+      "elo_delta": 17.8,
       "event_name": "UFC Fight Night: Dawson vs. Green",
       "fight_id": "0837b20edaaa9177",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Johnny Munoz",
-      "opponent_elo": 1484.9,
+      "opponent_elo": 1484.2,
       "outcome": "red_win",
       "post_elo": 1505.1,
       "pre_elo": 1487.2,
       "red_name": "Aoriqileng",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1505.9,
       "red_name": "Aiemann Zahabi",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:04",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1488.2,
       "red_name": "Aoriqileng",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1468.0,
       "red_name": "Aoriqileng",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:48",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1482.0,
       "red_name": "Cody Durden",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Aoriqileng",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     }

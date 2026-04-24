@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 730,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Geoffrey Then",
+      "bout_type": "Featherweight Bout",
+      "date": "2016-04-01",
+      "elo_delta": -18.7,
+      "event_name": "CES MMA 34",
+      "fight_id": "0590c9cd6d91546b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Merab Dvalishvili",
+      "opponent_elo": 1486.0,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Merab Dvalishvili",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Merab Dvalishvili",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2016-04-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-04-01",
+      "fight_id": "0590c9cd6d91546b",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-04-01",
+      "fight_id": "0590c9cd6d91546b",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-04-01",
+  "name": "Geoffrey Then",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "geoffrey-then",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

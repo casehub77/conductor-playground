@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 389,
+  "divisional_rank": 364,
   "fight_count": 4,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1520.6,
       "red_name": "Ian Loveland",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1538.9,
       "red_name": "Diego Nunes",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 51",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1519.4,
       "red_name": "Tyler Toner",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 48",
       "time": "2:36",
       "weight_class": "Featherweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tyler Toner",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Payback",
       "time": "3:44",
       "weight_class": "Featherweight"
     }

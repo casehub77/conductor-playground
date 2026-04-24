@@ -1,25 +1,27 @@
 {
-  "current_elo": 1437.9,
-  "divisional_rank": 1537,
+  "current_elo": 1438.1,
+  "divisional_rank": 1495,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Drew Dober",
       "bout_type": "Lightweight Bout",
       "date": "2025-10-18",
-      "elo_delta": -14.6,
+      "elo_delta": -14.4,
       "event_name": "UFC Fight Night: De Ridder vs. Allen",
       "fight_id": "ade9b0edb7f588ea",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Drew Dober",
-      "opponent_elo": 1541.4,
+      "opponent_elo": 1545.0,
       "outcome": "blue_win",
-      "post_elo": 1437.9,
+      "post_elo": 1438.1,
       "pre_elo": 1452.5,
       "red_name": "Kyle Prepolec",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:16",
       "weight_class": "Lightweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Benoit Saint Denis",
-      "opponent_elo": 1553.0,
+      "opponent_elo": 1553.2,
       "outcome": "red_win",
       "post_elo": 1452.5,
       "pre_elo": 1467.2,
       "red_name": "Benoit Saint Denis",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:35",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1485.2,
       "red_name": "Kyle Prepolec",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Nordine Taleb",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2025-10-18",
       "fight_id": "ade9b0edb7f588ea",
-      "rating": 1437.9,
+      "rating": 1438.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-10-18",
       "fight_id": "ade9b0edb7f588ea",
-      "rating": 1442.7,
+      "rating": 1442.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -149,7 +157,7 @@
   "last_fight_date": "2025-10-18",
   "name": "Kyle Prepolec",
   "nickname": "",
-  "overall_elo": 1442.7,
+  "overall_elo": 1442.8,
   "peak_elo": 1500.0,
   "slug": "kyle-prepolec",
   "systems": {

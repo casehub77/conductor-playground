@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 331,
+  "divisional_rank": 310,
   "fight_count": 9,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1578.4,
       "outcome": "blue_win",
       "post_elo": 1584.2,
-      "pre_elo": 1603.4,
+      "pre_elo": 1603.5,
       "red_name": "Mairbek Taisumov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Desmond Green",
-      "opponent_elo": 1513.3,
+      "opponent_elo": 1513.6,
       "outcome": "red_win",
-      "post_elo": 1603.4,
+      "post_elo": 1603.5,
       "pre_elo": 1589.3,
       "red_name": "Mairbek Taisumov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1573.0,
       "red_name": "Mairbek Taisumov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:24",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1556.7,
       "red_name": "Mairbek Taisumov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:44",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1537.1,
       "red_name": "Mairbek Taisumov",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:30",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1518.7,
       "red_name": "Mairbek Taisumov",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:38",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1499.2,
       "red_name": "Mairbek Taisumov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:01",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1518.0,
       "red_name": "Michel Prazeres",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mairbek Taisumov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -288,7 +306,7 @@
     {
       "date": "2018-09-15",
       "fight_id": "becf77bc50aba9f9",
-      "rating": 1603.4,
+      "rating": 1603.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
@@ -320,7 +338,7 @@
   "name": "Mairbek Taisumov",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1603.4,
+  "peak_elo": 1603.5,
   "slug": "mairbek-taisumov",
   "systems": {
     "division": "men:Lightweight",

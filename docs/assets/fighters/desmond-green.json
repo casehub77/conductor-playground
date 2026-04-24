@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 474,
+  "divisional_rank": 448,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Charles Jourdain",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1536.4,
-      "pre_elo": 1519.4,
+      "post_elo": 1536.7,
+      "pre_elo": 1519.7,
       "red_name": "Desmond Green",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Ross Pearson",
       "opponent_elo": 1513.2,
       "outcome": "blue_win",
-      "post_elo": 1519.4,
-      "pre_elo": 1499.2,
+      "post_elo": 1519.7,
+      "pre_elo": 1499.5,
       "red_name": "Ross Pearson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:52",
       "weight_class": "Lightweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Mairbek Taisumov",
       "opponent_elo": 1589.3,
       "outcome": "red_win",
-      "post_elo": 1499.2,
-      "pre_elo": 1513.3,
+      "post_elo": 1499.5,
+      "pre_elo": 1513.6,
       "red_name": "Mairbek Taisumov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Gleison Tibau",
       "bout_type": "Lightweight Bout",
       "date": "2018-06-01",
-      "elo_delta": 21.2,
+      "elo_delta": 21.6,
       "event_name": "UFC Fight Night: Rivera vs. Moraes",
       "fight_id": "99739e93822db43c",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Gleison Tibau",
-      "opponent_elo": 1555.3,
+      "opponent_elo": 1562.4,
       "outcome": "red_win",
-      "post_elo": 1513.3,
+      "post_elo": 1513.6,
       "pre_elo": 1492.0,
       "red_name": "Desmond Green",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1505.9,
       "red_name": "Michel Prazeres",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.9,
       "red_name": "Rustam Khabilov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Josh Emmett",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -192,56 +206,56 @@
     {
       "date": "2018-06-01",
       "fight_id": "99739e93822db43c",
-      "rating": 1513.3,
+      "rating": 1513.6,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2018-06-01",
       "fight_id": "99739e93822db43c",
-      "rating": 1510.7,
+      "rating": 1510.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2018-09-15",
       "fight_id": "becf77bc50aba9f9",
-      "rating": 1499.2,
+      "rating": 1499.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2018-09-15",
       "fight_id": "becf77bc50aba9f9",
-      "rating": 1497.8,
+      "rating": 1498.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-03-30",
       "fight_id": "cbea7d7cca2e8943",
-      "rating": 1519.4,
+      "rating": 1519.7,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2019-03-30",
       "fight_id": "cbea7d7cca2e8943",
-      "rating": 1515.1,
+      "rating": 1515.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-05-18",
       "fight_id": "189df9484cd9b0f1",
-      "rating": 1536.4,
+      "rating": 1536.7,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2019-05-18",
       "fight_id": "189df9484cd9b0f1",
-      "rating": 1530.4,
+      "rating": 1530.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -252,7 +266,7 @@
   "name": "Desmond Green",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1536.4,
+  "peak_elo": 1536.7,
   "slug": "desmond-green",
   "systems": {
     "division": "men:Lightweight",

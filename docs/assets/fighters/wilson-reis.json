@@ -1,6 +1,6 @@
 {
   "current_elo": 1522.0,
-  "divisional_rank": 146,
+  "divisional_rank": 133,
   "fight_count": 24,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1552.0,
       "red_name": "Bruno Souza",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Cage Warriors",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1534.5,
       "red_name": "Wilson Reis",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Cage Warriors",
       "time": "3:02",
       "weight_class": "Featherweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Alexandre Pantoja",
-      "opponent_elo": 1559.0,
+      "opponent_elo": 1558.9,
       "outcome": "blue_win",
       "post_elo": 1531.2,
       "pre_elo": 1550.1,
       "red_name": "Wilson Reis",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:58",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1532.1,
       "red_name": "Wilson Reis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1550.3,
       "red_name": "Wilson Reis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1571.1,
       "red_name": "Henry Cejudo",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:25",
       "weight_class": "Flyweight"
     },
@@ -134,12 +146,14 @@
       "is_title": true,
       "method": "Submission",
       "opponent": "Demetrious Johnson",
-      "opponent_elo": 1726.1,
+      "opponent_elo": 1726.0,
       "outcome": "red_win",
       "post_elo": 1571.1,
       "pre_elo": 1584.2,
       "red_name": "Demetrious Johnson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:49",
       "weight_class": "Flyweight"
     },
@@ -147,19 +161,21 @@
       "blue_name": "Yuta Sasaki",
       "bout_type": "Flyweight Bout",
       "date": "2017-02-11",
-      "elo_delta": 17.3,
+      "elo_delta": 17.2,
       "event_name": "UFC 208: Holm vs. De Randamie",
       "fight_id": "a3411b48360eec0a",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Yuta Sasaki",
-      "opponent_elo": 1552.5,
+      "opponent_elo": 1552.2,
       "outcome": "red_win",
       "post_elo": 1584.2,
       "pre_elo": 1567.0,
       "red_name": "Wilson Reis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1550.4,
       "red_name": "Wilson Reis",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:49",
       "weight_class": "Flyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1531.1,
       "red_name": "Dustin Ortiz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1549.8,
       "red_name": "Jussier Formiga",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1530.3,
       "red_name": "Scott Jorgensen",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:28",
       "weight_class": "Flyweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1512.9,
       "red_name": "Wilson Reis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1528.4,
       "red_name": "Iuri Alcantara",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1510.2,
       "red_name": "Ivan Menjivar",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1530.9,
       "red_name": "Eduardo Dantas",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 51",
       "time": "1:02",
       "weight_class": "Bantamweight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1554.7,
       "red_name": "Patricio Freire",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 41",
       "time": "3:29",
       "weight_class": "Featherweight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1537.3,
       "red_name": "Wilson Reis",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 37",
       "time": "2:09",
       "weight_class": "Featherweight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1519.4,
       "red_name": "Wilson Reis",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 33",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1538.4,
       "red_name": "Patricio Freire",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 18",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -420,6 +460,8 @@
       "pre_elo": 1519.0,
       "red_name": "Wilson Reis",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 14",
       "time": "3:33",
       "weight_class": "Featherweight"
     },
@@ -440,6 +482,8 @@
       "pre_elo": 1500.1,
       "red_name": "Wilson Reis",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 10",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -460,6 +504,8 @@
       "pre_elo": 1518.0,
       "red_name": "Joe Soto",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 6",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -480,6 +526,8 @@
       "pre_elo": 1500.0,
       "red_name": "Wilson Reis",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 2",
       "time": "5:00",
       "weight_class": "Featherweight"
     }

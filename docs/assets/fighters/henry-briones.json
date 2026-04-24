@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 439,
+  "divisional_rank": 395,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Frankie Saenz",
       "bout_type": "Bantamweight Bout",
       "date": "2018-05-19",
-      "elo_delta": -15.2,
+      "elo_delta": -15.1,
       "event_name": "UFC Fight Night: Maia vs. Usman",
       "fight_id": "6f34f7d08293c1bb",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Frankie Saenz",
-      "opponent_elo": 1520.5,
+      "opponent_elo": 1523.4,
       "outcome": "blue_win",
-      "post_elo": 1451.4,
+      "post_elo": 1451.6,
       "pre_elo": 1466.7,
       "red_name": "Henry Briones",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1482.1,
       "red_name": "Henry Briones",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:01",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1501.5,
       "red_name": "Henry Briones",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:33",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Cody Garbrandt",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Henry Briones",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:44",
       "weight_class": "Bantamweight"
     }
@@ -166,14 +176,14 @@
     {
       "date": "2018-05-19",
       "fight_id": "6f34f7d08293c1bb",
-      "rating": 1451.4,
+      "rating": 1451.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2018-05-19",
       "fight_id": "6f34f7d08293c1bb",
-      "rating": 1457.6,
+      "rating": 1457.7,
       "scope": "overall",
       "system": "men:overall"
     }

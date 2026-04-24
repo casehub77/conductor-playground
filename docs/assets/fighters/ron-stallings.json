@@ -7,19 +7,21 @@
       "blue_name": "Ron Stallings",
       "bout_type": "Middleweight Bout",
       "date": "2015-09-05",
-      "elo_delta": -21.8,
+      "elo_delta": -20.0,
       "event_name": "UFC 191: Johnson vs Dodson 2",
       "fight_id": "00f017cd318c431a",
       "gender": "men",
       "is_title": false,
       "method": "DQ",
       "opponent": "Joe Riggs",
-      "opponent_elo": 1456.2,
+      "opponent_elo": 1489.8,
       "outcome": "red_win",
-      "post_elo": 1477.4,
+      "post_elo": 1479.3,
       "pre_elo": 1499.2,
       "red_name": "Joe Riggs",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:28",
       "weight_class": "Middleweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1481.9,
       "red_name": "Ron Stallings",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Uriah Hall",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:37",
       "weight_class": "Middleweight"
     }
@@ -98,14 +104,14 @@
     {
       "date": "2015-09-05",
       "fight_id": "00f017cd318c431a",
-      "rating": 1477.4,
+      "rating": 1479.3,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2015-09-05",
       "fight_id": "00f017cd318c431a",
-      "rating": 1480.7,
+      "rating": 1481.8,
       "scope": "overall",
       "system": "men:overall"
     }

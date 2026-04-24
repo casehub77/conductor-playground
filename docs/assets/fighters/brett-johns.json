@@ -1,6 +1,6 @@
 {
-  "current_elo": 1516.8,
-  "divisional_rank": 213,
+  "current_elo": 1516.0,
+  "divisional_rank": 186,
   "fight_count": 10,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Jordan Winski",
       "opponent_elo": 1500.9,
       "outcome": "red_win",
-      "post_elo": 1568.7,
-      "pre_elo": 1553.4,
+      "post_elo": 1567.9,
+      "pre_elo": 1552.5,
       "red_name": "Brett Johns",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 285",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Khurshed Kakhorov",
       "opponent_elo": 1518.0,
       "outcome": "red_win",
-      "post_elo": 1553.4,
-      "pre_elo": 1534.9,
+      "post_elo": 1552.5,
+      "pre_elo": 1534.0,
       "red_name": "Brett Johns",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 275",
       "time": "3:00",
       "weight_class": "Bantamweight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Brett Johns",
       "bout_type": "Bantamweight Bout",
       "date": "2021-05-21",
-      "elo_delta": -20.9,
+      "elo_delta": -20.8,
       "event_name": "Bellator 259: Cyborg vs. Smith 2",
       "fight_id": "cc8cc626eb0f94a3",
       "gender": "men",
@@ -56,10 +60,12 @@
       "opponent": "Danny Sabatello",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1534.9,
-      "pre_elo": 1555.7,
+      "post_elo": 1534.0,
+      "pre_elo": 1554.8,
       "red_name": "Danny Sabatello",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 259",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Montel Jackson",
       "bout_type": "Bantamweight Bout",
       "date": "2020-07-18",
-      "elo_delta": 18.0,
+      "elo_delta": 18.1,
       "event_name": "UFC Fight Night: Figueiredo vs. Benavidez 2",
       "fight_id": "8e1463eb664effd9",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Montel Jackson",
-      "opponent_elo": 1538.6,
+      "opponent_elo": 1538.8,
       "outcome": "red_win",
-      "post_elo": 1555.7,
-      "pre_elo": 1537.7,
+      "post_elo": 1554.8,
+      "pre_elo": 1536.7,
       "red_name": "Brett Johns",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "Tony Gravely",
       "bout_type": "Bantamweight Bout",
       "date": "2020-01-25",
-      "elo_delta": 18.4,
+      "elo_delta": 17.4,
       "event_name": "UFC Fight Night: Blaydes vs. Dos Santos",
       "fight_id": "0887f54434a64c25",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Tony Gravely",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1482.2,
       "outcome": "red_win",
-      "post_elo": 1537.7,
+      "post_elo": 1536.7,
       "pre_elo": 1519.3,
       "red_name": "Brett Johns",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:53",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1536.7,
       "red_name": "Pedro Munhoz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1554.6,
       "red_name": "Aljamain Sterling",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1535.3,
       "red_name": "Joe Soto",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:30",
       "weight_class": "Bantamweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1518.0,
       "red_name": "Brett Johns",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Brett Johns",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -280,70 +300,70 @@
     {
       "date": "2020-01-25",
       "fight_id": "0887f54434a64c25",
-      "rating": 1537.7,
+      "rating": 1536.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2020-01-25",
       "fight_id": "0887f54434a64c25",
-      "rating": 1534.2,
+      "rating": 1533.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2020-07-18",
       "fight_id": "8e1463eb664effd9",
-      "rating": 1555.7,
+      "rating": 1554.8,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2020-07-18",
       "fight_id": "8e1463eb664effd9",
-      "rating": 1550.2,
+      "rating": 1549.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-05-21",
       "fight_id": "cc8cc626eb0f94a3",
-      "rating": 1534.9,
+      "rating": 1534.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-05-21",
       "fight_id": "cc8cc626eb0f94a3",
-      "rating": 1531.9,
+      "rating": 1531.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-02-25",
       "fight_id": "717d0b986c31fc98",
-      "rating": 1553.4,
+      "rating": 1552.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-02-25",
       "fight_id": "717d0b986c31fc98",
-      "rating": 1548.4,
+      "rating": 1547.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-09-23",
       "fight_id": "f385977e33b8112b",
-      "rating": 1568.7,
+      "rating": 1567.9,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-09-23",
       "fight_id": "f385977e33b8112b",
-      "rating": 1562.2,
+      "rating": 1561.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -353,8 +373,8 @@
   "last_fight_date": "2022-09-23",
   "name": "Brett Johns",
   "nickname": "",
-  "overall_elo": 1510.3,
-  "peak_elo": 1568.7,
+  "overall_elo": 1509.7,
+  "peak_elo": 1567.9,
   "slug": "brett-johns",
   "systems": {
     "division": "men:Bantamweight",

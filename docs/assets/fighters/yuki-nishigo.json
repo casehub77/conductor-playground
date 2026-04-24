@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 248,
-  "fight_count": 6,
+  "divisional_rank": 410,
+  "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Yuki Nishigo",
       "bout_type": "Open Weight Bout",
       "date": "2011-09-04",
-      "elo_delta": -18.6,
+      "elo_delta": -17.9,
       "event_name": "Shooto: Border: Season 3: Roaring Thunder",
       "fight_id": "03b9a6902ed55063",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Hiroshi Osato",
       "opponent_elo": 1533.6,
       "outcome": "red_win",
-      "post_elo": 1526.9,
-      "pre_elo": 1545.5,
+      "post_elo": 1513.4,
+      "pre_elo": 1531.3,
       "red_name": "Hiroshi Osato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Ryosuke Miura",
       "bout_type": "Open Weight Bout",
       "date": "2011-06-05",
-      "elo_delta": 16.8,
+      "elo_delta": 17.6,
       "event_name": "Shooto: Gig West 13",
       "fight_id": "c582d70af804f642",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Ryosuke Miura",
       "opponent_elo": 1481.1,
       "outcome": "red_win",
-      "post_elo": 1545.5,
-      "pre_elo": 1528.7,
+      "post_elo": 1531.3,
+      "pre_elo": 1513.7,
       "red_name": "Yuki Nishigo",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Shinobu Aoyama",
       "bout_type": "Open Weight Bout",
       "date": "2011-04-17",
-      "elo_delta": 14.5,
+      "elo_delta": 16.2,
       "event_name": "Shooto: Gig Central 22",
       "fight_id": "85fdf13a62aba788",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Shinobu Aoyama",
-      "opponent_elo": 1445.4,
+      "opponent_elo": 1463.2,
       "outcome": "red_win",
-      "post_elo": 1528.7,
-      "pre_elo": 1514.2,
+      "post_elo": 1513.7,
+      "pre_elo": 1497.4,
       "red_name": "Yuki Nishigo",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -67,7 +73,7 @@
       "blue_name": "Yuki Nishigo",
       "bout_type": "Open Weight Bout",
       "date": "2010-07-04",
-      "elo_delta": -21.5,
+      "elo_delta": -20.6,
       "event_name": "Shooto: Gig Saitama 2",
       "fight_id": "1c5b502c4a2998da",
       "gender": "men",
@@ -76,31 +82,13 @@
       "opponent": "Yuki Yasunaga",
       "opponent_elo": 1468.2,
       "outcome": "red_win",
-      "post_elo": 1514.2,
-      "pre_elo": 1535.7,
+      "post_elo": 1497.4,
+      "pre_elo": 1518.0,
       "red_name": "Yuki Yasunaga",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Jun Nagasoe",
-      "bout_type": "Open Weight Bout",
-      "date": "2010-04-04",
-      "elo_delta": 17.7,
-      "event_name": "Shooto: Grapplingman 10",
-      "fight_id": "474419f99a959d20",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (Rear-Naked Choke)",
-      "opponent": "Jun Nagasoe",
-      "opponent_elo": 1486.6,
-      "outcome": "red_win",
-      "post_elo": 1535.7,
-      "pre_elo": 1518.0,
-      "red_name": "Yuki Nishigo",
-      "round": "1",
-      "time": "2:42",
       "weight_class": "Open Weight"
     },
     {
@@ -120,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yuki Nishigo",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -142,72 +132,58 @@
       "system": "men:overall"
     },
     {
-      "date": "2010-04-04",
-      "fight_id": "474419f99a959d20",
-      "rating": 1535.7,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2010-04-04",
-      "fight_id": "474419f99a959d20",
-      "rating": 1531.9,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2010-07-04",
       "fight_id": "1c5b502c4a2998da",
-      "rating": 1514.2,
+      "rating": 1497.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-07-04",
       "fight_id": "1c5b502c4a2998da",
-      "rating": 1513.1,
+      "rating": 1498.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-04-17",
       "fight_id": "85fdf13a62aba788",
-      "rating": 1528.7,
+      "rating": 1513.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-04-17",
       "fight_id": "85fdf13a62aba788",
-      "rating": 1526.3,
+      "rating": 1512.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-06-05",
       "fight_id": "c582d70af804f642",
-      "rating": 1545.5,
+      "rating": 1531.3,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-06-05",
       "fight_id": "c582d70af804f642",
-      "rating": 1541.4,
+      "rating": 1528.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-09-04",
       "fight_id": "03b9a6902ed55063",
-      "rating": 1526.9,
+      "rating": 1513.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-09-04",
       "fight_id": "03b9a6902ed55063",
-      "rating": 1524.9,
+      "rating": 1512.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -218,7 +194,7 @@
   "name": "Yuki Nishigo",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1545.5,
+  "peak_elo": 1531.3,
   "slug": "yuki-nishigo",
   "systems": {
     "division": "men:Open Weight",

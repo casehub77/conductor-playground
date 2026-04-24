@@ -243,6 +243,8 @@ def compute_ratings(fights: list[Fight], config: dict[str, Any], overrides: Over
             "weight_class": fight.weight_class,
             "gender": fight.gender,
             "is_title": fight.is_title,
+            "source": fight.source,
+            "source_title": fight.raw.get("source_title", ""),
         }
 
         red_overall_before = _current_rating(ratings, overall_system, fight.red_name, initial)

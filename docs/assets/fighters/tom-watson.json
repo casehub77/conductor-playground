@@ -7,7 +7,7 @@
       "blue_name": "Tom Watson",
       "bout_type": "Middleweight Bout",
       "date": "2015-08-08",
-      "elo_delta": -17.9,
+      "elo_delta": -18.0,
       "event_name": "UFC Fight Night: Teixeira vs Saint Preux",
       "fight_id": "b493b2a273a9d1d6",
       "gender": "men",
@@ -17,9 +17,11 @@
       "opponent_elo": 1476.1,
       "outcome": "red_win",
       "post_elo": 1457.2,
-      "pre_elo": 1475.1,
+      "pre_elo": 1475.2,
       "red_name": "Chris Camozzi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Rafael Natal",
       "opponent_elo": 1534.9,
       "outcome": "red_win",
-      "post_elo": 1475.1,
+      "post_elo": 1475.2,
       "pre_elo": 1490.9,
       "red_name": "Rafael Natal",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Sam Alvey",
       "bout_type": "Middleweight Bout",
       "date": "2014-08-16",
-      "elo_delta": 19.4,
+      "elo_delta": 19.5,
       "event_name": "UFC Fight Night: Bader vs Saint Preux",
       "fight_id": "00fe438989c7e425",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Sam Alvey",
-      "opponent_elo": 1499.2,
+      "opponent_elo": 1500.1,
       "outcome": "red_win",
       "post_elo": 1490.9,
       "pre_elo": 1471.4,
       "red_name": "Tom Watson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1489.0,
       "red_name": "Nick Catone",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1505.2,
       "red_name": "Thales Leites",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1483.8,
       "red_name": "Tom Watson",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:42",
       "weight_class": "Middleweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tom Watson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     }
@@ -213,14 +227,14 @@
     {
       "date": "2014-08-16",
       "fight_id": "00fe438989c7e425",
-      "rating": 1490.6,
+      "rating": 1490.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2015-01-31",
       "fight_id": "e69f7c841da612d1",
-      "rating": 1475.1,
+      "rating": 1475.2,
       "scope": "division",
       "system": "men:Middleweight"
     },
@@ -241,7 +255,7 @@
     {
       "date": "2015-08-08",
       "fight_id": "b493b2a273a9d1d6",
-      "rating": 1460.6,
+      "rating": 1460.7,
       "scope": "overall",
       "system": "men:overall"
     }

@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1728,
+  "divisional_rank": 1722,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Yoshiaki Masuda",
       "bout_type": "Open Weight Bout",
       "date": "2010-10-24",
-      "elo_delta": 0.8,
+      "elo_delta": 1.8,
       "event_name": "Shooto: Gig Central 21",
       "fight_id": "6d0a6b55e1aa3155",
       "gender": "men",
       "is_title": false,
       "method": "Draw",
       "opponent": "Makoto Maeda",
-      "opponent_elo": 1496.4,
+      "opponent_elo": 1517.0,
       "outcome": "draw",
-      "post_elo": 1481.9,
-      "pre_elo": 1481.1,
+      "post_elo": 1483.8,
+      "pre_elo": 1482.0,
       "red_name": "Makoto Maeda",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Yoshiaki Masuda",
       "bout_type": "Open Weight Bout",
       "date": "2010-03-28",
-      "elo_delta": -18.9,
+      "elo_delta": -18.0,
       "event_name": "Shooto: Border: Season 2: Vibration",
       "fight_id": "06e2733764ea8fbc",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Ryuichiro Sumimura",
-      "opponent_elo": 1482.9,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1481.1,
+      "post_elo": 1482.0,
       "pre_elo": 1500.0,
       "red_name": "Ryuichiro Sumimura",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -50,28 +54,28 @@
     {
       "date": "2010-03-28",
       "fight_id": "06e2733764ea8fbc",
-      "rating": 1481.1,
+      "rating": 1482.0,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-03-28",
       "fight_id": "06e2733764ea8fbc",
-      "rating": 1483.3,
+      "rating": 1484.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-10-24",
       "fight_id": "6d0a6b55e1aa3155",
-      "rating": 1481.9,
+      "rating": 1483.8,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-10-24",
       "fight_id": "6d0a6b55e1aa3155",
-      "rating": 1483.9,
+      "rating": 1485.4,
       "scope": "overall",
       "system": "men:overall"
     }

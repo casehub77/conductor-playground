@@ -1,6 +1,6 @@
 {
   "current_elo": 1543.2,
-  "divisional_rank": 43,
+  "divisional_rank": 41,
   "fight_count": 21,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Ryan Bader",
-      "opponent_elo": 1669.0,
+      "opponent_elo": 1669.1,
       "outcome": "red_win",
       "post_elo": 1585.9,
       "pre_elo": 1601.7,
       "red_name": "Ryan Bader",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 290",
       "time": "2:30",
       "weight_class": "Heavyweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1500.7,
       "outcome": "red_win",
       "post_elo": 1601.7,
-      "pre_elo": 1586.9,
+      "pre_elo": 1587.0,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 269",
       "time": "1:46",
       "weight_class": "Heavyweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Singh Jaideep",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1586.9,
-      "pre_elo": 1571.4,
+      "post_elo": 1587.0,
+      "pre_elo": 1571.5,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "2015 in Rizin Fighting Federation",
       "time": "3:02",
       "weight_class": "Heavyweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Dan Henderson",
       "opponent_elo": 1646.8,
       "outcome": "red_win",
-      "post_elo": 1571.4,
+      "post_elo": 1571.5,
       "pre_elo": 1587.6,
       "red_name": "Dan Henderson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Henderson",
       "time": "4:12",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1613.0,
       "red_name": "Antônio Silva",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Silva",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1636.9,
       "red_name": "Fabrício Werdum",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Werdum",
       "time": "1:09",
       "weight_class": "Heavyweight"
     },
@@ -127,19 +139,21 @@
       "blue_name": "Brett Rogers",
       "bout_type": "Heavyweight Bout",
       "date": "2009-11-07",
-      "elo_delta": 15.1,
+      "elo_delta": 15.2,
       "event_name": "Strikeforce: Fedor vs. Rogers",
       "fight_id": "b12bbebcd224e7ee",
       "gender": "men",
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Brett Rogers",
-      "opponent_elo": 1543.8,
+      "opponent_elo": 1543.9,
       "outcome": "red_win",
       "post_elo": 1636.9,
       "pre_elo": 1621.8,
       "red_name": "Fedor Emelianenko",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Rogers",
       "time": "1:48",
       "weight_class": "Heavyweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "Submission (kimura)",
       "opponent": "Mark Hunt",
-      "opponent_elo": 1555.6,
+      "opponent_elo": 1555.7,
       "outcome": "red_win",
       "post_elo": 1621.8,
       "pre_elo": 1605.1,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2006",
       "time": "8:16",
       "weight_class": "Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1589.7,
       "red_name": "Fedor Emelianenko",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 32",
       "time": "1:15",
       "weight_class": "Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1631.7,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2005",
       "time": "0:26",
       "weight_class": "Open Weight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1573.8,
       "red_name": "Fedor Emelianenko",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2005",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1618.7,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 6",
       "time": "10:00",
       "weight_class": "Open Weight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1555.6,
       "red_name": "Fedor Emelianenko",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2004",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1602.8,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "0:54",
       "weight_class": "Open Weight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1602.8,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "3:52",
       "weight_class": "Open Weight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1585.0,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2004",
       "time": "1:33",
       "weight_class": "Open Weight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1561.2,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2004",
       "time": "2:11",
       "weight_class": "Open Weight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1542.4,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 26",
       "time": "4:17",
       "weight_class": "Open Weight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1536.6,
       "red_name": "Fedor Emelianenko",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 25",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1520.8,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 23",
       "time": "10:00",
       "weight_class": "Open Weight"
     },
@@ -420,6 +460,8 @@
       "pre_elo": 1500.0,
       "red_name": "Fedor Emelianenko",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 21",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -619,7 +661,7 @@
     {
       "date": "2006-12-31",
       "fight_id": "b4aedd8e90688537",
-      "rating": 1697.7,
+      "rating": 1697.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -647,7 +689,7 @@
     {
       "date": "2010-06-26",
       "fight_id": "8dca3afed9a4a708",
-      "rating": 1684.0,
+      "rating": 1684.1,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -661,14 +703,14 @@
     {
       "date": "2011-02-12",
       "fight_id": "4785b91c7dd0e8c2",
-      "rating": 1658.5,
+      "rating": 1658.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-07-30",
       "fight_id": "93675cbb9a7d8f1c",
-      "rating": 1571.4,
+      "rating": 1571.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -682,7 +724,7 @@
     {
       "date": "2015-12-31",
       "fight_id": "6169ddeffa56261a",
-      "rating": 1586.9,
+      "rating": 1587.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -703,7 +745,7 @@
     {
       "date": "2021-10-23",
       "fight_id": "a436243319a63ff8",
-      "rating": 1661.5,
+      "rating": 1661.6,
       "scope": "overall",
       "system": "men:overall"
     },

@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1498,
-  "fight_count": 3,
+  "divisional_rank": 1491,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Noriyuki Takei",
       "bout_type": "Open Weight Bout",
       "date": "2011-08-06",
-      "elo_delta": -16.4,
+      "elo_delta": -18.4,
       "event_name": "Shooto: Gig Tokyo 7",
       "fight_id": "862a6a89b01dff33",
       "gender": "men",
@@ -16,96 +16,30 @@
       "opponent": "Shota Kondo",
       "opponent_elo": 1518.0,
       "outcome": "red_win",
-      "post_elo": 1447.0,
-      "pre_elo": 1463.5,
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
       "red_name": "Shota Kondo",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "3:43",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Noriyuki Takei",
-      "bout_type": "Open Weight Bout",
-      "date": "2010-04-04",
-      "elo_delta": -18.5,
-      "event_name": "Shooto: Grapplingman 10",
-      "fight_id": "2d983f78185a14ca",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (Armbar)",
-      "opponent": "Koji Kishimoto",
-      "opponent_elo": 1498.0,
-      "outcome": "red_win",
-      "post_elo": 1463.5,
-      "pre_elo": 1482.0,
-      "red_name": "Koji Kishimoto",
-      "round": "1",
-      "time": "3:33",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Noriyuki Takei",
-      "bout_type": "Open Weight Bout",
-      "date": "2009-11-29",
-      "elo_delta": -18.0,
-      "event_name": "Shooto: Grapplingman 9",
-      "fight_id": "190232b112236c09",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (Unanimous)",
-      "opponent": "Masayoshi Kato",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1482.0,
-      "pre_elo": 1500.0,
-      "red_name": "Masayoshi Kato",
-      "round": "2",
-      "time": "5:00",
       "weight_class": "Open Weight"
     }
   ],
-  "first_fight_date": "2009-11-29",
+  "first_fight_date": "2011-08-06",
   "gender": "men",
   "history": [
     {
-      "date": "2009-11-29",
-      "fight_id": "190232b112236c09",
-      "rating": 1482.0,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2009-11-29",
-      "fight_id": "190232b112236c09",
-      "rating": 1484.0,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2010-04-04",
-      "fight_id": "2d983f78185a14ca",
-      "rating": 1463.5,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2010-04-04",
-      "fight_id": "2d983f78185a14ca",
-      "rating": 1467.4,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2011-08-06",
       "fight_id": "862a6a89b01dff33",
-      "rating": 1447.0,
+      "rating": 1481.6,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-08-06",
       "fight_id": "862a6a89b01dff33",
-      "rating": 1452.6,
+      "rating": 1483.5,
       "scope": "overall",
       "system": "men:overall"
     }

@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 464,
-  "fight_count": 16,
+  "divisional_rank": 461,
+  "fight_count": 15,
   "fight_log": [
     {
       "blue_name": "Masato Fujiwara",
       "bout_type": "Open Weight Bout",
       "date": "2010-09-17",
-      "elo_delta": -15.7,
+      "elo_delta": -16.5,
       "event_name": "Shooto: Kitazawa Shooto Vol. 4",
       "fight_id": "baa6c53c1f104019",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Koji Nishioka",
       "opponent_elo": 1482.1,
       "outcome": "red_win",
-      "post_elo": 1421.4,
-      "pre_elo": 1437.1,
+      "post_elo": 1435.7,
+      "pre_elo": 1452.2,
       "red_name": "Koji Nishioka",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Hidekazu Asakura",
       "bout_type": "Open Weight Bout",
       "date": "2010-02-14",
-      "elo_delta": 0.5,
+      "elo_delta": -0.2,
       "event_name": "Shooto: Gig North 5",
       "fight_id": "c344d5b51cb6c7fe",
       "gender": "men",
       "is_title": false,
       "method": "Draw",
       "opponent": "Hidekazu Asakura",
-      "opponent_elo": 1446.9,
+      "opponent_elo": 1447.6,
       "outcome": "draw",
-      "post_elo": 1437.1,
-      "pre_elo": 1436.5,
+      "post_elo": 1452.2,
+      "pre_elo": 1452.4,
       "red_name": "Masato Fujiwara",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Masato Fujiwara",
       "bout_type": "Open Weight Bout",
       "date": "2008-10-26",
-      "elo_delta": -14.4,
+      "elo_delta": -15.3,
       "event_name": "Shooto: Gig Central 16",
       "fight_id": "4d53ed6cf0d3a660",
       "gender": "men",
@@ -56,31 +60,13 @@
       "opponent": "Kenichi Hattori",
       "opponent_elo": 1520.6,
       "outcome": "red_win",
-      "post_elo": 1436.5,
-      "pre_elo": 1451.0,
+      "post_elo": 1452.4,
+      "pre_elo": 1467.7,
       "red_name": "Kenichi Hattori",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Masato Fujiwara",
-      "bout_type": "Open Weight Bout",
-      "date": "2007-05-13",
-      "elo_delta": -16.7,
-      "event_name": "Shooto: Grapplingman 6",
-      "fight_id": "b58f615be3ef04c0",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (Triangle Choke)",
-      "opponent": "Shinji Sasaki",
-      "opponent_elo": 1516.8,
-      "outcome": "red_win",
-      "post_elo": 1451.0,
-      "pre_elo": 1467.7,
-      "red_name": "Shinji Sasaki",
-      "round": "1",
-      "time": "3:04",
       "weight_class": "Open Weight"
     },
     {
@@ -100,6 +86,8 @@
       "pre_elo": 1448.0,
       "red_name": "Masato Fujiwara",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +108,8 @@
       "pre_elo": 1467.7,
       "red_name": "Masaya Takita",
       "round": "2",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -140,6 +130,8 @@
       "pre_elo": 1484.3,
       "red_name": "Takashi Nakakura",
       "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "3:48",
       "weight_class": "Open Weight"
     },
@@ -160,6 +152,8 @@
       "pre_elo": 1500.5,
       "red_name": "Naoki Matsushita",
       "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -180,6 +174,8 @@
       "pre_elo": 1521.0,
       "red_name": "Takayuki Okochi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "4:24",
       "weight_class": "Open Weight"
     },
@@ -200,6 +196,8 @@
       "pre_elo": 1521.2,
       "red_name": "Masato Fujiwara",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -220,6 +218,8 @@
       "pre_elo": 1501.9,
       "red_name": "Masato Fujiwara",
       "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "3:53",
       "weight_class": "Open Weight"
     },
@@ -240,6 +240,8 @@
       "pre_elo": 1483.9,
       "red_name": "Masato Fujiwara",
       "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -260,6 +262,8 @@
       "pre_elo": 1500.9,
       "red_name": "Takeshi Yamazaki",
       "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -280,6 +284,8 @@
       "pre_elo": 1500.0,
       "red_name": "Masato Fujiwara",
       "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -300,6 +306,8 @@
       "pre_elo": 1480.6,
       "red_name": "Masato Fujiwara",
       "round": "1",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
       "time": "1:01",
       "weight_class": "Open Weight"
     },
@@ -320,6 +328,8 @@
       "pre_elo": 1500.0,
       "red_name": "Ryan Bow",
       "round": "1",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
       "time": "2:19",
       "weight_class": "Open Weight"
     }
@@ -496,58 +506,44 @@
       "system": "men:overall"
     },
     {
-      "date": "2007-05-13",
-      "fight_id": "b58f615be3ef04c0",
-      "rating": 1451.0,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2007-05-13",
-      "fight_id": "b58f615be3ef04c0",
-      "rating": 1455.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2008-10-26",
       "fight_id": "4d53ed6cf0d3a660",
-      "rating": 1436.5,
+      "rating": 1452.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2008-10-26",
       "fight_id": "4d53ed6cf0d3a660",
-      "rating": 1442.6,
+      "rating": 1457.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-02-14",
       "fight_id": "c344d5b51cb6c7fe",
-      "rating": 1437.1,
+      "rating": 1452.2,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-02-14",
       "fight_id": "c344d5b51cb6c7fe",
-      "rating": 1443.0,
+      "rating": 1456.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-09-17",
       "fight_id": "baa6c53c1f104019",
-      "rating": 1421.4,
+      "rating": 1435.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-09-17",
       "fight_id": "baa6c53c1f104019",
-      "rating": 1428.9,
+      "rating": 1442.1,
       "scope": "overall",
       "system": "men:overall"
     }

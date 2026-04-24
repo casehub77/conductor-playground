@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 355,
+  "divisional_rank": 267,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Louis Gaudinot",
       "bout_type": "Flyweight Bout",
       "date": "2015-01-03",
-      "elo_delta": -10.9,
+      "elo_delta": -11.0,
       "event_name": "UFC 182: Jones vs Cormier",
       "fight_id": "627f5634a49f9123",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1629.8,
+      "opponent_elo": 1629.1,
       "outcome": "red_win",
       "post_elo": 1474.8,
       "pre_elo": 1485.7,
       "red_name": "Kyoji Horiguchi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1485.7,
       "red_name": "Phil Harris",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:13",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1503.9,
       "red_name": "Louis Gaudinot",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1483.6,
       "red_name": "Louis Gaudinot",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:54",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Louis Gaudinot",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:58",
       "weight_class": "Bantamweight"
     }

@@ -1,6 +1,6 @@
 {
-  "current_elo": 1555.9,
-  "divisional_rank": 67,
+  "current_elo": 1555.8,
+  "divisional_rank": 63,
   "fight_count": 5,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "TKO (doctor stoppage)",
       "opponent": "Yusuke Yachi",
-      "opponent_elo": 1559.9,
+      "opponent_elo": 1559.7,
       "outcome": "red_win",
-      "post_elo": 1555.9,
+      "post_elo": 1555.8,
       "pre_elo": 1535.0,
       "red_name": "Kim Kyung-pyo",
       "round": "2",
+      "source": "manual",
+      "source_title": "2026 in Rizin Fighting Federation",
       "time": "4:25",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1516.5,
       "red_name": "Kim Kyung-pyo",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "3:59",
       "weight_class": "Lightweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1488.6,
       "outcome": "red_win",
       "post_elo": 1516.5,
-      "pre_elo": 1538.8,
+      "pre_elo": 1538.7,
       "red_name": "Spike Carlyle",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "1:11",
       "weight_class": "Lightweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Tural Ragimov",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1538.8,
-      "pre_elo": 1520.5,
+      "post_elo": 1538.7,
+      "pre_elo": 1520.4,
       "red_name": "Kim Kyung-pyo",
       "round": "1",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "0:21",
       "weight_class": "Lightweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "Sho Patrick Usami",
       "bout_type": "Lightweight 71 kg Bout",
       "date": "2023-04-01",
-      "elo_delta": 20.5,
+      "elo_delta": 20.4,
       "event_name": "Rizin 41 – Osaka",
       "fight_id": "19c0673d67b66a94",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Rear-Naked Choke)",
       "opponent": "Sho Patrick Usami",
-      "opponent_elo": 1518.3,
+      "opponent_elo": 1517.3,
       "outcome": "red_win",
-      "post_elo": 1520.5,
+      "post_elo": 1520.4,
       "pre_elo": 1500.0,
       "red_name": "Kim Kyung-pyo",
       "round": "1",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "3:33",
       "weight_class": "Lightweight"
     }
@@ -110,28 +120,28 @@
     {
       "date": "2023-04-01",
       "fight_id": "19c0673d67b66a94",
-      "rating": 1520.5,
+      "rating": 1520.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-04-01",
       "fight_id": "19c0673d67b66a94",
-      "rating": 1518.2,
+      "rating": 1518.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-11-04",
       "fight_id": "6ac32e31b0ae9535",
-      "rating": 1538.8,
+      "rating": 1538.7,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-11-04",
       "fight_id": "6ac32e31b0ae9535",
-      "rating": 1534.6,
+      "rating": 1534.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -166,7 +176,7 @@
     {
       "date": "2026-03-07",
       "fight_id": "facb05d2a33e50d2",
-      "rating": 1555.9,
+      "rating": 1555.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
@@ -184,7 +194,7 @@
   "name": "Kim Kyung-pyo",
   "nickname": "",
   "overall_elo": 1550.4,
-  "peak_elo": 1555.9,
+  "peak_elo": 1555.8,
   "slug": "kim-kyung-pyo",
   "systems": {
     "division": "men:Lightweight",

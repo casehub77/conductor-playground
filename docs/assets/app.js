@@ -376,7 +376,7 @@ async function renderFighter() {
   const slug = body.dataset.fighterSlug;
   const fighter = await loadJson(`fighters/${slug}.json`);
   const divisionChart = buildDivisionSeries(fighter);
-  const overallHistory = fighter.history.filter((point) => point.scope === "overall");
+  const activeSystem = divisionChart.primary ? divisionChart.primary.system : "";
   app.innerHTML = `
     <section class="fighter-head">
       <div>
@@ -400,14 +400,28 @@ async function renderFighter() {
       </div>
       ${renderInstagramEmbed(fighter)}
       ${sectionHeader("Elo History")}
-      ${renderDivisionHistoryContext(divisionChart.alternates)}
-      <div class="chart-wrap">${renderEloChart(divisionChart.primary, overallHistory, fighter)}</div>
+      ${renderDivisionSelector(divisionChart.series, activeSystem)}
+      <div class="chart-wrap" data-chart-wrap></div>
     </section>
     <div class="divider"></div>
     <section class="band">
       ${sectionHeader("Fight-by-Fight Elo")}
       ${renderFightLog(fighter.fight_log)}
     </section>`;
+  const chartWrap = app.querySelector("[data-chart-wrap]");
+  const drawChart = (system) => {
+    const selected = divisionChart.series.find((series) => series.system === system) || divisionChart.primary;
+    const overallHistory = fighter.history.filter((point) => point.scope === "overall");
+    chartWrap.innerHTML = `${renderDivisionHistoryContext(divisionChart.series, system)}${renderEloChart(selected, overallHistory, fighter)}`;
+  };
+  app.querySelectorAll("[data-division-system]").forEach((button) => {
+    button.addEventListener("click", () => {
+      app.querySelectorAll("[data-division-system]").forEach((node) => node.classList.remove("active"));
+      button.classList.add("active");
+      drawChart(button.dataset.divisionSystem);
+    });
+  });
+  drawChart(activeSystem);
   processInstagramEmbeds();
 }
 
@@ -471,6 +485,7 @@ function buildDivisionSeries(fighter) {
     points: fighter.history.filter((p) => p.scope === "division" && p.system === system),
   }));
   return {
+    series,
     primary: series[0] || null,
     alternates: series.slice(1),
   };
@@ -481,9 +496,20 @@ function prettyDivisionLabel(system) {
   return weightClass || system;
 }
 
-function renderDivisionHistoryContext(alternates) {
-  if (!alternates || !alternates.length) return "";
-  return `<p class="chart-context">Previous divisional history: ${alternates.map((series) => escapeHtml(series.label)).join(" / ")}</p>`;
+function renderDivisionSelector(series, activeSystem) {
+  if (!series || series.length <= 1) return "";
+  return `<div class="division-selector" role="tablist" aria-label="Division history">
+    ${series.map((item) => `<button class="division-chip${item.system === activeSystem ? " active" : ""}" data-division-system="${escapeHtml(item.system)}" role="tab">${escapeHtml(item.label)}</button>`).join("")}
+  </div>`;
+}
+
+function renderDivisionHistoryContext(series, activeSystem) {
+  if (!series || !series.length) return "";
+  const active = series.find((item) => item.system === activeSystem) || series[0];
+  const otherLabels = series.filter((item) => item.system !== (active && active.system)).map((item) => escapeHtml(item.label));
+  return `<p class="chart-context">
+    Showing divisional Elo for <strong>${escapeHtml(active ? active.label : "Unknown")}</strong>${otherLabels.length ? ` with other division history available: ${otherLabels.join(" / ")}` : ""}.
+  </p>`;
 }
 
 function renderEloChart(primaryDivisionSeries, overallHistory, fighter) {
@@ -632,7 +658,7 @@ function makeTicks(min, max, count) {
 
 function renderFightLog(logs) {
   return renderTable(
-    ["Date", "Opponent", "Result", "Elo", "Change", "Opp. Elo", "Event"],
+    ["Date", "Opponent", "Result", "Elo", "Change", "Opp. Elo", "Promotion", "Event"],
     logs.map((item) => {
       const isRed = item.red_name !== item.opponent;
       let result = "NC";
@@ -646,10 +672,30 @@ function renderFightLog(logs) {
         `${fmt(item.pre_elo)} -> ${fmt(item.post_elo)}`,
         signed(item.elo_delta),
         fmt(item.opponent_elo),
+        escapeHtml(promotionName(item)),
         `${escapeHtml(displayEventName(item.event_name))}<br><span class="muted">${escapeHtml(item.method)}</span>`,
       ]);
     })
   );
+}
+
+function promotionName(item) {
+  const eventName = String(item.event_name || "").trim();
+  if (!eventName) return item.source || "-";
+  const colonPrefix = eventName.split(":")[0].trim();
+  if (/^ufc\b/i.test(colonPrefix)) return "UFC";
+  if (/^bellator\b/i.test(colonPrefix)) return "Bellator";
+  if (/^pfl\b/i.test(colonPrefix)) return "PFL";
+  if (/^rizin\b/i.test(colonPrefix)) return "Rizin";
+  if (/^dream\b/i.test(colonPrefix)) return "DREAM";
+  if (/^cage warriors\b/i.test(colonPrefix)) return "Cage Warriors";
+  if (/^lfa\b/i.test(colonPrefix)) return "LFA";
+  if (/^one\b/i.test(colonPrefix)) return "ONE";
+  if (/^oktagon\b/i.test(colonPrefix)) return "OKTAGON";
+  if (/^ksw\b/i.test(colonPrefix)) return "KSW";
+  if (colonPrefix) return colonPrefix;
+  const token = eventName.split(/\s+/)[0];
+  return token || (item.source || "-");
 }
 
 const renderers = {

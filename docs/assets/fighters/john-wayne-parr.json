@@ -1,29 +1,8 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1245,
-  "fight_count": 2,
-  "fight_log": [
-    {
-      "blue_name": "John Wayne Parr",
-      "bout_type": "Lightweight Muay Thai Bout",
-      "date": "2022-03-26",
-      "elo_delta": -17.2,
-      "event_name": "ONE X: 10 Years Anniversary",
-      "fight_id": "879346cd84578963",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Eduard Folayang",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1467.6,
-      "pre_elo": 1484.8,
-      "red_name": "Eduard Folayang",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Lightweight"
-    }
-  ],
+  "divisional_rank": null,
+  "fight_count": 1,
+  "fight_log": [],
   "first_fight_date": "2019-08-18",
   "gender": "men",
   "history": [
@@ -33,33 +12,19 @@
       "rating": 1484.8,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2022-03-26",
-      "fight_id": "879346cd84578963",
-      "rating": 1467.6,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2022-03-26",
-      "fight_id": "879346cd84578963",
-      "rating": 1469.5,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2022-03-26",
+  "last_fight_date": "2019-08-18",
   "name": "John Wayne Parr",
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
   "slug": "john-wayne-parr",
   "systems": {
-    "division": "men:Lightweight",
+    "division": "men:Catch Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Lightweight"
+  "weight_class": "Catch Weight"
 }

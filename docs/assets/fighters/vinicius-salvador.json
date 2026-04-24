@@ -1,6 +1,6 @@
 {
   "current_elo": 1464.9,
-  "divisional_rank": 1111,
+  "divisional_rank": 995,
   "fight_count": 3,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Adrian Yanez",
-      "opponent_elo": 1549.6,
+      "opponent_elo": 1549.7,
       "outcome": "red_win",
       "post_elo": 1454.3,
       "pre_elo": 1469.4,
       "red_name": "Adrian Yanez",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:47",
       "weight_class": "Bantamweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1482.9,
       "red_name": "Cj Vergara",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Victor Altamirano",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     }

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 311,
+  "divisional_rank": 222,
   "fight_count": 2,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Ismail Khan",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1500.6,
-      "pre_elo": 1518.6,
+      "post_elo": 1501.4,
+      "pre_elo": 1519.4,
       "red_name": "Ismail Khan",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Friday Fights 45",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Torepchi Dongak",
       "bout_type": "Flyweight Bout",
       "date": "2023-09-15",
-      "elo_delta": 18.6,
+      "elo_delta": 19.4,
       "event_name": "ONE Friday Fights 33: Yod-IQ vs. Balyko",
       "fight_id": "09a223e8cec09bd5",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Torepchi Dongak",
-      "opponent_elo": 1484.7,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1518.6,
+      "post_elo": 1519.4,
       "pre_elo": 1500.0,
       "red_name": "Rabindra Dhant",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Friday Fights 33",
       "time": "1:55",
       "weight_class": "Flyweight"
     }
@@ -50,28 +54,28 @@
     {
       "date": "2023-09-15",
       "fight_id": "09a223e8cec09bd5",
-      "rating": 1518.6,
+      "rating": 1519.4,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2023-09-15",
       "fight_id": "09a223e8cec09bd5",
-      "rating": 1516.5,
+      "rating": 1517.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-12-15",
       "fight_id": "51ed92b4575e6ad7",
-      "rating": 1500.6,
+      "rating": 1501.4,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2023-12-15",
       "fight_id": "51ed92b4575e6ad7",
-      "rating": 1500.6,
+      "rating": 1501.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -82,7 +86,7 @@
   "name": "Rabindra Dhant",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1518.6,
+  "peak_elo": 1519.4,
   "slug": "rabindra-dhant",
   "systems": {
     "division": "men:Flyweight",

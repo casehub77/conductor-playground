@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 606,
+  "divisional_rank": 618,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Tae Hyun Lee",
       "bout_type": "Heavyweight Bout",
       "date": "2008-06-15",
-      "elo_delta": -15.3,
+      "elo_delta": -15.0,
       "event_name": "Dream 4: Middleweight Grand Prix 2008 2nd Round",
       "fight_id": "7a418884a31ac909",
       "gender": "men",
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Alistair Overeem",
-      "opponent_elo": 1555.2,
+      "opponent_elo": 1561.1,
       "outcome": "red_win",
-      "post_elo": 1464.4,
+      "post_elo": 1464.7,
       "pre_elo": 1479.6,
       "red_name": "Alistair Overeem",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 4",
       "time": "0:36",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Ricardo Morais",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict Absolute",
       "time": "8:08",
       "weight_class": "Heavyweight"
     }
@@ -64,14 +68,14 @@
     {
       "date": "2008-06-15",
       "fight_id": "7a418884a31ac909",
-      "rating": 1464.4,
+      "rating": 1464.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2008-06-15",
       "fight_id": "7a418884a31ac909",
-      "rating": 1468.1,
+      "rating": 1468.4,
       "scope": "overall",
       "system": "men:overall"
     }

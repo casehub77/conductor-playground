@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 263,
+  "divisional_rank": 267,
   "fight_count": 19,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1491.3,
       "red_name": "Satoshi Ishii",
       "round": "2",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
       "time": "15:00",
       "weight_class": "Heavyweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Heath Herring",
       "bout_type": "Open Weight Bout",
       "date": "2016-12-29",
-      "elo_delta": -21.4,
+      "elo_delta": -21.5,
       "event_name": "Rizin World Grand-Prix 2016: 2nd Round",
       "fight_id": "be4abeaba0058cb1",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Amir Aliakbari",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1564.7,
-      "pre_elo": 1586.1,
+      "post_elo": 1565.4,
+      "pre_elo": 1586.9,
       "red_name": "Amir Aliakbari",
       "round": "2",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
       "time": "10:00",
       "weight_class": "Open Weight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Brock Lesnar",
-      "opponent_elo": 1484.9,
+      "opponent_elo": 1485.0,
       "outcome": "red_win",
       "post_elo": 1491.3,
       "pre_elo": 1510.6,
       "red_name": "Brock Lesnar",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1489.4,
       "red_name": "Heath Herring",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1507.8,
       "red_name": "Antonio Rodrigo Nogueira",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1488.9,
       "red_name": "Heath Herring",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1504.4,
       "red_name": "Jake O'Brien",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -156,10 +170,12 @@
       "opponent": "Hirotaka Yokoi",
       "opponent_elo": 1522.1,
       "outcome": "red_win",
-      "post_elo": 1586.1,
-      "pre_elo": 1569.3,
+      "post_elo": 1586.9,
+      "pre_elo": 1570.1,
       "red_name": "Heath Herring",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 28",
       "time": "1:55",
       "weight_class": "Open Weight"
     },
@@ -176,10 +192,12 @@
       "opponent": "Antônio Rodrigo Nogueira",
       "opponent_elo": 1629.1,
       "outcome": "red_win",
-      "post_elo": 1569.3,
-      "pre_elo": 1586.4,
+      "post_elo": 1570.1,
+      "pre_elo": 1587.2,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2004",
       "time": "0:30",
       "weight_class": "Open Weight"
     },
@@ -196,10 +214,12 @@
       "opponent": "Kazuo Takahashi",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1586.4,
-      "pre_elo": 1570.8,
+      "post_elo": 1587.2,
+      "pre_elo": 1571.7,
       "red_name": "Heath Herring",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2004",
       "time": "4:53",
       "weight_class": "Open Weight"
     },
@@ -207,19 +227,21 @@
       "blue_name": "Gan McGee",
       "bout_type": "Open Weight Bout",
       "date": "2004-02-01",
-      "elo_delta": 17.2,
+      "elo_delta": 18.1,
       "event_name": "Pride 27",
       "fight_id": "40ec0ba9022f8262",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Split)",
       "opponent": "Gan McGee",
-      "opponent_elo": 1537.8,
+      "opponent_elo": 1555.3,
       "outcome": "red_win",
-      "post_elo": 1570.8,
+      "post_elo": 1571.7,
       "pre_elo": 1553.7,
       "red_name": "Heath Herring",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 27",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1536.2,
       "red_name": "Heath Herring",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2003",
       "time": "0:35",
       "weight_class": "Open Weight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1518.8,
       "red_name": "Heath Herring",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2003",
       "time": "2:29",
       "weight_class": "Open Weight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1539.0,
       "red_name": "Mirko Cro Cop",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 26",
       "time": "3:17",
       "weight_class": "Open Weight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1560.6,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 23",
       "time": "10:00",
       "weight_class": "Open Weight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1543.6,
       "red_name": "Heath Herring",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 22",
       "time": "7:31",
       "weight_class": "Open Weight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1524.2,
       "red_name": "Heath Herring",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 19",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1521.4,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 17",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1500.0,
       "red_name": "Heath Herring",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 15",
       "time": "4:56",
       "weight_class": "Open Weight"
     }
@@ -502,56 +540,56 @@
     {
       "date": "2004-02-01",
       "fight_id": "40ec0ba9022f8262",
-      "rating": 1570.8,
+      "rating": 1571.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2004-02-01",
       "fight_id": "40ec0ba9022f8262",
-      "rating": 1552.9,
+      "rating": 1553.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2004-04-25",
       "fight_id": "cb6d63a01c6a0fed",
-      "rating": 1586.4,
+      "rating": 1587.2,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2004-04-25",
       "fight_id": "cb6d63a01c6a0fed",
-      "rating": 1567.6,
+      "rating": 1568.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2004-06-20",
       "fight_id": "41592a6c97fe6209",
-      "rating": 1569.3,
+      "rating": 1570.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2004-06-20",
       "fight_id": "41592a6c97fe6209",
-      "rating": 1553.0,
+      "rating": 1553.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2004-10-31",
       "fight_id": "578a911b0a88d6b4",
-      "rating": 1586.1,
+      "rating": 1586.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2004-10-31",
       "fight_id": "578a911b0a88d6b4",
-      "rating": 1568.7,
+      "rating": 1569.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -565,7 +603,7 @@
     {
       "date": "2007-01-25",
       "fight_id": "255e205d054c8af2",
-      "rating": 1551.7,
+      "rating": 1552.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -579,7 +617,7 @@
     {
       "date": "2007-04-07",
       "fight_id": "c7e1f973fb3c1aa5",
-      "rating": 1565.9,
+      "rating": 1566.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -593,7 +631,7 @@
     {
       "date": "2007-07-07",
       "fight_id": "827a4e75389992cc",
-      "rating": 1546.9,
+      "rating": 1547.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -607,7 +645,7 @@
     {
       "date": "2008-03-01",
       "fight_id": "c901531327708eff",
-      "rating": 1562.8,
+      "rating": 1563.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -621,21 +659,21 @@
     {
       "date": "2008-08-09",
       "fight_id": "82c24437c8f61d55",
-      "rating": 1543.4,
+      "rating": 1543.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2016-12-29",
       "fight_id": "be4abeaba0058cb1",
-      "rating": 1564.7,
+      "rating": 1565.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2016-12-29",
       "fight_id": "be4abeaba0058cb1",
-      "rating": 1526.2,
+      "rating": 1526.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -649,7 +687,7 @@
     {
       "date": "2017-04-16",
       "fight_id": "726466496930ebe5",
-      "rating": 1509.0,
+      "rating": 1509.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -660,7 +698,7 @@
   "name": "Heath Herring",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1586.4,
+  "peak_elo": 1587.2,
   "slug": "heath-herring",
   "systems": {
     "division": "men:Heavyweight",

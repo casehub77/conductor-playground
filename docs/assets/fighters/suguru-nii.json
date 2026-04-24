@@ -1,6 +1,6 @@
 {
-  "current_elo": 1438.0,
-  "divisional_rank": 1253,
+  "current_elo": 1437.4,
+  "divisional_rank": 1195,
   "fight_count": 8,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Kyoma Akimoto",
       "opponent_elo": 1572.0,
       "outcome": "red_win",
-      "post_elo": 1438.0,
-      "pre_elo": 1450.9,
+      "post_elo": 1437.4,
+      "pre_elo": 1450.3,
       "red_name": "Kyoma Akimoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "3:45",
       "weight_class": "Featherweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Ilkhom Nazimov",
       "opponent_elo": 1537.0,
       "outcome": "red_win",
-      "post_elo": 1450.9,
-      "pre_elo": 1466.4,
+      "post_elo": 1450.3,
+      "pre_elo": 1465.8,
       "red_name": "Ilkhom Nazimov",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "2:09",
       "weight_class": "Featherweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Suguru Nii",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2024-12-31",
-      "elo_delta": -17.6,
+      "elo_delta": -18.3,
       "event_name": "Rizin 49: Decade",
       "fight_id": "487cf343afba1e68",
       "gender": "men",
       "is_title": false,
       "method": "Technical Decision (unanimous)",
       "opponent": "Koji Takeda",
-      "opponent_elo": 1490.9,
+      "opponent_elo": 1478.9,
       "outcome": "red_win",
-      "post_elo": 1466.4,
+      "post_elo": 1465.8,
       "pre_elo": 1484.1,
       "red_name": "Koji Takeda",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "4:09",
       "weight_class": "Featherweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1505.4,
       "red_name": "Kazumasa Majima",
       "round": "2",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "3:11",
       "weight_class": "Featherweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1483.6,
       "red_name": "Suguru Nii",
       "round": "2",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "1:03",
       "weight_class": "Featherweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1462.0,
       "red_name": "Suguru Nii",
       "round": "1",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "2:32",
       "weight_class": "Featherweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1481.5,
       "red_name": "Sora Yamamoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "0:35",
       "weight_class": "Featherweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Daisuke Nakamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "2:16",
       "weight_class": "Featherweight"
     }
@@ -240,42 +256,42 @@
     {
       "date": "2024-12-31",
       "fight_id": "487cf343afba1e68",
-      "rating": 1466.4,
+      "rating": 1465.8,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2024-12-31",
       "fight_id": "487cf343afba1e68",
-      "rating": 1469.8,
+      "rating": 1469.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-06-14",
       "fight_id": "e60cd22ffda24b09",
-      "rating": 1450.9,
+      "rating": 1450.3,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-06-14",
       "fight_id": "e60cd22ffda24b09",
-      "rating": 1455.7,
+      "rating": 1455.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-31",
       "fight_id": "a212ec5252643a17",
-      "rating": 1438.0,
+      "rating": 1437.4,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-12-31",
       "fight_id": "a212ec5252643a17",
-      "rating": 1443.0,
+      "rating": 1442.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -285,7 +301,7 @@
   "last_fight_date": "2025-12-31",
   "name": "Suguru Nii",
   "nickname": "",
-  "overall_elo": 1443.0,
+  "overall_elo": 1442.5,
   "peak_elo": 1505.4,
   "slug": "suguru-nii",
   "systems": {

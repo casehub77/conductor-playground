@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 208,
+  "divisional_rank": 206,
   "fight_count": 9,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1480.6,
       "outcome": "red_win",
       "post_elo": 1511.9,
-      "pre_elo": 1534.3,
+      "pre_elo": 1534.4,
       "red_name": "Neil Grove",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 24",
       "time": "1:32",
       "weight_class": "Heavyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Marcus Sursa",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1534.3,
+      "post_elo": 1534.4,
       "pre_elo": 1515.8,
       "red_name": "Eddie Sanchez",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 20",
       "time": "0:23",
       "weight_class": "Heavyweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1462.2,
       "outcome": "red_win",
       "post_elo": 1515.8,
-      "pre_elo": 1498.3,
+      "pre_elo": 1498.4,
       "red_name": "Eddie Sanchez",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 7",
       "time": "0:10",
       "weight_class": "Heavyweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Justin Mccully",
-      "opponent_elo": 1500.2,
+      "opponent_elo": 1500.3,
       "outcome": "red_win",
-      "post_elo": 1498.3,
-      "pre_elo": 1517.2,
+      "post_elo": 1498.4,
+      "pre_elo": 1517.3,
       "red_name": "Justin Mccully",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "Eddie Sanchez",
       "bout_type": "Heavyweight Bout",
       "date": "2008-06-07",
-      "elo_delta": -21.4,
+      "elo_delta": -21.3,
       "event_name": "UFC 85: Bedlam",
       "fight_id": "aa81c015936c524a",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Antoni Hardonk",
-      "opponent_elo": 1503.7,
+      "opponent_elo": 1504.7,
       "outcome": "red_win",
-      "post_elo": 1517.2,
+      "post_elo": 1517.3,
       "pre_elo": 1538.6,
       "red_name": "Antoni Hardonk",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:15",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1521.2,
       "red_name": "Eddie Sanchez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:24",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1501.9,
       "red_name": "Eddie Sanchez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:32",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1521.3,
       "red_name": "Mirko Filipovic",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:33",
       "weight_class": "Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Eddie Sanchez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:17",
       "weight_class": "Heavyweight"
     }
@@ -246,7 +264,7 @@
     {
       "date": "2008-06-07",
       "fight_id": "aa81c015936c524a",
-      "rating": 1517.2,
+      "rating": 1517.3,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -260,7 +278,7 @@
     {
       "date": "2008-12-10",
       "fight_id": "1a4080c5764e06dc",
-      "rating": 1498.3,
+      "rating": 1498.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -281,14 +299,14 @@
     {
       "date": "2009-05-15",
       "fight_id": "8820eae852b94248",
-      "rating": 1514.6,
+      "rating": 1514.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-05-27",
       "fight_id": "953900bd18149f49",
-      "rating": 1534.3,
+      "rating": 1534.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },

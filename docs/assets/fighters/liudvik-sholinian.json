@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 752,
+  "divisional_rank": 687,
   "fight_count": 2,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Johnny Munoz",
-      "opponent_elo": 1484.8,
+      "opponent_elo": 1484.1,
       "outcome": "blue_win",
       "post_elo": 1466.7,
       "pre_elo": 1484.7,
       "red_name": "Liudvik Sholinian",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jack Shore",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -71,7 +75,7 @@
     {
       "date": "2022-11-05",
       "fight_id": "47c9c599647425d3",
-      "rating": 1470.1,
+      "rating": 1470.0,
       "scope": "overall",
       "system": "men:overall"
     }

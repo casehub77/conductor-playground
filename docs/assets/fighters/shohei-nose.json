@@ -1,25 +1,27 @@
 {
-  "current_elo": 1502.6,
-  "divisional_rank": 272,
+  "current_elo": 1501.7,
+  "divisional_rank": 235,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Kenta Takizawa",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2024-02-24",
-      "elo_delta": 18.9,
+      "elo_delta": 18.1,
       "event_name": "Rizin Landmark 8 in Saga",
       "fight_id": "338f97a71059a048",
       "gender": "men",
       "is_title": false,
       "method": "TKO (elbows)",
       "opponent": "Kenta Takizawa",
-      "opponent_elo": 1490.6,
+      "opponent_elo": 1475.6,
       "outcome": "red_win",
-      "post_elo": 1518.9,
+      "post_elo": 1518.1,
       "pre_elo": 1500.0,
       "red_name": "Shohei Nose",
       "round": "2",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "2:48",
       "weight_class": "Bantamweight"
     }
@@ -30,14 +32,14 @@
     {
       "date": "2024-02-24",
       "fight_id": "338f97a71059a048",
-      "rating": 1518.9,
+      "rating": 1518.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-02-24",
       "fight_id": "338f97a71059a048",
-      "rating": 1516.9,
+      "rating": 1516.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -47,8 +49,8 @@
   "last_fight_date": "2024-02-24",
   "name": "Shohei Nose",
   "nickname": "",
-  "overall_elo": 1500.5,
-  "peak_elo": 1518.9,
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.1,
   "slug": "shohei-nose",
   "systems": {
     "division": "men:Bantamweight",

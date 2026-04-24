@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 378,
+  "divisional_rank": 386,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Tra Telligman",
       "bout_type": "Heavyweight Bout",
       "date": "2005-08-20",
-      "elo_delta": -16.4,
+      "elo_delta": -16.3,
       "event_name": "UFC 54: Boiling Point",
       "fight_id": "68a4967e266550b4",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Tim Sylvia",
-      "opponent_elo": 1523.1,
+      "opponent_elo": 1524.1,
       "outcome": "red_win",
-      "post_elo": 1451.4,
+      "post_elo": 1451.5,
       "pre_elo": 1467.8,
       "red_name": "Tim Sylvia",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:59",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "TKO - Doctor's Stoppage",
       "opponent": "Pedro Rizzo",
-      "opponent_elo": 1526.5,
+      "opponent_elo": 1526.6,
       "outcome": "red_win",
       "post_elo": 1467.8,
       "pre_elo": 1484.9,
       "red_name": "Pedro Rizzo",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:24",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1502.2,
       "red_name": "Pedro Rizzo",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:30",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1481.7,
       "red_name": "Tra Telligman",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "10:05",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Vitor Belfort",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:17",
       "weight_class": "Heavyweight"
     }
@@ -166,7 +176,7 @@
     {
       "date": "2005-08-20",
       "fight_id": "68a4967e266550b4",
-      "rating": 1451.4,
+      "rating": 1451.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },

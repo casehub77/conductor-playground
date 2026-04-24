@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 741,
+  "divisional_rank": 736,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Gustavo Falciroli",
       "bout_type": "Open Weight Bout",
       "date": "2010-11-19",
-      "elo_delta": -12.6,
+      "elo_delta": -12.7,
       "event_name": "Shooto: The Way of Shooto 6: Like a Tiger, Like a Dragon",
       "fight_id": "d6f737ed1d7d5c2d",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Taiki Tsuchiya",
-      "opponent_elo": 1609.5,
+      "opponent_elo": 1607.8,
       "outcome": "red_win",
-      "post_elo": 1490.1,
+      "post_elo": 1490.0,
       "pre_elo": 1502.8,
       "red_name": "Taiki Tsuchiya",
       "round": "3",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1518.1,
       "red_name": "Issei Tamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Gustavo Falciroli",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "4:55",
       "weight_class": "Open Weight"
     }
@@ -98,14 +104,14 @@
     {
       "date": "2010-11-19",
       "fight_id": "d6f737ed1d7d5c2d",
-      "rating": 1490.1,
+      "rating": 1490.0,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-11-19",
       "fight_id": "d6f737ed1d7d5c2d",
-      "rating": 1490.6,
+      "rating": 1490.5,
       "scope": "overall",
       "system": "men:overall"
     }

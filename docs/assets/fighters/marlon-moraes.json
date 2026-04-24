@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 308,
+  "divisional_rank": 266,
   "fight_count": 11,
   "fight_log": [
     {
       "blue_name": "Song Yadong",
       "bout_type": "Bantamweight Bout",
       "date": "2022-03-12",
-      "elo_delta": -15.7,
+      "elo_delta": -15.8,
       "event_name": "UFC Fight Night: Santos vs. Ankalaev",
       "fight_id": "ebd89676192be020",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Song Yadong",
-      "opponent_elo": 1588.8,
+      "opponent_elo": 1588.9,
       "outcome": "blue_win",
-      "post_elo": 1506.2,
-      "pre_elo": 1521.9,
+      "post_elo": 1508.1,
+      "pre_elo": 1523.9,
       "red_name": "Marlon Moraes",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:06",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Merab Dvalishvili",
       "bout_type": "Bantamweight Bout",
       "date": "2021-09-25",
-      "elo_delta": -17.5,
+      "elo_delta": -15.5,
       "event_name": "UFC 266: Volkanovski vs. Ortega",
       "fight_id": "bec3235f912b87b7",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Merab Dvalishvili",
-      "opponent_elo": 1574.5,
+      "opponent_elo": 1611.4,
       "outcome": "blue_win",
-      "post_elo": 1521.9,
+      "post_elo": 1523.9,
       "pre_elo": 1539.4,
       "red_name": "Marlon Moraes",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:25",
       "weight_class": "Bantamweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Rob Font",
-      "opponent_elo": 1579.5,
+      "opponent_elo": 1579.6,
       "outcome": "blue_win",
       "post_elo": 1539.4,
       "pre_elo": 1557.6,
       "red_name": "Marlon Moraes",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:47",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1576.8,
       "red_name": "Marlon Moraes",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:03",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1555.7,
       "red_name": "Marlon Moraes",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1580.9,
       "red_name": "Henry Cejudo",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:51",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1556.3,
       "red_name": "Raphael Assuncao",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:17",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1531.8,
       "red_name": "Jimmie Rivera",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:33",
       "weight_class": "Bantamweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1508.5,
       "red_name": "Marlon Moraes",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:07",
       "weight_class": "Bantamweight"
     },
@@ -197,9 +215,11 @@
       "opponent_elo": 1546.9,
       "outcome": "blue_win",
       "post_elo": 1508.5,
-      "pre_elo": 1487.4,
+      "pre_elo": 1487.5,
       "red_name": "John Dodson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -207,7 +227,7 @@
       "blue_name": "Marlon Moraes",
       "bout_type": "Bantamweight Bout",
       "date": "2017-06-03",
-      "elo_delta": -12.6,
+      "elo_delta": -12.5,
       "event_name": "UFC 212: Aldo vs. Holloway",
       "fight_id": "0cc8fd430b21f11d",
       "gender": "men",
@@ -216,10 +236,12 @@
       "opponent": "Raphael Assuncao",
       "opponent_elo": 1608.6,
       "outcome": "red_win",
-      "post_elo": 1487.4,
+      "post_elo": 1487.5,
       "pre_elo": 1500.0,
       "red_name": "Raphael Assuncao",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -230,7 +252,7 @@
     {
       "date": "2017-06-03",
       "fight_id": "0cc8fd430b21f11d",
-      "rating": 1487.4,
+      "rating": 1487.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
@@ -293,7 +315,7 @@
     {
       "date": "2019-02-02",
       "fight_id": "1862a10772df07b2",
-      "rating": 1571.6,
+      "rating": 1571.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -356,28 +378,28 @@
     {
       "date": "2021-09-25",
       "fight_id": "bec3235f912b87b7",
-      "rating": 1521.9,
+      "rating": 1523.9,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-09-25",
       "fight_id": "bec3235f912b87b7",
-      "rating": 1524.5,
+      "rating": 1527.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-03-12",
       "fight_id": "ebd89676192be020",
-      "rating": 1506.2,
+      "rating": 1508.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-03-12",
       "fight_id": "ebd89676192be020",
-      "rating": 1510.7,
+      "rating": 1513.1,
       "scope": "overall",
       "system": "men:overall"
     }

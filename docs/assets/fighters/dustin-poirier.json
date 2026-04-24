@@ -1,13 +1,13 @@
 {
-  "current_elo": 1648.0,
-  "divisional_rank": 9,
+  "current_elo": 1652.1,
+  "divisional_rank": 8,
   "fight_count": 34,
   "fight_log": [
     {
       "blue_name": "Dustin Poirier",
       "bout_type": "Lightweight Bout",
       "date": "2025-07-19",
-      "elo_delta": -16.0,
+      "elo_delta": -16.2,
       "event_name": "UFC 318: Holloway vs. Poirier 3",
       "fight_id": "46e7da4e75f66b89",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Max Holloway",
       "opponent_elo": 1703.4,
       "outcome": "red_win",
-      "post_elo": 1648.0,
-      "pre_elo": 1663.9,
+      "post_elo": 1652.1,
+      "pre_elo": 1668.3,
       "red_name": "Max Holloway",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Dustin Poirier",
       "bout_type": "UFC Lightweight Title Bout",
       "date": "2024-06-01",
-      "elo_delta": -18.8,
+      "elo_delta": -14.5,
       "event_name": "UFC 302: Makhachev vs. Poirier",
       "fight_id": "596bdbf471aa9459",
       "gender": "men",
       "is_title": true,
       "method": "Submission",
       "opponent": "Islam Makhachev",
-      "opponent_elo": 1724.4,
+      "opponent_elo": 1799.0,
       "outcome": "red_win",
-      "post_elo": 1663.9,
-      "pre_elo": 1682.7,
+      "post_elo": 1668.3,
+      "pre_elo": 1682.8,
       "red_name": "Islam Makhachev",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:42",
       "weight_class": "Lightweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Benoit Saint Denis",
-      "opponent_elo": 1584.4,
+      "opponent_elo": 1584.6,
       "outcome": "red_win",
-      "post_elo": 1682.7,
+      "post_elo": 1682.8,
       "pre_elo": 1667.9,
       "red_name": "Dustin Poirier",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:32",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1691.4,
       "red_name": "Dustin Poirier",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:00",
       "weight_class": "Lightweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Michael Chandler",
-      "opponent_elo": 1624.4,
+      "opponent_elo": 1624.5,
       "outcome": "red_win",
       "post_elo": 1691.4,
       "pre_elo": 1674.8,
       "red_name": "Dustin Poirier",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:00",
       "weight_class": "Lightweight"
     },
@@ -114,12 +124,14 @@
       "is_title": true,
       "method": "Submission",
       "opponent": "Charles Oliveira",
-      "opponent_elo": 1688.4,
+      "opponent_elo": 1688.6,
       "outcome": "red_win",
       "post_elo": 1674.8,
       "pre_elo": 1696.7,
       "red_name": "Charles Oliveira",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:02",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1680.7,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1662.7,
       "red_name": "Dustin Poirier",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:32",
       "weight_class": "Lightweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1645.6,
       "red_name": "Dustin Poirier",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1664.8,
       "red_name": "Khabib Nurmagomedov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:06",
       "weight_class": "Lightweight"
     },
@@ -214,12 +234,14 @@
       "is_title": true,
       "method": "Decision - Unanimous",
       "opponent": "Max Holloway",
-      "opponent_elo": 1710.3,
+      "opponent_elo": 1710.2,
       "outcome": "blue_win",
       "post_elo": 1664.8,
       "pre_elo": 1641.2,
       "red_name": "Max Holloway",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1618.2,
       "red_name": "Eddie Alvarez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:05",
       "weight_class": "Lightweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1603.8,
       "red_name": "Dustin Poirier",
       "round": "4.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:33",
       "weight_class": "Lightweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1581.4,
       "red_name": "Dustin Poirier",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:08",
       "weight_class": "Lightweight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1581.4,
       "red_name": "Eddie Alvarez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:02",
       "weight_class": "Lightweight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1558.9,
       "red_name": "Dustin Poirier",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1579.7,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:35",
       "weight_class": "Lightweight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1560.1,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:53",
       "weight_class": "Lightweight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1542.4,
       "red_name": "Dustin Poirier",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1522.7,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:38",
       "weight_class": "Lightweight"
     },
@@ -420,6 +460,8 @@
       "pre_elo": 1502.3,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:45",
       "weight_class": "Lightweight"
     },
@@ -440,6 +482,8 @@
       "pre_elo": 1604.0,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:46",
       "weight_class": "Featherweight"
     },
@@ -460,6 +504,8 @@
       "pre_elo": 1586.4,
       "red_name": "Dustin Poirier",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:42",
       "weight_class": "Featherweight"
     },
@@ -480,6 +526,8 @@
       "pre_elo": 1567.7,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:54",
       "weight_class": "Featherweight"
     },
@@ -494,12 +542,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Erik Koch",
-      "opponent_elo": 1550.2,
+      "opponent_elo": 1550.1,
       "outcome": "blue_win",
       "post_elo": 1567.7,
       "pre_elo": 1549.7,
       "red_name": "Erik Koch",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -520,6 +570,8 @@
       "pre_elo": 1567.9,
       "red_name": "Cub Swanson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -540,6 +592,8 @@
       "pre_elo": 1552.6,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:15",
       "weight_class": "Featherweight"
     },
@@ -560,6 +614,8 @@
       "pre_elo": 1575.8,
       "red_name": "Chan Sung Jung",
       "round": "4.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:07",
       "weight_class": "Featherweight"
     },
@@ -580,6 +636,8 @@
       "pre_elo": 1559.6,
       "red_name": "Dustin Poirier",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:23",
       "weight_class": "Featherweight"
     },
@@ -600,6 +658,8 @@
       "pre_elo": 1541.3,
       "red_name": "Dustin Poirier",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:32",
       "weight_class": "Featherweight"
     },
@@ -620,6 +680,8 @@
       "pre_elo": 1523.7,
       "red_name": "Dustin Poirier",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -640,6 +702,8 @@
       "pre_elo": 1501.9,
       "red_name": "Dustin Poirier",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -660,6 +724,8 @@
       "pre_elo": 1482.0,
       "red_name": "Dustin Poirier",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 52",
       "time": "0:53",
       "weight_class": "Lightweight"
     },
@@ -680,6 +746,8 @@
       "pre_elo": 1500.0,
       "red_name": "Danny Castillo",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 50",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -1124,7 +1192,7 @@
     {
       "date": "2024-03-09",
       "fight_id": "be3b789de341f682",
-      "rating": 1682.7,
+      "rating": 1682.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
@@ -1138,28 +1206,28 @@
     {
       "date": "2024-06-01",
       "fight_id": "596bdbf471aa9459",
-      "rating": 1663.9,
+      "rating": 1668.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2024-06-01",
       "fight_id": "596bdbf471aa9459",
-      "rating": 1680.1,
+      "rating": 1684.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-07-19",
       "fight_id": "46e7da4e75f66b89",
-      "rating": 1648.0,
+      "rating": 1652.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-07-19",
       "fight_id": "46e7da4e75f66b89",
-      "rating": 1664.5,
+      "rating": 1668.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -1169,7 +1237,7 @@
   "last_fight_date": "2025-07-19",
   "name": "Dustin Poirier",
   "nickname": "",
-  "overall_elo": 1664.5,
+  "overall_elo": 1668.2,
   "peak_elo": 1715.2,
   "slug": "dustin-poirier",
   "systems": {

@@ -1,6 +1,6 @@
 {
-  "current_elo": 1481.6,
-  "divisional_rank": 1155,
+  "current_elo": 1481.8,
+  "divisional_rank": 1140,
   "fight_count": 11,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Song Kenan",
       "opponent_elo": 1508.1,
       "outcome": "red_win",
-      "post_elo": 1477.2,
-      "pre_elo": 1494.5,
+      "post_elo": 1477.4,
+      "pre_elo": 1494.7,
       "red_name": "Song Kenan",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Ricky Glenn",
       "bout_type": "Lightweight Bout",
       "date": "2023-10-07",
-      "elo_delta": -14.3,
+      "elo_delta": -14.0,
       "event_name": "UFC Fight Night: Dawson vs. Green",
       "fight_id": "27dcce6da9f4e697",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Drew Dober",
-      "opponent_elo": 1586.2,
+      "opponent_elo": 1590.7,
       "outcome": "red_win",
-      "post_elo": 1477.4,
+      "post_elo": 1477.7,
       "pre_elo": 1491.7,
       "red_name": "Drew Dober",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:36",
       "weight_class": "Lightweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Christos Giagos",
-      "opponent_elo": 1497.9,
+      "opponent_elo": 1498.4,
       "outcome": "blue_win",
       "post_elo": 1491.7,
       "pre_elo": 1511.9,
       "red_name": "Ricky Glenn",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:35",
       "weight_class": "Lightweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision - Majority",
       "opponent": "Grant Dawson",
-      "opponent_elo": 1585.3,
+      "opponent_elo": 1585.4,
       "outcome": "draw",
       "post_elo": 1511.9,
       "pre_elo": 1508.0,
       "red_name": "Grant Dawson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1486.1,
       "red_name": "Joaquim Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:37",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1526.5,
       "red_name": "Ricky Glenn",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1506.5,
       "red_name": "Dennis Bermudez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1521.2,
       "red_name": "Myles Jury",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1502.5,
       "red_name": "Gavin Tucker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1487.2,
       "red_name": "Ricky Glenn",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Evan Dunham",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -356,28 +378,28 @@
     {
       "date": "2023-10-07",
       "fight_id": "27dcce6da9f4e697",
-      "rating": 1477.4,
+      "rating": 1477.7,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-10-07",
       "fight_id": "27dcce6da9f4e697",
-      "rating": 1494.5,
+      "rating": 1494.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-08-17",
       "fight_id": "ead581c7bbec76b4",
-      "rating": 1477.2,
+      "rating": 1477.4,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2024-08-17",
       "fight_id": "ead581c7bbec76b4",
-      "rating": 1479.1,
+      "rating": 1479.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -387,7 +409,7 @@
   "last_fight_date": "2024-08-17",
   "name": "Ricky Glenn",
   "nickname": "",
-  "overall_elo": 1483.5,
+  "overall_elo": 1483.7,
   "peak_elo": 1527.0,
   "slug": "ricky-glenn",
   "systems": {

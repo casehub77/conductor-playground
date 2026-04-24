@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 669,
+  "divisional_rank": 638,
   "fight_count": 6,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1502.0,
       "red_name": "Chase Hooper",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:00",
       "weight_class": "Featherweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Chris Gutierrez",
       "opponent_elo": 1537.3,
       "outcome": "red_win",
-      "post_elo": 1470.4,
+      "post_elo": 1470.5,
       "pre_elo": 1485.8,
       "red_name": "Chris Gutierrez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1482.0,
       "red_name": "Luke Sanders",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Montel Jackson",
-      "opponent_elo": 1521.6,
+      "opponent_elo": 1521.7,
       "outcome": "red_win",
       "post_elo": 1485.8,
       "pre_elo": 1502.8,
       "red_name": "Montel Jackson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1484.0,
       "red_name": "Domingo Pilarte",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Geraldo De Freitas",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -186,7 +198,7 @@
     {
       "date": "2021-10-09",
       "fight_id": "1513ce61634cc6c4",
-      "rating": 1470.4,
+      "rating": 1470.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },

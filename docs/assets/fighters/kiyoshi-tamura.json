@@ -1,28 +1,8 @@
 {
   "current_elo": 1500.0,
   "divisional_rank": 563,
-  "fight_count": 10,
+  "fight_count": 9,
   "fight_log": [
-    {
-      "blue_name": "Kiyoshi Tamura",
-      "bout_type": "Catch Weight Bout",
-      "date": "2016-04-17",
-      "elo_delta": -2.4,
-      "event_name": "Rizin Fighting Federation 1",
-      "fight_id": "05b698d8db61fb8b",
-      "gender": "men",
-      "is_title": false,
-      "method": "Draw",
-      "opponent": "Hideo Tokoro",
-      "opponent_elo": 1467.6,
-      "outcome": "draw",
-      "post_elo": 1512.3,
-      "pre_elo": 1514.8,
-      "red_name": "Hideo Tokoro",
-      "round": "1",
-      "time": "15:00",
-      "weight_class": "Catch Weight"
-    },
     {
       "blue_name": "Masakatsu Funaki",
       "bout_type": "Middleweight Bout",
@@ -40,6 +20,8 @@
       "pre_elo": 1482.1,
       "red_name": "Kiyoshi Tamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 2",
       "time": "0:57",
       "weight_class": "Middleweight"
     },
@@ -60,6 +42,8 @@
       "pre_elo": 1524.4,
       "red_name": "Kiyoshi Tamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2006",
       "time": "1:18",
       "weight_class": "Welterweight"
     },
@@ -74,12 +58,14 @@
       "is_title": false,
       "method": "Submission (Armbar)",
       "opponent": "Antônio Rodrigo Nogueira",
-      "opponent_elo": 1671.6,
+      "opponent_elo": 1671.7,
       "outcome": "red_win",
       "post_elo": 1514.8,
       "pre_elo": 1526.5,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 31",
       "time": "2:24",
       "weight_class": "Open Weight"
     },
@@ -100,6 +86,8 @@
       "pre_elo": 1508.0,
       "red_name": "Kiyoshi Tamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2005",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +108,8 @@
       "pre_elo": 1505.2,
       "red_name": "Kiyoshi Tamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 29",
       "time": "7:09",
       "weight_class": "Welterweight"
     },
@@ -140,6 +130,8 @@
       "pre_elo": 1487.9,
       "red_name": "Kiyoshi Tamura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2003",
       "time": "2:20",
       "weight_class": "Open Weight"
     },
@@ -160,6 +152,8 @@
       "pre_elo": 1467.1,
       "red_name": "Kiyoshi Tamura",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 23",
       "time": "1:00",
       "weight_class": "Open Weight"
     },
@@ -180,6 +174,8 @@
       "pre_elo": 1484.6,
       "red_name": "Bob Sapp",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 21",
       "time": "0:11",
       "weight_class": "Open Weight"
     },
@@ -200,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Wanderlei Silva",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 19",
       "time": "2:28",
       "weight_class": "Middleweight"
     }
@@ -332,25 +330,11 @@
       "rating": 1561.0,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2016-04-17",
-      "fight_id": "05b698d8db61fb8b",
-      "rating": 1512.3,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2016-04-17",
-      "fight_id": "05b698d8db61fb8b",
-      "rating": 1557.4,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2016-04-17",
+  "last_fight_date": "2008-04-29",
   "name": "Kiyoshi Tamura",
   "nickname": "",
   "overall_elo": 1500.0,

@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1502,
+  "divisional_rank": 1495,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Osunaarashi",
       "bout_type": "Open Weight Bout",
       "date": "2018-09-30",
-      "elo_delta": -16.1,
+      "elo_delta": -17.0,
       "event_name": "Rizin 13 - Saitama",
       "fight_id": "24df367ea65665c2",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Bob Sapp",
-      "opponent_elo": 1536.1,
+      "opponent_elo": 1519.1,
       "outcome": "red_win",
-      "post_elo": 1483.9,
+      "post_elo": 1483.0,
       "pre_elo": 1500.0,
       "red_name": "Bob Sapp",
       "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
       "time": "9:00",
       "weight_class": "Open Weight"
     }
@@ -30,14 +32,14 @@
     {
       "date": "2018-09-30",
       "fight_id": "24df367ea65665c2",
-      "rating": 1483.9,
+      "rating": 1483.0,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2018-09-30",
       "fight_id": "24df367ea65665c2",
-      "rating": 1483.2,
+      "rating": 1482.4,
       "scope": "overall",
       "system": "men:overall"
     }

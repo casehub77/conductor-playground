@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 360,
+  "divisional_rank": 364,
   "fight_count": 6,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Jake O'Brien",
-      "opponent_elo": 1529.9,
+      "opponent_elo": 1530.0,
       "outcome": "red_win",
       "post_elo": 1496.7,
       "pre_elo": 1513.9,
       "red_name": "Jake O'Brien",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1535.5,
       "red_name": "Shane Carwin",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:44",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1517.1,
       "red_name": "Christian Wellisch",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:19",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1499.9,
       "red_name": "Christian Wellisch",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1519.4,
       "red_name": "Cheick Kongo",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:51",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Christian Wellisch",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 4",
       "time": "3:42",
       "weight_class": "Heavyweight"
     }

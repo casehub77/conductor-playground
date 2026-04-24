@@ -1,6 +1,6 @@
 {
   "current_elo": 1620.3,
-  "divisional_rank": 13,
+  "divisional_rank": 11,
   "fight_count": 12,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1599.8,
       "red_name": "Arnold Allen",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1621.5,
       "red_name": "Diego Lopes",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:48",
       "weight_class": "Featherweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1602.4,
       "red_name": "Bryce Mitchell",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:52",
       "weight_class": "Featherweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1585.9,
       "red_name": "Jean Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:15",
       "weight_class": "Featherweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "Jean Silva",
       "bout_type": "Lightweight Bout",
       "date": "2024-07-13",
-      "elo_delta": 19.4,
+      "elo_delta": 19.6,
       "event_name": "UFC Fight Night: Namajunas vs. Cortez",
       "fight_id": "5e768abbb778ea62",
       "gender": "men",
       "is_title": false,
       "method": "TKO - Doctor's Stoppage",
       "opponent": "Drew Dober",
-      "opponent_elo": 1581.7,
+      "opponent_elo": 1585.8,
       "outcome": "blue_win",
-      "post_elo": 1601.7,
+      "post_elo": 1601.9,
       "pre_elo": 1582.2,
       "red_name": "Drew Dober",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:28",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1569.1,
       "red_name": "Charles Jourdain",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:22",
       "weight_class": "Featherweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1553.7,
       "red_name": "Westin Wilson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:12",
       "weight_class": "Featherweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1572.6,
       "red_name": "Takanori Gomi",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Bushido 8",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1554.1,
       "red_name": "Jean Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Cage Warriors",
       "time": "2:20",
       "weight_class": "Open Weight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1537.8,
       "red_name": "Jean Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Cage Warriors",
       "time": "N/A",
       "weight_class": "Open Weight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1519.4,
       "red_name": "Jean Silva",
       "round": "3",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
       "time": "N/A",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jean Silva",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
       "time": "3:00",
       "weight_class": "Open Weight"
     }
@@ -348,14 +372,14 @@
     {
       "date": "2024-07-13",
       "fight_id": "5e768abbb778ea62",
-      "rating": 1601.7,
+      "rating": 1601.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2024-07-13",
       "fight_id": "5e768abbb778ea62",
-      "rating": 1599.3,
+      "rating": 1599.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -369,7 +393,7 @@
     {
       "date": "2025-02-22",
       "fight_id": "61cacdad9c0610ae",
-      "rating": 1613.2,
+      "rating": 1613.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -383,7 +407,7 @@
     {
       "date": "2025-04-12",
       "fight_id": "c72654491e4e03c2",
-      "rating": 1629.2,
+      "rating": 1629.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -397,7 +421,7 @@
     {
       "date": "2025-09-13",
       "fight_id": "ace3f9b765482057",
-      "rating": 1608.9,
+      "rating": 1609.1,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -411,7 +435,7 @@
     {
       "date": "2026-01-24",
       "fight_id": "9a591b98f74a2bc8",
-      "rating": 1626.2,
+      "rating": 1626.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -421,8 +445,8 @@
   "last_fight_date": "2026-01-24",
   "name": "Jean Silva",
   "nickname": "",
-  "overall_elo": 1626.2,
-  "peak_elo": 1629.2,
+  "overall_elo": 1626.4,
+  "peak_elo": 1629.3,
   "slug": "jean-silva",
   "systems": {
     "division": "men:Featherweight",

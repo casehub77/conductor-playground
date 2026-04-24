@@ -1,6 +1,6 @@
 {
-  "current_elo": 1553.3,
-  "divisional_rank": 38,
+  "current_elo": 1553.4,
+  "divisional_rank": 36,
   "fight_count": 12,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Guilherme Pat",
       "opponent_elo": 1518.0,
       "outcome": "blue_win",
-      "post_elo": 1553.3,
+      "post_elo": 1553.4,
       "pre_elo": 1536.3,
       "red_name": "Guilherme Pat",
       "round": "3",
+      "source": "ufc:official",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1542.6,
       "outcome": "red_win",
       "post_elo": 1536.3,
-      "pre_elo": 1556.5,
+      "pre_elo": 1556.6,
       "red_name": "Vitor Petrino",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:26",
       "weight_class": "Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Don'Tale Mayes",
-      "opponent_elo": 1474.2,
+      "opponent_elo": 1474.3,
       "outcome": "red_win",
-      "post_elo": 1556.5,
+      "post_elo": 1556.6,
       "pre_elo": 1542.0,
       "red_name": "Thomas Petersen",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -77,9 +83,11 @@
       "opponent_elo": 1524.0,
       "outcome": "red_win",
       "post_elo": 1542.0,
-      "pre_elo": 1563.6,
+      "pre_elo": 1563.7,
       "red_name": "Shamil Gaziev",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:12",
       "weight_class": "Heavyweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "Thomas Petersen",
       "bout_type": "Heavyweight Bout",
       "date": "2024-07-20",
-      "elo_delta": 17.3,
+      "elo_delta": 17.4,
       "event_name": "UFC Fight Night: Lemos vs. Jandiroba",
       "fight_id": "677fa903547838ce",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Mohammed Usman",
-      "opponent_elo": 1532.9,
+      "opponent_elo": 1534.0,
       "outcome": "blue_win",
-      "post_elo": 1563.6,
+      "post_elo": 1563.7,
       "pre_elo": 1546.3,
       "red_name": "Mohammed Usman",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1567.8,
       "red_name": "Thomas Petersen",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1551.2,
       "red_name": "Thomas Petersen",
       "round": "1",
+      "source": "manual",
+      "source_title": "2023 in Legacy Fighting Alliance",
       "time": "3:48",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1534.6,
       "red_name": "Thomas Petersen",
       "round": "2",
+      "source": "manual",
+      "source_title": "2022 in Legacy Fighting Alliance",
       "time": "3:14",
       "weight_class": "Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1555.1,
       "red_name": "Waldo Cortes-Acosta",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Legacy Fighting Alliance",
       "time": "4:53",
       "weight_class": "Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1537.8,
       "red_name": "Thomas Petersen",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Legacy Fighting Alliance",
       "time": "1:02",
       "weight_class": "Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1519.4,
       "red_name": "Thomas Petersen",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Legacy Fighting Alliance",
       "time": "3:33",
       "weight_class": "Heavyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1500.0,
       "red_name": "Thomas Petersen",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Legacy Fighting Alliance",
       "time": "0:19",
       "weight_class": "Heavyweight"
     }
@@ -348,14 +372,14 @@
     {
       "date": "2024-07-20",
       "fight_id": "677fa903547838ce",
-      "rating": 1563.6,
+      "rating": 1563.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2024-07-20",
       "fight_id": "677fa903547838ce",
-      "rating": 1557.7,
+      "rating": 1557.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -369,14 +393,14 @@
     {
       "date": "2025-02-01",
       "fight_id": "a0bf59fb28dfe112",
-      "rating": 1538.6,
+      "rating": 1538.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-05-03",
       "fight_id": "2eba5a8fa2e60657",
-      "rating": 1556.5,
+      "rating": 1556.6,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -404,14 +428,14 @@
     {
       "date": "2026-04-04",
       "fight_id": "14e4fce2820b8378",
-      "rating": 1553.3,
+      "rating": 1553.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2026-04-04",
       "fight_id": "14e4fce2820b8378",
-      "rating": 1549.1,
+      "rating": 1549.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -421,7 +445,7 @@
   "last_fight_date": "2026-04-04",
   "name": "Thomas Petersen",
   "nickname": "",
-  "overall_elo": 1549.1,
+  "overall_elo": 1549.2,
   "peak_elo": 1567.8,
   "slug": "thomas-petersen",
   "systems": {

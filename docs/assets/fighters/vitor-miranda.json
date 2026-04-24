@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 279,
+  "divisional_rank": 280,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Abu Azaitar",
       "opponent_elo": 1520.2,
       "outcome": "blue_win",
-      "post_elo": 1488.8,
+      "post_elo": 1488.9,
       "pre_elo": 1506.1,
       "red_name": "Vitor Miranda",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1525.4,
       "red_name": "Vitor Miranda",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Vitor Miranda",
       "bout_type": "Middleweight Bout",
       "date": "2016-05-29",
-      "elo_delta": -19.7,
+      "elo_delta": -19.6,
       "event_name": "UFC Fight Night: Almeida vs Garbrandt",
       "fight_id": "b6fa816651d5af4a",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Chris Camozzi",
-      "opponent_elo": 1512.6,
+      "opponent_elo": 1514.4,
       "outcome": "red_win",
       "post_elo": 1525.4,
       "pre_elo": 1545.0,
       "red_name": "Chris Camozzi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1526.2,
       "red_name": "Vitor Miranda",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:09",
       "weight_class": "Middleweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1504.3,
       "red_name": "Vitor Miranda",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:38",
       "weight_class": "Middleweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1484.0,
       "red_name": "Vitor Miranda",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:59",
       "weight_class": "Middleweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Vitor Miranda",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     }
@@ -227,14 +241,14 @@
     {
       "date": "2017-06-25",
       "fight_id": "10c8c2d1481e7027",
-      "rating": 1504.1,
+      "rating": 1504.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2018-07-22",
       "fight_id": "cc42bae09e715fb1",
-      "rating": 1488.8,
+      "rating": 1488.9,
       "scope": "division",
       "system": "men:Middleweight"
     },

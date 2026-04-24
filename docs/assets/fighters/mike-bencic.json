@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1448,
+  "divisional_rank": 1441,
   "fight_count": 2,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Mario Sperry",
       "opponent_elo": 1502.0,
       "outcome": "red_win",
-      "post_elo": 1464.3,
-      "pre_elo": 1482.7,
+      "post_elo": 1464.9,
+      "pre_elo": 1483.3,
       "red_name": "Mario Sperry",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 2",
       "time": "0:11",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Mike Bencic",
       "bout_type": "Open Weight Bout",
       "date": "2003-06-08",
-      "elo_delta": -17.3,
+      "elo_delta": -16.7,
       "event_name": "Pride 26",
       "fight_id": "b26dd9763dd0a882",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Submission to Knee to the Body and Punches)",
       "opponent": "Alistair Overeem",
-      "opponent_elo": 1537.7,
+      "opponent_elo": 1549.7,
       "outcome": "red_win",
-      "post_elo": 1482.7,
+      "post_elo": 1483.3,
       "pre_elo": 1500.0,
       "red_name": "Alistair Overeem",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 26",
       "time": "3:44",
       "weight_class": "Open Weight"
     }
@@ -50,28 +54,28 @@
     {
       "date": "2003-06-08",
       "fight_id": "b26dd9763dd0a882",
-      "rating": 1482.7,
+      "rating": 1483.3,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2003-06-08",
       "fight_id": "b26dd9763dd0a882",
-      "rating": 1484.4,
+      "rating": 1484.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2004-02-15",
       "fight_id": "b649bda400193719",
-      "rating": 1464.3,
+      "rating": 1464.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2004-02-15",
       "fight_id": "b649bda400193719",
-      "rating": 1468.0,
+      "rating": 1468.5,
       "scope": "overall",
       "system": "men:overall"
     }

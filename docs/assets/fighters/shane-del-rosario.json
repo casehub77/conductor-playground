@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 277,
+  "divisional_rank": 285,
   "fight_count": 3,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Pat Barry",
-      "opponent_elo": 1484.9,
+      "opponent_elo": 1485.1,
       "outcome": "red_win",
       "post_elo": 1481.5,
       "pre_elo": 1501.8,
       "red_name": "Pat Barry",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:26",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Stipe Miocic",
-      "opponent_elo": 1538.4,
+      "opponent_elo": 1538.5,
       "outcome": "red_win",
       "post_elo": 1501.8,
       "pre_elo": 1520.3,
       "red_name": "Stipe Miocic",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:14",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Shane Del Rosario",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Silva",
       "time": "4:31",
       "weight_class": "Heavyweight"
     }

@@ -1,8 +1,30 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 749,
-  "fight_count": 4,
+  "divisional_rank": 724,
+  "fight_count": 5,
   "fight_log": [
+    {
+      "blue_name": "Nobumitsu Osawa",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-12-31",
+      "elo_delta": -16.5,
+      "event_name": "Bellator MMA vs. Rizin FF",
+      "fight_id": "58b8e7a87d821faf",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Johnny Case",
+      "opponent_elo": 1546.8,
+      "outcome": "red_win",
+      "post_elo": 1478.2,
+      "pre_elo": 1494.7,
+      "red_name": "Johnny Case",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Rizin 40",
+      "time": "0:36",
+      "weight_class": "Lightweight"
+    },
     {
       "blue_name": "Nobumitsu Osawa",
       "bout_type": "Lightweight 70 kg Bout",
@@ -20,6 +42,8 @@
       "pre_elo": 1515.0,
       "red_name": "Tofiq Musayev",
       "round": "2",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
       "time": "6:19",
       "weight_class": "Lightweight"
     },
@@ -34,12 +58,14 @@
       "is_title": false,
       "method": "Submission (Toe Hold)",
       "opponent": "Yusuke Kasuya",
-      "opponent_elo": 1549.6,
+      "opponent_elo": 1550.6,
       "outcome": "red_win",
-      "post_elo": 1516.6,
+      "post_elo": 1516.7,
       "pre_elo": 1535.3,
       "red_name": "Yusuke Kasuya",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "2:25",
       "weight_class": "Open Weight"
     },
@@ -54,12 +80,14 @@
       "is_title": false,
       "method": "KO (Punches)",
       "opponent": "Yuya Onodera",
-      "opponent_elo": 1481.8,
+      "opponent_elo": 1481.9,
       "outcome": "red_win",
       "post_elo": 1535.3,
       "pre_elo": 1517.8,
       "red_name": "Nobumitsu Osawa",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "1:37",
       "weight_class": "Open Weight"
     },
@@ -80,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Nobumitsu Osawa",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -118,7 +148,7 @@
     {
       "date": "2011-12-18",
       "fight_id": "53b6be80b5a685cd",
-      "rating": 1516.6,
+      "rating": 1516.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -139,14 +169,28 @@
     {
       "date": "2018-12-31",
       "fight_id": "8bee183790234a84",
-      "rating": 1496.9,
+      "rating": 1497.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "58b8e7a87d821faf",
+      "rating": 1478.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "58b8e7a87d821faf",
+      "rating": 1482.0,
       "scope": "overall",
       "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2018-12-31",
+  "last_fight_date": "2022-12-31",
   "name": "Nobumitsu Osawa",
   "nickname": "",
   "overall_elo": 1500.0,

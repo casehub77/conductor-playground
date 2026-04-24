@@ -1,28 +1,8 @@
 {
-  "current_elo": 1559.6,
-  "divisional_rank": 53,
-  "fight_count": 3,
+  "current_elo": 1542.5,
+  "divisional_rank": 77,
+  "fight_count": 2,
   "fight_log": [
-    {
-      "blue_name": "Singphayak HamaGym",
-      "bout_type": "Featherweight 66 kg (Kickboxing) Bout",
-      "date": "2026-04-12",
-      "elo_delta": 17.1,
-      "event_name": "Rizin Landmark 13 in Fukuoka",
-      "fight_id": "6db0511d26ece31a",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (punch to the body)",
-      "opponent": "Singphayak HamaGym",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1559.6,
-      "pre_elo": 1542.5,
-      "red_name": "Taio Asahisa",
-      "round": "1",
-      "time": "1:45",
-      "weight_class": "Featherweight"
-    },
     {
       "blue_name": "Yoshiya Uzatsuyo",
       "bout_type": "Catchweight 63 kg Bout",
@@ -40,6 +20,8 @@
       "pre_elo": 1518.0,
       "red_name": "Taio Asahisa",
       "round": "2",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "1:15",
       "weight_class": "Catch Weight"
     },
@@ -60,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Taio Asahisa",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "3:00",
       "weight_class": "Featherweight"
     }
@@ -94,29 +78,15 @@
       "rating": 1538.2,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-12",
-      "fight_id": "6db0511d26ece31a",
-      "rating": 1559.6,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2026-04-12",
-      "fight_id": "6db0511d26ece31a",
-      "rating": 1553.6,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-12",
+  "last_fight_date": "2025-05-04",
   "name": "Taio Asahisa",
   "nickname": "",
-  "overall_elo": 1553.6,
-  "peak_elo": 1559.6,
+  "overall_elo": 1538.2,
+  "peak_elo": 1542.5,
   "slug": "taio-asahisa",
   "systems": {
     "division": "men:Featherweight",

@@ -1,25 +1,27 @@
 {
-  "current_elo": 1513.7,
-  "divisional_rank": 154,
+  "current_elo": 1514.4,
+  "divisional_rank": 111,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Tatsuki Saomoto",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2023-05-06",
-      "elo_delta": -17.6,
+      "elo_delta": -16.8,
       "event_name": "Rizin 42",
       "fight_id": "2681b6ac133a2710",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "John Dodson",
-      "opponent_elo": 1576.0,
+      "opponent_elo": 1590.9,
       "outcome": "red_win",
-      "post_elo": 1550.1,
+      "post_elo": 1550.9,
       "pre_elo": 1567.7,
       "red_name": "John Dodson",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1552.4,
       "red_name": "Tatsuki Saomoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1536.3,
       "red_name": "Tatsuki Saomoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.3,
       "red_name": "Tatsuki Saomoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
       "time": "15:00",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tatsuki Saomoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
       "time": "4:06",
       "weight_class": "Flyweight"
     }
@@ -166,14 +176,14 @@
     {
       "date": "2023-05-06",
       "fight_id": "2681b6ac133a2710",
-      "rating": 1550.1,
+      "rating": 1550.9,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2023-05-06",
       "fight_id": "2681b6ac133a2710",
-      "rating": 1544.2,
+      "rating": 1545.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,7 +193,7 @@
   "last_fight_date": "2023-05-06",
   "name": "Tatsuki Saomoto",
   "nickname": "",
-  "overall_elo": 1507.7,
+  "overall_elo": 1508.5,
   "peak_elo": 1567.7,
   "slug": "tatsuki-saomoto",
   "systems": {

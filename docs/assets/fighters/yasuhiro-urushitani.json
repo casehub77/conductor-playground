@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 218,
+  "divisional_rank": 157,
   "fight_count": 23,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1584.5,
       "red_name": "Yasuhiro Urushitani",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1604.3,
       "red_name": "Joseph Benavidez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:11",
       "weight_class": "Flyweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Yuki Shojo",
       "bout_type": "Flyweight Bout",
       "date": "2011-07-18",
-      "elo_delta": 17.8,
+      "elo_delta": 17.7,
       "event_name": "Shooto: Shootor's Legacy 3",
       "fight_id": "8ffc83d79fb47951",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Head Kick and Punches)",
       "opponent": "Yuki Shojo",
-      "opponent_elo": 1556.6,
+      "opponent_elo": 1556.1,
       "outcome": "red_win",
       "post_elo": 1604.3,
       "pre_elo": 1586.6,
       "red_name": "Yasuhiro Urushitani",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "0:24",
       "weight_class": "Flyweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Takuya Mori",
       "opponent_elo": 1537.3,
       "outcome": "red_win",
-      "post_elo": 1655.0,
-      "pre_elo": 1641.2,
+      "post_elo": 1654.9,
+      "pre_elo": 1641.1,
       "red_name": "Yasuhiro Urushitani",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "4:49",
       "weight_class": "Open Weight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Ryuichi Miki",
-      "opponent_elo": 1602.1,
+      "opponent_elo": 1602.0,
       "outcome": "red_win",
       "post_elo": 1586.6,
       "pre_elo": 1566.8,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -114,12 +124,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Ryuichi Miki",
-      "opponent_elo": 1614.8,
+      "opponent_elo": 1614.6,
       "outcome": "red_win",
-      "post_elo": 1641.2,
-      "pre_elo": 1623.7,
+      "post_elo": 1641.1,
+      "pre_elo": 1623.6,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "Submission (Guillotine Choke)",
       "opponent": "Yuki Shojo",
-      "opponent_elo": 1562.7,
+      "opponent_elo": 1562.0,
       "outcome": "red_win",
-      "post_elo": 1623.7,
+      "post_elo": 1623.6,
       "pre_elo": 1647.8,
       "red_name": "Yuki Shojo",
       "round": "3",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "3:39",
       "weight_class": "Open Weight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "Draw",
       "opponent": "Ryuichi Miki",
-      "opponent_elo": 1566.4,
+      "opponent_elo": 1566.3,
       "outcome": "draw",
       "post_elo": 1647.8,
       "pre_elo": 1652.1,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1632.4,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1566.6,
       "red_name": "Shinichi Kojima",
       "round": "3",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1618.4,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1607.4,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1611.3,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1596.2,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1586.7,
       "red_name": "Mamoru Yamaguchi",
       "round": "3",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1581.3,
       "red_name": "Yasuhiro Urushitani",
       "round": "3",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1564.2,
       "red_name": "Yasuhiro Urushitani",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1549.7,
       "red_name": "Yasuhiro Urushitani",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1530.9,
       "red_name": "Yasuhiro Urushitani",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "1:57",
       "weight_class": "Open Weight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1514.6,
       "red_name": "Yasuhiro Urushitani",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -420,6 +460,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yasuhiro Urushitani",
       "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -440,6 +482,8 @@
       "pre_elo": 1482.0,
       "red_name": "Yasuhiro Urushitani",
       "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -460,6 +504,8 @@
       "pre_elo": 1500.0,
       "red_name": "Daiji Takahashi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -694,7 +740,7 @@
     {
       "date": "2008-09-28",
       "fight_id": "ab3ecddd2eb6ba31",
-      "rating": 1623.7,
+      "rating": 1623.6,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -708,7 +754,7 @@
     {
       "date": "2009-09-22",
       "fight_id": "0a78bd62061a6d8e",
-      "rating": 1641.2,
+      "rating": 1641.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -736,7 +782,7 @@
     {
       "date": "2010-11-19",
       "fight_id": "1c68a770c251c0db",
-      "rating": 1655.0,
+      "rating": 1654.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -785,7 +831,7 @@
     {
       "date": "2012-11-10",
       "fight_id": "915e15894024c817",
-      "rating": 1615.1,
+      "rating": 1615.0,
       "scope": "overall",
       "system": "men:overall"
     }

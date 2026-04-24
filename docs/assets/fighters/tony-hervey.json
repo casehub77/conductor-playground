@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1682,
+  "divisional_rank": 1674,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Tony Hervey",
       "bout_type": "Open Weight Bout",
       "date": "2011-01-10",
-      "elo_delta": -12.9,
+      "elo_delta": -13.0,
       "event_name": "Shooto: Shootor's Legacy 1",
       "fight_id": "4e349a8d47bd984f",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Taiki Tsuchiya",
-      "opponent_elo": 1622.1,
+      "opponent_elo": 1620.5,
       "outcome": "red_win",
-      "post_elo": 1487.1,
+      "post_elo": 1487.0,
       "pre_elo": 1500.0,
       "red_name": "Taiki Tsuchiya",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "4:25",
       "weight_class": "Open Weight"
     }
@@ -30,14 +32,14 @@
     {
       "date": "2011-01-10",
       "fight_id": "4e349a8d47bd984f",
-      "rating": 1487.1,
+      "rating": 1487.0,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-01-10",
       "fight_id": "4e349a8d47bd984f",
-      "rating": 1488.0,
+      "rating": 1487.9,
       "scope": "overall",
       "system": "men:overall"
     }

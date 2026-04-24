@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 566,
+  "divisional_rank": 509,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Tony Gravely",
       "bout_type": "Bantamweight Bout",
       "date": "2020-11-14",
-      "elo_delta": -18.8,
+      "elo_delta": -19.7,
       "event_name": "UFC Fight Night: Felder vs. Dos Anjos",
       "fight_id": "b7116cd63f63f857",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Tony Gravely",
-      "opponent_elo": 1481.6,
+      "opponent_elo": 1464.8,
       "outcome": "blue_win",
-      "post_elo": 1478.4,
+      "post_elo": 1477.5,
       "pre_elo": 1497.2,
       "red_name": "Geraldo De Freitas",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1516.0,
       "red_name": "Geraldo De Freitas",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Geraldo De Freitas",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -98,14 +104,14 @@
     {
       "date": "2020-11-14",
       "fight_id": "b7116cd63f63f857",
-      "rating": 1478.4,
+      "rating": 1477.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2020-11-14",
       "fight_id": "b7116cd63f63f857",
-      "rating": 1482.6,
+      "rating": 1481.9,
       "scope": "overall",
       "system": "men:overall"
     }

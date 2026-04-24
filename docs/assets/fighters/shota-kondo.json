@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 395,
+  "divisional_rank": 348,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Shota Kondo",
       "bout_type": "Open Weight Bout",
       "date": "2011-10-02",
-      "elo_delta": -18.0,
+      "elo_delta": -18.1,
       "event_name": "Shooto: Gig Central 23",
       "fight_id": "1d2dfe32c2ef0c86",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Akihito Sasao",
-      "opponent_elo": 1535.3,
+      "opponent_elo": 1535.4,
       "outcome": "red_win",
-      "post_elo": 1516.5,
-      "pre_elo": 1534.4,
+      "post_elo": 1518.4,
+      "pre_elo": 1536.4,
       "red_name": "Akihito Sasao",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Noriyuki Takei",
       "bout_type": "Open Weight Bout",
       "date": "2011-08-06",
-      "elo_delta": 16.4,
+      "elo_delta": 18.4,
       "event_name": "Shooto: Gig Tokyo 7",
       "fight_id": "862a6a89b01dff33",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Guillotine Choke)",
       "opponent": "Noriyuki Takei",
-      "opponent_elo": 1463.5,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1534.4,
+      "post_elo": 1536.4,
       "pre_elo": 1518.0,
       "red_name": "Shota Kondo",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "3:43",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Shota Kondo",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -84,28 +90,28 @@
     {
       "date": "2011-08-06",
       "fight_id": "862a6a89b01dff33",
-      "rating": 1534.4,
+      "rating": 1536.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-08-06",
       "fight_id": "862a6a89b01dff33",
-      "rating": 1530.9,
+      "rating": 1532.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-10-02",
       "fight_id": "1d2dfe32c2ef0c86",
-      "rating": 1516.5,
+      "rating": 1518.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-10-02",
       "fight_id": "1d2dfe32c2ef0c86",
-      "rating": 1514.9,
+      "rating": 1516.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -116,7 +122,7 @@
   "name": "Shota Kondo",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1534.4,
+  "peak_elo": 1536.4,
   "slug": "shota-kondo",
   "systems": {
     "division": "men:Open Weight",

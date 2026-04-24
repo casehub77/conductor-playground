@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 276,
+  "divisional_rank": 269,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Tomokazu Yuasa",
       "bout_type": "Open Weight Bout",
       "date": "2010-08-15",
-      "elo_delta": 18.8,
+      "elo_delta": 17.8,
       "event_name": "Shooto: Border: Season 2: Rhythm",
       "fight_id": "8c7c684db928f073",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Tomokazu Yuasa",
-      "opponent_elo": 1534.0,
+      "opponent_elo": 1515.3,
       "outcome": "red_win",
-      "post_elo": 1537.8,
+      "post_elo": 1536.8,
       "pre_elo": 1519.0,
       "red_name": "Masaki Konishi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Taisuke Okuno",
-      "opponent_elo": 1542.6,
+      "opponent_elo": 1543.3,
       "outcome": "red_win",
       "post_elo": 1519.0,
       "pre_elo": 1538.2,
       "red_name": "Taisuke Okuno",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "0:47",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1519.9,
       "red_name": "Masaki Konishi",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "0:50",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1539.6,
       "red_name": "Takuya Sato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1519.7,
       "red_name": "Masaki Konishi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Masaki Konishi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Masaki Konishi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -234,14 +248,14 @@
     {
       "date": "2010-08-15",
       "fight_id": "8c7c684db928f073",
-      "rating": 1537.8,
+      "rating": 1536.8,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-08-15",
       "fight_id": "8c7c684db928f073",
-      "rating": 1533.5,
+      "rating": 1532.8,
       "scope": "overall",
       "system": "men:overall"
     }

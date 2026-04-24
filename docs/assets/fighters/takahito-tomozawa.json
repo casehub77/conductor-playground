@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1637,
+  "divisional_rank": 1629,
   "fight_count": 4,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Submission (Rear-Naked Choke)",
       "opponent": "Masanobu Mori",
-      "opponent_elo": 1498.0,
+      "opponent_elo": 1497.5,
       "outcome": "red_win",
-      "post_elo": 1447.0,
-      "pre_elo": 1464.6,
+      "post_elo": 1446.1,
+      "pre_elo": 1463.6,
       "red_name": "Masanobu Mori",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "3:43",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Takahito Tomozawa",
       "bout_type": "Open Weight Bout",
       "date": "2011-08-06",
-      "elo_delta": -16.0,
+      "elo_delta": -17.0,
       "event_name": "Shooto: Gig Tokyo 7",
       "fight_id": "aa8982c8ad97b241",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Majority)",
       "opponent": "Yamato Okada",
-      "opponent_elo": 1518.4,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1464.6,
+      "post_elo": 1463.6,
       "pre_elo": 1480.6,
       "red_name": "Yamato Okada",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Takahito Tomozawa",
       "bout_type": "Open Weight Bout",
       "date": "2011-06-11",
-      "elo_delta": -0.4,
+      "elo_delta": -0.3,
       "event_name": "Shooto: Shooting Disco 15: Try Hard, Japan!",
       "fight_id": "2f60551b0d4b81d3",
       "gender": "men",
@@ -60,6 +64,8 @@
       "pre_elo": 1481.0,
       "red_name": "Shuichiro Okumura",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Takafumi Ato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -118,28 +126,28 @@
     {
       "date": "2011-08-06",
       "fight_id": "aa8982c8ad97b241",
-      "rating": 1464.6,
+      "rating": 1463.6,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-08-06",
       "fight_id": "aa8982c8ad97b241",
-      "rating": 1468.5,
+      "rating": 1467.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-10-02",
       "fight_id": "b47504ee4351db79",
-      "rating": 1447.0,
+      "rating": 1446.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-10-02",
       "fight_id": "b47504ee4351db79",
-      "rating": 1452.7,
+      "rating": 1451.9,
       "scope": "overall",
       "system": "men:overall"
     }

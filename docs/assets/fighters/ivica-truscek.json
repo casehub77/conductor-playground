@@ -1,13 +1,13 @@
 {
-  "current_elo": 1522.1,
-  "divisional_rank": 116,
-  "fight_count": 3,
+  "current_elo": 1512.9,
+  "divisional_rank": 171,
+  "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Christian Eckerlin",
       "bout_type": "Welterweight Bout",
       "date": "2025-10-18",
-      "elo_delta": 19.6,
+      "elo_delta": 20.2,
       "event_name": "Oktagon 78: Eckerlin vs. Trušček",
       "fight_id": "5131a584b7babe80",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Christian Eckerlin",
       "opponent_elo": 1505.6,
       "outcome": "red_win",
-      "post_elo": 1522.1,
-      "pre_elo": 1502.5,
+      "post_elo": 1512.9,
+      "pre_elo": 1492.8,
       "red_name": "Ivica Trušček",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Oktagon MMA",
       "time": "3:34",
       "weight_class": "Welterweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Cihad Akipa",
       "bout_type": "Welterweight Bout",
       "date": "2024-02-10",
-      "elo_delta": 19.5,
+      "elo_delta": 20.1,
       "event_name": "Oktagon 53: Dalisda vs. Dourthe",
       "fight_id": "ed286144944f070c",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Cihad Akipa",
       "opponent_elo": 1484.0,
       "outcome": "red_win",
-      "post_elo": 1502.5,
-      "pre_elo": 1483.0,
+      "post_elo": 1492.8,
+      "pre_elo": 1472.7,
       "red_name": "Ivica Trušček",
       "round": "2",
+      "source": "manual",
+      "source_title": "2024 in Oktagon MMA",
       "time": "2:10",
       "weight_class": "Welterweight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Ivica Trušček",
       "bout_type": "Welterweight 77 kg Bout",
       "date": "2019-11-09",
-      "elo_delta": -17.0,
+      "elo_delta": -16.5,
       "event_name": "KSW 51: Croatia",
       "fight_id": "1586e32e3cce0f7a",
       "gender": "men",
@@ -56,56 +60,65 @@
       "opponent": "Krystian Kaszubowski",
       "opponent_elo": 1518.5,
       "outcome": "red_win",
-      "post_elo": 1483.0,
-      "pre_elo": 1500.0,
+      "post_elo": 1472.7,
+      "pre_elo": 1489.2,
       "red_name": "Krystian Kaszubowski",
       "round": "3",
+      "source": "manual",
+      "source_title": "2019 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Welterweight"
     }
   ],
-  "first_fight_date": "2019-11-09",
+  "first_fight_date": "2014-09-07",
   "gender": "men",
   "history": [
     {
+      "date": "2014-09-07",
+      "fight_id": "e258c401967f99f9",
+      "rating": 1489.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2019-11-09",
       "fight_id": "1586e32e3cce0f7a",
-      "rating": 1483.0,
+      "rating": 1472.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2019-11-09",
       "fight_id": "1586e32e3cce0f7a",
-      "rating": 1484.8,
+      "rating": 1474.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-02-10",
       "fight_id": "ed286144944f070c",
-      "rating": 1502.5,
+      "rating": 1492.8,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2024-02-10",
       "fight_id": "ed286144944f070c",
-      "rating": 1502.0,
+      "rating": 1492.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-10-18",
       "fight_id": "5131a584b7babe80",
-      "rating": 1522.1,
+      "rating": 1512.9,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2025-10-18",
       "fight_id": "5131a584b7babe80",
-      "rating": 1519.5,
+      "rating": 1510.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -115,8 +128,8 @@
   "last_fight_date": "2025-10-18",
   "name": "Ivica Trušček",
   "nickname": "",
-  "overall_elo": 1519.5,
-  "peak_elo": 1522.1,
+  "overall_elo": 1510.2,
+  "peak_elo": 1512.9,
   "slug": "ivica-truscek",
   "systems": {
     "division": "men:Welterweight",

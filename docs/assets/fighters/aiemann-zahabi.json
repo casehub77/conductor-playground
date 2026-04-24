@@ -1,6 +1,6 @@
 {
   "current_elo": 1594.3,
-  "divisional_rank": 26,
+  "divisional_rank": 22,
   "fight_count": 10,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Marlon Vera",
-      "opponent_elo": 1614.1,
+      "opponent_elo": 1614.2,
       "outcome": "blue_win",
       "post_elo": 1594.3,
       "pre_elo": 1574.2,
       "red_name": "Marlon Vera",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Jose Aldo",
       "opponent_elo": 1629.7,
       "outcome": "blue_win",
-      "post_elo": 1587.2,
+      "post_elo": 1587.1,
       "pre_elo": 1565.9,
       "red_name": "Jose Aldo",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1545.0,
       "outcome": "red_win",
       "post_elo": 1574.2,
-      "pre_elo": 1556.9,
+      "pre_elo": 1556.8,
       "red_name": "Aiemann Zahabi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Javid Basharat",
       "bout_type": "Bantamweight Bout",
       "date": "2024-03-02",
-      "elo_delta": 18.8,
+      "elo_delta": 18.7,
       "event_name": "UFC Fight Night: Rozenstruik vs. Gaziev",
       "fight_id": "a69fb12dac4b6893",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Javid Basharat",
-      "opponent_elo": 1553.0,
+      "opponent_elo": 1552.4,
       "outcome": "red_win",
-      "post_elo": 1556.9,
+      "post_elo": 1556.8,
       "pre_elo": 1538.1,
       "red_name": "Aiemann Zahabi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1519.4,
       "red_name": "Aiemann Zahabi",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:04",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.5,
       "red_name": "Aiemann Zahabi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1479.9,
       "red_name": "Aiemann Zahabi",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:05",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1498.7,
       "red_name": "Aiemann Zahabi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1518.0,
       "red_name": "Aiemann Zahabi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:58",
       "weight_class": "Bantamweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Aiemann Zahabi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -294,14 +314,14 @@
     {
       "date": "2024-03-02",
       "fight_id": "a69fb12dac4b6893",
-      "rating": 1556.9,
+      "rating": 1556.8,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-03-02",
       "fight_id": "a69fb12dac4b6893",
-      "rating": 1550.3,
+      "rating": 1550.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -322,14 +342,14 @@
     {
       "date": "2025-05-10",
       "fight_id": "587e0fdc5f0dd303",
-      "rating": 1587.2,
+      "rating": 1587.1,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-05-10",
       "fight_id": "587e0fdc5f0dd303",
-      "rating": 1583.8,
+      "rating": 1583.9,
       "scope": "overall",
       "system": "men:overall"
     },

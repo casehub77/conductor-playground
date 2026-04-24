@@ -1,6 +1,6 @@
 {
-  "current_elo": 1530.2,
-  "divisional_rank": 131,
+  "current_elo": 1530.3,
+  "divisional_rank": 111,
   "fight_count": 10,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Davey Grant",
       "opponent_elo": 1533.9,
       "outcome": "red_win",
-      "post_elo": 1530.2,
-      "pre_elo": 1549.0,
+      "post_elo": 1530.3,
+      "pre_elo": 1549.1,
       "red_name": "Davey Grant",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Alatengheili",
-      "opponent_elo": 1549.4,
+      "opponent_elo": 1549.6,
       "outcome": "red_win",
-      "post_elo": 1549.0,
-      "pre_elo": 1530.0,
+      "post_elo": 1549.1,
+      "pre_elo": 1530.1,
       "red_name": "Da'Mon Blackshear",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Cody Gibson",
-      "opponent_elo": 1479.7,
+      "opponent_elo": 1479.8,
       "outcome": "red_win",
-      "post_elo": 1530.0,
-      "pre_elo": 1512.4,
+      "post_elo": 1530.1,
+      "pre_elo": 1512.5,
       "red_name": "Da'Mon Blackshear",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:09",
       "weight_class": "Bantamweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Da'Mon Blackshear",
       "bout_type": "Bantamweight Bout",
       "date": "2024-11-09",
-      "elo_delta": 20.9,
+      "elo_delta": 21.0,
       "event_name": "UFC Fight Night: Magny vs. Prates",
       "fight_id": "ce087316c1611f9f",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Cody Stamann",
-      "opponent_elo": 1518.4,
+      "opponent_elo": 1519.9,
       "outcome": "blue_win",
-      "post_elo": 1512.4,
+      "post_elo": 1512.5,
       "pre_elo": 1491.5,
       "red_name": "Cody Stamann",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:19",
       "weight_class": "Bantamweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Montel Jackson",
-      "opponent_elo": 1592.3,
+      "opponent_elo": 1592.4,
       "outcome": "red_win",
       "post_elo": 1491.5,
       "pre_elo": 1506.2,
       "red_name": "Montel Jackson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:18",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1521.6,
       "red_name": "Da'Mon Blackshear",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1502.2,
       "red_name": "Da'Mon Blackshear",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:47",
       "weight_class": "Bantamweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Luan Lacerda",
-      "opponent_elo": 1502.5,
+      "opponent_elo": 1502.6,
       "outcome": "red_win",
       "post_elo": 1502.2,
       "pre_elo": 1481.6,
       "red_name": "Da'Mon Blackshear",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:54",
       "weight_class": "Bantamweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1499.6,
       "red_name": "Da'Mon Blackshear",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Youssef Zalal",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -294,56 +314,56 @@
     {
       "date": "2024-11-09",
       "fight_id": "ce087316c1611f9f",
-      "rating": 1512.4,
+      "rating": 1512.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-11-09",
       "fight_id": "ce087316c1611f9f",
-      "rating": 1510.2,
+      "rating": 1510.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-03-15",
       "fight_id": "a03cd2b5fac6f73c",
-      "rating": 1530.0,
+      "rating": 1530.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-03-15",
       "fight_id": "a03cd2b5fac6f73c",
-      "rating": 1526.0,
+      "rating": 1526.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-04-26",
       "fight_id": "4e4599974ec2532c",
-      "rating": 1549.0,
+      "rating": 1549.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-04-26",
       "fight_id": "4e4599974ec2532c",
-      "rating": 1542.9,
+      "rating": 1543.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-07-26",
       "fight_id": "8186cd35c44b35db",
-      "rating": 1530.2,
+      "rating": 1530.3,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-07-26",
       "fight_id": "8186cd35c44b35db",
-      "rating": 1526.3,
+      "rating": 1526.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -353,8 +373,8 @@
   "last_fight_date": "2025-07-26",
   "name": "Da'Mon Blackshear",
   "nickname": "",
-  "overall_elo": 1526.3,
-  "peak_elo": 1549.0,
+  "overall_elo": 1526.4,
+  "peak_elo": 1549.1,
   "slug": "da-mon-blackshear",
   "systems": {
     "division": "men:Bantamweight",

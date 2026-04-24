@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1054,
-  "fight_count": 1,
+  "divisional_rank": 483,
+  "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Bazigit Atajev",
       "bout_type": "Open Weight Bout",
       "date": "2002-12-23",
-      "elo_delta": -18.4,
+      "elo_delta": -19.5,
       "event_name": "Pride 24",
       "fight_id": "0bb70e015a82e239",
       "gender": "men",
@@ -16,28 +16,37 @@
       "opponent": "Alistair Overeem",
       "opponent_elo": 1519.3,
       "outcome": "red_win",
-      "post_elo": 1481.6,
-      "pre_elo": 1500.0,
+      "post_elo": 1500.9,
+      "pre_elo": 1520.4,
       "red_name": "Alistair Overeem",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 24",
       "time": "4:59",
       "weight_class": "Open Weight"
     }
   ],
-  "first_fight_date": "2002-12-23",
+  "first_fight_date": "2001-08-11",
   "gender": "men",
   "history": [
     {
+      "date": "2001-08-11",
+      "fight_id": "59fed97212fafa42",
+      "rating": 1520.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2002-12-23",
       "fight_id": "0bb70e015a82e239",
-      "rating": 1481.6,
+      "rating": 1500.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2002-12-23",
       "fight_id": "0bb70e015a82e239",
-      "rating": 1483.6,
+      "rating": 1503.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -48,7 +57,7 @@
   "name": "Bazigit Atajev",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1500.0,
+  "peak_elo": 1520.4,
   "slug": "bazigit-atajev",
   "systems": {
     "division": "men:Open Weight",

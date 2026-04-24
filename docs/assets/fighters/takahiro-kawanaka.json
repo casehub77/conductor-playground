@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 964,
+  "divisional_rank": 959,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Takahiro Kawanaka",
       "bout_type": "Welterweight 77 kg Bout",
       "date": "2021-11-28",
-      "elo_delta": -17.1,
+      "elo_delta": -17.0,
       "event_name": "Rizin Trigger 1",
       "fight_id": "12b7b311d0129b08",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Arm-Triangle Choke)",
       "opponent": "Kiichi Kunimoto",
-      "opponent_elo": 1542.5,
+      "opponent_elo": 1543.2,
       "outcome": "red_win",
-      "post_elo": 1482.9,
+      "post_elo": 1483.0,
       "pre_elo": 1500.0,
       "red_name": "Kiichi Kunimoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "4:10",
       "weight_class": "Welterweight"
     }
@@ -30,7 +32,7 @@
     {
       "date": "2021-11-28",
       "fight_id": "12b7b311d0129b08",
-      "rating": 1482.9,
+      "rating": 1483.0,
       "scope": "division",
       "system": "men:Welterweight"
     },

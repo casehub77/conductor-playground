@@ -1,25 +1,27 @@
 {
-  "current_elo": 1573.0,
-  "divisional_rank": 48,
+  "current_elo": 1573.2,
+  "divisional_rank": 45,
   "fight_count": 8,
   "fight_log": [
     {
       "blue_name": "Chris Duncan",
       "bout_type": "Lightweight Bout",
       "date": "2026-04-04",
-      "elo_delta": -18.5,
+      "elo_delta": -18.3,
       "event_name": "UFC Fight Night: Moicano vs Duncan",
       "fight_id": "3fb0d85ba056e96c",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Renato Moicano",
-      "opponent_elo": 1607.6,
+      "opponent_elo": 1611.3,
       "outcome": "red_win",
-      "post_elo": 1573.0,
+      "post_elo": 1573.2,
       "pre_elo": 1591.5,
       "red_name": "Renato Moicano",
       "round": "2",
+      "source": "ufc:official",
+      "source_title": "",
       "time": "3:14",
       "weight_class": "Lightweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Terrance Mckinney",
-      "opponent_elo": 1549.0,
+      "opponent_elo": 1549.2,
       "outcome": "blue_win",
       "post_elo": 1591.5,
       "pre_elo": 1573.5,
       "red_name": "Terrance Mckinney",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:30",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1554.9,
       "red_name": "Mateusz Rebecki",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1536.9,
       "red_name": "Jordan Vucenic",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:42",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1517.4,
       "red_name": "Bolaji Oki",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:34",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1536.8,
       "red_name": "Manuel Torres",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:46",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1518.7,
       "red_name": "Chris Duncan",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Chris Duncan",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -268,14 +284,14 @@
     {
       "date": "2026-04-04",
       "fight_id": "3fb0d85ba056e96c",
-      "rating": 1573.0,
+      "rating": 1573.2,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-04-04",
       "fight_id": "3fb0d85ba056e96c",
-      "rating": 1564.5,
+      "rating": 1564.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -285,7 +301,7 @@
   "last_fight_date": "2026-04-04",
   "name": "Chris Duncan",
   "nickname": "",
-  "overall_elo": 1564.5,
+  "overall_elo": 1564.7,
   "peak_elo": 1591.5,
   "slug": "chris-duncan",
   "systems": {

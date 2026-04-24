@@ -1,6 +1,6 @@
 {
   "current_elo": 1476.4,
-  "divisional_rank": 1477,
+  "divisional_rank": 1437,
   "fight_count": 3,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1462.6,
       "red_name": "Evan Elder",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1498.4,
       "outcome": "red_win",
       "post_elo": 1462.6,
-      "pre_elo": 1479.6,
+      "pre_elo": 1479.7,
       "red_name": "Natan Levy",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Genaro Valdez",
       "bout_type": "Lightweight Bout",
       "date": "2022-01-22",
-      "elo_delta": -20.4,
+      "elo_delta": -20.3,
       "event_name": "UFC 270: Ngannou vs. Gane",
       "fight_id": "e547857d7ae6074a",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Matt Frevola",
-      "opponent_elo": 1483.5,
+      "opponent_elo": 1483.8,
       "outcome": "red_win",
-      "post_elo": 1479.6,
+      "post_elo": 1479.7,
       "pre_elo": 1500.0,
       "red_name": "Matt Frevola",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:15",
       "weight_class": "Lightweight"
     }
@@ -70,7 +76,7 @@
     {
       "date": "2022-01-22",
       "fight_id": "e547857d7ae6074a",
-      "rating": 1479.6,
+      "rating": 1479.7,
       "scope": "division",
       "system": "men:Lightweight"
     },

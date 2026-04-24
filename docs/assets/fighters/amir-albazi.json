@@ -1,25 +1,27 @@
 {
-  "current_elo": 1557.0,
-  "divisional_rank": 40,
+  "current_elo": 1557.6,
+  "divisional_rank": 29,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Kyoji Horiguchi",
       "bout_type": "Flyweight Bout",
       "date": "2026-02-07",
-      "elo_delta": -10.9,
+      "elo_delta": -10.3,
       "event_name": "UFC Fight Night: Bautista vs. Oliveira",
       "fight_id": "b281ea4bfa4c8c24",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1713.8,
+      "opponent_elo": 1727.6,
       "outcome": "blue_win",
-      "post_elo": 1557.0,
+      "post_elo": 1557.6,
       "pre_elo": 1567.9,
       "red_name": "Amir Albazi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1585.5,
       "red_name": "Brandon Moreno",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1568.4,
       "red_name": "Kai Kara-France",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1551.8,
       "red_name": "Amir Albazi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:13",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1533.4,
       "red_name": "Amir Albazi",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:34",
       "weight_class": "Flyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1517.3,
       "red_name": "Amir Albazi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Malcolm Gordon",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:42",
       "weight_class": "Bantamweight"
     }
@@ -234,14 +248,14 @@
     {
       "date": "2026-02-07",
       "fight_id": "b281ea4bfa4c8c24",
-      "rating": 1557.0,
+      "rating": 1557.6,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2026-02-07",
       "fight_id": "b281ea4bfa4c8c24",
-      "rating": 1552.7,
+      "rating": 1553.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,7 +265,7 @@
   "last_fight_date": "2026-02-07",
   "name": "Amir Albazi",
   "nickname": "",
-  "overall_elo": 1552.7,
+  "overall_elo": 1553.2,
   "peak_elo": 1585.5,
   "slug": "amir-albazi",
   "systems": {

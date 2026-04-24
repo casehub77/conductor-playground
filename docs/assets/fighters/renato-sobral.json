@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 142,
+  "divisional_rank": 143,
   "fight_count": 14,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1553.4,
       "red_name": "Dan Henderson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Henderson vs. Babalu II",
       "time": "1:53",
       "weight_class": "Light Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1545.2,
       "red_name": "Renato Sobral",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Los Angeles",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1561.9,
       "red_name": "Gegard Mousasi",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Carano vs. Cyborg",
       "time": "1:00",
       "weight_class": "Light Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1544.1,
       "red_name": "Renato Sobral",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Destruction",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1525.1,
       "red_name": "Renato Sobral",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:30",
       "weight_class": "Light Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1543.3,
       "red_name": "Jason Lambert",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:36",
       "weight_class": "Light Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1557.8,
       "red_name": "Chuck Liddell",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:35",
       "weight_class": "Light Heavyweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Mike Van Arsdale",
-      "opponent_elo": 1516.6,
+      "opponent_elo": 1516.7,
       "outcome": "red_win",
       "post_elo": 1557.8,
-      "pre_elo": 1539.6,
+      "pre_elo": 1539.7,
       "red_name": "Renato Sobral",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:21",
       "weight_class": "Light Heavyweight"
     },
@@ -176,10 +192,12 @@
       "opponent": "Chael Sonnen",
       "opponent_elo": 1516.1,
       "outcome": "red_win",
-      "post_elo": 1539.6,
-      "pre_elo": 1520.4,
+      "post_elo": 1539.7,
+      "pre_elo": 1520.5,
       "red_name": "Renato Sobral",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:20",
       "weight_class": "Light Heavyweight"
     },
@@ -196,10 +214,12 @@
       "opponent": "Travis Wiuff",
       "opponent_elo": 1482.8,
       "outcome": "red_win",
-      "post_elo": 1520.4,
+      "post_elo": 1520.5,
       "pre_elo": 1502.1,
       "red_name": "Renato Sobral",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:24",
       "weight_class": "Light Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1517.1,
       "red_name": "Chuck Liddell",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:55",
       "weight_class": "Light Heavyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1499.9,
       "red_name": "Renato Sobral",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1518.6,
       "red_name": "Kevin Randleman",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -267,19 +293,21 @@
       "blue_name": "Maurice Smith",
       "bout_type": "Heavyweight Bout",
       "date": "2000-11-17",
-      "elo_delta": 21.1,
+      "elo_delta": 21.2,
       "event_name": "UFC 28: High Stakes",
       "fight_id": "224f58120cf850cc",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Majority",
       "opponent": "Maurice Smith",
-      "opponent_elo": 1560.6,
+      "opponent_elo": 1561.5,
       "outcome": "red_win",
-      "post_elo": 1521.1,
+      "post_elo": 1521.2,
       "pre_elo": 1500.0,
       "red_name": "Renato Sobral",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     }
@@ -290,7 +318,7 @@
     {
       "date": "2000-11-17",
       "fight_id": "224f58120cf850cc",
-      "rating": 1521.1,
+      "rating": 1521.2,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -311,7 +339,7 @@
     {
       "date": "2002-01-11",
       "fight_id": "ff6a1e7050e52002",
-      "rating": 1502.0,
+      "rating": 1502.1,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -339,14 +367,14 @@
     {
       "date": "2002-11-22",
       "fight_id": "e69079468f6e3763",
-      "rating": 1503.7,
+      "rating": 1503.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2005-04-16",
       "fight_id": "7b0128adb273ef57",
-      "rating": 1520.4,
+      "rating": 1520.5,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -360,14 +388,14 @@
     {
       "date": "2005-10-07",
       "fight_id": "be6e4a6a468f5f0c",
-      "rating": 1539.6,
+      "rating": 1539.7,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2005-10-07",
       "fight_id": "be6e4a6a468f5f0c",
-      "rating": 1537.0,
+      "rating": 1537.1,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -395,7 +423,7 @@
     {
       "date": "2006-08-26",
       "fight_id": "25e8417ec2b21497",
-      "rating": 1539.5,
+      "rating": 1539.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -409,7 +437,7 @@
     {
       "date": "2007-03-03",
       "fight_id": "51114db392b93054",
-      "rating": 1523.3,
+      "rating": 1523.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -423,7 +451,7 @@
     {
       "date": "2007-08-25",
       "fight_id": "50be039aeedda3ce",
-      "rating": 1540.2,
+      "rating": 1540.3,
       "scope": "overall",
       "system": "men:overall"
     },

@@ -1,25 +1,27 @@
 {
-  "current_elo": 1555.7,
-  "divisional_rank": 43,
+  "current_elo": 1556.5,
+  "divisional_rank": 30,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Jarred Brooks",
       "bout_type": "Flyweight Bout",
       "date": "2024-12-07",
-      "elo_delta": 16.0,
+      "elo_delta": 16.9,
       "event_name": "ONE Fight Night 26: Lee vs. Rasulov",
       "fight_id": "2e8eca7ba91e476b",
       "gender": "men",
       "is_title": false,
       "method": "Decision (split)",
       "opponent": "Jarred Brooks",
-      "opponent_elo": 1501.7,
+      "opponent_elo": 1518.4,
       "outcome": "red_win",
-      "post_elo": 1555.7,
+      "post_elo": 1556.5,
       "pre_elo": 1539.6,
       "red_name": "Reece McLaren",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 26",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1520.7,
       "red_name": "Reece McLaren",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 22",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1538.8,
       "red_name": "Kairat Akhmetov",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 10",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Reece McLaren",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE 162",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Reece McLaren",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 158",
       "time": "3:42",
       "weight_class": "Flyweight"
     }
@@ -166,14 +176,14 @@
     {
       "date": "2024-12-07",
       "fight_id": "2e8eca7ba91e476b",
-      "rating": 1555.7,
+      "rating": 1556.5,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2024-12-07",
       "fight_id": "2e8eca7ba91e476b",
-      "rating": 1550.9,
+      "rating": 1551.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,8 +193,8 @@
   "last_fight_date": "2024-12-07",
   "name": "Reece McLaren",
   "nickname": "",
-  "overall_elo": 1550.9,
-  "peak_elo": 1555.7,
+  "overall_elo": 1551.6,
+  "peak_elo": 1556.5,
   "slug": "reece-mclaren",
   "systems": {
     "division": "men:Flyweight",

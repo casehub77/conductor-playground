@@ -1,6 +1,6 @@
 {
   "current_elo": 1532.9,
-  "divisional_rank": 138,
+  "divisional_rank": 132,
   "fight_count": 7,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Mateusz Gamrot",
-      "opponent_elo": 1693.4,
+      "opponent_elo": 1694.0,
       "outcome": "red_win",
       "post_elo": 1532.9,
       "pre_elo": 1544.5,
       "red_name": "Mateusz Gamrot",
       "round": "2",
+      "source": "ufc:official",
+      "source_title": "",
       "time": "4:19",
       "weight_class": "Lightweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Elves Brener",
-      "opponent_elo": 1520.1,
+      "opponent_elo": 1520.2,
       "outcome": "blue_win",
       "post_elo": 1544.5,
       "pre_elo": 1526.8,
       "red_name": "Elves Brener",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1588.8,
       "outcome": "red_win",
       "post_elo": 1526.8,
-      "pre_elo": 1542.4,
+      "pre_elo": 1542.5,
       "red_name": "Nasrat Haqparast",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Daniel Zellhuber",
       "opponent_elo": 1537.0,
       "outcome": "blue_win",
-      "post_elo": 1542.4,
+      "post_elo": 1542.5,
       "pre_elo": 1523.8,
       "red_name": "Daniel Zellhuber",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Terrance Mckinney",
-      "opponent_elo": 1535.1,
+      "opponent_elo": 1535.3,
       "outcome": "blue_win",
       "post_elo": 1523.8,
       "pre_elo": 1502.5,
       "red_name": "Terrance Mckinney",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:37",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1482.0,
       "red_name": "Kamuela Kirk",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Esteban Ribovics",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -192,7 +206,7 @@
     {
       "date": "2024-09-14",
       "fight_id": "da6627bfc4885b0b",
-      "rating": 1542.4,
+      "rating": 1542.5,
       "scope": "division",
       "system": "men:Lightweight"
     },

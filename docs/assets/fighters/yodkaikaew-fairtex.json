@@ -1,28 +1,8 @@
 {
-  "current_elo": 1500.0,
-  "divisional_rank": 495,
-  "fight_count": 4,
+  "current_elo": 1497.2,
+  "divisional_rank": 415,
+  "fight_count": 3,
   "fight_log": [
-    {
-      "blue_name": "Angelos Giakoumis",
-      "bout_type": "Flyweight Muay Thai Bout",
-      "date": "2023-03-31",
-      "elo_delta": 19.8,
-      "event_name": "ONE Friday Fights 11: Superball vs. Kongklai 2",
-      "fight_id": "6da8feb87d98153b",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Angelos Giakoumis",
-      "opponent_elo": 1482.0,
-      "outcome": "red_win",
-      "post_elo": 1467.0,
-      "pre_elo": 1447.2,
-      "red_name": "Yodkaikaew Fairtex",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Flyweight"
-    },
     {
       "blue_name": "Yodkaikaew Fairtex",
       "bout_type": "Flyweight Bout",
@@ -40,6 +20,8 @@
       "pre_elo": 1463.6,
       "red_name": "Eko Roni Saputra",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 162",
       "time": "2:16",
       "weight_class": "Flyweight"
     },
@@ -60,6 +42,8 @@
       "pre_elo": 1480.6,
       "red_name": "Gurdarshan Mangat",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 158",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Woo Sung Hoon",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE: Bad Blood",
       "time": "0:18",
       "weight_class": "Flyweight"
     }
@@ -128,25 +114,11 @@
       "rating": 1452.7,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2023-03-31",
-      "fight_id": "6da8feb87d98153b",
-      "rating": 1467.0,
-      "scope": "division",
-      "system": "men:Flyweight"
-    },
-    {
-      "date": "2023-03-31",
-      "fight_id": "6da8feb87d98153b",
-      "rating": 1470.1,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2023-03-31",
+  "last_fight_date": "2022-10-21",
   "name": "Yodkaikaew Fairtex",
   "nickname": "",
   "overall_elo": 1500.0,

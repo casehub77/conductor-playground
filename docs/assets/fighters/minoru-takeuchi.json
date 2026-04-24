@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 419,
+  "divisional_rank": 414,
   "fight_count": 4,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Hidekazu Fukushima",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1528.0,
-      "pre_elo": 1509.1,
+      "post_elo": 1529.0,
+      "pre_elo": 1510.1,
       "red_name": "Minoru Takeuchi",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "3:48",
       "weight_class": "Open Weight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Kenji Yamamoto",
       "opponent_elo": 1533.3,
       "outcome": "red_win",
-      "post_elo": 1509.1,
-      "pre_elo": 1528.3,
+      "post_elo": 1510.1,
+      "pre_elo": 1529.3,
       "red_name": "Kenji Yamamoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "2:12",
       "weight_class": "Open Weight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Katsuhisa Akasaki",
       "bout_type": "Open Weight Bout",
       "date": "2011-03-21",
-      "elo_delta": 10.3,
+      "elo_delta": 11.3,
       "event_name": "Shooto: Genesis",
       "fight_id": "5dcf7de2587bbd08",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Guillotine Choke)",
       "opponent": "Katsuhisa Akasaki",
-      "opponent_elo": 1340.0,
+      "opponent_elo": 1362.9,
       "outcome": "red_win",
-      "post_elo": 1528.3,
+      "post_elo": 1529.3,
       "pre_elo": 1518.0,
       "red_name": "Minoru Takeuchi",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "1:40",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Minoru Takeuchi",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -104,42 +112,42 @@
     {
       "date": "2011-03-21",
       "fight_id": "5dcf7de2587bbd08",
-      "rating": 1528.3,
+      "rating": 1529.3,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-03-21",
       "fight_id": "5dcf7de2587bbd08",
-      "rating": 1525.7,
+      "rating": 1526.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-05-28",
       "fight_id": "f2813db4dc30f1e3",
-      "rating": 1509.1,
+      "rating": 1510.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-05-28",
       "fight_id": "f2813db4dc30f1e3",
-      "rating": 1508.6,
+      "rating": 1509.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-10-02",
       "fight_id": "2968b0d3f9f944bd",
-      "rating": 1528.0,
+      "rating": 1529.0,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-10-02",
       "fight_id": "2968b0d3f9f944bd",
-      "rating": 1525.5,
+      "rating": 1526.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -150,7 +158,7 @@
   "name": "Minoru Takeuchi",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1528.3,
+  "peak_elo": 1529.3,
   "slug": "minoru-takeuchi",
   "systems": {
     "division": "men:Open Weight",

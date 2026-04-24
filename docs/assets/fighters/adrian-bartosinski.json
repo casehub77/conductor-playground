@@ -1,6 +1,6 @@
 {
-  "current_elo": 1590.4,
-  "divisional_rank": 28,
+  "current_elo": 1590.3,
+  "divisional_rank": 27,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Madars Fleminas",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1590.4,
+      "post_elo": 1590.3,
       "pre_elo": 1576.2,
       "red_name": "Adrian Bartosiński",
       "round": "5",
+      "source": "manual",
+      "source_title": "2026 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Krystian Kaszubowski",
-      "opponent_elo": 1531.1,
+      "opponent_elo": 1530.6,
       "outcome": "red_win",
       "post_elo": 1576.2,
       "pre_elo": 1558.3,
       "red_name": "Adrian Bartosiński",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "4:58",
       "weight_class": "Welterweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1540.0,
       "red_name": "Adrian Bartosiński",
       "round": "2",
+      "source": "manual",
+      "source_title": "2022 in Konfrontacja Sztuk Walki",
       "time": "0:33",
       "weight_class": "Welterweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Adrian Bartosiński",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Konfrontacja Sztuk Walki",
       "time": "1:53",
       "weight_class": "Welterweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Adrian Bartosiński",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Konfrontacja Sztuk Walki",
       "time": "4:05",
       "weight_class": "Welterweight"
     }
@@ -166,14 +176,14 @@
     {
       "date": "2026-03-14",
       "fight_id": "b29e2085a7f4eeb7",
-      "rating": 1590.4,
+      "rating": 1590.3,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2026-03-14",
       "fight_id": "b29e2085a7f4eeb7",
-      "rating": 1581.6,
+      "rating": 1581.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,8 +193,8 @@
   "last_fight_date": "2026-03-14",
   "name": "Adrian Bartosiński",
   "nickname": "",
-  "overall_elo": 1581.6,
-  "peak_elo": 1590.4,
+  "overall_elo": 1581.5,
+  "peak_elo": 1590.3,
   "slug": "adrian-bartosinski",
   "systems": {
     "division": "men:Welterweight",

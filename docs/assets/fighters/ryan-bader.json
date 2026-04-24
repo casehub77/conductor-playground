@@ -1,5 +1,5 @@
 {
-  "current_elo": 1642.0,
+  "current_elo": 1642.1,
   "divisional_rank": 7,
   "fight_count": 25,
   "fight_log": [
@@ -16,10 +16,12 @@
       "opponent": "Fedor Emelianenko",
       "opponent_elo": 1601.7,
       "outcome": "red_win",
-      "post_elo": 1684.7,
-      "pre_elo": 1669.0,
+      "post_elo": 1684.8,
+      "pre_elo": 1669.1,
       "red_name": "Ryan Bader",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 290",
       "time": "2:30",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision (unanimous) (50–45, 50–45, 50–45)",
       "opponent": "Cheick Kongo",
-      "opponent_elo": 1589.6,
+      "opponent_elo": 1590.4,
       "outcome": "red_win",
-      "post_elo": 1669.0,
+      "post_elo": 1669.1,
       "pre_elo": 1654.3,
       "red_name": "Ryan Bader",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 280",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1641.0,
       "red_name": "Ryan Bader",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 273",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1677.9,
       "red_name": "Corey Anderson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 268",
       "time": "0:51",
       "weight_class": "Light Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1661.9,
       "red_name": "Ryan Bader",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 256",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -117,9 +127,11 @@
       "opponent_elo": 1539.9,
       "outcome": "red_win",
       "post_elo": 1661.9,
-      "pre_elo": 1648.3,
+      "pre_elo": 1648.4,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:51",
       "weight_class": "Light Heavyweight"
     },
@@ -136,10 +148,12 @@
       "opponent": "Ilir Latifi",
       "opponent_elo": 1563.0,
       "outcome": "red_win",
-      "post_elo": 1648.3,
+      "post_elo": 1648.4,
       "pre_elo": 1632.8,
       "red_name": "Ryan Bader",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:06",
       "weight_class": "Light Heavyweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Anthony Johnson",
-      "opponent_elo": 1610.8,
+      "opponent_elo": 1610.9,
       "outcome": "red_win",
       "post_elo": 1632.8,
       "pre_elo": 1654.6,
       "red_name": "Anthony Johnson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:26",
       "weight_class": "Light Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1634.5,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1616.3,
       "red_name": "Phil Davis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1599.6,
       "red_name": "Ryan Bader",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1584.5,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1569.3,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -277,9 +303,11 @@
       "opponent_elo": 1612.1,
       "outcome": "red_win",
       "post_elo": 1569.3,
-      "pre_elo": 1587.3,
+      "pre_elo": 1587.4,
       "red_name": "Glover Teixeira",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:55",
       "weight_class": "Light Heavyweight"
     },
@@ -296,10 +324,12 @@
       "opponent": "Vladimir Matyushenko",
       "opponent_elo": 1539.1,
       "outcome": "red_win",
-      "post_elo": 1587.3,
+      "post_elo": 1587.4,
       "pre_elo": 1569.6,
       "red_name": "Ryan Bader",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:50",
       "weight_class": "Light Heavyweight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1588.1,
       "red_name": "Lyoto Machida",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:32",
       "weight_class": "Light Heavyweight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1566.1,
       "red_name": "Quinton Jackson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1549.5,
       "red_name": "Ryan Bader",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:17",
       "weight_class": "Light Heavyweight"
     },
@@ -377,9 +413,11 @@
       "opponent_elo": 1583.3,
       "outcome": "red_win",
       "post_elo": 1549.5,
-      "pre_elo": 1568.0,
+      "pre_elo": 1568.1,
       "red_name": "Tito Ortiz",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:56",
       "weight_class": "Light Heavyweight"
     },
@@ -396,10 +434,12 @@
       "opponent": "Jon Jones",
       "opponent_elo": 1578.1,
       "outcome": "red_win",
-      "post_elo": 1568.0,
-      "pre_elo": 1588.0,
+      "post_elo": 1568.1,
+      "pre_elo": 1588.1,
       "red_name": "Jon Jones",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:20",
       "weight_class": "Light Heavyweight"
     },
@@ -416,10 +456,12 @@
       "opponent": "Rogerio Nogueira",
       "opponent_elo": 1540.6,
       "outcome": "blue_win",
-      "post_elo": 1588.0,
-      "pre_elo": 1571.6,
+      "post_elo": 1588.1,
+      "pre_elo": 1571.7,
       "red_name": "Rogerio Nogueira",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -434,12 +476,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Keith Jardine",
-      "opponent_elo": 1521.5,
+      "opponent_elo": 1521.9,
       "outcome": "red_win",
-      "post_elo": 1571.6,
+      "post_elo": 1571.7,
       "pre_elo": 1554.0,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:10",
       "weight_class": "Light Heavyweight"
     },
@@ -460,6 +504,8 @@
       "pre_elo": 1536.5,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -480,6 +526,8 @@
       "pre_elo": 1519.4,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -500,6 +548,8 @@
       "pre_elo": 1500.0,
       "red_name": "Ryan Bader",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:18",
       "weight_class": "Light Heavyweight"
     }
@@ -552,7 +602,7 @@
     {
       "date": "2010-02-20",
       "fight_id": "f902cc6e21859bf2",
-      "rating": 1571.6,
+      "rating": 1571.7,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -566,7 +616,7 @@
     {
       "date": "2010-09-25",
       "fight_id": "ec870e51be6770a4",
-      "rating": 1588.0,
+      "rating": 1588.1,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -580,7 +630,7 @@
     {
       "date": "2011-02-05",
       "fight_id": "8c06d8a5bfbb170a",
-      "rating": 1568.0,
+      "rating": 1568.1,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -643,14 +693,14 @@
     {
       "date": "2012-08-04",
       "fight_id": "d8a98f09e285ab2b",
-      "rating": 1563.2,
+      "rating": 1563.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2013-01-26",
       "fight_id": "7473ee5c457471e1",
-      "rating": 1587.3,
+      "rating": 1587.4,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -762,7 +812,7 @@
     {
       "date": "2016-09-03",
       "fight_id": "9df668f7e4d0c741",
-      "rating": 1648.3,
+      "rating": 1648.4,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -783,7 +833,7 @@
     {
       "date": "2016-11-19",
       "fight_id": "fcc3f9ccd2b0814d",
-      "rating": 1647.1,
+      "rating": 1647.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -832,28 +882,28 @@
     {
       "date": "2022-05-06",
       "fight_id": "b8411307731e9725",
-      "rating": 1669.0,
+      "rating": 1669.1,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2022-05-06",
       "fight_id": "b8411307731e9725",
-      "rating": 1665.6,
+      "rating": 1665.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-02-04",
       "fight_id": "56b4131496ba8b96",
-      "rating": 1684.7,
+      "rating": 1684.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2023-02-04",
       "fight_id": "56b4131496ba8b96",
-      "rating": 1682.7,
+      "rating": 1682.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -864,7 +914,7 @@
   "name": "Ryan Bader",
   "nickname": "",
   "overall_elo": 1640.0,
-  "peak_elo": 1684.7,
+  "peak_elo": 1684.8,
   "slug": "ryan-bader",
   "systems": {
     "division": "men:Heavyweight",

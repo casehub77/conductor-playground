@@ -1,6 +1,6 @@
 {
-  "current_elo": 1516.1,
-  "divisional_rank": 229,
+  "current_elo": 1516.3,
+  "divisional_rank": 211,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Grant Dawson",
       "opponent_elo": 1615.6,
       "outcome": "blue_win",
-      "post_elo": 1548.8,
-      "pre_elo": 1564.1,
+      "post_elo": 1548.9,
+      "pre_elo": 1564.3,
       "red_name": "Damir Ismagulov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Damir Ismagulov",
       "bout_type": "Lightweight Bout",
       "date": "2022-12-17",
-      "elo_delta": -18.6,
+      "elo_delta": -18.4,
       "event_name": "UFC Fight Night: Cannonier vs. Strickland",
       "fight_id": "3710aacf0a6e2f3f",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Arman Tsarukyan",
-      "opponent_elo": 1570.9,
+      "opponent_elo": 1574.9,
       "outcome": "red_win",
-      "post_elo": 1564.1,
+      "post_elo": 1564.3,
       "pre_elo": 1582.7,
       "red_name": "Arman Tsarukyan",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1566.8,
       "red_name": "Damir Ismagulov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1551.4,
       "red_name": "Rafael Alves",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1535.1,
       "red_name": "Damir Ismagulov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1518.0,
       "red_name": "Damir Ismagulov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Alex Gorgees",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -220,28 +234,28 @@
     {
       "date": "2022-12-17",
       "fight_id": "3710aacf0a6e2f3f",
-      "rating": 1564.1,
+      "rating": 1564.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-12-17",
       "fight_id": "3710aacf0a6e2f3f",
-      "rating": 1557.6,
+      "rating": 1557.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-07-01",
       "fight_id": "85f3e3cf92287e66",
-      "rating": 1548.8,
+      "rating": 1548.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-07-01",
       "fight_id": "85f3e3cf92287e66",
-      "rating": 1544.0,
+      "rating": 1544.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,7 +265,7 @@
   "last_fight_date": "2023-07-01",
   "name": "Damir Ismagulov",
   "nickname": "",
-  "overall_elo": 1511.4,
+  "overall_elo": 1511.5,
   "peak_elo": 1582.7,
   "slug": "damir-ismagulov",
   "systems": {

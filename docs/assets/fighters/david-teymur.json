@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 346,
+  "divisional_rank": 325,
   "fight_count": 6,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Charles Oliveira",
       "opponent_elo": 1574.2,
       "outcome": "red_win",
-      "post_elo": 1569.4,
-      "pre_elo": 1589.7,
+      "post_elo": 1569.8,
+      "pre_elo": 1590.1,
       "red_name": "Charles Oliveira",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:55",
       "weight_class": "Lightweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "David Teymur",
       "bout_type": "Lightweight Bout",
       "date": "2018-06-01",
-      "elo_delta": 18.2,
+      "elo_delta": 18.5,
       "event_name": "UFC Fight Night: Rivera vs. Moraes",
       "fight_id": "f6eb2b7691c6ba06",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Nik Lentz",
-      "opponent_elo": 1575.4,
+      "opponent_elo": 1582.0,
       "outcome": "blue_win",
-      "post_elo": 1589.7,
+      "post_elo": 1590.1,
       "pre_elo": 1571.5,
       "red_name": "Nik Lentz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1554.4,
       "red_name": "David Teymur",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1537.8,
       "red_name": "Lando Vannata",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1519.4,
       "red_name": "David Teymur",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:25",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "David Teymur",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:26",
       "weight_class": "Lightweight"
     }
@@ -186,28 +198,28 @@
     {
       "date": "2018-06-01",
       "fight_id": "f6eb2b7691c6ba06",
-      "rating": 1589.7,
+      "rating": 1590.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2018-06-01",
       "fight_id": "f6eb2b7691c6ba06",
-      "rating": 1581.1,
+      "rating": 1581.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-02-02",
       "fight_id": "6abd3c9b918bce12",
-      "rating": 1569.4,
+      "rating": 1569.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2019-02-02",
       "fight_id": "6abd3c9b918bce12",
-      "rating": 1564.7,
+      "rating": 1564.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -218,7 +230,7 @@
   "name": "David Teymur",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1589.7,
+  "peak_elo": 1590.1,
   "slug": "david-teymur",
   "systems": {
     "division": "men:Lightweight",

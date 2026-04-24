@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 182,
+  "divisional_rank": 180,
   "fight_count": 7,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Gabriel Gonzaga",
-      "opponent_elo": 1541.5,
+      "opponent_elo": 1542.9,
       "outcome": "red_win",
-      "post_elo": 1479.7,
-      "pre_elo": 1496.6,
+      "post_elo": 1479.8,
+      "pre_elo": 1496.7,
       "red_name": "Gabriel Gonzaga",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:17",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Antonio Rodrigo Nogueira",
-      "opponent_elo": 1537.2,
+      "opponent_elo": 1537.3,
       "outcome": "red_win",
-      "post_elo": 1496.6,
+      "post_elo": 1496.7,
       "pre_elo": 1514.8,
       "red_name": "Antonio Rodrigo Nogueira",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:31",
       "weight_class": "Heavyweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1510.7,
       "outcome": "red_win",
       "post_elo": 1514.8,
-      "pre_elo": 1535.6,
+      "pre_elo": 1535.7,
       "red_name": "Roy Nelson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:51",
       "weight_class": "Heavyweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Dave Herman",
       "bout_type": "Heavyweight Bout",
       "date": "2012-02-15",
-      "elo_delta": -19.5,
+      "elo_delta": -19.4,
       "event_name": "UFC on FUEL TV: Sanchez vs Ellenberger",
       "fight_id": "c9994809a2c55b51",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Stefan Struve",
-      "opponent_elo": 1554.0,
+      "opponent_elo": 1555.0,
       "outcome": "red_win",
-      "post_elo": 1535.6,
+      "post_elo": 1535.7,
       "pre_elo": 1555.1,
       "red_name": "Stefan Struve",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:52",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1537.8,
       "red_name": "Dave Herman",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:19",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.4,
       "red_name": "Dave Herman",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 31",
       "time": "3:16",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Dave Herman",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 5",
       "time": "4:46",
       "weight_class": "Heavyweight"
     }
@@ -192,7 +206,7 @@
     {
       "date": "2012-02-15",
       "fight_id": "c9994809a2c55b51",
-      "rating": 1535.6,
+      "rating": 1535.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -220,28 +234,28 @@
     {
       "date": "2012-10-13",
       "fight_id": "ebb29243993dc82b",
-      "rating": 1496.6,
+      "rating": 1496.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2012-10-13",
       "fight_id": "ebb29243993dc82b",
-      "rating": 1497.3,
+      "rating": 1497.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2013-07-06",
       "fight_id": "b8192371c290978e",
-      "rating": 1479.7,
+      "rating": 1479.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2013-07-06",
       "fight_id": "b8192371c290978e",
-      "rating": 1482.1,
+      "rating": 1482.2,
       "scope": "overall",
       "system": "men:overall"
     }

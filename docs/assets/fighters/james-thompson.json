@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 181,
+  "divisional_rank": 179,
   "fight_count": 10,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Tsuyoshi Kosaka",
       "opponent_elo": 1493.9,
       "outcome": "red_win",
-      "post_elo": 1496.9,
-      "pre_elo": 1517.7,
+      "post_elo": 1497.2,
+      "pre_elo": 1517.9,
       "red_name": "Tsuyoshi Kosaka",
       "round": "2",
+      "source": "manual",
+      "source_title": "2015 in Rizin Fighting Federation",
       "time": "11:58",
       "weight_class": "Heavyweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "James Thompson",
       "bout_type": "Heavyweight Bout",
       "date": "2010-09-25",
-      "elo_delta": -19.9,
+      "elo_delta": -20.0,
       "event_name": "Dream 16",
       "fight_id": "2827531e2bf51f85",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Yusuke Kawaguchi",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1517.7,
-      "pre_elo": 1537.6,
+      "post_elo": 1517.9,
+      "pre_elo": 1537.9,
       "red_name": "Yusuke Kawaguchi",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 16",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "James Thompson",
       "bout_type": "Heavyweight Bout",
       "date": "2009-10-25",
-      "elo_delta": -17.6,
+      "elo_delta": -17.3,
       "event_name": "Dream 12: Cage of Dreams",
       "fight_id": "40361971d72b2b44",
       "gender": "men",
       "is_title": false,
       "method": "Submission (guillotine choke)",
       "opponent": "Alistair Overeem",
-      "opponent_elo": 1588.1,
+      "opponent_elo": 1593.5,
       "outcome": "red_win",
-      "post_elo": 1537.6,
+      "post_elo": 1537.9,
       "pre_elo": 1555.2,
       "red_name": "Alistair Overeem",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 12",
       "time": "0:33",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1533.8,
       "red_name": "James Thompson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 34",
       "time": "6:23",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1513.1,
       "red_name": "James Thompson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2006",
       "time": "7:50",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1535.1,
       "red_name": "Kazuyuki Fujita",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Total Elimination Absolute",
       "time": "8:25",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1519.5,
       "red_name": "James Thompson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2005",
       "time": "1:28",
       "weight_class": "Open Weight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.1,
       "red_name": "James Thompson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 30",
       "time": "2:13",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1480.6,
       "red_name": "James Thompson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 8",
       "time": "1:21",
       "weight_class": "Open Weight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Aleksander Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 28",
       "time": "0:11",
       "weight_class": "Open Weight"
     }
@@ -308,42 +328,42 @@
     {
       "date": "2009-10-25",
       "fight_id": "40361971d72b2b44",
-      "rating": 1537.6,
+      "rating": 1537.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2009-10-25",
       "fight_id": "40361971d72b2b44",
-      "rating": 1535.0,
+      "rating": 1535.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-09-25",
       "fight_id": "2827531e2bf51f85",
-      "rating": 1517.7,
+      "rating": 1517.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2010-09-25",
       "fight_id": "2827531e2bf51f85",
-      "rating": 1517.4,
+      "rating": 1517.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2015-12-29",
       "fight_id": "2b7f7fad66762f88",
-      "rating": 1496.9,
+      "rating": 1497.2,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2015-12-29",
       "fight_id": "2b7f7fad66762f88",
-      "rating": 1498.9,
+      "rating": 1499.2,
       "scope": "overall",
       "system": "men:overall"
     }

@@ -1,13 +1,13 @@
 {
-  "current_elo": 1560.5,
-  "divisional_rank": 54,
+  "current_elo": 1560.7,
+  "divisional_rank": 47,
   "fight_count": 15,
   "fight_log": [
     {
       "blue_name": "Marcus Mcghee",
       "bout_type": "Bantamweight Bout",
       "date": "2024-11-16",
-      "elo_delta": -19.4,
+      "elo_delta": -19.5,
       "event_name": "UFC 309: Jones vs. Miocic",
       "fight_id": "5ec4238e6ad9a55d",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Marcus Mcghee",
       "opponent_elo": 1551.9,
       "outcome": "blue_win",
-      "post_elo": 1560.5,
-      "pre_elo": 1579.9,
+      "post_elo": 1560.7,
+      "pre_elo": 1580.1,
       "red_name": "Jonathan Martinez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Jonathan Martinez",
       "bout_type": "Bantamweight Bout",
       "date": "2024-05-04",
-      "elo_delta": -17.3,
+      "elo_delta": -17.2,
       "event_name": "UFC 301: Pantoja vs. Erceg",
       "fight_id": "823661b86944e8d7",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Jose Aldo",
-      "opponent_elo": 1610.7,
+      "opponent_elo": 1612.5,
       "outcome": "red_win",
-      "post_elo": 1579.9,
-      "pre_elo": 1597.2,
+      "post_elo": 1580.1,
+      "pre_elo": 1597.4,
       "red_name": "Jose Aldo",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Adrian Yanez",
-      "opponent_elo": 1568.5,
+      "opponent_elo": 1568.6,
       "outcome": "red_win",
-      "post_elo": 1597.2,
-      "pre_elo": 1578.3,
+      "post_elo": 1597.4,
+      "pre_elo": 1578.5,
       "red_name": "Jonathan Martinez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:26",
       "weight_class": "Bantamweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Said Nurmagomedov",
-      "opponent_elo": 1592.6,
+      "opponent_elo": 1592.7,
       "outcome": "blue_win",
-      "post_elo": 1578.3,
-      "pre_elo": 1558.6,
+      "post_elo": 1578.5,
+      "pre_elo": 1558.7,
       "red_name": "Said Nurmagomedov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Cub Swanson",
       "opponent_elo": 1588.0,
       "outcome": "blue_win",
-      "post_elo": 1558.6,
-      "pre_elo": 1536.3,
+      "post_elo": 1558.7,
+      "pre_elo": 1536.4,
       "red_name": "Cub Swanson",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:19",
       "weight_class": "Bantamweight"
     },
@@ -116,10 +126,12 @@
       "opponent": "Vince Morales",
       "opponent_elo": 1522.5,
       "outcome": "red_win",
-      "post_elo": 1536.3,
-      "pre_elo": 1518.0,
+      "post_elo": 1536.4,
+      "pre_elo": 1518.2,
       "red_name": "Jonathan Martinez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -136,10 +148,12 @@
       "opponent": "Alejandro Perez",
       "opponent_elo": 1567.3,
       "outcome": "blue_win",
-      "post_elo": 1556.4,
-      "pre_elo": 1536.8,
+      "post_elo": 1556.5,
+      "pre_elo": 1536.9,
       "red_name": "Alejandro Perez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -156,10 +170,12 @@
       "opponent": "Zviad Lazishvili",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1518.0,
-      "pre_elo": 1500.1,
+      "post_elo": 1518.2,
+      "pre_elo": 1500.2,
       "red_name": "Jonathan Martinez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -176,10 +192,12 @@
       "opponent": "Davey Grant",
       "opponent_elo": 1501.6,
       "outcome": "blue_win",
-      "post_elo": 1500.1,
-      "pre_elo": 1520.6,
+      "post_elo": 1500.2,
+      "pre_elo": 1520.7,
       "red_name": "Jonathan Martinez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:03",
       "weight_class": "Bantamweight"
     },
@@ -196,10 +214,12 @@
       "opponent": "Thomas Almeida",
       "opponent_elo": 1529.4,
       "outcome": "blue_win",
-      "post_elo": 1536.8,
-      "pre_elo": 1518.2,
+      "post_elo": 1536.9,
+      "pre_elo": 1518.4,
       "red_name": "Thomas Almeida",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -207,19 +227,21 @@
       "blue_name": "Jonathan Martinez",
       "bout_type": "Bantamweight Bout",
       "date": "2020-08-01",
-      "elo_delta": 20.3,
+      "elo_delta": 20.5,
       "event_name": "UFC Fight Night: Brunson vs. Shahbazyan",
       "fight_id": "456ce88b8e2fd919",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Frankie Saenz",
-      "opponent_elo": 1515.9,
+      "opponent_elo": 1518.5,
       "outcome": "blue_win",
-      "post_elo": 1520.6,
+      "post_elo": 1520.7,
       "pre_elo": 1500.2,
       "red_name": "Frankie Saenz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:57",
       "weight_class": "Bantamweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1519.1,
       "red_name": "Andre Ewell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1497.6,
       "red_name": "Pingyuan Liu",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:54",
       "weight_class": "Bantamweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1480.5,
       "red_name": "Wulijiburen",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1500.0,
       "red_name": "Andre Soukhamthath",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -366,154 +396,154 @@
     {
       "date": "2020-08-01",
       "fight_id": "456ce88b8e2fd919",
-      "rating": 1520.6,
+      "rating": 1520.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2020-08-01",
       "fight_id": "456ce88b8e2fd919",
+      "rating": 1518.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2020-10-17",
+      "fight_id": "e6732b8e11116cec",
+      "rating": 1536.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2020-10-17",
+      "fight_id": "e6732b8e11116cec",
+      "rating": 1534.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-03-13",
+      "fight_id": "7956123c87e32db4",
+      "rating": 1500.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2021-03-13",
+      "fight_id": "7956123c87e32db4",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2021-10-23",
+      "fight_id": "33409e28c92d1a5a",
       "rating": 1518.2,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2020-10-17",
-      "fight_id": "e6732b8e11116cec",
-      "rating": 1536.8,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2020-10-17",
-      "fight_id": "e6732b8e11116cec",
-      "rating": 1534.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2021-03-13",
-      "fight_id": "7956123c87e32db4",
-      "rating": 1500.1,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2021-03-13",
-      "fight_id": "7956123c87e32db4",
-      "rating": 1515.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2021-10-23",
-      "fight_id": "33409e28c92d1a5a",
-      "rating": 1518.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-10-23",
       "fight_id": "33409e28c92d1a5a",
-      "rating": 1531.1,
+      "rating": 1531.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-02-26",
       "fight_id": "6af6aac89628df1c",
-      "rating": 1556.4,
+      "rating": 1556.5,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2022-02-26",
       "fight_id": "6af6aac89628df1c",
-      "rating": 1548.7,
+      "rating": 1548.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-05-21",
       "fight_id": "2c0d739c371e9032",
-      "rating": 1536.3,
+      "rating": 1536.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-05-21",
       "fight_id": "2c0d739c371e9032",
-      "rating": 1562.7,
+      "rating": 1562.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-10-15",
       "fight_id": "bf807dea8b724048",
-      "rating": 1558.6,
+      "rating": 1558.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-10-15",
       "fight_id": "bf807dea8b724048",
-      "rating": 1581.3,
+      "rating": 1581.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-03-11",
       "fight_id": "7039442b6733a124",
-      "rating": 1578.3,
+      "rating": 1578.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-03-11",
       "fight_id": "7039442b6733a124",
+      "rating": 1597.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-10-14",
+      "fight_id": "763bbdecaf7b7d1a",
       "rating": 1597.4,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2023-10-14",
-      "fight_id": "763bbdecaf7b7d1a",
-      "rating": 1597.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-10-14",
       "fight_id": "763bbdecaf7b7d1a",
-      "rating": 1612.9,
+      "rating": 1613.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-05-04",
       "fight_id": "823661b86944e8d7",
-      "rating": 1579.9,
+      "rating": 1580.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-05-04",
       "fight_id": "823661b86944e8d7",
-      "rating": 1596.7,
+      "rating": 1596.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-11-16",
       "fight_id": "5ec4238e6ad9a55d",
-      "rating": 1560.5,
+      "rating": 1560.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-11-16",
       "fight_id": "5ec4238e6ad9a55d",
-      "rating": 1578.4,
+      "rating": 1578.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -523,8 +553,8 @@
   "last_fight_date": "2024-11-16",
   "name": "Jonathan Martinez",
   "nickname": "",
-  "overall_elo": 1578.4,
-  "peak_elo": 1612.9,
+  "overall_elo": 1578.6,
+  "peak_elo": 1613.0,
   "slug": "jonathan-martinez",
   "systems": {
     "division": "men:Bantamweight",

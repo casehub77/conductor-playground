@@ -2,7 +2,12 @@ from __future__ import annotations
 
 import unittest
 
-from ufc_elo.wikipedia import discover_event_titles_from_links, parse_event_payload, parse_year_page_payload
+from ufc_elo.wikipedia import (
+    discover_event_titles_from_links,
+    parse_event_payload,
+    parse_fighter_page_payload,
+    parse_year_page_payload,
+)
 
 
 STANDALONE_EVENT_HTML = """
@@ -129,6 +134,33 @@ YEAR_PAGE_WITH_METADATA_TABLE_HTML = """
 </div>
 """
 
+FIGHTER_PAGE_HTML = """
+<div class="mw-parser-output">
+<h2 id="Mixed_martial_arts_record">Mixed martial arts record</h2>
+<table class="wikitable mw-collapsible">
+<tbody>
+<tr><td>29 matches</td><td>28 wins</td><td>1 loss</td></tr>
+</tbody>
+</table>
+<table class="wikitable">
+<tbody>
+<tr>
+<th>Res.</th><th>Record</th><th>Opponent</th><th>Method</th><th>Event</th><th>Date</th><th>Round</th><th>Time</th><th>Location</th><th>Notes</th>
+</tr>
+<tr>
+<td>Win</td><td>12-1</td><td><a href="/wiki/Fighter_B">Fighter B</a></td><td>Decision (unanimous)</td><td><a href="/wiki/Cage_Warriors_1">Cage Warriors 1</a></td><td>May 1, 2014</td><td>3</td><td>5:00</td><td>London, England</td><td>Lightweight bout</td>
+</tr>
+<tr>
+<td>Loss</td><td>11-1</td><td><a href="/wiki/Fighter_C">Fighter C</a></td><td>Submission (rear-naked choke)</td><td>Regional 10</td><td>April 1, 2013</td><td>2</td><td>3:10</td><td>Dublin, Ireland</td><td></td>
+</tr>
+<tr>
+<td>NC</td><td>11-0</td><td><a href="/wiki/Fighter_D">Fighter D</a></td><td>No contest</td><td>Regional 9</td><td>March 1, 2013</td><td>1</td><td>1:10</td><td>Rome, Italy</td><td>Catchweight 165 lb</td>
+</tr>
+</tbody>
+</table>
+</div>
+"""
+
 
 class WikipediaParsingTests(unittest.TestCase):
     def test_discover_event_titles_filters_links(self) -> None:
@@ -211,6 +243,30 @@ class WikipediaParsingTests(unittest.TestCase):
         self.assertEqual(len(rows), 1)
         self.assertEqual(rows[0]["event_date"], "2010-05-22")
         self.assertEqual(rows[0]["event_location"], "Birmingham, England")
+
+    def test_parse_fighter_page_payload(self) -> None:
+        payload = {
+            "parse": {
+                "title": "Example Fighter",
+                "text": FIGHTER_PAGE_HTML,
+                "tocdata": {
+                    "sections": [
+                        {"tocLevel": 1, "line": "Mixed martial arts record", "number": "1", "anchor": "Mixed_martial_arts_record"},
+                    ]
+                },
+            }
+        }
+        rows = parse_fighter_page_payload(payload, "Example Fighter", "Example Fighter")
+        self.assertEqual(len(rows), 3)
+        self.assertEqual(rows[0]["red_fighter_name"], "Example Fighter")
+        self.assertEqual(rows[0]["blue_fighter_name"], "Fighter B")
+        self.assertEqual(rows[0]["fight_outcome"], "red_win")
+        self.assertEqual(rows[0]["bout_type"], "Lightweight Bout")
+        self.assertEqual(rows[1]["red_fighter_name"], "Fighter C")
+        self.assertEqual(rows[1]["blue_fighter_name"], "Example Fighter")
+        self.assertEqual(rows[1]["fight_outcome"], "red_win")
+        self.assertEqual(rows[2]["fight_outcome"], "no_contest")
+        self.assertEqual(rows[2]["bout_type"], "Catch Weight Bout")
 
 
 if __name__ == "__main__":

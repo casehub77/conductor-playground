@@ -1,13 +1,13 @@
 {
-  "current_elo": 1499.8,
-  "divisional_rank": 1004,
-  "fight_count": 4,
+  "current_elo": 1483.1,
+  "divisional_rank": 1048,
+  "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Yoshiki Nakahara",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2025-05-31",
-      "elo_delta": -20.6,
+      "elo_delta": -19.6,
       "event_name": "Rizin World Series in Korea",
       "fight_id": "1566acef12916b24",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Song Young-jae",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1499.8,
-      "pre_elo": 1520.4,
+      "post_elo": 1483.1,
+      "pre_elo": 1502.7,
       "red_name": "Song Young-jae",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "1:28",
       "weight_class": "Featherweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Yoshiki Nakahara",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2024-04-29",
-      "elo_delta": -18.2,
+      "elo_delta": -17.3,
       "event_name": "Rizin 46",
       "fight_id": "868d0cfcde6dbb50",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Viktor Kolesnik",
       "opponent_elo": 1534.4,
       "outcome": "red_win",
-      "post_elo": 1520.4,
-      "pre_elo": 1538.6,
+      "post_elo": 1502.7,
+      "pre_elo": 1519.9,
       "red_name": "Viktor Kolesnik",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -47,20 +51,44 @@
       "blue_name": "Rikuto Shirakawa",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2023-09-24",
-      "elo_delta": 19.1,
+      "elo_delta": 20.1,
       "event_name": "Rizin 44",
       "fight_id": "c85b7c5245b400aa",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Rikuto Shirakawa",
-      "opponent_elo": 1541.5,
+      "opponent_elo": 1541.4,
       "outcome": "red_win",
-      "post_elo": 1538.6,
-      "pre_elo": 1519.4,
+      "post_elo": 1519.9,
+      "pre_elo": 1499.8,
       "red_name": "Yoshiki Nakahara",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Yoshiki Nakahara",
+      "bout_type": "Featherweight Bout",
+      "date": "2022-12-31",
+      "elo_delta": -19.6,
+      "event_name": "Bellator MMA vs. Rizin FF",
+      "fight_id": "1fb28f8968bd5fc5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Chihiro Suzuki",
+      "opponent_elo": 1515.8,
+      "outcome": "red_win",
+      "post_elo": 1499.8,
+      "pre_elo": 1519.4,
+      "red_name": "Chihiro Suzuki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Rizin 40",
+      "time": "4:44",
       "weight_class": "Featherweight"
     },
     {
@@ -80,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yoshiki Nakahara",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "2:31",
       "weight_class": "Featherweight"
     }
@@ -102,44 +132,58 @@
       "system": "men:overall"
     },
     {
-      "date": "2023-09-24",
-      "fight_id": "c85b7c5245b400aa",
-      "rating": 1538.6,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2023-09-24",
-      "fight_id": "c85b7c5245b400aa",
-      "rating": 1534.2,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-04-29",
-      "fight_id": "868d0cfcde6dbb50",
-      "rating": 1520.4,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2024-04-29",
-      "fight_id": "868d0cfcde6dbb50",
-      "rating": 1518.1,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2025-05-31",
-      "fight_id": "1566acef12916b24",
+      "date": "2022-12-31",
+      "fight_id": "1fb28f8968bd5fc5",
       "rating": 1499.8,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
+      "date": "2022-12-31",
+      "fight_id": "1fb28f8968bd5fc5",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "c85b7c5245b400aa",
+      "rating": 1519.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2023-09-24",
+      "fight_id": "c85b7c5245b400aa",
+      "rating": 1517.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-04-29",
+      "fight_id": "868d0cfcde6dbb50",
+      "rating": 1502.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-04-29",
+      "fight_id": "868d0cfcde6dbb50",
+      "rating": 1502.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2025-05-31",
       "fight_id": "1566acef12916b24",
-      "rating": 1499.9,
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2025-05-31",
+      "fight_id": "1566acef12916b24",
+      "rating": 1484.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -149,8 +193,8 @@
   "last_fight_date": "2025-05-31",
   "name": "Yoshiki Nakahara",
   "nickname": "",
-  "overall_elo": 1499.9,
-  "peak_elo": 1538.6,
+  "overall_elo": 1484.8,
+  "peak_elo": 1519.9,
   "slug": "yoshiki-nakahara",
   "systems": {
     "division": "men:Featherweight",

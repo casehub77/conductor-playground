@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 359,
+  "divisional_rank": 352,
   "fight_count": 5,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1494.4,
       "outcome": "red_win",
       "post_elo": 1535.2,
-      "pre_elo": 1517.0,
+      "pre_elo": 1517.1,
       "red_name": "Munehiro Kin",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "1:27",
       "weight_class": "Open Weight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Akira Okada",
       "opponent_elo": 1518.0,
       "outcome": "draw",
-      "post_elo": 1517.0,
+      "post_elo": 1517.1,
       "pre_elo": 1517.0,
       "red_name": "Akira Okada",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1536.3,
       "red_name": "Koshi Matsumoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "4:28",
       "weight_class": "Open Weight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Hiroki Kuga",
       "bout_type": "Open Weight Bout",
       "date": "2009-07-19",
-      "elo_delta": 16.8,
+      "elo_delta": 16.9,
       "event_name": "Shooto: Revolutionary Exchanges 1: Undefeated",
       "fight_id": "5805106d6a8fc2fd",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Hiroki Kuga",
-      "opponent_elo": 1496.8,
+      "opponent_elo": 1497.7,
       "outcome": "red_win",
       "post_elo": 1536.3,
       "pre_elo": 1519.4,
       "red_name": "Munehiro Kin",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Munehiro Kin",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "1:43",
       "weight_class": "Open Weight"
     }
@@ -152,7 +162,7 @@
     {
       "date": "2010-07-19",
       "fight_id": "c78b749696aa0816",
-      "rating": 1517.0,
+      "rating": 1517.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -173,7 +183,7 @@
     {
       "date": "2011-04-29",
       "fight_id": "2e9097e8647c845e",
-      "rating": 1531.5,
+      "rating": 1531.6,
       "scope": "overall",
       "system": "men:overall"
     }

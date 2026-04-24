@@ -1,6 +1,6 @@
 {
   "current_elo": 1532.2,
-  "divisional_rank": 123,
+  "divisional_rank": 103,
   "fight_count": 7,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Danny Sabatello",
-      "opponent_elo": 1578.1,
+      "opponent_elo": 1577.6,
       "outcome": "red_win",
       "post_elo": 1532.2,
       "pre_elo": 1548.7,
       "red_name": "Danny Sabatello",
       "round": "3",
+      "source": "manual",
+      "source_title": "2026 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Jose Torres",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2025-12-31",
-      "elo_delta": 16.1,
+      "elo_delta": 16.2,
       "event_name": "Rizin: Shiwasu no Cho Tsuwamono Matsuri",
       "fight_id": "b288d3c206cfc7eb",
       "gender": "men",
       "is_title": false,
       "method": "Decision (split)",
       "opponent": "Jose Torres",
-      "opponent_elo": 1508.1,
+      "opponent_elo": 1508.4,
       "outcome": "red_win",
       "post_elo": 1560.1,
       "pre_elo": 1543.9,
       "red_name": "Joji Goto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1530.8,
       "red_name": "Joji Goto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "1:49",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1513.5,
       "red_name": "Joji Goto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1534.9,
       "red_name": "Ilyas Eziyeu",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Friday Fights 61",
       "time": "3:01",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1516.4,
       "red_name": "Joji Goto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "2:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Joji Goto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "2:34",
       "weight_class": "Bantamweight"
     }
@@ -241,7 +255,7 @@
     {
       "date": "2026-04-12",
       "fight_id": "a18c1930aa183fd3",
-      "rating": 1542.8,
+      "rating": 1542.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,7 +265,7 @@
   "last_fight_date": "2026-04-12",
   "name": "Joji Goto",
   "nickname": "",
-  "overall_elo": 1542.8,
+  "overall_elo": 1542.7,
   "peak_elo": 1560.1,
   "slug": "joji-goto",
   "systems": {

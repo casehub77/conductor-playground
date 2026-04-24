@@ -1,25 +1,27 @@
 {
-  "current_elo": 1604.2,
-  "divisional_rank": 19,
+  "current_elo": 1604.1,
+  "divisional_rank": 17,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Patchy Mix",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2026-03-07",
-      "elo_delta": 19.3,
+      "elo_delta": 19.2,
       "event_name": "Rizin 52",
       "fight_id": "5afc568c6ed6f1c8",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches and soccer kicks)",
       "opponent": "Patchy Mix",
-      "opponent_elo": 1581.7,
+      "opponent_elo": 1581.2,
       "outcome": "red_win",
-      "post_elo": 1604.2,
-      "pre_elo": 1585.0,
+      "post_elo": 1604.1,
+      "pre_elo": 1584.9,
       "red_name": "Kyoma Akimoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2026 in Rizin Fighting Federation",
       "time": "0:37",
       "weight_class": "Featherweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO (knee to the body)",
       "opponent": "Suguru Nii",
-      "opponent_elo": 1450.9,
+      "opponent_elo": 1450.3,
       "outcome": "red_win",
-      "post_elo": 1585.0,
+      "post_elo": 1584.9,
       "pre_elo": 1572.0,
       "red_name": "Kyoma Akimoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "3:45",
       "weight_class": "Featherweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Kyohei Hagiwara",
-      "opponent_elo": 1526.3,
+      "opponent_elo": 1525.7,
       "outcome": "red_win",
       "post_elo": 1572.0,
       "pre_elo": 1554.2,
       "red_name": "Kyoma Akimoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "3:52",
       "weight_class": "Featherweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1537.8,
       "red_name": "Kyoma Akimoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "2:57",
       "weight_class": "Catch Weight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Ryo Takagi",
-      "opponent_elo": 1522.2,
+      "opponent_elo": 1522.1,
       "outcome": "red_win",
       "post_elo": 1537.8,
       "pre_elo": 1519.7,
       "red_name": "Kyoma Akimoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -107,19 +117,21 @@
       "blue_name": "Kyoma Akimoto",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2024-12-31",
-      "elo_delta": -18.1,
+      "elo_delta": -17.3,
       "event_name": "Rizin 49: Decade",
       "fight_id": "571f3991be5b34a5",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Yuki Motoya",
-      "opponent_elo": 1514.7,
+      "opponent_elo": 1530.0,
       "outcome": "red_win",
-      "post_elo": 1499.3,
+      "post_elo": 1500.1,
       "pre_elo": 1517.4,
       "red_name": "Yuki Motoya",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kyoma Akimoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -164,14 +178,14 @@
     {
       "date": "2024-12-31",
       "fight_id": "571f3991be5b34a5",
-      "rating": 1499.3,
+      "rating": 1500.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-12-31",
       "fight_id": "571f3991be5b34a5",
-      "rating": 1501.3,
+      "rating": 1502.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -185,7 +199,7 @@
     {
       "date": "2025-05-04",
       "fight_id": "b1fc579f02c73f22",
-      "rating": 1518.2,
+      "rating": 1518.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -199,7 +213,7 @@
     {
       "date": "2025-07-27",
       "fight_id": "905e134f1f282fd4",
-      "rating": 1533.0,
+      "rating": 1533.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -213,35 +227,35 @@
     {
       "date": "2025-11-03",
       "fight_id": "45b0d5cf7746c0a1",
-      "rating": 1549.9,
+      "rating": 1550.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-31",
       "fight_id": "a212ec5252643a17",
-      "rating": 1585.0,
+      "rating": 1584.9,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-12-31",
       "fight_id": "a212ec5252643a17",
-      "rating": 1562.6,
+      "rating": 1563.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-03-07",
       "fight_id": "5afc568c6ed6f1c8",
-      "rating": 1604.2,
+      "rating": 1604.1,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2026-03-07",
       "fight_id": "5afc568c6ed6f1c8",
-      "rating": 1580.8,
+      "rating": 1581.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,8 +265,8 @@
   "last_fight_date": "2026-03-07",
   "name": "Kyoma Akimoto",
   "nickname": "",
-  "overall_elo": 1580.8,
-  "peak_elo": 1604.2,
+  "overall_elo": 1581.2,
+  "peak_elo": 1604.1,
   "slug": "kyoma-akimoto",
   "systems": {
     "division": "men:Featherweight",

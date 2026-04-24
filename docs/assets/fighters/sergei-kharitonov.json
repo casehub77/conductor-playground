@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 145,
+  "divisional_rank": 143,
   "fight_count": 16,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Cheick Kongo",
-      "opponent_elo": 1570.6,
+      "opponent_elo": 1571.4,
       "outcome": "red_win",
-      "post_elo": 1543.8,
-      "pre_elo": 1562.8,
+      "post_elo": 1544.0,
+      "pre_elo": 1563.0,
       "red_name": "Cheick Kongo",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 265",
       "time": "4:59",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission (arm triangle choke)",
       "opponent": "Josh Barnett",
-      "opponent_elo": 1594.9,
+      "opponent_elo": 1595.6,
       "outcome": "red_win",
-      "post_elo": 1562.8,
-      "pre_elo": 1581.5,
+      "post_elo": 1563.0,
+      "pre_elo": 1581.6,
       "red_name": "Josh Barnett",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Barnett vs. Kharitonov",
       "time": "4:28",
       "weight_class": "Heavyweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Andrei Arlovski",
       "bout_type": "Heavyweight Bout",
       "date": "2011-02-12",
-      "elo_delta": 19.6,
+      "elo_delta": 19.7,
       "event_name": "Strikeforce: Fedor vs. Bigfoot",
       "fight_id": "97408909269b32c6",
       "gender": "men",
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Andrei Arlovski",
-      "opponent_elo": 1564.5,
+      "opponent_elo": 1566.8,
       "outcome": "red_win",
-      "post_elo": 1581.5,
+      "post_elo": 1581.6,
       "pre_elo": 1561.9,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Silva",
       "time": "2:49",
       "weight_class": "Heavyweight"
     },
@@ -77,9 +83,11 @@
       "opponent_elo": 1557.8,
       "outcome": "red_win",
       "post_elo": 1561.9,
-      "pre_elo": 1582.7,
+      "pre_elo": 1582.8,
       "red_name": "Jeff Monson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 8",
       "time": "1:42",
       "weight_class": "Heavyweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Jimmy Ambriz",
       "opponent_elo": 1463.9,
       "outcome": "red_win",
-      "post_elo": 1582.7,
+      "post_elo": 1582.8,
       "pre_elo": 1569.0,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 6",
       "time": "2:15",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1552.5,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 33",
       "time": "3:46",
       "weight_class": "Heavyweight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Alexander Emelianenko",
-      "opponent_elo": 1532.9,
+      "opponent_elo": 1533.0,
       "outcome": "red_win",
       "post_elo": 1552.5,
       "pre_elo": 1574.2,
       "red_name": "Alexander Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict Absolute",
       "time": "6:45",
       "weight_class": "Heavyweight"
     },
@@ -147,19 +161,21 @@
       "blue_name": "Sergei Kharitonov",
       "bout_type": "Open Weight Bout",
       "date": "2006-02-26",
-      "elo_delta": -21.0,
+      "elo_delta": -20.5,
       "event_name": "Pride 31",
       "fight_id": "dbcd3d6aa49345e2",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Knees)",
       "opponent": "Alistair Overeem",
-      "opponent_elo": 1568.1,
+      "opponent_elo": 1577.7,
       "outcome": "red_win",
-      "post_elo": 1575.0,
-      "pre_elo": 1596.0,
+      "post_elo": 1575.6,
+      "pre_elo": 1596.1,
       "red_name": "Alistair Overeem",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 31",
       "time": "5:13",
       "weight_class": "Open Weight"
     },
@@ -176,10 +192,12 @@
       "opponent": "Fabrício Werdum",
       "opponent_elo": 1537.3,
       "outcome": "red_win",
-      "post_elo": 1596.0,
-      "pre_elo": 1580.2,
+      "post_elo": 1596.1,
+      "pre_elo": 1580.3,
       "red_name": "Sergei Kharitonov",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 30",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -194,12 +212,14 @@
       "is_title": false,
       "method": "TKO (Soccer Kick and Punches)",
       "opponent": "Pedro Rizzo",
-      "opponent_elo": 1557.5,
+      "opponent_elo": 1557.6,
       "outcome": "red_win",
-      "post_elo": 1580.2,
+      "post_elo": 1580.3,
       "pre_elo": 1561.0,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2005",
       "time": "2:02",
       "weight_class": "Open Weight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1554.5,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 29",
       "time": "3:24",
       "weight_class": "Heavyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1575.4,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -254,12 +278,14 @@
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Semmy Schilt",
-      "opponent_elo": 1536.2,
+      "opponent_elo": 1537.1,
       "outcome": "red_win",
       "post_elo": 1575.4,
       "pre_elo": 1557.1,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2004",
       "time": "9:19",
       "weight_class": "Open Weight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1537.8,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2004",
       "time": "4:14",
       "weight_class": "Open Weight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1519.4,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 27",
       "time": "1:23",
       "weight_class": "Open Weight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1500.0,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 1",
       "time": "2:25",
       "weight_class": "Open Weight"
     }
@@ -414,7 +446,7 @@
     {
       "date": "2005-06-26",
       "fight_id": "c7f303c3516e12c6",
-      "rating": 1580.2,
+      "rating": 1580.3,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -428,28 +460,28 @@
     {
       "date": "2005-10-23",
       "fight_id": "3af169ea485787d9",
-      "rating": 1596.0,
+      "rating": 1596.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2005-10-23",
       "fight_id": "3af169ea485787d9",
-      "rating": 1602.1,
+      "rating": 1602.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2006-02-26",
       "fight_id": "dbcd3d6aa49345e2",
-      "rating": 1575.0,
+      "rating": 1575.6,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2006-02-26",
       "fight_id": "dbcd3d6aa49345e2",
-      "rating": 1583.1,
+      "rating": 1583.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -463,7 +495,7 @@
     {
       "date": "2006-09-10",
       "fight_id": "6fa3649245e53137",
-      "rating": 1563.3,
+      "rating": 1563.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -477,21 +509,21 @@
     {
       "date": "2007-02-24",
       "fight_id": "c844eb8e6b189ebc",
-      "rating": 1577.5,
+      "rating": 1577.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2008-09-23",
       "fight_id": "2f3342b3a6968429",
-      "rating": 1582.7,
+      "rating": 1582.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2008-09-23",
       "fight_id": "2f3342b3a6968429",
-      "rating": 1589.4,
+      "rating": 1589.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -505,49 +537,49 @@
     {
       "date": "2009-04-05",
       "fight_id": "b04a1c8f97ba4df7",
-      "rating": 1571.8,
+      "rating": 1572.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-02-12",
       "fight_id": "97408909269b32c6",
-      "rating": 1581.5,
+      "rating": 1581.6,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-02-12",
       "fight_id": "97408909269b32c6",
-      "rating": 1588.4,
+      "rating": 1588.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-09-10",
       "fight_id": "ce55c6955997de2e",
-      "rating": 1562.8,
+      "rating": 1563.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-09-10",
       "fight_id": "ce55c6955997de2e",
-      "rating": 1572.4,
+      "rating": 1572.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-08-20",
       "fight_id": "a85d4e82e739ac76",
-      "rating": 1543.8,
+      "rating": 1544.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2021-08-20",
       "fight_id": "a85d4e82e739ac76",
-      "rating": 1554.9,
+      "rating": 1555.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -558,7 +590,7 @@
   "name": "Sergei Kharitonov",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1602.1,
+  "peak_elo": 1602.2,
   "slug": "sergei-kharitonov",
   "systems": {
     "division": "men:Heavyweight",

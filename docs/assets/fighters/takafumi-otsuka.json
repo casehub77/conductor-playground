@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 583,
+  "divisional_rank": 526,
   "fight_count": 8,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1608.3,
       "outcome": "red_win",
       "post_elo": 1491.5,
-      "pre_elo": 1504.3,
+      "pre_elo": 1504.2,
       "red_name": "Hiromasa Ougikubo",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Hiroki Yamashita",
       "opponent_elo": 1517.4,
       "outcome": "red_win",
-      "post_elo": 1504.3,
-      "pre_elo": 1484.6,
+      "post_elo": 1504.2,
+      "pre_elo": 1484.5,
       "red_name": "Takafumi Otsuka",
       "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Takafumi Otsuka",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2017-12-31",
-      "elo_delta": -13.8,
+      "elo_delta": -13.9,
       "event_name": "Rizin World Grand Prix 2017: final round",
       "fight_id": "09b7a70953e5afdc",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Shintaro Ishiwatari",
-      "opponent_elo": 1580.3,
+      "opponent_elo": 1579.7,
       "outcome": "red_win",
-      "post_elo": 1484.6,
+      "post_elo": 1484.5,
       "pre_elo": 1498.4,
       "red_name": "Shintaro Ishiwatari",
       "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
       "time": "15:00",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1476.7,
       "red_name": "Takafumi Otsuka",
       "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
       "time": "12:22",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1455.5,
       "red_name": "Takafumi Otsuka",
       "round": "2",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
       "time": "15:00",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1468.8,
       "red_name": "Bibiano Fernandes",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 17",
       "time": "0:41",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1482.0,
       "red_name": "Kazuyuki Miyata",
       "round": "3",
+      "source": "manual",
+      "source_title": "Dream 14",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Bibiano Fernandes",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 7",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -240,7 +256,7 @@
     {
       "date": "2017-12-31",
       "fight_id": "09b7a70953e5afdc",
-      "rating": 1484.6,
+      "rating": 1484.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
@@ -254,14 +270,14 @@
     {
       "date": "2021-06-27",
       "fight_id": "ca0e4ffefb5a9e5c",
-      "rating": 1504.3,
+      "rating": 1504.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-06-27",
       "fight_id": "ca0e4ffefb5a9e5c",
-      "rating": 1499.9,
+      "rating": 1499.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -286,7 +302,7 @@
   "name": "Takafumi Otsuka",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1504.3,
+  "peak_elo": 1504.2,
   "slug": "takafumi-otsuka",
   "systems": {
     "division": "men:Bantamweight",

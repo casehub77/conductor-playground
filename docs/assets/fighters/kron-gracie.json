@@ -1,6 +1,6 @@
 {
-  "current_elo": 1519.7,
-  "divisional_rank": 161,
+  "current_elo": 1519.6,
+  "divisional_rank": 146,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Bryce Mitchell",
       "opponent_elo": 1579.6,
       "outcome": "red_win",
-      "post_elo": 1519.7,
-      "pre_elo": 1536.8,
+      "post_elo": 1519.6,
+      "pre_elo": 1536.7,
       "red_name": "Bryce Mitchell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:39",
       "weight_class": "Featherweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Charles Jourdain",
       "opponent_elo": 1495.0,
       "outcome": "blue_win",
-      "post_elo": 1536.8,
-      "pre_elo": 1558.0,
+      "post_elo": 1536.7,
+      "pre_elo": 1557.9,
       "red_name": "Kron Gracie",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Cub Swanson",
       "opponent_elo": 1562.0,
       "outcome": "red_win",
-      "post_elo": 1558.0,
-      "pre_elo": 1576.8,
+      "post_elo": 1557.9,
+      "pre_elo": 1576.6,
       "red_name": "Cub Swanson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Alex Caceres",
       "opponent_elo": 1492.3,
       "outcome": "blue_win",
-      "post_elo": 1576.8,
-      "pre_elo": 1561.1,
+      "post_elo": 1576.6,
+      "pre_elo": 1561.0,
       "red_name": "Alex Caceres",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:06",
       "weight_class": "Featherweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Tatsuya Kawajiri",
       "opponent_elo": 1638.3,
       "outcome": "red_win",
-      "post_elo": 1561.1,
-      "pre_elo": 1536.1,
+      "post_elo": 1561.0,
+      "pre_elo": 1536.0,
       "red_name": "Kron Gracie",
       "round": "2",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
       "time": "12:05",
       "weight_class": "Featherweight"
     },
@@ -107,19 +117,21 @@
       "blue_name": "Hideo Tokoro",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2016-09-25",
-      "elo_delta": 16.7,
+      "elo_delta": 16.6,
       "event_name": "Rizin World Grand-Prix 2016: 1st Round",
       "fight_id": "d442947a529ea113",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Rear Naked Choke)",
       "opponent": "Hideo Tokoro",
-      "opponent_elo": 1470.0,
+      "opponent_elo": 1467.6,
       "outcome": "red_win",
-      "post_elo": 1536.1,
+      "post_elo": 1536.0,
       "pre_elo": 1519.4,
       "red_name": "Kron Gracie",
       "round": "1",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
       "time": "9:50",
       "weight_class": "Featherweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kron Gracie",
       "round": "1",
+      "source": "manual",
+      "source_title": "2015 in Rizin Fighting Federation",
       "time": "4:58",
       "weight_class": "Featherweight"
     }
@@ -164,84 +178,84 @@
     {
       "date": "2016-09-25",
       "fight_id": "d442947a529ea113",
-      "rating": 1536.1,
+      "rating": 1536.0,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2016-09-25",
       "fight_id": "d442947a529ea113",
-      "rating": 1532.9,
+      "rating": 1532.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2016-12-31",
       "fight_id": "489b269a462e8d48",
-      "rating": 1561.1,
+      "rating": 1561.0,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2016-12-31",
       "fight_id": "489b269a462e8d48",
-      "rating": 1555.4,
+      "rating": 1555.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-02-17",
       "fight_id": "aa8a5b798395ae4e",
-      "rating": 1576.8,
+      "rating": 1576.6,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2019-02-17",
       "fight_id": "aa8a5b798395ae4e",
-      "rating": 1570.4,
+      "rating": 1570.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-10-12",
       "fight_id": "ad7fa3da3d97b435",
-      "rating": 1558.0,
+      "rating": 1557.9,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2019-10-12",
       "fight_id": "ad7fa3da3d97b435",
-      "rating": 1553.8,
+      "rating": 1553.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-05-06",
       "fight_id": "2eedd5bd06ee32f3",
-      "rating": 1536.8,
+      "rating": 1536.7,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2023-05-06",
       "fight_id": "2eedd5bd06ee32f3",
-      "rating": 1535.0,
+      "rating": 1534.9,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2024-12-07",
-      "fight_id": "576664da943277bf",
-      "rating": 1519.7,
-      "scope": "division",
-      "system": "men:Featherweight"
     },
     {
       "date": "2024-12-07",
       "fight_id": "576664da943277bf",
       "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2024-12-07",
+      "fight_id": "576664da943277bf",
+      "rating": 1519.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,8 +265,8 @@
   "last_fight_date": "2024-12-07",
   "name": "Kron Gracie",
   "nickname": "",
-  "overall_elo": 1519.6,
-  "peak_elo": 1576.8,
+  "overall_elo": 1519.5,
+  "peak_elo": 1576.6,
   "slug": "kron-gracie",
   "systems": {
     "division": "men:Featherweight",

@@ -1,6 +1,6 @@
 {
   "current_elo": 1428.7,
-  "divisional_rank": 1540,
+  "divisional_rank": 1498,
   "fight_count": 7,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Sho Patrick Usami",
-      "opponent_elo": 1497.8,
+      "opponent_elo": 1496.9,
       "outcome": "red_win",
       "post_elo": 1419.6,
       "pre_elo": 1435.6,
       "red_name": "Sho Patrick Usami",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "2:29",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1449.2,
       "red_name": "Roberto de Souza",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "1:44",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1466.8,
       "red_name": "Kazuki Tokudome",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:34",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1483.9,
       "red_name": "Kazuki Tokudome",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1501.1,
       "red_name": "Norman Parke",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1482.6,
       "red_name": "Cristiano Marcello",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Maciej Gorski",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Konfrontacja Sztuk Walki",
       "time": "Lightweight Tournament Quarter-Finals 2",
       "weight_class": "Lightweight"
     }
@@ -241,7 +255,7 @@
     {
       "date": "2024-06-09",
       "fight_id": "ae18ba33c0b9f941",
-      "rating": 1426.6,
+      "rating": 1426.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,7 +265,7 @@
   "last_fight_date": "2024-06-09",
   "name": "Kazuki Tokudome",
   "nickname": "",
-  "overall_elo": 1435.7,
+  "overall_elo": 1435.6,
   "peak_elo": 1501.1,
   "slug": "kazuki-tokudome",
   "systems": {

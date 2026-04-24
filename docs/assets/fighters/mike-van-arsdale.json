@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 217,
+  "divisional_rank": 219,
   "fight_count": 4,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Renato Sobral",
-      "opponent_elo": 1539.6,
+      "opponent_elo": 1539.7,
       "outcome": "red_win",
       "post_elo": 1498.5,
-      "pre_elo": 1516.6,
+      "pre_elo": 1516.7,
       "red_name": "Renato Sobral",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:21",
       "weight_class": "Light Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Randy Couture",
-      "opponent_elo": 1597.6,
+      "opponent_elo": 1597.7,
       "outcome": "red_win",
-      "post_elo": 1516.6,
+      "post_elo": 1516.7,
       "pre_elo": 1532.5,
       "red_name": "Randy Couture",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:52",
       "weight_class": "Light Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1519.4,
       "red_name": "Mike Van Arsdale",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mike Van Arsdale",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "11:01",
       "weight_class": "Heavyweight"
     }
@@ -118,7 +126,7 @@
     {
       "date": "2005-08-20",
       "fight_id": "93836eaf89f459fa",
-      "rating": 1516.6,
+      "rating": 1516.7,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },

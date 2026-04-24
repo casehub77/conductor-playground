@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 218,
+  "divisional_rank": 220,
   "fight_count": 5,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1506.1,
       "outcome": "red_win",
       "post_elo": 1511.4,
-      "pre_elo": 1532.4,
+      "pre_elo": 1532.3,
       "red_name": "Cyrille Diabate",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:24",
       "weight_class": "Light Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Chad Griggs",
       "bout_type": "Heavyweight Bout",
       "date": "2012-04-21",
-      "elo_delta": -18.2,
+      "elo_delta": -17.3,
       "event_name": "UFC 145: Jones vs Evans",
       "fight_id": "3f073381d678914e",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Travis Browne",
-      "opponent_elo": 1576.1,
+      "opponent_elo": 1592.2,
       "outcome": "red_win",
-      "post_elo": 1536.4,
-      "pre_elo": 1554.6,
+      "post_elo": 1536.5,
+      "pre_elo": 1553.8,
       "red_name": "Travis Browne",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:29",
       "weight_class": "Heavyweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Valentijn Overeem",
       "bout_type": "Heavyweight Bout",
       "date": "2011-06-18",
-      "elo_delta": 15.9,
+      "elo_delta": 15.0,
       "event_name": "Strikeforce: Overeem vs. Werdum",
       "fight_id": "8043cc52aff5132d",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Submission to strikes)",
       "opponent": "Valentijn Overeem",
-      "opponent_elo": 1474.8,
+      "opponent_elo": 1458.6,
       "outcome": "red_win",
-      "post_elo": 1554.6,
+      "post_elo": 1553.8,
       "pre_elo": 1538.7,
       "red_name": "Chad Griggs",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Overeem vs. Werdum",
       "time": "2:08",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1520.4,
       "red_name": "Chad Griggs",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Silva",
       "time": "2:49",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Chad Griggs",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Houston",
       "time": "5:00",
       "weight_class": "Heavyweight"
     }
@@ -138,28 +148,28 @@
     {
       "date": "2011-06-18",
       "fight_id": "8043cc52aff5132d",
-      "rating": 1554.6,
+      "rating": 1553.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-06-18",
       "fight_id": "8043cc52aff5132d",
-      "rating": 1548.7,
+      "rating": 1547.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2012-04-21",
       "fight_id": "3f073381d678914e",
-      "rating": 1536.4,
+      "rating": 1536.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2012-04-21",
       "fight_id": "3f073381d678914e",
-      "rating": 1532.4,
+      "rating": 1532.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -184,7 +194,7 @@
   "name": "Chad Griggs",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1554.6,
+  "peak_elo": 1553.8,
   "slug": "chad-griggs",
   "systems": {
     "division": "men:Light Heavyweight",

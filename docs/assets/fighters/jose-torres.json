@@ -1,13 +1,13 @@
 {
-  "current_elo": 1491.9,
-  "divisional_rank": 556,
+  "current_elo": 1492.2,
+  "divisional_rank": 432,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Jose Torres",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2025-12-31",
-      "elo_delta": -16.1,
+      "elo_delta": -16.2,
       "event_name": "Rizin: Shiwasu no Cho Tsuwamono Matsuri",
       "fight_id": "b288d3c206cfc7eb",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Joji Goto",
       "opponent_elo": 1543.9,
       "outcome": "red_win",
-      "post_elo": 1491.9,
-      "pre_elo": 1508.1,
+      "post_elo": 1492.2,
+      "pre_elo": 1508.4,
       "red_name": "Joji Goto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Jose Torres",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2025-07-27",
-      "elo_delta": -11.4,
+      "elo_delta": -11.2,
       "event_name": "Super Rizin 4",
       "fight_id": "3275e25922ceaa26",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Hiromasa Ougikubo",
-      "opponent_elo": 1652.4,
+      "opponent_elo": 1657.9,
       "outcome": "red_win",
-      "post_elo": 1508.1,
+      "post_elo": 1508.4,
       "pre_elo": 1519.5,
       "red_name": "Hiromasa Ougikubo",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Decision (split)",
       "opponent": "Makoto Takahashi",
-      "opponent_elo": 1516.0,
+      "opponent_elo": 1516.9,
       "outcome": "red_win",
       "post_elo": 1519.5,
       "pre_elo": 1500.7,
       "red_name": "Jose Torres",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Alex Perez",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:46",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jarred Brooks",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:55",
       "weight_class": "Flyweight"
     }
@@ -152,28 +162,28 @@
     {
       "date": "2025-07-27",
       "fight_id": "3275e25922ceaa26",
-      "rating": 1508.1,
+      "rating": 1508.4,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-07-27",
       "fight_id": "3275e25922ceaa26",
-      "rating": 1507.0,
+      "rating": 1506.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-31",
       "fight_id": "b288d3c206cfc7eb",
-      "rating": 1491.9,
+      "rating": 1492.2,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-12-31",
       "fight_id": "b288d3c206cfc7eb",
-      "rating": 1492.7,
+      "rating": 1492.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,7 +193,7 @@
   "last_fight_date": "2025-12-31",
   "name": "Jose Torres",
   "nickname": "",
-  "overall_elo": 1492.7,
+  "overall_elo": 1492.2,
   "peak_elo": 1519.5,
   "slug": "jose-torres",
   "systems": {

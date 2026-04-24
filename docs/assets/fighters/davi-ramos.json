@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 382,
+  "divisional_rank": 361,
   "fight_count": 7,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Arman Tsarukyan",
-      "opponent_elo": 1507.7,
+      "opponent_elo": 1512.5,
       "outcome": "blue_win",
-      "post_elo": 1528.1,
-      "pre_elo": 1548.2,
+      "post_elo": 1533.4,
+      "pre_elo": 1553.5,
       "red_name": "Davi Ramos",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Davi Ramos",
       "bout_type": "Lightweight Bout",
       "date": "2019-09-07",
-      "elo_delta": -16.3,
+      "elo_delta": -10.9,
       "event_name": "UFC 242: Khabib vs. Poirier",
       "fight_id": "5eb53ffe4db332d7",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Islam Makhachev",
-      "opponent_elo": 1597.0,
+      "opponent_elo": 1708.5,
       "outcome": "red_win",
-      "post_elo": 1548.2,
+      "post_elo": 1553.5,
       "pre_elo": 1564.5,
       "red_name": "Islam Makhachev",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1549.0,
       "red_name": "Davi Ramos",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1530.2,
       "red_name": "Davi Ramos",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:57",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1508.1,
       "red_name": "Davi Ramos",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:15",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1486.9,
       "red_name": "Chris Gruetzemacher",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:50",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Sergio Moraes",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     }
@@ -220,28 +234,28 @@
     {
       "date": "2019-09-07",
       "fight_id": "5eb53ffe4db332d7",
-      "rating": 1548.2,
+      "rating": 1553.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2019-09-07",
       "fight_id": "5eb53ffe4db332d7",
-      "rating": 1540.9,
+      "rating": 1545.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2020-07-18",
       "fight_id": "7d3c04709df4b869",
-      "rating": 1528.1,
+      "rating": 1533.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2020-07-18",
       "fight_id": "7d3c04709df4b869",
-      "rating": 1523.3,
+      "rating": 1527.8,
       "scope": "overall",
       "system": "men:overall"
     }

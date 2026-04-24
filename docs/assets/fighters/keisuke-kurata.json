@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 409,
+  "divisional_rank": 401,
   "fight_count": 13,
   "fight_log": [
     {
       "blue_name": "Keisuke Kurata",
       "bout_type": "Open Weight Bout",
       "date": "2010-10-24",
-      "elo_delta": -16.9,
+      "elo_delta": -17.2,
       "event_name": "Shooto: Gig Central 21",
       "fight_id": "9c5cf43b6f202871",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Rear-Naked Choke)",
       "opponent": "Teppei Masuda",
-      "opponent_elo": 1516.9,
+      "opponent_elo": 1511.1,
       "outcome": "red_win",
-      "post_elo": 1454.4,
-      "pre_elo": 1471.3,
+      "post_elo": 1454.1,
+      "pre_elo": 1471.4,
       "red_name": "Teppei Masuda",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "2:19",
       "weight_class": "Open Weight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Atsushi Mochizuki",
       "opponent_elo": 1476.1,
       "outcome": "red_win",
-      "post_elo": 1471.3,
+      "post_elo": 1471.4,
       "pre_elo": 1452.1,
       "red_name": "Keisuke Kurata",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Keisuke Kurata",
       "bout_type": "Open Weight Bout",
       "date": "2009-10-25",
-      "elo_delta": -1.0,
+      "elo_delta": -0.9,
       "event_name": "Shooto: Gig Central 19",
       "fight_id": "edac67ef5b5177ba",
       "gender": "men",
       "is_title": false,
       "method": "Draw",
       "opponent": "Kenichi Sawada",
-      "opponent_elo": 1434.0,
+      "opponent_elo": 1434.8,
       "outcome": "draw",
       "post_elo": 1452.1,
       "pre_elo": 1453.1,
       "red_name": "Kenichi Sawada",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1469.7,
       "red_name": "Tatsuya Yamamoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1488.1,
       "red_name": "Hiroshi Sakamoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1508.0,
       "red_name": "Fumihiro Kitahara",
       "round": "1",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "1:58",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1532.9,
       "red_name": "Takeyasu Hirono",
       "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1514.3,
       "red_name": "Keisuke Kurata",
       "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
       "time": "1:51",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1495.0,
       "red_name": "Keisuke Kurata",
       "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1515.1,
       "red_name": "Hiroyasu Kodera",
       "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "0:08",
       "weight_class": "Open Weight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.3,
       "red_name": "Keisuke Kurata",
       "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "2:35",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1481.3,
       "red_name": "Keisuke Kurata",
       "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1500.0,
       "red_name": "Masatoshi Abe",
       "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
       "time": "4:39",
       "weight_class": "Open Weight"
     }
@@ -424,7 +450,7 @@
     {
       "date": "2010-02-14",
       "fight_id": "962c0fc60cfaf6f8",
-      "rating": 1471.3,
+      "rating": 1471.4,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -438,14 +464,14 @@
     {
       "date": "2010-10-24",
       "fight_id": "9c5cf43b6f202871",
-      "rating": 1454.4,
+      "rating": 1454.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-10-24",
       "fight_id": "9c5cf43b6f202871",
-      "rating": 1459.5,
+      "rating": 1459.3,
       "scope": "overall",
       "system": "men:overall"
     }

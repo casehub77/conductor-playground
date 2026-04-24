@@ -1,7 +1,7 @@
 {
-  "current_elo": 1526.6,
-  "divisional_rank": 152,
-  "fight_count": 13,
+  "current_elo": 1541.4,
+  "divisional_rank": 98,
+  "fight_count": 14,
   "fight_log": [
     {
       "blue_name": "Juri Ohara",
@@ -16,10 +16,12 @@
       "opponent": "Juri Ohara",
       "opponent_elo": 1555.1,
       "outcome": "no_contest",
-      "post_elo": 1526.6,
-      "pre_elo": 1526.6,
+      "post_elo": 1541.4,
+      "pre_elo": 1541.4,
       "red_name": "Johnny Case",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "2:20",
       "weight_class": "Lightweight"
     },
@@ -27,20 +29,44 @@
       "blue_name": "Johnny Case",
       "bout_type": "Lightweight 71 kg Bout",
       "date": "2024-06-09",
-      "elo_delta": -20.2,
+      "elo_delta": -21.9,
       "event_name": "Rizin 47",
       "fight_id": "3b32c1e40dbe0986",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "BeyNoah",
-      "opponent_elo": 1504.4,
+      "opponent_elo": 1486.9,
       "outcome": "red_win",
-      "post_elo": 1526.6,
-      "pre_elo": 1546.8,
+      "post_elo": 1541.4,
+      "pre_elo": 1563.3,
       "red_name": "BeyNoah",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Nobumitsu Osawa",
+      "bout_type": "Lightweight Bout",
+      "date": "2022-12-31",
+      "elo_delta": 16.5,
+      "event_name": "Bellator MMA vs. Rizin FF",
+      "fight_id": "58b8e7a87d821faf",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Nobumitsu Osawa",
+      "opponent_elo": 1494.7,
+      "outcome": "red_win",
+      "post_elo": 1563.3,
+      "pre_elo": 1546.8,
+      "red_name": "Johnny Case",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Rizin 40",
+      "time": "0:36",
       "weight_class": "Lightweight"
     },
     {
@@ -60,6 +86,8 @@
       "pre_elo": 1563.8,
       "red_name": "Roberto de Souza",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "3:32",
       "weight_class": "Lightweight"
     },
@@ -80,6 +108,8 @@
       "pre_elo": 1584.8,
       "red_name": "Tofiq Musayev",
       "round": "1",
+      "source": "manual",
+      "source_title": "2019 in Rizin Fighting Federation",
       "time": "2:46",
       "weight_class": "Lightweight"
     },
@@ -100,6 +130,8 @@
       "pre_elo": 1567.0,
       "red_name": "Johnny Case",
       "round": "1",
+      "source": "manual",
+      "source_title": "2019 in Rizin Fighting Federation",
       "time": "1:15",
       "weight_class": "Lightweight"
     },
@@ -114,12 +146,14 @@
       "is_title": false,
       "method": "TKO (Retirement)",
       "opponent": "Satoru Kitaoka",
-      "opponent_elo": 1497.5,
+      "opponent_elo": 1497.4,
       "outcome": "red_win",
       "post_elo": 1567.0,
       "pre_elo": 1550.5,
       "red_name": "Johnny Case",
       "round": "1",
+      "source": "manual",
+      "source_title": "2019 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -134,12 +168,14 @@
       "is_title": false,
       "method": "TKO (Cut)",
       "opponent": "Yusuke Yachi",
-      "opponent_elo": 1572.4,
+      "opponent_elo": 1572.2,
       "outcome": "red_win",
       "post_elo": 1550.5,
       "pre_elo": 1528.6,
       "red_name": "Johnny Case",
       "round": "2",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
       "time": "9:47",
       "weight_class": "Lightweight"
     },
@@ -160,6 +196,8 @@
       "pre_elo": 1548.8,
       "red_name": "Anthony Rocco Martin",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -180,6 +218,8 @@
       "pre_elo": 1570.0,
       "red_name": "Jake Matthews",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:45",
       "weight_class": "Lightweight"
     },
@@ -200,6 +240,8 @@
       "pre_elo": 1553.1,
       "red_name": "Yan Cabral",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -220,6 +262,8 @@
       "pre_elo": 1536.0,
       "red_name": "Francisco Trevino",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -240,6 +284,8 @@
       "pre_elo": 1517.6,
       "red_name": "Johnny Case",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:54",
       "weight_class": "Lightweight"
     },
@@ -260,6 +306,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kazuki Tokudome",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:34",
       "weight_class": "Lightweight"
     }
@@ -361,7 +409,7 @@
     {
       "date": "2018-12-31",
       "fight_id": "42bd7461ff2bb40b",
-      "rating": 1546.1,
+      "rating": 1546.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -417,35 +465,49 @@
     {
       "date": "2022-04-17",
       "fight_id": "433ab77a2f56aecf",
-      "rating": 1543.0,
+      "rating": 1542.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "58b8e7a87d821faf",
+      "rating": 1563.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "58b8e7a87d821faf",
+      "rating": 1558.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-06-09",
       "fight_id": "3b32c1e40dbe0986",
-      "rating": 1526.6,
+      "rating": 1541.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2024-06-09",
       "fight_id": "3b32c1e40dbe0986",
-      "rating": 1524.5,
+      "rating": 1538.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-05-31",
       "fight_id": "7b02c78bcd478926",
-      "rating": 1526.6,
+      "rating": 1541.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-05-31",
       "fight_id": "7b02c78bcd478926",
-      "rating": 1524.5,
+      "rating": 1538.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -455,7 +517,7 @@
   "last_fight_date": "2025-05-31",
   "name": "Johnny Case",
   "nickname": "",
-  "overall_elo": 1524.5,
+  "overall_elo": 1538.2,
   "peak_elo": 1584.8,
   "slug": "johnny-case",
   "systems": {

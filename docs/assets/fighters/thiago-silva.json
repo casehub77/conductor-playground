@@ -1,6 +1,6 @@
 {
   "current_elo": 1522.6,
-  "divisional_rank": 158,
+  "divisional_rank": 150,
   "fight_count": 15,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1568.0,
       "red_name": "Konrad Dyrschka",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Martin Zawada",
       "opponent_elo": 1524.9,
       "outcome": "red_win",
-      "post_elo": 1562.7,
+      "post_elo": 1562.8,
       "pre_elo": 1583.8,
       "red_name": "Martin Zawada",
       "round": "3",
+      "source": "manual",
+      "source_title": "2019 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1574.9,
       "red_name": "Thiago Silva",
       "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Konfrontacja Sztuk Walki",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1564.1,
       "red_name": "Thiago Silva",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -97,9 +105,11 @@
       "opponent_elo": 1528.5,
       "outcome": "red_win",
       "post_elo": 1564.1,
-      "pre_elo": 1545.6,
+      "pre_elo": 1545.7,
       "red_name": "Thiago Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:29",
       "weight_class": "Light Heavyweight"
     },
@@ -116,10 +126,12 @@
       "opponent": "Stanislav Nedkov",
       "opponent_elo": 1520.7,
       "outcome": "no_contest",
-      "post_elo": 1545.6,
-      "pre_elo": 1545.6,
+      "post_elo": 1545.7,
+      "pre_elo": 1545.7,
       "red_name": "Thiago Silva",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:45",
       "weight_class": "Light Heavyweight"
     },
@@ -136,10 +148,12 @@
       "opponent": "Alexander Gustafsson",
       "opponent_elo": 1582.4,
       "outcome": "red_win",
-      "post_elo": 1545.6,
+      "post_elo": 1545.7,
       "pre_elo": 1562.6,
       "red_name": "Alexander Gustafsson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "Overturned",
       "opponent": "Brandon Vera",
-      "opponent_elo": 1546.2,
+      "opponent_elo": 1546.8,
       "outcome": "no_contest",
       "post_elo": 1562.6,
       "pre_elo": 1562.6,
       "red_name": "Brandon Vera",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1577.9,
       "red_name": "Rashad Evans",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -187,19 +205,21 @@
       "blue_name": "Keith Jardine",
       "bout_type": "Light Heavyweight Bout",
       "date": "2009-08-29",
-      "elo_delta": 18.3,
+      "elo_delta": 18.4,
       "event_name": "UFC 102: Couture vs Nogueira",
       "fight_id": "8ba155376e02b9f1",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Keith Jardine",
-      "opponent_elo": 1539.9,
+      "opponent_elo": 1540.3,
       "outcome": "red_win",
       "post_elo": 1577.9,
       "pre_elo": 1559.6,
       "red_name": "Thiago Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:35",
       "weight_class": "Light Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1578.1,
       "red_name": "Lyoto Machida",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:59",
       "weight_class": "Light Heavyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1558.8,
       "red_name": "Thiago Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:24",
       "weight_class": "Light Heavyweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1539.4,
       "red_name": "Thiago Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:25",
       "weight_class": "Light Heavyweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1521.1,
       "red_name": "Thiago Silva",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:23",
       "weight_class": "Light Heavyweight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1500.0,
       "red_name": "Thiago Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:06",
       "weight_class": "Light Heavyweight"
     }
@@ -422,28 +452,28 @@
     {
       "date": "2012-04-14",
       "fight_id": "137e7912ed04731a",
-      "rating": 1545.6,
+      "rating": 1545.7,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2012-04-14",
       "fight_id": "137e7912ed04731a",
-      "rating": 1540.8,
+      "rating": 1540.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2012-11-10",
       "fight_id": "47095c906ca7b326",
-      "rating": 1545.6,
+      "rating": 1545.7,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2012-11-10",
       "fight_id": "47095c906ca7b326",
-      "rating": 1540.8,
+      "rating": 1540.9,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -492,7 +522,7 @@
     {
       "date": "2019-05-18",
       "fight_id": "42b1b21007e5b22a",
-      "rating": 1562.7,
+      "rating": 1562.8,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },

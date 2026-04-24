@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 466,
+  "divisional_rank": 475,
   "fight_count": 2,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1481.7,
       "red_name": "Cheick Kongo",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:13",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Paul Buentello",
-      "opponent_elo": 1520.3,
+      "opponent_elo": 1520.5,
       "outcome": "red_win",
       "post_elo": 1481.7,
       "pre_elo": 1500.0,
       "red_name": "Paul Buentello",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:27",
       "weight_class": "Heavyweight"
     }

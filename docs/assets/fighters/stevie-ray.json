@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 372,
+  "divisional_rank": 352,
   "fight_count": 11,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Michael Johnson",
       "opponent_elo": 1537.2,
       "outcome": "blue_win",
-      "post_elo": 1549.4,
-      "pre_elo": 1531.1,
+      "post_elo": 1549.5,
+      "pre_elo": 1531.2,
       "red_name": "Michael Johnson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Leonardo Santos",
-      "opponent_elo": 1580.1,
+      "opponent_elo": 1580.5,
       "outcome": "blue_win",
-      "post_elo": 1531.1,
+      "post_elo": 1531.2,
       "pre_elo": 1548.8,
       "red_name": "Stevie Ray",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:17",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1532.4,
       "red_name": "Stevie Ray",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Kajan Johnson",
       "bout_type": "Lightweight Bout",
       "date": "2018-03-17",
-      "elo_delta": -18.9,
+      "elo_delta": -18.8,
       "event_name": "UFC Fight Night: Werdum vs. Volkov",
       "fight_id": "f1364e7e11e0b46f",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Kajan Johnson",
-      "opponent_elo": 1534.6,
+      "opponent_elo": 1535.1,
       "outcome": "blue_win",
       "post_elo": 1532.4,
       "pre_elo": 1551.2,
       "red_name": "Stevie Ray",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1572.1,
       "red_name": "Stevie Ray",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:57",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1552.4,
       "red_name": "Joe Lauzon",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1533.6,
       "red_name": "Ross Pearson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1552.4,
       "red_name": "Alan Patrick",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1536.1,
       "red_name": "Stevie Ray",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1518.4,
       "red_name": "Stevie Ray",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:30",
       "weight_class": "Lightweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Marcin Bandel",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:35",
       "weight_class": "Lightweight"
     }
@@ -356,21 +378,21 @@
     {
       "date": "2019-06-01",
       "fight_id": "7588c38fe9c1183a",
-      "rating": 1531.1,
+      "rating": 1531.2,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2019-06-01",
       "fight_id": "7588c38fe9c1183a",
-      "rating": 1527.4,
+      "rating": 1527.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2019-10-26",
       "fight_id": "108e01769cba400a",
-      "rating": 1549.4,
+      "rating": 1549.5,
       "scope": "division",
       "system": "men:Lightweight"
     },

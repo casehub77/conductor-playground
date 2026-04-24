@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 230,
+  "divisional_rank": 228,
   "fight_count": 7,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1536.8,
       "outcome": "red_win",
       "post_elo": 1482.5,
-      "pre_elo": 1499.8,
+      "pre_elo": 1499.9,
       "red_name": "Mirko Cro Cop",
       "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
       "time": "1:02",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Ricco Rodriguez",
-      "opponent_elo": 1557.0,
+      "opponent_elo": 1557.2,
       "outcome": "red_win",
-      "post_elo": 1499.8,
+      "post_elo": 1499.9,
       "pre_elo": 1517.1,
       "red_name": "Ricco Rodriguez",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:25",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1535.2,
       "red_name": "Pedro Rizzo",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:17",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1516.7,
       "red_name": "Tsuyoshi Kohsaka",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1536.2,
       "red_name": "Bas Rutten",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:15",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1517.9,
       "red_name": "Tsuyoshi Kohsaka",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:00",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tsuyoshi Kohsaka",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:00",
       "weight_class": "Heavyweight"
     }
@@ -220,14 +234,14 @@
     {
       "date": "2002-05-10",
       "fight_id": "15bd534615ea44e3",
-      "rating": 1499.8,
+      "rating": 1499.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2002-05-10",
       "fight_id": "15bd534615ea44e3",
-      "rating": 1499.7,
+      "rating": 1499.8,
       "scope": "overall",
       "system": "men:overall"
     },

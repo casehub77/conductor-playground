@@ -1,6 +1,6 @@
 {
-  "current_elo": 1565.3,
-  "divisional_rank": 45,
+  "current_elo": 1565.2,
+  "divisional_rank": 44,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Chris Curtis",
       "opponent_elo": 1543.8,
       "outcome": "blue_win",
-      "post_elo": 1565.3,
-      "pre_elo": 1547.5,
+      "post_elo": 1565.2,
+      "pre_elo": 1547.4,
       "red_name": "Chris Curtis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Jack Hermansson",
       "opponent_elo": 1581.0,
       "outcome": "blue_win",
-      "post_elo": 1547.5,
+      "post_elo": 1547.4,
       "pre_elo": 1524.9,
       "red_name": "Jack Hermansson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:46",
       "weight_class": "Welterweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Myktybek Orolbai",
       "bout_type": "Catch Weight Bout",
       "date": "2025-06-21",
-      "elo_delta": 12.2,
+      "elo_delta": 12.1,
       "event_name": "UFC Fight Night: Hill vs. Rountree Jr.",
       "fight_id": "57ffbfe118ff2ddc",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Tofiq Musayev",
-      "opponent_elo": 1601.7,
+      "opponent_elo": 1600.9,
       "outcome": "blue_win",
       "post_elo": 1524.9,
       "pre_elo": 1512.7,
       "red_name": "Tofiq Musayev",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:35",
       "weight_class": "Catch Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1539.9,
       "red_name": "Mateusz Rebecki",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1535.5,
       "red_name": "Elves Brener",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.4,
       "red_name": "Uros Medic",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:12",
       "weight_class": "Welterweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Myktybek Orolbai",
       "round": "2",
+      "source": "manual",
+      "source_title": "2023 in Legacy Fighting Alliance",
       "time": "0:41",
       "weight_class": "Welterweight"
     }
@@ -220,7 +234,7 @@
     {
       "date": "2025-11-22",
       "fight_id": "0dbf22551b54b8b0",
-      "rating": 1547.5,
+      "rating": 1547.4,
       "scope": "division",
       "system": "men:Welterweight"
     },
@@ -234,7 +248,7 @@
     {
       "date": "2026-03-14",
       "fight_id": "1d3dcfba297fd377",
-      "rating": 1565.3,
+      "rating": 1565.2,
       "scope": "division",
       "system": "men:Welterweight"
     },

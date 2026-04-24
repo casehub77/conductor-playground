@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 206,
+  "divisional_rank": 205,
   "fight_count": 13,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1552.9,
       "red_name": "Michał Materla",
       "round": "2",
+      "source": "manual",
+      "source_title": "2016 in Konfrontacja Sztuk Walki",
       "time": "1:27",
       "weight_class": "Middleweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Mike Pierce",
       "opponent_elo": 1623.2,
       "outcome": "red_win",
-      "post_elo": 1574.1,
-      "pre_elo": 1550.6,
+      "post_elo": 1574.2,
+      "pre_elo": 1550.8,
       "red_name": "Rousimar Palhares",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:31",
       "weight_class": "Welterweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1571.2,
       "red_name": "Hector Lombard",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:38",
       "weight_class": "Middleweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1591.5,
       "red_name": "Rousimar Palhares",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:18",
       "weight_class": "Middleweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1576.1,
       "red_name": "Rousimar Palhares",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:03",
       "weight_class": "Middleweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1560.1,
       "red_name": "Rousimar Palhares",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1539.9,
       "red_name": "David Branch",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:44",
       "weight_class": "Middleweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1557.5,
       "red_name": "Nate Marquardt",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:28",
       "weight_class": "Middleweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1538.0,
       "red_name": "Rousimar Palhares",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:45",
       "weight_class": "Middleweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1519.7,
       "red_name": "Rousimar Palhares",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:21",
       "weight_class": "Middleweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1501.5,
       "red_name": "Rousimar Palhares",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1519.0,
       "red_name": "Dan Henderson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1500.0,
       "red_name": "Rousimar Palhares",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:36",
       "weight_class": "Middleweight"
     }
@@ -305,7 +331,7 @@
     {
       "date": "2009-01-17",
       "fight_id": "18418f566902744e",
-      "rating": 1522.0,
+      "rating": 1522.1,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -319,7 +345,7 @@
     {
       "date": "2009-12-12",
       "fight_id": "776c2f3c9e387fce",
-      "rating": 1538.2,
+      "rating": 1538.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -333,7 +359,7 @@
     {
       "date": "2010-03-27",
       "fight_id": "0c615dd6400703eb",
-      "rating": 1555.4,
+      "rating": 1555.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -347,7 +373,7 @@
     {
       "date": "2010-09-15",
       "fight_id": "2f9bcbeff5444cef",
-      "rating": 1539.5,
+      "rating": 1539.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -361,7 +387,7 @@
     {
       "date": "2011-03-03",
       "fight_id": "690c872466156dc8",
-      "rating": 1557.1,
+      "rating": 1557.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -375,7 +401,7 @@
     {
       "date": "2011-08-27",
       "fight_id": "0e9702ff3b25c15b",
-      "rating": 1571.5,
+      "rating": 1571.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -389,7 +415,7 @@
     {
       "date": "2012-01-14",
       "fight_id": "0219c6e15c1c3152",
-      "rating": 1584.7,
+      "rating": 1584.9,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -403,7 +429,7 @@
     {
       "date": "2012-05-05",
       "fight_id": "bcfb9797e0672727",
-      "rating": 1567.2,
+      "rating": 1567.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -417,21 +443,21 @@
     {
       "date": "2012-12-14",
       "fight_id": "3b71b233f0296403",
-      "rating": 1550.6,
+      "rating": 1550.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2013-10-09",
       "fight_id": "baf66596c7452b44",
-      "rating": 1574.1,
+      "rating": 1574.2,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2013-10-09",
       "fight_id": "baf66596c7452b44",
-      "rating": 1570.9,
+      "rating": 1571.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -445,7 +471,7 @@
     {
       "date": "2016-10-01",
       "fight_id": "b2d86f44a16333dc",
-      "rating": 1555.1,
+      "rating": 1555.2,
       "scope": "overall",
       "system": "men:overall"
     }

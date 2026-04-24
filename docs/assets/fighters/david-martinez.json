@@ -1,6 +1,6 @@
 {
   "current_elo": 1560.5,
-  "divisional_rank": 55,
+  "divisional_rank": 48,
   "fight_count": 3,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Marlon Vera",
-      "opponent_elo": 1594.0,
+      "opponent_elo": 1594.1,
       "outcome": "blue_win",
       "post_elo": 1560.5,
       "pre_elo": 1539.7,
       "red_name": "Marlon Vera",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Rob Font",
-      "opponent_elo": 1602.4,
+      "opponent_elo": 1602.5,
       "outcome": "blue_win",
       "post_elo": 1539.7,
       "pre_elo": 1517.4,
       "red_name": "Rob Font",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Saimon Oliveira",
-      "opponent_elo": 1463.5,
+      "opponent_elo": 1462.8,
       "outcome": "red_win",
       "post_elo": 1517.4,
       "pre_elo": 1500.0,
       "red_name": "David Martinez",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:38",
       "weight_class": "Bantamweight"
     }
@@ -77,7 +83,7 @@
     {
       "date": "2025-03-29",
       "fight_id": "8ae3a73659f2b666",
-      "rating": 1515.7,
+      "rating": 1515.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -91,7 +97,7 @@
     {
       "date": "2025-09-13",
       "fight_id": "5cfa2857724e5c35",
-      "rating": 1535.2,
+      "rating": 1535.1,
       "scope": "overall",
       "system": "men:overall"
     },

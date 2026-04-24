@@ -1,13 +1,13 @@
 {
-  "current_elo": 1460.9,
-  "divisional_rank": 728,
-  "fight_count": 2,
+  "current_elo": 1480.6,
+  "divisional_rank": 715,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Bruno Susano",
       "bout_type": "Heavyweight Bout",
       "date": "2025-09-27",
-      "elo_delta": -18.3,
+      "elo_delta": -19.4,
       "event_name": "LFA 218: Nascimento vs. Makaev",
       "fight_id": "64dff9fc794a6e51",
       "gender": "men",
@@ -16,62 +16,30 @@
       "opponent": "Malick Badiane",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1460.9,
-      "pre_elo": 1479.2,
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
       "red_name": "Malick Badiane",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "1:00",
-      "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Bruno Susano",
-      "bout_type": "Heavyweight Kickboxing Bout",
-      "date": "2022-02-25",
-      "elo_delta": -20.8,
-      "event_name": "ONE: Full Circle",
-      "fight_id": "4c4f5f970d0b85da",
-      "gender": "men",
-      "is_title": false,
-      "method": "TKO (referee stoppage)",
-      "opponent": "Guto Inocente",
-      "opponent_elo": 1475.7,
-      "outcome": "red_win",
-      "post_elo": 1479.2,
-      "pre_elo": 1500.0,
-      "red_name": "Guto Inocente",
-      "round": "2",
-      "time": "2:22",
       "weight_class": "Heavyweight"
     }
   ],
-  "first_fight_date": "2022-02-25",
+  "first_fight_date": "2025-09-27",
   "gender": "men",
   "history": [
     {
-      "date": "2022-02-25",
-      "fight_id": "4c4f5f970d0b85da",
-      "rating": 1479.2,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2022-02-25",
-      "fight_id": "4c4f5f970d0b85da",
-      "rating": 1480.9,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2025-09-27",
       "fight_id": "64dff9fc794a6e51",
-      "rating": 1460.9,
+      "rating": 1480.6,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2025-09-27",
       "fight_id": "64dff9fc794a6e51",
-      "rating": 1464.6,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -81,7 +49,7 @@
   "last_fight_date": "2025-09-27",
   "name": "Bruno Susano",
   "nickname": "",
-  "overall_elo": 1464.6,
+  "overall_elo": 1482.7,
   "peak_elo": 1500.0,
   "slug": "bruno-susano",
   "systems": {

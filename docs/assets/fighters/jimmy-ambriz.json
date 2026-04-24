@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1277,
+  "divisional_rank": 1269,
   "fight_count": 4,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1482.3,
       "red_name": "Ikuhisa Minowa",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 13",
       "time": "2:42",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1463.9,
       "red_name": "Sergei Kharitonov",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 6",
       "time": "2:15",
       "weight_class": "Heavyweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Jimmy Ambriz",
       "bout_type": "Heavyweight Bout",
       "date": "2006-06-15",
-      "elo_delta": -20.4,
+      "elo_delta": -20.3,
       "event_name": "WEC 21: Tapout",
       "fight_id": "3fa75990a7b2bfb7",
       "gender": "men",
       "is_title": false,
       "method": "TKO (doctor stoppage)",
       "opponent": "Justin Eilers",
-      "opponent_elo": 1467.9,
+      "opponent_elo": 1468.2,
       "outcome": "red_win",
       "post_elo": 1463.9,
       "pre_elo": 1484.2,
       "red_name": "Justin Eilers",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 21",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Submission (Punches)",
       "opponent": "Ricco Rodriguez",
-      "opponent_elo": 1530.5,
+      "opponent_elo": 1530.7,
       "outcome": "red_win",
       "post_elo": 1482.3,
       "pre_elo": 1500.0,
       "red_name": "Ricco Rodriguez",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 17",
       "time": "4:13",
       "weight_class": "Open Weight"
     }

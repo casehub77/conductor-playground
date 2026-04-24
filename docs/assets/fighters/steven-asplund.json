@@ -1,6 +1,6 @@
 {
   "current_elo": 1548.4,
-  "divisional_rank": 40,
+  "divisional_rank": 38,
   "fight_count": 7,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1566.6,
       "red_name": "Vitor Petrino",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Steven Asplund",
       "bout_type": "Heavyweight Bout",
       "date": "2025-12-13",
-      "elo_delta": 15.4,
+      "elo_delta": 15.5,
       "event_name": "UFC Fight Night: Royval vs. Kape",
       "fight_id": "1ab60667628cffdf",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Sean Sharaf",
-      "opponent_elo": 1478.8,
+      "opponent_elo": 1479.8,
       "outcome": "blue_win",
       "post_elo": 1566.6,
       "pre_elo": 1551.1,
       "red_name": "Sean Sharaf",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:49",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1533.6,
       "red_name": "Steven Asplund",
       "round": "2",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "1:53",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1515.0,
       "red_name": "Steven Asplund",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "1:29",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1536.4,
       "red_name": "Denzel Freeman",
       "round": "2",
+      "source": "manual",
+      "source_title": "2024 in Legacy Fighting Alliance",
       "time": "1:17",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1518.0,
       "red_name": "Steven Asplund",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Legacy Fighting Alliance",
       "time": "4:48",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Steven Asplund",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Legacy Fighting Alliance",
       "time": "3:00",
       "weight_class": "Heavyweight"
     }
@@ -241,7 +255,7 @@
     {
       "date": "2026-03-14",
       "fight_id": "4a44c713f61d7adb",
-      "rating": 1544.0,
+      "rating": 1544.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,7 +265,7 @@
   "last_fight_date": "2026-03-14",
   "name": "Steven Asplund",
   "nickname": "",
-  "overall_elo": 1544.0,
+  "overall_elo": 1544.1,
   "peak_elo": 1566.6,
   "slug": "steven-asplund",
   "systems": {

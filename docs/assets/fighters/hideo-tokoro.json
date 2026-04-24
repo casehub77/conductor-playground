@@ -1,6 +1,6 @@
 {
   "current_elo": 1470.7,
-  "divisional_rank": 1094,
+  "divisional_rank": 980,
   "fight_count": 18,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1502.5,
       "outcome": "red_win",
       "post_elo": 1470.7,
-      "pre_elo": 1489.5,
+      "pre_elo": 1489.4,
       "red_name": "Jinnosuke Kashimura",
       "round": "1",
+      "source": "manual",
+      "source_title": "2026 in Rizin Fighting Federation",
       "time": "1:06",
       "weight_class": "Bantamweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Hiroya Kondo",
       "bout_type": "Catchweight 59 kg Bout",
       "date": "2024-07-28",
-      "elo_delta": 20.1,
+      "elo_delta": 20.2,
       "event_name": "Super Rizin 3",
       "fight_id": "250a1f2ce0de9d6d",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Hiroya Kondo",
       "opponent_elo": 1464.4,
       "outcome": "red_win",
-      "post_elo": 1473.4,
-      "pre_elo": 1453.3,
+      "post_elo": 1471.2,
+      "pre_elo": 1451.0,
       "red_name": "Hideo Tokoro",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "3:20",
       "weight_class": "Catch Weight"
     },
@@ -56,12 +60,36 @@
       "opponent": "Alan Yamaniha",
       "opponent_elo": 1503.8,
       "outcome": "red_win",
-      "post_elo": 1489.5,
-      "pre_elo": 1507.7,
+      "post_elo": 1489.4,
+      "pre_elo": 1507.6,
       "red_name": "Alan Yamaniha",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Hideo Tokoro",
+      "bout_type": "Flyweight Bout",
+      "date": "2022-12-31",
+      "elo_delta": -14.9,
+      "event_name": "Bellator MMA vs. Rizin FF",
+      "fight_id": "b4892829d7cbe0d8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "John Dodson",
+      "opponent_elo": 1576.0,
+      "outcome": "red_win",
+      "post_elo": 1478.1,
+      "pre_elo": 1493.0,
+      "red_name": "John Dodson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Rizin 40",
+      "time": "1:43",
+      "weight_class": "Flyweight"
     },
     {
       "blue_name": "Shinobu Ota",
@@ -76,10 +104,12 @@
       "opponent": "Shinobu Ota",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1507.7,
+      "post_elo": 1507.6,
       "pre_elo": 1487.5,
       "red_name": "Hideo Tokoro",
       "round": "2",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
       "time": "2:23",
       "weight_class": "Bantamweight"
     },
@@ -94,12 +124,14 @@
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1606.7,
+      "opponent_elo": 1606.0,
       "outcome": "red_win",
       "post_elo": 1487.5,
       "pre_elo": 1501.2,
       "red_name": "Kyoji Horiguchi",
       "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
       "time": "1:49",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +152,8 @@
       "pre_elo": 1480.7,
       "red_name": "Hideo Tokoro",
       "round": "1",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
       "time": "1:19",
       "weight_class": "Bantamweight"
     },
@@ -127,7 +161,7 @@
       "blue_name": "Hideo Tokoro",
       "bout_type": "Featherweight 66 kg Bout",
       "date": "2016-09-25",
-      "elo_delta": -16.7,
+      "elo_delta": -16.6,
       "event_name": "Rizin World Grand-Prix 2016: 1st Round",
       "fight_id": "d442947a529ea113",
       "gender": "men",
@@ -136,32 +170,14 @@
       "opponent": "Kron Gracie",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1453.3,
-      "pre_elo": 1470.0,
+      "post_elo": 1451.0,
+      "pre_elo": 1467.6,
       "red_name": "Kron Gracie",
       "round": "1",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
       "time": "9:50",
       "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Kiyoshi Tamura",
-      "bout_type": "Catch Weight Bout",
-      "date": "2016-04-17",
-      "elo_delta": 2.4,
-      "event_name": "Rizin Fighting Federation 1",
-      "fight_id": "05b698d8db61fb8b",
-      "gender": "men",
-      "is_title": false,
-      "method": "Draw",
-      "opponent": "Kiyoshi Tamura",
-      "opponent_elo": 1514.8,
-      "outcome": "draw",
-      "post_elo": 1470.0,
-      "pre_elo": 1467.6,
-      "red_name": "Hideo Tokoro",
-      "round": "1",
-      "time": "15:00",
-      "weight_class": "Catch Weight"
     },
     {
       "blue_name": "Kizaemon Saiga",
@@ -180,6 +196,8 @@
       "pre_elo": 1459.0,
       "red_name": "Hideo Tokoro",
       "round": "1",
+      "source": "manual",
+      "source_title": "2015 in Rizin Fighting Federation",
       "time": "5:16",
       "weight_class": "Bantamweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1472.4,
       "red_name": "Antonio Banuelos",
       "round": "3",
+      "source": "manual",
+      "source_title": "Dream 17",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1483.8,
       "red_name": "Joachim Hansen",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 16",
       "time": "2:48",
       "weight_class": "Featherweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1501.0,
       "red_name": "Akiyo Nishiura",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 14",
       "time": "2:51",
       "weight_class": "Featherweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1519.5,
       "red_name": "Hiroyuki Takaya",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 11",
       "time": "0:32",
       "weight_class": "Featherweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1498.8,
       "red_name": "Hideo Tokoro",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 9",
       "time": "1:38",
       "weight_class": "Featherweight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1517.7,
       "red_name": "Daiki Hata",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 8",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1537.1,
       "red_name": "Atsushi Yamamoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 6",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1519.0,
       "red_name": "Hideo Tokoro",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 5",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1500.0,
       "red_name": "Hideo Tokoro",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 4",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -508,30 +544,16 @@
       "system": "men:overall"
     },
     {
-      "date": "2016-04-17",
-      "fight_id": "05b698d8db61fb8b",
-      "rating": 1470.0,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2016-04-17",
-      "fight_id": "05b698d8db61fb8b",
-      "rating": 1483.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2016-09-25",
       "fight_id": "d442947a529ea113",
-      "rating": 1453.3,
+      "rating": 1451.0,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2016-09-25",
       "fight_id": "d442947a529ea113",
-      "rating": 1468.1,
+      "rating": 1464.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -545,7 +567,7 @@
     {
       "date": "2016-12-31",
       "fight_id": "576b514a09b75c7e",
-      "rating": 1486.9,
+      "rating": 1483.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -559,49 +581,63 @@
     {
       "date": "2017-07-30",
       "fight_id": "4eca9804f860ec1e",
-      "rating": 1477.6,
+      "rating": 1474.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2020-12-31",
       "fight_id": "68d392e313c87452",
-      "rating": 1507.7,
+      "rating": 1507.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2020-12-31",
       "fight_id": "68d392e313c87452",
-      "rating": 1496.0,
+      "rating": 1493.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "b4892829d7cbe0d8",
+      "rating": 1478.1,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2022-12-31",
+      "fight_id": "b4892829d7cbe0d8",
+      "rating": 1478.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-10-01",
       "fight_id": "2694f3932911061f",
-      "rating": 1489.5,
+      "rating": 1489.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-10-01",
       "fight_id": "2694f3932911061f",
-      "rating": 1480.4,
+      "rating": 1463.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-07-28",
       "fight_id": "250a1f2ce0de9d6d",
-      "rating": 1473.4,
+      "rating": 1471.2,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2024-07-28",
       "fight_id": "250a1f2ce0de9d6d",
-      "rating": 1497.9,
+      "rating": 1482.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -615,7 +651,7 @@
     {
       "date": "2026-03-07",
       "fight_id": "730d81002c1ca7e9",
-      "rating": 1480.9,
+      "rating": 1465.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -625,7 +661,7 @@
   "last_fight_date": "2026-03-07",
   "name": "Hideo Tokoro",
   "nickname": "",
-  "overall_elo": 1480.9,
+  "overall_elo": 1465.9,
   "peak_elo": 1537.1,
   "slug": "hideo-tokoro",
   "systems": {

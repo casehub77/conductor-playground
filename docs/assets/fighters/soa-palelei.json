@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 255,
+  "divisional_rank": 253,
   "fight_count": 8,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Antonio Silva",
-      "opponent_elo": 1538.9,
+      "opponent_elo": 1540.0,
       "outcome": "red_win",
       "post_elo": 1507.2,
       "pre_elo": 1525.9,
       "red_name": "Antonio Silva",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:41",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1509.0,
       "red_name": "Soa Palelei",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:49",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1526.6,
       "red_name": "Soa Palelei",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1507.6,
       "red_name": "Soa Palelei",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:20",
       "weight_class": "Heavyweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Pat Barry",
-      "opponent_elo": 1488.6,
+      "opponent_elo": 1488.8,
       "outcome": "blue_win",
       "post_elo": 1507.6,
       "pre_elo": 1488.1,
       "red_name": "Pat Barry",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:09",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1466.9,
       "red_name": "Soa Palelei",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:34",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1484.2,
       "red_name": "Eddie Sanchez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:24",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mu Bae Choi",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 28",
       "time": "4:55",
       "weight_class": "Open Weight"
     }

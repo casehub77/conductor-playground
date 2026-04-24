@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 867,
+  "divisional_rank": 861,
   "fight_count": 4,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Yoshinori Suzuki",
       "opponent_elo": 1449.1,
       "outcome": "red_win",
-      "post_elo": 1509.2,
+      "post_elo": 1509.1,
       "pre_elo": 1493.4,
       "red_name": "Daiki Takashima",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1511.0,
       "red_name": "Kota Onojima",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Kenichiro Marui",
       "bout_type": "Open Weight Bout",
       "date": "2010-10-16",
-      "elo_delta": 15.5,
+      "elo_delta": 15.4,
       "event_name": "Shooto: Shooting Disco 13: Can't Stop Myself!",
       "fight_id": "5a4e202e5c83a311",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Kenichiro Marui",
-      "opponent_elo": 1446.7,
+      "opponent_elo": 1445.7,
       "outcome": "red_win",
       "post_elo": 1511.0,
       "pre_elo": 1495.5,
       "red_name": "Daiki Takashima",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Draw",
       "opponent": "Toshiaki Hayasaka",
-      "opponent_elo": 1411.8,
+      "opponent_elo": 1411.9,
       "outcome": "draw",
       "post_elo": 1495.5,
       "pre_elo": 1500.0,
       "red_name": "Toshiaki Hayasaka",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2011-10-01",
       "fight_id": "3e4bc2923bff6865",
-      "rating": 1509.2,
+      "rating": 1509.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2011-10-01",
       "fight_id": "3e4bc2923bff6865",
-      "rating": 1508.9,
+      "rating": 1508.8,
       "scope": "overall",
       "system": "men:overall"
     }

@@ -1,8 +1,30 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 820,
-  "fight_count": 1,
+  "divisional_rank": 549,
+  "fight_count": 2,
   "fight_log": [
+    {
+      "blue_name": "Aaron Brink",
+      "bout_type": "Catch Weight Bout",
+      "date": "2016-04-02",
+      "elo_delta": 28.6,
+      "event_name": "Gladiator Challenge: MMA Smackdown",
+      "fight_id": "4bce9c82214ad6dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1475.9,
+      "outcome": "red_win",
+      "post_elo": 1510.9,
+      "pre_elo": 1482.3,
+      "red_name": "Sean Loeffler",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "0:04",
+      "weight_class": "Catch Weight"
+    },
     {
       "blue_name": "Sean Loeffler",
       "bout_type": "Middleweight Bout",
@@ -20,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Bryan Baker",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 16",
       "time": "2:43",
       "weight_class": "Middleweight"
     }
@@ -40,15 +64,29 @@
       "rating": 1484.1,
       "scope": "overall",
       "system": "men:overall"
+    },
+    {
+      "date": "2016-04-02",
+      "fight_id": "4bce9c82214ad6dd",
+      "rating": 1510.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-04-02",
+      "fight_id": "4bce9c82214ad6dd",
+      "rating": 1507.1,
+      "scope": "overall",
+      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2010-04-29",
+  "last_fight_date": "2016-04-02",
   "name": "Sean Loeffler",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1500.0,
+  "peak_elo": 1510.9,
   "slug": "sean-loeffler",
   "systems": {
     "division": "men:Middleweight",

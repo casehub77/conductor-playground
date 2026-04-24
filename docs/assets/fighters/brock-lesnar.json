@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 143,
+  "divisional_rank": 141,
   "fight_count": 8,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Overturned",
       "opponent": "Mark Hunt",
-      "opponent_elo": 1577.9,
+      "opponent_elo": 1578.3,
       "outcome": "no_contest",
-      "post_elo": 1548.6,
-      "pre_elo": 1548.6,
+      "post_elo": 1548.8,
+      "pre_elo": 1548.8,
       "red_name": "Brock Lesnar",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Alistair Overeem",
       "bout_type": "Heavyweight Bout",
       "date": "2011-12-30",
-      "elo_delta": -15.4,
+      "elo_delta": -15.2,
       "event_name": "UFC 141: Lesnar vs Overeem",
       "fight_id": "2296a5105e178e1b",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Alistair Overeem",
-      "opponent_elo": 1636.8,
+      "opponent_elo": 1641.3,
       "outcome": "blue_win",
-      "post_elo": 1548.6,
+      "post_elo": 1548.8,
       "pre_elo": 1564.0,
       "red_name": "Brock Lesnar",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:26",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1583.0,
       "red_name": "Brock Lesnar",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:12",
       "weight_class": "Heavyweight"
     },
@@ -74,12 +80,14 @@
       "is_title": true,
       "method": "Submission",
       "opponent": "Shane Carwin",
-      "opponent_elo": 1599.0,
+      "opponent_elo": 1599.1,
       "outcome": "red_win",
       "post_elo": 1583.0,
-      "pre_elo": 1559.1,
+      "pre_elo": 1559.2,
       "red_name": "Brock Lesnar",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:19",
       "weight_class": "Heavyweight"
     },
@@ -94,12 +102,14 @@
       "is_title": true,
       "method": "KO/TKO",
       "opponent": "Frank Mir",
-      "opponent_elo": 1613.2,
+      "opponent_elo": 1613.3,
       "outcome": "red_win",
-      "post_elo": 1559.1,
+      "post_elo": 1559.2,
       "pre_elo": 1532.9,
       "red_name": "Brock Lesnar",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:48",
       "weight_class": "Heavyweight"
     },
@@ -114,12 +124,14 @@
       "is_title": true,
       "method": "KO/TKO",
       "opponent": "Randy Couture",
-      "opponent_elo": 1626.9,
+      "opponent_elo": 1627.0,
       "outcome": "red_win",
       "post_elo": 1532.9,
       "pre_elo": 1504.3,
       "red_name": "Brock Lesnar",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:07",
       "weight_class": "Heavyweight"
     },
@@ -137,9 +149,11 @@
       "opponent_elo": 1510.6,
       "outcome": "red_win",
       "post_elo": 1504.3,
-      "pre_elo": 1484.9,
+      "pre_elo": 1485.0,
       "red_name": "Brock Lesnar",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -147,19 +161,21 @@
       "blue_name": "Brock Lesnar",
       "bout_type": "Heavyweight Bout",
       "date": "2008-02-02",
-      "elo_delta": -15.1,
+      "elo_delta": -15.0,
       "event_name": "UFC 81: Breaking Point",
       "fight_id": "9a01752526c85f24",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Frank Mir",
-      "opponent_elo": 1579.7,
+      "opponent_elo": 1579.9,
       "outcome": "red_win",
-      "post_elo": 1484.9,
+      "post_elo": 1485.0,
       "pre_elo": 1500.0,
       "red_name": "Frank Mir",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:30",
       "weight_class": "Heavyweight"
     }
@@ -170,7 +186,7 @@
     {
       "date": "2008-02-02",
       "fight_id": "9a01752526c85f24",
-      "rating": 1484.9,
+      "rating": 1485.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -191,7 +207,7 @@
     {
       "date": "2008-08-09",
       "fight_id": "82c24437c8f61d55",
-      "rating": 1505.7,
+      "rating": 1505.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -205,21 +221,21 @@
     {
       "date": "2008-11-15",
       "fight_id": "a26f8d85d11a8f4f",
-      "rating": 1531.0,
+      "rating": 1531.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2009-07-11",
       "fight_id": "7dae3f3746c1f48e",
-      "rating": 1559.1,
+      "rating": 1559.2,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2009-07-11",
       "fight_id": "7dae3f3746c1f48e",
-      "rating": 1553.9,
+      "rating": 1554.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -247,35 +263,35 @@
     {
       "date": "2010-10-23",
       "fight_id": "83cbc2245ec22743",
-      "rating": 1557.8,
+      "rating": 1557.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-12-30",
       "fight_id": "2296a5105e178e1b",
-      "rating": 1548.6,
+      "rating": 1548.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-12-30",
       "fight_id": "2296a5105e178e1b",
-      "rating": 1544.0,
+      "rating": 1544.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2016-07-09",
       "fight_id": "6f2db685645ee6e3",
-      "rating": 1548.6,
+      "rating": 1548.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2016-07-09",
       "fight_id": "6f2db685645ee6e3",
-      "rating": 1544.0,
+      "rating": 1544.3,
       "scope": "overall",
       "system": "men:overall"
     }

@@ -1,13 +1,13 @@
 {
-  "current_elo": 1463.3,
-  "divisional_rank": 726,
+  "current_elo": 1464.3,
+  "divisional_rank": 736,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Steven Asplund",
       "bout_type": "Heavyweight Bout",
       "date": "2025-12-13",
-      "elo_delta": -15.4,
+      "elo_delta": -15.5,
       "event_name": "UFC Fight Night: Royval vs. Kape",
       "fight_id": "1ab60667628cffdf",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Steven Asplund",
       "opponent_elo": 1551.1,
       "outcome": "blue_win",
-      "post_elo": 1463.3,
-      "pre_elo": 1478.8,
+      "post_elo": 1464.3,
+      "pre_elo": 1479.8,
       "red_name": "Sean Sharaf",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:49",
       "weight_class": "Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Sean Sharaf",
       "bout_type": "Heavyweight Bout",
       "date": "2024-10-12",
-      "elo_delta": -21.2,
+      "elo_delta": -20.2,
       "event_name": "UFC Fight Night: Royval vs. Taira",
       "fight_id": "4de5d9e451324028",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Junior Tafa",
-      "opponent_elo": 1467.6,
+      "opponent_elo": 1485.7,
       "outcome": "red_win",
-      "post_elo": 1478.8,
+      "post_elo": 1479.8,
       "pre_elo": 1500.0,
       "red_name": "Junior Tafa",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:15",
       "weight_class": "Heavyweight"
     }
@@ -50,28 +54,28 @@
     {
       "date": "2024-10-12",
       "fight_id": "4de5d9e451324028",
-      "rating": 1478.8,
+      "rating": 1479.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2024-10-12",
       "fight_id": "4de5d9e451324028",
-      "rating": 1481.3,
+      "rating": 1482.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-13",
       "fight_id": "1ab60667628cffdf",
-      "rating": 1463.3,
+      "rating": 1464.3,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2025-12-13",
       "fight_id": "1ab60667628cffdf",
-      "rating": 1467.2,
+      "rating": 1467.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -81,7 +85,7 @@
   "last_fight_date": "2025-12-13",
   "name": "Sean Sharaf",
   "nickname": "",
-  "overall_elo": 1467.2,
+  "overall_elo": 1467.9,
   "peak_elo": 1500.0,
   "slug": "sean-sharaf",
   "systems": {

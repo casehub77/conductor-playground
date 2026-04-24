@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 512,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jon Rizo",
+      "bout_type": "Heavyweight Bout",
+      "date": "2018-03-04",
+      "elo_delta": -20.2,
+      "event_name": "California Cage Wars 4",
+      "fight_id": "ed9fade6760b227f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (boston crab)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1487.1,
+      "outcome": "red_win",
+      "post_elo": 1479.8,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "1:37",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-03-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-03-04",
+      "fight_id": "ed9fade6760b227f",
+      "rating": 1479.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-03-04",
+      "fight_id": "ed9fade6760b227f",
+      "rating": 1478.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-03-04",
+  "name": "Jon Rizo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "jon-rizo",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,25 +1,27 @@
 {
-  "current_elo": 1486.2,
-  "divisional_rank": 1353,
+  "current_elo": 1485.4,
+  "divisional_rank": 1320,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "BeyNoah",
       "bout_type": "Catchweight 73 kg Bout",
       "date": "2025-12-31",
-      "elo_delta": 24.7,
+      "elo_delta": 23.9,
       "event_name": "Rizin: Shiwasu no Cho Tsuwamono Matsuri",
       "fight_id": "2374b2f9799c38f7",
       "gender": "men",
       "is_title": false,
       "method": "KO (head kick)",
       "opponent": "BeyNoah",
-      "opponent_elo": 1557.6,
+      "opponent_elo": 1543.5,
       "outcome": "red_win",
-      "post_elo": 1486.2,
+      "post_elo": 1485.4,
       "pre_elo": 1461.5,
       "red_name": "Tatsuya Saika",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "0:32",
       "weight_class": "Catch Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1480.6,
       "red_name": "Ali Abdulkhalikov",
       "round": "1",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "3:30",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kimihiro Eto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "4:12",
       "weight_class": "Lightweight"
     }
@@ -98,14 +104,14 @@
     {
       "date": "2025-12-31",
       "fight_id": "2374b2f9799c38f7",
-      "rating": 1486.2,
+      "rating": 1485.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-12-31",
       "fight_id": "2374b2f9799c38f7",
-      "rating": 1486.6,
+      "rating": 1486.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -115,7 +121,7 @@
   "last_fight_date": "2025-12-31",
   "name": "Tatsuya Saika",
   "nickname": "",
-  "overall_elo": 1486.6,
+  "overall_elo": 1486.0,
   "peak_elo": 1500.0,
   "slug": "tatsuya-saika",
   "systems": {

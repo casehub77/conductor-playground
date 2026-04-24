@@ -1,6 +1,6 @@
 {
-  "current_elo": 1481.3,
-  "divisional_rank": 1032,
+  "current_elo": 1481.4,
+  "divisional_rank": 928,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Hecher Sosa",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1481.3,
-      "pre_elo": 1499.3,
+      "post_elo": 1481.4,
+      "pre_elo": 1499.4,
       "red_name": "Luan Lacerda",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Saimon Oliveira",
-      "opponent_elo": 1446.1,
+      "opponent_elo": 1445.4,
       "outcome": "red_win",
-      "post_elo": 1499.3,
-      "pre_elo": 1481.9,
+      "post_elo": 1499.4,
+      "pre_elo": 1482.0,
       "red_name": "Luan Lacerda",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:55",
       "weight_class": "Bantamweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Da'Mon Blackshear",
       "opponent_elo": 1481.6,
       "outcome": "red_win",
-      "post_elo": 1481.9,
-      "pre_elo": 1502.5,
+      "post_elo": 1482.0,
+      "pre_elo": 1502.6,
       "red_name": "Da'Mon Blackshear",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:54",
       "weight_class": "Bantamweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Cody Stamann",
       "bout_type": "Bantamweight Bout",
       "date": "2023-01-21",
-      "elo_delta": -17.0,
+      "elo_delta": -16.9,
       "event_name": "UFC 283: Teixeira vs. Hill",
       "fight_id": "2c98ac78ae9d06ce",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Cody Stamann",
-      "opponent_elo": 1539.3,
+      "opponent_elo": 1541.1,
       "outcome": "blue_win",
-      "post_elo": 1502.5,
+      "post_elo": 1502.6,
       "pre_elo": 1519.4,
       "red_name": "Luan Lacerda",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Luan Lacerda",
       "round": "2",
+      "source": "manual",
+      "source_title": "2021 in Legacy Fighting Alliance",
       "time": "1:06",
       "weight_class": "Bantamweight"
     }
@@ -124,56 +134,56 @@
     {
       "date": "2023-01-21",
       "fight_id": "2c98ac78ae9d06ce",
-      "rating": 1502.5,
+      "rating": 1502.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-01-21",
       "fight_id": "2c98ac78ae9d06ce",
-      "rating": 1502.1,
+      "rating": 1502.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-06-03",
       "fight_id": "1bccb112b6873c9d",
-      "rating": 1481.9,
+      "rating": 1482.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-06-03",
       "fight_id": "1bccb112b6873c9d",
-      "rating": 1483.9,
+      "rating": 1484.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-10-11",
       "fight_id": "783f61edb5499c53",
-      "rating": 1499.3,
+      "rating": 1499.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-10-11",
       "fight_id": "783f61edb5499c53",
-      "rating": 1499.6,
+      "rating": 1499.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-03-14",
       "fight_id": "048aa4608e314a89",
-      "rating": 1481.3,
+      "rating": 1481.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-03-14",
       "fight_id": "048aa4608e314a89",
-      "rating": 1483.6,
+      "rating": 1483.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,7 +193,7 @@
   "last_fight_date": "2026-03-14",
   "name": "Luan Lacerda",
   "nickname": "",
-  "overall_elo": 1483.6,
+  "overall_elo": 1483.7,
   "peak_elo": 1519.4,
   "slug": "luan-lacerda",
   "systems": {

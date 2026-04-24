@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 585,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tommy Sauer",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2000-09-30",
+      "elo_delta": -18.0,
+      "event_name": "Rings USA: Rising Stars Final",
+      "fight_id": "463c0cf0da940377",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1525.4,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "4:29",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2000-09-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-09-30",
+      "fight_id": "463c0cf0da940377",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2000-09-30",
+      "fight_id": "463c0cf0da940377",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-09-30",
+  "name": "Tommy Sauer",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "tommy-sauer",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

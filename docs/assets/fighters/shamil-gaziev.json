@@ -1,6 +1,6 @@
 {
   "current_elo": 1529.2,
-  "divisional_rank": 60,
+  "divisional_rank": 59,
   "fight_count": 5,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1545.7,
       "red_name": "Waldo Cortes Acosta",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:22",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Thomas Petersen",
-      "opponent_elo": 1563.6,
+      "opponent_elo": 1563.7,
       "outcome": "red_win",
       "post_elo": 1545.7,
       "pre_elo": 1524.0,
       "red_name": "Shamil Gaziev",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:12",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1505.7,
       "red_name": "Shamil Gaziev",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Jairzinho Rozenstruik",
-      "opponent_elo": 1561.2,
+      "opponent_elo": 1561.4,
       "outcome": "red_win",
       "post_elo": 1505.7,
       "pre_elo": 1523.0,
       "red_name": "Jairzinho Rozenstruik",
       "round": "4.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Martin Buday",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:56",
       "weight_class": "Heavyweight"
     }
@@ -131,7 +141,7 @@
     {
       "date": "2024-03-02",
       "fight_id": "8cde8e93c5c2268a",
-      "rating": 1504.6,
+      "rating": 1504.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -173,7 +183,7 @@
     {
       "date": "2025-11-22",
       "fight_id": "8d8ff2e31bd7a132",
-      "rating": 1525.1,
+      "rating": 1525.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,7 +193,7 @@
   "last_fight_date": "2025-11-22",
   "name": "Shamil Gaziev",
   "nickname": "",
-  "overall_elo": 1525.1,
+  "overall_elo": 1525.2,
   "peak_elo": 1545.7,
   "slug": "shamil-gaziev",
   "systems": {

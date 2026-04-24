@@ -1,28 +1,8 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 116,
-  "fight_count": 8,
+  "divisional_rank": 181,
+  "fight_count": 7,
   "fight_log": [
-    {
-      "blue_name": "Jong Hoon Choi",
-      "bout_type": "Open Weight Bout",
-      "date": "2011-11-11",
-      "elo_delta": 16.3,
-      "event_name": "Shoot Boxing / Rise / Sustain: SRS 2011 for Japan",
-      "fight_id": "a49c31032daa4c26",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (Triangle Choke)",
-      "opponent": "Jong Hoon Choi",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1572.5,
-      "pre_elo": 1556.2,
-      "red_name": "Masato Sannai",
-      "round": "2",
-      "time": "3:45",
-      "weight_class": "Open Weight"
-    },
     {
       "blue_name": "Teruyuki Matsumoto",
       "bout_type": "Open Weight Bout",
@@ -40,6 +20,8 @@
       "pre_elo": 1536.0,
       "red_name": "Masato Sannai",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "0:38",
       "weight_class": "Open Weight"
     },
@@ -60,6 +42,8 @@
       "pre_elo": 1555.9,
       "red_name": "Tetsu Suzuki",
       "round": "3",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +64,8 @@
       "pre_elo": 1534.7,
       "red_name": "Masato Sannai",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "3:56",
       "weight_class": "Open Weight"
     },
@@ -87,19 +73,21 @@
       "blue_name": "Takahiro Hosoi",
       "bout_type": "Open Weight Bout",
       "date": "2010-05-09",
-      "elo_delta": 17.0,
+      "elo_delta": 16.9,
       "event_name": "Shooto: Kitazawa Shooto Vol. 3",
       "fight_id": "850dac7c46bb9a9c",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Takahiro Hosoi",
-      "opponent_elo": 1497.5,
+      "opponent_elo": 1497.4,
       "outcome": "red_win",
       "post_elo": 1534.7,
       "pre_elo": 1517.8,
       "red_name": "Masato Sannai",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +108,8 @@
       "pre_elo": 1499.3,
       "red_name": "Masato Sannai",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "3:09",
       "weight_class": "Open Weight"
     },
@@ -134,12 +124,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Yuta Nezu",
-      "opponent_elo": 1496.4,
+      "opponent_elo": 1496.3,
       "outcome": "red_win",
       "post_elo": 1499.3,
       "pre_elo": 1518.4,
       "red_name": "Yuta Nezu",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -160,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Masato Sannai",
       "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "2:28",
       "weight_class": "Open Weight"
     }
@@ -264,29 +258,15 @@
       "rating": 1550.1,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2011-11-11",
-      "fight_id": "a49c31032daa4c26",
-      "rating": 1572.5,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2011-11-11",
-      "fight_id": "a49c31032daa4c26",
-      "rating": 1564.9,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2011-11-11",
+  "last_fight_date": "2011-07-18",
   "name": "Masato Sannai",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1572.5,
+  "peak_elo": 1556.2,
   "slug": "masato-sannai",
   "systems": {
     "division": "men:Open Weight",

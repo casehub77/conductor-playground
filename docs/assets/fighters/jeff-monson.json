@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 149,
+  "divisional_rank": 147,
   "fight_count": 13,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1519.4,
       "outcome": "red_win",
       "post_elo": 1557.6,
-      "pre_elo": 1578.6,
+      "pre_elo": 1578.7,
       "red_name": "Daniel Cormier",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Overeem vs. Werdum",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Submission (North-South Choke)",
       "opponent": "Sergei Kharitonov",
-      "opponent_elo": 1582.7,
+      "opponent_elo": 1582.8,
       "outcome": "red_win",
-      "post_elo": 1578.6,
+      "post_elo": 1578.7,
       "pre_elo": 1557.8,
       "red_name": "Jeff Monson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 8",
       "time": "1:42",
       "weight_class": "Heavyweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1533.7,
       "outcome": "red_win",
       "post_elo": 1557.8,
-      "pre_elo": 1538.6,
+      "pre_elo": 1538.7,
       "red_name": "Jeff Monson",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 34",
       "time": "6:36",
       "weight_class": "Heavyweight"
     },
@@ -74,12 +80,14 @@
       "is_title": true,
       "method": "Decision - Unanimous",
       "opponent": "Tim Sylvia",
-      "opponent_elo": 1599.4,
+      "opponent_elo": 1600.6,
       "outcome": "red_win",
-      "post_elo": 1538.6,
-      "pre_elo": 1555.9,
+      "post_elo": 1538.7,
+      "pre_elo": 1556.0,
       "red_name": "Tim Sylvia",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -96,10 +104,12 @@
       "opponent": "Anthony Perosh",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1555.9,
+      "post_elo": 1556.0,
       "pre_elo": 1538.7,
       "red_name": "Jeff Monson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:42",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.5,
       "red_name": "Jeff Monson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1498.9,
       "red_name": "Jeff Monson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:35",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1526.1,
       "red_name": "Jeff Monson",
       "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
       "time": "0:58",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1506.2,
       "red_name": "Jeff Monson",
       "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
       "time": "1:59",
       "weight_class": "Open Weight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1483.7,
       "red_name": "Jeff Monson",
       "round": "1",
+      "source": "manual",
+      "source_title": "2004 in Cage Warriors",
       "time": "3:51",
       "weight_class": "Open Weight"
     },
@@ -214,12 +234,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Ricco Rodriguez",
-      "opponent_elo": 1538.8,
+      "opponent_elo": 1539.0,
       "outcome": "red_win",
       "post_elo": 1498.9,
       "pre_elo": 1517.1,
       "red_name": "Ricco Rodriguez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:00",
       "weight_class": "Heavyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1515.3,
       "red_name": "Chuck Liddell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jeff Monson",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     }
@@ -382,7 +408,7 @@
     {
       "date": "2006-07-08",
       "fight_id": "3b8800fecbf758de",
-      "rating": 1555.9,
+      "rating": 1556.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -396,14 +422,14 @@
     {
       "date": "2006-11-18",
       "fight_id": "7d85d1819c5aee8d",
-      "rating": 1538.6,
+      "rating": 1538.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2006-11-18",
       "fight_id": "7d85d1819c5aee8d",
-      "rating": 1566.3,
+      "rating": 1566.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -424,14 +450,14 @@
     {
       "date": "2009-04-05",
       "fight_id": "b04a1c8f97ba4df7",
-      "rating": 1578.6,
+      "rating": 1578.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2009-04-05",
       "fight_id": "b04a1c8f97ba4df7",
-      "rating": 1599.5,
+      "rating": 1599.6,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -445,7 +471,7 @@
     {
       "date": "2011-06-18",
       "fight_id": "15030fb05c968b0b",
-      "rating": 1579.8,
+      "rating": 1579.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -456,7 +482,7 @@
   "name": "Jeff Monson",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1599.5,
+  "peak_elo": 1599.6,
   "slug": "jeff-monson",
   "systems": {
     "division": "men:Heavyweight",

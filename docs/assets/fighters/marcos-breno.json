@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 366,
+  "divisional_rank": 325,
   "fight_count": 3,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Danny Sabatello",
-      "opponent_elo": 1539.0,
+      "opponent_elo": 1538.2,
       "outcome": "red_win",
-      "post_elo": 1517.3,
-      "pre_elo": 1536.6,
+      "post_elo": 1517.2,
+      "pre_elo": 1536.5,
       "red_name": "Danny Sabatello",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 294",
       "time": "4:10",
       "weight_class": "Bantamweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
       "opponent": "Josh Hill",
-      "opponent_elo": 1502.4,
+      "opponent_elo": 1501.6,
       "outcome": "red_win",
-      "post_elo": 1536.6,
+      "post_elo": 1536.5,
       "pre_elo": 1519.4,
       "red_name": "Marcos Breno",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 284",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Marcos Breno",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Legacy Fighting Alliance",
       "time": "0:56",
       "weight_class": "Bantamweight"
     }
@@ -84,7 +90,7 @@
     {
       "date": "2022-08-12",
       "fight_id": "b5085a53e9a73b76",
-      "rating": 1536.6,
+      "rating": 1536.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
@@ -98,14 +104,14 @@
     {
       "date": "2023-04-21",
       "fight_id": "df4573d054b4f653",
-      "rating": 1517.3,
+      "rating": 1517.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-04-21",
       "fight_id": "df4573d054b4f653",
-      "rating": 1515.4,
+      "rating": 1515.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -116,7 +122,7 @@
   "name": "Marcos Breno",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1536.6,
+  "peak_elo": 1536.5,
   "slug": "marcos-breno",
   "systems": {
     "division": "men:Bantamweight",

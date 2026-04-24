@@ -1,6 +1,6 @@
 {
   "current_elo": 1540.6,
-  "divisional_rank": 87,
+  "divisional_rank": 79,
   "fight_count": 2,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Julian Erosa",
-      "opponent_elo": 1550.0,
+      "opponent_elo": 1550.1,
       "outcome": "blue_win",
       "post_elo": 1540.6,
       "pre_elo": 1519.4,
       "red_name": "Julian Erosa",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:33",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Lerryan Douglas",
       "round": "2",
+      "source": "manual",
+      "source_title": "2024 in Legacy Fighting Alliance",
       "time": "2:56",
       "weight_class": "Featherweight"
     }

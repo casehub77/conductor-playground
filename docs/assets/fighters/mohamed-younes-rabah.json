@@ -1,99 +1,30 @@
 {
-  "current_elo": 1515.5,
-  "divisional_rank": 225,
-  "fight_count": 3,
-  "fight_log": [
-    {
-      "blue_name": "Eddie Abasolo",
-      "bout_type": "Featherweight Muay Thai Bout",
-      "date": "2024-11-09",
-      "elo_delta": 15.8,
-      "event_name": "ONE 169: Malykhin vs. Reug Reug",
-      "fight_id": "a4dee3d77056473d",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Eddie Abasolo",
-      "opponent_elo": 1457.8,
-      "outcome": "red_win",
-      "post_elo": 1515.5,
-      "pre_elo": 1499.7,
-      "red_name": "Mohamed Younes Rabah",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Mohamed Younes Rabah",
-      "bout_type": "Bantamweight Muay Thai Bout",
-      "date": "2024-02-17",
-      "elo_delta": -20.6,
-      "event_name": "ONE Fight Night 19: Haggerty vs. Lobo",
-      "fight_id": "ef7aea4f1cc065df",
-      "gender": "men",
-      "is_title": false,
-      "method": "TKO (punches and elbow)",
-      "opponent": "Saemapetch Fairtex",
-      "opponent_elo": 1497.5,
-      "outcome": "red_win",
-      "post_elo": 1497.4,
-      "pre_elo": 1518.0,
-      "red_name": "Saemapetch Fairtex",
-      "round": "1",
-      "time": "1:33",
-      "weight_class": "Bantamweight"
-    }
-  ],
+  "current_elo": 1500.0,
+  "divisional_rank": null,
+  "fight_count": 1,
+  "fight_log": [],
   "first_fight_date": "2023-12-09",
   "gender": "men",
   "history": [
     {
       "date": "2023-12-09",
       "fight_id": "2ebf612a3012d029",
-      "rating": 1518.0,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-02-17",
-      "fight_id": "ef7aea4f1cc065df",
-      "rating": 1497.4,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2024-02-17",
-      "fight_id": "ef7aea4f1cc065df",
-      "rating": 1499.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-11-09",
-      "fight_id": "a4dee3d77056473d",
-      "rating": 1515.5,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2024-11-09",
-      "fight_id": "a4dee3d77056473d",
-      "rating": 1513.9,
+      "rating": 1517.3,
       "scope": "overall",
       "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2024-11-09",
+  "last_fight_date": "2023-12-09",
   "name": "Mohamed Younes Rabah",
   "nickname": "",
-  "overall_elo": 1513.9,
-  "peak_elo": 1518.0,
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.3,
   "slug": "mohamed-younes-rabah",
   "systems": {
-    "division": "men:Featherweight",
+    "division": "men:Catch Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Featherweight"
+  "weight_class": "Catch Weight"
 }

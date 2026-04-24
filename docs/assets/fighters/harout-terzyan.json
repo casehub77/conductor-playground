@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 263,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Aaron Brink",
+      "bout_type": "Heavyweight Bout",
+      "date": "2001-11-11",
+      "elo_delta": 22.0,
+      "event_name": "UP 1: Ultimate Pankration 1",
+      "fight_id": "52dfc6a033d316f8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1545.7,
+      "outcome": "red_win",
+      "post_elo": 1522.0,
+      "pre_elo": 1500.0,
+      "red_name": "Harout Terzyan",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "3:23",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2001-11-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-11-11",
+      "fight_id": "52dfc6a033d316f8",
+      "rating": 1522.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2001-11-11",
+      "fight_id": "52dfc6a033d316f8",
+      "rating": 1520.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-11-11",
+  "name": "Harout Terzyan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.0,
+  "slug": "harout-terzyan",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 210,
+  "divisional_rank": 208,
   "fight_count": 20,
   "fight_log": [
     {
       "blue_name": "David Abbott",
       "bout_type": "Heavyweight Bout",
       "date": "2006-10-07",
-      "elo_delta": -14.9,
+      "elo_delta": -15.0,
       "event_name": "Strikeforce: Tank vs. Buentello",
       "fight_id": "8aeb123bd9591ae6",
       "gender": "men",
       "is_title": false,
       "method": "KO (Punch)",
       "opponent": "Paul Buentello",
-      "opponent_elo": 1538.6,
+      "opponent_elo": 1538.8,
       "outcome": "red_win",
-      "post_elo": 1441.5,
-      "pre_elo": 1456.4,
+      "post_elo": 1442.4,
+      "pre_elo": 1457.3,
       "red_name": "Paul Buentello",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Tank vs. Buentello",
       "time": "0:43",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1542.6,
       "red_name": "Hidehiko Yoshida",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2005",
       "time": "7:40",
       "weight_class": "Open Weight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "David Abbott",
       "bout_type": "Heavyweight Bout",
       "date": "2003-11-21",
-      "elo_delta": -17.9,
+      "elo_delta": -17.0,
       "event_name": "UFC 45: Revolution",
       "fight_id": "ecff32efdb4b2f8c",
       "gender": "men",
       "is_title": false,
       "method": "TKO - Doctor's Stoppage",
       "opponent": "Wesley Correira",
-      "opponent_elo": 1501.1,
+      "opponent_elo": 1518.2,
       "outcome": "red_win",
-      "post_elo": 1456.4,
+      "post_elo": 1457.3,
       "pre_elo": 1474.3,
       "red_name": "Wesley Correira",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:14",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1494.6,
       "red_name": "Kimo Leopoldo",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:59",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1513.9,
       "red_name": "Frank Mir",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:46",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1535.3,
       "red_name": "Pedro Rizzo",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "8:07",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1516.8,
       "red_name": "David Abbott",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:43",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1498.7,
       "red_name": "David Abbott",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:00",
       "weight_class": "Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1518.5,
       "red_name": "Maurice Smith",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "8:08",
       "weight_class": "Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1537.9,
       "red_name": "Vitor Belfort",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:52",
       "weight_class": "Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1523.4,
       "red_name": "David Abbott",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:03",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1540.7,
       "red_name": "Don Frye",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:22",
       "weight_class": "Open Weight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1522.4,
       "red_name": "David Abbott",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:51",
       "weight_class": "Open Weight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1543.7,
       "red_name": "Scott Ferrozzo",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:00",
       "weight_class": "Open Weight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1526.8,
       "red_name": "David Abbott",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:06",
       "weight_class": "Open Weight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1505.5,
       "red_name": "David Abbott",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:14",
       "weight_class": "Open Weight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1521.7,
       "red_name": "Dan Severn",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "18:00",
       "weight_class": "Open Weight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1501.2,
       "red_name": "David Abbott",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:53",
       "weight_class": "Open Weight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1519.4,
       "red_name": "Oleg Taktarov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "17:45",
       "weight_class": "Open Weight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1500.0,
       "red_name": "David Abbott",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:20",
       "weight_class": "Open Weight"
     }
@@ -648,14 +688,14 @@
     {
       "date": "2003-11-21",
       "fight_id": "ecff32efdb4b2f8c",
-      "rating": 1456.4,
+      "rating": 1457.3,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2003-11-21",
       "fight_id": "ecff32efdb4b2f8c",
-      "rating": 1464.1,
+      "rating": 1465.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -669,21 +709,21 @@
     {
       "date": "2005-08-28",
       "fight_id": "3ed991a916afdc58",
-      "rating": 1448.8,
+      "rating": 1449.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2006-10-07",
       "fight_id": "8aeb123bd9591ae6",
-      "rating": 1441.5,
+      "rating": 1442.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2006-10-07",
       "fight_id": "8aeb123bd9591ae6",
-      "rating": 1435.7,
+      "rating": 1436.4,
       "scope": "overall",
       "system": "men:overall"
     }

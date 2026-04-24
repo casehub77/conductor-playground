@@ -1,6 +1,6 @@
 {
-  "current_elo": 1543.8,
-  "divisional_rank": 59,
+  "current_elo": 1543.7,
+  "divisional_rank": 43,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Daichi Tomizawa",
       "opponent_elo": 1499.0,
       "outcome": "red_win",
-      "post_elo": 1543.8,
+      "post_elo": 1543.7,
       "pre_elo": 1525.8,
       "red_name": "Tatsuki Shinotsuka",
       "round": "2",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "3:22",
       "weight_class": "Flyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "TKO (corner stoppage)",
       "opponent": "Hiroya Kondo",
-      "opponent_elo": 1510.9,
+      "opponent_elo": 1510.1,
       "outcome": "red_win",
       "post_elo": 1525.8,
       "pre_elo": 1547.3,
       "red_name": "Hiroya Kondo",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "2:11",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1534.5,
       "red_name": "Tatsuki Shinotsuka",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "2:04",
       "weight_class": "Catch Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1516.0,
       "red_name": "Tatsuki Shinotsuka",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "1:33",
       "weight_class": "Catch Weight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2025-05-04",
       "fight_id": "2f5e47b2c4f87816",
-      "rating": 1527.2,
+      "rating": 1527.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-31",
       "fight_id": "55a602c5bff1db62",
-      "rating": 1543.8,
+      "rating": 1543.7,
       "scope": "division",
       "system": "men:Flyweight"
     },
@@ -152,7 +160,7 @@
     }
   ],
   "instagram": null,
-  "instagram_featured": false,
+  "instagram_featured": true,
   "last_fight_date": "2025-12-31",
   "name": "Tatsuki Shinotsuka",
   "nickname": "",

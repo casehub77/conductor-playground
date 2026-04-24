@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 395,
+  "divisional_rank": 299,
   "fight_count": 3,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1466.7,
       "outcome": "blue_win",
       "post_elo": 1450.9,
-      "pre_elo": 1470.6,
+      "pre_elo": 1470.5,
       "red_name": "Darrell Montague",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:36",
       "weight_class": "Flyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1605.6,
+      "opponent_elo": 1604.9,
       "outcome": "red_win",
-      "post_elo": 1470.6,
+      "post_elo": 1470.5,
       "pre_elo": 1482.4,
       "red_name": "Kyoji Horiguchi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "John Dodson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:13",
       "weight_class": "Flyweight"
     }
@@ -84,14 +90,14 @@
     {
       "date": "2014-05-10",
       "fight_id": "9717badb6a23b4c1",
-      "rating": 1470.6,
+      "rating": 1470.5,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2014-05-10",
       "fight_id": "9717badb6a23b4c1",
-      "rating": 1473.7,
+      "rating": 1473.6,
       "scope": "overall",
       "system": "men:overall"
     },

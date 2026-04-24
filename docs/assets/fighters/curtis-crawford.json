@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 443,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Curtis Crawford",
+      "bout_type": "Heavyweight Bout",
+      "date": "2002-03-30",
+      "elo_delta": -17.1,
+      "event_name": "HFP 1: Rumble on the Reservation",
+      "fight_id": "f606382ea40f9559",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1541.9,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "2:16",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2002-03-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-03-30",
+      "fight_id": "f606382ea40f9559",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2002-03-30",
+      "fight_id": "f606382ea40f9559",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-03-30",
+  "name": "Curtis Crawford",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "curtis-crawford",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

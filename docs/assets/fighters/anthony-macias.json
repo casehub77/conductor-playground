@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1038,
+  "divisional_rank": 1032,
   "fight_count": 3,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1462.4,
       "red_name": "Eiji Mitsuoka",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride The Best Vol.1",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1480.6,
       "red_name": "Oleg Taktarov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:09",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Dan Severn",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:45",
       "weight_class": "Open Weight"
     }

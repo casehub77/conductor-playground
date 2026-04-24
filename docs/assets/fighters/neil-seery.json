@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 258,
+  "divisional_rank": 193,
   "fight_count": 8,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1521.0,
       "red_name": "Alexandre Pantoja",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:31",
       "weight_class": "Flyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1633.1,
+      "opponent_elo": 1632.6,
       "outcome": "red_win",
       "post_elo": 1521.0,
       "pre_elo": 1534.0,
       "red_name": "Kyoji Horiguchi",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1516.0,
       "red_name": "Neil Seery",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:12",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1534.6,
       "red_name": "Neil Seery",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1515.8,
       "red_name": "Neil Seery",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1499.1,
       "red_name": "Neil Seery",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1516.4,
       "red_name": "Brad Pickett",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1500.0,
       "red_name": "Neil Seery",
       "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Cage Warriors",
       "time": "4:04",
       "weight_class": "Open Weight"
     }
@@ -261,7 +277,7 @@
     {
       "date": "2016-05-08",
       "fight_id": "e152c8d35ff2c466",
-      "rating": 1520.4,
+      "rating": 1520.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -275,7 +291,7 @@
     {
       "date": "2017-07-16",
       "fight_id": "bc533edd5c263638",
-      "rating": 1502.9,
+      "rating": 1502.8,
       "scope": "overall",
       "system": "men:overall"
     }

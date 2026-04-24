@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 309,
+  "divisional_rank": 317,
   "fight_count": 3,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Philip De Fries",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1485.4,
-      "pre_elo": 1503.5,
+      "post_elo": 1486.2,
+      "pre_elo": 1504.4,
       "red_name": "Rob Broughton",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Rob Broughton",
       "bout_type": "Heavyweight Bout",
       "date": "2011-09-24",
-      "elo_delta": -15.9,
+      "elo_delta": -15.0,
       "event_name": "UFC 135: Jones vs Rampage",
       "fight_id": "016a400f4369c344",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Travis Browne",
-      "opponent_elo": 1560.2,
+      "opponent_elo": 1577.2,
       "outcome": "red_win",
-      "post_elo": 1503.5,
+      "post_elo": 1504.4,
       "pre_elo": 1519.4,
       "red_name": "Travis Browne",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Rob Broughton",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:43",
       "weight_class": "Heavyweight"
     }
@@ -84,28 +90,28 @@
     {
       "date": "2011-09-24",
       "fight_id": "016a400f4369c344",
-      "rating": 1503.5,
+      "rating": 1504.4,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-09-24",
       "fight_id": "016a400f4369c344",
-      "rating": 1502.9,
+      "rating": 1503.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-11-05",
       "fight_id": "468410119afb0166",
-      "rating": 1485.4,
+      "rating": 1486.2,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-11-05",
       "fight_id": "468410119afb0166",
-      "rating": 1486.8,
+      "rating": 1487.4,
       "scope": "overall",
       "system": "men:overall"
     }

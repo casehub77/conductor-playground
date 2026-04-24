@@ -1,25 +1,27 @@
 {
-  "current_elo": 1484.8,
-  "divisional_rank": 1364,
+  "current_elo": 1484.9,
+  "divisional_rank": 1325,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "King Green",
       "bout_type": "Lightweight Bout",
       "date": "2026-02-28",
-      "elo_delta": -16.1,
+      "elo_delta": -15.9,
       "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
       "fight_id": "f715dd3c5f1a034f",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "King Green",
-      "opponent_elo": 1561.5,
+      "opponent_elo": 1564.5,
       "outcome": "blue_win",
-      "post_elo": 1484.8,
-      "pre_elo": 1500.8,
+      "post_elo": 1484.9,
+      "pre_elo": 1500.9,
       "red_name": "Daniel Zellhuber",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:55",
       "weight_class": "Lightweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Michael Johnson",
       "opponent_elo": 1528.5,
       "outcome": "red_win",
-      "post_elo": 1500.8,
+      "post_elo": 1500.9,
       "pre_elo": 1518.3,
       "red_name": "Michael Johnson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1537.0,
       "red_name": "Daniel Zellhuber",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.8,
       "red_name": "Daniel Zellhuber",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Christos Giagos",
-      "opponent_elo": 1518.1,
+      "opponent_elo": 1518.6,
       "outcome": "red_win",
       "post_elo": 1519.8,
       "pre_elo": 1499.3,
       "red_name": "Daniel Zellhuber",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:26",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1481.1,
       "red_name": "Lando Vannata",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Trey Ogden",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -220,28 +234,28 @@
     {
       "date": "2025-07-19",
       "fight_id": "6eb44296d362c6d4",
-      "rating": 1500.8,
+      "rating": 1500.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-07-19",
       "fight_id": "6eb44296d362c6d4",
-      "rating": 1500.7,
+      "rating": 1500.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-02-28",
       "fight_id": "f715dd3c5f1a034f",
-      "rating": 1484.8,
+      "rating": 1484.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-02-28",
       "fight_id": "f715dd3c5f1a034f",
-      "rating": 1486.1,
+      "rating": 1486.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,7 +265,7 @@
   "last_fight_date": "2026-02-28",
   "name": "Daniel Zellhuber",
   "nickname": "",
-  "overall_elo": 1486.1,
+  "overall_elo": 1486.3,
   "peak_elo": 1537.0,
   "slug": "daniel-zellhuber",
   "systems": {

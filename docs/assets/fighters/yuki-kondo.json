@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1061,
+  "divisional_rank": 1056,
   "fight_count": 10,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1438.9,
       "red_name": "Akihiro Gono",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2006",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1461.9,
       "red_name": "Phil Baroni",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 10",
       "time": "0:25",
       "weight_class": "Open Weight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Kazuhiro Nakamura",
-      "opponent_elo": 1525.8,
+      "opponent_elo": 1525.9,
       "outcome": "red_win",
       "post_elo": 1461.9,
       "pre_elo": 1477.4,
       "red_name": "Kazuhiro Nakamura",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2005",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1519.4,
       "red_name": "Igor Vovchanchyn",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2005",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1491.3,
       "red_name": "Dan Henderson",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2004",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1505.3,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "2:46",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1483.7,
       "red_name": "Yuki Kondo",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2003",
       "time": "3:27",
       "weight_class": "Open Weight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1497.5,
       "red_name": "Vladimir Matyushenko",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1517.3,
       "red_name": "Tito Ortiz",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:52",
       "weight_class": "Light Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yuki Kondo",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:28",
       "weight_class": "Middleweight"
     }

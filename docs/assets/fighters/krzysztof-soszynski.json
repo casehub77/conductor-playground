@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 138,
+  "divisional_rank": 139,
   "fight_count": 10,
   "fight_log": [
     {
@@ -17,9 +17,11 @@
       "opponent_elo": 1490.5,
       "outcome": "blue_win",
       "post_elo": 1543.2,
-      "pre_elo": 1566.8,
+      "pre_elo": 1566.9,
       "red_name": "Krzysztof Soszynski",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:35",
       "weight_class": "Light Heavyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Mike Massenzio",
       "opponent_elo": 1484.7,
       "outcome": "blue_win",
-      "post_elo": 1566.8,
+      "post_elo": 1566.9,
       "pre_elo": 1552.3,
       "red_name": "Mike Massenzio",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1522.8,
       "outcome": "red_win",
       "post_elo": 1552.3,
-      "pre_elo": 1534.9,
+      "pre_elo": 1535.0,
       "red_name": "Krzysztof Soszynski",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Stephan Bonnar",
       "opponent_elo": 1491.1,
       "outcome": "blue_win",
-      "post_elo": 1534.9,
+      "post_elo": 1535.0,
       "pre_elo": 1558.1,
       "red_name": "Krzysztof Soszynski",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:08",
       "weight_class": "Light Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1540.4,
       "red_name": "Krzysztof Soszynski",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:04",
       "weight_class": "Light Heavyweight"
     },
@@ -114,12 +124,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Brandon Vera",
-      "opponent_elo": 1567.2,
+      "opponent_elo": 1568.0,
       "outcome": "red_win",
       "post_elo": 1540.4,
       "pre_elo": 1557.9,
       "red_name": "Brandon Vera",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1541.8,
       "red_name": "Krzysztof Soszynski",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:17",
       "weight_class": "Light Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1520.6,
       "red_name": "Krzysztof Soszynski",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:53",
       "weight_class": "Light Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1501.2,
       "red_name": "Krzysztof Soszynski",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:27",
       "weight_class": "Light Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mike Kyle",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Gracie",
       "time": "2:02",
       "weight_class": "Heavyweight"
     }
@@ -287,14 +307,14 @@
     {
       "date": "2010-02-20",
       "fight_id": "c5a955818b316681",
-      "rating": 1552.3,
+      "rating": 1552.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-07-03",
       "fight_id": "3a6171554a0abe29",
-      "rating": 1534.9,
+      "rating": 1535.0,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -315,21 +335,21 @@
     {
       "date": "2010-11-13",
       "fight_id": "a862616068932ba2",
-      "rating": 1546.1,
+      "rating": 1546.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-06-11",
       "fight_id": "38de8e1e84dfda03",
-      "rating": 1566.8,
+      "rating": 1566.9,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2011-06-11",
       "fight_id": "38de8e1e84dfda03",
-      "rating": 1559.3,
+      "rating": 1559.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -354,7 +374,7 @@
   "name": "Krzysztof Soszynski",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1566.8,
+  "peak_elo": 1566.9,
   "slug": "krzysztof-soszynski",
   "systems": {
     "division": "men:Light Heavyweight",

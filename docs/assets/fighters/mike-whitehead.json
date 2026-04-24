@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 549,
-  "fight_count": 5,
+  "divisional_rank": 562,
+  "fight_count": 6,
   "fight_log": [
     {
       "blue_name": "Mike Whitehead",
       "bout_type": "Heavyweight Bout",
       "date": "2009-12-19",
-      "elo_delta": -18.4,
+      "elo_delta": -19.1,
       "event_name": "Strikeforce: Evolution",
       "fight_id": "af3afbd48b5a0dad",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Muhammed Lawal",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1463.2,
-      "pre_elo": 1481.6,
+      "post_elo": 1474.1,
+      "pre_elo": 1493.2,
       "red_name": "Muhammed Lawal",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Evolution",
       "time": "3:08",
       "weight_class": "Heavyweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Kevin Randleman",
       "bout_type": "Light Heavyweight Bout",
       "date": "2009-06-06",
-      "elo_delta": 19.3,
+      "elo_delta": 18.8,
       "event_name": "Strikeforce: Lawler vs. Shields",
       "fight_id": "dc6619fe7e3ab979",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Kevin Randleman",
       "opponent_elo": 1509.7,
       "outcome": "red_win",
-      "post_elo": 1503.8,
-      "pre_elo": 1484.4,
+      "post_elo": 1512.8,
+      "pre_elo": 1494.0,
       "red_name": "Mike Whitehead",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Lawler vs. Shields",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Mike Whitehead",
       "bout_type": "Light Heavyweight Bout",
       "date": "2006-02-04",
-      "elo_delta": -17.2,
+      "elo_delta": -17.7,
       "event_name": "UFC 57: Liddell vs Couture 3",
       "fight_id": "0a4a91f57de4f42d",
       "gender": "men",
@@ -56,12 +60,36 @@
       "opponent": "Keith Jardine",
       "opponent_elo": 1517.3,
       "outcome": "red_win",
-      "post_elo": 1484.4,
-      "pre_elo": 1501.6,
+      "post_elo": 1494.0,
+      "pre_elo": 1511.7,
       "red_name": "Keith Jardine",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Aaron Brink",
+      "bout_type": "Catch Weight Bout",
+      "date": "2005-03-25",
+      "elo_delta": 11.6,
+      "event_name": "UAGF: Clover Combat",
+      "fight_id": "eb3a7663f007d866",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1585.2,
+      "outcome": "red_win",
+      "post_elo": 1493.2,
+      "pre_elo": 1481.6,
+      "red_name": "Mike Whitehead",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
     },
     {
       "blue_name": "Terroll Dees",
@@ -80,6 +108,8 @@
       "pre_elo": 1483.5,
       "red_name": "Mike Whitehead",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 13",
       "time": "3:43",
       "weight_class": "Open Weight"
     },
@@ -100,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Brandon Vera",
       "round": "2",
+      "source": "manual",
+      "source_title": "WEC 13",
       "time": "1:12",
       "weight_class": "Heavyweight"
     }
@@ -136,44 +168,58 @@
       "system": "men:overall"
     },
     {
+      "date": "2005-03-25",
+      "fight_id": "eb3a7663f007d866",
+      "rating": 1493.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2005-03-25",
+      "fight_id": "eb3a7663f007d866",
+      "rating": 1511.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2006-02-04",
       "fight_id": "0a4a91f57de4f42d",
-      "rating": 1484.4,
+      "rating": 1494.0,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2006-02-04",
       "fight_id": "0a4a91f57de4f42d",
-      "rating": 1486.4,
+      "rating": 1495.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2009-06-06",
       "fight_id": "dc6619fe7e3ab979",
-      "rating": 1503.8,
+      "rating": 1512.8,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2009-06-06",
       "fight_id": "dc6619fe7e3ab979",
-      "rating": 1502.0,
+      "rating": 1511.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2009-12-19",
       "fight_id": "af3afbd48b5a0dad",
-      "rating": 1463.2,
+      "rating": 1474.1,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2009-12-19",
       "fight_id": "af3afbd48b5a0dad",
-      "rating": 1484.7,
+      "rating": 1493.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -184,7 +230,7 @@
   "name": "Mike Whitehead",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1503.9,
+  "peak_elo": 1512.8,
   "slug": "mike-whitehead",
   "systems": {
     "division": "men:Heavyweight",

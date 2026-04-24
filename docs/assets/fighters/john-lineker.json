@@ -1,105 +1,27 @@
 {
-  "current_elo": 1619.4,
-  "divisional_rank": 13,
-  "fight_count": 26,
+  "current_elo": 1596.6,
+  "divisional_rank": 1,
+  "fight_count": 22,
   "fight_log": [
-    {
-      "blue_name": "John Lineker",
-      "bout_type": "Bantamweight Kickboxing Bout",
-      "date": "2025-03-23",
-      "elo_delta": -26.0,
-      "event_name": "ONE 172: Takeru vs. Rodtang",
-      "fight_id": "9f5aea2f115b2582",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (split)",
-      "opponent": "Hiroki Akimoto",
-      "opponent_elo": 1479.7,
-      "outcome": "red_win",
-      "post_elo": 1619.4,
-      "pre_elo": 1645.3,
-      "red_name": "Hiroki Akimoto",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Bantamweight"
-    },
-    {
-      "blue_name": "John Lineker",
-      "bout_type": "Bantamweight Muay Thai Bout",
-      "date": "2025-01-11",
-      "elo_delta": -24.6,
-      "event_name": "ONE Fight Night 27: Tang vs. Abdullaev",
-      "fight_id": "b08c966dc7c241b5",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Kulabdam Sor.Jor.Piek-U-Thai",
-      "opponent_elo": 1536.8,
-      "outcome": "red_win",
-      "post_elo": 1645.3,
-      "pre_elo": 1669.9,
-      "red_name": "Kulabdam Sor.Jor.Piek-U-Thai",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Bantamweight"
-    },
-    {
-      "blue_name": "Alexey Balyko",
-      "bout_type": "Bantamweight Muay Thai Bout",
-      "date": "2024-10-05",
-      "elo_delta": 12.8,
-      "event_name": "ONE Fight Night 25: Nicolas vs. Eersel 2",
-      "fight_id": "477040c04c1c1a06",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (punches)",
-      "opponent": "Alexey Balyko",
-      "opponent_elo": 1534.2,
-      "outcome": "red_win",
-      "post_elo": 1669.9,
-      "pre_elo": 1657.1,
-      "red_name": "John Lineker",
-      "round": "1",
-      "time": "2:14",
-      "weight_class": "Bantamweight"
-    },
-    {
-      "blue_name": "Asa Ten Pow",
-      "bout_type": "Bantamweight Muay Thai Bout",
-      "date": "2024-09-06",
-      "elo_delta": 13.3,
-      "event_name": "ONE 168: Denver",
-      "fight_id": "3e0ed7ff36982812",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (punch)",
-      "opponent": "Asa Ten Pow",
-      "opponent_elo": 1529.6,
-      "outcome": "red_win",
-      "post_elo": 1657.1,
-      "pre_elo": 1643.8,
-      "red_name": "John Lineker",
-      "round": "2",
-      "time": "2:50",
-      "weight_class": "Bantamweight"
-    },
     {
       "blue_name": "John Lineker",
       "bout_type": "Open Weight Bout",
       "date": "2024-01-28",
-      "elo_delta": -23.8,
+      "elo_delta": -22.8,
       "event_name": "ONE 165: Superlek vs. Takeru",
       "fight_id": "c96a8042a109ce99",
       "gender": "men",
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Shinya Aoki",
-      "opponent_elo": 1557.7,
+      "opponent_elo": 1577.0,
       "outcome": "red_win",
-      "post_elo": 1613.7,
+      "post_elo": 1614.8,
       "pre_elo": 1637.6,
       "red_name": "Shinya Aoki",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 165",
       "time": "3:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +42,8 @@
       "pre_elo": 1629.0,
       "red_name": "John Lineker",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 14",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +64,8 @@
       "pre_elo": 1611.7,
       "red_name": "John Lineker",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE Fight Night 13",
       "time": "4:56",
       "weight_class": "Catch Weight"
     },
@@ -160,6 +86,8 @@
       "pre_elo": 1635.5,
       "red_name": "Fabrício Andrade",
       "round": "4",
+      "source": "manual",
+      "source_title": "ONE Fight Night 7",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -180,6 +108,8 @@
       "pre_elo": 1635.5,
       "red_name": "John Lineker",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE on Prime Video 3",
       "time": "2:44",
       "weight_class": "Bantamweight"
     },
@@ -200,6 +130,8 @@
       "pre_elo": 1617.4,
       "red_name": "John Lineker",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE: Lights Out",
       "time": "3:40",
       "weight_class": "Bantamweight"
     },
@@ -220,6 +152,8 @@
       "pre_elo": 1639.6,
       "red_name": "John Lineker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -240,6 +174,8 @@
       "pre_elo": 1625.3,
       "red_name": "John Lineker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:43",
       "weight_class": "Bantamweight"
     },
@@ -260,6 +196,8 @@
       "pre_elo": 1611.8,
       "red_name": "John Lineker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -280,6 +218,8 @@
       "pre_elo": 1629.8,
       "red_name": "Tj Dillashaw",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -300,6 +240,8 @@
       "pre_elo": 1615.7,
       "red_name": "John Lineker",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -320,6 +262,8 @@
       "pre_elo": 1597.5,
       "red_name": "Michael Mcdonald",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:43",
       "weight_class": "Bantamweight"
     },
@@ -340,6 +284,8 @@
       "pre_elo": 1581.7,
       "red_name": "John Lineker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -360,6 +306,8 @@
       "pre_elo": 1564.9,
       "red_name": "Francisco Rivera",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:08",
       "weight_class": "Bantamweight"
     },
@@ -380,6 +328,8 @@
       "pre_elo": 1554.6,
       "red_name": "Ian Mccall",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -400,6 +350,8 @@
       "pre_elo": 1537.2,
       "red_name": "John Lineker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:51",
       "weight_class": "Flyweight"
     },
@@ -420,6 +372,8 @@
       "pre_elo": 1556.1,
       "red_name": "John Lineker",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -440,6 +394,8 @@
       "pre_elo": 1539.5,
       "red_name": "Phil Harris",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:51",
       "weight_class": "Flyweight"
     },
@@ -460,6 +416,8 @@
       "pre_elo": 1521.2,
       "red_name": "John Lineker",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:03",
       "weight_class": "Flyweight"
     },
@@ -480,6 +438,8 @@
       "pre_elo": 1502.9,
       "red_name": "John Lineker",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:07",
       "weight_class": "Flyweight"
     },
@@ -500,6 +460,8 @@
       "pre_elo": 1479.6,
       "red_name": "Yasuhiro Urushitani",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -520,6 +482,8 @@
       "pre_elo": 1500.0,
       "red_name": "Louis Gaudinot",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:54",
       "weight_class": "Flyweight"
     }
@@ -824,85 +788,29 @@
     {
       "date": "2024-01-28",
       "fight_id": "c96a8042a109ce99",
-      "rating": 1613.7,
+      "rating": 1614.8,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2024-01-28",
       "fight_id": "c96a8042a109ce99",
-      "rating": 1619.5,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-09-06",
-      "fight_id": "3e0ed7ff36982812",
-      "rating": 1657.1,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2024-09-06",
-      "fight_id": "3e0ed7ff36982812",
-      "rating": 1632.3,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-10-05",
-      "fight_id": "477040c04c1c1a06",
-      "rating": 1669.9,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2024-10-05",
-      "fight_id": "477040c04c1c1a06",
-      "rating": 1644.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2025-01-11",
-      "fight_id": "b08c966dc7c241b5",
-      "rating": 1645.3,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2025-01-11",
-      "fight_id": "b08c966dc7c241b5",
-      "rating": 1623.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2025-03-23",
-      "fight_id": "9f5aea2f115b2582",
-      "rating": 1619.4,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2025-03-23",
-      "fight_id": "9f5aea2f115b2582",
-      "rating": 1601.5,
+      "rating": 1621.7,
       "scope": "overall",
       "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": true,
-  "last_fight_date": "2025-03-23",
+  "last_fight_date": "2024-01-28",
   "name": "John Lineker",
   "nickname": "",
-  "overall_elo": 1601.5,
-  "peak_elo": 1669.9,
+  "overall_elo": 1603.5,
+  "peak_elo": 1643.8,
   "slug": "john-lineker",
   "systems": {
-    "division": "men:Bantamweight",
+    "division": "men:Open Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Bantamweight"
+  "weight_class": "Open Weight"
 }

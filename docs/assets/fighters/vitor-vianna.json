@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 286,
-  "fight_count": 3,
+  "divisional_rank": 247,
+  "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Vitor Vianna",
       "bout_type": "Middleweight Bout",
       "date": "2011-11-12",
-      "elo_delta": -15.5,
+      "elo_delta": -16.3,
       "event_name": "Bellator 57",
       "fight_id": "5c8b65c63d499e77",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Alexander Shlemenko",
       "opponent_elo": 1590.8,
       "outcome": "red_win",
-      "post_elo": 1526.9,
-      "pre_elo": 1542.5,
+      "post_elo": 1542.2,
+      "pre_elo": 1558.6,
       "red_name": "Alexander Shlemenko",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 57",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Bryan Baker",
       "bout_type": "Middleweight Bout",
       "date": "2011-10-15",
-      "elo_delta": 23.5,
+      "elo_delta": 22.6,
       "event_name": "Bellator 54",
       "fight_id": "c815ca97397e5ce5",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Bryan Baker",
       "opponent_elo": 1592.8,
       "outcome": "red_win",
-      "post_elo": 1542.5,
-      "pre_elo": 1518.9,
+      "post_elo": 1558.6,
+      "pre_elo": 1536.0,
       "red_name": "Vitor Vianna",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 54",
       "time": "0:54",
       "weight_class": "Middleweight"
     },
@@ -47,7 +51,7 @@
       "blue_name": "Sam Alvey",
       "bout_type": "Middleweight Bout",
       "date": "2011-09-17",
-      "elo_delta": 18.9,
+      "elo_delta": 18.0,
       "event_name": "Bellator 50",
       "fight_id": "e4032a61f20faba7",
       "gender": "men",
@@ -56,56 +60,94 @@
       "opponent": "Sam Alvey",
       "opponent_elo": 1518.1,
       "outcome": "red_win",
-      "post_elo": 1518.9,
-      "pre_elo": 1500.0,
+      "post_elo": 1536.0,
+      "pre_elo": 1518.0,
       "red_name": "Vitor Vianna",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 50",
       "time": "5:00",
       "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Aaron Brink",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-10-09",
+      "elo_delta": 22.7,
+      "event_name": "Millennium Events: MMA Xplosion",
+      "fight_id": "41f6dcebca68b6ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1558.7,
+      "outcome": "red_win",
+      "post_elo": 1522.7,
+      "pre_elo": 1500.0,
+      "red_name": "Vitor Vianna",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "1:17",
+      "weight_class": "Light Heavyweight"
     }
   ],
-  "first_fight_date": "2011-09-17",
+  "first_fight_date": "2010-10-09",
   "gender": "men",
   "history": [
     {
+      "date": "2010-10-09",
+      "fight_id": "41f6dcebca68b6ed",
+      "rating": 1522.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-10-09",
+      "fight_id": "41f6dcebca68b6ed",
+      "rating": 1518.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2011-09-17",
       "fight_id": "e4032a61f20faba7",
-      "rating": 1518.9,
+      "rating": 1536.0,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2011-09-17",
       "fight_id": "e4032a61f20faba7",
-      "rating": 1516.7,
+      "rating": 1533.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-10-15",
       "fight_id": "c815ca97397e5ce5",
-      "rating": 1542.5,
+      "rating": 1558.6,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2011-10-15",
       "fight_id": "c815ca97397e5ce5",
-      "rating": 1537.5,
+      "rating": 1553.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-11-12",
       "fight_id": "5c8b65c63d499e77",
-      "rating": 1526.9,
+      "rating": 1542.2,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2011-11-12",
       "fight_id": "5c8b65c63d499e77",
-      "rating": 1523.5,
+      "rating": 1539.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -116,7 +158,7 @@
   "name": "Vitor Vianna",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1542.5,
+  "peak_elo": 1558.6,
   "slug": "vitor-vianna",
   "systems": {
     "division": "men:Middleweight",

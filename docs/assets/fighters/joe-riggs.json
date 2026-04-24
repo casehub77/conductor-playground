@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
   "divisional_rank": 550,
-  "fight_count": 22,
+  "fight_count": 23,
   "fight_log": [
     {
       "blue_name": "Joe Riggs",
       "bout_type": "Middleweight Bout",
       "date": "2016-02-21",
-      "elo_delta": -18.5,
+      "elo_delta": -20.3,
       "event_name": "UFC Fight Night: Cowboy vs Cowboy",
       "fight_id": "ba9fbe0fab09cb25",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Chris Camozzi",
       "opponent_elo": 1494.1,
       "outcome": "red_win",
-      "post_elo": 1459.5,
-      "pre_elo": 1478.0,
+      "post_elo": 1489.5,
+      "pre_elo": 1509.8,
       "red_name": "Chris Camozzi",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:26",
       "weight_class": "Middleweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Ron Stallings",
       "bout_type": "Middleweight Bout",
       "date": "2015-09-05",
-      "elo_delta": 21.8,
+      "elo_delta": 20.0,
       "event_name": "UFC 191: Johnson vs Dodson 2",
       "fight_id": "00f017cd318c431a",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Ron Stallings",
       "opponent_elo": 1499.2,
       "outcome": "red_win",
-      "post_elo": 1478.0,
-      "pre_elo": 1456.2,
+      "post_elo": 1509.8,
+      "pre_elo": 1489.8,
       "red_name": "Joe Riggs",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:28",
       "weight_class": "Middleweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1535.8,
       "red_name": "Patrick Cote",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -80,8 +86,32 @@
       "pre_elo": 1554.3,
       "red_name": "Joe Riggs",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:57",
       "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Aaron Brink",
+      "bout_type": "Catch Weight Bout",
+      "date": "2012-05-11",
+      "elo_delta": 33.6,
+      "event_name": "Rage in the Cage 159",
+      "fight_id": "b24e239c01bb8d32",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1509.5,
+      "outcome": "red_win",
+      "post_elo": 1489.8,
+      "pre_elo": 1456.2,
+      "red_name": "Joe Riggs",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "1:18",
+      "weight_class": "Catch Weight"
     },
     {
       "blue_name": "Joe Riggs",
@@ -100,6 +130,8 @@
       "pre_elo": 1470.7,
       "red_name": "Bryan Baker",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 43",
       "time": "3:53",
       "weight_class": "Middleweight"
     },
@@ -120,6 +152,8 @@
       "pre_elo": 1577.1,
       "red_name": "Jay Hieron",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Miami",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -140,6 +174,8 @@
       "pre_elo": 1562.6,
       "red_name": "Joe Riggs",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Lawler vs. Shields",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -160,6 +196,8 @@
       "pre_elo": 1541.3,
       "red_name": "Joe Riggs",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Destruction",
       "time": "2:05",
       "weight_class": "Welterweight"
     },
@@ -180,6 +218,8 @@
       "pre_elo": 1489.0,
       "red_name": "Kazuo Misaki",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: At The Mansion II",
       "time": "2:29",
       "weight_class": "Middleweight"
     },
@@ -200,6 +240,8 @@
       "pre_elo": 1508.9,
       "red_name": "Cory Devela",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: At The Dome",
       "time": "1:22",
       "weight_class": "Middleweight"
     },
@@ -220,6 +262,8 @@
       "pre_elo": 1487.1,
       "red_name": "Joe Riggs",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Playboy Mansion",
       "time": "3:56",
       "weight_class": "Middleweight"
     },
@@ -240,6 +284,8 @@
       "pre_elo": 1559.1,
       "red_name": "Diego Sanchez",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:45",
       "weight_class": "Welterweight"
     },
@@ -260,6 +306,8 @@
       "pre_elo": 1540.1,
       "red_name": "Joe Riggs",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:01",
       "weight_class": "Welterweight"
     },
@@ -280,6 +328,8 @@
       "pre_elo": 1503.8,
       "red_name": "Mike Swick",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:19",
       "weight_class": "Middleweight"
     },
@@ -300,6 +350,8 @@
       "pre_elo": 1521.0,
       "red_name": "Joe Riggs",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -320,6 +372,8 @@
       "pre_elo": 1534.6,
       "red_name": "Matt Hughes",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:28",
       "weight_class": "Welterweight"
     },
@@ -340,6 +394,8 @@
       "pre_elo": 1516.9,
       "red_name": "Joe Riggs",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:00",
       "weight_class": "Welterweight"
     },
@@ -360,6 +416,8 @@
       "pre_elo": 1483.4,
       "red_name": "Joe Riggs",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 15",
       "time": "1:24",
       "weight_class": "Middleweight"
     },
@@ -380,6 +438,8 @@
       "pre_elo": 1502.3,
       "red_name": "Ivan Salaverry",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:42",
       "weight_class": "Middleweight"
     },
@@ -400,6 +460,8 @@
       "pre_elo": 1479.6,
       "red_name": "Joe Riggs",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 12",
       "time": "1:50",
       "weight_class": "Open Weight"
     },
@@ -420,6 +482,8 @@
       "pre_elo": 1481.9,
       "red_name": "Joe Riggs",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:39",
       "weight_class": "Middleweight"
     },
@@ -440,6 +504,8 @@
       "pre_elo": 1500.0,
       "red_name": "Alex Stiebling",
       "round": "2",
+      "source": "manual",
+      "source_title": "WEC 9",
       "time": "1:54",
       "weight_class": "Open Weight"
     }
@@ -700,6 +766,20 @@
       "system": "men:overall"
     },
     {
+      "date": "2012-05-11",
+      "fight_id": "b24e239c01bb8d32",
+      "rating": 1489.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-05-11",
+      "fight_id": "b24e239c01bb8d32",
+      "rating": 1531.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2014-12-13",
       "fight_id": "556080b33d9ec9ea",
       "rating": 1535.8,
@@ -709,7 +789,7 @@
     {
       "date": "2014-12-13",
       "fight_id": "556080b33d9ec9ea",
-      "rating": 1492.7,
+      "rating": 1515.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -723,35 +803,35 @@
     {
       "date": "2015-04-25",
       "fight_id": "ab5f3bca2aa82bf5",
-      "rating": 1477.2,
+      "rating": 1499.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2015-09-05",
       "fight_id": "00f017cd318c431a",
-      "rating": 1478.0,
+      "rating": 1509.8,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2015-09-05",
       "fight_id": "00f017cd318c431a",
-      "rating": 1495.6,
+      "rating": 1516.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2016-02-21",
       "fight_id": "ba9fbe0fab09cb25",
-      "rating": 1459.5,
+      "rating": 1489.5,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2016-02-21",
       "fight_id": "ba9fbe0fab09cb25",
-      "rating": 1478.3,
+      "rating": 1497.9,
       "scope": "overall",
       "system": "men:overall"
     }

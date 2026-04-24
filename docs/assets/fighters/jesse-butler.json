@@ -1,25 +1,27 @@
 {
-  "current_elo": 1478.2,
-  "divisional_rank": 1074,
+  "current_elo": 1478.3,
+  "divisional_rank": 968,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Jesse Butler",
       "bout_type": "Bantamweight Bout",
       "date": "2024-06-08",
-      "elo_delta": -17.7,
+      "elo_delta": -17.6,
       "event_name": "UFC Fight Night: Cannonier vs. Imavov",
       "fight_id": "4d506ba5dd0a4947",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Brad Katona",
-      "opponent_elo": 1491.8,
+      "opponent_elo": 1493.9,
       "outcome": "red_win",
-      "post_elo": 1469.1,
+      "post_elo": 1469.2,
       "pre_elo": 1486.8,
       "red_name": "Brad Katona",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Jim Miller",
-      "opponent_elo": 1566.8,
+      "opponent_elo": 1566.9,
       "outcome": "red_win",
       "post_elo": 1484.3,
       "pre_elo": 1500.0,
       "red_name": "Jim Miller",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:23",
       "weight_class": "Lightweight"
     }
@@ -64,14 +68,14 @@
     {
       "date": "2024-06-08",
       "fight_id": "4d506ba5dd0a4947",
-      "rating": 1469.1,
+      "rating": 1469.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-06-08",
       "fight_id": "4d506ba5dd0a4947",
-      "rating": 1471.2,
+      "rating": 1471.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -81,7 +85,7 @@
   "last_fight_date": "2024-06-08",
   "name": "Jesse Butler",
   "nickname": "",
-  "overall_elo": 1480.3,
+  "overall_elo": 1480.5,
   "peak_elo": 1500.0,
   "slug": "jesse-butler",
   "systems": {

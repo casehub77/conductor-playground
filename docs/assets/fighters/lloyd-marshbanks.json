@@ -1,0 +1,60 @@
+{
+  "current_elo": 1500.0,
+  "divisional_rank": 541,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Lloyd Marshbanks",
+      "bout_type": "Heavyweight Bout",
+      "date": "2007-03-03",
+      "elo_delta": -18.9,
+      "event_name": "MMA Xtreme 9",
+      "fight_id": "2180070d2e39a253",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (corner stoppage)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1510.1,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "N/A",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-03-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-03-03",
+      "fight_id": "2180070d2e39a253",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2007-03-03",
+      "fight_id": "2180070d2e39a253",
+      "rating": 1482.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-03-03",
+  "name": "Lloyd Marshbanks",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "slug": "lloyd-marshbanks",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

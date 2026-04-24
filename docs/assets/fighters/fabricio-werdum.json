@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 147,
+  "divisional_rank": 146,
   "fight_count": 10,
   "fight_log": [
     {
       "blue_name": "Fabrício Werdum",
       "bout_type": "Heavyweight Bout",
       "date": "2011-06-18",
-      "elo_delta": -15.8,
+      "elo_delta": -15.6,
       "event_name": "Strikeforce: Overeem vs. Werdum",
       "fight_id": "a8a97b0adaba0e51",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 29–28)",
       "opponent": "Alistair Overeem",
-      "opponent_elo": 1620.9,
+      "opponent_elo": 1625.7,
       "outcome": "red_win",
-      "post_elo": 1563.3,
+      "post_elo": 1563.5,
       "pre_elo": 1579.1,
       "red_name": "Alistair Overeem",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Overeem vs. Werdum",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1555.2,
       "red_name": "Fabrício Werdum",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Werdum",
       "time": "1:09",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1539.2,
       "red_name": "Fabrício Werdum",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Rogers",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1521.3,
       "red_name": "Fabrício Werdum",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Carano vs. Cyborg",
       "time": "1:24",
       "weight_class": "Heavyweight"
     },
@@ -87,7 +95,7 @@
       "blue_name": "Fabrício Werdum",
       "bout_type": "Open Weight Bout",
       "date": "2006-07-01",
-      "elo_delta": -11.4,
+      "elo_delta": -11.5,
       "event_name": "Pride: Critical Countdown Absolute",
       "fight_id": "329ea7a28dfa6c74",
       "gender": "men",
@@ -96,10 +104,12 @@
       "opponent": "Antônio Rodrigo Nogueira",
       "opponent_elo": 1694.4,
       "outcome": "red_win",
-      "post_elo": 1550.2,
-      "pre_elo": 1561.6,
+      "post_elo": 1550.7,
+      "pre_elo": 1562.1,
       "red_name": "Antônio Rodrigo Nogueira",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown Absolute",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -107,19 +117,21 @@
       "blue_name": "Alistair Overeem",
       "bout_type": "Open Weight Bout",
       "date": "2006-05-05",
-      "elo_delta": 22.2,
+      "elo_delta": 22.7,
       "event_name": "Pride: Total Elimination Absolute",
       "fight_id": "0ed29ac6224a32f2",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Kimura)",
       "opponent": "Alistair Overeem",
-      "opponent_elo": 1589.1,
+      "opponent_elo": 1598.2,
       "outcome": "red_win",
-      "post_elo": 1561.6,
+      "post_elo": 1562.1,
       "pre_elo": 1539.4,
       "red_name": "Fabrício Werdum",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Total Elimination Absolute",
       "time": "3:43",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1521.5,
       "red_name": "Fabrício Werdum",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 31",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "Decision (Split)",
       "opponent": "Sergei Kharitonov",
-      "opponent_elo": 1580.2,
+      "opponent_elo": 1580.3,
       "outcome": "red_win",
       "post_elo": 1521.5,
       "pre_elo": 1537.3,
       "red_name": "Sergei Kharitonov",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 30",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1519.0,
       "red_name": "Fabrício Werdum",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2005",
       "time": "6:01",
       "weight_class": "Open Weight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Fabrício Werdum",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 29",
       "time": "5:11",
       "weight_class": "Heavyweight"
     }
@@ -266,28 +286,28 @@
     {
       "date": "2006-05-05",
       "fight_id": "0ed29ac6224a32f2",
-      "rating": 1561.6,
+      "rating": 1562.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2006-05-05",
       "fight_id": "0ed29ac6224a32f2",
-      "rating": 1557.2,
+      "rating": 1557.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2006-07-01",
       "fight_id": "329ea7a28dfa6c74",
-      "rating": 1550.2,
+      "rating": 1550.7,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2006-07-01",
       "fight_id": "329ea7a28dfa6c74",
-      "rating": 1546.1,
+      "rating": 1546.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -301,7 +321,7 @@
     {
       "date": "2009-08-15",
       "fight_id": "d90239fe836168c9",
-      "rating": 1561.5,
+      "rating": 1561.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -315,7 +335,7 @@
     {
       "date": "2009-11-07",
       "fight_id": "4b654dd732aa2696",
-      "rating": 1574.7,
+      "rating": 1575.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -329,21 +349,21 @@
     {
       "date": "2010-06-26",
       "fight_id": "8dca3afed9a4a708",
-      "rating": 1598.3,
+      "rating": 1598.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-06-18",
       "fight_id": "a8a97b0adaba0e51",
-      "rating": 1563.3,
+      "rating": 1563.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-06-18",
       "fight_id": "a8a97b0adaba0e51",
-      "rating": 1582.9,
+      "rating": 1583.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -354,7 +374,7 @@
   "name": "Fabrício Werdum",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1598.3,
+  "peak_elo": 1598.6,
   "slug": "fabricio-werdum",
   "systems": {
     "division": "men:Heavyweight",

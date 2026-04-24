@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 279,
+  "divisional_rank": 277,
   "fight_count": 11,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Tyron Woodley",
-      "opponent_elo": 1554.7,
+      "opponent_elo": 1554.8,
       "outcome": "red_win",
       "post_elo": 1514.1,
       "pre_elo": 1532.3,
       "red_name": "Tyron Woodley",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:36",
       "weight_class": "Welterweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1547.7,
       "red_name": "Jake Ellenberger",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1564.7,
       "red_name": "Ben Askren",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 56",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1546.1,
       "red_name": "Jay Hieron",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 43",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1525.9,
       "red_name": "Jay Hieron",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 40",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1505.7,
       "red_name": "Jay Hieron",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 35",
       "time": "3:39",
       "weight_class": "Welterweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1483.0,
       "red_name": "Jay Hieron",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Miami",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1463.2,
       "red_name": "Jay Hieron",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Carano vs. Cyborg",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1481.6,
       "red_name": "Jonathan Goulet",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:05",
       "weight_class": "Welterweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1483.6,
       "red_name": "Jay Hieron",
       "round": "3",
+      "source": "manual",
+      "source_title": "WEC 15",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Georges St-Pierre",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:42",
       "weight_class": "Welterweight"
     }

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 234,
+  "divisional_rank": 232,
   "fight_count": 12,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1567.8,
       "red_name": "Tarec Saffiedine",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1583.1,
       "red_name": "Dong Hyun Kim",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1601.8,
       "red_name": "Tarec Saffiedine",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1584.6,
       "red_name": "Tarec Saffiedine",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1603.0,
       "red_name": "Rory Macdonald",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:28",
       "weight_class": "Welterweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1587.4,
       "red_name": "Tarec Saffiedine",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "Decision (unanimous) (48-47, 49-46, 49-46)",
       "opponent": "Nate Marquardt",
-      "opponent_elo": 1615.8,
+      "opponent_elo": 1616.0,
       "outcome": "red_win",
       "post_elo": 1587.4,
       "pre_elo": 1566.9,
       "red_name": "Tarec Saffiedine",
       "round": "5",
+      "source": "manual",
+      "source_title": "Strikeforce: Marquardt vs. Saffiedine",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1548.7,
       "red_name": "Tarec Saffiedine",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Rousey vs. Kaufman",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1531.3,
       "red_name": "Tarec Saffiedine",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Rockhold vs. Jardine",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1513.6,
       "red_name": "Tarec Saffiedine",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Henderson",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1512.1,
       "red_name": "Dong Sik Yoon",
       "round": "3",
+      "source": "manual",
+      "source_title": "Dream 12",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tarec Saffiedine",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 10",
       "time": "5:00",
       "weight_class": "Welterweight"
     }
@@ -369,7 +393,7 @@
     {
       "date": "2016-01-30",
       "fight_id": "d04cf25ee176580a",
-      "rating": 1576.9,
+      "rating": 1577.0,
       "scope": "overall",
       "system": "men:overall"
     },

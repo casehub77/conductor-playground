@@ -1,6 +1,6 @@
 {
-  "current_elo": 1477.7,
-  "divisional_rank": 1475,
+  "current_elo": 1477.8,
+  "divisional_rank": 1435,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Michael Johnson",
       "opponent_elo": 1509.8,
       "outcome": "red_win",
-      "post_elo": 1477.7,
+      "post_elo": 1477.8,
       "pre_elo": 1496.4,
       "red_name": "Michael Johnson",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:03",
       "weight_class": "Lightweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1482.5,
       "outcome": "blue_win",
       "post_elo": 1496.4,
-      "pre_elo": 1517.8,
+      "pre_elo": 1517.9,
       "red_name": "Ottman Azaitar",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:05",
       "weight_class": "Lightweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Matt Frevola",
-      "opponent_elo": 1503.9,
+      "opponent_elo": 1504.1,
       "outcome": "red_win",
-      "post_elo": 1517.8,
+      "post_elo": 1517.9,
       "pre_elo": 1539.3,
       "red_name": "Matt Frevola",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:30",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1518.6,
       "red_name": "Ottman Azaitar",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:33",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Ottman Azaitar",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:33",
       "weight_class": "Lightweight"
     }
@@ -138,7 +148,7 @@
     {
       "date": "2022-11-12",
       "fight_id": "5f6e572714482a2d",
-      "rating": 1517.8,
+      "rating": 1517.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
@@ -166,7 +176,7 @@
     {
       "date": "2024-12-14",
       "fight_id": "e957ddd3bd5e85c2",
-      "rating": 1477.7,
+      "rating": 1477.8,
       "scope": "division",
       "system": "men:Lightweight"
     },

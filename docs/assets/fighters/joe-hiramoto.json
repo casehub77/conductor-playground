@@ -1,6 +1,6 @@
 {
-  "current_elo": 1511.6,
-  "divisional_rank": 164,
+  "current_elo": 1512.3,
+  "divisional_rank": 115,
   "fight_count": 3,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision (split)",
       "opponent": "Daichi Tomizawa",
-      "opponent_elo": 1478.3,
+      "opponent_elo": 1478.2,
       "outcome": "red_win",
-      "post_elo": 1511.6,
-      "pre_elo": 1532.4,
+      "post_elo": 1512.3,
+      "pre_elo": 1533.2,
       "red_name": "Daichi Tomizawa",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Toki Tamaru",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1532.4,
-      "pre_elo": 1515.2,
+      "post_elo": 1533.2,
+      "pre_elo": 1516.0,
       "red_name": "Joe Hiramoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Yushi",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2023-12-31",
-      "elo_delta": 17.1,
+      "elo_delta": 18.1,
       "event_name": "Rizin 45",
       "fight_id": "ac9f7d1c0ce06177",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Yushi",
-      "opponent_elo": 1482.7,
+      "opponent_elo": 1501.6,
       "outcome": "red_win",
-      "post_elo": 1517.1,
+      "post_elo": 1518.1,
       "pre_elo": 1500.0,
       "red_name": "Joe Hiramoto",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -70,42 +76,42 @@
     {
       "date": "2023-12-31",
       "fight_id": "ac9f7d1c0ce06177",
-      "rating": 1517.1,
+      "rating": 1518.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-12-31",
       "fight_id": "ac9f7d1c0ce06177",
-      "rating": 1515.2,
+      "rating": 1516.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-05-04",
       "fight_id": "e764357541813865",
-      "rating": 1532.4,
+      "rating": 1533.2,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-05-04",
       "fight_id": "e764357541813865",
-      "rating": 1530.5,
+      "rating": 1531.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-09-28",
       "fight_id": "eb2641f52a797f6e",
-      "rating": 1511.6,
+      "rating": 1512.3,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-09-28",
       "fight_id": "eb2641f52a797f6e",
-      "rating": 1512.2,
+      "rating": 1512.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -115,8 +121,8 @@
   "last_fight_date": "2025-09-28",
   "name": "Joe Hiramoto",
   "nickname": "",
-  "overall_elo": 1512.2,
-  "peak_elo": 1532.4,
+  "overall_elo": 1512.9,
+  "peak_elo": 1533.2,
   "slug": "joe-hiramoto",
   "systems": {
     "division": "men:Flyweight",

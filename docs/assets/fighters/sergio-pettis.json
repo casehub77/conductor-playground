@@ -1,25 +1,27 @@
 {
-  "current_elo": 1533.9,
-  "divisional_rank": 118,
+  "current_elo": 1534.7,
+  "divisional_rank": 97,
   "fight_count": 19,
   "fight_log": [
     {
       "blue_name": "Sergio Pettis",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2024-06-09",
-      "elo_delta": -14.5,
+      "elo_delta": -14.6,
       "event_name": "Rizin 47",
       "fight_id": "9d67af9cf9a753c1",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1625.1,
+      "opponent_elo": 1624.6,
       "outcome": "red_win",
-      "post_elo": 1543.0,
-      "pre_elo": 1557.5,
+      "post_elo": 1543.8,
+      "pre_elo": 1558.4,
       "red_name": "Kyoji Horiguchi",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Sergio Pettis",
       "bout_type": "Bantamweight Bout",
       "date": "2023-11-17",
-      "elo_delta": -17.5,
+      "elo_delta": -17.6,
       "event_name": "Bellator 301: Amosov vs. Jackson",
       "fight_id": "14c290d8395aed89",
       "gender": "men",
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Patchy Mix",
-      "opponent_elo": 1610.5,
+      "opponent_elo": 1609.7,
       "outcome": "red_win",
-      "post_elo": 1557.5,
-      "pre_elo": 1575.0,
+      "post_elo": 1558.4,
+      "pre_elo": 1576.0,
       "red_name": "Patchy Mix",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 301",
       "time": "1:51",
       "weight_class": "Bantamweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Patrício Pitbull",
       "bout_type": "Bantamweight Bout",
       "date": "2023-06-16",
-      "elo_delta": 15.9,
+      "elo_delta": 16.9,
       "event_name": "Bellator 297: Nemkov vs. Romero",
       "fight_id": "0deb012eb1d6ea56",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (49–46, 50–45, 50–45)",
       "opponent": "Patrício Pitbull",
-      "opponent_elo": 1517.8,
+      "opponent_elo": 1538.6,
       "outcome": "red_win",
-      "post_elo": 1575.0,
+      "post_elo": 1576.0,
       "pre_elo": 1559.1,
       "red_name": "Sergio Pettis",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 297",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "KO (spinning backfist)",
       "opponent": "Kyoji Horiguchi",
-      "opponent_elo": 1674.9,
+      "opponent_elo": 1674.4,
       "outcome": "red_win",
       "post_elo": 1559.1,
       "pre_elo": 1532.1,
       "red_name": "Sergio Pettis",
       "round": "4",
+      "source": "manual",
+      "source_title": "Bellator 272",
       "time": "3:24",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1514.9,
       "red_name": "Sergio Pettis",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 258",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1566.5,
       "red_name": "Sergio Pettis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1532.2,
       "red_name": "Rob Font",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1585.0,
       "red_name": "Sergio Pettis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1560.4,
       "red_name": "Joseph Benavidez",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1579.0,
       "red_name": "Henry Cejudo",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1561.1,
       "red_name": "Sergio Pettis",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1544.0,
       "red_name": "John Moraga",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1526.4,
       "red_name": "Sergio Pettis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1506.5,
       "red_name": "Chris Cariaso",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1528.6,
       "red_name": "Sergio Pettis",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:34",
       "weight_class": "Flyweight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1515.1,
       "red_name": "Sergio Pettis",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1496.6,
       "red_name": "Yaotzin Meza",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1515.4,
       "red_name": "Alex Caceres",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:39",
       "weight_class": "Bantamweight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1500.0,
       "red_name": "Will Campuzano",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -607,49 +645,49 @@
     {
       "date": "2021-12-03",
       "fight_id": "621651f6104dbd11",
-      "rating": 1595.9,
+      "rating": 1595.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-06-16",
       "fight_id": "0deb012eb1d6ea56",
-      "rating": 1575.0,
+      "rating": 1576.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-06-16",
       "fight_id": "0deb012eb1d6ea56",
-      "rating": 1608.3,
+      "rating": 1609.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-11-17",
       "fight_id": "14c290d8395aed89",
-      "rating": 1557.5,
+      "rating": 1558.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-11-17",
       "fight_id": "14c290d8395aed89",
-      "rating": 1590.7,
+      "rating": 1591.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-06-09",
       "fight_id": "9d67af9cf9a753c1",
-      "rating": 1543.0,
+      "rating": 1543.8,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-06-09",
       "fight_id": "9d67af9cf9a753c1",
-      "rating": 1578.5,
+      "rating": 1579.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -659,8 +697,8 @@
   "last_fight_date": "2024-06-09",
   "name": "Sergio Pettis",
   "nickname": "",
-  "overall_elo": 1569.3,
-  "peak_elo": 1608.3,
+  "overall_elo": 1570.8,
+  "peak_elo": 1609.2,
   "slug": "sergio-pettis",
   "systems": {
     "division": "men:Bantamweight",

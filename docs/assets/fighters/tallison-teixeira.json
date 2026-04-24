@@ -1,6 +1,6 @@
 {
   "current_elo": 1540.0,
-  "divisional_rank": 45,
+  "divisional_rank": 44,
   "fight_count": 4,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Tai Tuivasa",
-      "opponent_elo": 1514.0,
+      "opponent_elo": 1514.1,
       "outcome": "blue_win",
       "post_elo": 1540.0,
       "pre_elo": 1522.5,
       "red_name": "Tai Tuivasa",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Derrick Lewis",
-      "opponent_elo": 1605.8,
+      "opponent_elo": 1606.1,
       "outcome": "red_win",
       "post_elo": 1522.5,
       "pre_elo": 1538.2,
       "red_name": "Derrick Lewis",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:35",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1519.4,
       "red_name": "Justin Tafa",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:35",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tallison Teixeira",
       "round": "1",
+      "source": "manual",
+      "source_title": "2024 in Legacy Fighting Alliance",
       "time": "3:31",
       "weight_class": "Heavyweight"
     }

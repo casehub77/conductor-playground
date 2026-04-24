@@ -1,6 +1,6 @@
 {
-  "current_elo": 1532.0,
-  "divisional_rank": 94,
+  "current_elo": 1531.5,
+  "divisional_rank": 67,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Jimmy Flick",
       "opponent_elo": 1515.1,
       "outcome": "blue_win",
-      "post_elo": 1540.7,
-      "pre_elo": 1523.2,
+      "post_elo": 1540.2,
+      "pre_elo": 1522.6,
       "red_name": "Jimmy Flick",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Mateus Mendonca",
       "opponent_elo": 1485.5,
       "outcome": "red_win",
-      "post_elo": 1523.2,
-      "pre_elo": 1504.8,
+      "post_elo": 1522.6,
+      "pre_elo": 1504.2,
       "red_name": "Nate Maness",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:40",
       "weight_class": "Flyweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Tagir Ulanbekov",
       "opponent_elo": 1511.2,
       "outcome": "red_win",
-      "post_elo": 1504.8,
-      "pre_elo": 1525.0,
+      "post_elo": 1504.2,
+      "pre_elo": 1524.4,
       "red_name": "Tagir Ulanbekov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:11",
       "weight_class": "Flyweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Umar Nurmagomedov",
       "opponent_elo": 1519.4,
       "outcome": "blue_win",
-      "post_elo": 1524.2,
-      "pre_elo": 1543.5,
+      "post_elo": 1523.4,
+      "pre_elo": 1542.6,
       "red_name": "Nate Maness",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "Tony Gravely",
       "bout_type": "Bantamweight Bout",
       "date": "2021-09-18",
-      "elo_delta": 19.1,
+      "elo_delta": 18.2,
       "event_name": "UFC Fight Night: Smith vs. Spann",
       "fight_id": "ab73143c4d860114",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Tony Gravely",
-      "opponent_elo": 1517.6,
+      "opponent_elo": 1502.6,
       "outcome": "red_win",
-      "post_elo": 1543.5,
+      "post_elo": 1542.6,
       "pre_elo": 1524.4,
       "red_name": "Nate Maness",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:10",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1518.0,
       "red_name": "Luke Sanders",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:29",
       "weight_class": "Catch Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Johnny Munoz",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -178,70 +192,70 @@
     {
       "date": "2021-09-18",
       "fight_id": "ab73143c4d860114",
-      "rating": 1543.5,
+      "rating": 1542.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-09-18",
       "fight_id": "ab73143c4d860114",
-      "rating": 1541.3,
+      "rating": 1540.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-06-25",
       "fight_id": "46a1e3cfaaadef5b",
-      "rating": 1524.2,
+      "rating": 1523.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-06-25",
       "fight_id": "46a1e3cfaaadef5b",
-      "rating": 1525.0,
+      "rating": 1524.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-11-05",
       "fight_id": "73782c856fe237af",
-      "rating": 1504.8,
+      "rating": 1504.2,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2022-11-05",
       "fight_id": "73782c856fe237af",
-      "rating": 1507.0,
+      "rating": 1506.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-10-07",
       "fight_id": "7d83bf9a9f7cf77a",
-      "rating": 1523.2,
+      "rating": 1522.6,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2023-10-07",
       "fight_id": "7d83bf9a9f7cf77a",
-      "rating": 1523.2,
+      "rating": 1522.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-06-15",
       "fight_id": "a23e394cdc6e4593",
-      "rating": 1540.7,
+      "rating": 1540.2,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2024-06-15",
       "fight_id": "a23e394cdc6e4593",
-      "rating": 1538.8,
+      "rating": 1538.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,8 +265,8 @@
   "last_fight_date": "2024-06-15",
   "name": "Nate Maness",
   "nickname": "",
-  "overall_elo": 1530.1,
-  "peak_elo": 1543.5,
+  "overall_elo": 1529.6,
+  "peak_elo": 1542.6,
   "slug": "nate-maness",
   "systems": {
     "division": "men:Flyweight",

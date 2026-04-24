@@ -1,13 +1,13 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 381,
+  "divisional_rank": 348,
   "fight_count": 9,
   "fight_log": [
     {
       "blue_name": "Adriano Martins",
       "bout_type": "Lightweight Bout",
       "date": "2017-09-09",
-      "elo_delta": -21.3,
+      "elo_delta": -21.7,
       "event_name": "UFC 215: Nunes vs Shevchenko 2",
       "fight_id": "93709557c78c7f73",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Kajan Johnson",
       "opponent_elo": 1513.3,
       "outcome": "red_win",
-      "post_elo": 1525.4,
-      "pre_elo": 1546.7,
+      "post_elo": 1532.8,
+      "pre_elo": 1554.5,
       "red_name": "Kajan Johnson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:49",
       "weight_class": "Lightweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Adriano Martins",
       "bout_type": "Lightweight Bout",
       "date": "2016-10-08",
-      "elo_delta": -18.2,
+      "elo_delta": -18.6,
       "event_name": "UFC 204: Bisping vs. Henderson",
       "fight_id": "3de19ead4adada04",
       "gender": "men",
@@ -36,10 +38,12 @@
       "opponent": "Leonardo Santos",
       "opponent_elo": 1561.9,
       "outcome": "red_win",
-      "post_elo": 1546.7,
-      "pre_elo": 1564.9,
+      "post_elo": 1554.5,
+      "pre_elo": 1573.1,
       "red_name": "Leonardo Santos",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Islam Makhachev",
       "bout_type": "Lightweight Bout",
       "date": "2015-10-03",
-      "elo_delta": 17.9,
+      "elo_delta": 26.2,
       "event_name": "UFC 192: Cormier vs Gustafsson",
       "fight_id": "7eae8490d7aa53fa",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Islam Makhachev",
-      "opponent_elo": 1519.4,
+      "opponent_elo": 1672.3,
       "outcome": "red_win",
-      "post_elo": 1564.9,
+      "post_elo": 1573.1,
       "pre_elo": 1547.0,
       "red_name": "Adriano Martins",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:46",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1527.9,
       "red_name": "Rustam Khabilov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1508.9,
       "red_name": "Adriano Martins",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:21",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1522.2,
       "red_name": "Donald Cerrone",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:40",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.8,
       "red_name": "Adriano Martins",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:49",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1482.8,
       "red_name": "Adriano Martins",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Marquardt vs. Saffiedine",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Keita Nakamura",
       "round": "2",
+      "source": "manual",
+      "source_title": "Dream 6",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -274,42 +292,42 @@
     {
       "date": "2015-10-03",
       "fight_id": "7eae8490d7aa53fa",
-      "rating": 1564.9,
+      "rating": 1573.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2015-10-03",
       "fight_id": "7eae8490d7aa53fa",
-      "rating": 1557.3,
+      "rating": 1564.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2016-10-08",
       "fight_id": "3de19ead4adada04",
-      "rating": 1546.7,
+      "rating": 1554.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2016-10-08",
       "fight_id": "3de19ead4adada04",
-      "rating": 1541.2,
+      "rating": 1547.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2017-09-09",
       "fight_id": "93709557c78c7f73",
-      "rating": 1525.4,
+      "rating": 1532.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2017-09-09",
       "fight_id": "93709557c78c7f73",
-      "rating": 1522.5,
+      "rating": 1528.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -320,7 +338,7 @@
   "name": "Adriano Martins",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1564.9,
+  "peak_elo": 1573.1,
   "slug": "adriano-martins",
   "systems": {
     "division": "men:Lightweight",

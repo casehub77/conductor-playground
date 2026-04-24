@@ -1,88 +1,8 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 362,
-  "fight_count": 8,
+  "divisional_rank": 372,
+  "fight_count": 4,
   "fight_log": [
-    {
-      "blue_name": "Guto Inocente",
-      "bout_type": "Heavyweight Kickboxing Bout",
-      "date": "2023-06-10",
-      "elo_delta": -16.9,
-      "event_name": "ONE Fight Night 11: Eersel vs. Menshikov",
-      "fight_id": "fa59e5e7774e5ac1",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Rade Opačić",
-      "opponent_elo": 1518.3,
-      "outcome": "red_win",
-      "post_elo": 1480.8,
-      "pre_elo": 1497.7,
-      "red_name": "Rade Opačić",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Guto Inocente",
-      "bout_type": "Heavyweight Kickboxing Bout",
-      "date": "2022-09-29",
-      "elo_delta": -19.4,
-      "event_name": "ONE 161: Petchmorakot vs. Tawanchai",
-      "fight_id": "efea0f38783ad9ea",
-      "gender": "men",
-      "is_title": false,
-      "method": "TKO (head kick)",
-      "opponent": "Roman Kryklia",
-      "opponent_elo": 1517.3,
-      "outcome": "red_win",
-      "post_elo": 1497.7,
-      "pre_elo": 1517.2,
-      "red_name": "Roman Kryklia",
-      "round": "1",
-      "time": "0:52",
-      "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Rade Opačić",
-      "bout_type": "Heavyweight Kickboxing Bout",
-      "date": "2022-06-03",
-      "elo_delta": 20.7,
-      "event_name": "ONE 158: Tawanchai vs. Larsen",
-      "fight_id": "d8399bf377c1b8ee",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (punch to the body)",
-      "opponent": "Rade Opačić",
-      "opponent_elo": 1519.4,
-      "outcome": "red_win",
-      "post_elo": 1517.2,
-      "pre_elo": 1496.5,
-      "red_name": "Guto Inocente",
-      "round": "1",
-      "time": "2:33",
-      "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Bruno Susano",
-      "bout_type": "Heavyweight Kickboxing Bout",
-      "date": "2022-02-25",
-      "elo_delta": 20.8,
-      "event_name": "ONE: Full Circle",
-      "fight_id": "4c4f5f970d0b85da",
-      "gender": "men",
-      "is_title": false,
-      "method": "TKO (referee stoppage)",
-      "opponent": "Bruno Susano",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1496.5,
-      "pre_elo": 1475.7,
-      "red_name": "Guto Inocente",
-      "round": "2",
-      "time": "2:22",
-      "weight_class": "Heavyweight"
-    },
     {
       "blue_name": "Guto Inocente",
       "bout_type": "Heavyweight 120 kg Bout",
@@ -100,6 +20,8 @@
       "pre_elo": 1496.6,
       "red_name": "Michał Andryszak",
       "round": "2",
+      "source": "manual",
+      "source_title": "2021 in Konfrontacja Sztuk Walki",
       "time": "4:07",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +42,8 @@
       "pre_elo": 1518.9,
       "red_name": "Anthony Perosh",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:46",
       "weight_class": "Light Heavyweight"
     },
@@ -140,6 +64,8 @@
       "pre_elo": 1516.8,
       "red_name": "Derrick Lewis",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:30",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Guto Inocente",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Barnett vs. Cormier",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     }
@@ -222,67 +150,11 @@
       "rating": 1463.7,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2022-02-25",
-      "fight_id": "4c4f5f970d0b85da",
-      "rating": 1496.5,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2022-02-25",
-      "fight_id": "4c4f5f970d0b85da",
-      "rating": 1482.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2022-06-03",
-      "fight_id": "d8399bf377c1b8ee",
-      "rating": 1517.2,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2022-06-03",
-      "fight_id": "d8399bf377c1b8ee",
-      "rating": 1501.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2022-09-29",
-      "fight_id": "efea0f38783ad9ea",
-      "rating": 1497.7,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2022-09-29",
-      "fight_id": "efea0f38783ad9ea",
-      "rating": 1485.3,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2023-06-10",
-      "fight_id": "fa59e5e7774e5ac1",
-      "rating": 1480.8,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2023-06-10",
-      "fight_id": "fa59e5e7774e5ac1",
-      "rating": 1470.7,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2023-06-10",
+  "last_fight_date": "2021-01-30",
   "name": "Guto Inocente",
   "nickname": "",
   "overall_elo": 1500.0,

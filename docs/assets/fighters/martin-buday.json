@@ -17,9 +17,11 @@
       "opponent_elo": 1568.7,
       "outcome": "red_win",
       "post_elo": 1569.8,
-      "pre_elo": 1590.4,
+      "pre_elo": 1590.5,
       "red_name": "Will Fleury",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Oktagon MMA",
       "time": "1:40",
       "weight_class": "Heavyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Marcus Buchecha",
       "opponent_elo": 1526.6,
       "outcome": "red_win",
-      "post_elo": 1590.4,
-      "pre_elo": 1574.9,
+      "post_elo": 1590.5,
+      "pre_elo": 1575.0,
       "red_name": "Martin Buday",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Uran Satybaldiev",
       "opponent_elo": 1517.3,
       "outcome": "red_win",
-      "post_elo": 1574.9,
+      "post_elo": 1575.0,
       "pre_elo": 1559.1,
       "red_name": "Martin Buday",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Andrei Arlovski",
-      "opponent_elo": 1522.3,
+      "opponent_elo": 1523.1,
       "outcome": "blue_win",
       "post_elo": 1559.1,
       "pre_elo": 1542.1,
       "red_name": "Andrei Arlovski",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1565.2,
       "red_name": "Martin Buday",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:56",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1549.6,
       "red_name": "Josh Parisian",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:11",
       "weight_class": "Heavyweight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Jake Collier",
-      "opponent_elo": 1464.3,
+      "opponent_elo": 1464.4,
       "outcome": "red_win",
       "post_elo": 1549.6,
       "pre_elo": 1535.2,
       "red_name": "Martin Buday",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1518.2,
       "red_name": "Martin Buday",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Chris Barnett",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:38",
       "weight_class": "Heavyweight"
     }
@@ -274,7 +292,7 @@
     {
       "date": "2025-04-05",
       "fight_id": "3c7168708bf35e1d",
-      "rating": 1574.9,
+      "rating": 1575.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -288,14 +306,14 @@
     {
       "date": "2025-07-26",
       "fight_id": "c783025122dc8f66",
-      "rating": 1590.4,
+      "rating": 1590.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2025-07-26",
       "fight_id": "c783025122dc8f66",
-      "rating": 1582.1,
+      "rating": 1582.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -320,7 +338,7 @@
   "name": "Martin Buday",
   "nickname": "",
   "overall_elo": 1564.1,
-  "peak_elo": 1590.4,
+  "peak_elo": 1590.5,
   "slug": "martin-buday",
   "systems": {
     "division": "men:Heavyweight",

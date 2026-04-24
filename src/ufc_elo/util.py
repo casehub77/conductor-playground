@@ -54,7 +54,7 @@ def sniff_delimiter(sample: str) -> str:
 
 def parse_date(value: str) -> date:
     value = (value or "").strip()
-    for fmt in ("%d/%m/%Y", "%Y-%m-%d", "%b %d, %Y", "%B %d, %Y"):
+    for fmt in ("%d/%m/%Y", "%Y-%m-%d", "%b %d, %Y", "%B %d, %Y", "%d %b %Y", "%d %B %Y"):
         try:
             return datetime.strptime(value, fmt).date()
         except ValueError:
@@ -95,4 +95,3 @@ def identity_key(value: str) -> str:
 def stable_id(parts: Iterable[str]) -> str:
     raw = "|".join(str(part) for part in parts)
     return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:16]
-

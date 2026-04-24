@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 523,
+  "divisional_rank": 498,
   "fight_count": 11,
   "fight_log": [
     {
       "blue_name": "Yoshihiro Akiyama",
       "bout_type": "Catchweight (187.25 lb) Bout",
       "date": "2024-01-28",
-      "elo_delta": -32.6,
+      "elo_delta": -19.7,
       "event_name": "ONE 165: Superlek vs. Takeru",
       "fight_id": "6a836f15d1008b34",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Nieky Holzken",
-      "opponent_elo": 1463.6,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1471.8,
+      "post_elo": 1484.7,
       "pre_elo": 1504.4,
       "red_name": "Nieky Holzken",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 165",
       "time": "1:40",
       "weight_class": "Catch Weight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1711.8,
       "outcome": "red_win",
       "post_elo": 1523.4,
-      "pre_elo": 1493.1,
+      "pre_elo": 1493.2,
       "red_name": "Yoshihiro Akiyama",
       "round": "2",
+      "source": "manual",
+      "source_title": "ONE: X",
       "time": "1:50",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1507.6,
       "red_name": "Yoshihiro Akiyama",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1487.2,
       "red_name": "Yoshihiro Akiyama",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1504.5,
       "red_name": "Yoshihiro Akiyama",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -114,12 +124,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Vitor Belfort",
-      "opponent_elo": 1533.1,
+      "opponent_elo": 1533.6,
       "outcome": "red_win",
       "post_elo": 1504.4,
       "pre_elo": 1523.3,
       "red_name": "Vitor Belfort",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:52",
       "weight_class": "Middleweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1536.7,
       "red_name": "Michael Bisping",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1554.4,
       "red_name": "Chris Leben",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:40",
       "weight_class": "Middleweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1536.8,
       "red_name": "Yoshihiro Akiyama",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1518.4,
       "red_name": "Yoshihiro Akiyama",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 6",
       "time": "6:26",
       "weight_class": "Middleweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Yoshihiro Akiyama",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 5",
       "time": "6:34",
       "weight_class": "Middleweight"
     }
@@ -321,7 +343,7 @@
     {
       "date": "2012-02-25",
       "fight_id": "2623f49aaf788dac",
-      "rating": 1490.8,
+      "rating": 1490.9,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -335,7 +357,7 @@
     {
       "date": "2014-09-20",
       "fight_id": "2e581f51823d4bef",
-      "rating": 1508.7,
+      "rating": 1508.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -349,7 +371,7 @@
     {
       "date": "2015-11-28",
       "fight_id": "bdab1ec3e65ca68f",
-      "rating": 1493.1,
+      "rating": 1493.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -363,21 +385,21 @@
     {
       "date": "2022-03-26",
       "fight_id": "751c69a92b618568",
-      "rating": 1520.2,
+      "rating": 1520.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-01-28",
       "fight_id": "6a836f15d1008b34",
-      "rating": 1471.8,
+      "rating": 1484.7,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2024-01-28",
       "fight_id": "6a836f15d1008b34",
-      "rating": 1490.4,
+      "rating": 1502.0,
       "scope": "overall",
       "system": "men:overall"
     }

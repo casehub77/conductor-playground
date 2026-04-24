@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1261,
+  "divisional_rank": 1232,
   "fight_count": 3,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1467.4,
       "red_name": "Rob McCullough",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 26",
       "time": "2:52",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1482.8,
       "red_name": "Rob McCullough",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 25",
       "time": "2:52",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kenny Florian",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:37",
       "weight_class": "Welterweight"
     }

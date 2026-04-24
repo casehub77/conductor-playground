@@ -1,25 +1,27 @@
 {
-  "current_elo": 1517.6,
-  "divisional_rank": 213,
+  "current_elo": 1517.5,
+  "divisional_rank": 200,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Kohl Laren",
       "bout_type": "Lightweight Bout",
       "date": "2026-02-27",
-      "elo_delta": 17.6,
+      "elo_delta": 17.5,
       "event_name": "LFA 227: Nascimento vs. Kamikubo",
       "fight_id": "2f2e5f620f5bcf2b",
       "gender": "men",
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Kohl Laren",
-      "opponent_elo": 1466.2,
+      "opponent_elo": 1465.4,
       "outcome": "red_win",
-      "post_elo": 1517.6,
+      "post_elo": 1517.5,
       "pre_elo": 1500.0,
       "red_name": "Luis Gomez",
       "round": "1",
+      "source": "manual",
+      "source_title": "2026 in Legacy Fighting Alliance",
       "time": "1:44",
       "weight_class": "Lightweight"
     }
@@ -30,7 +32,7 @@
     {
       "date": "2026-02-27",
       "fight_id": "2f2e5f620f5bcf2b",
-      "rating": 1517.6,
+      "rating": 1517.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
@@ -48,7 +50,7 @@
   "name": "Luis Gomez",
   "nickname": "",
   "overall_elo": 1515.7,
-  "peak_elo": 1517.6,
+  "peak_elo": 1517.5,
   "slug": "luis-gomez",
   "systems": {
     "division": "men:Lightweight",

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 656,
+  "divisional_rank": 626,
   "fight_count": 11,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Manvel Gamburyan",
       "opponent_elo": 1499.4,
       "outcome": "red_win",
-      "post_elo": 1457.3,
+      "post_elo": 1457.2,
       "pre_elo": 1473.9,
       "red_name": "Manvel Gamburyan",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1490.5,
       "red_name": "Iuri Alcantara",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1471.1,
       "red_name": "Michihiro Omigawa",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1488.5,
       "red_name": "Darren Elkins",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1503.1,
       "red_name": "Chad Mendes",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1480.9,
       "red_name": "Michihiro Omigawa",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 16",
       "time": "2:30",
       "weight_class": "Featherweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1459.2,
       "red_name": "Michihiro Omigawa",
       "round": "1",
+      "source": "manual",
+      "source_title": "Dream 15",
       "time": "7:31",
       "weight_class": "Featherweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "Draw",
       "opponent": "Shintaro Ishiwatari",
-      "opponent_elo": 1585.4,
+      "opponent_elo": 1584.4,
       "outcome": "draw",
-      "post_elo": 1485.0,
+      "post_elo": 1484.9,
       "pre_elo": 1479.7,
       "red_name": "Shintaro Ishiwatari",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1465.0,
       "red_name": "Thiago Tavares",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1481.9,
       "red_name": "Matt Wiman",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Aaron Riley",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 7",
       "time": "6:00",
       "weight_class": "Open Weight"
     }
@@ -272,7 +294,7 @@
     {
       "date": "2009-01-18",
       "fight_id": "389fb26ea0bdf524",
-      "rating": 1485.0,
+      "rating": 1484.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
@@ -321,7 +343,7 @@
     {
       "date": "2011-02-05",
       "fight_id": "5288fbfef20cda53",
-      "rating": 1486.5,
+      "rating": 1486.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -370,7 +392,7 @@
     {
       "date": "2012-08-04",
       "fight_id": "8973dfa3f866e69a",
-      "rating": 1457.3,
+      "rating": 1457.2,
       "scope": "division",
       "system": "men:Featherweight"
     },

@@ -1,6 +1,6 @@
 {
   "current_elo": 1443.5,
-  "divisional_rank": 1225,
+  "divisional_rank": 1219,
   "fight_count": 6,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1457.6,
       "red_name": "Charles Radtke",
       "round": "3",
+      "source": "ufc:official",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1474.8,
       "red_name": "Francisco Prado",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1487.9,
       "red_name": "Jake Matthews",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1503.9,
       "red_name": "Daniel Zellhuber",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Ottman Azaitar",
-      "opponent_elo": 1517.8,
+      "opponent_elo": 1517.9,
       "outcome": "blue_win",
       "post_elo": 1503.9,
       "pre_elo": 1482.5,
       "red_name": "Ottman Azaitar",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:05",
       "weight_class": "Lightweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1500.0,
       "red_name": "Jamie Mullarkey",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }

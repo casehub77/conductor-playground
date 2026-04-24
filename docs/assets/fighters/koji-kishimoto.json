@@ -1,66 +1,28 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 776,
-  "fight_count": 5,
+  "divisional_rank": 770,
+  "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Koji Kishimoto",
       "bout_type": "Open Weight Bout",
       "date": "2010-09-26",
-      "elo_delta": -16.1,
+      "elo_delta": -16.2,
       "event_name": "Shooto: Gig West 12",
       "fight_id": "a286fcd1a55746ad",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Tadaaki Yamamoto",
-      "opponent_elo": 1555.7,
+      "opponent_elo": 1556.5,
       "outcome": "red_win",
-      "post_elo": 1479.8,
-      "pre_elo": 1496.0,
+      "post_elo": 1481.8,
+      "pre_elo": 1498.0,
       "red_name": "Tadaaki Yamamoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "2:27",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Koji Kishimoto",
-      "bout_type": "Open Weight Bout",
-      "date": "2010-05-16",
-      "elo_delta": -20.6,
-      "event_name": "Shooto: Grapplingman 11",
-      "fight_id": "0ec6a99cd5afbba3",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (Punches)",
-      "opponent": "Teppei Masuda",
-      "opponent_elo": 1496.4,
-      "outcome": "red_win",
-      "post_elo": 1496.0,
-      "pre_elo": 1516.5,
-      "red_name": "Teppei Masuda",
-      "round": "2",
-      "time": "0:14",
-      "weight_class": "Open Weight"
-    },
-    {
-      "blue_name": "Noriyuki Takei",
-      "bout_type": "Open Weight Bout",
-      "date": "2010-04-04",
-      "elo_delta": 18.5,
-      "event_name": "Shooto: Grapplingman 10",
-      "fight_id": "2d983f78185a14ca",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (Armbar)",
-      "opponent": "Noriyuki Takei",
-      "opponent_elo": 1482.0,
-      "outcome": "red_win",
-      "post_elo": 1516.5,
-      "pre_elo": 1498.0,
-      "red_name": "Koji Kishimoto",
-      "round": "1",
-      "time": "3:33",
       "weight_class": "Open Weight"
     },
     {
@@ -74,12 +36,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Hiroyuki Kondo",
-      "opponent_elo": 1479.2,
+      "opponent_elo": 1480.1,
       "outcome": "red_win",
       "post_elo": 1498.0,
       "pre_elo": 1518.0,
       "red_name": "Hiroyuki Kondo",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -100,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Koji Kishimoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -131,49 +97,21 @@
     {
       "date": "2009-08-30",
       "fight_id": "699436a47dcfe3b1",
-      "rating": 1498.4,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2010-04-04",
-      "fight_id": "2d983f78185a14ca",
-      "rating": 1516.5,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2010-04-04",
-      "fight_id": "2d983f78185a14ca",
-      "rating": 1515.0,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2010-05-16",
-      "fight_id": "0ec6a99cd5afbba3",
-      "rating": 1496.0,
-      "scope": "division",
-      "system": "men:Open Weight"
-    },
-    {
-      "date": "2010-05-16",
-      "fight_id": "0ec6a99cd5afbba3",
-      "rating": 1496.8,
+      "rating": 1498.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-09-26",
       "fight_id": "a286fcd1a55746ad",
-      "rating": 1479.8,
+      "rating": 1481.8,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-09-26",
       "fight_id": "a286fcd1a55746ad",
-      "rating": 1482.1,
+      "rating": 1483.7,
       "scope": "overall",
       "system": "men:overall"
     }

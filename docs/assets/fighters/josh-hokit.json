@@ -1,5 +1,5 @@
 {
-  "current_elo": 1624.9,
+  "current_elo": 1625.0,
   "divisional_rank": 11,
   "fight_count": 7,
   "fight_log": [
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Curtis Blaydes",
-      "opponent_elo": 1649.4,
+      "opponent_elo": 1649.6,
       "outcome": "blue_win",
-      "post_elo": 1624.9,
+      "post_elo": 1625.0,
       "pre_elo": 1604.6,
       "red_name": "Curtis Blaydes",
       "round": "3",
+      "source": "ufc:official",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1587.0,
       "red_name": "Josh Hokit",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:59",
       "weight_class": "Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1571.5,
       "red_name": "Josh Hokit",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:56",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1555.1,
       "red_name": "Josh Hokit",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "2:00",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1537.8,
       "red_name": "Josh Hokit",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "0:42",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1519.4,
       "red_name": "Josh Hokit",
       "round": "1",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
       "time": "2:53",
       "weight_class": "Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Josh Hokit",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 300",
       "time": "3:48",
       "weight_class": "Heavyweight"
     }
@@ -234,7 +248,7 @@
     {
       "date": "2026-04-11",
       "fight_id": "a8da2b424a512a7f",
-      "rating": 1624.9,
+      "rating": 1625.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -252,7 +266,7 @@
   "name": "Josh Hokit",
   "nickname": "",
   "overall_elo": 1612.0,
-  "peak_elo": 1624.9,
+  "peak_elo": 1625.0,
   "slug": "josh-hokit",
   "systems": {
     "division": "men:Heavyweight",

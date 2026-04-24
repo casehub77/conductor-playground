@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 376,
+  "divisional_rank": 370,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Tomokazu Sato",
       "bout_type": "Open Weight Bout",
       "date": "2010-09-26",
-      "elo_delta": -19.7,
+      "elo_delta": -20.6,
       "event_name": "Shooto: Gig West 12",
       "fight_id": "f0df125b004b54da",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Triangle Choke)",
       "opponent": "Masayoshi Kato",
-      "opponent_elo": 1531.2,
+      "opponent_elo": 1515.0,
       "outcome": "red_win",
-      "post_elo": 1515.8,
+      "post_elo": 1514.9,
       "pre_elo": 1535.5,
       "red_name": "Masayoshi Kato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "2:27",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1519.6,
       "red_name": "Tomokazu Sato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.8,
       "red_name": "Tomokazu Sato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1518.9,
       "red_name": "Yusuke Sato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tomokazu Sato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -166,14 +176,14 @@
     {
       "date": "2010-09-26",
       "fight_id": "f0df125b004b54da",
-      "rating": 1515.8,
+      "rating": 1514.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-09-26",
       "fight_id": "f0df125b004b54da",
-      "rating": 1514.2,
+      "rating": 1513.5,
       "scope": "overall",
       "system": "men:overall"
     }

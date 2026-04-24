@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 755,
+  "divisional_rank": 730,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Mansour Barnaoui",
       "bout_type": "Lightweight Bout",
       "date": "2023-05-12",
-      "elo_delta": 20.4,
+      "elo_delta": 19.9,
       "event_name": "Bellator 296: Mousasi vs. Edwards",
       "fight_id": "db35b76387e797b5",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (48–47, 48–47, 48–47)",
       "opponent": "Mansour Barnaoui",
-      "opponent_elo": 1538.2,
+      "opponent_elo": 1527.2,
       "outcome": "red_win",
-      "post_elo": 1511.4,
+      "post_elo": 1510.9,
       "pre_elo": 1491.0,
       "red_name": "Brent Primus",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 296",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1509.0,
       "red_name": "Alexandr Shabliy",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 282",
       "time": "1:22",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1482.0,
       "red_name": "Brent Primus",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 268",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Islam Mamedov",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 263",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2023-05-12",
       "fight_id": "db35b76387e797b5",
-      "rating": 1511.4,
+      "rating": 1510.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-05-12",
       "fight_id": "db35b76387e797b5",
-      "rating": 1510.0,
+      "rating": 1509.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -150,7 +158,7 @@
   "name": "Brent Primus",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1511.4,
+  "peak_elo": 1510.9,
   "slug": "brent-primus",
   "systems": {
     "division": "men:Lightweight",

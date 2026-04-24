@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 221,
+  "divisional_rank": 223,
   "fight_count": 11,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1495.3,
       "red_name": "Ovince Saint Preux",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1513.3,
       "red_name": "Rafael Cavalcante",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:45",
       "weight_class": "Light Heavyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1528.4,
       "red_name": "Ryan Bader",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -77,9 +83,11 @@
       "opponent_elo": 1490.1,
       "outcome": "red_win",
       "post_elo": 1528.4,
-      "pre_elo": 1510.0,
+      "pre_elo": 1510.1,
       "red_name": "Rafael Cavalcante",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:18",
       "weight_class": "Light Heavyweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Thiago Silva",
-      "opponent_elo": 1545.6,
+      "opponent_elo": 1545.7,
       "outcome": "red_win",
-      "post_elo": 1510.0,
+      "post_elo": 1510.1,
       "pre_elo": 1528.5,
       "red_name": "Thiago Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:29",
       "weight_class": "Light Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1528.5,
       "red_name": "Rafael Cavalcante",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Barnett vs. Cormier",
       "time": "0:33",
       "weight_class": "Light Heavyweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1509.6,
       "red_name": "Rafael Cavalcante",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Barnett vs. Kharitonov",
       "time": "4:51",
       "weight_class": "Light Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1523.4,
       "red_name": "Dan Henderson",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Feijao vs. Henderson",
       "time": "0:50",
       "weight_class": "Light Heavyweight"
     },
@@ -174,12 +190,14 @@
       "is_title": false,
       "method": "TKO (punches and elbows)",
       "opponent": "Muhammed Lawal",
-      "opponent_elo": 1541.4,
+      "opponent_elo": 1541.9,
       "outcome": "red_win",
       "post_elo": 1523.4,
       "pre_elo": 1501.7,
       "red_name": "Rafael Cavalcante",
       "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Houston",
       "time": "1:14",
       "weight_class": "Light Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1480.0,
       "red_name": "Rafael Cavalcante",
       "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Heavy Artillery",
       "time": "3:45",
       "weight_class": "Light Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Mike Kyle",
       "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Lawler vs. Shields",
       "time": "4:05",
       "weight_class": "Light Heavyweight"
     }
@@ -265,7 +287,7 @@
     {
       "date": "2010-08-21",
       "fight_id": "c154a55c160eedb2",
-      "rating": 1520.4,
+      "rating": 1520.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -314,7 +336,7 @@
     {
       "date": "2013-06-08",
       "fight_id": "38eb7627aaad00b6",
-      "rating": 1510.0,
+      "rating": 1510.1,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -377,7 +399,7 @@
     {
       "date": "2016-02-06",
       "fight_id": "f3928de7fd8fc4fe",
-      "rating": 1482.8,
+      "rating": 1482.9,
       "scope": "overall",
       "system": "men:overall"
     }

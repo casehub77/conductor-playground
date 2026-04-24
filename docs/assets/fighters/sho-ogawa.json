@@ -1,48 +1,8 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 666,
-  "fight_count": 4,
+  "divisional_rank": 635,
+  "fight_count": 2,
   "fight_log": [
-    {
-      "blue_name": "Sho Ogawa",
-      "bout_type": "Catchweight (140 lbs) Muay Thai Bout",
-      "date": "2024-01-12",
-      "elo_delta": -18.7,
-      "event_name": "ONE Friday Fights 47: Suakim vs. Balyko",
-      "fight_id": "32bcedf05971a58a",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (elbow)",
-      "opponent": "Numpangna EagleMuayThai",
-      "opponent_elo": 1499.2,
-      "outcome": "red_win",
-      "post_elo": 1467.2,
-      "pre_elo": 1485.9,
-      "red_name": "Numpangna EagleMuayThai",
-      "round": "2",
-      "time": "1:52",
-      "weight_class": "Catch Weight"
-    },
-    {
-      "blue_name": "Sho Ogawa",
-      "bout_type": "Catchweight (138 lbs) Muay Thai Bout",
-      "date": "2023-08-25",
-      "elo_delta": -18.1,
-      "event_name": "ONE Friday Fights 30: Saemapetch vs. Kaonar",
-      "fight_id": "90cae6b12bedae68",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous)",
-      "opponent": "Petchgarfield Jitmuangnon",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1484.3,
-      "pre_elo": 1502.4,
-      "red_name": "Petchgarfield Jitmuangnon",
-      "round": "3",
-      "time": "3:00",
-      "weight_class": "Catch Weight"
-    },
     {
       "blue_name": "Yuma Yamahata",
       "bout_type": "Catchweight 63 kg Bout",
@@ -60,6 +20,8 @@
       "pre_elo": 1482.9,
       "red_name": "Sho Ogawa",
       "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "2:52",
       "weight_class": "Catch Weight"
     },
@@ -80,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Kaito Ono",
       "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
       "time": "9:00",
       "weight_class": "Featherweight"
     }
@@ -114,42 +78,14 @@
       "rating": 1502.0,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2023-08-25",
-      "fight_id": "90cae6b12bedae68",
-      "rating": 1484.3,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2023-08-25",
-      "fight_id": "90cae6b12bedae68",
-      "rating": 1485.9,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-01-12",
-      "fight_id": "32bcedf05971a58a",
-      "rating": 1467.2,
-      "scope": "division",
-      "system": "men:Catch Weight"
-    },
-    {
-      "date": "2024-01-12",
-      "fight_id": "32bcedf05971a58a",
-      "rating": 1469.4,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2024-01-12",
+  "last_fight_date": "2022-03-20",
   "name": "Sho Ogawa",
   "nickname": "",
-  "overall_elo": 1488.7,
+  "overall_elo": 1500.0,
   "peak_elo": 1502.4,
   "slug": "sho-ogawa",
   "systems": {

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 625,
+  "divisional_rank": 638,
   "fight_count": 10,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1445.3,
       "red_name": "Bobby Southworth",
       "round": "5",
+      "source": "manual",
+      "source_title": "Strikeforce: Triple Threat",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1470.2,
       "red_name": "Vernon White",
       "round": "1",
+      "source": "manual",
+      "source_title": "WEC 18",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1448.7,
       "red_name": "Vernon White",
       "round": "2",
+      "source": "manual",
+      "source_title": "WEC 17",
       "time": "0:09",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1456.7,
       "red_name": "Chuck Liddell",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:05",
       "weight_class": "Light Heavyweight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Ian Freeman",
-      "opponent_elo": 1517.7,
+      "opponent_elo": 1517.9,
       "outcome": "draw",
       "post_elo": 1457.1,
       "pre_elo": 1453.9,
       "red_name": "Vernon White",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1465.3,
       "red_name": "Kazushi Sakuraba",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 2",
       "time": "6:53",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1484.8,
       "red_name": "Ryushi Yanagisawa",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 4",
       "time": "8:55",
       "weight_class": "Open Weight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1463.3,
       "red_name": "Vernon White",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 3",
       "time": "22:04",
       "weight_class": "Open Weight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1480.6,
       "red_name": "Minoru Suzuki",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 2",
       "time": "2:36",
       "weight_class": "Open Weight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1500.0,
       "red_name": "Takaku Fuke",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 1",
       "time": "1:19",
       "weight_class": "Open Weight"
     }
@@ -315,7 +335,7 @@
     {
       "date": "2005-10-14",
       "fight_id": "1ebb279963b3eb8b",
-      "rating": 1464.7,
+      "rating": 1464.8,
       "scope": "overall",
       "system": "men:overall"
     },

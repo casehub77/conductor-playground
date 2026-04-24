@@ -16,9 +16,14 @@ from ufc_elo.wikipedia import (
     discover_titles_from_allpages_prefix,
     discover_titles_from_search,
     fetch_event_payload,
+    fetch_page_payload,
     parse_event_payload,
+    parse_fighter_page_payload,
     parse_year_page_payload,
+    resolve_fighter_page_title,
 )
+from ufc_elo.ingestion import fetch_primary_rows, load_primary_local, rows_to_fights
+from ufc_elo.overrides import load_overrides
 
 
 def parse_args() -> argparse.Namespace:
@@ -29,7 +34,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--cache-dir", type=Path, default=ROOT / "data" / "raw" / "wikipedia")
     parser.add_argument("--limit", type=int, default=0, help="Optional cap on event pages to parse.")
     parser.add_argument("--source", action="append", default=[], help="Limit to specific source name(s), repeatable.")
+    parser.add_argument("--no-event-sources", action="store_true", help="Skip promotion/event discovery and only run fighter-page backfill.")
     parser.add_argument("--append", action="store_true", help="Append and dedupe against an existing output CSV.")
+    parser.add_argument("--fighter-pages", action="store_true", help="Also backfill from fighter Wikipedia pages for fighters already in the UFC source dataset.")
+    parser.add_argument("--fighter-limit", type=int, default=0, help="Optional cap on fighter pages to parse.")
+    parser.add_argument("--fighter-name", action="append", default=[], help="Target specific fighter page(s), repeatable.")
     parser.add_argument("--refresh", action="store_true", help="Ignore cached MediaWiki responses.")
     return parser.parse_args()
 
@@ -38,7 +47,9 @@ def main() -> int:
     args = parse_args()
     repo_paths(ROOT)
     config = read_json(args.config, {})
-    sources = config.get("sources", [])
+    sources = [] if args.no_event_sources else config.get("sources", [])
+    paths = repo_paths(ROOT)
+    overrides = load_overrides(paths.overrides)
     if args.source:
         selected = set(args.source)
         sources = [source for source in sources if source.get("name") in selected]
@@ -105,10 +116,45 @@ def main() -> int:
             source_report["rows"] += len(event_rows)
         report_sources.append(source_report)
 
+    if args.fighter_pages:
+        fighter_names = args.fighter_name or load_ufc_fighter_names(paths, overrides)
+        if args.fighter_limit:
+            fighter_names = fighter_names[:args.fighter_limit]
+        fighter_report: dict[str, object] = {
+            "name": "fighter_pages",
+            "discovery": "fighter_pages",
+            "source_ref": "ufc-primary-fighter-list",
+            "discovered_titles": 0,
+            "parsed_titles": 0,
+            "rows": 0,
+            "errors": [],
+        }
+        for fighter_name in fighter_names:
+            try:
+                title = resolve_fighter_page_title(
+                    fighter_name,
+                    cache_dir=args.cache_dir / "fighter-search",
+                    refresh=args.refresh,
+                )
+                if not title:
+                    continue
+                fighter_report["discovered_titles"] = int(fighter_report["discovered_titles"]) + 1
+                payload = fetch_page_payload(title, cache_dir=args.cache_dir / "fighter-pages", refresh=args.refresh)
+                fighter_rows = parse_fighter_page_payload(payload, title, fighter_name)
+            except Exception as exc:
+                fighter_report["errors"].append(f"{fighter_name}: {exc}")
+                continue
+            rows.extend(fighter_rows)
+            fighter_report["parsed_titles"] = int(fighter_report["parsed_titles"]) + 1
+            fighter_report["rows"] = int(fighter_report["rows"]) + len(fighter_rows)
+        report_sources.append(fighter_report)
+
     existing_rows: list[dict[str, str]] = []
     if args.append and args.output.exists():
         existing_rows = read_csv(args.output)
         rows = merge_rows(existing_rows, rows)
+    else:
+        rows = merge_rows([], rows)
 
     write_csv(args.output, rows, WIKIPEDIA_MANUAL_FIELDS)
     write_json(
@@ -140,6 +186,18 @@ def merge_rows(existing_rows: list[dict[str, str]], new_rows: list[dict[str, str
 
 def row_key(row: dict[str, str]) -> tuple[str, ...]:
     return tuple((row.get(field) or "").strip() for field in WIKIPEDIA_MANUAL_FIELDS)
+
+
+def load_ufc_fighter_names(paths, overrides) -> list[str]:
+    raw_candidates = [paths.raw / "stats_processed_all_bouts.csv", paths.raw / "stats_raw.csv"]
+    source_path = next((path for path in raw_candidates if path.exists()), None)
+    if source_path is not None:
+        primary_rows, _ = load_primary_local(source_path)
+    else:
+        primary_rows, _ = fetch_primary_rows(paths.raw)
+    fights = rows_to_fights(primary_rows, "ufc-primary", overrides)
+    names = sorted({fight.red_name for fight in fights} | {fight.blue_name for fight in fights})
+    return names
 
 
 if __name__ == "__main__":

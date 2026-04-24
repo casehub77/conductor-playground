@@ -1,25 +1,27 @@
 {
-  "current_elo": 1599.3,
-  "divisional_rank": 28,
+  "current_elo": 1599.5,
+  "divisional_rank": 27,
   "fight_count": 9,
   "fight_log": [
     {
       "blue_name": "Charles Oliveira",
       "bout_type": "UFC Lightweight Title Bout",
       "date": "2025-06-28",
-      "elo_delta": 29.6,
+      "elo_delta": 29.9,
       "event_name": "UFC 317: Topuria vs. Oliveira",
       "fight_id": "32b45081e0646dfc",
       "gender": "men",
       "is_title": true,
       "method": "KO/TKO",
       "opponent": "Charles Oliveira",
-      "opponent_elo": 1710.8,
+      "opponent_elo": 1715.7,
       "outcome": "red_win",
-      "post_elo": 1599.3,
+      "post_elo": 1599.5,
       "pre_elo": 1569.6,
       "red_name": "Ilia Topuria",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:27",
       "weight_class": "Lightweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1630.8,
       "red_name": "Ilia Topuria",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:34",
       "weight_class": "Featherweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1601.1,
       "red_name": "Alexander Volkanovski",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:32",
       "weight_class": "Featherweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1581.6,
       "red_name": "Josh Emmett",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1559.7,
       "red_name": "Bryce Mitchell",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:10",
       "weight_class": "Featherweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1553.6,
       "red_name": "Jai Herbert",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:07",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1539.2,
       "red_name": "Ryan Hall",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:47",
       "weight_class": "Featherweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1520.6,
       "red_name": "Ilia Topuria",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:38",
       "weight_class": "Featherweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.0,
       "red_name": "Youssef Zalal",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -281,7 +299,7 @@
     {
       "date": "2024-02-17",
       "fight_id": "5a76e7cf598c07bb",
-      "rating": 1626.6,
+      "rating": 1627.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -295,21 +313,21 @@
     {
       "date": "2024-10-26",
       "fight_id": "e18d834b875f611c",
-      "rating": 1650.2,
+      "rating": 1650.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-06-28",
       "fight_id": "32b45081e0646dfc",
-      "rating": 1599.3,
+      "rating": 1599.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-06-28",
       "fight_id": "32b45081e0646dfc",
-      "rating": 1672.4,
+      "rating": 1673.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -319,8 +337,8 @@
   "last_fight_date": "2025-06-28",
   "name": "Ilia Topuria",
   "nickname": "",
-  "overall_elo": 1672.4,
-  "peak_elo": 1672.4,
+  "overall_elo": 1673.0,
+  "peak_elo": 1673.0,
   "slug": "ilia-topuria",
   "systems": {
     "division": "men:Lightweight",

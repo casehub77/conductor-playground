@@ -4,7 +4,7 @@
     {
       "blue_name": "Petr Yan",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1661.4,
+      "current_elo": 1664.0,
       "date": "2025-12-06",
       "event_name": "UFC 323: Dvalishvili vs. Yan 2",
       "fight_id": "e5736e66f0a052d6",
@@ -55,7 +55,7 @@
     {
       "blue_name": "Stipe Miocic",
       "bout_type": "UFC Heavyweight Title Bout",
-      "current_elo": 1813.0,
+      "current_elo": 1813.1,
       "date": "2024-11-16",
       "event_name": "UFC 309: Jones vs. Miocic",
       "fight_id": "3142ef9bbdf32d94",
@@ -89,7 +89,7 @@
     {
       "blue_name": "Charles Oliveira",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1599.3,
+      "current_elo": 1599.5,
       "date": "2025-06-28",
       "event_name": "UFC 317: Topuria vs. Oliveira",
       "fight_id": "32b45081e0646dfc",
@@ -97,7 +97,7 @@
       "gender": "men",
       "method": "KO/TKO",
       "outcome": "red_win",
-      "rank": 28,
+      "rank": 27,
       "red_name": "Ilia Topuria",
       "slug": "ilia-topuria",
       "system": "men:Lightweight",
@@ -123,7 +123,7 @@
     {
       "blue_name": "Islam Makhachev",
       "bout_type": "UFC Welterweight Title Bout",
-      "current_elo": 1766.4,
+      "current_elo": 1827.9,
       "date": "2025-11-15",
       "event_name": "UFC 322: Della Maddalena vs. Makhachev",
       "fight_id": "d935cf5f27ce0805",
@@ -206,15 +206,24 @@
       "weight_class": "Strawweight"
     }
   ],
-  "fight_count": 19212,
-  "fighter_count": 10229,
+  "fight_count": 17966,
+  "fighter_count": 9185,
   "highest_ever": [
     {
-      "current_elo": 1813.0,
+      "current_elo": 1827.9,
+      "fights": 29,
+      "gender": "men",
+      "name": "Islam Makhachev",
+      "peak_elo": 1827.9,
+      "slug": "islam-makhachev",
+      "weight_class": "Welterweight"
+    },
+    {
+      "current_elo": 1813.1,
       "fights": 24,
       "gender": "men",
       "name": "Jon Jones",
-      "peak_elo": 1813.0,
+      "peak_elo": 1813.1,
       "slug": "jon-jones",
       "weight_class": "Heavyweight"
     },
@@ -237,15 +246,6 @@
       "weight_class": "Welterweight"
     },
     {
-      "current_elo": 1766.4,
-      "fights": 18,
-      "gender": "men",
-      "name": "Islam Makhachev",
-      "peak_elo": 1766.4,
-      "slug": "islam-makhachev",
-      "weight_class": "Welterweight"
-    },
-    {
       "current_elo": 1517.5,
       "fights": 32,
       "gender": "men",
@@ -264,7 +264,7 @@
       "weight_class": "Flyweight"
     },
     {
-      "current_elo": 1700.5,
+      "current_elo": 1701.0,
       "fights": 32,
       "gender": "men",
       "name": "Max Holloway",
@@ -277,7 +277,7 @@
       "fights": 29,
       "gender": "men",
       "name": "Mirko Cro Cop",
-      "peak_elo": 1744.8,
+      "peak_elo": 1744.9,
       "slug": "mirko-cro-cop",
       "weight_class": "Heavyweight"
     },
@@ -309,13 +309,31 @@
       "weight_class": "Welterweight"
     },
     {
-      "current_elo": 1531.7,
+      "current_elo": 1531.8,
       "fights": 20,
       "gender": "men",
       "name": "Daniel Cormier",
-      "peak_elo": 1741.5,
+      "peak_elo": 1741.6,
       "slug": "daniel-cormier",
       "weight_class": "Heavyweight"
+    },
+    {
+      "current_elo": 1715.2,
+      "fights": 26,
+      "gender": "men",
+      "name": "Merab Dvalishvili",
+      "peak_elo": 1740.6,
+      "slug": "merab-dvalishvili",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "current_elo": 1737.9,
+      "fights": 35,
+      "gender": "men",
+      "name": "Kyoji Horiguchi",
+      "peak_elo": 1737.9,
+      "slug": "kyoji-horiguchi",
+      "weight_class": "Flyweight"
     },
     {
       "current_elo": 1500.0,
@@ -363,29 +381,20 @@
       "weight_class": "Middleweight"
     },
     {
-      "current_elo": 1724.7,
-      "fights": 34,
-      "gender": "men",
-      "name": "Kyoji Horiguchi",
-      "peak_elo": 1726.2,
-      "slug": "kyoji-horiguchi",
-      "weight_class": "Flyweight"
-    },
-    {
-      "current_elo": 1705.0,
+      "current_elo": 1705.5,
       "fights": 27,
       "gender": "men",
       "name": "Mateusz Gamrot",
-      "peak_elo": 1725.4,
+      "peak_elo": 1725.6,
       "slug": "mateusz-gamrot",
       "weight_class": "Lightweight"
     },
     {
-      "current_elo": 1721.4,
+      "current_elo": 1725.5,
       "fights": 37,
       "gender": "men",
       "name": "Charles Oliveira",
-      "peak_elo": 1724.9,
+      "peak_elo": 1725.5,
       "slug": "charles-oliveira",
       "weight_class": "Lightweight"
     },
@@ -394,7 +403,7 @@
       "fights": 33,
       "gender": "men",
       "name": "Gegard Mousasi",
-      "peak_elo": 1724.7,
+      "peak_elo": 1724.8,
       "slug": "gegard-mousasi",
       "weight_class": "Middleweight"
     },
@@ -417,8 +426,8 @@
       "weight_class": "Welterweight"
     },
     {
-      "current_elo": 1592.4,
-      "fights": 34,
+      "current_elo": 1638.4,
+      "fights": 31,
       "gender": "men",
       "name": "Shinya Aoki",
       "peak_elo": 1717.1,
@@ -426,16 +435,7 @@
       "weight_class": "Lightweight"
     },
     {
-      "current_elo": 1692.6,
-      "fights": 17,
-      "gender": "men",
-      "name": "Merab Dvalishvili",
-      "peak_elo": 1716.9,
-      "slug": "merab-dvalishvili",
-      "weight_class": "Bantamweight"
-    },
-    {
-      "current_elo": 1648.0,
+      "current_elo": 1652.1,
       "fights": 34,
       "gender": "men",
       "name": "Dustin Poirier",
@@ -453,11 +453,11 @@
       "weight_class": "Lightweight"
     },
     {
-      "current_elo": 1673.8,
+      "current_elo": 1674.2,
       "fights": 19,
       "gender": "men",
       "name": "Stipe Miocic",
-      "peak_elo": 1713.1,
+      "peak_elo": 1713.5,
       "slug": "stipe-miocic",
       "weight_class": "Heavyweight"
     },
@@ -471,7 +471,7 @@
       "weight_class": "Middleweight"
     },
     {
-      "current_elo": 1604.9,
+      "current_elo": 1605.0,
       "fights": 17,
       "gender": "men",
       "name": "Dominick Cruz",
@@ -516,7 +516,7 @@
     {
       "blue_name": "Petr Yan",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1661.4,
+      "current_elo": 1664.0,
       "date": "2025-12-06",
       "event_name": "UFC 323: Dvalishvili vs. Yan 2",
       "fight_id": "e5736e66f0a052d6",
@@ -564,7 +564,7 @@
     {
       "blue_name": "Islam Makhachev",
       "bout_type": "UFC Welterweight Title Bout",
-      "current_elo": 1766.4,
+      "current_elo": 1827.9,
       "date": "2025-11-15",
       "event_name": "UFC 322: Della Maddalena vs. Makhachev",
       "fight_id": "d935cf5f27ce0805",
@@ -596,7 +596,7 @@
     {
       "blue_name": "Cory Sandhagen",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1692.6,
+      "current_elo": 1715.2,
       "date": "2025-10-04",
       "event_name": "UFC 320: Ankalaev vs. Pereira 2",
       "fight_id": "41295c4dabb8c1eb",
@@ -644,7 +644,7 @@
     {
       "blue_name": "Charles Oliveira",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1599.3,
+      "current_elo": 1599.5,
       "date": "2025-06-28",
       "event_name": "UFC 317: Topuria vs. Oliveira",
       "fight_id": "32b45081e0646dfc",
@@ -660,7 +660,7 @@
     {
       "blue_name": "Kai Kara-France",
       "bout_type": "UFC Flyweight Title Bout",
-      "current_elo": 1666.5,
+      "current_elo": 1666.6,
       "date": "2025-06-28",
       "event_name": "UFC 317: Topuria vs. Oliveira",
       "fight_id": "afebece253ffd142",
@@ -676,7 +676,7 @@
     {
       "blue_name": "Sean O'Malley",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1692.6,
+      "current_elo": 1715.2,
       "date": "2025-06-07",
       "event_name": "UFC 316: Dvalishvili vs. O'Malley 2",
       "fight_id": "e4715feedda99af6",
@@ -724,7 +724,7 @@
     {
       "blue_name": "Jack Della Maddalena",
       "bout_type": "UFC Welterweight Title Bout",
-      "current_elo": 1645.0,
+      "current_elo": 1648.3,
       "date": "2025-05-10",
       "event_name": "UFC 315: Muhammad vs. Della Maddalena",
       "fight_id": "6e4bd04306bc5153",
@@ -804,7 +804,7 @@
     {
       "blue_name": "Umar Nurmagomedov",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1692.6,
+      "current_elo": 1715.2,
       "date": "2025-01-18",
       "event_name": "UFC 311: Makhachev vs. Moicano",
       "fight_id": "05f463fe8b190aac",
@@ -820,7 +820,7 @@
     {
       "blue_name": "Renato Moicano",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1766.4,
+      "current_elo": 1827.9,
       "date": "2025-01-18",
       "event_name": "UFC 311: Makhachev vs. Moicano",
       "fight_id": "e3aa80f6489977e2",
@@ -836,7 +836,7 @@
     {
       "blue_name": "Kai Asakura",
       "bout_type": "UFC Flyweight Title Bout",
-      "current_elo": 1666.5,
+      "current_elo": 1666.6,
       "date": "2024-12-07",
       "event_name": "UFC 310: Pantoja vs. Asakura",
       "fight_id": "6db11bf5039e438a",
@@ -852,7 +852,7 @@
     {
       "blue_name": "Stipe Miocic",
       "bout_type": "UFC Heavyweight Title Bout",
-      "current_elo": 1813.0,
+      "current_elo": 1813.1,
       "date": "2024-11-16",
       "event_name": "UFC 309: Jones vs. Miocic",
       "fight_id": "3142ef9bbdf32d94",
@@ -868,7 +868,7 @@
     {
       "blue_name": "Max Holloway",
       "bout_type": "UFC Featherweight Title Bout",
-      "current_elo": 1599.3,
+      "current_elo": 1599.5,
       "date": "2024-10-26",
       "event_name": "UFC 308: Topuria vs. Holloway",
       "fight_id": "e18d834b875f611c",
@@ -916,7 +916,7 @@
     {
       "blue_name": "Merab Dvalishvili",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1692.6,
+      "current_elo": 1715.2,
       "date": "2024-09-14",
       "event_name": "UFC 306: Riyadh Season Noche UFC",
       "fight_id": "2f8a55c3cecc59b9",
@@ -964,7 +964,7 @@
     {
       "blue_name": "Curtis Blaydes",
       "bout_type": "UFC Interim Heavyweight Title Bout",
-      "current_elo": 1647.5,
+      "current_elo": 1647.6,
       "date": "2024-07-27",
       "event_name": "UFC 304: Edwards vs. Muhammad 2",
       "fight_id": "68dd94a245eb6a4d",
@@ -1012,7 +1012,7 @@
     {
       "blue_name": "Dustin Poirier",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1766.4,
+      "current_elo": 1827.9,
       "date": "2024-06-01",
       "event_name": "UFC 302: Makhachev vs. Poirier",
       "fight_id": "596bdbf471aa9459",
@@ -1028,7 +1028,7 @@
     {
       "blue_name": "Steve Erceg",
       "bout_type": "UFC Flyweight Title Bout",
-      "current_elo": 1666.5,
+      "current_elo": 1666.6,
       "date": "2024-05-04",
       "event_name": "UFC 301: Pantoja vs. Erceg",
       "fight_id": "a502485b1582821c",
@@ -1076,7 +1076,7 @@
     {
       "blue_name": "Marlon Vera",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1646.4,
+      "current_elo": 1649.5,
       "date": "2024-03-09",
       "event_name": "UFC 299: O'Malley vs. Vera 2",
       "fight_id": "f4ad66460d0a7d69",
@@ -1092,7 +1092,7 @@
     {
       "blue_name": "Ilia Topuria",
       "bout_type": "UFC Featherweight Title Bout",
-      "current_elo": 1599.3,
+      "current_elo": 1599.5,
       "date": "2024-02-17",
       "event_name": "UFC 298: Volkanovski vs. Topuria",
       "fight_id": "5a76e7cf598c07bb",
@@ -1156,7 +1156,7 @@
     {
       "blue_name": "Brandon Royval",
       "bout_type": "UFC Flyweight Title Bout",
-      "current_elo": 1666.5,
+      "current_elo": 1666.6,
       "date": "2023-12-16",
       "event_name": "UFC 296: Edwards vs. Covington",
       "fight_id": "3699cd83dd0a3116",
@@ -1172,7 +1172,7 @@
     {
       "blue_name": "Tom Aspinall",
       "bout_type": "UFC Interim Heavyweight Title Bout",
-      "current_elo": 1647.5,
+      "current_elo": 1647.6,
       "date": "2023-11-11",
       "event_name": "UFC 295: Prochazka vs. Pereira",
       "fight_id": "7d9babb5c8ed74aa",
@@ -1204,7 +1204,7 @@
     {
       "blue_name": "Alexander Volkanovski",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1766.4,
+      "current_elo": 1827.9,
       "date": "2023-10-21",
       "event_name": "UFC 294: Makhachev vs. Volkanovski 2",
       "fight_id": "df7878027c4f66c9",
@@ -1252,7 +1252,7 @@
     {
       "blue_name": "Sean O'Malley",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1646.4,
+      "current_elo": 1649.5,
       "date": "2023-08-19",
       "event_name": "UFC 292: Sterling vs. O'Malley",
       "fight_id": "491d212071994a03",
@@ -1268,7 +1268,7 @@
     {
       "blue_name": "Alexandre Pantoja",
       "bout_type": "UFC Flyweight Title Bout",
-      "current_elo": 1666.5,
+      "current_elo": 1666.6,
       "date": "2023-07-08",
       "event_name": "UFC 290: Volkanovski vs. Rodriguez",
       "fight_id": "accca959e895d1c6",
@@ -1364,7 +1364,7 @@
     {
       "blue_name": "Ciryl Gane",
       "bout_type": "UFC Heavyweight Title Bout",
-      "current_elo": 1813.0,
+      "current_elo": 1813.1,
       "date": "2023-03-04",
       "event_name": "UFC 285: Jones vs. Gane",
       "fight_id": "86e000a02108e159",
@@ -1412,7 +1412,7 @@
     {
       "blue_name": "Alexander Volkanovski",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1766.4,
+      "current_elo": 1827.9,
       "date": "2023-02-11",
       "event_name": "UFC 284: Makhachev vs. Volkanovski",
       "fight_id": "887e6ebb4c288aa3",
@@ -1492,7 +1492,7 @@
     {
       "blue_name": "Islam Makhachev",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1766.4,
+      "current_elo": 1827.9,
       "date": "2022-10-22",
       "event_name": "UFC 280: Oliveira vs. Makhachev",
       "fight_id": "21373455595b76bb",
@@ -1700,7 +1700,7 @@
     {
       "blue_name": "Ciryl Gane",
       "bout_type": "UFC Heavyweight Title Bout",
-      "current_elo": 1636.7,
+      "current_elo": 1637.0,
       "date": "2022-01-22",
       "event_name": "UFC 270: Ngannou vs. Gane",
       "fight_id": "1a779e3cc90f4779",
@@ -1716,7 +1716,7 @@
     {
       "blue_name": "Deiveson Figueiredo",
       "bout_type": "UFC Flyweight Title Bout",
-      "current_elo": 1621.9,
+      "current_elo": 1622.0,
       "date": "2022-01-22",
       "event_name": "UFC 270: Ngannou vs. Gane",
       "fight_id": "da72bd9c85bb9284",
@@ -1732,7 +1732,7 @@
     {
       "blue_name": "Dustin Poirier",
       "bout_type": "UFC Lightweight Title Bout",
-      "current_elo": 1721.4,
+      "current_elo": 1725.5,
       "date": "2021-12-11",
       "event_name": "UFC 269: Oliveira vs. Poirier",
       "fight_id": "d2c389b08e421a2a",
@@ -1783,7 +1783,7 @@
     },
     {
       "change": 37.9,
-      "current_elo": 1624.9,
+      "current_elo": 1625.0,
       "fights": 2,
       "gender": "men",
       "name": "Josh Hokit",
@@ -1791,8 +1791,8 @@
       "weight_class": "Heavyweight"
     },
     {
-      "change": 37.7,
-      "current_elo": 1538.2,
+      "change": 37.8,
+      "current_elo": 1537.8,
       "fights": 2,
       "gender": "women",
       "name": "Bianca Basílio",
@@ -1899,8 +1899,17 @@
       "weight_class": "Welterweight"
     },
     {
+      "change": 23.6,
+      "current_elo": 1505.6,
+      "fights": 1,
+      "gender": "men",
+      "name": "Azizbek Temirov",
+      "slug": "azizbek-temirov",
+      "weight_class": "Bantamweight"
+    },
+    {
       "change": -23.6,
-      "current_elo": 1576.2,
+      "current_elo": 1576.3,
       "fights": 1,
       "gender": "men",
       "name": "Jailton Almeida",
@@ -1926,6 +1935,15 @@
       "weight_class": "Heavyweight"
     },
     {
+      "change": -23.6,
+      "current_elo": 1533.5,
+      "fights": 1,
+      "gender": "men",
+      "name": "Ryuya Fukuda",
+      "slug": "ryuya-fukuda",
+      "weight_class": "Bantamweight"
+    },
+    {
       "change": 23.6,
       "current_elo": 1523.6,
       "fights": 1,
@@ -1933,15 +1951,6 @@
       "name": "Tyrone Pfeifer",
       "slug": "tyrone-pfeifer",
       "weight_class": "Welterweight"
-    },
-    {
-      "change": 23.5,
-      "current_elo": 1505.5,
-      "fights": 1,
-      "gender": "men",
-      "name": "Azizbek Temirov",
-      "slug": "azizbek-temirov",
-      "weight_class": "Bantamweight"
     },
     {
       "change": 23.5,
@@ -1960,15 +1969,6 @@
       "name": "Oumar Sy",
       "slug": "oumar-sy",
       "weight_class": "Light Heavyweight"
-    },
-    {
-      "change": -23.5,
-      "current_elo": 1532.8,
-      "fights": 1,
-      "gender": "men",
-      "name": "Ryuya Fukuda",
-      "slug": "ryuya-fukuda",
-      "weight_class": "Bantamweight"
     },
     {
       "change": 23.3,

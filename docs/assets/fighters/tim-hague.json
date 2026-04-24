@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 274,
+  "divisional_rank": 282,
   "fight_count": 5,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Matt Mitrione",
-      "opponent_elo": 1556.5,
+      "opponent_elo": 1556.6,
       "outcome": "red_win",
-      "post_elo": 1450.6,
+      "post_elo": 1450.7,
       "pre_elo": 1465.1,
       "red_name": "Matt Mitrione",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:59",
       "weight_class": "Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Tim Hague",
       "bout_type": "Heavyweight Bout",
       "date": "2010-05-08",
-      "elo_delta": -16.0,
+      "elo_delta": -15.9,
       "event_name": "UFC 113: Machida vs Shogun 2",
       "fight_id": "e4de467c373213c0",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Joey Beltran",
-      "opponent_elo": 1520.7,
+      "opponent_elo": 1521.8,
       "outcome": "red_win",
       "post_elo": 1465.1,
       "pre_elo": 1481.0,
       "red_name": "Joey Beltran",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Decision - Majority",
       "opponent": "Chris Tuchscherer",
-      "opponent_elo": 1483.1,
+      "opponent_elo": 1483.2,
       "outcome": "red_win",
       "post_elo": 1481.0,
       "pre_elo": 1499.9,
       "red_name": "Chris Tuchscherer",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1520.5,
       "red_name": "Todd Duffee",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:07",
       "weight_class": "Heavyweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tim Hague",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:42",
       "weight_class": "Heavyweight"
     }
@@ -159,21 +169,21 @@
     {
       "date": "2010-05-08",
       "fight_id": "e4de467c373213c0",
-      "rating": 1468.8,
+      "rating": 1468.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-01-22",
       "fight_id": "28fd02e287144186",
-      "rating": 1450.6,
+      "rating": 1450.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2011-01-22",
       "fight_id": "28fd02e287144186",
-      "rating": 1455.5,
+      "rating": 1455.6,
       "scope": "overall",
       "system": "men:overall"
     }

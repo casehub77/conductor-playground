@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 668,
+  "divisional_rank": 665,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Yoshifumi Dogaki",
       "bout_type": "Open Weight Bout",
       "date": "2010-09-26",
-      "elo_delta": 15.1,
+      "elo_delta": 14.8,
       "event_name": "Shooto: Gig West 12",
       "fight_id": "7b1127d695c3e5f0",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Rear-Naked Choke)",
       "opponent": "Yoshifumi Dogaki",
-      "opponent_elo": 1421.4,
+      "opponent_elo": 1416.7,
       "outcome": "red_win",
-      "post_elo": 1515.4,
-      "pre_elo": 1500.3,
+      "post_elo": 1515.9,
+      "pre_elo": 1501.1,
       "red_name": "Tatsunori Tanaka",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "4:22",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Tatsunori Tanaka",
       "bout_type": "Open Weight Bout",
       "date": "2009-08-16",
-      "elo_delta": -19.1,
+      "elo_delta": -18.3,
       "event_name": "Shooto: Border: Season 1: Advance",
       "fight_id": "5bb2e2bcdfa7962b",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Triangle Choke)",
       "opponent": "Hiroshi Shiba",
-      "opponent_elo": 1525.4,
+      "opponent_elo": 1539.8,
       "outcome": "red_win",
-      "post_elo": 1500.3,
+      "post_elo": 1501.1,
       "pre_elo": 1519.4,
       "red_name": "Hiroshi Shiba",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "2:19",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Tatsunori Tanaka",
       "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "3:22",
       "weight_class": "Open Weight"
     }
@@ -84,28 +90,28 @@
     {
       "date": "2009-08-16",
       "fight_id": "5bb2e2bcdfa7962b",
-      "rating": 1500.3,
+      "rating": 1501.1,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2009-08-16",
       "fight_id": "5bb2e2bcdfa7962b",
-      "rating": 1500.2,
+      "rating": 1500.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2010-09-26",
       "fight_id": "7b1127d695c3e5f0",
-      "rating": 1515.4,
+      "rating": 1515.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-09-26",
       "fight_id": "7b1127d695c3e5f0",
-      "rating": 1514.0,
+      "rating": 1514.5,
       "scope": "overall",
       "system": "men:overall"
     }

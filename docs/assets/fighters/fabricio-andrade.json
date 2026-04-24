@@ -1,13 +1,13 @@
 {
-  "current_elo": 1555.3,
-  "divisional_rank": 60,
-  "fight_count": 8,
+  "current_elo": 1573.6,
+  "divisional_rank": 35,
+  "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Fabrício Andrade",
       "bout_type": "Bantamweight Bout",
       "date": "2025-12-06",
-      "elo_delta": -19.6,
+      "elo_delta": -20.6,
       "event_name": "ONE Fight Night 38: Andrade vs. Baatarkhuu",
       "fight_id": "88e6755ba1215b84",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Enkh-Orgil Baatarkhuu",
       "opponent_elo": 1572.8,
       "outcome": "red_win",
-      "post_elo": 1555.3,
-      "pre_elo": 1574.8,
+      "post_elo": 1573.6,
+      "pre_elo": 1594.3,
       "red_name": "Enkh-Orgil Baatarkhuu",
       "round": "4",
+      "source": "manual",
+      "source_title": "ONE Fight Night 38",
       "time": "1:33",
       "weight_class": "Bantamweight"
     },
@@ -27,7 +29,7 @@
       "blue_name": "Kwon Won-il",
       "bout_type": "Bantamweight Bout",
       "date": "2025-01-24",
-      "elo_delta": 16.4,
+      "elo_delta": 15.3,
       "event_name": "ONE 170: Tawanchai vs. Superbon 2",
       "fight_id": "6fda5df8b6073df7",
       "gender": "men",
@@ -36,31 +38,13 @@
       "opponent": "Kwon Won-il",
       "opponent_elo": 1503.2,
       "outcome": "red_win",
-      "post_elo": 1574.8,
-      "pre_elo": 1558.4,
+      "post_elo": 1594.3,
+      "pre_elo": 1579.0,
       "red_name": "Fabrício Andrade",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 170",
       "time": "0:42",
-      "weight_class": "Bantamweight"
-    },
-    {
-      "blue_name": "Fabrício Andrade",
-      "bout_type": "Bantamweight Kickboxing Bout",
-      "date": "2023-11-04",
-      "elo_delta": -20.5,
-      "event_name": "ONE Fight Night 16: Haggerty vs. Andrade",
-      "fight_id": "1e7513f109d4185e",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (punches)",
-      "opponent": "Jonathan Haggerty",
-      "opponent_elo": 1559.3,
-      "outcome": "red_win",
-      "post_elo": 1558.4,
-      "pre_elo": 1579.0,
-      "red_name": "Jonathan Haggerty",
-      "round": "2",
-      "time": "1:57",
       "weight_class": "Bantamweight"
     },
     {
@@ -80,6 +64,8 @@
       "pre_elo": 1555.1,
       "red_name": "Fabrício Andrade",
       "round": "4",
+      "source": "manual",
+      "source_title": "ONE Fight Night 7",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +86,8 @@
       "pre_elo": 1555.1,
       "red_name": "John Lineker",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE on Prime Video 3",
       "time": "2:44",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +108,8 @@
       "pre_elo": 1537.8,
       "red_name": "Fabrício Andrade",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 158",
       "time": "1:02",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +130,8 @@
       "pre_elo": 1519.4,
       "red_name": "Fabrício Andrade",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE: Full Circle",
       "time": "1:37",
       "weight_class": "Bantamweight"
     },
@@ -160,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Fabrício Andrade",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE: Winter Warriors II",
       "time": "4:41",
       "weight_class": "Bantamweight"
     }
@@ -238,44 +232,30 @@
       "system": "men:overall"
     },
     {
-      "date": "2023-11-04",
-      "fight_id": "1e7513f109d4185e",
-      "rating": 1558.4,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2023-11-04",
-      "fight_id": "1e7513f109d4185e",
-      "rating": 1552.6,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2025-01-24",
       "fight_id": "6fda5df8b6073df7",
-      "rating": 1574.8,
+      "rating": 1594.3,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-01-24",
       "fight_id": "6fda5df8b6073df7",
-      "rating": 1567.4,
+      "rating": 1584.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-06",
       "fight_id": "88e6755ba1215b84",
-      "rating": 1555.3,
+      "rating": 1573.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-12-06",
       "fight_id": "88e6755ba1215b84",
-      "rating": 1550.6,
+      "rating": 1566.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -285,8 +265,8 @@
   "last_fight_date": "2025-12-06",
   "name": "Fabrício Andrade",
   "nickname": "",
-  "overall_elo": 1550.6,
-  "peak_elo": 1579.0,
+  "overall_elo": 1566.8,
+  "peak_elo": 1594.3,
   "slug": "fabricio-andrade",
   "systems": {
     "division": "men:Bantamweight",

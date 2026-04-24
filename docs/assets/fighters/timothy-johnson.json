@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 266,
+  "divisional_rank": 274,
   "fight_count": 11,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1469.3,
       "red_name": "Timothy Johnson",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 294",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1486.0,
       "red_name": "Linton Vassell",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 277",
       "time": "4:21",
       "weight_class": "Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Fedor Emelianenko",
-      "opponent_elo": 1586.9,
+      "opponent_elo": 1587.0,
       "outcome": "red_win",
       "post_elo": 1486.0,
       "pre_elo": 1500.7,
       "red_name": "Fedor Emelianenko",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 269",
       "time": "1:46",
       "weight_class": "Heavyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1518.0,
       "red_name": "Valentin Moldavsky",
       "round": "5",
+      "source": "manual",
+      "source_title": "Bellator 261",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -97,9 +105,11 @@
       "opponent_elo": 1518.3,
       "outcome": "red_win",
       "post_elo": 1518.0,
-      "pre_elo": 1498.9,
+      "pre_elo": 1499.0,
       "red_name": "Timothy Johnson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -116,10 +126,12 @@
       "opponent": "Junior Albini",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1498.9,
+      "post_elo": 1499.0,
       "pre_elo": 1519.5,
       "red_name": "Timothy Johnson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:51",
       "weight_class": "Heavyweight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Daniel Omielanczuk",
-      "opponent_elo": 1498.0,
+      "opponent_elo": 1498.1,
       "outcome": "blue_win",
       "post_elo": 1519.5,
       "pre_elo": 1501.7,
       "red_name": "Daniel Omielanczuk",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1520.7,
       "red_name": "Timothy Johnson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1502.9,
       "red_name": "Timothy Johnson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1519.4,
       "red_name": "Jared Rosholt",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1500.0,
       "red_name": "Shamil Abdurakhimov",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:57",
       "weight_class": "Heavyweight"
     }
@@ -300,7 +322,7 @@
     {
       "date": "2017-07-22",
       "fight_id": "9939b2b0c5298592",
-      "rating": 1498.9,
+      "rating": 1499.0,
       "scope": "division",
       "system": "men:Heavyweight"
     },

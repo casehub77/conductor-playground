@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 766,
+  "divisional_rank": 741,
   "fight_count": 4,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Nurullo Aliev",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1472.6,
-      "pre_elo": 1490.1,
+      "post_elo": 1472.9,
+      "pre_elo": 1490.4,
       "red_name": "Rafael Alves",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Rafael Alves",
       "bout_type": "Lightweight Bout",
       "date": "2022-07-30",
-      "elo_delta": -15.5,
+      "elo_delta": -15.2,
       "event_name": "UFC 277: Pena vs. Nunes 2",
       "fight_id": "bc53209fded5bca3",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Drew Dober",
-      "opponent_elo": 1577.6,
+      "opponent_elo": 1582.7,
       "outcome": "red_win",
-      "post_elo": 1490.1,
+      "post_elo": 1490.4,
       "pre_elo": 1505.6,
       "red_name": "Drew Dober",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:30",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1484.6,
       "red_name": "Marc Diakiese",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:48",
       "weight_class": "Lightweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Rafael Alves",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -118,28 +126,28 @@
     {
       "date": "2022-07-30",
       "fight_id": "bc53209fded5bca3",
-      "rating": 1490.1,
+      "rating": 1490.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-07-30",
       "fight_id": "bc53209fded5bca3",
-      "rating": 1490.6,
+      "rating": 1490.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-02-25",
       "fight_id": "07139c78170ab07e",
-      "rating": 1472.6,
+      "rating": 1472.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-02-25",
       "fight_id": "07139c78170ab07e",
-      "rating": 1475.1,
+      "rating": 1475.3,
       "scope": "overall",
       "system": "men:overall"
     }

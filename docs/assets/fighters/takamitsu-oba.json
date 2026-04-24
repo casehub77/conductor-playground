@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 717,
+  "divisional_rank": 713,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Takamitsu Oba",
       "bout_type": "Open Weight Bout",
       "date": "2010-02-21",
-      "elo_delta": -19.5,
+      "elo_delta": -18.8,
       "event_name": "Shooto: Trilogy 1",
       "fight_id": "7a270f28cb648176",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Kazuya Satomoto",
-      "opponent_elo": 1488.6,
+      "opponent_elo": 1502.2,
       "outcome": "red_win",
-      "post_elo": 1498.2,
+      "post_elo": 1498.9,
       "pre_elo": 1517.7,
       "red_name": "Kazuya Satomoto",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1518.6,
       "red_name": "Takamitsu Oba",
       "round": "2",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1517.7,
       "red_name": "Komei Okada",
       "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1500.0,
       "red_name": "Takamitsu Oba",
       "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
       "time": "0:12",
       "weight_class": "Open Weight"
     }
@@ -132,14 +140,14 @@
     {
       "date": "2010-02-21",
       "fight_id": "7a270f28cb648176",
-      "rating": 1498.2,
+      "rating": 1498.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-02-21",
       "fight_id": "7a270f28cb648176",
-      "rating": 1498.6,
+      "rating": 1499.2,
       "scope": "overall",
       "system": "men:overall"
     }

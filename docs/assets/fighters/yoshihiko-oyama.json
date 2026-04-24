@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 1731,
+  "divisional_rank": 1725,
   "fight_count": 3,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Kosuke Eda",
       "opponent_elo": 1524.0,
       "outcome": "red_win",
-      "post_elo": 1463.7,
-      "pre_elo": 1480.7,
+      "post_elo": 1462.9,
+      "pre_elo": 1479.8,
       "red_name": "Kosuke Eda",
       "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "3:02",
       "weight_class": "Open Weight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Keita Yoshida",
       "bout_type": "Open Weight Bout",
       "date": "2008-09-20",
-      "elo_delta": 2.9,
+      "elo_delta": 2.0,
       "event_name": "Shooto: Gig West 10",
       "fight_id": "b6b35f7714069080",
       "gender": "men",
       "is_title": false,
       "method": "Draw",
       "opponent": "Keita Yoshida",
-      "opponent_elo": 1534.2,
+      "opponent_elo": 1517.1,
       "outcome": "draw",
-      "post_elo": 1480.7,
+      "post_elo": 1479.8,
       "pre_elo": 1477.8,
       "red_name": "Yoshihiko Oyama",
       "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "1:32",
       "weight_class": "Open Weight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Nobuhiro Hayakawa",
       "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
       "time": "0:37",
       "weight_class": "Open Weight"
     }
@@ -84,28 +90,28 @@
     {
       "date": "2008-09-20",
       "fight_id": "b6b35f7714069080",
-      "rating": 1480.7,
+      "rating": 1479.8,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2008-09-20",
       "fight_id": "b6b35f7714069080",
-      "rating": 1482.8,
+      "rating": 1482.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2008-12-13",
       "fight_id": "b34ed37f6adb6087",
-      "rating": 1463.7,
+      "rating": 1462.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2008-12-13",
       "fight_id": "b34ed37f6adb6087",
-      "rating": 1467.4,
+      "rating": 1466.8,
       "scope": "overall",
       "system": "men:overall"
     }

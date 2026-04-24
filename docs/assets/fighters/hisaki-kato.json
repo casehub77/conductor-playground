@@ -1,25 +1,27 @@
 {
-  "current_elo": 1500.3,
-  "divisional_rank": 110,
+  "current_elo": 1499.3,
+  "divisional_rank": 665,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Hisaki Kato",
       "bout_type": "Heavyweight 120 kg Bout",
       "date": "2024-11-17",
-      "elo_delta": -16.9,
+      "elo_delta": -18.0,
       "event_name": "Rizin Landmark 10",
       "fight_id": "17ac20987f77b238",
       "gender": "men",
       "is_title": false,
       "method": "TKO (doctor stoppage)",
       "opponent": "Tsuyoshi Sudario",
-      "opponent_elo": 1562.2,
+      "opponent_elo": 1542.9,
       "outcome": "red_win",
-      "post_elo": 1500.3,
+      "post_elo": 1499.3,
       "pre_elo": 1517.3,
       "red_name": "Tsuyoshi Sudario",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "1:11",
       "weight_class": "Heavyweight"
     }
@@ -37,14 +39,14 @@
     {
       "date": "2024-11-17",
       "fight_id": "17ac20987f77b238",
-      "rating": 1500.3,
+      "rating": 1499.3,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2024-11-17",
       "fight_id": "17ac20987f77b238",
-      "rating": 1501.9,
+      "rating": 1501.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -54,7 +56,7 @@
   "last_fight_date": "2024-11-17",
   "name": "Hisaki Kato",
   "nickname": "",
-  "overall_elo": 1501.9,
+  "overall_elo": 1501.0,
   "peak_elo": 1517.3,
   "slug": "hisaki-kato",
   "systems": {

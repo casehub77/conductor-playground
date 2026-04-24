@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 582,
+  "divisional_rank": 595,
   "fight_count": 2,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Karol Bedorf",
       "opponent_elo": 1539.3,
       "outcome": "red_win",
-      "post_elo": 1464.4,
-      "pre_elo": 1480.6,
+      "post_elo": 1464.5,
+      "pre_elo": 1480.7,
       "red_name": "Karol Bedorf",
       "round": "1",
+      "source": "manual",
+      "source_title": "2014 in Konfrontacja Sztuk Walki",
       "time": "4:04",
       "weight_class": "Heavyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Rolles Gracie",
       "bout_type": "Heavyweight Bout",
       "date": "2010-02-06",
-      "elo_delta": -19.4,
+      "elo_delta": -19.3,
       "event_name": "UFC 109: Relentless",
       "fight_id": "69575b0482b59a19",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Joey Beltran",
-      "opponent_elo": 1501.4,
+      "opponent_elo": 1502.5,
       "outcome": "red_win",
-      "post_elo": 1480.6,
+      "post_elo": 1480.7,
       "pre_elo": 1500.0,
       "red_name": "Joey Beltran",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:31",
       "weight_class": "Heavyweight"
     }
@@ -50,7 +54,7 @@
     {
       "date": "2010-02-06",
       "fight_id": "69575b0482b59a19",
-      "rating": 1480.6,
+      "rating": 1480.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -64,7 +68,7 @@
     {
       "date": "2014-10-04",
       "fight_id": "ae662f0d66d9e98f",
-      "rating": 1464.4,
+      "rating": 1464.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },

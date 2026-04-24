@@ -1,6 +1,6 @@
 {
-  "current_elo": 1585.6,
-  "divisional_rank": 36,
+  "current_elo": 1585.7,
+  "divisional_rank": 30,
   "fight_count": 7,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Rob Font",
       "opponent_elo": 1580.1,
       "outcome": "blue_win",
-      "post_elo": 1585.6,
+      "post_elo": 1585.7,
       "pre_elo": 1567.0,
       "red_name": "Rob Font",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Vince Morales",
       "bout_type": "Bantamweight Bout",
       "date": "2025-03-29",
-      "elo_delta": 13.9,
+      "elo_delta": 14.0,
       "event_name": "UFC Fight Night: Moreno vs. Erceg",
       "fight_id": "066324955913a2fe",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Vince Morales",
-      "opponent_elo": 1472.9,
+      "opponent_elo": 1473.7,
       "outcome": "red_win",
       "post_elo": 1567.0,
       "pre_elo": 1553.0,
       "red_name": "Raul Rosas Jr.",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1536.7,
       "red_name": "Raul Rosas Jr.",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1517.4,
       "red_name": "Raul Rosas Jr.",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:22",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1498.8,
       "red_name": "Raul Rosas Jr.",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:54",
       "weight_class": "Bantamweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1517.5,
       "red_name": "Raul Rosas Jr.",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Raul Rosas Jr.",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:44",
       "weight_class": "Bantamweight"
     }
@@ -234,14 +248,14 @@
     {
       "date": "2026-03-07",
       "fight_id": "b6b4ae358d96d416",
-      "rating": 1585.6,
+      "rating": 1585.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-03-07",
       "fight_id": "b6b4ae358d96d416",
-      "rating": 1576.3,
+      "rating": 1576.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -251,8 +265,8 @@
   "last_fight_date": "2026-03-07",
   "name": "Raul Rosas Jr.",
   "nickname": "",
-  "overall_elo": 1576.3,
-  "peak_elo": 1585.6,
+  "overall_elo": 1576.4,
+  "peak_elo": 1585.7,
   "slug": "raul-rosas-jr",
   "systems": {
     "division": "men:Bantamweight",

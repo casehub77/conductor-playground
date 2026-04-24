@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 655,
+  "divisional_rank": 640,
   "fight_count": 3,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Mandel Nallo",
       "opponent_elo": 1519.2,
       "outcome": "red_win",
-      "post_elo": 1519.2,
-      "pre_elo": 1498.6,
+      "post_elo": 1518.5,
+      "pre_elo": 1497.9,
       "red_name": "Adam Piccolotti",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 293",
       "time": "4:26",
       "weight_class": "Lightweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Adam Piccolotti",
       "bout_type": "Lightweight Bout",
       "date": "2022-10-29",
-      "elo_delta": -19.4,
+      "elo_delta": -20.0,
       "event_name": "Bellator 287: Piccolotti vs. Barnaoui",
       "fight_id": "7ce790d186f0978f",
       "gender": "men",
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Mansour Barnaoui",
-      "opponent_elo": 1518.8,
+      "opponent_elo": 1507.2,
       "outcome": "red_win",
-      "post_elo": 1498.6,
+      "post_elo": 1497.9,
       "pre_elo": 1518.0,
       "red_name": "Mansour Barnaoui",
       "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 287",
       "time": "2:51",
       "weight_class": "Lightweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1500.0,
       "red_name": "Adam Piccolotti",
       "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 274",
       "time": "5:00",
       "weight_class": "Lightweight"
     }
@@ -84,28 +90,28 @@
     {
       "date": "2022-10-29",
       "fight_id": "7ce790d186f0978f",
-      "rating": 1498.6,
+      "rating": 1497.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-10-29",
       "fight_id": "7ce790d186f0978f",
-      "rating": 1498.7,
+      "rating": 1498.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-03-31",
       "fight_id": "5bbbc5ebb0e646e7",
-      "rating": 1519.2,
+      "rating": 1518.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-03-31",
       "fight_id": "5bbbc5ebb0e646e7",
-      "rating": 1516.9,
+      "rating": 1516.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -116,7 +122,7 @@
   "name": "Adam Piccolotti",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1519.2,
+  "peak_elo": 1518.5,
   "slug": "adam-piccolotti",
   "systems": {
     "division": "men:Lightweight",

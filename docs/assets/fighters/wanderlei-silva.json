@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 239,
+  "divisional_rank": 244,
   "fight_count": 32,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1500.0,
       "red_name": "Wanderlei Silva",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:08",
       "weight_class": "Light Heavyweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1566.5,
       "red_name": "Wanderlei Silva",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1601.7,
       "outcome": "red_win",
       "post_elo": 1608.8,
-      "pre_elo": 1588.6,
+      "pre_elo": 1588.7,
       "red_name": "Wanderlei Silva",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:49",
       "weight_class": "Middleweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Chris Leben",
       "opponent_elo": 1582.2,
       "outcome": "blue_win",
-      "post_elo": 1588.6,
+      "post_elo": 1588.7,
       "pre_elo": 1609.6,
       "red_name": "Wanderlei Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:27",
       "weight_class": "Middleweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1589.3,
       "red_name": "Wanderlei Silva",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1591.4,
       "red_name": "Rich Franklin",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -134,12 +146,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Quinton Jackson",
-      "opponent_elo": 1626.7,
+      "opponent_elo": 1626.8,
       "outcome": "red_win",
       "post_elo": 1500.0,
       "pre_elo": 1513.3,
       "red_name": "Quinton Jackson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:21",
       "weight_class": "Light Heavyweight"
     },
@@ -154,12 +168,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Keith Jardine",
-      "opponent_elo": 1556.6,
+      "opponent_elo": 1557.0,
       "outcome": "red_win",
       "post_elo": 1513.3,
       "pre_elo": 1490.2,
       "red_name": "Wanderlei Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:36",
       "weight_class": "Light Heavyweight"
     },
@@ -180,6 +196,8 @@
       "pre_elo": 1500.7,
       "red_name": "Chuck Liddell",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -200,6 +218,8 @@
       "pre_elo": 1613.9,
       "red_name": "Dan Henderson",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 33",
       "time": "2:08",
       "weight_class": "Middleweight"
     },
@@ -214,12 +234,14 @@
       "is_title": false,
       "method": "KO (Head Kick)",
       "opponent": "Mirko Cro Cop",
-      "opponent_elo": 1687.8,
+      "opponent_elo": 1688.0,
       "outcome": "red_win",
       "post_elo": 1591.4,
       "pre_elo": 1606.4,
       "red_name": "Mirko Cro Cop",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict Absolute",
       "time": "5:26",
       "weight_class": "Open Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1590.2,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown Absolute",
       "time": "9:21",
       "weight_class": "Open Weight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1597.5,
       "red_name": "Wanderlei Silva",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2005",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1610.9,
       "red_name": "Ricardo Arona",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2005",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -300,6 +328,8 @@
       "pre_elo": 1595.5,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Critical Countdown 2005",
       "time": "5:24",
       "weight_class": "Open Weight"
     },
@@ -320,6 +350,8 @@
       "pre_elo": 1583.1,
       "red_name": "Wanderlei Silva",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Total Elimination 2005",
       "time": "5:00",
       "weight_class": "Middleweight"
     },
@@ -340,6 +372,8 @@
       "pre_elo": 1619.4,
       "red_name": "Mark Hunt",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2004",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -360,6 +394,8 @@
       "pre_elo": 1562.2,
       "red_name": "Wanderlei Silva",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 28",
       "time": "3:26",
       "weight_class": "Middleweight"
     },
@@ -380,6 +416,8 @@
       "pre_elo": 1605.4,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2004",
       "time": "2:46",
       "weight_class": "Open Weight"
     },
@@ -400,6 +438,8 @@
       "pre_elo": 1590.9,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 2",
       "time": "1:09",
       "weight_class": "Open Weight"
     },
@@ -420,6 +460,8 @@
       "pre_elo": 1570.9,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2003",
       "time": "6:28",
       "weight_class": "Open Weight"
     },
@@ -440,6 +482,8 @@
       "pre_elo": 1554.3,
       "red_name": "Wanderlei Silva",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride Final Conflict 2003",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -460,6 +504,8 @@
       "pre_elo": 1545.3,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 23",
       "time": "3:40",
       "weight_class": "Middleweight"
     },
@@ -480,6 +526,8 @@
       "pre_elo": 1536.9,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave",
       "time": "1:16",
       "weight_class": "Open Weight"
     },
@@ -500,6 +548,8 @@
       "pre_elo": 1538.9,
       "red_name": "Wanderlei Silva",
       "round": "5",
+      "source": "manual",
+      "source_title": "Pride 20",
       "time": "3:00",
       "weight_class": "Open Weight"
     },
@@ -520,6 +570,8 @@
       "pre_elo": 1527.4,
       "red_name": "Wanderlei Silva",
       "round": "2",
+      "source": "manual",
+      "source_title": "Pride 19",
       "time": "2:28",
       "weight_class": "Middleweight"
     },
@@ -540,6 +592,8 @@
       "pre_elo": 1522.4,
       "red_name": "Wanderlei Silva",
       "round": "3",
+      "source": "manual",
+      "source_title": "Pride 18",
       "time": "2:22",
       "weight_class": "Open Weight"
     },
@@ -560,6 +614,8 @@
       "pre_elo": 1503.6,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride 17",
       "time": "10:00",
       "weight_class": "Middleweight"
     },
@@ -580,6 +636,8 @@
       "pre_elo": 1520.3,
       "red_name": "Tito Ortiz",
       "round": "5.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
     },
@@ -600,6 +658,8 @@
       "pre_elo": 1503.1,
       "red_name": "Wanderlei Silva",
       "round": "1",
+      "source": "manual",
+      "source_title": "Pride Grand Prix 2000 Opening Round",
       "time": "2:42",
       "weight_class": "Open Weight"
     },
@@ -620,6 +680,8 @@
       "pre_elo": 1483.3,
       "red_name": "Wanderlei Silva",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:53",
       "weight_class": "Middleweight"
     },
@@ -640,6 +702,8 @@
       "pre_elo": 1500.0,
       "red_name": "Vitor Belfort",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:44",
       "weight_class": "Middleweight"
     }
@@ -993,7 +1057,7 @@
     {
       "date": "2008-05-24",
       "fight_id": "f8aac97e86f84bc7",
-      "rating": 1619.3,
+      "rating": 1619.4,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -1007,7 +1071,7 @@
     {
       "date": "2008-12-27",
       "fight_id": "d23d351f74fbbc89",
-      "rating": 1602.2,
+      "rating": 1602.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -1021,7 +1085,7 @@
     {
       "date": "2009-06-13",
       "fight_id": "71765461cd6e9086",
-      "rating": 1579.4,
+      "rating": 1579.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -1042,7 +1106,7 @@
     {
       "date": "2011-07-02",
       "fight_id": "f7edc193bc37904c",
-      "rating": 1588.6,
+      "rating": 1588.7,
       "scope": "division",
       "system": "men:Middleweight"
     },
@@ -1091,7 +1155,7 @@
     {
       "date": "2013-03-02",
       "fight_id": "440c55e2bc36d3e6",
-      "rating": 1592.7,
+      "rating": 1592.8,
       "scope": "overall",
       "system": "men:overall"
     }

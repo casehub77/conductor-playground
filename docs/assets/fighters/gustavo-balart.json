@@ -1,6 +1,6 @@
 {
   "current_elo": 1522.9,
-  "divisional_rank": 27,
+  "divisional_rank": 12,
   "fight_count": 4,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1549.7,
       "red_name": "Jarred Brooks",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE Fight Night 24",
       "time": "4:39",
       "weight_class": "Strawweight"
     },
@@ -37,9 +39,11 @@
       "opponent_elo": 1464.0,
       "outcome": "red_win",
       "post_elo": 1549.7,
-      "pre_elo": 1535.3,
+      "pre_elo": 1535.4,
       "red_name": "Gustavo Balart",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 165",
       "time": "5:00",
       "weight_class": "Strawweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Alex Silva",
       "opponent_elo": 1502.2,
       "outcome": "red_win",
-      "post_elo": 1535.3,
+      "post_elo": 1535.4,
       "pre_elo": 1518.2,
       "red_name": "Gustavo Balart",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 162",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -74,12 +80,14 @@
       "is_title": false,
       "method": "Decision (unanimous)",
       "opponent": "Yosuke Saruta",
-      "opponent_elo": 1503.1,
+      "opponent_elo": 1503.6,
       "outcome": "red_win",
       "post_elo": 1518.2,
       "pre_elo": 1500.0,
       "red_name": "Gustavo Balart",
       "round": "3",
+      "source": "manual",
+      "source_title": "ONE 156",
       "time": "5:00",
       "weight_class": "Strawweight"
     }
@@ -97,14 +105,14 @@
     {
       "date": "2022-04-22",
       "fight_id": "87dadcb9fd9c77b6",
-      "rating": 1516.1,
+      "rating": 1516.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-10-21",
       "fight_id": "c9c20bcb2cc07593",
-      "rating": 1535.3,
+      "rating": 1535.4,
       "scope": "division",
       "system": "men:Strawweight"
     },
@@ -139,7 +147,7 @@
     {
       "date": "2024-08-03",
       "fight_id": "eee9108f6ddf305e",
-      "rating": 1525.6,
+      "rating": 1526.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -149,7 +157,7 @@
   "last_fight_date": "2024-08-03",
   "name": "Gustavo Balart",
   "nickname": "",
-  "overall_elo": 1520.3,
+  "overall_elo": 1521.1,
   "peak_elo": 1549.7,
   "slug": "gustavo-balart",
   "systems": {

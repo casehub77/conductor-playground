@@ -1,6 +1,6 @@
 {
-  "current_elo": 1452.2,
-  "divisional_rank": 698,
+  "current_elo": 1451.4,
+  "divisional_rank": 540,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Tony Laramie",
       "opponent_elo": 1518.0,
       "outcome": "red_win",
-      "post_elo": 1452.2,
-      "pre_elo": 1467.6,
+      "post_elo": 1451.4,
+      "pre_elo": 1466.8,
       "red_name": "Tony Laramie",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -27,19 +29,21 @@
       "blue_name": "Yutaro Muramoto",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2023-10-01",
-      "elo_delta": -17.2,
+      "elo_delta": -18.0,
       "event_name": "Rizin Landmark 6",
       "fight_id": "c4abe52f5eabd62a",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Rogério Bontorin",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1484.0,
       "outcome": "red_win",
-      "post_elo": 1467.6,
+      "post_elo": 1466.8,
       "pre_elo": 1484.9,
       "red_name": "Rogério Bontorin",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -60,6 +64,8 @@
       "pre_elo": 1503.9,
       "red_name": "Daichi Kitakata",
       "round": "3",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1483.6,
       "red_name": "Yutaro Muramoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
       "time": "2:37",
       "weight_class": "Flyweight"
     }
@@ -125,28 +133,28 @@
     {
       "date": "2023-10-01",
       "fight_id": "c4abe52f5eabd62a",
-      "rating": 1467.6,
+      "rating": 1466.8,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2023-10-01",
       "fight_id": "c4abe52f5eabd62a",
-      "rating": 1469.6,
+      "rating": 1468.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-11-17",
       "fight_id": "88ac9a7ead5d27b6",
-      "rating": 1452.2,
+      "rating": 1451.4,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2024-11-17",
       "fight_id": "88ac9a7ead5d27b6",
-      "rating": 1455.7,
+      "rating": 1455.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -156,7 +164,7 @@
   "last_fight_date": "2024-11-17",
   "name": "Yutaro Muramoto",
   "nickname": "",
-  "overall_elo": 1455.7,
+  "overall_elo": 1455.0,
   "peak_elo": 1503.9,
   "slug": "yutaro-muramoto",
   "systems": {

@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 841,
+  "divisional_rank": 838,
   "fight_count": 2,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1480.6,
       "red_name": "Charlie Rader",
       "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 28",
       "time": "1:14",
       "weight_class": "Welterweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Alex Karalexis",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:40",
       "weight_class": "Welterweight"
     }

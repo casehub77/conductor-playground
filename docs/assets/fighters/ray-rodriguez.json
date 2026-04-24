@@ -1,6 +1,6 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 885,
+  "divisional_rank": 807,
   "fight_count": 2,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Rani Yahya",
-      "opponent_elo": 1576.8,
+      "opponent_elo": 1577.0,
       "outcome": "red_win",
       "post_elo": 1469.1,
       "pre_elo": 1483.5,
       "red_name": "Rani Yahya",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:09",
       "weight_class": "Bantamweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Brian Kelleher",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:39",
       "weight_class": "Featherweight"
     }

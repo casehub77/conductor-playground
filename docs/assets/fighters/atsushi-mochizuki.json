@@ -1,25 +1,27 @@
 {
   "current_elo": 1500.0,
-  "divisional_rank": 823,
+  "divisional_rank": 818,
   "fight_count": 7,
   "fight_log": [
     {
       "blue_name": "Atsushi Mochizuki",
       "bout_type": "Open Weight Bout",
       "date": "2011-10-16",
-      "elo_delta": -15.1,
+      "elo_delta": -15.0,
       "event_name": "Shooto: Gig North 7",
       "fight_id": "c3cf2301f0a6de8d",
       "gender": "men",
       "is_title": false,
       "method": "Submission (Rear-Naked Choke)",
       "opponent": "Tatsuya Yamamoto",
-      "opponent_elo": 1542.5,
+      "opponent_elo": 1543.3,
       "outcome": "red_win",
-      "post_elo": 1447.7,
+      "post_elo": 1447.8,
       "pre_elo": 1462.8,
       "red_name": "Tatsuya Yamamoto",
       "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
       "time": "2:31",
       "weight_class": "Open Weight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1478.7,
       "red_name": "Tomokazu Sato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -57,9 +61,11 @@
       "opponent_elo": 1500.0,
       "outcome": "red_win",
       "post_elo": 1478.7,
-      "pre_elo": 1456.8,
+      "pre_elo": 1456.9,
       "red_name": "Atsushi Mochizuki",
       "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "0:38",
       "weight_class": "Open Weight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Keisuke Kurata",
       "opponent_elo": 1452.1,
       "outcome": "red_win",
-      "post_elo": 1456.8,
+      "post_elo": 1456.9,
       "pre_elo": 1476.1,
       "red_name": "Keisuke Kurata",
       "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -94,12 +102,14 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Kenichi Sawada",
-      "opponent_elo": 1411.6,
+      "opponent_elo": 1412.4,
       "outcome": "red_win",
       "post_elo": 1476.1,
       "pre_elo": 1498.5,
       "red_name": "Kenichi Sawada",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -120,6 +130,8 @@
       "pre_elo": 1517.4,
       "red_name": "Tomokazu Sato",
       "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1500.0,
       "red_name": "Atsushi Mochizuki",
       "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
       "time": "5:00",
       "weight_class": "Open Weight"
     }
@@ -192,14 +206,14 @@
     {
       "date": "2010-02-14",
       "fight_id": "962c0fc60cfaf6f8",
-      "rating": 1456.8,
+      "rating": 1456.9,
       "scope": "division",
       "system": "men:Open Weight"
     },
     {
       "date": "2010-02-14",
       "fight_id": "962c0fc60cfaf6f8",
-      "rating": 1462.1,
+      "rating": 1462.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -227,14 +241,14 @@
     {
       "date": "2010-08-29",
       "fight_id": "3f21577ce8c876e0",
-      "rating": 1466.9,
+      "rating": 1467.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2011-10-16",
       "fight_id": "c3cf2301f0a6de8d",
-      "rating": 1447.7,
+      "rating": 1447.8,
       "scope": "division",
       "system": "men:Open Weight"
     },

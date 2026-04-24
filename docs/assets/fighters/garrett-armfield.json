@@ -1,6 +1,6 @@
 {
-  "current_elo": 1482.1,
-  "divisional_rank": 1008,
+  "current_elo": 1482.2,
+  "divisional_rank": 904,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,12 @@
       "opponent": "Serhiy Sidey",
       "opponent_elo": 1482.0,
       "outcome": "red_win",
-      "post_elo": 1482.1,
-      "pre_elo": 1501.1,
+      "post_elo": 1482.2,
+      "pre_elo": 1501.2,
       "red_name": "Serhiy Sidey",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Brady Hiestand",
       "opponent_elo": 1520.3,
       "outcome": "red_win",
-      "post_elo": 1501.1,
-      "pre_elo": 1520.6,
+      "post_elo": 1501.2,
+      "pre_elo": 1520.7,
       "red_name": "Brady Hiestand",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:52",
       "weight_class": "Bantamweight"
     },
@@ -47,19 +51,21 @@
       "blue_name": "Garrett Armfield",
       "bout_type": "Bantamweight Bout",
       "date": "2024-01-20",
-      "elo_delta": 18.4,
+      "elo_delta": 18.5,
       "event_name": "UFC 297: Strickland vs. Du Plessis",
       "fight_id": "e43a44f67c3bae8e",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Brad Katona",
-      "opponent_elo": 1510.2,
+      "opponent_elo": 1512.4,
       "outcome": "blue_win",
-      "post_elo": 1520.6,
+      "post_elo": 1520.7,
       "pre_elo": 1502.1,
       "red_name": "Brad Katona",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
     },
@@ -80,6 +86,8 @@
       "pre_elo": 1482.8,
       "red_name": "Toshiomi Kazama",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:16",
       "weight_class": "Bantamweight"
     },
@@ -100,6 +108,8 @@
       "pre_elo": 1500.0,
       "red_name": "David Onama",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "3:13",
       "weight_class": "Featherweight"
     }
@@ -138,42 +148,42 @@
     {
       "date": "2024-01-20",
       "fight_id": "e43a44f67c3bae8e",
-      "rating": 1520.6,
+      "rating": 1520.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-01-20",
       "fight_id": "e43a44f67c3bae8e",
-      "rating": 1516.6,
+      "rating": 1516.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-06-15",
       "fight_id": "3331780f21609dab",
-      "rating": 1501.1,
+      "rating": 1501.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-06-15",
       "fight_id": "3331780f21609dab",
-      "rating": 1499.4,
+      "rating": 1499.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-11-02",
       "fight_id": "596b18f7e814d297",
-      "rating": 1482.1,
+      "rating": 1482.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-11-02",
       "fight_id": "596b18f7e814d297",
-      "rating": 1482.7,
+      "rating": 1482.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -183,8 +193,8 @@
   "last_fight_date": "2024-11-02",
   "name": "Garrett Armfield",
   "nickname": "",
-  "overall_elo": 1482.7,
-  "peak_elo": 1520.6,
+  "overall_elo": 1482.8,
+  "peak_elo": 1520.7,
   "slug": "garrett-armfield",
   "systems": {
     "division": "men:Bantamweight",

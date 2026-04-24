@@ -1,6 +1,6 @@
 {
-  "current_elo": 1628.6,
-  "divisional_rank": 13,
+  "current_elo": 1628.8,
+  "divisional_rank": 14,
   "fight_count": 14,
   "fight_log": [
     {
@@ -14,12 +14,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Manuel Torres",
-      "opponent_elo": 1557.4,
+      "opponent_elo": 1557.6,
       "outcome": "blue_win",
-      "post_elo": 1628.6,
-      "pre_elo": 1653.3,
+      "post_elo": 1628.8,
+      "pre_elo": 1653.5,
       "red_name": "Grant Dawson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:25",
       "weight_class": "Lightweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Diego Ferreira",
       "opponent_elo": 1601.2,
       "outcome": "red_win",
-      "post_elo": 1653.3,
-      "pre_elo": 1637.1,
+      "post_elo": 1653.5,
+      "pre_elo": 1637.4,
       "red_name": "Grant Dawson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Rafa Garcia",
       "opponent_elo": 1530.0,
       "outcome": "red_win",
-      "post_elo": 1637.1,
-      "pre_elo": 1622.8,
+      "post_elo": 1637.4,
+      "pre_elo": 1623.0,
       "red_name": "Grant Dawson",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:42",
       "weight_class": "Lightweight"
     },
@@ -76,10 +82,12 @@
       "opponent": "Joe Solecki",
       "opponent_elo": 1551.2,
       "outcome": "red_win",
-      "post_elo": 1622.8,
-      "pre_elo": 1607.7,
+      "post_elo": 1623.0,
+      "pre_elo": 1607.9,
       "red_name": "Grant Dawson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -87,19 +95,21 @@
       "blue_name": "King Green",
       "bout_type": "Lightweight Bout",
       "date": "2023-10-07",
-      "elo_delta": -23.3,
+      "elo_delta": -23.1,
       "event_name": "UFC Fight Night: Dawson vs. Green",
       "fight_id": "da8032570ccb8462",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "King Green",
-      "opponent_elo": 1561.4,
+      "opponent_elo": 1565.5,
       "outcome": "blue_win",
-      "post_elo": 1607.7,
+      "post_elo": 1607.9,
       "pre_elo": 1631.0,
       "red_name": "Grant Dawson",
       "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "0:33",
       "weight_class": "Lightweight"
     },
@@ -114,12 +124,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Damir Ismagulov",
-      "opponent_elo": 1564.1,
+      "opponent_elo": 1564.3,
       "outcome": "blue_win",
       "post_elo": 1631.0,
       "pre_elo": 1615.6,
       "red_name": "Damir Ismagulov",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -140,6 +152,8 @@
       "pre_elo": 1597.4,
       "red_name": "Grant Dawson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:05",
       "weight_class": "Lightweight"
     },
@@ -160,6 +174,8 @@
       "pre_elo": 1581.4,
       "red_name": "Jared Gordon",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:11",
       "weight_class": "Lightweight"
     },
@@ -177,9 +193,11 @@
       "opponent_elo": 1508.0,
       "outcome": "draw",
       "post_elo": 1581.4,
-      "pre_elo": 1585.3,
+      "pre_elo": 1585.4,
       "red_name": "Grant Dawson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
     },
@@ -194,12 +212,14 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Leonardo Santos",
-      "opponent_elo": 1610.8,
+      "opponent_elo": 1611.2,
       "outcome": "blue_win",
-      "post_elo": 1585.3,
+      "post_elo": 1585.4,
       "pre_elo": 1563.3,
       "red_name": "Leonardo Santos",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "4:59",
       "weight_class": "Lightweight"
     },
@@ -220,6 +240,8 @@
       "pre_elo": 1555.4,
       "red_name": "Grant Dawson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"
     },
@@ -240,6 +262,8 @@
       "pre_elo": 1538.1,
       "red_name": "Grant Dawson",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "1:38",
       "weight_class": "Featherweight"
     },
@@ -260,6 +284,8 @@
       "pre_elo": 1517.9,
       "red_name": "Michael Trizano",
       "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "2:27",
       "weight_class": "Featherweight"
     },
@@ -280,6 +306,8 @@
       "pre_elo": 1500.0,
       "red_name": "Grant Dawson",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
     }
@@ -346,7 +374,7 @@
     {
       "date": "2021-03-20",
       "fight_id": "75f3ee66456133a5",
-      "rating": 1585.3,
+      "rating": 1585.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
@@ -409,77 +437,77 @@
     {
       "date": "2023-07-01",
       "fight_id": "85f3e3cf92287e66",
-      "rating": 1624.8,
+      "rating": 1624.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-10-07",
       "fight_id": "da8032570ccb8462",
-      "rating": 1607.7,
+      "rating": 1607.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-10-07",
       "fight_id": "da8032570ccb8462",
-      "rating": 1604.1,
+      "rating": 1604.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-06-01",
       "fight_id": "9b290ed87ca0356e",
+      "rating": 1623.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-06-01",
+      "fight_id": "9b290ed87ca0356e",
+      "rating": 1617.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "1709e5387d426b7e",
+      "rating": 1637.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2024-10-12",
+      "fight_id": "1709e5387d426b7e",
+      "rating": 1630.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "85abb3017785ee6d",
+      "rating": 1653.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-01-18",
+      "fight_id": "85abb3017785ee6d",
+      "rating": 1644.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "4f124cb0daef14b5",
+      "rating": 1628.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-12-06",
+      "fight_id": "4f124cb0daef14b5",
       "rating": 1622.8,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2024-06-01",
-      "fight_id": "9b290ed87ca0356e",
-      "rating": 1617.5,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2024-10-12",
-      "fight_id": "1709e5387d426b7e",
-      "rating": 1637.1,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2024-10-12",
-      "fight_id": "1709e5387d426b7e",
-      "rating": 1630.3,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2025-01-18",
-      "fight_id": "85abb3017785ee6d",
-      "rating": 1653.3,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2025-01-18",
-      "fight_id": "85abb3017785ee6d",
-      "rating": 1644.5,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2025-12-06",
-      "fight_id": "4f124cb0daef14b5",
-      "rating": 1628.6,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2025-12-06",
-      "fight_id": "4f124cb0daef14b5",
-      "rating": 1622.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -489,8 +517,8 @@
   "last_fight_date": "2025-12-06",
   "name": "Grant Dawson",
   "nickname": "",
-  "overall_elo": 1622.7,
-  "peak_elo": 1653.3,
+  "overall_elo": 1622.8,
+  "peak_elo": 1653.5,
   "slug": "grant-dawson",
   "systems": {
     "division": "men:Lightweight",

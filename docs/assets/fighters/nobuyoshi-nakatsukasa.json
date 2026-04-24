@@ -1,25 +1,27 @@
 {
-  "current_elo": 1470.9,
-  "divisional_rank": 169,
+  "current_elo": 1470.2,
+  "divisional_rank": 80,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Nobuyoshi Nakatsukasa",
       "bout_type": "Strawweight 53 kg Bout",
       "date": "2025-03-30",
-      "elo_delta": -13.5,
+      "elo_delta": -14.2,
       "event_name": "Rizin 50",
       "fight_id": "16014a6ac38610f1",
       "gender": "men",
       "is_title": false,
       "method": "Submission (guillotine choke)",
       "opponent": "Haruo Ochi",
-      "opponent_elo": 1594.3,
+      "opponent_elo": 1581.3,
       "outcome": "red_win",
-      "post_elo": 1470.9,
+      "post_elo": 1470.2,
       "pre_elo": 1484.4,
       "red_name": "Haruo Ochi",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
       "time": "1:22",
       "weight_class": "Strawweight"
     },
@@ -40,6 +42,8 @@
       "pre_elo": 1500.0,
       "red_name": "Takaki Soya",
       "round": "2",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
       "time": "3:29",
       "weight_class": "Flyweight"
     }
@@ -64,14 +68,14 @@
     {
       "date": "2025-03-30",
       "fight_id": "16014a6ac38610f1",
-      "rating": 1470.9,
+      "rating": 1470.2,
       "scope": "division",
       "system": "men:Strawweight"
     },
     {
       "date": "2025-03-30",
       "fight_id": "16014a6ac38610f1",
-      "rating": 1472.9,
+      "rating": 1472.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -81,7 +85,7 @@
   "last_fight_date": "2025-03-30",
   "name": "Nobuyoshi Nakatsukasa",
   "nickname": "",
-  "overall_elo": 1472.9,
+  "overall_elo": 1472.3,
   "peak_elo": 1500.0,
   "slug": "nobuyoshi-nakatsukasa",
   "systems": {

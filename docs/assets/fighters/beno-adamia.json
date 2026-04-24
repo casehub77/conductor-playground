@@ -1,13 +1,13 @@
 {
-  "current_elo": 1525.9,
-  "divisional_rank": 102,
+  "current_elo": 1526.0,
+  "divisional_rank": 73,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Beno Adamia",
       "bout_type": "Flyweight Bout",
       "date": "2025-06-28",
-      "elo_delta": -23.2,
+      "elo_delta": -23.3,
       "event_name": "Oktagon 73: Eckerlin vs. Pukač",
       "fight_id": "1820e43f8b2c484b",
       "gender": "men",
@@ -16,10 +16,12 @@
       "opponent": "Zhalgas Zhumagulov",
       "opponent_elo": 1444.9,
       "outcome": "red_win",
-      "post_elo": 1525.9,
-      "pre_elo": 1549.1,
+      "post_elo": 1526.0,
+      "pre_elo": 1549.2,
       "red_name": "Zhalgas Zhumagulov",
       "round": "5",
+      "source": "manual",
+      "source_title": "2025 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -36,10 +38,12 @@
       "opponent": "Sam Creasey",
       "opponent_elo": 1517.9,
       "outcome": "red_win",
-      "post_elo": 1549.1,
-      "pre_elo": 1531.9,
+      "post_elo": 1549.2,
+      "pre_elo": 1532.0,
       "red_name": "Beno Adamia",
       "round": "3",
+      "source": "manual",
+      "source_title": "2025 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -56,10 +60,12 @@
       "opponent": "Stipe Brčić",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1531.9,
-      "pre_elo": 1514.6,
+      "post_elo": 1532.0,
+      "pre_elo": 1514.7,
       "red_name": "Beno Adamia",
       "round": "3",
+      "source": "manual",
+      "source_title": "2024 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Flyweight"
     },
@@ -67,19 +73,21 @@
       "blue_name": "Gustavo Lopez",
       "bout_type": "Bantamweight Bout",
       "date": "2023-10-07",
-      "elo_delta": 16.4,
+      "elo_delta": 16.5,
       "event_name": "Oktagon 47: Vémola vs. Langer",
       "fight_id": "cf3d4e30706d9305",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
       "opponent": "Gustavo Lopez",
-      "opponent_elo": 1468.4,
+      "opponent_elo": 1470.6,
       "outcome": "red_win",
-      "post_elo": 1516.4,
+      "post_elo": 1516.5,
       "pre_elo": 1500.0,
       "red_name": "Beno Adamia",
       "round": "3",
+      "source": "manual",
+      "source_title": "2023 in Oktagon MMA",
       "time": "5:00",
       "weight_class": "Bantamweight"
     }
@@ -90,56 +98,56 @@
     {
       "date": "2023-10-07",
       "fight_id": "cf3d4e30706d9305",
-      "rating": 1516.4,
+      "rating": 1516.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2023-10-07",
       "fight_id": "cf3d4e30706d9305",
-      "rating": 1514.6,
+      "rating": 1514.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-05-04",
       "fight_id": "dbd5ab73bd27bec3",
-      "rating": 1531.9,
+      "rating": 1532.0,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2024-05-04",
       "fight_id": "dbd5ab73bd27bec3",
-      "rating": 1529.9,
+      "rating": 1530.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-02-22",
       "fight_id": "ec3c28f117aafc39",
-      "rating": 1549.1,
+      "rating": 1549.2,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-02-22",
       "fight_id": "ec3c28f117aafc39",
-      "rating": 1545.3,
+      "rating": 1545.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-06-28",
       "fight_id": "1820e43f8b2c484b",
-      "rating": 1525.9,
+      "rating": 1526.0,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-06-28",
       "fight_id": "1820e43f8b2c484b",
-      "rating": 1525.0,
+      "rating": 1525.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -149,8 +157,8 @@
   "last_fight_date": "2025-06-28",
   "name": "Beno Adamia",
   "nickname": "",
-  "overall_elo": 1525.0,
-  "peak_elo": 1549.1,
+  "overall_elo": 1525.1,
+  "peak_elo": 1549.2,
   "slug": "beno-adamia",
   "systems": {
     "division": "men:Flyweight",

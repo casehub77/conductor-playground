@@ -1,6 +1,6 @@
 {
   "current_elo": 1511.9,
-  "divisional_rank": 92,
+  "divisional_rank": 89,
   "fight_count": 3,
   "fight_log": [
     {
@@ -20,6 +20,8 @@
       "pre_elo": 1511.1,
       "red_name": "Kennedy Nzechukwu",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -34,12 +36,14 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Martin Buday",
-      "opponent_elo": 1574.9,
+      "opponent_elo": 1575.0,
       "outcome": "red_win",
       "post_elo": 1511.1,
       "pre_elo": 1526.6,
       "red_name": "Martin Buday",
       "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
       "time": "5:00",
       "weight_class": "Heavyweight"
     },
@@ -54,12 +58,14 @@
       "is_title": false,
       "method": "Submission (rear-naked choke)",
       "opponent": "Amir Aliakbari",
-      "opponent_elo": 1633.8,
+      "opponent_elo": 1633.9,
       "outcome": "red_win",
       "post_elo": 1526.6,
       "pre_elo": 1500.0,
       "red_name": "Marcus Buchecha",
       "round": "1",
+      "source": "manual",
+      "source_title": "ONE 169",
       "time": "3:15",
       "weight_class": "Heavyweight"
     }
