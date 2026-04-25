@@ -2,14 +2,38 @@
   "title": "Track Fights",
   "description": "Independent MMA fighter ratings and fight history tracking built from public fight result data, with fallback ingestion and manual overrides.",
   "ad_network": {
-    "provider": "",
-    "enabled": false,
-    "script_url": "",
-    "client": "",
+    "provider": "adsense",
+    "enabled": true,
+    "script_url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    "client": "ca-pub-4172826624153359",
     "auto_ads": false
   },
   "ad_slots": {
     "home_top": {
+      "label": "Leaderboard",
+      "format": "leaderboard",
+      "width": 970,
+      "height": 90,
+      "responsive": true,
+      "slot_id": ""
+    },
+    "fighters_top": {
+      "label": "Leaderboard",
+      "format": "leaderboard",
+      "width": 970,
+      "height": 90,
+      "responsive": true,
+      "slot_id": ""
+    },
+    "rankings_top": {
+      "label": "Leaderboard",
+      "format": "leaderboard",
+      "width": 970,
+      "height": 90,
+      "responsive": true,
+      "slot_id": ""
+    },
+    "champions_top": {
       "label": "Leaderboard",
       "format": "leaderboard",
       "width": 970,

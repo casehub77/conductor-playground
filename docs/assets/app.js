@@ -316,6 +316,7 @@ function signed(value) {
 async function renderFighters() {
   const fighters = await loadJson("fighter-index.json");
   app.innerHTML = `
+    ${adSlot("fighters_top")}
     <section class="band">
       ${sectionHeader("All Fighters")}
       <div class="search-wrap">
@@ -330,6 +331,7 @@ async function renderRankings() {
   const data = await loadJson("rankings-index.json");
   const systems = data.systems.filter((system) => !system.endsWith(":overall"));
   app.innerHTML = `
+    ${adSlot("rankings_top")}
     <section class="band">
       ${sectionHeader("Rankings")}
       <label class="select-label">Division
@@ -393,6 +395,7 @@ async function renderChampions() {
   const lineage = data.title_lineage || {};
   const lineageSystems = Object.keys(lineage).sort();
   app.innerHTML = `
+    ${adSlot("champions_top")}
     <section class="band">
       ${sectionHeader("Title History")}
       <p class="muted">Derived from title bouts in the source data. Use <code>overrides/champion_overrides.csv</code> for manual fixes.</p>
