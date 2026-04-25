@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1489.8,
+  "current_elo": 1489.7,
   "days_since_last_fight": 28,
-  "divisional_rank": 1019,
+  "divisional_rank": 631,
   "fight_count": 3,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Luke Riley",
       "opponent_elo": 1570.3,
       "outcome": "red_win",
-      "post_elo": 1489.8,
-      "pre_elo": 1504.4,
+      "post_elo": 1489.7,
+      "pre_elo": 1504.3,
       "red_name": "Luke Riley",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Michael Aswell Jr.",
       "bout_type": "Featherweight Bout",
       "date": "2025-10-11",
-      "elo_delta": 20.5,
+      "elo_delta": 20.3,
       "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
       "fight_id": "19ee83d8b7e4e661",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Lucas Almeida",
-      "opponent_elo": 1502.9,
+      "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1504.4,
+      "post_elo": 1504.3,
       "pre_elo": 1483.9,
       "red_name": "Lucas Almeida",
       "round": "1.0",
@@ -92,28 +92,28 @@
     {
       "date": "2025-10-11",
       "fight_id": "19ee83d8b7e4e661",
-      "rating": 1504.4,
+      "rating": 1504.3,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-10-11",
       "fight_id": "19ee83d8b7e4e661",
-      "rating": 1502.1,
+      "rating": 1502.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-03-21",
       "fight_id": "a7b455948832d065",
-      "rating": 1489.8,
+      "rating": 1489.7,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2026-03-21",
       "fight_id": "a7b455948832d065",
-      "rating": 1488.9,
+      "rating": 1488.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2026-03-21",
   "name": "Michael Aswell Jr.",
   "nickname": "",
-  "overall_elo": 1488.9,
-  "peak_elo": 1504.4,
-  "raw_current_elo": 1489.8,
-  "raw_overall_elo": 1488.9,
+  "overall_elo": 1488.8,
+  "peak_elo": 1504.3,
+  "raw_current_elo": 1489.7,
+  "raw_overall_elo": 1488.8,
   "slug": "michael-aswell-jr",
   "systems": {
     "division": "men:Featherweight",

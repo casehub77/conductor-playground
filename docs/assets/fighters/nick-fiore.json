@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1500.0,
+  "current_elo": 1499.6,
   "days_since_last_fight": 1064,
-  "divisional_rank": 1092,
+  "divisional_rank": 595,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Nick Fiore",
       "bout_type": "Lightweight Bout",
       "date": "2023-05-20",
-      "elo_delta": -17.2,
+      "elo_delta": -17.9,
       "event_name": "UFC Fight Night: Dern vs. Hill",
       "fight_id": "71986a9dfe002968",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Chase Hooper",
-      "opponent_elo": 1497.2,
+      "opponent_elo": 1484.4,
       "outcome": "red_win",
-      "post_elo": 1464.8,
+      "post_elo": 1464.1,
       "pre_elo": 1482.0,
       "red_name": "Chase Hooper",
       "round": "3.0",
@@ -70,14 +70,14 @@
     {
       "date": "2023-05-20",
       "fight_id": "71986a9dfe002968",
-      "rating": 1464.8,
+      "rating": 1464.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-05-20",
       "fight_id": "71986a9dfe002968",
-      "rating": 1468.6,
+      "rating": 1468.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1464.8,
-  "raw_overall_elo": 1468.6,
+  "raw_current_elo": 1464.1,
+  "raw_overall_elo": 1468.0,
   "slug": "nick-fiore",
   "systems": {
     "division": "men:Lightweight",

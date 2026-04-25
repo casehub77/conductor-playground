@@ -1,24 +1,24 @@
 {
   "activity_status": "active",
-  "current_elo": 1499.2,
+  "current_elo": 1499.1,
   "days_since_last_fight": 77,
-  "divisional_rank": 916,
+  "divisional_rank": 354,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Torrez Finney",
       "bout_type": "Middleweight Bout",
       "date": "2026-01-31",
-      "elo_delta": -17.7,
+      "elo_delta": -17.9,
       "event_name": "UFC 325: Volkanovski vs. Lopes 2",
       "fight_id": "9e0d0c31b28652b0",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Jacob Malkoun",
-      "opponent_elo": 1521.9,
+      "opponent_elo": 1519.3,
       "outcome": "red_win",
-      "post_elo": 1499.2,
+      "post_elo": 1499.1,
       "pre_elo": 1517.0,
       "red_name": "Jacob Malkoun",
       "round": "3.0",
@@ -70,14 +70,14 @@
     {
       "date": "2026-01-31",
       "fight_id": "9e0d0c31b28652b0",
-      "rating": 1499.2,
+      "rating": 1499.1,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2026-01-31",
       "fight_id": "9e0d0c31b28652b0",
-      "rating": 1499.4,
+      "rating": 1499.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,10 +89,10 @@
   "last_fight_date": "2026-01-31",
   "name": "Torrez Finney",
   "nickname": "",
-  "overall_elo": 1499.4,
+  "overall_elo": 1499.3,
   "peak_elo": 1517.0,
-  "raw_current_elo": 1499.2,
-  "raw_overall_elo": 1499.4,
+  "raw_current_elo": 1499.1,
+  "raw_overall_elo": 1499.3,
   "slug": "torrez-finney",
   "systems": {
     "division": "men:Middleweight",

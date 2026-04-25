@@ -2,7 +2,7 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1226,
-  "divisional_rank": 539,
+  "divisional_rank": 253,
   "fight_count": 4,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "KO (punch)",
       "opponent": "Michael Lombardo",
-      "opponent_elo": 1483.7,
+      "opponent_elo": 1483.8,
       "outcome": "red_win",
-      "post_elo": 1456.0,
-      "pre_elo": 1475.0,
+      "post_elo": 1457.7,
+      "pre_elo": 1476.7,
       "red_name": "Michael Lombardo",
       "round": "1",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Mark Lemminger",
       "bout_type": "Welterweight Bout",
       "date": "2022-05-13",
-      "elo_delta": -22.0,
+      "elo_delta": -20.2,
       "event_name": "Bellator 281: MVP vs. Storley",
       "fight_id": "72b6a163b8e621d6",
       "gender": "men",
       "is_title": false,
       "method": "Submission (inverted triangle)",
       "opponent": "Oliver Enkamp",
-      "opponent_elo": 1451.4,
+      "opponent_elo": 1482.9,
       "outcome": "red_win",
-      "post_elo": 1475.0,
+      "post_elo": 1476.7,
       "pre_elo": 1497.0,
       "red_name": "Oliver Enkamp",
       "round": "3",
@@ -128,28 +128,28 @@
     {
       "date": "2022-05-13",
       "fight_id": "72b6a163b8e621d6",
-      "rating": 1475.0,
+      "rating": 1476.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-05-13",
       "fight_id": "72b6a163b8e621d6",
-      "rating": 1478.3,
+      "rating": 1479.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-12-09",
       "fight_id": "3ebd1debb4fb73a1",
-      "rating": 1456.0,
+      "rating": 1457.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-12-09",
       "fight_id": "3ebd1debb4fb73a1",
-      "rating": 1461.3,
+      "rating": 1462.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -163,8 +163,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1518.4,
-  "raw_current_elo": 1456.0,
-  "raw_overall_elo": 1461.3,
+  "raw_current_elo": 1457.7,
+  "raw_overall_elo": 1462.7,
   "slug": "mark-lemminger",
   "systems": {
     "division": "men:Welterweight",

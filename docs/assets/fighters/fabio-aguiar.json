@@ -2,14 +2,14 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1296,
-  "divisional_rank": 562,
+  "divisional_rank": 236,
   "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Fabio Aguiar",
       "bout_type": "Middleweight Bout",
       "date": "2022-09-30",
-      "elo_delta": -16.6,
+      "elo_delta": -16.5,
       "event_name": "Legacy Fighting Alliance 143: Lopes vs. Paiva",
       "fight_id": "bdffa25e26d398f8",
       "gender": "men",
@@ -18,8 +18,8 @@
       "opponent": "Lucas Fernando",
       "opponent_elo": 1536.4,
       "outcome": "red_win",
-      "post_elo": 1468.4,
-      "pre_elo": 1485.0,
+      "post_elo": 1467.6,
+      "pre_elo": 1484.2,
       "red_name": "Lucas Fernando",
       "round": "1",
       "source": "manual",
@@ -40,8 +40,8 @@
       "opponent": "Aaron Jeffery",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1485.0,
-      "pre_elo": 1504.7,
+      "post_elo": 1484.2,
+      "pre_elo": 1503.8,
       "red_name": "Aaron Jeffery",
       "round": "2",
       "source": "manual",
@@ -62,8 +62,8 @@
       "opponent": "Taylor Johnson",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1504.7,
-      "pre_elo": 1484.9,
+      "post_elo": 1503.8,
+      "pre_elo": 1484.0,
       "red_name": "Fabio Aguiar",
       "round": "3",
       "source": "manual",
@@ -78,49 +78,49 @@
     {
       "date": "2021-04-02",
       "fight_id": "cc09daae527deee6",
-      "rating": 1484.9,
+      "rating": 1484.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-08-20",
       "fight_id": "b25a6d6a3ba0fe94",
-      "rating": 1504.7,
+      "rating": 1503.8,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2021-08-20",
       "fight_id": "b25a6d6a3ba0fe94",
-      "rating": 1502.4,
+      "rating": 1501.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-06-24",
       "fight_id": "b2777607a87daced",
-      "rating": 1485.0,
+      "rating": 1484.2,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2022-06-24",
       "fight_id": "b2777607a87daced",
-      "rating": 1485.0,
+      "rating": 1484.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-09-30",
       "fight_id": "bdffa25e26d398f8",
-      "rating": 1468.4,
+      "rating": 1467.6,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2022-09-30",
       "fight_id": "bdffa25e26d398f8",
-      "rating": 1470.1,
+      "rating": 1469.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -133,9 +133,9 @@
   "name": "Fabio Aguiar",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1504.7,
-  "raw_current_elo": 1468.4,
-  "raw_overall_elo": 1470.1,
+  "peak_elo": 1503.8,
+  "raw_current_elo": 1467.6,
+  "raw_overall_elo": 1469.3,
   "slug": "fabio-aguiar",
   "systems": {
     "division": "men:Middleweight",

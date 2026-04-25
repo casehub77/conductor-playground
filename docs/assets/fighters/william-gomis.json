@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1570.8,
+  "current_elo": 1570.7,
   "days_since_last_fight": 224,
-  "divisional_rank": 39,
+  "divisional_rank": 25,
   "fight_count": 6,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Robert Ruchala",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1570.8,
-      "pre_elo": 1555.7,
+      "post_elo": 1570.7,
+      "pre_elo": 1555.5,
       "red_name": "William Gomis",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -40,8 +40,8 @@
       "opponent": "Hyder Amil",
       "opponent_elo": 1586.2,
       "outcome": "red_win",
-      "post_elo": 1555.7,
-      "pre_elo": 1573.0,
+      "post_elo": 1555.5,
+      "pre_elo": 1572.8,
       "red_name": "Hyder Amil",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -53,16 +53,16 @@
       "blue_name": "Joanderson Brito",
       "bout_type": "Featherweight Bout",
       "date": "2024-09-28",
-      "elo_delta": 19.5,
+      "elo_delta": 19.4,
       "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
       "fight_id": "9f220f15e5994896",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Joanderson Brito",
-      "opponent_elo": 1583.2,
+      "opponent_elo": 1579.9,
       "outcome": "red_win",
-      "post_elo": 1573.0,
+      "post_elo": 1572.8,
       "pre_elo": 1553.4,
       "red_name": "William Gomis",
       "round": "3.0",
@@ -186,42 +186,42 @@
     {
       "date": "2024-09-28",
       "fight_id": "9f220f15e5994896",
-      "rating": 1573.0,
+      "rating": 1572.8,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2024-09-28",
       "fight_id": "9f220f15e5994896",
-      "rating": 1564.9,
+      "rating": 1564.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-03-01",
       "fight_id": "2a14d931807179ed",
-      "rating": 1555.7,
+      "rating": 1555.5,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-03-01",
       "fight_id": "2a14d931807179ed",
-      "rating": 1549.5,
+      "rating": 1549.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-09-06",
       "fight_id": "1638e2529b2a492a",
-      "rating": 1570.8,
+      "rating": 1570.7,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-09-06",
       "fight_id": "1638e2529b2a492a",
-      "rating": 1563.2,
+      "rating": 1563.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -233,10 +233,10 @@
   "last_fight_date": "2025-09-06",
   "name": "William Gomis",
   "nickname": "",
-  "overall_elo": 1563.2,
-  "peak_elo": 1573.0,
-  "raw_current_elo": 1570.8,
-  "raw_overall_elo": 1563.2,
+  "overall_elo": 1563.1,
+  "peak_elo": 1572.8,
+  "raw_current_elo": 1570.7,
+  "raw_overall_elo": 1563.1,
   "slug": "william-gomis",
   "systems": {
     "division": "men:Featherweight",

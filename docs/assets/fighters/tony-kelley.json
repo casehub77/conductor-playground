@@ -2,7 +2,7 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1400,
-  "divisional_rank": 367,
+  "divisional_rank": 259,
   "fight_count": 4,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Adrian Yanez",
-      "opponent_elo": 1571.9,
+      "opponent_elo": 1572.5,
       "outcome": "red_win",
-      "post_elo": 1504.5,
-      "pre_elo": 1521.1,
+      "post_elo": 1504.7,
+      "pre_elo": 1521.2,
       "red_name": "Adrian Yanez",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Tony Kelley",
       "bout_type": "Bantamweight Bout",
       "date": "2021-12-11",
-      "elo_delta": 19.3,
+      "elo_delta": 19.4,
       "event_name": "UFC 269: Oliveira vs. Poirier",
       "fight_id": "2823f3d56aeb1c6e",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Randy Costa",
-      "opponent_elo": 1498.9,
+      "opponent_elo": 1501.0,
       "outcome": "blue_win",
-      "post_elo": 1521.1,
+      "post_elo": 1521.2,
       "pre_elo": 1501.9,
       "red_name": "Randy Costa",
       "round": "2.0",
@@ -128,28 +128,28 @@
     {
       "date": "2021-12-11",
       "fight_id": "2823f3d56aeb1c6e",
-      "rating": 1521.1,
+      "rating": 1521.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-12-11",
       "fight_id": "2823f3d56aeb1c6e",
-      "rating": 1517.2,
+      "rating": 1517.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-06-18",
       "fight_id": "8cae55ee666da6f2",
-      "rating": 1504.5,
+      "rating": 1504.7,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-06-18",
       "fight_id": "8cae55ee666da6f2",
-      "rating": 1502.2,
+      "rating": 1502.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -162,9 +162,9 @@
   "name": "Tony Kelley",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1521.1,
-  "raw_current_elo": 1504.5,
-  "raw_overall_elo": 1502.2,
+  "peak_elo": 1521.2,
+  "raw_current_elo": 1504.7,
+  "raw_overall_elo": 1502.4,
   "slug": "tony-kelley",
   "systems": {
     "division": "men:Bantamweight",

@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1526.3,
+  "current_elo": 1526.1,
   "days_since_last_fight": 259,
-  "divisional_rank": 61,
+  "divisional_rank": 47,
   "fight_count": 5,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Ben Tynan",
       "opponent_elo": 1556.2,
       "outcome": "red_win",
-      "post_elo": 1526.3,
-      "pre_elo": 1505.7,
+      "post_elo": 1526.1,
+      "pre_elo": 1505.5,
       "red_name": "Kirill Grishenko",
       "round": "3",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Mauro Cerilli",
       "bout_type": "Heavyweight Bout",
       "date": "2025-02-20",
-      "elo_delta": 20.5,
+      "elo_delta": 20.3,
       "event_name": "ONE 171: Qatar",
       "fight_id": "8cd82410e571a5b0",
       "gender": "men",
       "is_title": false,
       "method": "TKO (leg kick)",
       "opponent": "Mauro Cerilli",
-      "opponent_elo": 1504.9,
+      "opponent_elo": 1501.1,
       "outcome": "red_win",
-      "post_elo": 1505.7,
+      "post_elo": 1505.5,
       "pre_elo": 1485.2,
       "red_name": "Kirill Grishenko",
       "round": "1",
@@ -164,28 +164,28 @@
     {
       "date": "2025-02-20",
       "fight_id": "8cd82410e571a5b0",
-      "rating": 1505.7,
+      "rating": 1505.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2025-02-20",
       "fight_id": "8cd82410e571a5b0",
-      "rating": 1504.4,
+      "rating": 1504.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-08-02",
       "fight_id": "8cb1d9df8cef7e50",
-      "rating": 1526.3,
+      "rating": 1526.1,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2025-08-02",
       "fight_id": "8cb1d9df8cef7e50",
-      "rating": 1522.5,
+      "rating": 1522.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -197,10 +197,10 @@
   "last_fight_date": "2025-08-02",
   "name": "Kirill Grishenko",
   "nickname": "",
-  "overall_elo": 1522.5,
-  "peak_elo": 1526.3,
-  "raw_current_elo": 1526.3,
-  "raw_overall_elo": 1522.5,
+  "overall_elo": 1522.4,
+  "peak_elo": 1526.1,
+  "raw_current_elo": 1526.1,
+  "raw_overall_elo": 1522.4,
   "slug": "kirill-grishenko",
   "systems": {
     "division": "men:Heavyweight",

@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1135,
-  "divisional_rank": 594,
+  "divisional_rank": 373,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Erik Pérez",
       "bout_type": "Featherweight Bout",
       "date": "2023-03-10",
-      "elo_delta": -18.0,
+      "elo_delta": -19.0,
       "event_name": "Bellator 292: Nurmagomedov vs. Henderson",
       "fight_id": "e6f51c02a2311898",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
       "opponent": "Enrique Barzola",
-      "opponent_elo": 1515.1,
+      "opponent_elo": 1496.3,
       "outcome": "red_win",
-      "post_elo": 1498.0,
+      "post_elo": 1497.0,
       "pre_elo": 1516.0,
       "red_name": "Enrique Barzola",
       "round": "3",
@@ -70,14 +70,14 @@
     {
       "date": "2023-03-10",
       "fight_id": "e6f51c02a2311898",
-      "rating": 1498.0,
+      "rating": 1497.0,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2023-03-10",
       "fight_id": "e6f51c02a2311898",
-      "rating": 1499.9,
+      "rating": 1499.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1518.0,
-  "raw_current_elo": 1498.0,
-  "raw_overall_elo": 1499.9,
+  "raw_current_elo": 1497.0,
+  "raw_overall_elo": 1499.1,
   "slug": "erik-perez",
   "systems": {
     "division": "men:Featherweight",

@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 2002,
-  "divisional_rank": 161,
+  "divisional_rank": 125,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Liliya Shakirova",
       "bout_type": "Women's Flyweight Bout",
       "date": "2020-10-24",
-      "elo_delta": -17.7,
+      "elo_delta": -17.4,
       "event_name": "UFC 254: Khabib vs. Gaethje",
       "fight_id": "778b18f43d5cf7bc",
       "gender": "women",
       "is_title": false,
       "method": "Submission",
       "opponent": "Lauren Murphy",
-      "opponent_elo": 1530.9,
+      "opponent_elo": 1536.0,
       "outcome": "red_win",
-      "post_elo": 1482.3,
+      "post_elo": 1482.6,
       "pre_elo": 1500.0,
       "red_name": "Lauren Murphy",
       "round": "2.0",
@@ -34,14 +34,14 @@
     {
       "date": "2020-10-24",
       "fight_id": "778b18f43d5cf7bc",
-      "rating": 1482.3,
+      "rating": 1482.6,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2020-10-24",
       "fight_id": "778b18f43d5cf7bc",
-      "rating": 1483.9,
+      "rating": 1484.3,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1482.3,
-  "raw_overall_elo": 1483.9,
+  "raw_current_elo": 1482.6,
+  "raw_overall_elo": 1484.3,
   "slug": "liliya-shakirova",
   "systems": {
     "division": "women:Flyweight",

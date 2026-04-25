@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1465.3,
+  "current_elo": 1465.2,
   "days_since_last_fight": 616,
-  "divisional_rank": 993,
+  "divisional_rank": 743,
   "fight_count": 2,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Toshiomi Kazama",
       "opponent_elo": 1461.2,
       "outcome": "red_win",
-      "post_elo": 1460.5,
-      "pre_elo": 1481.0,
+      "post_elo": 1460.4,
+      "pre_elo": 1480.9,
       "red_name": "Toshiomi Kazama",
       "round": "2.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Chad Anheliger",
       "bout_type": "Bantamweight Bout",
       "date": "2024-03-16",
-      "elo_delta": -19.0,
+      "elo_delta": -19.1,
       "event_name": "UFC Fight Night: Tuivasa vs. Tybura",
       "fight_id": "25b2ce3ef6e5471c",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Chad Anheliger",
-      "opponent_elo": 1480.6,
+      "opponent_elo": 1479.0,
       "outcome": "blue_win",
-      "post_elo": 1481.0,
+      "post_elo": 1480.9,
       "pre_elo": 1500.0,
       "red_name": "Charalampos Grigoriou",
       "round": "3.0",
@@ -56,7 +56,7 @@
     {
       "date": "2024-03-16",
       "fight_id": "25b2ce3ef6e5471c",
-      "rating": 1481.0,
+      "rating": 1480.9,
       "scope": "division",
       "system": "men:Bantamweight"
     },
@@ -70,14 +70,14 @@
     {
       "date": "2024-08-10",
       "fight_id": "68c44e0a7ac9f93c",
-      "rating": 1460.5,
+      "rating": 1460.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2024-08-10",
       "fight_id": "68c44e0a7ac9f93c",
-      "rating": 1465.1,
+      "rating": 1465.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1469.9,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1460.5,
-  "raw_overall_elo": 1465.1,
+  "raw_current_elo": 1460.4,
+  "raw_overall_elo": 1465.0,
   "slug": "charalampos-grigoriou",
   "systems": {
     "division": "men:Bantamweight",

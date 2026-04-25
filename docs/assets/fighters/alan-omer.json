@@ -1,119 +1,17 @@
 {
   "activity_status": "active",
-  "current_elo": 1485.0,
+  "current_elo": 1516.0,
   "days_since_last_fight": 406,
-  "divisional_rank": 1031,
-  "fight_count": 3,
-  "fight_log": [
-    {
-      "blue_name": "Łukasz Kopera",
-      "bout_type": "Catchweight (163 lb) Bout",
-      "date": "2025-03-08",
-      "elo_delta": 19.8,
-      "event_name": "Oktagon 68: Todev vs. Fleury",
-      "fight_id": "5d3e8f6bba36e8ed",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (unanimous) (29–28, 29–27, 29–28)",
-      "opponent": "Łukasz Kopera",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1485.0,
-      "pre_elo": 1465.2,
-      "red_name": "Alan Omer",
-      "round": "3",
-      "source": "manual",
-      "source_title": "2025 in Oktagon MMA",
-      "time": "5:00",
-      "weight_class": "Catch Weight"
-    },
-    {
-      "blue_name": "Arnold Allen",
-      "bout_type": "Featherweight Bout",
-      "date": "2015-06-20",
-      "elo_delta": -18.5,
-      "event_name": "UFC Fight Night: Jedrzejczyk vs Penne",
-      "fight_id": "a69a209377f11f94",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission",
-      "opponent": "Arnold Allen",
-      "opponent_elo": 1500.0,
-      "outcome": "blue_win",
-      "post_elo": 1465.2,
-      "pre_elo": 1483.7,
-      "red_name": "Alan Omer",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "1:41",
-      "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Jim Alers",
-      "bout_type": "Featherweight Bout",
-      "date": "2014-04-11",
-      "elo_delta": -16.3,
-      "event_name": "UFC Fight Night: Minotauro vs Nelson",
-      "fight_id": "c6e0fbe0d260cca1",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Split",
-      "opponent": "Jim Alers",
-      "opponent_elo": 1533.7,
-      "outcome": "blue_win",
-      "post_elo": 1483.7,
-      "pre_elo": 1500.0,
-      "red_name": "Alan Omer",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Featherweight"
-    }
-  ],
-  "first_fight_date": "2014-04-11",
+  "divisional_rank": null,
+  "fight_count": 1,
+  "fight_log": [],
+  "first_fight_date": "2025-03-08",
   "gender": "men",
   "history": [
     {
-      "date": "2014-04-11",
-      "fight_id": "c6e0fbe0d260cca1",
-      "rating": 1483.7,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2014-04-11",
-      "fight_id": "c6e0fbe0d260cca1",
-      "rating": 1485.5,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2015-06-20",
-      "fight_id": "a69a209377f11f94",
-      "rating": 1465.2,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2015-06-20",
-      "fight_id": "a69a209377f11f94",
-      "rating": 1469.0,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2025-03-08",
       "fight_id": "5d3e8f6bba36e8ed",
-      "rating": 1485.0,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2025-03-08",
-      "fight_id": "5d3e8f6bba36e8ed",
-      "rating": 1486.4,
+      "rating": 1516.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,14 +23,14 @@
   "last_fight_date": "2025-03-08",
   "name": "Alan Omer",
   "nickname": "",
-  "overall_elo": 1486.4,
-  "peak_elo": 1500.0,
-  "raw_current_elo": 1485.0,
-  "raw_overall_elo": 1486.4,
+  "overall_elo": 1516.0,
+  "peak_elo": 1516.0,
+  "raw_current_elo": 1516.0,
+  "raw_overall_elo": 1516.0,
   "slug": "alan-omer",
   "systems": {
-    "division": "men:Featherweight",
+    "division": "men:Catch Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Featherweight"
+  "weight_class": "Catch Weight"
 }

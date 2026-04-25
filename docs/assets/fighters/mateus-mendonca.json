@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1467.2,
+  "current_elo": 1467.7,
   "days_since_last_fight": 784,
-  "divisional_rank": 519,
+  "divisional_rank": 421,
   "fight_count": 3,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Jesus Aguilar",
       "opponent_elo": 1501.9,
       "outcome": "red_win",
-      "post_elo": 1450.9,
-      "pre_elo": 1467.1,
+      "post_elo": 1451.3,
+      "pre_elo": 1467.5,
       "red_name": "Jesus Aguilar",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Mateus Mendonca",
       "bout_type": "Flyweight Bout",
       "date": "2023-10-07",
-      "elo_delta": -18.4,
+      "elo_delta": -18.0,
       "event_name": "UFC Fight Night: Dawson vs. Green",
       "fight_id": "7d83bf9a9f7cf77a",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Nate Maness",
-      "opponent_elo": 1504.2,
+      "opponent_elo": 1511.9,
       "outcome": "red_win",
-      "post_elo": 1467.1,
+      "post_elo": 1467.5,
       "pre_elo": 1485.5,
       "red_name": "Nate Maness",
       "round": "1.0",
@@ -60,7 +60,7 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Javid Basharat",
-      "opponent_elo": 1536.2,
+      "opponent_elo": 1536.9,
       "outcome": "red_win",
       "post_elo": 1483.9,
       "pre_elo": 1500.0,
@@ -92,28 +92,28 @@
     {
       "date": "2023-10-07",
       "fight_id": "7d83bf9a9f7cf77a",
-      "rating": 1467.1,
+      "rating": 1467.5,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2023-10-07",
       "fight_id": "7d83bf9a9f7cf77a",
-      "rating": 1469.2,
+      "rating": 1469.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-02-24",
       "fight_id": "8e843a15a9757321",
-      "rating": 1450.9,
+      "rating": 1451.3,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2024-02-24",
       "fight_id": "8e843a15a9757321",
-      "rating": 1454.7,
+      "rating": 1455.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2024-02-24",
   "name": "Mateus Mendonca",
   "nickname": "",
-  "overall_elo": 1471.1,
+  "overall_elo": 1471.5,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1450.9,
-  "raw_overall_elo": 1454.7,
+  "raw_current_elo": 1451.3,
+  "raw_overall_elo": 1455.1,
   "slug": "mateus-mendonca",
   "systems": {
     "division": "men:Flyweight",

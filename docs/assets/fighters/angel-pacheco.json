@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1465.3,
+  "current_elo": 1465.2,
   "days_since_last_fight": 49,
-  "divisional_rank": 992,
+  "divisional_rank": 742,
   "fight_count": 2,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Santiago Luna",
-      "opponent_elo": 1522.8,
+      "opponent_elo": 1522.7,
       "outcome": "red_win",
-      "post_elo": 1465.3,
-      "pre_elo": 1481.2,
+      "post_elo": 1465.2,
+      "pre_elo": 1481.1,
       "red_name": "Santiago Luna",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Caolan Loughran",
       "bout_type": "Bantamweight Bout",
       "date": "2024-03-30",
-      "elo_delta": -18.8,
+      "elo_delta": -18.9,
       "event_name": "UFC Fight Night: Blanchfield vs. Fiorot",
       "fight_id": "8df96eaf044279a5",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Caolan Loughran",
-      "opponent_elo": 1483.9,
+      "opponent_elo": 1482.0,
       "outcome": "blue_win",
-      "post_elo": 1481.2,
+      "post_elo": 1481.1,
       "pre_elo": 1500.0,
       "red_name": "Angel Pacheco",
       "round": "3.0",
@@ -56,7 +56,7 @@
     {
       "date": "2024-03-30",
       "fight_id": "8df96eaf044279a5",
-      "rating": 1481.2,
+      "rating": 1481.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
@@ -70,14 +70,14 @@
     {
       "date": "2026-02-28",
       "fight_id": "8f306176e9c93e9f",
-      "rating": 1465.3,
+      "rating": 1465.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-02-28",
       "fight_id": "8f306176e9c93e9f",
-      "rating": 1469.0,
+      "rating": 1468.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,10 +89,10 @@
   "last_fight_date": "2026-02-28",
   "name": "Angel Pacheco",
   "nickname": "",
-  "overall_elo": 1469.0,
+  "overall_elo": 1468.9,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1465.3,
-  "raw_overall_elo": 1469.0,
+  "raw_current_elo": 1465.2,
+  "raw_overall_elo": 1468.9,
   "slug": "angel-pacheco",
   "systems": {
     "division": "men:Bantamweight",

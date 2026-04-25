@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1509.8,
+  "current_elo": 1509.7,
   "days_since_last_fight": 497,
-  "divisional_rank": 224,
+  "divisional_rank": 205,
   "fight_count": 5,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Shamil Gasanov",
       "opponent_elo": 1532.1,
       "outcome": "red_win",
-      "post_elo": 1509.8,
-      "pre_elo": 1527.5,
+      "post_elo": 1509.7,
+      "pre_elo": 1527.4,
       "red_name": "Shamil Gasanov",
       "round": "3",
       "source": "manual",
@@ -40,8 +40,8 @@
       "opponent": "Akbar Abdullaev",
       "opponent_elo": 1538.7,
       "outcome": "red_win",
-      "post_elo": 1527.5,
-      "pre_elo": 1547.5,
+      "post_elo": 1527.4,
+      "pre_elo": 1547.3,
       "red_name": "Akbar Abdullaev",
       "round": "2",
       "source": "manual",
@@ -53,16 +53,16 @@
       "blue_name": "Ahmed Mujtaba",
       "bout_type": "Lightweight Bout",
       "date": "2023-11-04",
-      "elo_delta": 17.7,
+      "elo_delta": 17.4,
       "event_name": "ONE Fight Night 16: Haggerty vs. Andrade",
       "fight_id": "f5bc205bd8e66344",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Ahmed Mujtaba",
-      "opponent_elo": 1503.4,
+      "opponent_elo": 1498.9,
       "outcome": "red_win",
-      "post_elo": 1553.1,
+      "post_elo": 1552.8,
       "pre_elo": 1535.4,
       "red_name": "Halil Amir",
       "round": "1",
@@ -150,42 +150,42 @@
     {
       "date": "2023-11-04",
       "fight_id": "f5bc205bd8e66344",
-      "rating": 1553.1,
+      "rating": 1552.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-11-04",
       "fight_id": "f5bc205bd8e66344",
-      "rating": 1547.5,
+      "rating": 1547.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-05-04",
       "fight_id": "4e70a0f0904f5a24",
-      "rating": 1527.5,
+      "rating": 1527.4,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2024-05-04",
       "fight_id": "4e70a0f0904f5a24",
-      "rating": 1529.5,
+      "rating": 1529.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-12-07",
       "fight_id": "8c968dda6270c8e7",
-      "rating": 1509.8,
+      "rating": 1509.7,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2024-12-07",
       "fight_id": "8c968dda6270c8e7",
-      "rating": 1513.5,
+      "rating": 1513.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -197,10 +197,10 @@
   "last_fight_date": "2024-12-07",
   "name": "Halil Amir",
   "nickname": "",
-  "overall_elo": 1513.5,
-  "peak_elo": 1553.1,
-  "raw_current_elo": 1509.8,
-  "raw_overall_elo": 1513.5,
+  "overall_elo": 1513.4,
+  "peak_elo": 1552.8,
+  "raw_current_elo": 1509.7,
+  "raw_overall_elo": 1513.4,
   "slug": "halil-amir",
   "systems": {
     "division": "men:Featherweight",

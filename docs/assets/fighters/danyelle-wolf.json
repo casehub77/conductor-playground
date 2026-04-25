@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1316,
-  "divisional_rank": 44,
+  "divisional_rank": 32,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Danyelle Wolf",
       "bout_type": "Women's Featherweight Bout",
       "date": "2022-09-10",
-      "elo_delta": -17.9,
+      "elo_delta": -18.0,
       "event_name": "UFC 279: Diaz vs. Ferguson",
       "fight_id": "d6993ddce18bc05e",
       "gender": "women",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Norma Dumont",
-      "opponent_elo": 1501.7,
+      "opponent_elo": 1499.1,
       "outcome": "red_win",
-      "post_elo": 1482.1,
+      "post_elo": 1482.0,
       "pre_elo": 1500.0,
       "red_name": "Norma Dumont",
       "round": "3.0",
@@ -34,14 +34,14 @@
     {
       "date": "2022-09-10",
       "fight_id": "d6993ddce18bc05e",
-      "rating": 1482.1,
+      "rating": 1482.0,
       "scope": "division",
       "system": "women:Featherweight"
     },
     {
       "date": "2022-09-10",
       "fight_id": "d6993ddce18bc05e",
-      "rating": 1484.8,
+      "rating": 1484.6,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1482.1,
-  "raw_overall_elo": 1484.8,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.6,
   "slug": "danyelle-wolf",
   "systems": {
     "division": "women:Featherweight",

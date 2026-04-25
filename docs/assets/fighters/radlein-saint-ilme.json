@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1637,
-  "divisional_rank": 578,
+  "divisional_rank": 229,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Radlein Saint Ilme",
       "bout_type": "Heavyweight 120 kg Bout",
       "date": "2021-10-24",
-      "elo_delta": -18.3,
+      "elo_delta": -18.5,
       "event_name": "Rizin 31 - Yokohama",
       "fight_id": "6f661115577682e6",
       "gender": "men",
       "is_title": false,
       "method": "KO (Punch)",
       "opponent": "Tsuyoshi Sudario",
-      "opponent_elo": 1521.2,
+      "opponent_elo": 1516.2,
       "outcome": "red_win",
-      "post_elo": 1481.7,
+      "post_elo": 1481.5,
       "pre_elo": 1500.0,
       "red_name": "Tsuyoshi Sudario",
       "round": "1",
@@ -34,14 +34,14 @@
     {
       "date": "2021-10-24",
       "fight_id": "6f661115577682e6",
-      "rating": 1481.7,
+      "rating": 1481.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2021-10-24",
       "fight_id": "6f661115577682e6",
-      "rating": 1483.6,
+      "rating": 1483.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1481.7,
-  "raw_overall_elo": 1483.6,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.5,
   "slug": "radlein-saint-ilme",
   "systems": {
     "division": "men:Heavyweight",

@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1443,
-  "divisional_rank": 415,
+  "divisional_rank": 276,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Charlie Leary",
       "bout_type": "Catchweight (160 lb) Bout",
       "date": "2022-05-06",
-      "elo_delta": 24.1,
+      "elo_delta": 16.1,
       "event_name": "Bellator 280: Bader vs. Kongo 2",
       "fight_id": "9615531ce0758dbe",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 30–27, 29–28)",
       "opponent": "Charlie Leary",
-      "opponent_elo": 1480.6,
+      "opponent_elo": 1481.6,
       "outcome": "red_win",
-      "post_elo": 1542.1,
+      "post_elo": 1534.1,
       "pre_elo": 1518.0,
       "red_name": "Søren Bak",
       "round": "3",
@@ -70,14 +70,14 @@
     {
       "date": "2022-05-06",
       "fight_id": "9615531ce0758dbe",
-      "rating": 1542.1,
+      "rating": 1534.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-05-06",
       "fight_id": "9615531ce0758dbe",
-      "rating": 1536.6,
+      "rating": 1530.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -90,9 +90,9 @@
   "name": "Søren Bak",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1542.1,
-  "raw_current_elo": 1542.1,
-  "raw_overall_elo": 1536.6,
+  "peak_elo": 1534.1,
+  "raw_current_elo": 1534.1,
+  "raw_overall_elo": 1530.5,
   "slug": "sren-bak",
   "systems": {
     "division": "men:Lightweight",

@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1610,
-  "divisional_rank": 372,
+  "divisional_rank": 291,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Tatsuya So",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2021-11-20",
-      "elo_delta": -13.9,
+      "elo_delta": -18.0,
       "event_name": "Rizin 32 - Okinawa",
       "fight_id": "6ef5d0d0fa1353f7",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Haruo Ochi",
-      "opponent_elo": 1579.7,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1486.1,
+      "post_elo": 1482.0,
       "pre_elo": 1500.0,
       "red_name": "Haruo Ochi",
       "round": "3",
@@ -34,14 +34,14 @@
     {
       "date": "2021-11-20",
       "fight_id": "6ef5d0d0fa1353f7",
-      "rating": 1486.1,
+      "rating": 1482.0,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2021-11-20",
       "fight_id": "6ef5d0d0fa1353f7",
-      "rating": 1487.6,
+      "rating": 1484.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1486.1,
-  "raw_overall_elo": 1487.6,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
   "slug": "tatsuya-so",
   "systems": {
     "division": "men:Flyweight",

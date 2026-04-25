@@ -2,7 +2,7 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1393,
-  "divisional_rank": 405,
+  "divisional_rank": 170,
   "fight_count": 4,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Josh Parisian",
-      "opponent_elo": 1478.4,
+      "opponent_elo": 1479.5,
       "outcome": "red_win",
-      "post_elo": 1446.7,
-      "pre_elo": 1465.4,
+      "post_elo": 1446.9,
+      "pre_elo": 1465.5,
       "red_name": "Josh Parisian",
       "round": "2.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Alan Baudot",
       "bout_type": "Heavyweight Bout",
       "date": "2022-02-19",
-      "elo_delta": -16.3,
+      "elo_delta": -16.1,
       "event_name": "UFC Fight Night: Walker vs. Hill",
       "fight_id": "83245163c980d6f8",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Parker Porter",
-      "opponent_elo": 1515.3,
+      "opponent_elo": 1517.7,
       "outcome": "red_win",
-      "post_elo": 1465.4,
+      "post_elo": 1465.5,
       "pre_elo": 1481.6,
       "red_name": "Parker Porter",
       "round": "3.0",
@@ -60,7 +60,7 @@
       "is_title": false,
       "method": "Overturned",
       "opponent": "Rodrigo Nascimento",
-      "opponent_elo": 1499.0,
+      "opponent_elo": 1500.0,
       "outcome": "no_contest",
       "post_elo": 1481.6,
       "pre_elo": 1481.6,
@@ -128,7 +128,7 @@
     {
       "date": "2022-02-19",
       "fight_id": "83245163c980d6f8",
-      "rating": 1465.4,
+      "rating": 1465.5,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -142,14 +142,14 @@
     {
       "date": "2022-06-25",
       "fight_id": "abde2ef0d9fe21eb",
-      "rating": 1446.7,
+      "rating": 1446.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2022-06-25",
       "fight_id": "abde2ef0d9fe21eb",
-      "rating": 1452.3,
+      "rating": 1452.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -163,8 +163,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1446.7,
-  "raw_overall_elo": 1452.3,
+  "raw_current_elo": 1446.9,
+  "raw_overall_elo": 1452.4,
   "slug": "alan-baudot",
   "systems": {
     "division": "men:Heavyweight",

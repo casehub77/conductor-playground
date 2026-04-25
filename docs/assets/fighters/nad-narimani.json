@@ -2,154 +2,16 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 2100,
-  "divisional_rank": 400,
-  "fight_count": 4,
-  "fight_log": [
-    {
-      "blue_name": "Nad Narimani",
-      "bout_type": "Catch Weight Bout",
-      "date": "2020-07-18",
-      "elo_delta": -15.8,
-      "event_name": "UFC Fight Night: Figueiredo vs. Benavidez 2",
-      "fight_id": "07d812f16e6f50e7",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Unanimous",
-      "opponent": "Grant Dawson",
-      "opponent_elo": 1555.4,
-      "outcome": "red_win",
-      "post_elo": 1497.6,
-      "pre_elo": 1513.5,
-      "red_name": "Grant Dawson",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Catch Weight"
-    },
-    {
-      "blue_name": "Nad Narimani",
-      "bout_type": "Featherweight Bout",
-      "date": "2019-03-16",
-      "elo_delta": -21.4,
-      "event_name": "UFC Fight Night: Till vs. Masvidal",
-      "fight_id": "0d30c7da3518f65b",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO/TKO",
-      "opponent": "Mike Grundy",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1513.5,
-      "pre_elo": 1534.9,
-      "red_name": "Mike Grundy",
-      "round": "2.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "4:42",
-      "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Anderson Dos Santos",
-      "bout_type": "Featherweight Bout",
-      "date": "2018-11-17",
-      "elo_delta": 17.1,
-      "event_name": "UFC Fight Night: Magny vs. Ponzinibbio",
-      "fight_id": "ed825421f33d5337",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Unanimous",
-      "opponent": "Anderson Dos Santos",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1534.9,
-      "pre_elo": 1517.8,
-      "red_name": "Nad Narimani",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Nad Narimani",
-      "bout_type": "Featherweight Bout",
-      "date": "2018-07-22",
-      "elo_delta": 17.8,
-      "event_name": "UFC Fight Night: Shogun vs. Smith",
-      "fight_id": "8699518b19e75907",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Unanimous",
-      "opponent": "Khalid Taha",
-      "opponent_elo": 1495.6,
-      "outcome": "blue_win",
-      "post_elo": 1517.8,
-      "pre_elo": 1500.0,
-      "red_name": "Khalid Taha",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Featherweight"
-    }
-  ],
-  "first_fight_date": "2018-07-22",
+  "divisional_rank": null,
+  "fight_count": 1,
+  "fight_log": [],
+  "first_fight_date": "2020-07-18",
   "gender": "men",
   "history": [
     {
-      "date": "2018-07-22",
-      "fight_id": "8699518b19e75907",
-      "rating": 1517.8,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2018-07-22",
-      "fight_id": "8699518b19e75907",
-      "rating": 1515.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2018-11-17",
-      "fight_id": "ed825421f33d5337",
-      "rating": 1534.9,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2018-11-17",
-      "fight_id": "ed825421f33d5337",
-      "rating": 1531.1,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2019-03-16",
-      "fight_id": "0d30c7da3518f65b",
-      "rating": 1513.5,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2019-03-16",
-      "fight_id": "0d30c7da3518f65b",
-      "rating": 1512.3,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2020-07-18",
       "fight_id": "07d812f16e6f50e7",
-      "rating": 1497.6,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2020-07-18",
-      "fight_id": "07d812f16e6f50e7",
-      "rating": 1497.9,
+      "rating": 1484.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -162,13 +24,13 @@
   "name": "Nad Narimani",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1534.9,
-  "raw_current_elo": 1497.6,
-  "raw_overall_elo": 1497.9,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.8,
+  "raw_overall_elo": 1484.8,
   "slug": "nad-narimani",
   "systems": {
-    "division": "men:Featherweight",
+    "division": "men:Catch Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Featherweight"
+  "weight_class": "Catch Weight"
 }

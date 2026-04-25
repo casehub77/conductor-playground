@@ -2,7 +2,7 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1169,
-  "divisional_rank": 643,
+  "divisional_rank": 291,
   "fight_count": 5,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Dante Schiro",
       "opponent_elo": 1502.4,
       "outcome": "red_win",
-      "post_elo": 1488.4,
-      "pre_elo": 1468.7,
+      "post_elo": 1488.5,
+      "pre_elo": 1468.8,
       "red_name": "Neiman Gracie",
       "round": "3",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Neiman Gracie",
       "bout_type": "Welterweight Bout",
       "date": "2022-08-12",
-      "elo_delta": -17.5,
+      "elo_delta": -17.4,
       "event_name": "Bellator 284: Gracie vs. Yamauchi",
       "fight_id": "8d2839b83e92f2f0",
       "gender": "men",
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Goiti Yamauchi",
-      "opponent_elo": 1520.5,
+      "opponent_elo": 1522.3,
       "outcome": "red_win",
-      "post_elo": 1468.7,
+      "post_elo": 1468.8,
       "pre_elo": 1486.2,
       "red_name": "Goiti Yamauchi",
       "round": "2",
@@ -164,28 +164,28 @@
     {
       "date": "2022-08-12",
       "fight_id": "8d2839b83e92f2f0",
-      "rating": 1468.7,
+      "rating": 1468.8,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-08-12",
       "fight_id": "8d2839b83e92f2f0",
-      "rating": 1471.7,
+      "rating": 1471.8,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-02-04",
       "fight_id": "0d4959dbe9c57927",
-      "rating": 1488.4,
+      "rating": 1488.5,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2023-02-04",
       "fight_id": "0d4959dbe9c57927",
-      "rating": 1489.1,
+      "rating": 1489.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -199,8 +199,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1503.5,
-  "raw_current_elo": 1488.4,
-  "raw_overall_elo": 1489.1,
+  "raw_current_elo": 1488.5,
+  "raw_overall_elo": 1489.2,
   "slug": "neiman-gracie",
   "systems": {
     "division": "men:Welterweight",

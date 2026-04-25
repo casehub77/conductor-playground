@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1638,
-  "divisional_rank": 786,
+  "divisional_rank": 551,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Zviad Lazishvili",
       "bout_type": "Bantamweight Bout",
       "date": "2021-10-23",
-      "elo_delta": -18.0,
+      "elo_delta": -18.8,
       "event_name": "UFC Fight Night: Costa vs. Vettori",
       "fight_id": "33409e28c92d1a5a",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Jonathan Martinez",
-      "opponent_elo": 1500.2,
+      "opponent_elo": 1484.0,
       "outcome": "red_win",
-      "post_elo": 1482.0,
+      "post_elo": 1481.2,
       "pre_elo": 1500.0,
       "red_name": "Jonathan Martinez",
       "round": "3.0",
@@ -34,14 +34,14 @@
     {
       "date": "2021-10-23",
       "fight_id": "33409e28c92d1a5a",
-      "rating": 1482.0,
+      "rating": 1481.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-10-23",
       "fight_id": "33409e28c92d1a5a",
-      "rating": 1484.7,
+      "rating": 1484.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1482.0,
-  "raw_overall_elo": 1484.7,
+  "raw_current_elo": 1481.2,
+  "raw_overall_elo": 1484.0,
   "slug": "zviad-lazishvili",
   "systems": {
     "division": "men:Bantamweight",

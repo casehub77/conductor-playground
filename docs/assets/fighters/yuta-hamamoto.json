@@ -2,14 +2,14 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1078,
-  "divisional_rank": 381,
-  "fight_count": 2,
+  "divisional_rank": 298,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Yuta Hamamoto",
       "bout_type": "Flyweight 57 kg Bout",
       "date": "2023-05-06",
-      "elo_delta": -18.7,
+      "elo_delta": -19.4,
       "event_name": "Rizin 42",
       "fight_id": "7e7d3bb325fc94c9",
       "gender": "men",
@@ -18,66 +18,30 @@
       "opponent": "Ramazonbek Temirov",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1467.3,
-      "pre_elo": 1486.0,
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
       "red_name": "Ramazonbek Temirov",
       "round": "1",
       "source": "manual",
       "source_title": "2023 in Rizin Fighting Federation",
       "time": "4:06",
       "weight_class": "Flyweight"
-    },
-    {
-      "blue_name": "Yuta Hamamoto",
-      "bout_type": "Flyweight 57 kg Bout",
-      "date": "2017-12-31",
-      "elo_delta": -14.0,
-      "event_name": "Rizin World Grand Prix 2017: final round",
-      "fight_id": "bcc67b09252e09f7",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO (flying knee)",
-      "opponent": "Tenshin Nasukawa",
-      "opponent_elo": 1599.4,
-      "outcome": "red_win",
-      "post_elo": 1486.0,
-      "pre_elo": 1500.0,
-      "red_name": "Tenshin Nasukawa",
-      "round": "2",
-      "source": "manual",
-      "source_title": "2017 in Rizin Fighting Federation",
-      "time": "4:58",
-      "weight_class": "Flyweight"
     }
   ],
-  "first_fight_date": "2017-12-31",
+  "first_fight_date": "2023-05-06",
   "gender": "men",
   "history": [
     {
-      "date": "2017-12-31",
-      "fight_id": "bcc67b09252e09f7",
-      "rating": 1486.0,
-      "scope": "division",
-      "system": "men:Flyweight"
-    },
-    {
-      "date": "2017-12-31",
-      "fight_id": "bcc67b09252e09f7",
-      "rating": 1487.1,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2023-05-06",
       "fight_id": "7e7d3bb325fc94c9",
-      "rating": 1467.3,
+      "rating": 1480.6,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2023-05-06",
       "fight_id": "7e7d3bb325fc94c9",
-      "rating": 1470.4,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1467.3,
-  "raw_overall_elo": 1470.4,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
   "slug": "yuta-hamamoto",
   "systems": {
     "division": "men:Flyweight",

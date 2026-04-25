@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 2247,
-  "divisional_rank": 421,
-  "fight_count": 2,
+  "divisional_rank": 178,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Marcos Rogerio De Lima",
       "bout_type": "Heavyweight Bout",
       "date": "2020-02-22",
-      "elo_delta": -18.4,
+      "elo_delta": -19.4,
       "event_name": "UFC Fight Night: Felder vs. Hooker",
       "fight_id": "11c38b1d0fbf9eb3",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Marcos Rogerio De Lima",
-      "opponent_elo": 1518.6,
+      "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1481.6,
+      "post_elo": 1480.6,
       "pre_elo": 1500.0,
       "red_name": "Ben Sosoli",
       "round": "1.0",
@@ -26,58 +26,22 @@
       "source_title": "",
       "time": "1:28",
       "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Ben Sosoli",
-      "bout_type": "Heavyweight Bout",
-      "date": "2019-10-18",
-      "elo_delta": 0.0,
-      "event_name": "UFC Fight Night: Reyes vs. Weidman",
-      "fight_id": "0823eee04c368a77",
-      "gender": "men",
-      "is_title": false,
-      "method": "Overturned",
-      "opponent": "Greg Hardy",
-      "opponent_elo": 1517.4,
-      "outcome": "no_contest",
-      "post_elo": 1500.0,
-      "pre_elo": 1500.0,
-      "red_name": "Greg Hardy",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Heavyweight"
     }
   ],
-  "first_fight_date": "2019-10-18",
+  "first_fight_date": "2020-02-22",
   "gender": "men",
   "history": [
     {
-      "date": "2019-10-18",
-      "fight_id": "0823eee04c368a77",
-      "rating": 1500.0,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2019-10-18",
-      "fight_id": "0823eee04c368a77",
-      "rating": 1500.0,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2020-02-22",
       "fight_id": "11c38b1d0fbf9eb3",
-      "rating": 1481.6,
+      "rating": 1480.6,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2020-02-22",
       "fight_id": "11c38b1d0fbf9eb3",
-      "rating": 1483.3,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1481.6,
-  "raw_overall_elo": 1483.3,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
   "slug": "ben-sosoli",
   "systems": {
     "division": "men:Heavyweight",

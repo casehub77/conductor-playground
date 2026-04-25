@@ -2,7 +2,7 @@
   "activity_status": "active",
   "current_elo": 1465.4,
   "days_since_last_fight": 154,
-  "divisional_rank": 1005,
+  "divisional_rank": 453,
   "fight_count": 3,
   "fight_log": [
     {
@@ -31,17 +31,17 @@
       "blue_name": "Eric Mcconico",
       "bout_type": "Light Heavyweight Bout",
       "date": "2025-08-09",
-      "elo_delta": 19.8,
+      "elo_delta": 19.7,
       "event_name": "UFC Fight Night: Dolidze vs. Hernandez",
       "fight_id": "ecf8a8c9167311d2",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Cody Brundage",
-      "opponent_elo": 1518.4,
+      "opponent_elo": 1517.4,
       "outcome": "blue_win",
-      "post_elo": 1503.6,
-      "pre_elo": 1483.8,
+      "post_elo": 1503.5,
+      "pre_elo": 1483.7,
       "red_name": "Cody Brundage",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -60,7 +60,7 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Nursulton Ruziboev",
-      "opponent_elo": 1540.0,
+      "opponent_elo": 1539.9,
       "outcome": "red_win",
       "post_elo": 1482.8,
       "pre_elo": 1500.0,
@@ -85,21 +85,21 @@
     {
       "date": "2025-02-22",
       "fight_id": "ae792fce3a9d4b65",
-      "rating": 1483.8,
+      "rating": 1483.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-08-09",
       "fight_id": "ecf8a8c9167311d2",
-      "rating": 1503.6,
+      "rating": 1503.5,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2025-08-09",
       "fight_id": "ecf8a8c9167311d2",
-      "rating": 1501.4,
+      "rating": 1501.3,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -113,7 +113,7 @@
     {
       "date": "2025-11-15",
       "fight_id": "ab22eea6ea5f935a",
-      "rating": 1484.9,
+      "rating": 1484.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2025-11-15",
   "name": "Eric Mcconico",
   "nickname": "",
-  "overall_elo": 1484.9,
-  "peak_elo": 1503.6,
+  "overall_elo": 1484.8,
+  "peak_elo": 1503.5,
   "raw_current_elo": 1465.4,
-  "raw_overall_elo": 1484.9,
+  "raw_overall_elo": 1484.8,
   "slug": "eric-mcconico",
   "systems": {
     "division": "men:Middleweight",
