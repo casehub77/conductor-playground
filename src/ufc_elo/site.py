@@ -228,7 +228,7 @@ def html_shell(
   <footer class="site-footer">
     {render_static_ad_slot("footer", site_config or {})}
     <p>INDEPENDENT RATINGS ★ DATA PIPELINE USES PUBLIC FIGHT RESULT SOURCES AND MANUAL FALLBACKS</p>
-    <div class="visitor-counter"><span>VISITORS</span><span class="counter-digits">026667</span></div>
+    <p class="analytics-note">LIVE TRAFFIC METRICS ARE TRACKED IN HOST ANALYTICS</p>
     <p class="best-viewed">BEST VIEWED IN 1024x768</p>
   </footer>
   <script src="{asset_prefix}/app.js?v={asset_version}" defer></script>

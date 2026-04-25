@@ -2037,13 +2037,29 @@
   "site": {
     "ad_network": {
       "auto_ads": false,
-      "client": "",
-      "enabled": false,
-      "provider": "",
-      "script_url": ""
+      "client": "ca-pub-4172826624153359",
+      "enabled": true,
+      "provider": "adsense",
+      "script_url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
     },
     "ad_slots": {
+      "champions_top": {
+        "format": "leaderboard",
+        "height": 90,
+        "label": "Leaderboard",
+        "responsive": true,
+        "slot_id": "",
+        "width": 970
+      },
       "fighter_top": {
+        "format": "leaderboard",
+        "height": 90,
+        "label": "Leaderboard",
+        "responsive": true,
+        "slot_id": "",
+        "width": 970
+      },
+      "fighters_top": {
         "format": "leaderboard",
         "height": 90,
         "label": "Leaderboard",
@@ -2060,6 +2076,14 @@
         "width": 970
       },
       "home_top": {
+        "format": "leaderboard",
+        "height": 90,
+        "label": "Leaderboard",
+        "responsive": true,
+        "slot_id": "",
+        "width": 970
+      },
+      "rankings_top": {
         "format": "leaderboard",
         "height": 90,
         "label": "Leaderboard",

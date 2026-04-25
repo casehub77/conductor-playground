@@ -1030,7 +1030,23 @@ td:nth-child(4) {
   min-height: max(var(--slot-height, 90px), 90px);
 }
 
+.analytics-note {
+  margin-top: 12px;
+  color: var(--green);
+  font-family: "VT323", monospace;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
 .visitor-counter {
+  display: none;
+}
+
+.counter-digits {
+  display: none;
+}
+
+.legacy-counter {
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -1043,7 +1059,7 @@ td:nth-child(4) {
   font-size: 16px;
 }
 
-.counter-digits {
+.legacy-counter .counter-digits {
   padding: 2px 6px;
   background: #001100;
   border: 1px inset #003300;
