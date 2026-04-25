@@ -5,12 +5,24 @@ const assetVersion = body.dataset.assetVersion || "";
 const app = document.querySelector("#app");
 const siteConfigEl = document.querySelector("#site-config");
 const siteConfig = siteConfigEl ? JSON.parse(siteConfigEl.textContent) : {};
+const jsonCache = new Map();
 
 async function loadJson(path) {
+  if (jsonCache.has(path)) return jsonCache.get(path);
   const versionSuffix = assetVersion ? `?v=${encodeURIComponent(assetVersion)}` : "";
-  const response = await fetch(`${assetPrefix}/${path}${versionSuffix}`, { cache: "no-store" });
+  const response = await fetch(`${assetPrefix}/${path}${versionSuffix}`, { cache: "force-cache" });
   if (!response.ok) throw new Error(`Unable to load ${path}`);
-  return response.json();
+  const payload = await response.json();
+  jsonCache.set(path, payload);
+  return payload;
+}
+
+function debounce(fn, delayMs) {
+  let timer = null;
+  return (...args) => {
+    if (timer) window.clearTimeout(timer);
+    timer = window.setTimeout(() => fn(...args), delayMs);
+  };
 }
 
 function fmt(value) {
@@ -32,6 +44,10 @@ function slugify(value) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "") || "unknown";
+}
+
+function systemKey(value) {
+  return String(value || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "") || "unknown";
 }
 
 function fighterLink(name, slug = "") {
@@ -129,16 +145,23 @@ function row(cells) {
   return `<tr>${cells.map((cell) => `<td>${cell}</td>`).join("")}</tr>`;
 }
 
+function prepareFighterSearch(fighters) {
+  return [...fighters]
+    .map((fighter) => ({
+      ...fighter,
+      _search: `${fighter.name} ${fighter.nickname || ""} ${fighter.weight_class}`.toLowerCase(),
+    }))
+    .sort((a, b) => b.current_elo - a.current_elo);
+}
+
 function mountSearch(target, fighters) {
   const input = target.querySelector("[data-search]");
   const results = target.querySelector("[data-results]");
   if (!input || !results) return;
+  const ordered = prepareFighterSearch(fighters);
   const render = () => {
     const query = input.value.trim().toLowerCase();
-    const filtered = fighters
-      .filter((fighter) => !query || `${fighter.name} ${fighter.nickname || ""} ${fighter.weight_class}`.toLowerCase().includes(query))
-      .sort((a, b) => b.current_elo - a.current_elo)
-      .slice(0, query ? 30 : 12);
+    const filtered = ordered.filter((fighter) => !query || fighter._search.includes(query)).slice(0, query ? 30 : 12);
     results.innerHTML = filtered
       .map(
         (fighter) => `<a class="fighter-result" href="${fighterHref(fighter.slug)}">
@@ -154,12 +177,12 @@ function mountSearch(target, fighters) {
       results.innerHTML = `<div class="loading">&gt; NO FIGHTER FOUND</div>`;
     }
   };
-  input.addEventListener("input", render);
+  input.addEventListener("input", debounce(render, 80));
   render();
 }
 
 async function renderHome() {
-  const [home, fighters] = await Promise.all([loadJson("home.json"), loadJson("fighter-index.json")]);
+  const home = await loadJson("home.json");
   app.innerHTML = `
     <section class="hero-band">
       <div class="hero-copy">
@@ -179,7 +202,7 @@ async function renderHome() {
       <div class="search-wrap">
         <input class="search" data-search placeholder="Search any fighter">
       </div>
-      <div class="result-grid" data-results></div>
+      <div class="result-grid" data-results><div class="loading">&gt; TYPE TO LOAD FIGHTER SEARCH</div></div>
     </section>
     <div class="divider"></div>
     <section class="band">
@@ -192,7 +215,7 @@ async function renderHome() {
       </div>
       <div data-tab-panel></div>
     </section>`;
-  mountSearch(app, fighters);
+  mountDeferredSearch(app);
   const panel = app.querySelector("[data-tab-panel]");
   const renderTab = (name) => {
     if (name === "champions") panel.innerHTML = championTable(home.champions);
@@ -208,6 +231,44 @@ async function renderHome() {
     });
   });
   renderTab("champions");
+}
+
+function mountDeferredSearch(target) {
+  const input = target.querySelector("[data-search]");
+  const results = target.querySelector("[data-results]");
+  if (!input || !results) return;
+  let fighters = null;
+  let pending = null;
+
+  const loadFighters = async () => {
+    if (fighters) return fighters;
+    if (!pending) {
+      results.innerHTML = `<div class="loading">&gt; LOADING FIGHTER INDEX...</div>`;
+      pending = loadJson("fighter-index.json")
+        .then((rows) => {
+          fighters = rows;
+          return rows;
+        })
+        .finally(() => {
+          pending = null;
+        });
+    }
+    return pending;
+  };
+
+  const render = debounce(async () => {
+    if (!fighters) {
+      await loadFighters();
+      mountSearch(target, fighters || []);
+      const inputEvent = new Event("input");
+      input.dispatchEvent(inputEvent);
+    }
+  }, 60);
+
+  input.addEventListener("focus", () => {
+    if (!fighters) loadFighters();
+  }, { once: true });
+  input.addEventListener("input", render);
 }
 
 function championTable(champions) {
@@ -266,7 +327,7 @@ async function renderFighters() {
 }
 
 async function renderRankings() {
-  const [data, peaks] = await Promise.all([loadJson("rankings.json"), loadJson("all-time-peaks.json")]);
+  const data = await loadJson("rankings-index.json");
   const systems = data.systems.filter((system) => !system.endsWith(":overall"));
   app.innerHTML = `
     <section class="band">
@@ -283,16 +344,33 @@ async function renderRankings() {
   const select = app.querySelector("[data-system]");
   const panel = app.querySelector("[data-rank-panel]");
   let activeTab = "current";
-  const draw = () => {
+  const currentCache = new Map();
+  const peakCache = new Map();
+  let drawNonce = 0;
+  const draw = async () => {
+    const nonce = ++drawNonce;
+    panel.innerHTML = `<div class="loading">&gt; LOADING RANKINGS...</div>`;
+    const system = select.value;
+    const key = systemKey(system);
     if (activeTab === "current") {
-      const rows = data.rankings[select.value] || [];
+      if (!currentCache.has(system)) {
+        const payload = await loadJson(`rankings/${key}.json`);
+        if (nonce !== drawNonce) return;
+        currentCache.set(system, payload.rows || []);
+      }
+      const rows = currentCache.get(system) || [];
       panel.innerHTML = renderTable(
         ["Rank", "Fighter", "Elo", "Peak", "Fights", "Last fight"],
         rows.slice(0, 100).map((item) => row([fmt(item.rank), fighterLink(item.name, item.slug), fmt(item.rating), fmt(item.peak), fmt(item.fights), fmt(item.last_fight_date)]))
       );
       return;
     }
-    const rows = (peaks.by_system || {})[select.value] || [];
+    if (!peakCache.has(system)) {
+      const payload = await loadJson(`peaks/${key}.json`);
+      if (nonce !== drawNonce) return;
+      peakCache.set(system, payload.rows || []);
+    }
+    const rows = peakCache.get(system) || [];
     panel.innerHTML = renderTable(
       ["#", "Fighter", "Peak Elo", "Current Elo", "Fights", "Last fight"],
       rows.map((item, index) => row([index + 1, fighterLink(item.name, item.slug), fmt(item.peak_elo), fmt(item.current_elo), fmt(item.fights), fmt(item.last_fight_date)]))

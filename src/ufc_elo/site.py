@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 import shutil
 from datetime import UTC, datetime
 from pathlib import Path
@@ -12,8 +13,12 @@ from .util import write_json
 def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict[str, Any]) -> None:
     assets_dir = docs_dir / "assets"
     fighter_assets = assets_dir / "fighters"
+    ranking_assets = assets_dir / "rankings"
+    peak_assets = assets_dir / "peaks"
     fighter_pages = docs_dir / "fighters"
     fighter_assets.mkdir(parents=True, exist_ok=True)
+    ranking_assets.mkdir(parents=True, exist_ok=True)
+    peak_assets.mkdir(parents=True, exist_ok=True)
     fighter_pages.mkdir(parents=True, exist_ok=True)
     asset_version = datetime.now(UTC).strftime("%Y%m%d%H%M%S")
 
@@ -43,11 +48,15 @@ def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict
         }
         for fighter in fighters
     ]
-    rankings = {"rankings": output["rankings"], "systems": output["systems"], "as_of": output["as_of"]}
+    rankings_index = {"systems": output["systems"], "as_of": output["as_of"]}
+    highest_ever_by_system = output.get("highest_ever_by_system", {})
     instagram_featured = instagram_featured_names(output)
     write_json(assets_dir / "home.json", home)
     write_json(assets_dir / "fighter-index.json", fighter_index)
-    write_json(assets_dir / "rankings.json", rankings)
+    write_json(assets_dir / "rankings-index.json", rankings_index)
+    for system in output["systems"]:
+        write_json(ranking_assets / f"{system_key(system)}.json", {"system": system, "rows": output["rankings"].get(system, [])})
+        write_json(peak_assets / f"{system_key(system)}.json", {"system": system, "rows": highest_ever_by_system.get(system, [])})
     write_json(
         assets_dir / "previous-champions.json",
         {
@@ -154,13 +163,18 @@ def clean_generated_site(docs_dir: Path) -> None:
     for path in [docs_dir / "fighters", docs_dir / "champions", docs_dir / "rankings"]:
         if path.exists():
             shutil.rmtree(path)
-    for path in [docs_dir / "assets" / "fighters"]:
+    for path in [docs_dir / "assets" / "fighters", docs_dir / "assets" / "rankings", docs_dir / "assets" / "peaks"]:
         if path.exists():
             shutil.rmtree(path)
-    for name in ["home.json", "fighter-index.json", "rankings.json", "previous-champions.json", "all-time-peaks.json"]:
+    for name in ["home.json", "fighter-index.json", "rankings-index.json", "rankings.json", "previous-champions.json", "all-time-peaks.json"]:
         path = docs_dir / "assets" / name
         if path.exists():
             path.unlink()
+
+
+def system_key(system: str) -> str:
+    normalized = re.sub(r"[^a-z0-9]+", "-", str(system or "").strip().lower())
+    return normalized.strip("-") or "unknown"
 
 
 def html_shell(
