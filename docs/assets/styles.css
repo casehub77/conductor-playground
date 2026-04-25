@@ -1030,14 +1030,6 @@ td:nth-child(4) {
   min-height: max(var(--slot-height, 90px), 90px);
 }
 
-.analytics-note {
-  margin-top: 12px;
-  color: var(--green);
-  font-family: "VT323", monospace;
-  font-size: 18px;
-  letter-spacing: 2px;
-}
-
 .visitor-counter {
   display: none;
 }
