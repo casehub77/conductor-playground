@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6222,
+  "divisional_rank": 988,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yuya Shirai",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-04-05",
+      "elo_delta": -19.4,
+      "event_name": "DREAM.8: Welter Weight Grand Prix 2009 First Round",
+      "fight_id": "6d152cbd4e4d2f8b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Jason High",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jason High",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 8",
+      "time": "0:59",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-04-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-05",
+      "fight_id": "6d152cbd4e4d2f8b",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-04-05",
+      "fight_id": "6d152cbd4e4d2f8b",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-05",
+  "name": "Yuya Shirai",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "yuya-shirai",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

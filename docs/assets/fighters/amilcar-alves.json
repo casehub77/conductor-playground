@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5565,
+  "divisional_rank": 697,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Amilcar Alves",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-01-22",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Fight for the Troops 2",
+      "fight_id": "45b6e283e0818e7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Charlie Brenneman",
+      "opponent_elo": 1503.2,
+      "outcome": "red_win",
+      "post_elo": 1466.0,
+      "pre_elo": 1483.0,
+      "red_name": "Charlie Brenneman",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Amilcar Alves",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-08-28",
+      "elo_delta": -17.0,
+      "event_name": "UFC 118: Edgar vs Penn 2",
+      "fight_id": "c4eff02875f15f9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mike Pierce",
+      "opponent_elo": 1543.5,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Pierce",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:11",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-28",
+      "fight_id": "c4eff02875f15f9d",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-08-28",
+      "fight_id": "c4eff02875f15f9d",
+      "rating": 1484.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-01-22",
+      "fight_id": "45b6e283e0818e7f",
+      "rating": 1466.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-01-22",
+      "fight_id": "45b6e283e0818e7f",
+      "rating": 1469.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-01-22",
+  "name": "Amilcar Alves",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1466.0,
+  "raw_overall_elo": 1469.4,
+  "slug": "amilcar-alves",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

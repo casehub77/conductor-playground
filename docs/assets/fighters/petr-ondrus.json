@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6336,
+  "divisional_rank": 250,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Matteo Minonzio",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": 18.8,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "33775501922f723a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Matteo Minonzio",
+      "opponent_elo": 1518.1,
+      "outcome": "red_win",
+      "post_elo": 1521.0,
+      "pre_elo": 1502.2,
+      "red_name": "Petr Ondrus",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 4",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Matias Baric",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": 19.5,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "1dfafd361bbad558",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Knee)",
+      "opponent": "Matias Baric",
+      "opponent_elo": 1483.6,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1482.7,
+      "red_name": "Petr Ondrus",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Semi-Finals 2",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Petr Ondrus",
+      "bout_type": "Light Heavyweight 95 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": -17.3,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "74bacab5fea1106d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Dave Dalgliesh",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Dave Dalgliesh",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Final",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-12-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-12",
+      "fight_id": "74bacab5fea1106d",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "1dfafd361bbad558",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "33775501922f723a",
+      "rating": 1521.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "74bacab5fea1106d",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "1dfafd361bbad558",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "33775501922f723a",
+      "rating": 1518.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-12",
+  "name": "Petr Ondrus",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.0,
+  "raw_current_elo": 1521.0,
+  "raw_overall_elo": 1518.5,
+  "slug": "petr-ondrus",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

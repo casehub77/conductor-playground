@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4476,
+  "divisional_rank": 632,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Brian Houston",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-01-15",
+      "elo_delta": -19.6,
+      "event_name": "UFC Fight Night: Rockhold vs Philippou",
+      "fight_id": "00a9ec521586ff58",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Trevor Smith",
+      "opponent_elo": 1450.5,
+      "outcome": "red_win",
+      "post_elo": 1462.4,
+      "pre_elo": 1482.0,
+      "red_name": "Trevor Smith",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Brian Houston",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-11-06",
+      "elo_delta": -18.0,
+      "event_name": "UFC Fight Night: Fight for the Troops 3",
+      "fight_id": "0dc566159c88cdc9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Derek Brunson",
+      "opponent_elo": 1525.6,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Derek Brunson",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:48",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2013-11-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-11-06",
+      "fight_id": "0dc566159c88cdc9",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-11-06",
+      "fight_id": "0dc566159c88cdc9",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-01-15",
+      "fight_id": "00a9ec521586ff58",
+      "rating": 1462.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-01-15",
+      "fight_id": "00a9ec521586ff58",
+      "rating": 1466.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-01-15",
+  "name": "Brian Houston",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.4,
+  "raw_overall_elo": 1466.4,
+  "slug": "brian-houston",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

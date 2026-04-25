@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9962,
+  "divisional_rank": 1168,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Townsend Saunders",
+      "bout_type": "Lightweight Bout",
+      "date": "1999-01-08",
+      "elo_delta": -16.1,
+      "event_name": "UFC 18: The Road to the Heavyweight Title",
+      "fight_id": "b7b683cfc3e4b1c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mikey Burnett",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1466.9,
+      "pre_elo": 1483.0,
+      "red_name": "Mikey Burnett",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Townsend Saunders",
+      "bout_type": "Lightweight Bout",
+      "date": "1998-03-13",
+      "elo_delta": -17.0,
+      "event_name": "UFC 16: Battle in the Bayou",
+      "fight_id": "5aac96ca714ff953",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Pat Miletich",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Pat Miletich",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "1998-03-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1998-03-13",
+      "fight_id": "5aac96ca714ff953",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1998-03-13",
+      "fight_id": "5aac96ca714ff953",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-01-08",
+      "fight_id": "b7b683cfc3e4b1c4",
+      "rating": 1466.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1999-01-08",
+      "fight_id": "b7b683cfc3e4b1c4",
+      "rating": 1469.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-01-08",
+  "name": "Townsend Saunders",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1466.9,
+  "raw_overall_elo": 1469.5,
+  "slug": "townsend-saunders",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

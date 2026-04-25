@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5420,
+  "divisional_rank": 594,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dan Hope",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-06-16",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors: Fight Night 1",
+      "fight_id": "032eaefe49bd761c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Dan Hope",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jean N'Doye",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2011 in Cage Warriors",
+      "time": "3:55",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-06-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-06-16",
+      "fight_id": "032eaefe49bd761c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-06-16",
+      "fight_id": "032eaefe49bd761c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-06-16",
+  "name": "Jean N'Doye",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "jean-n-doye",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

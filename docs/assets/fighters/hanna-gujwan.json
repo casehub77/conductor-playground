@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3395,
+  "divisional_rank": 49,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Hanna Gujwan",
+      "bout_type": "Female Atomweight 49 kg Bout",
+      "date": "2016-12-31",
+      "elo_delta": -17.4,
+      "event_name": "Rizin World Grand-Prix 2016: Final Round",
+      "fight_id": "df2d6401f336f2c4",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (Body Kick)",
+      "opponent": "Rena Kubota",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1500.0,
+      "red_name": "Rena Kubota",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
+      "time": "12:47",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2016-12-31",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2016-12-31",
+      "fight_id": "df2d6401f336f2c4",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2016-12-31",
+      "fight_id": "df2d6401f336f2c4",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-12-31",
+  "name": "Hanna Gujwan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.6,
+  "raw_overall_elo": 1484.4,
+  "slug": "hanna-gujwan",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

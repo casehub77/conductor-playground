@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5558,
+  "divisional_rank": 90,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Charlene Gellner",
+      "bout_type": "Women's Flyweight Bout",
+      "date": "2011-01-29",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Diaz vs. Cyborg",
+      "fight_id": "9c5f6bb49b178a04",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Charlene Gellner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jenna Castillo",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Diaz vs. Cyborg",
+      "time": "3:57",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2011-01-29",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2011-01-29",
+      "fight_id": "9c5f6bb49b178a04",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "9c5f6bb49b178a04",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-01-29",
+  "name": "Jenna Castillo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "jenna-castillo",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

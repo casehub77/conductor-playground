@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9283,
+  "divisional_rank": 700,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "John Lewis",
+      "bout_type": "Lightweight Bout",
+      "date": "2000-11-17",
+      "elo_delta": -18.4,
+      "event_name": "UFC 28: High Stakes",
+      "fight_id": "983b2a834d017a53",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jens Pulver",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1517.3,
+      "red_name": "Jens Pulver",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:15",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Lowell Anderson",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": 19.4,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "70095ca674abe852",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Lowell Anderson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "John Lewis",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:13",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "1999-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-09-24",
+      "fight_id": "70095ca674abe852",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "70095ca674abe852",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-11-17",
+      "fight_id": "983b2a834d017a53",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2000-11-17",
+      "fight_id": "983b2a834d017a53",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-11-17",
+  "name": "John Lewis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1498.9,
+  "raw_overall_elo": 1500.8,
+  "slug": "john-lewis",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

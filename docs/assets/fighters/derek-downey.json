@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6279,
+  "divisional_rank": 672,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Derek Downey",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-02-07",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Lauzon vs Stephens",
+      "fight_id": "ccaefd94e8a9c7c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Nick Catone",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Nick Catone",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:15",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-02-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-02-07",
+      "fight_id": "ccaefd94e8a9c7c4",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-02-07",
+      "fight_id": "ccaefd94e8a9c7c4",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-02-07",
+  "name": "Derek Downey",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "derek-downey",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

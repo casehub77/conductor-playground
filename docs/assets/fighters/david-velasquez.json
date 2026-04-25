@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9535,
+  "divisional_rank": 909,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "David Velasquez",
+      "bout_type": "Lightweight Bout",
+      "date": "2000-03-10",
+      "elo_delta": -19.4,
+      "event_name": "UFC 24: First Defense",
+      "fight_id": "59e33128f545f7a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jens Pulver",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jens Pulver",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:41",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2000-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-03-10",
+      "fight_id": "59e33128f545f7a1",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2000-03-10",
+      "fight_id": "59e33128f545f7a1",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-03-10",
+  "name": "David Velasquez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "david-velasquez",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

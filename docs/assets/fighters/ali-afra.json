@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9993,
+  "divisional_rank": 407,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ali Afra",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "1998-12-08",
+      "elo_delta": -18.4,
+      "event_name": "WCNHBC: West Coast NHB Championships 1",
+      "fight_id": "cdff4240c5dfe39f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "0:54",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "1998-12-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1998-12-08",
+      "fight_id": "cdff4240c5dfe39f",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "1998-12-08",
+      "fight_id": "cdff4240c5dfe39f",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1998-12-08",
+  "name": "Ali Afra",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.6,
+  "slug": "ali-afra",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

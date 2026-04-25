@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3080,
+  "divisional_rank": 353,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Marcel Fortuna",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2017-11-11",
+      "elo_delta": -18.9,
+      "event_name": "UFC Fight Night: Poirier vs. Pettis",
+      "fight_id": "72ab602bfbace27f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jake Collier",
+      "opponent_elo": 1481.3,
+      "outcome": "red_win",
+      "post_elo": 1479.8,
+      "pre_elo": 1498.7,
+      "red_name": "Jake Collier",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Marcel Fortuna",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2017-07-07",
+      "elo_delta": -17.9,
+      "event_name": "The Ultimate Fighter: Redemption Finale",
+      "fight_id": "7eda86f988b7563a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jordan Johnson",
+      "opponent_elo": 1518.9,
+      "outcome": "red_win",
+      "post_elo": 1498.7,
+      "pre_elo": 1516.5,
+      "red_name": "Jordan Johnson",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Marcel Fortuna",
+      "bout_type": "Heavyweight Bout",
+      "date": "2017-02-04",
+      "elo_delta": 18.5,
+      "event_name": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "fight_id": "6170315e5cf113e9",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anthony Hamilton",
+      "opponent_elo": 1483.4,
+      "outcome": "blue_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Anthony Hamilton",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:10",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-02-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-02-04",
+      "fight_id": "6170315e5cf113e9",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-02-04",
+      "fight_id": "6170315e5cf113e9",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-07-07",
+      "fight_id": "7eda86f988b7563a",
+      "rating": 1498.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2017-07-07",
+      "fight_id": "7eda86f988b7563a",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-11-11",
+      "fight_id": "72ab602bfbace27f",
+      "rating": 1479.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2017-11-11",
+      "fight_id": "72ab602bfbace27f",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-11-11",
+  "name": "Marcel Fortuna",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "raw_current_elo": 1479.8,
+  "raw_overall_elo": 1483.7,
+  "slug": "marcel-fortuna",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

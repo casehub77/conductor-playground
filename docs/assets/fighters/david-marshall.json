@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5670,
+  "divisional_rank": 759,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "David Marshall",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-10-09",
+      "elo_delta": -16.1,
+      "event_name": "Strikeforce: Diaz vs. Noons II",
+      "fight_id": "430b1c688b61f1d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "James Terry",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
+      "red_name": "James Terry",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Diaz vs. Noons II",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-10-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-10-09",
+      "fight_id": "430b1c688b61f1d6",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-10-09",
+      "fight_id": "430b1c688b61f1d6",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-10-09",
+  "name": "David Marshall",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.9,
+  "raw_overall_elo": 1485.5,
+  "slug": "david-marshall",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

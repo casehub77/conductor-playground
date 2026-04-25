@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6426,
+  "divisional_rank": 794,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Zaurbek Muchaev",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2008-09-13",
+      "elo_delta": 18.9,
+      "event_name": "KSW Extra",
+      "fight_id": "ff8b8e2385f64982",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Zaurbek Muchaev",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1482.0,
+      "red_name": "Jedrzej Kubski",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Semi-Finals 2",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Jedrzej Kubski",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2008-09-13",
+      "elo_delta": -18.0,
+      "event_name": "KSW Extra",
+      "fight_id": "e2dcfcf73bd23954",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Maciej Gorski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Maciej Gorski",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Final",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2008-09-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-09-13",
+      "fight_id": "e2dcfcf73bd23954",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-09-13",
+      "fight_id": "ff8b8e2385f64982",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-09-13",
+      "fight_id": "e2dcfcf73bd23954",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-09-13",
+      "fight_id": "ff8b8e2385f64982",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-09-13",
+  "name": "Jedrzej Kubski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "raw_current_elo": 1500.9,
+  "raw_overall_elo": 1500.7,
+  "slug": "jedrzej-kubski",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

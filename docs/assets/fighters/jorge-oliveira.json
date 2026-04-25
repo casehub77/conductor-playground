@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7491,
+  "divisional_rank": 444,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jorge Oliveira",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-10-14",
+      "elo_delta": -19.6,
+      "event_name": "WEC 17: Halloween Fury 4",
+      "fight_id": "5aea7bf488e215dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Slam)",
+      "opponent": "Justin Levens",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1502.3,
+      "pre_elo": 1521.9,
+      "red_name": "Justin Levens",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 17",
+      "time": "3:41",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Shonie Carter",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-01-22",
+      "elo_delta": 21.9,
+      "event_name": "WEC 13: Heavyweight Explosion",
+      "fight_id": "a3cde7736786bc9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Shonie Carter",
+      "opponent_elo": 1576.3,
+      "outcome": "red_win",
+      "post_elo": 1521.9,
+      "pre_elo": 1500.0,
+      "red_name": "Jorge Oliveira",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 13",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-01-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-01-22",
+      "fight_id": "a3cde7736786bc9d",
+      "rating": 1521.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-01-22",
+      "fight_id": "a3cde7736786bc9d",
+      "rating": 1520.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-10-14",
+      "fight_id": "5aea7bf488e215dd",
+      "rating": 1502.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-10-14",
+      "fight_id": "5aea7bf488e215dd",
+      "rating": 1503.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-10-14",
+  "name": "Jorge Oliveira",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.9,
+  "raw_current_elo": 1502.3,
+  "raw_overall_elo": 1503.0,
+  "slug": "jorge-oliveira",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

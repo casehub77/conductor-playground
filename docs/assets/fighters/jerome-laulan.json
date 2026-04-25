@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7504,
+  "divisional_rank": 1265,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jerome Laulan",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-10-01",
+      "elo_delta": -21.6,
+      "event_name": "CWFC: Strike Force 3",
+      "fight_id": "002c17c815a4c281",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Ross Pointon",
+      "opponent_elo": 1461.3,
+      "outcome": "red_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ross Pointon",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "0:36",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-10-01",
+      "fight_id": "002c17c815a4c281",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-10-01",
+      "fight_id": "002c17c815a4c281",
+      "rating": 1481.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-10-01",
+  "name": "Jerome Laulan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1478.4,
+  "raw_overall_elo": 1481.0,
+  "slug": "jerome-laulan",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

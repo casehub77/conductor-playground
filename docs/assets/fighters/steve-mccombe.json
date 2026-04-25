@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6489,
+  "divisional_rank": 1615,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Steve McCombe",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-07-12",
+      "elo_delta": -14.8,
+      "event_name": "Cage Warriors: Enter the Rough House 7",
+      "fight_id": "0dfacc85a178f5d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear Naked Choke)",
+      "opponent": "Paul McVeigh",
+      "opponent_elo": 1585.0,
+      "outcome": "red_win",
+      "post_elo": 1485.2,
+      "pre_elo": 1500.0,
+      "red_name": "Paul McVeigh",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Cage Warriors",
+      "time": "2:37",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-07-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-07-12",
+      "fight_id": "0dfacc85a178f5d3",
+      "rating": 1485.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-07-12",
+      "fight_id": "0dfacc85a178f5d3",
+      "rating": 1486.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-07-12",
+  "name": "Steve McCombe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1485.2,
+  "raw_overall_elo": 1486.5,
+  "slug": "steve-mccombe",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

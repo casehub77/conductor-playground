@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1445.4,
+  "current_elo": 1446.0,
   "days_since_last_fight": 365,
-  "divisional_rank": 842,
+  "divisional_rank": 1490,
   "fight_count": 5,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Landry Ward",
       "opponent_elo": 1484.0,
       "outcome": "red_win",
-      "post_elo": 1445.4,
-      "pre_elo": 1463.7,
+      "post_elo": 1446.0,
+      "pre_elo": 1464.3,
       "red_name": "Landry Ward",
       "round": "1",
       "source": "manual",
@@ -38,10 +38,10 @@
       "is_title": false,
       "method": "TKO (punches and knees)",
       "opponent": "Mason Jones",
-      "opponent_elo": 1482.9,
+      "opponent_elo": 1483.2,
       "outcome": "red_win",
-      "post_elo": 1463.7,
-      "pre_elo": 1483.2,
+      "post_elo": 1464.3,
+      "pre_elo": 1483.8,
       "red_name": "Mason Jones",
       "round": "2",
       "source": "manual",
@@ -53,16 +53,16 @@
       "blue_name": "Peter Queally",
       "bout_type": "Lightweight Bout",
       "date": "2023-02-25",
-      "elo_delta": 20.5,
+      "elo_delta": 21.1,
       "event_name": "Bellator 291: Amosov vs. Storley 2",
       "fight_id": "c62cd91c6a74e34b",
       "gender": "men",
       "is_title": false,
       "method": "TKO (elbow and punches)",
       "opponent": "Peter Queally",
-      "opponent_elo": 1481.0,
+      "opponent_elo": 1492.1,
       "outcome": "red_win",
-      "post_elo": 1483.2,
+      "post_elo": 1483.8,
       "pre_elo": 1462.7,
       "red_name": "Bryce Logan",
       "round": "2",
@@ -150,42 +150,42 @@
     {
       "date": "2023-02-25",
       "fight_id": "c62cd91c6a74e34b",
-      "rating": 1483.2,
+      "rating": 1483.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-02-25",
       "fight_id": "c62cd91c6a74e34b",
-      "rating": 1484.9,
+      "rating": 1485.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-02-23",
       "fight_id": "267b3b7798e24ab0",
-      "rating": 1463.7,
+      "rating": 1464.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2024-02-23",
       "fight_id": "267b3b7798e24ab0",
-      "rating": 1467.7,
+      "rating": 1468.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-04-18",
       "fight_id": "045214fd41c6ab45",
-      "rating": 1445.4,
+      "rating": 1446.0,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-04-18",
       "fight_id": "045214fd41c6ab45",
-      "rating": 1451.2,
+      "rating": 1451.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -197,10 +197,10 @@
   "last_fight_date": "2025-04-18",
   "name": "Bryce Logan",
   "nickname": "",
-  "overall_elo": 1451.2,
+  "overall_elo": 1451.6,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1445.4,
-  "raw_overall_elo": 1451.2,
+  "raw_current_elo": 1446.0,
+  "raw_overall_elo": 1451.6,
   "slug": "bryce-logan",
   "systems": {
     "division": "men:Lightweight",

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5635,
+  "divisional_rank": 406,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Alexandre Ferreira",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-11-13",
+      "elo_delta": -18.2,
+      "event_name": "UFC 122: Marquardt vs Okami",
+      "fight_id": "f6fb194597b8caa6",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Vladimir Matyushenko",
+      "opponent_elo": 1521.9,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Vladimir Matyushenko",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:20",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-11-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-11-13",
+      "fight_id": "f6fb194597b8caa6",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-11-13",
+      "fight_id": "f6fb194597b8caa6",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-11-13",
+  "name": "Alexandre Ferreira",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.8,
+  "raw_overall_elo": 1484.3,
+  "slug": "alexandre-ferreira",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

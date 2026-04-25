@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5271,
+  "divisional_rank": 246,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "John Hawk",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-11-12",
+      "elo_delta": -19.1,
+      "event_name": "Bellator 57",
+      "fight_id": "4edda8e5ff3f869f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (29-28, 28-29, 29-28)",
+      "opponent": "Roger Hollett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1502.2,
+      "pre_elo": 1521.3,
+      "red_name": "Roger Hollett",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 57",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Allan Weickert",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": 21.3,
+      "event_name": "Bellator 51",
+      "fight_id": "34de0aa3602e547f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (retirement)",
+      "opponent": "Allan Weickert",
+      "opponent_elo": 1532.9,
+      "outcome": "red_win",
+      "post_elo": 1521.3,
+      "pre_elo": 1500.0,
+      "red_name": "John Hawk",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 51",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-09-24",
+      "fight_id": "34de0aa3602e547f",
+      "rating": 1521.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "34de0aa3602e547f",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "4edda8e5ff3f869f",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "4edda8e5ff3f869f",
+      "rating": 1502.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-12",
+  "name": "John Hawk",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.3,
+  "raw_current_elo": 1502.2,
+  "raw_overall_elo": 1502.0,
+  "slug": "john-hawk",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

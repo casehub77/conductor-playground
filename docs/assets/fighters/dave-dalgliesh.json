@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6336,
+  "divisional_rank": 158,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Petr Ondrus",
+      "bout_type": "Light Heavyweight 95 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": 17.3,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "74bacab5fea1106d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Petr Ondrus",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1555.1,
+      "pre_elo": 1537.8,
+      "red_name": "Dave Dalgliesh",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Final",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Antony Rea",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": 18.4,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "772ee567d5b650f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Antony Rea",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Dave Dalgliesh",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 2",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Aleksandar Radosavljevic",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": 19.4,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "3fc09bc1bc64ad42",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Aleksandar Radosavljevic",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Dave Dalgliesh",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Semi-Finals 1",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-12-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-12",
+      "fight_id": "3fc09bc1bc64ad42",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "772ee567d5b650f5",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "74bacab5fea1106d",
+      "rating": 1555.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "3fc09bc1bc64ad42",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "772ee567d5b650f5",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "74bacab5fea1106d",
+      "rating": 1549.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-12",
+  "name": "Dave Dalgliesh",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1555.1,
+  "raw_current_elo": 1555.1,
+  "raw_overall_elo": 1549.3,
+  "slug": "dave-dalgliesh",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

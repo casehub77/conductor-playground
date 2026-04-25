@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4235,
+  "divisional_rank": 948,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dashon Johnson",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-09-13",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Bigfoot vs Arlovski",
+      "fight_id": "3cae9a6f0ac09dab",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Godofredo Pepey",
+      "opponent_elo": 1482.8,
+      "outcome": "red_win",
+      "post_elo": 1463.3,
+      "pre_elo": 1482.7,
+      "red_name": "Godofredo Pepey",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:29",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Dashon Johnson",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-06-28",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Te Huna vs Marquardt",
+      "fight_id": "4e57ed47349b74b9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jake Matthews",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jake Matthews",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:16",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2014-06-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-06-28",
+      "fight_id": "4e57ed47349b74b9",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-06-28",
+      "fight_id": "4e57ed47349b74b9",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-09-13",
+      "fight_id": "3cae9a6f0ac09dab",
+      "rating": 1463.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-09-13",
+      "fight_id": "3cae9a6f0ac09dab",
+      "rating": 1465.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-09-13",
+  "name": "Dashon Johnson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.3,
+  "raw_overall_elo": 1465.5,
+  "slug": "dashon-johnson",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

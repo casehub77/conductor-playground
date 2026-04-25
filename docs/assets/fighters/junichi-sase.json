@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8120,
+  "divisional_rank": 375,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yuki Shojo",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-01-24",
+      "elo_delta": 17.1,
+      "event_name": "Shooto 2004: 1/24 in Korakuen Hall",
+      "fight_id": "1799735b0e9d5c90",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yuki Shojo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.1,
+      "pre_elo": 1518.0,
+      "red_name": "Junichi Sase",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Shinichi Kojima",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-10-31",
+      "elo_delta": 18.0,
+      "event_name": "Shooto: Who is Young Leader!",
+      "fight_id": "452e795bb5f0e7a6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Shinichi Kojima",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Junichi Sase",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-10-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-10-31",
+      "fight_id": "452e795bb5f0e7a6",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-10-31",
+      "fight_id": "452e795bb5f0e7a6",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-01-24",
+      "fight_id": "1799735b0e9d5c90",
+      "rating": 1535.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-01-24",
+      "fight_id": "1799735b0e9d5c90",
+      "rating": 1531.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-01-24",
+  "name": "Junichi Sase",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.1,
+  "raw_current_elo": 1535.1,
+  "raw_overall_elo": 1531.3,
+  "slug": "junichi-sase",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

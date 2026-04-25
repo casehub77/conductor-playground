@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8602,
+  "divisional_rank": 1435,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Michiyoshi Ohara",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-09-29",
+      "elo_delta": -15.9,
+      "event_name": "Pride 22",
+      "fight_id": "662bb59539eb141d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kevin Randleman",
+      "opponent_elo": 1523.6,
+      "outcome": "red_win",
+      "post_elo": 1467.1,
+      "pre_elo": 1483.0,
+      "red_name": "Kevin Randleman",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Pride 22",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Michiyoshi Ohara",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-11-03",
+      "elo_delta": -17.0,
+      "event_name": "Pride 17",
+      "fight_id": "e171ac441f017bf2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Renzo Gracie",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Renzo Gracie",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Pride 17",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-11-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-11-03",
+      "fight_id": "e171ac441f017bf2",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-11-03",
+      "fight_id": "e171ac441f017bf2",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-09-29",
+      "fight_id": "662bb59539eb141d",
+      "rating": 1467.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-09-29",
+      "fight_id": "662bb59539eb141d",
+      "rating": 1470.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-09-29",
+  "name": "Michiyoshi Ohara",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1467.1,
+  "raw_overall_elo": 1470.6,
+  "slug": "michiyoshi-ohara",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

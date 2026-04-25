@@ -2,23 +2,23 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1946,
-  "divisional_rank": 335,
+  "divisional_rank": 731,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Carlton Minus",
       "bout_type": "Catch Weight Bout",
       "date": "2020-12-19",
-      "elo_delta": -17.1,
+      "elo_delta": -26.0,
       "event_name": "UFC Fight Night: Thompson vs. Neal",
       "fight_id": "6cabe5038841bf65",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Christos Giagos",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1494.3,
       "outcome": "red_win",
-      "post_elo": 1464.9,
+      "post_elo": 1456.0,
       "pre_elo": 1482.0,
       "red_name": "Christos Giagos",
       "round": "3.0",
@@ -70,14 +70,14 @@
     {
       "date": "2020-12-19",
       "fight_id": "6cabe5038841bf65",
-      "rating": 1464.9,
+      "rating": 1456.0,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2020-12-19",
       "fight_id": "6cabe5038841bf65",
-      "rating": 1468.7,
+      "rating": 1460.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1464.9,
-  "raw_overall_elo": 1468.7,
+  "raw_current_elo": 1456.0,
+  "raw_overall_elo": 1460.7,
   "slug": "carlton-minus",
   "systems": {
     "division": "men:Welterweight",

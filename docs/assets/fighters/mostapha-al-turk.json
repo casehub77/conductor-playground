@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5852,
+  "divisional_rank": 564,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mostapha Al-Turk",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-04-10",
+      "elo_delta": -15.3,
+      "event_name": "UFC 112: Invincible",
+      "fight_id": "d2f2762b1492c2be",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jon Madsen",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1449.7,
+      "pre_elo": 1465.0,
+      "red_name": "Jon Madsen",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mostapha Al-Turk",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-06-13",
+      "elo_delta": -18.2,
+      "event_name": "UFC 99: The Comeback",
+      "fight_id": "6bc76b05dc7c0b1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mirko Filipovic",
+      "opponent_elo": 1504.9,
+      "outcome": "red_win",
+      "post_elo": 1465.0,
+      "pre_elo": 1483.2,
+      "red_name": "Mirko Filipovic",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:06",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mostapha Al-Turk",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-12-27",
+      "elo_delta": -16.8,
+      "event_name": "UFC 92: The Ultimate 2008",
+      "fight_id": "3d5d68a5c14bb3d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Cheick Kongo",
+      "opponent_elo": 1547.5,
+      "outcome": "red_win",
+      "post_elo": 1483.2,
+      "pre_elo": 1500.0,
+      "red_name": "Cheick Kongo",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:37",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-12-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-27",
+      "fight_id": "3d5d68a5c14bb3d3",
+      "rating": 1483.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-12-27",
+      "fight_id": "3d5d68a5c14bb3d3",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-13",
+      "fight_id": "6bc76b05dc7c0b1c",
+      "rating": 1465.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-06-13",
+      "fight_id": "6bc76b05dc7c0b1c",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-04-10",
+      "fight_id": "d2f2762b1492c2be",
+      "rating": 1449.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-04-10",
+      "fight_id": "d2f2762b1492c2be",
+      "rating": 1454.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-10",
+  "name": "Mostapha Al-Turk",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1449.7,
+  "raw_overall_elo": 1454.9,
+  "slug": "mostapha-al-turk",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

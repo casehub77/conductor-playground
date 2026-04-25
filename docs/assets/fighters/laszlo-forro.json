@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8434,
+  "divisional_rank": 1366,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Laszlo Forro",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-16",
+      "elo_delta": -16.3,
+      "event_name": "CWFC 3: Cage Warriors 3",
+      "fight_id": "c4d1e64bf7150472",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Jean Silva",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1480.6,
+      "red_name": "Jean Silva",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Cage Warriors",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Laszlo Forro",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-11-30",
+      "elo_delta": -19.4,
+      "event_name": "CWFC 2: Fists of Fury",
+      "fight_id": "270e422e19fdf050",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Dave Elliot",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Dave Elliot",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-11-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-11-30",
+      "fight_id": "270e422e19fdf050",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-11-30",
+      "fight_id": "270e422e19fdf050",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-03-16",
+      "fight_id": "c4d1e64bf7150472",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-16",
+      "fight_id": "c4d1e64bf7150472",
+      "rating": 1468.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-03-16",
+  "name": "Laszlo Forro",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1464.3,
+  "raw_overall_elo": 1468.0,
+  "slug": "laszlo-forro",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

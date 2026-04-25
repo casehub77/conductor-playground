@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5327,
+  "divisional_rank": 952,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mike Lullo",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-09-17",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Shields vs Ellenberger",
+      "fight_id": "fa1a51db4ae40c1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Robert Peralta",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.6,
+      "pre_elo": 1482.7,
+      "red_name": "Robert Peralta",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Edson Barboza",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-11-20",
+      "elo_delta": -19.4,
+      "event_name": "UFC 123: Rampage vs Machida",
+      "fight_id": "a8995cb231794d9d",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Edson Barboza",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Lullo",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:26",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-11-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-11-20",
+      "fight_id": "a8995cb231794d9d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-11-20",
+      "fight_id": "a8995cb231794d9d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "fa1a51db4ae40c1c",
+      "rating": 1465.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "fa1a51db4ae40c1c",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-17",
+  "name": "Mike Lullo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.6,
+  "raw_overall_elo": 1467.5,
+  "slug": "mike-lullo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

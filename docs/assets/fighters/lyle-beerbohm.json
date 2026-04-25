@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5488,
+  "divisional_rank": 440,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Lyle Beerbohm",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-04-09",
+      "elo_delta": -11.4,
+      "event_name": "Strikeforce: Diaz vs. Daley",
+      "fight_id": "e0d686f49d8397e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (neck crank)",
+      "opponent": "Shinya Aoki",
+      "opponent_elo": 1689.3,
+      "outcome": "red_win",
+      "post_elo": 1526.0,
+      "pre_elo": 1537.5,
+      "red_name": "Shinya Aoki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Diaz vs. Daley",
+      "time": "1:33",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Vítor Ribeiro",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-05-15",
+      "elo_delta": 20.2,
+      "event_name": "Strikeforce: Heavy Artillery",
+      "fight_id": "2b719963727f25cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Vítor Ribeiro",
+      "opponent_elo": 1560.0,
+      "outcome": "red_win",
+      "post_elo": 1537.5,
+      "pre_elo": 1517.3,
+      "red_name": "Lyle Beerbohm",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Heavy Artillery",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Ray Perales",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-02-23",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: At The Dome",
+      "fight_id": "a8d2f755a4b8fce8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Ray Perales",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lyle Beerbohm",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: At The Dome",
+      "time": "1:19",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2008-02-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-02-23",
+      "fight_id": "a8d2f755a4b8fce8",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-02-23",
+      "fight_id": "a8d2f755a4b8fce8",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-15",
+      "fight_id": "2b719963727f25cd",
+      "rating": 1537.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-05-15",
+      "fight_id": "2b719963727f25cd",
+      "rating": 1535.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "e0d686f49d8397e6",
+      "rating": 1526.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "e0d686f49d8397e6",
+      "rating": 1525.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-09",
+  "name": "Lyle Beerbohm",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.5,
+  "raw_current_elo": 1526.0,
+  "raw_overall_elo": 1525.1,
+  "slug": "lyle-beerbohm",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

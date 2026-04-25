@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 11180,
+  "divisional_rank": 1181,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gerry Harris",
+      "bout_type": "Open Weight Bout",
+      "date": "1995-09-08",
+      "elo_delta": -19.5,
+      "event_name": "UFC 7: The Brawl in Buffalo",
+      "fight_id": "a4fcfb80928ffb78",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Paul Varelans",
+      "opponent_elo": 1499.0,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Paul Varelans",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:05",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1995-09-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1995-09-08",
+      "fight_id": "a4fcfb80928ffb78",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1995-09-08",
+      "fight_id": "a4fcfb80928ffb78",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1995-09-08",
+  "name": "Gerry Harris",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.5,
+  "raw_overall_elo": 1482.7,
+  "slug": "gerry-harris",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

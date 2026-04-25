@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6147,
+  "divisional_rank": 25,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yvonne Reis",
+      "bout_type": "Women's bout (145 lb) Bout",
+      "date": "2009-06-19",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 12",
+      "fight_id": "34744462feec63d0",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Yvonne Reis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Stephanie Guimaraes",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 12",
+      "time": "0:49",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-06-19",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2009-06-19",
+      "fight_id": "34744462feec63d0",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "women:Featherweight"
+    },
+    {
+      "date": "2009-06-19",
+      "fight_id": "34744462feec63d0",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-19",
+  "name": "Stephanie Guimaraes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "stephanie-guimaraes",
+  "systems": {
+    "division": "women:Featherweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Featherweight"
+}

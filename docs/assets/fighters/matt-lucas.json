@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5271,
+  "divisional_rank": 524,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Matt Lucas",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-11-12",
+      "elo_delta": -17.1,
+      "event_name": "UFC on FOX: Velasquez vs Dos Santos",
+      "fight_id": "f07d423b2d9f9002",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Aaron Rosa",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Rosa",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-11-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-11-12",
+      "fight_id": "f07d423b2d9f9002",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "f07d423b2d9f9002",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-12",
+  "name": "Matt Lucas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.9,
+  "raw_overall_elo": 1483.9,
+  "slug": "matt-lucas",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

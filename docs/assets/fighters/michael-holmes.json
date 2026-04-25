@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7658,
+  "divisional_rank": 1428,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Michael Holmes",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-04-30",
+      "elo_delta": -16.4,
+      "event_name": "CWFC: Ultimate Force",
+      "fight_id": "ab81ef5516e3d0e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Ian Jones",
+      "opponent_elo": 1554.2,
+      "outcome": "red_win",
+      "post_elo": 1483.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ian Jones",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "0:37",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-04-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-04-30",
+      "fight_id": "ab81ef5516e3d0e5",
+      "rating": 1483.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-04-30",
+      "fight_id": "ab81ef5516e3d0e5",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-04-30",
+  "name": "Michael Holmes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.6,
+  "raw_overall_elo": 1485.1,
+  "slug": "michael-holmes",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

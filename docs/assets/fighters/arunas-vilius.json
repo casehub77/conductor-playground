@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5972,
+  "divisional_rank": 415,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Arunas Vilius",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2009-12-11",
+      "elo_delta": -19.3,
+      "event_name": "KSW 12: Pudzianowski vs. Najman",
+      "fight_id": "d0a00abdc38db477",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kimura)",
+      "opponent": "Karol Bedorf",
+      "opponent_elo": 1501.6,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Karol Bedorf",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Konfrontacja Sztuk Walki",
+      "time": "Heavyweight Tournament Quarter-Finals 3",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-12-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-12-11",
+      "fight_id": "d0a00abdc38db477",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-12-11",
+      "fight_id": "d0a00abdc38db477",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-12-11",
+  "name": "Arunas Vilius",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.7,
+  "raw_overall_elo": 1482.8,
+  "slug": "arunas-vilius",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

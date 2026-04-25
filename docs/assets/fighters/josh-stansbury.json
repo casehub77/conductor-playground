@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3219,
+  "divisional_rank": 331,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jeremy Kimball",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2017-06-25",
+      "elo_delta": -20.4,
+      "event_name": "UFC Fight Night: Chiesa vs. Lee",
+      "fight_id": "7b361b442793eea3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jeremy Kimball",
+      "opponent_elo": 1481.3,
+      "outcome": "blue_win",
+      "post_elo": 1477.8,
+      "pre_elo": 1498.1,
+      "red_name": "Josh Stansbury",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:21",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Devin Clark",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-12-03",
+      "elo_delta": -19.9,
+      "event_name": "The Ultimate Fighter: Tournament of Champions Finale",
+      "fight_id": "160c9ace97f74681",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Devin Clark",
+      "opponent_elo": 1481.9,
+      "outcome": "blue_win",
+      "post_elo": 1498.1,
+      "pre_elo": 1518.0,
+      "red_name": "Josh Stansbury",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Josh Stansbury",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-07-08",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "fight_id": "3515ff7b4d6b3fb9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Cory Hendricks",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Cory Hendricks",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2016-07-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-07-08",
+      "fight_id": "3515ff7b4d6b3fb9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-07-08",
+      "fight_id": "3515ff7b4d6b3fb9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-12-03",
+      "fight_id": "160c9ace97f74681",
+      "rating": 1498.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-12-03",
+      "fight_id": "160c9ace97f74681",
+      "rating": 1498.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-06-25",
+      "fight_id": "7b361b442793eea3",
+      "rating": 1477.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2017-06-25",
+      "fight_id": "7b361b442793eea3",
+      "rating": 1480.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-06-25",
+  "name": "Josh Stansbury",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1477.8,
+  "raw_overall_elo": 1480.4,
+  "slug": "josh-stansbury",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -2,7 +2,7 @@
   "activity_status": "inactive",
   "current_elo": 1495.0,
   "days_since_last_fight": 763,
-  "divisional_rank": 611,
+  "divisional_rank": 999,
   "fight_count": 3,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Luke Riley",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1480.1,
-      "pre_elo": 1498.0,
+      "post_elo": 1480.0,
+      "pre_elo": 1497.9,
       "red_name": "Luke Riley",
       "round": "3",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "John de Jesus",
       "bout_type": "Featherweight Bout",
       "date": "2021-12-03",
-      "elo_delta": -20.0,
+      "elo_delta": -20.1,
       "event_name": "Bellator 272: Pettis vs. Horiguchi",
       "fight_id": "a2153f9eaa7b36ad",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
       "opponent": "Kai Kamaka III",
-      "opponent_elo": 1478.9,
+      "opponent_elo": 1478.1,
       "outcome": "red_win",
-      "post_elo": 1498.0,
+      "post_elo": 1497.9,
       "pre_elo": 1518.0,
       "red_name": "Kai Kamaka III",
       "round": "3",
@@ -92,7 +92,7 @@
     {
       "date": "2021-12-03",
       "fight_id": "a2153f9eaa7b36ad",
-      "rating": 1498.0,
+      "rating": 1497.9,
       "scope": "division",
       "system": "men:Featherweight"
     },
@@ -106,7 +106,7 @@
     {
       "date": "2024-03-16",
       "fight_id": "50c17c8ae2974548",
-      "rating": 1480.1,
+      "rating": 1480.0,
       "scope": "division",
       "system": "men:Featherweight"
     },
@@ -127,7 +127,7 @@
   "nickname": "",
   "overall_elo": 1497.4,
   "peak_elo": 1518.0,
-  "raw_current_elo": 1480.1,
+  "raw_current_elo": 1480.0,
   "raw_overall_elo": 1482.5,
   "slug": "john-de-jesus",
   "systems": {

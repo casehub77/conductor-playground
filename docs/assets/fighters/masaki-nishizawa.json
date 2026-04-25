@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9220,
+  "divisional_rank": 813,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Masaki Nishizawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-01-19",
+      "elo_delta": -21.5,
+      "event_name": "Shooto: To The Top 1",
+      "fight_id": "ddbd1ecccff767b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Masahiro Oishi",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1496.4,
+      "pre_elo": 1517.9,
+      "red_name": "Masahiro Oishi",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
+      "time": "4:12",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Norio Nishiyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-07-22",
+      "elo_delta": 17.9,
+      "event_name": "Shooto: R.E.A.D. 7",
+      "fight_id": "5d5b3d0cc56accf3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Norio Nishiyama",
+      "opponent_elo": 1497.6,
+      "outcome": "red_win",
+      "post_elo": 1517.9,
+      "pre_elo": 1500.0,
+      "red_name": "Masaki Nishizawa",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2000-07-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-07-22",
+      "fight_id": "5d5b3d0cc56accf3",
+      "rating": 1517.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-07-22",
+      "fight_id": "5d5b3d0cc56accf3",
+      "rating": 1515.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-01-19",
+      "fight_id": "ddbd1ecccff767b4",
+      "rating": 1496.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-01-19",
+      "fight_id": "ddbd1ecccff767b4",
+      "rating": 1497.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-01-19",
+  "name": "Masaki Nishizawa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.9,
+  "raw_current_elo": 1496.4,
+  "raw_overall_elo": 1497.0,
+  "slug": "masaki-nishizawa",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

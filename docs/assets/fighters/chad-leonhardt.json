@@ -1,0 +1,73 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5516,
+  "divisional_rank": 318,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kelly Leo",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-03-12",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 36",
+      "fight_id": "9c32337bf6eecea5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (corner stoppage)",
+      "opponent": "Kelly Leo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.3,
+      "red_name": "Chad Leonhardt",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 36",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-29",
+      "fight_id": "804c23c6bffa9125",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-12",
+      "fight_id": "9c32337bf6eecea5",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-03-12",
+      "fight_id": "9c32337bf6eecea5",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-12",
+  "name": "Chad Leonhardt",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.8,
+  "raw_current_elo": 1535.8,
+  "raw_overall_elo": 1533.7,
+  "slug": "chad-leonhardt",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

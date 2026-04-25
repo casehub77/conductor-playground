@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7504,
+  "divisional_rank": 1387,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Marc Goddard",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-10-01",
+      "elo_delta": -20.5,
+      "event_name": "CWFC: Strike Force 3",
+      "fight_id": "b61dabdd81652256",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Henrique Cesar Nogueira",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Henrique Cesar Nogueira",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "2:49",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-10-01",
+      "fight_id": "b61dabdd81652256",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-10-01",
+      "fight_id": "b61dabdd81652256",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-10-01",
+  "name": "Marc Goddard",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.5,
+  "raw_overall_elo": 1481.9,
+  "slug": "marc-goddard",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5621,
+  "divisional_rank": 556,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gareth Pugh",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-11-27",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 39: The Uprising",
+      "fight_id": "1afc00c5b044eebb",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Gareth Pugh",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Conor Cooke",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Cage Warriors",
+      "time": "2:33",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-11-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-11-27",
+      "fight_id": "1afc00c5b044eebb",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-11-27",
+      "fight_id": "1afc00c5b044eebb",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-11-27",
+  "name": "Conor Cooke",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "conor-cooke",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

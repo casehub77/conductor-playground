@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7702,
+  "divisional_rank": 968,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jason Maxwell",
+      "bout_type": "Lightweight Bout",
+      "date": "2005-03-17",
+      "elo_delta": -16.2,
+      "event_name": "WEC 14: Vengeance",
+      "fight_id": "e16c50422500e6d9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Gabe Ruediger",
+      "opponent_elo": 1558.1,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "Gabe Ruediger",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 14",
+      "time": "3:28",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2005-03-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-03-17",
+      "fight_id": "e16c50422500e6d9",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "e16c50422500e6d9",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-03-17",
+  "name": "Jason Maxwell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.8,
+  "raw_overall_elo": 1485.3,
+  "slug": "jason-maxwell",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

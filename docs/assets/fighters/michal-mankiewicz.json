@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5691,
+  "divisional_rank": 750,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paul Reed",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2010-09-18",
+      "elo_delta": 18.8,
+      "event_name": "KSW 14: Judgment Day",
+      "fight_id": "162e1c5b8f6e1986",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Paul Reed",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.6,
+      "pre_elo": 1484.8,
+      "red_name": "Michal Mankiewicz",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Konfrontacja Sztuk Walki",
+      "time": "Lightweight Tournament Quarter-Finals 1",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Michal Mankiewicz",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2010-09-18",
+      "elo_delta": -15.2,
+      "event_name": "KSW 14: Judgment Day",
+      "fight_id": "b2ce8bfc8f5d415c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Maciej Gorski",
+      "opponent_elo": 1553.8,
+      "outcome": "red_win",
+      "post_elo": 1484.8,
+      "pre_elo": 1500.0,
+      "red_name": "Maciej Gorski",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Konfrontacja Sztuk Walki",
+      "time": "Lightweight Tournament Semi-Finals 1",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-18",
+      "fight_id": "b2ce8bfc8f5d415c",
+      "rating": 1484.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "162e1c5b8f6e1986",
+      "rating": 1503.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "b2ce8bfc8f5d415c",
+      "rating": 1486.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-18",
+      "fight_id": "162e1c5b8f6e1986",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-18",
+  "name": "Michal Mankiewicz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.6,
+  "raw_current_elo": 1503.6,
+  "raw_overall_elo": 1502.8,
+  "slug": "michal-mankiewicz",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

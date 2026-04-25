@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7581,
+  "divisional_rank": 1368,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Lautaro Arborelo",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-07-16",
+      "elo_delta": -17.7,
+      "event_name": "CWFC: Strike Force 2",
+      "fight_id": "3a24ce28049e55a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Dan Hardy",
+      "opponent_elo": 1531.7,
+      "outcome": "red_win",
+      "post_elo": 1482.3,
+      "pre_elo": 1500.0,
+      "red_name": "Dan Hardy",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "3:52",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-07-16",
+      "fight_id": "3a24ce28049e55a0",
+      "rating": 1482.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-07-16",
+      "fight_id": "3a24ce28049e55a0",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-07-16",
+  "name": "Lautaro Arborelo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.3,
+  "raw_overall_elo": 1484.2,
+  "slug": "lautaro-arborelo",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

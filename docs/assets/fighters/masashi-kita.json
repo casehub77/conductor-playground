@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8224,
+  "divisional_rank": 623,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Masashi Kita",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-10-12",
+      "elo_delta": -19.8,
+      "event_name": "Shooto: Gig West 4",
+      "fight_id": "f6a22904c4eb4537",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Masato Nishiguchi",
+      "opponent_elo": 1464.9,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1499.5,
+      "red_name": "Masato Nishiguchi",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Masashi Kita",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-02-18",
+      "elo_delta": -19.9,
+      "event_name": "Shooto: Gig West 1",
+      "fight_id": "b4829384c6c4a928",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jun Kitagawa",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1499.5,
+      "pre_elo": 1519.4,
+      "red_name": "Jun Kitagawa",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Ryota Ibaraki",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-04-02",
+      "elo_delta": 19.4,
+      "event_name": "Shooto: R.E.A.D. 3",
+      "fight_id": "70b64eebc746bfb5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Ryota Ibaraki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Masashi Kita",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
+      "time": "4:03",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2000-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-04-02",
+      "fight_id": "70b64eebc746bfb5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-04-02",
+      "fight_id": "70b64eebc746bfb5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-02-18",
+      "fight_id": "b4829384c6c4a928",
+      "rating": 1499.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-02-18",
+      "fight_id": "b4829384c6c4a928",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-10-12",
+      "fight_id": "f6a22904c4eb4537",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-10-12",
+      "fight_id": "f6a22904c4eb4537",
+      "rating": 1482.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-10-12",
+  "name": "Masashi Kita",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1479.7,
+  "raw_overall_elo": 1482.3,
+  "slug": "masashi-kita",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

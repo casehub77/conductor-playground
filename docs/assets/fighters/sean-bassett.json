@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6875,
+  "divisional_rank": 1242,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Sean Bassett",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-06-22",
+      "elo_delta": -17.5,
+      "event_name": "Strikeforce: Shamrock vs. Baroni",
+      "fight_id": "2230155d237ecfb1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "David Smith",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1446.7,
+      "pre_elo": 1464.2,
+      "red_name": "David Smith",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Baroni",
+      "time": "1:23",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Sean Bassett",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-12-08",
+      "elo_delta": -18.5,
+      "event_name": "Strikeforce: Triple Threat",
+      "fight_id": "20f1a0865e111936",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "David Smith",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.2,
+      "pre_elo": 1482.7,
+      "red_name": "David Smith",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Triple Threat",
+      "time": "1:36",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Sean Bassett",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-06-09",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Revenge",
+      "fight_id": "6369b298ad9ad1c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Chris Amarante",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Amarante",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Revenge",
+      "time": "4:37",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-06-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-09",
+      "fight_id": "6369b298ad9ad1c3",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-06-09",
+      "fight_id": "6369b298ad9ad1c3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "20f1a0865e111936",
+      "rating": 1464.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "20f1a0865e111936",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-06-22",
+      "fight_id": "2230155d237ecfb1",
+      "rating": 1446.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-06-22",
+      "fight_id": "2230155d237ecfb1",
+      "rating": 1450.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-06-22",
+  "name": "Sean Bassett",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1446.7,
+  "raw_overall_elo": 1450.6,
+  "slug": "sean-bassett",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

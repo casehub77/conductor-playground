@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8631,
+  "divisional_rank": 467,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Erik Mainiai",
+      "bout_type": "Heavyweight Bout",
+      "date": "2002-08-31",
+      "elo_delta": -19.4,
+      "event_name": "WEC 4 – Rumble Under The Sun",
+      "fight_id": "4c2d9e048a81c88d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (punches)",
+      "opponent": "John Rallo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "John Rallo",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 4",
+      "time": "3:06",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2002-08-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-08-31",
+      "fight_id": "4c2d9e048a81c88d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2002-08-31",
+      "fight_id": "4c2d9e048a81c88d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-08-31",
+  "name": "Erik Mainiai",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "erik-mainiai",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

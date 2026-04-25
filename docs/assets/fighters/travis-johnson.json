@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6504,
+  "divisional_rank": 587,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Travis Johnson",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-06-27",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Melendez vs. Thomson",
+      "fight_id": "d30daf300c75b7a0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Jorge Interiano",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jorge Interiano",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Melendez vs. Thomson",
+      "time": "3:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-06-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-06-27",
+      "fight_id": "d30daf300c75b7a0",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-06-27",
+      "fight_id": "d30daf300c75b7a0",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-06-27",
+  "name": "Travis Johnson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "travis-johnson",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

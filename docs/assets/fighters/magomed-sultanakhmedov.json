@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6563,
+  "divisional_rank": 770,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Magomed Sultanakhmedov",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-04-29",
+      "elo_delta": -20.6,
+      "event_name": "Dream 2: Middleweight Grand Prix 2008 1st Round",
+      "fight_id": "3367816416e6399f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Zelg Galesic",
+      "opponent_elo": 1479.6,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Zelg Galesic",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 2",
+      "time": "1:40",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2008-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-04-29",
+      "fight_id": "3367816416e6399f",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-04-29",
+      "fight_id": "3367816416e6399f",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-04-29",
+  "name": "Magomed Sultanakhmedov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.4,
+  "raw_overall_elo": 1481.8,
+  "slug": "magomed-sultanakhmedov",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

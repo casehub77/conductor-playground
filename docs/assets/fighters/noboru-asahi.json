@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9346,
+  "divisional_rank": 1485,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Noboru Asahi",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-09-15",
+      "elo_delta": -17.0,
+      "event_name": "Shooto: R.E.A.D. 10",
+      "fight_id": "e5a79b20a9ba4232",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Naoya Uematsu",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Naoya Uematsu",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2000-09-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-09-15",
+      "fight_id": "e5a79b20a9ba4232",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-09-15",
+      "fight_id": "e5a79b20a9ba4232",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-09-15",
+  "name": "Noboru Asahi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.0,
+  "raw_overall_elo": 1484.8,
+  "slug": "noboru-asahi",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

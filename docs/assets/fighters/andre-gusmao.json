@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6174,
+  "divisional_rank": 409,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Andre Gusmao",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2009-05-23",
+      "elo_delta": -16.1,
+      "event_name": "UFC 98: Evans vs Machida",
+      "fight_id": "0a3bf4516f06b9d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Krzysztof Soszynski",
+      "opponent_elo": 1541.8,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1482.0,
+      "red_name": "Krzysztof Soszynski",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:17",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Andre Gusmao",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-08-09",
+      "elo_delta": -18.0,
+      "event_name": "UFC 87: Seek And Destroy",
+      "fight_id": "154762b29783ac54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jon Jones",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jon Jones",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-08-09",
+      "fight_id": "154762b29783ac54",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-08-09",
+      "fight_id": "154762b29783ac54",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-23",
+      "fight_id": "0a3bf4516f06b9d7",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2009-05-23",
+      "fight_id": "0a3bf4516f06b9d7",
+      "rating": 1469.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-23",
+  "name": "Andre Gusmao",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.9,
+  "raw_overall_elo": 1469.3,
+  "slug": "andre-gusmao",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2625,
+  "divisional_rank": 811,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jonathan Martinez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-02-09",
+      "elo_delta": -17.1,
+      "event_name": "UFC 234: Adesanya vs. Silva",
+      "fight_id": "eaa40299a8da1f7c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jonathan Martinez",
+      "opponent_elo": 1480.5,
+      "outcome": "blue_win",
+      "post_elo": 1446.5,
+      "pre_elo": 1463.6,
+      "red_name": "Wulijiburen",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Wulijiburen",
+      "bout_type": "Bantamweight Bout",
+      "date": "2018-08-04",
+      "elo_delta": -19.0,
+      "event_name": "UFC 227: Dillashaw vs. Garbrandt 2",
+      "fight_id": "b7ad552222a9998c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Marlon Vera",
+      "opponent_elo": 1490.9,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.6,
+      "red_name": "Marlon Vera",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:53",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Rolando Dy",
+      "bout_type": "Featherweight Bout",
+      "date": "2017-11-25",
+      "elo_delta": -19.9,
+      "event_name": "UFC Fight Night: Bisping vs. Gastelum",
+      "fight_id": "ac2b611dea08a66a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rolando Dy",
+      "opponent_elo": 1463.4,
+      "outcome": "blue_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Wulijiburen",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2017-11-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-11-25",
+      "fight_id": "ac2b611dea08a66a",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2017-11-25",
+      "fight_id": "ac2b611dea08a66a",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-08-04",
+      "fight_id": "b7ad552222a9998c",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2018-08-04",
+      "fight_id": "b7ad552222a9998c",
+      "rating": 1466.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-02-09",
+      "fight_id": "eaa40299a8da1f7c",
+      "rating": 1446.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-02-09",
+      "fight_id": "eaa40299a8da1f7c",
+      "rating": 1451.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-02-09",
+  "name": "Wulijiburen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1446.5,
+  "raw_overall_elo": 1451.2,
+  "slug": "wulijiburen",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

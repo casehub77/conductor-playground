@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5651,
+  "divisional_rank": 633,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tony Lopez",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2010-10-28",
+      "elo_delta": -17.1,
+      "event_name": "Bellator 34",
+      "fight_id": "8c2f3d90730905bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (30–27, 30–27, 30–27)",
+      "opponent": "Rafael Davis",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.6,
+      "pre_elo": 1482.7,
+      "red_name": "Rafael Davis",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 34",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Tony Lopez",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-19",
+      "elo_delta": -19.4,
+      "event_name": "WEC 15: Judgment Day",
+      "fight_id": "3a5c4c72dc853ae0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Justin Levens",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Levens",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 15",
+      "time": "3:46",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-19",
+      "fight_id": "3a5c4c72dc853ae0",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-19",
+      "fight_id": "3a5c4c72dc853ae0",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-28",
+      "fight_id": "8c2f3d90730905bc",
+      "rating": 1465.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2010-10-28",
+      "fight_id": "8c2f3d90730905bc",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-10-28",
+  "name": "Tony Lopez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.6,
+  "raw_overall_elo": 1467.5,
+  "slug": "tony-lopez",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2435,
+  "divisional_rank": 376,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Uchu Sakurai",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2019-08-18",
+      "elo_delta": -17.2,
+      "event_name": "Rizin 18 - Nagoya",
+      "fight_id": "c065a2900020f27e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Ryuji Horio",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Ryuji Horio",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2019 in Rizin Fighting Federation",
+      "time": "9:00",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2019-08-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-08-18",
+      "fight_id": "c065a2900020f27e",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2019-08-18",
+      "fight_id": "c065a2900020f27e",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-08-18",
+  "name": "Uchu Sakurai",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.8,
+  "raw_overall_elo": 1484.7,
+  "slug": "uchu-sakurai",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

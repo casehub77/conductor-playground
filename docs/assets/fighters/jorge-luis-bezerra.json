@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4214,
+  "divisional_rank": 740,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jorge Luis Bezerra",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2014-10-04",
+      "elo_delta": -15.1,
+      "event_name": "KSW 28: Fighters Den",
+      "fight_id": "c596354e00b3c68f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Michał Materla",
+      "opponent_elo": 1578.0,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1500.0,
+      "red_name": "Michał Materla",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2014 in Konfrontacja Sztuk Walki",
+      "time": "1:46",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2014-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-10-04",
+      "fight_id": "c596354e00b3c68f",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "c596354e00b3c68f",
+      "rating": 1486.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-10-04",
+  "name": "Jorge Luis Bezerra",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.9,
+  "raw_overall_elo": 1486.4,
+  "slug": "jorge-luis-bezerra",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

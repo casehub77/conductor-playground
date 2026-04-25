@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5707,
+  "divisional_rank": 486,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Joe Christopher",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-09-02",
+      "elo_delta": -18.1,
+      "event_name": "Bellator 27",
+      "fight_id": "53929acaca129bd8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision",
+      "opponent": "Andrew Chappelle",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1501.3,
+      "pre_elo": 1519.4,
+      "red_name": "Andrew Chappelle",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 27",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brandon McDowell",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-05-20",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 19",
+      "fight_id": "fe92f49a0050f9cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Brandon McDowell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Joe Christopher",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 19",
+      "time": "1:36",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-05-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-05-20",
+      "fight_id": "fe92f49a0050f9cd",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-05-20",
+      "fight_id": "fe92f49a0050f9cd",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-02",
+      "fight_id": "53929acaca129bd8",
+      "rating": 1501.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-09-02",
+      "fight_id": "53929acaca129bd8",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-02",
+  "name": "Joe Christopher",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1501.3,
+  "raw_overall_elo": 1501.3,
+  "slug": "joe-christopher",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

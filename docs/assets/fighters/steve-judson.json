@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9535,
+  "divisional_rank": 616,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Steve Judson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2000-03-10",
+      "elo_delta": -18.3,
+      "event_name": "UFC 24: First Defense",
+      "fight_id": "34e32d0de6cf3899",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tedd Williams",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1461.1,
+      "pre_elo": 1479.4,
+      "red_name": "Tedd Williams",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:23",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Steve Judson",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": -20.6,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "0a9301a9694a76ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Brad Kohler",
+      "opponent_elo": 1479.5,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Brad Kohler",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:30",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1999-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-09-24",
+      "fight_id": "0a9301a9694a76ec",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "0a9301a9694a76ec",
+      "rating": 1481.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-03-10",
+      "fight_id": "34e32d0de6cf3899",
+      "rating": 1461.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2000-03-10",
+      "fight_id": "34e32d0de6cf3899",
+      "rating": 1465.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-03-10",
+  "name": "Steve Judson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1461.1,
+  "raw_overall_elo": 1465.4,
+  "slug": "steve-judson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

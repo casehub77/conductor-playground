@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1527.9,
+  "current_elo": 1528.0,
   "days_since_last_fight": 14,
-  "divisional_rank": 96,
+  "divisional_rank": 114,
   "fight_count": 4,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Ethyn Ewing",
       "opponent_elo": 1522.1,
       "outcome": "red_win",
-      "post_elo": 1527.9,
-      "pre_elo": 1548.8,
+      "post_elo": 1528.0,
+      "pre_elo": 1549.0,
       "red_name": "Ethyn Ewing",
       "round": "3",
       "source": "ufc:official",
@@ -31,16 +31,16 @@
       "blue_name": "Felipe Bunes",
       "bout_type": "Flyweight Bout",
       "date": "2025-08-02",
-      "elo_delta": 16.1,
+      "elo_delta": 16.3,
       "event_name": "UFC Fight Night: Taira vs. Park",
       "fight_id": "23903696cd0bd821",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Felipe Bunes",
-      "opponent_elo": 1502.8,
+      "opponent_elo": 1506.3,
       "outcome": "red_win",
-      "post_elo": 1555.0,
+      "post_elo": 1555.2,
       "pre_elo": 1538.9,
       "red_name": "Rafael Estevam",
       "round": "3.0",
@@ -82,7 +82,7 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Charles Johnson",
-      "opponent_elo": 1538.8,
+      "opponent_elo": 1539.7,
       "outcome": "blue_win",
       "post_elo": 1520.0,
       "pre_elo": 1500.0,
@@ -121,35 +121,35 @@
     {
       "date": "2025-02-15",
       "fight_id": "0da3a6a482a8d837",
-      "rating": 1534.3,
+      "rating": 1534.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-08-02",
       "fight_id": "23903696cd0bd821",
-      "rating": 1555.0,
+      "rating": 1555.2,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-08-02",
       "fight_id": "23903696cd0bd821",
-      "rating": 1548.8,
+      "rating": 1549.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-04-04",
       "fight_id": "ce0f90828f817741",
-      "rating": 1527.9,
+      "rating": 1528.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-04-04",
       "fight_id": "ce0f90828f817741",
-      "rating": 1530.9,
+      "rating": 1531.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -161,10 +161,10 @@
   "last_fight_date": "2026-04-04",
   "name": "Rafael Estevam",
   "nickname": "",
-  "overall_elo": 1530.9,
-  "peak_elo": 1555.0,
-  "raw_current_elo": 1527.9,
-  "raw_overall_elo": 1530.9,
+  "overall_elo": 1531.1,
+  "peak_elo": 1555.2,
+  "raw_current_elo": 1528.0,
+  "raw_overall_elo": 1531.1,
   "slug": "rafael-estevam",
   "systems": {
     "division": "men:Bantamweight",

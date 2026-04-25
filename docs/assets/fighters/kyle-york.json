@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7247,
+  "divisional_rank": 313,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jason Glaza",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-06-15",
+      "elo_delta": 19.4,
+      "event_name": "WEC 21: Tapout",
+      "fight_id": "d92114dd70388985",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jason Glaza",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kyle York",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 21",
+      "time": "0:46",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-06-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-15",
+      "fight_id": "d92114dd70388985",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-06-15",
+      "fight_id": "d92114dd70388985",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-06-15",
+  "name": "Kyle York",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "kyle-york",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

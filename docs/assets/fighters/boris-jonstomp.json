@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7637,
+  "divisional_rank": 451,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jim Wallhead",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-21",
+      "elo_delta": 21.5,
+      "event_name": "CWFC: Strike Force",
+      "fight_id": "2e9388898ad28760",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Neck Crank)",
+      "opponent": "Jim Wallhead",
+      "opponent_elo": 1536.8,
+      "outcome": "red_win",
+      "post_elo": 1521.5,
+      "pre_elo": 1500.0,
+      "red_name": "Boris Jonstomp",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "4:20",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-21",
+      "fight_id": "2e9388898ad28760",
+      "rating": 1521.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-21",
+      "fight_id": "2e9388898ad28760",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-05-21",
+  "name": "Boris Jonstomp",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.5,
+  "raw_current_elo": 1521.5,
+  "raw_overall_elo": 1518.9,
+  "slug": "boris-jonstomp",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

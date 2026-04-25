@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5488,
+  "divisional_rank": 432,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Hiroyuki Takaya",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-04-09",
+      "elo_delta": 22.4,
+      "event_name": "Strikeforce: Diaz vs. Daley",
+      "fight_id": "a7a91bdcb86bbdd6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 30–27, 28–29)",
+      "opponent": "Hiroyuki Takaya",
+      "opponent_elo": 1587.6,
+      "outcome": "red_win",
+      "post_elo": 1522.4,
+      "pre_elo": 1500.0,
+      "red_name": "Robbie Peralta",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Diaz vs. Daley",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-04-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-04-09",
+      "fight_id": "a7a91bdcb86bbdd6",
+      "rating": 1522.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "a7a91bdcb86bbdd6",
+      "rating": 1519.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-09",
+  "name": "Robbie Peralta",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1522.4,
+  "raw_current_elo": 1522.4,
+  "raw_overall_elo": 1519.8,
+  "slug": "robbie-peralta",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5712,
+  "divisional_rank": 493,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "James Toney",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-08-28",
+      "elo_delta": -15.2,
+      "event_name": "UFC 118: Edgar vs Penn 2",
+      "fight_id": "f78057df09dfe30c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Randy Couture",
+      "opponent_elo": 1576.8,
+      "outcome": "red_win",
+      "post_elo": 1484.8,
+      "pre_elo": 1500.0,
+      "red_name": "Randy Couture",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:19",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-28",
+      "fight_id": "f78057df09dfe30c",
+      "rating": 1484.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-08-28",
+      "fight_id": "f78057df09dfe30c",
+      "rating": 1488.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-28",
+  "name": "James Toney",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.8,
+  "raw_overall_elo": 1488.1,
+  "slug": "james-toney",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

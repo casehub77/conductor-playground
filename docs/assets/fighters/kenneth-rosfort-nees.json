@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5678,
+  "divisional_rank": 486,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kenneth Rosfort-Nees",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-10-01",
+      "elo_delta": -19.7,
+      "event_name": "Cage Warriors 38: Young Guns",
+      "fight_id": "aab4ef590cfe85ba",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Matt Veach",
+      "opponent_elo": 1486.6,
+      "outcome": "red_win",
+      "post_elo": 1500.7,
+      "pre_elo": 1520.4,
+      "red_name": "Matt Veach",
+      "round": "5",
+      "source": "manual",
+      "source_title": "2010 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Greg Loughran",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-05-22",
+      "elo_delta": 20.4,
+      "event_name": "Cage Warriors 37: Right to Fight",
+      "fight_id": "0295388663875c84",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Greg Loughran",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Kenneth Rosfort-Nees",
+      "round": "4",
+      "source": "manual",
+      "source_title": "2010 in Cage Warriors",
+      "time": "3:58",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-05-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-05-22",
+      "fight_id": "0295388663875c84",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-05-22",
+      "fight_id": "0295388663875c84",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-01",
+      "fight_id": "aab4ef590cfe85ba",
+      "rating": 1500.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-10-01",
+      "fight_id": "aab4ef590cfe85ba",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-10-01",
+  "name": "Kenneth Rosfort-Nees",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "raw_current_elo": 1500.7,
+  "raw_overall_elo": 1499.9,
+  "slug": "kenneth-rosfort-nees",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

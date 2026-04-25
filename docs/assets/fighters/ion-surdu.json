@@ -2,7 +2,7 @@
   "activity_status": "active",
   "current_elo": 1534.7,
   "days_since_last_fight": 7,
-  "divisional_rank": 74,
+  "divisional_rank": 96,
   "fight_count": 11,
   "fight_log": [
     {
@@ -16,7 +16,7 @@
       "is_title": false,
       "method": "KO (punch)",
       "opponent": "Amiran Gogoladze",
-      "opponent_elo": 1550.5,
+      "opponent_elo": 1550.6,
       "outcome": "red_win",
       "post_elo": 1534.7,
       "pre_elo": 1554.4,
@@ -38,7 +38,7 @@
       "is_title": false,
       "method": "TKO (punches and elbow)",
       "opponent": "Andrej Kalašnik",
-      "opponent_elo": 1518.7,
+      "opponent_elo": 1518.4,
       "outcome": "red_win",
       "post_elo": 1554.4,
       "pre_elo": 1535.9,
@@ -53,16 +53,16 @@
       "blue_name": "Ion Surdu",
       "bout_type": "Middleweight Bout",
       "date": "2025-04-26",
-      "elo_delta": -18.7,
+      "elo_delta": -16.0,
       "event_name": "Oktagon 70: Krištofič vs. Humburger",
       "fight_id": "09c538506b73304d",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
       "opponent": "Krzysztof Jotko",
-      "opponent_elo": 1518.2,
+      "opponent_elo": 1570.3,
       "outcome": "red_win",
-      "post_elo": 1513.2,
+      "post_elo": 1515.9,
       "pre_elo": 1531.9,
       "red_name": "Krzysztof Jotko",
       "round": "3",
@@ -337,14 +337,14 @@
     {
       "date": "2025-04-26",
       "fight_id": "09c538506b73304d",
-      "rating": 1513.2,
+      "rating": 1515.9,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2025-04-26",
       "fight_id": "09c538506b73304d",
-      "rating": 1515.2,
+      "rating": 1517.5,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -358,7 +358,7 @@
     {
       "date": "2025-11-01",
       "fight_id": "45df2d73f8fb345b",
-      "rating": 1532.5,
+      "rating": 1534.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -372,7 +372,7 @@
     {
       "date": "2026-04-11",
       "fight_id": "43a3fbe272c6860f",
-      "rating": 1515.9,
+      "rating": 1518.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -384,10 +384,10 @@
   "last_fight_date": "2026-04-11",
   "name": "Ion Surdu",
   "nickname": "",
-  "overall_elo": 1515.9,
+  "overall_elo": 1518.0,
   "peak_elo": 1554.4,
   "raw_current_elo": 1534.7,
-  "raw_overall_elo": 1515.9,
+  "raw_overall_elo": 1518.0,
   "slug": "ion-surdu",
   "systems": {
     "division": "men:Welterweight",

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6357,
+  "divisional_rank": 446,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jose Palacios",
+      "bout_type": "Featherweight Bout",
+      "date": "2008-11-21",
+      "elo_delta": 19.3,
+      "event_name": "Strikeforce: Destruction",
+      "fight_id": "79fe0cc606c69351",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jose Palacios",
+      "opponent_elo": 1499.3,
+      "outcome": "red_win",
+      "post_elo": 1520.9,
+      "pre_elo": 1501.6,
+      "red_name": "Alvin Cacdac",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Destruction",
+      "time": "3:10",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Bobby Sanchez",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-02-10",
+      "elo_delta": 19.5,
+      "event_name": "Strikeforce: Young Guns",
+      "fight_id": "9b2f5ee3d2024e05",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Bobby Sanchez",
+      "opponent_elo": 1484.1,
+      "outcome": "red_win",
+      "post_elo": 1501.8,
+      "pre_elo": 1482.3,
+      "red_name": "Alvin Cacdac",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Young Guns",
+      "time": "1:45",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Alvin Cacdac",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-07-28",
+      "elo_delta": -17.7,
+      "event_name": "WEC 22: The Hitman",
+      "fight_id": "b62f6255452d423e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Casey Olson",
+      "opponent_elo": 1531.2,
+      "outcome": "red_win",
+      "post_elo": 1482.3,
+      "pre_elo": 1500.0,
+      "red_name": "Casey Olson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 22",
+      "time": "2:28",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2006-07-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-07-28",
+      "fight_id": "b62f6255452d423e",
+      "rating": 1482.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-07-28",
+      "fight_id": "b62f6255452d423e",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-02-10",
+      "fight_id": "9b2f5ee3d2024e05",
+      "rating": 1501.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-02-10",
+      "fight_id": "9b2f5ee3d2024e05",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-11-21",
+      "fight_id": "79fe0cc606c69351",
+      "rating": 1520.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2008-11-21",
+      "fight_id": "79fe0cc606c69351",
+      "rating": 1518.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-11-21",
+  "name": "Alvin Cacdac",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.9,
+  "raw_current_elo": 1520.9,
+  "raw_overall_elo": 1518.8,
+  "slug": "alvin-cacdac",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

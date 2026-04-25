@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8666,
+  "divisional_rank": 1398,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mark Klotch",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-07-27",
+      "elo_delta": -18.4,
+      "event_name": "CWFC 1: Armageddon",
+      "fight_id": "5236e8b647e082e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kimura)",
+      "opponent": "Steve Thomas",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Steve Thomas",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
+      "time": "4:30",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-07-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-07-27",
+      "fight_id": "5236e8b647e082e1",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-07-27",
+      "fight_id": "5236e8b647e082e1",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-07-27",
+  "name": "Mark Klotch",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.6,
+  "slug": "mark-klotch",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

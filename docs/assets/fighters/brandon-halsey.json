@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2665,
+  "divisional_rank": 425,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Brandon Halsey",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2018-12-31",
+      "elo_delta": -14.0,
+      "event_name": "Rizin 14 - Saitama",
+      "fight_id": "2886b400c316209d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Punches)",
+      "opponent": "Jiří Procházka",
+      "opponent_elo": 1599.1,
+      "outcome": "red_win",
+      "post_elo": 1486.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jiří Procházka",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
+      "time": "6:30",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-12-31",
+      "fight_id": "2886b400c316209d",
+      "rating": 1486.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "2886b400c316209d",
+      "rating": 1487.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-12-31",
+  "name": "Brandon Halsey",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1486.0,
+  "raw_overall_elo": 1487.3,
+  "slug": "brandon-halsey",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

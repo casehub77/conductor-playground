@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7133,
+  "divisional_rank": 689,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Frank Megallon",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-10-07",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Tank vs. Buentello",
+      "fight_id": "ae43d30c41ee60b1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Sam Spengler",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Sam Spengler",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Tank vs. Buentello",
+      "time": "2:38",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-10-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-10-07",
+      "fight_id": "ae43d30c41ee60b1",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-10-07",
+      "fight_id": "ae43d30c41ee60b1",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-10-07",
+  "name": "Frank Megallon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "frank-megallon",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5803,
+  "divisional_rank": 723,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Federico Lopez",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-05-29",
+      "elo_delta": -17.0,
+      "event_name": "Dream 14: Diaz vs. Sakurai",
+      "fight_id": "dfe58626a1ee0240",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Norifumi Yamamoto",
+      "opponent_elo": 1543.0,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Norifumi Yamamoto",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 14",
+      "time": "1:41",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2010-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-05-29",
+      "fight_id": "dfe58626a1ee0240",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-05-29",
+      "fight_id": "dfe58626a1ee0240",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-05-29",
+  "name": "Federico Lopez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.0,
+  "raw_overall_elo": 1485.0,
+  "slug": "federico-lopez",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

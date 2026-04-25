@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4487,
+  "divisional_rank": 747,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Shunichi Shimizu",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-01-04",
+      "elo_delta": -20.5,
+      "event_name": "UFC Fight Night: Saffiedine vs Lim",
+      "fight_id": "0da2b96a239708d1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Kyung Ho Kang",
+      "opponent_elo": 1481.8,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Kyung Ho Kang",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:53",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2014-01-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-01-04",
+      "fight_id": "0da2b96a239708d1",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-01-04",
+      "fight_id": "0da2b96a239708d1",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-01-04",
+  "name": "Shunichi Shimizu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.5,
+  "raw_overall_elo": 1481.9,
+  "slug": "shunichi-shimizu",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4991,
+  "divisional_rank": 430,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Keith Berry",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-08-18",
+      "elo_delta": -21.5,
+      "event_name": "Strikeforce: Rousey vs. Kaufman",
+      "fight_id": "70c24de95dcb3550",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (leg kick and punches)",
+      "opponent": "Adlan Amagov",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1497.9,
+      "pre_elo": 1519.4,
+      "red_name": "Adlan Amagov",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Rousey vs. Kaufman",
+      "time": "0:48",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Keith Berry",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-10-12",
+      "elo_delta": -21.3,
+      "event_name": "WEC 24: Full Force",
+      "fight_id": "76bb6b27bdc8a6bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Terry Martin",
+      "opponent_elo": 1483.5,
+      "outcome": "red_win",
+      "post_elo": 1496.0,
+      "pre_elo": 1517.3,
+      "red_name": "Terry Martin",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 24",
+      "time": "2:52",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Donny Rider",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-05-05",
+      "elo_delta": 19.4,
+      "event_name": "WEC 20: Cinco de Mayhem",
+      "fight_id": "b1ddc1f9549ada50",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Donny Rider",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Keith Berry",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 20",
+      "time": "0:36",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-05-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-05-05",
+      "fight_id": "b1ddc1f9549ada50",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "b1ddc1f9549ada50",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-10-12",
+      "fight_id": "76bb6b27bdc8a6bb",
+      "rating": 1496.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-10-12",
+      "fight_id": "76bb6b27bdc8a6bb",
+      "rating": 1498.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "70c24de95dcb3550",
+      "rating": 1497.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-08-18",
+      "fight_id": "70c24de95dcb3550",
+      "rating": 1480.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-08-18",
+  "name": "Keith Berry",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1497.9,
+  "raw_overall_elo": 1480.4,
+  "slug": "keith-berry",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5825,
+  "divisional_rank": 187,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Konstantin Gluhov",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2010-05-07",
+      "elo_delta": 17.0,
+      "event_name": "KSW 13: Kumite",
+      "fight_id": "6a2ca66424d8e47d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Konstantin Gluhov",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1553.4,
+      "pre_elo": 1536.4,
+      "red_name": "David Oliva",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2010 in Konfrontacja Sztuk Walki",
+      "time": "Heavyweight Tournament Final",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Wojciech Orlowski",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2009-12-11",
+      "elo_delta": 18.4,
+      "event_name": "KSW 12: Pudzianowski vs. Najman",
+      "fight_id": "00d9a68591528af1",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to punches)",
+      "opponent": "Wojciech Orlowski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "David Oliva",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Konfrontacja Sztuk Walki",
+      "time": "Heavyweight Tournament Quarter-Finals 2",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Daniel Omielanczuk",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2009-12-11",
+      "elo_delta": 18.0,
+      "event_name": "KSW 12: Pudzianowski vs. Najman",
+      "fight_id": "c61cc553c0abcff4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Daniel Omielanczuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "David Oliva",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2009 in Konfrontacja Sztuk Walki",
+      "time": "Heavyweight Tournament Semi-Finals 1",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-12-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-12-11",
+      "fight_id": "c61cc553c0abcff4",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-12-11",
+      "fight_id": "00d9a68591528af1",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-12-11",
+      "fight_id": "c61cc553c0abcff4",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-12-11",
+      "fight_id": "00d9a68591528af1",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "6a2ca66424d8e47d",
+      "rating": 1553.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-05-07",
+      "fight_id": "6a2ca66424d8e47d",
+      "rating": 1547.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-05-07",
+  "name": "David Oliva",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1553.4,
+  "raw_current_elo": 1553.4,
+  "raw_overall_elo": 1547.7,
+  "slug": "david-oliva",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

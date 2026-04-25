@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8631,
+  "divisional_rank": 710,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "James Gabert",
+      "bout_type": "Middleweight Bout",
+      "date": "2002-08-31",
+      "elo_delta": -18.0,
+      "event_name": "WEC 4 – Rumble Under The Sun",
+      "fight_id": "533c3db5c9cf7e3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Mike Swick",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Swick",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 4",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2002-08-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-08-31",
+      "fight_id": "533c3db5c9cf7e3f",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2002-08-31",
+      "fight_id": "533c3db5c9cf7e3f",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-08-31",
+  "name": "James Gabert",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "james-gabert",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

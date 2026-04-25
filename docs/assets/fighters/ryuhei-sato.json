@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7546,
+  "divisional_rank": 346,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ryuhei Sato",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-08-20",
+      "elo_delta": -17.0,
+      "event_name": "Shooto: Alive Road",
+      "fight_id": "f07023468d9486c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Masashi Yozen",
+      "opponent_elo": 1554.9,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1536.4,
+      "red_name": "Masashi Yozen",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshinori Ashikawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-11",
+      "elo_delta": 18.4,
+      "event_name": "Shooto: 3/11 in Korakuen Hall",
+      "fight_id": "a26b3985bef5ed35",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Yoshinori Ashikawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1518.0,
+      "red_name": "Ryuhei Sato",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "0:54",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Akihiro Murayama",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-04-16",
+      "elo_delta": 18.0,
+      "event_name": "Shooto 2004: 4/16 in Kitazawa Town Hall",
+      "fight_id": "bbe2574bfa7178cc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Akihiro Murayama",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ryuhei Sato",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-04-16",
+      "fight_id": "bbe2574bfa7178cc",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-04-16",
+      "fight_id": "bbe2574bfa7178cc",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-03-11",
+      "fight_id": "a26b3985bef5ed35",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-11",
+      "fight_id": "a26b3985bef5ed35",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-08-20",
+      "fight_id": "f07023468d9486c3",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-08-20",
+      "fight_id": "f07023468d9486c3",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-08-20",
+  "name": "Ryuhei Sato",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.2,
+  "slug": "ryuhei-sato",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

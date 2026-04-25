@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5327,
+  "divisional_rank": 849,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Victor O'Donnell",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-09-17",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 50",
+      "fight_id": "97e087f2d9f80a4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Brian Rogers",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Brian Rogers",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 50",
+      "time": "1:56",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2011-09-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-09-17",
+      "fight_id": "97e087f2d9f80a4a",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "97e087f2d9f80a4a",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-17",
+  "name": "Victor O'Donnell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.6,
+  "slug": "victor-o-donnell",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

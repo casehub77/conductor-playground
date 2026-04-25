@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8064,
+  "divisional_rank": 442,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Cory Timmerman",
+      "bout_type": "Heavyweight Bout",
+      "date": "2004-03-20",
+      "elo_delta": -15.9,
+      "event_name": "RITC 60: 'The Saint' Goes Marching In",
+      "fight_id": "7d8d55800a8c1f8e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1564.4,
+      "outcome": "red_win",
+      "post_elo": 1484.1,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "1:05",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2004-03-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-03-20",
+      "fight_id": "7d8d55800a8c1f8e",
+      "rating": 1484.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2004-03-20",
+      "fight_id": "7d8d55800a8c1f8e",
+      "rating": 1485.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-03-20",
+  "name": "Cory Timmerman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.1,
+  "raw_overall_elo": 1485.9,
+  "slug": "cory-timmerman",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

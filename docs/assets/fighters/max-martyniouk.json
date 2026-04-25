@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5614,
+  "divisional_rank": 1068,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Max Martyniouk",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-12-04",
+      "elo_delta": -18.0,
+      "event_name": "Strikeforce: Henderson vs. Babalu II",
+      "fight_id": "5d5604b005157fdc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (technical) (30–27, 30–27, 30–27).",
+      "opponent": "Justin Lawrence",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Justin Lawrence",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Henderson vs. Babalu II",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-12-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-12-04",
+      "fight_id": "5d5604b005157fdc",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "5d5604b005157fdc",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-12-04",
+  "name": "Max Martyniouk",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "max-martyniouk",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

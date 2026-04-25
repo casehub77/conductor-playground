@@ -1,17 +1,119 @@
 {
   "activity_status": "active",
-  "current_elo": 1483.5,
+  "current_elo": 1437.7,
   "days_since_last_fight": 349,
-  "divisional_rank": null,
-  "fight_count": 1,
-  "fight_log": [],
-  "first_fight_date": "2025-05-04",
+  "divisional_rank": 1496,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yoshiya Uzatsuyo",
+      "bout_type": "Catchweight 63 kg Bout",
+      "date": "2025-05-04",
+      "elo_delta": -24.5,
+      "event_name": "Rizin: Otoko Matsuri",
+      "fight_id": "e35f4da4453d9cff",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Taio Asahisa",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1437.7,
+      "pre_elo": 1462.2,
+      "red_name": "Taio Asahisa",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2025 in Rizin Fighting Federation",
+      "time": "1:15",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Yoshiya Uzatsuyo",
+      "bout_type": "Catchweight 64 kg Bout",
+      "date": "2018-12-31",
+      "elo_delta": -18.4,
+      "event_name": "Rizin - Heisei's Last Yarennoka!",
+      "fight_id": "2dfd79d9af472d2f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Flying Knee)",
+      "opponent": "Taiju Shiratori",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Taiju Shiratori",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
+      "time": "7:43",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Yoshiya Uzatsuyo",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2018-07-29",
+      "elo_delta": -19.4,
+      "event_name": "Rizin 11 - Saitama",
+      "fight_id": "07a2c737457b7c6b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Kaito Ono",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kaito Ono",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
+      "time": "4:22",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-07-29",
   "gender": "men",
   "history": [
     {
+      "date": "2018-07-29",
+      "fight_id": "07a2c737457b7c6b",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-07-29",
+      "fight_id": "07a2c737457b7c6b",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "2dfd79d9af472d2f",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-12-31",
+      "fight_id": "2dfd79d9af472d2f",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2025-05-04",
       "fight_id": "e35f4da4453d9cff",
-      "rating": 1483.5,
+      "rating": 1437.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2025-05-04",
+      "fight_id": "e35f4da4453d9cff",
+      "rating": 1444.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -23,14 +125,14 @@
   "last_fight_date": "2025-05-04",
   "name": "Yoshiya Uzatsuyo",
   "nickname": "",
-  "overall_elo": 1483.5,
+  "overall_elo": 1444.1,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1483.5,
-  "raw_overall_elo": 1483.5,
+  "raw_current_elo": 1437.7,
+  "raw_overall_elo": 1444.1,
   "slug": "yoshiya-uzatsuyo",
   "systems": {
-    "division": "men:Catch Weight",
+    "division": "men:Lightweight",
     "overall": "men:overall"
   },
-  "weight_class": "Catch Weight"
+  "weight_class": "Lightweight"
 }

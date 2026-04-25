@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7315,
+  "divisional_rank": 455,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kayvan Fallah",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-04-08",
+      "elo_delta": 21.4,
+      "event_name": "CWFC: Quest 6",
+      "fight_id": "e3256629499e1c17",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO",
+      "opponent": "Kayvan Fallah",
+      "opponent_elo": 1536.0,
+      "outcome": "red_win",
+      "post_elo": 1521.4,
+      "pre_elo": 1500.0,
+      "red_name": "Alex Sandro",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "3:50",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-04-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-04-08",
+      "fight_id": "e3256629499e1c17",
+      "rating": 1521.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-04-08",
+      "fight_id": "e3256629499e1c17",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-04-08",
+  "name": "Alex Sandro",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.4,
+  "raw_current_elo": 1521.4,
+  "raw_overall_elo": 1518.9,
+  "slug": "alex-sandro",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

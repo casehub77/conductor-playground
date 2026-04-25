@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6950,
+  "divisional_rank": 866,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Brian Lo-A-Njoe",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-04-08",
+      "elo_delta": -13.2,
+      "event_name": "Pride 34",
+      "fight_id": "54e8dbf8451144a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Shinya Aoki",
+      "opponent_elo": 1615.6,
+      "outcome": "red_win",
+      "post_elo": 1486.8,
+      "pre_elo": 1500.0,
+      "red_name": "Shinya Aoki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 34",
+      "time": "1:33",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2007-04-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-04-08",
+      "fight_id": "54e8dbf8451144a5",
+      "rating": 1486.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-04-08",
+      "fight_id": "54e8dbf8451144a5",
+      "rating": 1488.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-04-08",
+  "name": "Brian Lo-A-Njoe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1486.8,
+  "raw_overall_elo": 1488.9,
+  "slug": "brian-lo-a-njoe",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

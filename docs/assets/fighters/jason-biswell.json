@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7548,
+  "divisional_rank": 1249,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jason Biswell",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-08-18",
+      "elo_delta": -18.2,
+      "event_name": "WEC 16: Clash of the Titans 2",
+      "fight_id": "0ea93dd07606b4ab",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Steve Ramirez",
+      "opponent_elo": 1505.1,
+      "outcome": "red_win",
+      "post_elo": 1464.8,
+      "pre_elo": 1483.0,
+      "red_name": "Steve Ramirez",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 16",
+      "time": "2:01",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Jason Biswell",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-08-20",
+      "elo_delta": -17.0,
+      "event_name": "WEC 11: Evolution",
+      "fight_id": "ac8be7e023076926",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Shonie Carter",
+      "opponent_elo": 1544.2,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Shonie Carter",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 11",
+      "time": "3:13",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-08-20",
+      "fight_id": "ac8be7e023076926",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-08-20",
+      "fight_id": "ac8be7e023076926",
+      "rating": 1486.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-08-18",
+      "fight_id": "0ea93dd07606b4ab",
+      "rating": 1464.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-08-18",
+      "fight_id": "0ea93dd07606b4ab",
+      "rating": 1469.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-08-18",
+  "name": "Jason Biswell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1464.8,
+  "raw_overall_elo": 1469.8,
+  "slug": "jason-biswell",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

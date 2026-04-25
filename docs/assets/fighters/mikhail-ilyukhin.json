@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8350,
+  "divisional_rank": 1449,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mikhail Ilyukhin",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-06-08",
+      "elo_delta": -17.0,
+      "event_name": "Pride 26",
+      "fight_id": "62f789379db1bb4a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Knee to the Body)",
+      "opponent": "Quinton Jackson",
+      "opponent_elo": 1543.9,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Quinton Jackson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 26",
+      "time": "6:26",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-06-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-06-08",
+      "fight_id": "62f789379db1bb4a",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-06-08",
+      "fight_id": "62f789379db1bb4a",
+      "rating": 1484.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-06-08",
+  "name": "Mikhail Ilyukhin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.0,
+  "raw_overall_elo": 1484.6,
+  "slug": "mikhail-ilyukhin",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

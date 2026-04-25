@@ -2,7 +2,7 @@
   "activity_status": "active",
   "current_elo": 1447.8,
   "days_since_last_fight": 518,
-  "divisional_rank": 838,
+  "divisional_rank": 1488,
   "fight_count": 3,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Mauricio Ruffy",
-      "opponent_elo": 1520.2,
+      "opponent_elo": 1519.9,
       "outcome": "red_win",
       "post_elo": 1447.8,
-      "pre_elo": 1462.8,
+      "pre_elo": 1462.9,
       "red_name": "Mauricio Ruffy",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "James Llontop",
       "bout_type": "Lightweight Bout",
       "date": "2024-08-24",
-      "elo_delta": -17.7,
+      "elo_delta": -17.6,
       "event_name": "UFC Fight Night: Cannonier vs. Borralho",
       "fight_id": "ddf0354d01ecaa1e",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Viacheslav Borshchev",
-      "opponent_elo": 1485.5,
+      "opponent_elo": 1487.4,
       "outcome": "red_win",
-      "post_elo": 1462.8,
+      "post_elo": 1462.9,
       "pre_elo": 1480.6,
       "red_name": "Viacheslav Borshchev",
       "round": "3.0",
@@ -92,14 +92,14 @@
     {
       "date": "2024-08-24",
       "fight_id": "ddf0354d01ecaa1e",
-      "rating": 1462.8,
+      "rating": 1462.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2024-08-24",
       "fight_id": "ddf0354d01ecaa1e",
-      "rating": 1466.9,
+      "rating": 1467.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -113,7 +113,7 @@
     {
       "date": "2024-11-16",
       "fight_id": "c49c113076f49c52",
-      "rating": 1453.2,
+      "rating": 1453.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2024-11-16",
   "name": "James Llontop",
   "nickname": "",
-  "overall_elo": 1453.2,
+  "overall_elo": 1453.3,
   "peak_elo": 1500.0,
   "raw_current_elo": 1447.8,
-  "raw_overall_elo": 1453.2,
+  "raw_overall_elo": 1453.3,
   "slug": "james-llontop",
   "systems": {
     "division": "men:Lightweight",

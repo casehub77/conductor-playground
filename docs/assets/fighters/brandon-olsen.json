@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7247,
+  "divisional_rank": 857,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Brandon Olsen",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-06-15",
+      "elo_delta": -17.9,
+      "event_name": "WEC 21: Tapout",
+      "fight_id": "81e2bb45e1f7ddb5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Hermes Franca",
+      "opponent_elo": 1526.9,
+      "outcome": "red_win",
+      "post_elo": 1482.1,
+      "pre_elo": 1500.0,
+      "red_name": "Hermes Franca",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 21",
+      "time": "0:40",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2006-06-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-15",
+      "fight_id": "81e2bb45e1f7ddb5",
+      "rating": 1482.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-06-15",
+      "fight_id": "81e2bb45e1f7ddb5",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-06-15",
+  "name": "Brandon Olsen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.1,
+  "raw_overall_elo": 1483.9,
+  "slug": "brandon-olsen",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

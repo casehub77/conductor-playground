@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3289,
+  "divisional_rank": 1182,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gerônimo Dos Santos",
+      "bout_type": "Open Weight Bout",
+      "date": "2017-04-16",
+      "elo_delta": -16.7,
+      "event_name": "Rizin 2017 at Yokohama: Sakura",
+      "fight_id": "90df8b3530101d91",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Amir Aliakbari",
+      "opponent_elo": 1550.1,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Amir Aliakbari",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "3:34",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2017-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-04-16",
+      "fight_id": "90df8b3530101d91",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2017-04-16",
+      "fight_id": "90df8b3530101d91",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-04-16",
+  "name": "Gerônimo Dos Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.3,
+  "raw_overall_elo": 1484.8,
+  "slug": "geronimo-dos-santos",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

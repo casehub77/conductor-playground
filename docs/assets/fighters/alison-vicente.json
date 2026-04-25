@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3397,
+  "divisional_rank": 1008,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Alison Vicente",
+      "bout_type": "Open Weight Bout",
+      "date": "2016-12-29",
+      "elo_delta": -20.3,
+      "event_name": "Rizin World Grand-Prix 2016: 2nd Round",
+      "fight_id": "2905ec553e229c86",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Vadim Nemkov",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Vadim Nemkov",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
+      "time": "0:54",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2016-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-12-29",
+      "fight_id": "2905ec553e229c86",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2016-12-29",
+      "fight_id": "2905ec553e229c86",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-12-29",
+  "name": "Alison Vicente",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.7,
+  "raw_overall_elo": 1481.9,
+  "slug": "alison-vicente",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7637,
+  "divisional_rank": 390,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chris Freeborn",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-21",
+      "elo_delta": 16.4,
+      "event_name": "CWFC: Strike Force",
+      "fight_id": "f42448c79a0f2fd2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Chris Freeborn",
+      "opponent_elo": 1462.4,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1518.0,
+      "red_name": "Mohamed El-Aouji",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "1:31",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Danny Batten",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-04-30",
+      "elo_delta": 18.0,
+      "event_name": "CWFC: Ultimate Force",
+      "fight_id": "8fce0ac63d7c9e46",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Danny Batten",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Mohamed El-Aouji",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-04-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-04-30",
+      "fight_id": "8fce0ac63d7c9e46",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-04-30",
+      "fight_id": "8fce0ac63d7c9e46",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-05-21",
+      "fight_id": "f42448c79a0f2fd2",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-21",
+      "fight_id": "f42448c79a0f2fd2",
+      "rating": 1530.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-05-21",
+  "name": "Mohamed El-Aouji",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.4,
+  "raw_current_elo": 1534.4,
+  "raw_overall_elo": 1530.8,
+  "slug": "mohamed-el-aouji",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

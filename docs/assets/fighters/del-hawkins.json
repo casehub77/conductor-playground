@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6639,
+  "divisional_rank": 606,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Del Hawkins",
+      "bout_type": "Bantamweight Bout",
+      "date": "2008-02-13",
+      "elo_delta": -20.5,
+      "event_name": "WEC 32: New Mexico",
+      "fight_id": "fc82e816435ee981",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (flying armbar)",
+      "opponent": "Coty Wheeler",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Coty Wheeler",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 32",
+      "time": "1:57",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2008-02-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-02-13",
+      "fight_id": "fc82e816435ee981",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2008-02-13",
+      "fight_id": "fc82e816435ee981",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-02-13",
+  "name": "Del Hawkins",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.5,
+  "raw_overall_elo": 1481.9,
+  "slug": "del-hawkins",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6860,
+  "divisional_rank": 282,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mike Nickels",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-07-07",
+      "elo_delta": -20.1,
+      "event_name": "UFC 73: Stacked",
+      "fight_id": "d8c9976c38a9ca00",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Stephan Bonnar",
+      "opponent_elo": 1507.1,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1519.4,
+      "red_name": "Stephan Bonnar",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:14",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Wes Combs",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-06-24",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Ortiz vs. Team Shamrock Finale",
+      "fight_id": "b88c8964cd23121f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Wes Combs",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Nickels",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:10",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-06-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-24",
+      "fight_id": "b88c8964cd23121f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-06-24",
+      "fight_id": "b88c8964cd23121f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-07-07",
+      "fight_id": "d8c9976c38a9ca00",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-07-07",
+      "fight_id": "d8c9976c38a9ca00",
+      "rating": 1499.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-07-07",
+  "name": "Mike Nickels",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1499.3,
+  "raw_overall_elo": 1499.4,
+  "slug": "mike-nickels",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

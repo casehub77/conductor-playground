@@ -1,0 +1,109 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6419,
+  "divisional_rank": 888,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Dave Martin",
+      "bout_type": "Catchweight (195 lb) Bout",
+      "date": "2008-09-20",
+      "elo_delta": 19.7,
+      "event_name": "Strikeforce: At the Mansion II",
+      "fight_id": "40888b8bd6353be0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (27–30, 29–28, 29–28)",
+      "opponent": "Dave Martin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1486.8,
+      "pre_elo": 1467.2,
+      "red_name": "Jesse Gillespie",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: At The Mansion II",
+      "time": "3:00 [ 1 ]",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jesse Gillespie",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-06-27",
+      "elo_delta": -17.4,
+      "event_name": "Strikeforce: Melendez vs. Thomson",
+      "fight_id": "52aac9984369984e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Eric Lawson",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1465.3,
+      "pre_elo": 1482.7,
+      "red_name": "Eric Lawson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Melendez vs. Thomson",
+      "time": "1:03",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2008-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-29",
+      "fight_id": "49e9bc9cdc1c0cca",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-06-27",
+      "fight_id": "52aac9984369984e",
+      "rating": 1465.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-06-27",
+      "fight_id": "52aac9984369984e",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "40888b8bd6353be0",
+      "rating": 1486.8,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "40888b8bd6353be0",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-09-20",
+  "name": "Jesse Gillespie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.3,
+  "raw_overall_elo": 1484.7,
+  "slug": "jesse-gillespie",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

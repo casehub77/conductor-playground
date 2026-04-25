@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8666,
+  "divisional_rank": 531,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tim Ryder",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-07-27",
+      "elo_delta": 19.4,
+      "event_name": "CWFC 1: Armageddon",
+      "fight_id": "2a838999f12b41e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Tim Ryder",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Armin Eslami",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
+      "time": "2:20",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-07-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-07-27",
+      "fight_id": "2a838999f12b41e1",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-07-27",
+      "fight_id": "2a838999f12b41e1",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-07-27",
+  "name": "Armin Eslami",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "armin-eslami",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

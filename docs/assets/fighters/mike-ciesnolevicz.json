@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6146,
+  "divisional_rank": 343,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mike Ciesnolevicz",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2009-06-20",
+      "elo_delta": -20.2,
+      "event_name": "The Ultimate Fighter: United States vs. United Kingdom Finale",
+      "fight_id": "2175afdb7d13fc60",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tomasz Drwal",
+      "opponent_elo": 1503.2,
+      "outcome": "red_win",
+      "post_elo": 1497.1,
+      "pre_elo": 1517.3,
+      "red_name": "Tomasz Drwal",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:48",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Neil Grove",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-02-21",
+      "elo_delta": 19.4,
+      "event_name": "UFC 95: Sanchez vs Stevenson",
+      "fight_id": "91c0fc1939860107",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Neil Grove",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Ciesnolevicz",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:03",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-02-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-02-21",
+      "fight_id": "91c0fc1939860107",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-02-21",
+      "fight_id": "91c0fc1939860107",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-20",
+      "fight_id": "2175afdb7d13fc60",
+      "rating": 1497.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2009-06-20",
+      "fight_id": "2175afdb7d13fc60",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-20",
+  "name": "Mike Ciesnolevicz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1497.1,
+  "raw_overall_elo": 1499.3,
+  "slug": "mike-ciesnolevicz",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

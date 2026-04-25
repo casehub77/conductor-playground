@@ -2,8 +2,8 @@
   "activity_status": "inactive",
   "current_elo": 1500.0,
   "days_since_last_fight": 1490,
-  "divisional_rank": 24,
-  "fight_count": 3,
+  "divisional_rank": 25,
+  "fight_count": 4,
   "fight_log": [
     {
       "blue_name": "Jin Mandokoro",
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "No Contest (Ankle Injury)",
       "opponent": "Syuto Sato",
-      "opponent_elo": 1484.8,
+      "opponent_elo": 1469.3,
       "outcome": "no_contest",
-      "post_elo": 1534.5,
-      "pre_elo": 1534.5,
+      "post_elo": 1550.0,
+      "pre_elo": 1550.0,
       "red_name": "Syuto Sato",
       "round": "3",
       "source": "manual",
@@ -31,7 +31,7 @@
       "blue_name": "Yu Hiramatsu",
       "bout_type": "Catchweight 53 kg Bout",
       "date": "2021-11-28",
-      "elo_delta": 18.5,
+      "elo_delta": 17.6,
       "event_name": "Rizin Trigger 1",
       "fight_id": "59a6adb479906576",
       "gender": "men",
@@ -40,51 +40,87 @@
       "opponent": "Yu Hiramatsu",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1534.5,
-      "pre_elo": 1516.0,
+      "post_elo": 1550.0,
+      "pre_elo": 1532.3,
       "red_name": "Jin Mandokoro",
       "round": "2",
       "source": "manual",
       "source_title": "2021 in Rizin Fighting Federation",
       "time": "1:08",
       "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Syuto Sato",
+      "bout_type": "Catchweight 53 kg Bout",
+      "date": "2020-11-21",
+      "elo_delta": 16.3,
+      "event_name": "Rizin 25 – Osaka",
+      "fight_id": "8531ef8339b22a8f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Syuto Sato",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1532.3,
+      "pre_elo": 1516.0,
+      "red_name": "Jin Mandokoro",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
+      "time": "9:00",
+      "weight_class": "Catch Weight"
     }
   ],
-  "first_fight_date": "2020-11-21",
+  "first_fight_date": "2017-10-15",
   "gender": "men",
   "history": [
     {
-      "date": "2020-11-21",
-      "fight_id": "8531ef8339b22a8f",
+      "date": "2017-10-15",
+      "fight_id": "e23eac616349ba21",
       "rating": 1516.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
+      "date": "2020-11-21",
+      "fight_id": "8531ef8339b22a8f",
+      "rating": 1532.3,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2020-11-21",
+      "fight_id": "8531ef8339b22a8f",
+      "rating": 1530.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2021-11-28",
       "fight_id": "59a6adb479906576",
-      "rating": 1534.5,
+      "rating": 1550.0,
       "scope": "division",
       "system": "men:Catch Weight"
     },
     {
       "date": "2021-11-28",
       "fight_id": "59a6adb479906576",
-      "rating": 1532.5,
+      "rating": 1546.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-03-20",
       "fight_id": "092d1b01df3e93bc",
-      "rating": 1534.5,
+      "rating": 1550.0,
       "scope": "division",
       "system": "men:Catch Weight"
     },
     {
       "date": "2022-03-20",
       "fight_id": "092d1b01df3e93bc",
-      "rating": 1532.5,
+      "rating": 1546.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -97,9 +133,9 @@
   "name": "Jin Mandokoro",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1534.5,
-  "raw_current_elo": 1534.5,
-  "raw_overall_elo": 1532.5,
+  "peak_elo": 1550.0,
+  "raw_current_elo": 1550.0,
+  "raw_overall_elo": 1546.3,
   "slug": "jin-mandokoro",
   "systems": {
     "division": "men:Catch Weight",

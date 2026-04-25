@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6489,
+  "divisional_rank": 685,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Wayne Murrie",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-07-12",
+      "elo_delta": -17.5,
+      "event_name": "Cage Warriors: Enter the Rough House 7",
+      "fight_id": "a3160dba452a6079",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Lee Livingstone",
+      "opponent_elo": 1555.1,
+      "outcome": "red_win",
+      "post_elo": 1502.0,
+      "pre_elo": 1519.4,
+      "red_name": "Lee Livingstone",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Cage Warriors",
+      "time": "1:32",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Dean Amasinger",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-12-09",
+      "elo_delta": 19.4,
+      "event_name": "CWFC: Enter The Rough House",
+      "fight_id": "6e64bebd86ce0e23",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Dean Amasinger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Wayne Murrie",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "0:11",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-12-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-12-09",
+      "fight_id": "6e64bebd86ce0e23",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-12-09",
+      "fight_id": "6e64bebd86ce0e23",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-07-12",
+      "fight_id": "a3160dba452a6079",
+      "rating": 1502.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-07-12",
+      "fight_id": "a3160dba452a6079",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-07-12",
+  "name": "Wayne Murrie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1502.0,
+  "raw_overall_elo": 1501.6,
+  "slug": "wayne-murrie",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

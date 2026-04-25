@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9029,
+  "divisional_rank": 841,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Daijiro Matsui",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-07-29",
+      "elo_delta": 18.1,
+      "event_name": "Pride 15",
+      "fight_id": "3180dd18b1582866",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Daijiro Matsui",
+      "opponent_elo": 1501.0,
+      "outcome": "red_win",
+      "post_elo": 1516.7,
+      "pre_elo": 1498.5,
+      "red_name": "Ebenezer Fontes Braga",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Pride 15",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Ebenezer Fontes Braga",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-01-30",
+      "elo_delta": -17.9,
+      "event_name": "Pride: Grand Prix 2000 - Opening Round",
+      "fight_id": "cc1dd17022f336fa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Akira Shoji",
+      "opponent_elo": 1518.4,
+      "outcome": "red_win",
+      "post_elo": 1498.5,
+      "pre_elo": 1516.4,
+      "red_name": "Akira Shoji",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Grand Prix 2000 Opening Round",
+      "time": "15:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Jeremy Horn",
+      "bout_type": "Middleweight Bout",
+      "date": "1998-10-16",
+      "elo_delta": 18.5,
+      "event_name": "UFC - Ultimate Brazil",
+      "fight_id": "ee04aeacb5512e23",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jeremy Horn",
+      "opponent_elo": 1483.1,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Ebenezer Fontes Braga",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:27",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "1998-10-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1998-10-16",
+      "fight_id": "ee04aeacb5512e23",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1998-10-16",
+      "fight_id": "ee04aeacb5512e23",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-01-30",
+      "fight_id": "cc1dd17022f336fa",
+      "rating": 1498.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-01-30",
+      "fight_id": "cc1dd17022f336fa",
+      "rating": 1500.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-07-29",
+      "fight_id": "3180dd18b1582866",
+      "rating": 1516.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-07-29",
+      "fight_id": "3180dd18b1582866",
+      "rating": 1516.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-07-29",
+  "name": "Ebenezer Fontes Braga",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "raw_current_elo": 1516.7,
+  "raw_overall_elo": 1516.5,
+  "slug": "ebenezer-fontes-braga",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

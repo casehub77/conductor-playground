@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7077,
+  "divisional_rank": 1212,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Hiroaki Takezawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-12-02",
+      "elo_delta": -16.1,
+      "event_name": "Shooto: Rookie Tournament Final",
+      "fight_id": "7fffd142c8ca0036",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Shinya Murofushi",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1443.6,
+      "pre_elo": 1459.8,
+      "red_name": "Shinya Murofushi",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "2:36",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hiroaki Takezawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-11-29",
+      "elo_delta": -21.3,
+      "event_name": "Shooto 2005: 11/29 in Kitazawa Town Hall",
+      "fight_id": "95df3027b55b66ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kenichi Sawada",
+      "opponent_elo": 1416.4,
+      "outcome": "red_win",
+      "post_elo": 1459.8,
+      "pre_elo": 1481.1,
+      "red_name": "Kenichi Sawada",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hiroaki Takezawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-29",
+      "elo_delta": -18.9,
+      "event_name": "Shooto: 5/29 in Kitazawa Town Hall",
+      "fight_id": "68141e2dfd81598e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kenichi Takeda",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Kenichi Takeda",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-29",
+      "fight_id": "68141e2dfd81598e",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-29",
+      "fight_id": "68141e2dfd81598e",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-11-29",
+      "fight_id": "95df3027b55b66ed",
+      "rating": 1459.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-11-29",
+      "fight_id": "95df3027b55b66ed",
+      "rating": 1464.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-12-02",
+      "fight_id": "7fffd142c8ca0036",
+      "rating": 1443.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-12-02",
+      "fight_id": "7fffd142c8ca0036",
+      "rating": 1449.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-12-02",
+  "name": "Hiroaki Takezawa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1443.6,
+  "raw_overall_elo": 1449.9,
+  "slug": "hiroaki-takezawa",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

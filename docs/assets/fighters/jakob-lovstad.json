@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7329,
+  "divisional_rank": 901,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Henrique Cesar Nogueira",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-03-25",
+      "elo_delta": 20.5,
+      "event_name": "CWFC: Strike Force 5",
+      "fight_id": "a168d90a1278f624",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Henrique Cesar Nogueira",
+      "opponent_elo": 1501.1,
+      "outcome": "red_win",
+      "post_elo": 1503.1,
+      "pre_elo": 1482.7,
+      "red_name": "Jakob Lovstad",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "0:47",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Jakob Lovstad",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-10-01",
+      "elo_delta": -17.3,
+      "event_name": "CWFC: Strike Force 3",
+      "fight_id": "54d44329d235e52e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to strikes)",
+      "opponent": "Michael Bisping",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Michael Bisping",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "1:10",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-10-01",
+      "fight_id": "54d44329d235e52e",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-10-01",
+      "fight_id": "54d44329d235e52e",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-25",
+      "fight_id": "a168d90a1278f624",
+      "rating": 1503.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-03-25",
+      "fight_id": "a168d90a1278f624",
+      "rating": 1502.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-03-25",
+  "name": "Jakob Lovstad",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.1,
+  "raw_current_elo": 1503.1,
+  "raw_overall_elo": 1502.5,
+  "slug": "jakob-lovstad",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

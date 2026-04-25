@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5791,
+  "divisional_rank": 997,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jose Figueroa",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-06-10",
+      "elo_delta": -16.7,
+      "event_name": "Bellator 21",
+      "fight_id": "f89db3170a84a312",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Luis Palomino",
+      "opponent_elo": 1525.7,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Luis Palomino",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 21",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-06-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-10",
+      "fight_id": "f89db3170a84a312",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-06-10",
+      "fight_id": "f89db3170a84a312",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-06-10",
+  "name": "Jose Figueroa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.3,
+  "raw_overall_elo": 1485.2,
+  "slug": "jose-figueroa",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

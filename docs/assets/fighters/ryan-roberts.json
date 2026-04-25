@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5299,
+  "divisional_rank": 815,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Roberts",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-10-15",
+      "elo_delta": -13.1,
+      "event_name": "Bellator 54",
+      "fight_id": "39fc4f6460095bec",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (north/south choke)",
+      "opponent": "Zach Makovsky",
+      "opponent_elo": 1586.0,
+      "outcome": "red_win",
+      "post_elo": 1455.6,
+      "pre_elo": 1468.7,
+      "red_name": "Zach Makovsky",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 54",
+      "time": "4:48",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Ryan Roberts",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-10-14",
+      "elo_delta": -17.0,
+      "event_name": "Bellator 32",
+      "fight_id": "54d2d6e27830781c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29–28, 29–28, 30–27)",
+      "opponent": "Eric Marriott",
+      "opponent_elo": 1503.4,
+      "outcome": "red_win",
+      "post_elo": 1466.9,
+      "pre_elo": 1483.9,
+      "red_name": "Eric Marriott",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 32",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Ryan Roberts",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-04-02",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Florian vs Lauzon",
+      "fight_id": "df0850057e8d01dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Marcus Aurelio",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Marcus Aurelio",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:16",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2008-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-04-02",
+      "fight_id": "df0850057e8d01dd",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-04-02",
+      "fight_id": "df0850057e8d01dd",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-14",
+      "fight_id": "54d2d6e27830781c",
+      "rating": 1466.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-10-14",
+      "fight_id": "54d2d6e27830781c",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-15",
+      "fight_id": "39fc4f6460095bec",
+      "rating": 1455.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-10-15",
+      "fight_id": "39fc4f6460095bec",
+      "rating": 1456.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-15",
+  "name": "Ryan Roberts",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1455.6,
+  "raw_overall_elo": 1456.7,
+  "slug": "ryan-roberts",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

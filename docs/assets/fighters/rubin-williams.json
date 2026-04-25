@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6038,
+  "divisional_rank": 1136,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Rubin Williams",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-10-06",
+      "elo_delta": -15.2,
+      "event_name": "Dream 11: Feather Weight Grand Prix 2009 Final Round",
+      "fight_id": "bd0f797601c638c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kimura)",
+      "opponent": "Kazushi Sakuraba",
+      "opponent_elo": 1576.6,
+      "outcome": "red_win",
+      "post_elo": 1484.8,
+      "pre_elo": 1500.0,
+      "red_name": "Kazushi Sakuraba",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 11",
+      "time": "2:53",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-10-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-10-06",
+      "fight_id": "bd0f797601c638c9",
+      "rating": 1484.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-10-06",
+      "fight_id": "bd0f797601c638c9",
+      "rating": 1486.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-10-06",
+  "name": "Rubin Williams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.8,
+  "raw_overall_elo": 1486.5,
+  "slug": "rubin-williams",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

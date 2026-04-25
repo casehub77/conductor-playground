@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5833,
+  "divisional_rank": 1095,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nick Nolte",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-04-29",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 16",
+      "fight_id": "1c29c37ec0696bda",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (arm-triangle choke)",
+      "opponent": "Drew Dober",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Drew Dober",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 16",
+      "time": "4:45",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-29",
+      "fight_id": "1c29c37ec0696bda",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-04-29",
+      "fight_id": "1c29c37ec0696bda",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-29",
+  "name": "Nick Nolte",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.6,
+  "slug": "nick-nolte",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

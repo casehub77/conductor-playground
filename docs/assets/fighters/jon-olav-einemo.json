@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5194,
+  "divisional_rank": 511,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jon Olav Einemo",
+      "bout_type": "Heavyweight Bout",
+      "date": "2012-01-28",
+      "elo_delta": -14.8,
+      "event_name": "UFC on FOX: Evans vs Davis",
+      "fight_id": "1e1c6ed59c7d8304",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mike Russow",
+      "opponent_elo": 1545.3,
+      "outcome": "red_win",
+      "post_elo": 1467.9,
+      "pre_elo": 1482.7,
+      "red_name": "Mike Russow",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jon Olav Einemo",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-06-11",
+      "elo_delta": -17.3,
+      "event_name": "UFC 131: Dos Santos vs Carwin",
+      "fight_id": "9cc389643c1155c0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dave Herman",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Dave Herman",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:19",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-06-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-06-11",
+      "fight_id": "9cc389643c1155c0",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-06-11",
+      "fight_id": "9cc389643c1155c0",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-01-28",
+      "fight_id": "1e1c6ed59c7d8304",
+      "rating": 1467.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2012-01-28",
+      "fight_id": "1e1c6ed59c7d8304",
+      "rating": 1470.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-01-28",
+  "name": "Jon Olav Einemo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1467.9,
+  "raw_overall_elo": 1470.9,
+  "slug": "jon-olav-einemo",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

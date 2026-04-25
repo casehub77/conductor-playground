@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5361,
+  "divisional_rank": 816,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jason Reinhardt",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-08-14",
+      "elo_delta": -18.7,
+      "event_name": "UFC Live: Hardy vs Lytle",
+      "fight_id": "68cfc22e7bf11ec1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Edwin Figueroa",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1449.4,
+      "pre_elo": 1468.1,
+      "red_name": "Edwin Figueroa",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:50",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Jason Reinhardt",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-02-26",
+      "elo_delta": -18.6,
+      "event_name": "UFC 127: Penn vs Fitch",
+      "fight_id": "32582fe88d797c3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Zhang Tiequan",
+      "opponent_elo": 1499.7,
+      "outcome": "red_win",
+      "post_elo": 1466.0,
+      "pre_elo": 1484.6,
+      "red_name": "Zhang Tiequan",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:48",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Jason Reinhardt",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-11-17",
+      "elo_delta": -17.0,
+      "event_name": "UFC 78: Validation",
+      "fight_id": "56eab95e07741dea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Joe Lauzon",
+      "opponent_elo": 1543.2,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Joe Lauzon",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:14",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2007-11-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-11-17",
+      "fight_id": "56eab95e07741dea",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-11-17",
+      "fight_id": "56eab95e07741dea",
+      "rating": 1484.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-02-26",
+      "fight_id": "32582fe88d797c3a",
+      "rating": 1466.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-02-26",
+      "fight_id": "32582fe88d797c3a",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-08-14",
+      "fight_id": "68cfc22e7bf11ec1",
+      "rating": 1449.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-08-14",
+      "fight_id": "68cfc22e7bf11ec1",
+      "rating": 1451.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-08-14",
+  "name": "Jason Reinhardt",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1449.4,
+  "raw_overall_elo": 1451.6,
+  "slug": "jason-reinhardt",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

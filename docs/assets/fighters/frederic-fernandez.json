@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7791,
+  "divisional_rank": 752,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Frederic Fernandez",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-12-18",
+      "elo_delta": -17.0,
+      "event_name": "Cage Warriors 9: Xtreme Xmas",
+      "fight_id": "a1ed4d21f6eaa391",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Alex Owen",
+      "opponent_elo": 1537.7,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1518.0,
+      "red_name": "Alex Owen",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2004 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Mark Chen",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-05-09",
+      "elo_delta": 18.0,
+      "event_name": "Cage Warriors 7: Showdown",
+      "fight_id": "29b06bf08b049a0f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Mark Chen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Frederic Fernandez",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2004 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-05-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-05-09",
+      "fight_id": "29b06bf08b049a0f",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-05-09",
+      "fight_id": "29b06bf08b049a0f",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-12-18",
+      "fight_id": "a1ed4d21f6eaa391",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-12-18",
+      "fight_id": "a1ed4d21f6eaa391",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-12-18",
+  "name": "Frederic Fernandez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1501.0,
+  "raw_overall_elo": 1500.8,
+  "slug": "frederic-fernandez",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

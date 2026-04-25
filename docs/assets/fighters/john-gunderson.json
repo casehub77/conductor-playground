@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5694,
+  "divisional_rank": 991,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "John Gunderson",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-09-15",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Marquardt vs Palhares",
+      "fight_id": "0c9cdf92f1d175a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Yves Edwards",
+      "opponent_elo": 1532.3,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Yves Edwards",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Mark Holst",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-06-19",
+      "elo_delta": 19.0,
+      "event_name": "The Ultimate Fighter: Team Liddell vs Team Ortiz Finale",
+      "fight_id": "3ff04a6ec45d9308",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mark Holst",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1481.1,
+      "red_name": "John Gunderson",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "John Gunderson",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-01-02",
+      "elo_delta": -18.9,
+      "event_name": "UFC 108: Evans vs Silva",
+      "fight_id": "0cf19339d79da20d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Rafaello Oliveira",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Rafaello Oliveira",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-01-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-02",
+      "fight_id": "0cf19339d79da20d",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-01-02",
+      "fight_id": "0cf19339d79da20d",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-19",
+      "fight_id": "3ff04a6ec45d9308",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-06-19",
+      "fight_id": "3ff04a6ec45d9308",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-15",
+      "fight_id": "0c9cdf92f1d175a7",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-09-15",
+      "fight_id": "0c9cdf92f1d175a7",
+      "rating": 1485.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-15",
+  "name": "John Gunderson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.7,
+  "raw_overall_elo": 1485.9,
+  "slug": "john-gunderson",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

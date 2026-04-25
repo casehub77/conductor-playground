@@ -1,0 +1,73 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6664,
+  "divisional_rank": 362,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "James Lee",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-01-19",
+      "elo_delta": -21.6,
+      "event_name": "UFC 80: Rapid Fire",
+      "fight_id": "74aa77bb0c12069e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Alessio Sakara",
+      "opponent_elo": 1476.6,
+      "outcome": "red_win",
+      "post_elo": 1494.0,
+      "pre_elo": 1515.6,
+      "red_name": "Alessio Sakara",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:30",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-02-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-02-24",
+      "fight_id": "36dc61638afa7a0b",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-01-19",
+      "fight_id": "74aa77bb0c12069e",
+      "rating": 1494.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-01-19",
+      "fight_id": "74aa77bb0c12069e",
+      "rating": 1496.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-01-19",
+  "name": "James Lee",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1515.6,
+  "raw_current_elo": 1494.0,
+  "raw_overall_elo": 1496.5,
+  "slug": "james-lee",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

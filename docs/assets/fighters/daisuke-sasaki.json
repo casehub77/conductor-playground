@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5256,
+  "divisional_rank": 1102,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kazuya Tanaka",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-11-27",
+      "elo_delta": 20.3,
+      "event_name": "Shooto: Spirit Aomori",
+      "fight_id": "2440db45e946b877",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Leg Scissor Choke)",
+      "opponent": "Kazuya Tanaka",
+      "opponent_elo": 1493.7,
+      "outcome": "red_win",
+      "post_elo": 1498.6,
+      "pre_elo": 1478.3,
+      "red_name": "Daisuke Sasaki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "4:52",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Daisuke Sasaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-16",
+      "elo_delta": -2.3,
+      "event_name": "Shooto: Gig North 7",
+      "fight_id": "5558b58666b4f7c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (Unanimous)",
+      "opponent": "Michiyuki Ishibashi",
+      "opponent_elo": 1435.9,
+      "outcome": "draw",
+      "post_elo": 1478.3,
+      "pre_elo": 1480.6,
+      "red_name": "Michiyuki Ishibashi",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Daisuke Sasaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-10-16",
+      "elo_delta": -19.4,
+      "event_name": "Shooto: Shooting Disco 13: Can't Stop Myself!",
+      "fight_id": "3b83efcc384e5d21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Yusuke Kasuya",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Yusuke Kasuya",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
+      "time": "4:02",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-10-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-10-16",
+      "fight_id": "3b83efcc384e5d21",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "3b83efcc384e5d21",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-16",
+      "fight_id": "5558b58666b4f7c4",
+      "rating": 1478.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-16",
+      "fight_id": "5558b58666b4f7c4",
+      "rating": 1480.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-27",
+      "fight_id": "2440db45e946b877",
+      "rating": 1498.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-11-27",
+      "fight_id": "2440db45e946b877",
+      "rating": 1498.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-27",
+  "name": "Daisuke Sasaki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1498.6,
+  "raw_overall_elo": 1498.8,
+  "slug": "daisuke-sasaki",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5693,
+  "divisional_rank": 766,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Luis Ramirez",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-09-16",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 29",
+      "fight_id": "a18d19bd4b7813f3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Kyle Weickhardt",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kyle Weickhardt",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 29",
+      "time": "0:30",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2010-09-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-16",
+      "fight_id": "a18d19bd4b7813f3",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-09-16",
+      "fight_id": "a18d19bd4b7813f3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-16",
+  "name": "Luis Ramirez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "luis-ramirez",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

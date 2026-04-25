@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7154,
+  "divisional_rank": 1503,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paul Cooper",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-09-16",
+      "elo_delta": -18.4,
+      "event_name": "CWFC: Showdown",
+      "fight_id": "521fb91dc2de0da0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Andre Winner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.2,
+      "pre_elo": 1481.6,
+      "red_name": "Andre Winner",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "1:50",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Paul Cooper",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-02-19",
+      "elo_delta": -18.4,
+      "event_name": "CWFC: Quest 5",
+      "fight_id": "8db1a0f6cfa15901",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Lee Livingstone",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Lee Livingstone",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "2:19",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-02-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-02-19",
+      "fight_id": "8db1a0f6cfa15901",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-02-19",
+      "fight_id": "8db1a0f6cfa15901",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-09-16",
+      "fight_id": "521fb91dc2de0da0",
+      "rating": 1463.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-09-16",
+      "fight_id": "521fb91dc2de0da0",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-09-16",
+  "name": "Paul Cooper",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.2,
+  "raw_overall_elo": 1467.1,
+  "slug": "paul-cooper",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

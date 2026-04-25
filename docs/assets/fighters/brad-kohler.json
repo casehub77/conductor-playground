@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9703,
+  "divisional_rank": 400,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Steve Judson",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": 20.6,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "0a9301a9694a76ec",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Steve Judson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.1,
+      "pre_elo": 1479.5,
+      "red_name": "Brad Kohler",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:30",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Brad Kohler",
+      "bout_type": "Heavyweight Bout",
+      "date": "1997-12-21",
+      "elo_delta": -20.5,
+      "event_name": "UFC - Ultimate Japan",
+      "fight_id": "1fbba6379c408b27",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Tra Telligman",
+      "opponent_elo": 1481.7,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Tra Telligman",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "10:05",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1997-12-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-12-21",
+      "fight_id": "1fbba6379c408b27",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1997-12-21",
+      "fight_id": "1fbba6379c408b27",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "0a9301a9694a76ec",
+      "rating": 1500.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "0a9301a9694a76ec",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-09-24",
+  "name": "Brad Kohler",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.1,
+  "raw_current_elo": 1500.1,
+  "raw_overall_elo": 1500.1,
+  "slug": "brad-kohler",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

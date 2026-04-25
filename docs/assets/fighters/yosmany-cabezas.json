@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6168,
+  "divisional_rank": 322,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yosmany Cabezas",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-05-29",
+      "elo_delta": -20.4,
+      "event_name": "Bellator 9",
+      "fight_id": "be5776ce66c4a431",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Jared Hess",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1515.5,
+      "pre_elo": 1535.8,
+      "red_name": "Jared Hess",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 9",
+      "time": "4:26",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Edwin Aguilar",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-04-17",
+      "elo_delta": 18.5,
+      "event_name": "Bellator 3",
+      "fight_id": "4d626101297d18cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Edwin Aguilar",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.4,
+      "red_name": "Yosmany Cabezas",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 3",
+      "time": "4:31",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Gareth Joseph",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-01-30",
+      "elo_delta": 19.5,
+      "event_name": "Cage Warriors 36: USA Destruction",
+      "fight_id": "e4151912ba5497fb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Gareth Joseph",
+      "opponent_elo": 1501.9,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Yosmany Cabezas",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Cage Warriors",
+      "time": "4:36",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2009-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-01-30",
+      "fight_id": "e4151912ba5497fb",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-01-30",
+      "fight_id": "e4151912ba5497fb",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-17",
+      "fight_id": "4d626101297d18cd",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-04-17",
+      "fight_id": "4d626101297d18cd",
+      "rating": 1533.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-29",
+      "fight_id": "be5776ce66c4a431",
+      "rating": 1515.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-05-29",
+      "fight_id": "be5776ce66c4a431",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-29",
+  "name": "Yosmany Cabezas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.8,
+  "raw_current_elo": 1515.5,
+  "raw_overall_elo": 1515.7,
+  "slug": "yosmany-cabezas",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

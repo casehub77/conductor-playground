@@ -1,9 +1,9 @@
 {
   "activity_status": "active",
-  "current_elo": 1519.4,
+  "current_elo": 1502.4,
   "days_since_last_fight": 155,
-  "divisional_rank": 151,
-  "fight_count": 2,
+  "divisional_rank": 265,
+  "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "José Ferreira Muñoz",
@@ -18,8 +18,8 @@
       "opponent": "José Ferreira Muñoz",
       "opponent_elo": 1500.0,
       "outcome": "no_contest",
-      "post_elo": 1519.4,
-      "pre_elo": 1519.4,
+      "post_elo": 1502.4,
+      "pre_elo": 1502.4,
       "red_name": "Joe Giannetti",
       "round": "2",
       "source": "manual",
@@ -31,7 +31,7 @@
       "blue_name": "Leonardo Limberger",
       "bout_type": "Lightweight Bout",
       "date": "2025-03-22",
-      "elo_delta": 19.4,
+      "elo_delta": 20.4,
       "event_name": "LFA 204: Cunha vs. Freeman",
       "fight_id": "3fabd544d2bd97d4",
       "gender": "men",
@@ -40,44 +40,80 @@
       "opponent": "Leonardo Limberger",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1519.4,
-      "pre_elo": 1500.0,
+      "post_elo": 1502.4,
+      "pre_elo": 1482.0,
       "red_name": "Joe Giannetti",
       "round": "1",
       "source": "manual",
       "source_title": "2025 in Legacy Fighting Alliance",
       "time": "4:10",
       "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Joe Giannetti",
+      "bout_type": "Ultimate Fighter 27 Lightweight Tournament Title Bout",
+      "date": "2018-07-06",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: Undefeated Finale",
+      "fight_id": "09f181ef6747fc47",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Michael Trizano",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Michael Trizano",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
     }
   ],
-  "first_fight_date": "2025-03-22",
+  "first_fight_date": "2018-07-06",
   "gender": "men",
   "history": [
     {
+      "date": "2018-07-06",
+      "fight_id": "09f181ef6747fc47",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-07-06",
+      "fight_id": "09f181ef6747fc47",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2025-03-22",
       "fight_id": "3fabd544d2bd97d4",
-      "rating": 1519.4,
+      "rating": 1502.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-03-22",
       "fight_id": "3fabd544d2bd97d4",
-      "rating": 1517.3,
+      "rating": 1502.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-11-14",
       "fight_id": "4c5702f16fdc352c",
-      "rating": 1519.4,
+      "rating": 1502.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-11-14",
       "fight_id": "4c5702f16fdc352c",
-      "rating": 1517.3,
+      "rating": 1502.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,10 +125,10 @@
   "last_fight_date": "2025-11-14",
   "name": "Joe Giannetti",
   "nickname": "",
-  "overall_elo": 1517.3,
-  "peak_elo": 1519.4,
-  "raw_current_elo": 1519.4,
-  "raw_overall_elo": 1517.3,
+  "overall_elo": 1502.1,
+  "peak_elo": 1502.4,
+  "raw_current_elo": 1502.4,
+  "raw_overall_elo": 1502.1,
   "slug": "joe-giannetti",
   "systems": {
     "division": "men:Lightweight",

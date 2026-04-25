@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5775,
+  "divisional_rank": 596,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Vagner Rocha",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-06-26",
+      "elo_delta": 20.0,
+      "event_name": "Strikeforce: Fedor vs. Werdum",
+      "fight_id": "13b10ee152981841",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 30–27, 30–26)",
+      "opponent": "Vagner Rocha",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1516.9,
+      "pre_elo": 1496.9,
+      "red_name": "Bret Bergmark",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Werdum",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Bret Bergmark",
+      "bout_type": "Welterweight Bout",
+      "date": "2005-10-14",
+      "elo_delta": -20.4,
+      "event_name": "WEC 17: Halloween Fury 4",
+      "fight_id": "a1a7ac16d7a1af9a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Mike Pyle",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Mike Pyle",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 17",
+      "time": "3:36",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brodie Farber",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-27",
+      "elo_delta": 19.4,
+      "event_name": "WEC 6: Return of a Legend",
+      "fight_id": "69f74fe592168714",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Brodie Farber",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Bret Bergmark",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 6",
+      "time": "3:57",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-03-27",
+      "fight_id": "69f74fe592168714",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-27",
+      "fight_id": "69f74fe592168714",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-10-14",
+      "fight_id": "a1a7ac16d7a1af9a",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2005-10-14",
+      "fight_id": "a1a7ac16d7a1af9a",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-26",
+      "fight_id": "13b10ee152981841",
+      "rating": 1516.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-06-26",
+      "fight_id": "13b10ee152981841",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-06-26",
+  "name": "Bret Bergmark",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1516.9,
+  "raw_overall_elo": 1516.7,
+  "slug": "bret-bergmark",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

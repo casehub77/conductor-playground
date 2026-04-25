@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6217,
+  "divisional_rank": 693,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chris Simmons",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-04-10",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 2",
+      "fight_id": "0a1d25f889fab598",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Josh LaBerge",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Josh LaBerge",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 2",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-04-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-10",
+      "fight_id": "0a1d25f889fab598",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-04-10",
+      "fight_id": "0a1d25f889fab598",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-10",
+  "name": "Chris Simmons",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "chris-simmons",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

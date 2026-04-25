@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8485,
+  "divisional_rank": 1522,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Rami Boukai",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-01-24",
+      "elo_delta": -14.4,
+      "event_name": "Shooto: 1/24 in Korakuen Hall",
+      "fight_id": "c59149d2e19abe9a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Katsuya Toida",
+      "opponent_elo": 1570.9,
+      "outcome": "red_win",
+      "post_elo": 1485.6,
+      "pre_elo": 1500.0,
+      "red_name": "Katsuya Toida",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-01-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-01-24",
+      "fight_id": "c59149d2e19abe9a",
+      "rating": 1485.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-01-24",
+      "fight_id": "c59149d2e19abe9a",
+      "rating": 1486.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-01-24",
+  "name": "Rami Boukai",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1485.6,
+  "raw_overall_elo": 1486.1,
+  "slug": "rami-boukai",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

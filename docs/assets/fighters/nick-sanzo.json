@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 10662,
+  "divisional_rank": 1096,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nick Sanzo",
+      "bout_type": "Lightweight Bout",
+      "date": "1997-02-07",
+      "elo_delta": -18.5,
+      "event_name": "UFC 12: Judgement Day",
+      "fight_id": "83469cf3d9cc67a5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jerry Bohlander",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jerry Bohlander",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:39",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "1997-02-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-02-07",
+      "fight_id": "83469cf3d9cc67a5",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1997-02-07",
+      "fight_id": "83469cf3d9cc67a5",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1997-02-07",
+  "name": "Nick Sanzo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.5,
+  "slug": "nick-sanzo",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

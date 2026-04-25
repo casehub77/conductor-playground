@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6590,
+  "divisional_rank": 504,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Roman Mitichyan",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-04-02",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: Florian vs Lauzon",
+      "fight_id": "c13d960d27df31d1",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "George Sotiropoulos",
+      "opponent_elo": 1506.5,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1519.4,
+      "red_name": "George Sotiropoulos",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:24",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Dorian Price",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-12-08",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Hughes vs. Team Serra Finale",
+      "fight_id": "2b4acd8f69e931ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Dorian Price",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Mitichyan",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:23",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-12-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-12-08",
+      "fight_id": "2b4acd8f69e931ea",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-12-08",
+      "fight_id": "2b4acd8f69e931ea",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-04-02",
+      "fight_id": "c13d960d27df31d1",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-04-02",
+      "fight_id": "c13d960d27df31d1",
+      "rating": 1499.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-04-02",
+  "name": "Roman Mitichyan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1499.3,
+  "raw_overall_elo": 1499.4,
+  "slug": "roman-mitichyan",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

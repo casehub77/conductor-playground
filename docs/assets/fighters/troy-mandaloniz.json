@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6265,
+  "divisional_rank": 511,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Troy Mandaloniz",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-02-21",
+      "elo_delta": -18.1,
+      "event_name": "UFC 95: Sanchez vs Stevenson",
+      "fight_id": "8af0fc54fd1be39e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Paul Kelly",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1501.3,
+      "pre_elo": 1519.4,
+      "red_name": "Paul Kelly",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Richie Hightower",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-12-08",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Hughes vs. Team Serra Finale",
+      "fight_id": "a005fd8edbb4edc5",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Richie Hightower",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Troy Mandaloniz",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:20",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-12-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-12-08",
+      "fight_id": "a005fd8edbb4edc5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-12-08",
+      "fight_id": "a005fd8edbb4edc5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-02-21",
+      "fight_id": "8af0fc54fd1be39e",
+      "rating": 1501.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-02-21",
+      "fight_id": "8af0fc54fd1be39e",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-02-21",
+  "name": "Troy Mandaloniz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1501.3,
+  "raw_overall_elo": 1501.3,
+  "slug": "troy-mandaloniz",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

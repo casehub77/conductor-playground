@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8962,
+  "divisional_rank": 878,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nick Agallar",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-10-04",
+      "elo_delta": 19.8,
+      "event_name": "WEC 2: Clash of the Titans",
+      "fight_id": "e8b290a0bf084a1d",
+      "gender": "men",
+      "is_title": false,
+      "method": "decision",
+      "opponent": "Nick Agallar",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1505.1,
+      "pre_elo": 1485.3,
+      "red_name": "Charlie Pearson",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Charlie Pearson",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-06-30",
+      "elo_delta": -14.7,
+      "event_name": "Shooto: To The Top 5",
+      "fight_id": "96246ab8eb81dd38",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Takumi Nakayama",
+      "opponent_elo": 1564.6,
+      "outcome": "red_win",
+      "post_elo": 1485.3,
+      "pre_elo": 1500.0,
+      "red_name": "Takumi Nakayama",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-06-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-06-30",
+      "fight_id": "96246ab8eb81dd38",
+      "rating": 1485.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-06-30",
+      "fight_id": "96246ab8eb81dd38",
+      "rating": 1486.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-10-04",
+      "fight_id": "e8b290a0bf084a1d",
+      "rating": 1505.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-10-04",
+      "fight_id": "e8b290a0bf084a1d",
+      "rating": 1504.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-10-04",
+  "name": "Charlie Pearson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1505.1,
+  "raw_current_elo": 1505.1,
+  "raw_overall_elo": 1504.1,
+  "slug": "charlie-pearson",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3492,
+  "divisional_rank": 1312,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "João Almeida",
+      "bout_type": "Open Weight Bout",
+      "date": "2016-09-25",
+      "elo_delta": -19.4,
+      "event_name": "Rizin World Grand-Prix 2016: 1st Round",
+      "fight_id": "af9d05bd8322b72e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Amir Aliakbari",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Amir Aliakbari",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
+      "time": "2:25",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2016-09-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-09-25",
+      "fight_id": "af9d05bd8322b72e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2016-09-25",
+      "fight_id": "af9d05bd8322b72e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-09-25",
+  "name": "João Almeida",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "joao-almeida",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5327,
+  "divisional_rank": 488,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "John Kelly",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-09-17",
+      "elo_delta": -17.9,
+      "event_name": "Bellator 50",
+      "fight_id": "ad46038fa46c130d",
+      "gender": "men",
+      "is_title": false,
+      "method": "unanimous decision (29-28, 29-28, 29-28)",
+      "opponent": "Cristiano Souza",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1498.9,
+      "red_name": "Cristiano Souza",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 50",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "John Kelly",
+      "bout_type": "Catchweight (172 lbs) Bout",
+      "date": "2010-04-08",
+      "elo_delta": -20.5,
+      "event_name": "Bellator 13",
+      "fight_id": "99663c56d1ee2868",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kneebar)",
+      "opponent": "Edson Diniz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Edson Diniz",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 13",
+      "time": "4:36",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sabah Homasi",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-01-30",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Miami",
+      "fight_id": "b96239dd3967ca3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Sabah Homasi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "John Kelly",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Miami",
+      "time": "2:48",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-30",
+      "fight_id": "b96239dd3967ca3f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-01-30",
+      "fight_id": "b96239dd3967ca3f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-04-08",
+      "fight_id": "99663c56d1ee2868",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-04-08",
+      "fight_id": "99663c56d1ee2868",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "ad46038fa46c130d",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "ad46038fa46c130d",
+      "rating": 1483.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-17",
+  "name": "John Kelly",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1481.0,
+  "raw_overall_elo": 1483.2,
+  "slug": "john-kelly",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

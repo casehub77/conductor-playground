@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4151,
+  "divisional_rank": 704,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Matt Hobar",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-12-06",
+      "elo_delta": -17.1,
+      "event_name": "UFC 181: Hendricks vs Lawler II",
+      "fight_id": "8df232c7a1fcd7f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sergio Pettis",
+      "opponent_elo": 1515.1,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1498.0,
+      "red_name": "Sergio Pettis",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Matt Hobar",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-08-23",
+      "elo_delta": 18.2,
+      "event_name": "UFC Fight Night: Henderson vs Dos Anjos",
+      "fight_id": "aff4b15c4f8ad2d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aaron Phillips",
+      "opponent_elo": 1483.2,
+      "outcome": "blue_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1479.8,
+      "red_name": "Aaron Phillips",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Matt Hobar",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-05-31",
+      "elo_delta": -20.2,
+      "event_name": "UFC Fight Night: Miocic vs Maldonado",
+      "fight_id": "3324af4162fc0bea",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Pedro Munhoz",
+      "opponent_elo": 1486.1,
+      "outcome": "red_win",
+      "post_elo": 1479.8,
+      "pre_elo": 1500.0,
+      "red_name": "Pedro Munhoz",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:47",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2014-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-05-31",
+      "fight_id": "3324af4162fc0bea",
+      "rating": 1479.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "3324af4162fc0bea",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-08-23",
+      "fight_id": "aff4b15c4f8ad2d5",
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-08-23",
+      "fight_id": "aff4b15c4f8ad2d5",
+      "rating": 1498.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "8df232c7a1fcd7f5",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "8df232c7a1fcd7f5",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-12-06",
+  "name": "Matt Hobar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.8,
+  "raw_overall_elo": 1482.8,
+  "slug": "matt-hobar",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

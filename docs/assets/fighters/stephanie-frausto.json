@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5784,
+  "divisional_rank": 216,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Stephanie Frausto",
+      "bout_type": "Women's 115-pound Bout",
+      "date": "2010-06-17",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 22",
+      "fight_id": "ce9a5e38ca840b5d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Lisa Ward",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Lisa Ward",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 22",
+      "time": "2:01",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2010-06-17",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2010-06-17",
+      "fight_id": "ce9a5e38ca840b5d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2010-06-17",
+      "fight_id": "ce9a5e38ca840b5d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-06-17",
+  "name": "Stephanie Frausto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "stephanie-frausto",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

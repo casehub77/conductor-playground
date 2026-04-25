@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7308,
+  "divisional_rank": 351,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Scott Smith",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-04-15",
+      "elo_delta": 22.0,
+      "event_name": "UFC 59: Reality Check",
+      "fight_id": "543a6c2841023477",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Scott Smith",
+      "opponent_elo": 1551.8,
+      "outcome": "red_win",
+      "post_elo": 1528.5,
+      "pre_elo": 1506.5,
+      "red_name": "David Terrell",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:08",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "David Terrell",
+      "bout_type": "UFC Middleweight Title Bout",
+      "date": "2005-02-05",
+      "elo_delta": -16.5,
+      "event_name": "UFC 51: Super Saturday",
+      "fight_id": "f3b44bfc924fd5f3",
+      "gender": "men",
+      "is_title": true,
+      "method": "KO/TKO",
+      "opponent": "Evan Tanner",
+      "opponent_elo": 1603.9,
+      "outcome": "red_win",
+      "post_elo": 1506.5,
+      "pre_elo": 1523.0,
+      "red_name": "Evan Tanner",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:35",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Matt Lindland",
+      "bout_type": "Middleweight Bout",
+      "date": "2004-08-21",
+      "elo_delta": 23.0,
+      "event_name": "UFC 49: Unfinished Business",
+      "fight_id": "39741b077399b052",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Matt Lindland",
+      "opponent_elo": 1564.6,
+      "outcome": "red_win",
+      "post_elo": 1523.0,
+      "pre_elo": 1500.0,
+      "red_name": "David Terrell",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:24",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2004-08-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-08-21",
+      "fight_id": "39741b077399b052",
+      "rating": 1523.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2004-08-21",
+      "fight_id": "39741b077399b052",
+      "rating": 1520.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-02-05",
+      "fight_id": "f3b44bfc924fd5f3",
+      "rating": 1506.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2005-02-05",
+      "fight_id": "f3b44bfc924fd5f3",
+      "rating": 1505.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-04-15",
+      "fight_id": "543a6c2841023477",
+      "rating": 1528.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-04-15",
+      "fight_id": "543a6c2841023477",
+      "rating": 1525.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-04-15",
+  "name": "David Terrell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1528.5,
+  "raw_current_elo": 1528.5,
+  "raw_overall_elo": 1525.4,
+  "slug": "david-terrell",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7184,
+  "divisional_rank": 885,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chris Solomon",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-08-17",
+      "elo_delta": -15.5,
+      "event_name": "WEC 23: Hot August Fights",
+      "fight_id": "a1806bb96ac4ab54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Casey Olson",
+      "opponent_elo": 1548.9,
+      "outcome": "red_win",
+      "post_elo": 1484.5,
+      "pre_elo": 1500.0,
+      "red_name": "Casey Olson",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 23",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2006-08-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-08-17",
+      "fight_id": "a1806bb96ac4ab54",
+      "rating": 1484.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "a1806bb96ac4ab54",
+      "rating": 1486.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-08-17",
+  "name": "Chris Solomon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.5,
+  "raw_overall_elo": 1486.1,
+  "slug": "chris-solomon",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

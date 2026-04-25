@@ -1,0 +1,145 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3878,
+  "divisional_rank": 625,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Tiago Dos Santos E Silva",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-09-05",
+      "elo_delta": -17.5,
+      "event_name": "UFC 191: Johnson vs Dodson 2",
+      "fight_id": "68f5a16f39f0bf48",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Tiago Dos Santos E Silva",
+      "opponent_elo": 1494.9,
+      "outcome": "blue_win",
+      "post_elo": 1468.6,
+      "pre_elo": 1486.1,
+      "red_name": "Clay Collard",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Clay Collard",
+      "bout_type": "Featherweight Bout",
+      "date": "2015-06-13",
+      "elo_delta": -17.2,
+      "event_name": "UFC 188: Velasquez vs Werdum",
+      "fight_id": "cc90a9d5a2633226",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Gabriel Benitez",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1486.1,
+      "pre_elo": 1503.3,
+      "red_name": "Gabriel Benitez",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Clay Collard",
+      "bout_type": "Featherweight Bout",
+      "date": "2014-12-06",
+      "elo_delta": 18.8,
+      "event_name": "UFC 181: Hendricks vs Lawler II",
+      "fight_id": "144c022266d16575",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alex White",
+      "opponent_elo": 1499.3,
+      "outcome": "blue_win",
+      "post_elo": 1503.3,
+      "pre_elo": 1484.5,
+      "red_name": "Alex White",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2014-08-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-08-23",
+      "fight_id": "d36ce6ebc7b6fdb2",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "144c022266d16575",
+      "rating": 1503.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "144c022266d16575",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-06-13",
+      "fight_id": "cc90a9d5a2633226",
+      "rating": 1486.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-06-13",
+      "fight_id": "cc90a9d5a2633226",
+      "rating": 1486.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-09-05",
+      "fight_id": "68f5a16f39f0bf48",
+      "rating": 1468.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2015-09-05",
+      "fight_id": "68f5a16f39f0bf48",
+      "rating": 1470.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-09-05",
+  "name": "Clay Collard",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.3,
+  "raw_current_elo": 1468.6,
+  "raw_overall_elo": 1470.5,
+  "slug": "clay-collard",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

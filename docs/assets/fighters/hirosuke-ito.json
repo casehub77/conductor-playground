@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6607,
+  "divisional_rank": 756,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Joji Kawamata",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-03-16",
+      "elo_delta": 18.0,
+      "event_name": "Shooto: Gig Central 14",
+      "fight_id": "8c791c4fd0274907",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Joji Kawamata",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Hirosuke Ito",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-16",
+      "fight_id": "8c791c4fd0274907",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-03-16",
+      "fight_id": "8c791c4fd0274907",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-03-16",
+  "name": "Hirosuke Ito",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1518.0,
+  "raw_overall_elo": 1516.0,
+  "slug": "hirosuke-ito",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

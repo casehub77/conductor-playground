@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7153,
+  "divisional_rank": 1003,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Alexandre Shevtsov",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-09-17",
+      "elo_delta": -21.6,
+      "event_name": "Shooto: Gig Central 10",
+      "fight_id": "05861933bfc598fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Hiroshi Umemura",
+      "opponent_elo": 1462.0,
+      "outcome": "red_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1500.0,
+      "red_name": "Hiroshi Umemura",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "1:05",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-09-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-09-17",
+      "fight_id": "05861933bfc598fc",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-09-17",
+      "fight_id": "05861933bfc598fc",
+      "rating": 1481.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-09-17",
+  "name": "Alexandre Shevtsov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1478.4,
+  "raw_overall_elo": 1481.0,
+  "slug": "alexandre-shevtsov",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

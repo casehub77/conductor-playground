@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5995,
+  "divisional_rank": 545,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "John Franchi",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-11-18",
+      "elo_delta": -19.1,
+      "event_name": "WEC 44: Brown vs. Aldo",
+      "fight_id": "41c8a1c1a3ce93ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Cub Swanson",
+      "opponent_elo": 1504.6,
+      "outcome": "red_win",
+      "post_elo": 1479.3,
+      "pre_elo": 1498.4,
+      "red_name": "Cub Swanson",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 44",
+      "time": "4:50",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "John Franchi",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-06-07",
+      "elo_delta": -19.6,
+      "event_name": "WEC 41: Brown vs. Faber 2",
+      "fight_id": "5eef71001bec60df",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Manvel Gamburyan",
+      "opponent_elo": 1486.4,
+      "outcome": "red_win",
+      "post_elo": 1498.4,
+      "pre_elo": 1518.0,
+      "red_name": "Manvel Gamburyan",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 41",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Mike Budnik",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-03-01",
+      "elo_delta": 18.0,
+      "event_name": "WEC 39: Brown vs. Garcia",
+      "fight_id": "141a01d867a75d09",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29-28, 28-29, 29-28)",
+      "opponent": "Mike Budnik",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "John Franchi",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 39",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-03-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-03-01",
+      "fight_id": "141a01d867a75d09",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-03-01",
+      "fight_id": "141a01d867a75d09",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-07",
+      "fight_id": "5eef71001bec60df",
+      "rating": 1498.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-06-07",
+      "fight_id": "5eef71001bec60df",
+      "rating": 1498.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-11-18",
+      "fight_id": "41c8a1c1a3ce93ed",
+      "rating": 1479.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-11-18",
+      "fight_id": "41c8a1c1a3ce93ed",
+      "rating": 1481.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-11-18",
+  "name": "John Franchi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1479.3,
+  "raw_overall_elo": 1481.6,
+  "slug": "john-franchi",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

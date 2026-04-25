@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5264,
+  "divisional_rank": 570,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jonas Billstein",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-11-19",
+      "elo_delta": 20.4,
+      "event_name": "Bellator 58",
+      "fight_id": "82d671f8f4f69b3a",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ (illegal soccer kick)",
+      "opponent": "Jonas Billstein",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.7,
+      "pre_elo": 1483.3,
+      "red_name": "Herbert Goodman",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 58",
+      "time": "3:21",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Herbert Goodman",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-08-12",
+      "elo_delta": -16.7,
+      "event_name": "Bellator 24",
+      "fight_id": "5d8b7a90e296694f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Hector Lombard",
+      "opponent_elo": 1549.9,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Hector Lombard",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 24",
+      "time": "0:38",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2010-08-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-12",
+      "fight_id": "5d8b7a90e296694f",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-08-12",
+      "fight_id": "5d8b7a90e296694f",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "82d671f8f4f69b3a",
+      "rating": 1503.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-11-19",
+      "fight_id": "82d671f8f4f69b3a",
+      "rating": 1502.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-19",
+  "name": "Herbert Goodman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.7,
+  "raw_current_elo": 1503.7,
+  "raw_overall_elo": 1502.8,
+  "slug": "herbert-goodman",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

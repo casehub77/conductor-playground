@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5803,
+  "divisional_rank": 986,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Joe Brammer",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-05-29",
+      "elo_delta": -17.7,
+      "event_name": "UFC 114: Rampage vs Evans",
+      "fight_id": "69449e4499240e3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Aaron Riley",
+      "opponent_elo": 1487.3,
+      "outcome": "red_win",
+      "post_elo": 1463.9,
+      "pre_elo": 1481.6,
+      "red_name": "Aaron Riley",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Joe Brammer",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-12-05",
+      "elo_delta": -18.4,
+      "event_name": "The Ultimate Fighter: Heavyweights Finale",
+      "fight_id": "1151912793d284c9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Mark Bocek",
+      "opponent_elo": 1518.7,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Bocek",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:36",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-12-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-12-05",
+      "fight_id": "1151912793d284c9",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-12-05",
+      "fight_id": "1151912793d284c9",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-05-29",
+      "fight_id": "69449e4499240e3e",
+      "rating": 1463.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-05-29",
+      "fight_id": "69449e4499240e3e",
+      "rating": 1467.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-05-29",
+  "name": "Joe Brammer",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.9,
+  "raw_overall_elo": 1467.7,
+  "slug": "joe-brammer",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

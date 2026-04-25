@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5481,
+  "divisional_rank": 497,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chad Robichaux",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-04-16",
+      "elo_delta": -16.5,
+      "event_name": "Bellator 41",
+      "fight_id": "e546b2f01defca00",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Zach Makovsky",
+      "opponent_elo": 1569.5,
+      "outcome": "red_win",
+      "post_elo": 1500.6,
+      "pre_elo": 1517.2,
+      "red_name": "Zach Makovsky",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 41",
+      "time": "2:02",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Humberto DeLeon",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-08-21",
+      "elo_delta": 17.2,
+      "event_name": "Strikeforce: Houston",
+      "fight_id": "089afd8059b26388",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Humberto DeLeon",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1517.2,
+      "pre_elo": 1500.0,
+      "red_name": "Chad Robichaux",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Houston",
+      "time": "3:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2010-08-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-21",
+      "fight_id": "089afd8059b26388",
+      "rating": 1517.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-08-21",
+      "fight_id": "089afd8059b26388",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-16",
+      "fight_id": "e546b2f01defca00",
+      "rating": 1500.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-04-16",
+      "fight_id": "e546b2f01defca00",
+      "rating": 1500.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-16",
+  "name": "Chad Robichaux",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.2,
+  "raw_current_elo": 1500.6,
+  "raw_overall_elo": 1500.4,
+  "slug": "chad-robichaux",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

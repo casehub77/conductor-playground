@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6226,
+  "divisional_rank": 590,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Junie Browning",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-04-01",
+      "elo_delta": -19.1,
+      "event_name": "UFC Fight Night: Condit vs Kampmann",
+      "fight_id": "8ac59220199cd668",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Cole Miller",
+      "opponent_elo": 1525.8,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Cole Miller",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:58",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "David Kaplan",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-12-13",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Nogueira vs. Team Mir Finale",
+      "fight_id": "312e04127e1e4ba7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "David Kaplan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Junie Browning",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:32",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2008-12-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-12-13",
+      "fight_id": "312e04127e1e4ba7",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-12-13",
+      "fight_id": "312e04127e1e4ba7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-01",
+      "fight_id": "8ac59220199cd668",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-04-01",
+      "fight_id": "8ac59220199cd668",
+      "rating": 1500.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-01",
+  "name": "Junie Browning",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1500.4,
+  "raw_overall_elo": 1500.2,
+  "slug": "junie-browning",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

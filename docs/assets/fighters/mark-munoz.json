@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6345,
+  "divisional_rank": 194,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ricardo Barros",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-12-03",
+      "elo_delta": 18.4,
+      "event_name": "WEC 37: Torres vs. Tapia",
+      "fight_id": "485b1f20a3913384",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Ricardo Barros",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Mark Muñoz",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 37",
+      "time": "2:26",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Chuck Grigsby",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2008-06-01",
+      "elo_delta": 19.4,
+      "event_name": "WEC 34: Faber vs. Pulver",
+      "fight_id": "ed1824ccfd92f065",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Chuck Grigsby",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Muñoz",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 34",
+      "time": "4:15",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-06-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-06-01",
+      "fight_id": "ed1824ccfd92f065",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-06-01",
+      "fight_id": "ed1824ccfd92f065",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-03",
+      "fight_id": "485b1f20a3913384",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-03",
+      "fight_id": "485b1f20a3913384",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-03",
+  "name": "Mark Muñoz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "raw_current_elo": 1537.8,
+  "raw_overall_elo": 1533.7,
+  "slug": "mark-munoz",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

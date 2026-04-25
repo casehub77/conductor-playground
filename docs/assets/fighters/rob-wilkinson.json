@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2989,
+  "divisional_rank": 804,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Israel Adesanya",
+      "bout_type": "Middleweight Bout",
+      "date": "2018-02-10",
+      "elo_delta": -18.4,
+      "event_name": "UFC 221: Romero vs. Rockhold",
+      "fight_id": "afe0ae99d79baa59",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Israel Adesanya",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1463.4,
+      "pre_elo": 1481.8,
+      "red_name": "Rob Wilkinson",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:37",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Rob Wilkinson",
+      "bout_type": "Middleweight Bout",
+      "date": "2017-09-02",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Volkov vs. Struve",
+      "fight_id": "124f6fc5d9b509bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Siyar Bahadurzada",
+      "opponent_elo": 1522.3,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Siyar Bahadurzada",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:10",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2017-09-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-09-02",
+      "fight_id": "124f6fc5d9b509bc",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2017-09-02",
+      "fight_id": "124f6fc5d9b509bc",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-02-10",
+      "fight_id": "afe0ae99d79baa59",
+      "rating": 1463.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2018-02-10",
+      "fight_id": "afe0ae99d79baa59",
+      "rating": 1467.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-02-10",
+  "name": "Rob Wilkinson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.4,
+  "raw_overall_elo": 1467.4,
+  "slug": "rob-wilkinson",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

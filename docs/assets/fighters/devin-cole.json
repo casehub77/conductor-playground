@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5236,
+  "divisional_rank": 218,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Gabriel Salinas-Jones",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-12-17",
+      "elo_delta": 18.0,
+      "event_name": "Strikeforce: Melendez vs. Masvidal",
+      "fight_id": "c0959bc56f13684b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Gabriel Salinas-Jones",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1537.5,
+      "pre_elo": 1519.5,
+      "red_name": "Devin Cole",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Melendez vs. Masvidal",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Mike Kyle",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-01-13",
+      "elo_delta": 21.4,
+      "event_name": "WEC 18: Unfinished Business",
+      "fight_id": "4c333cc9c53e1552",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Mike Kyle",
+      "opponent_elo": 1535.8,
+      "outcome": "red_win",
+      "post_elo": 1521.4,
+      "pre_elo": 1500.0,
+      "red_name": "Devin Cole",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 18",
+      "time": "2:56",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-01-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-01-13",
+      "fight_id": "4c333cc9c53e1552",
+      "rating": 1521.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-01-13",
+      "fight_id": "4c333cc9c53e1552",
+      "rating": 1519.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-12-17",
+      "fight_id": "c0959bc56f13684b",
+      "rating": 1537.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-12-17",
+      "fight_id": "c0959bc56f13684b",
+      "rating": 1535.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-12-17",
+  "name": "Devin Cole",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.5,
+  "raw_current_elo": 1537.5,
+  "raw_overall_elo": 1535.4,
+  "slug": "devin-cole",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

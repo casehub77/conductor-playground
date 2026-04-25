@@ -1,0 +1,109 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5159,
+  "divisional_rank": 751,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Conor Heun",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-03-03",
+      "elo_delta": -19.6,
+      "event_name": "Strikeforce: Tate vs. Rousey",
+      "fight_id": "f16322665805136f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Ryan Couture",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1503.5,
+      "red_name": "Ryan Couture",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Tate vs. Rousey",
+      "time": "2:52",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Magno Almeida",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-06-18",
+      "elo_delta": 18.8,
+      "event_name": "Strikeforce: Overeem vs. Werdum",
+      "fight_id": "1ee3550f1e76e650",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
+      "opponent": "Magno Almeida",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.5,
+      "pre_elo": 1484.7,
+      "red_name": "Conor Heun",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Overeem vs. Werdum",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-06-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-16",
+      "fight_id": "b5af37e77f5ad603",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-18",
+      "fight_id": "1ee3550f1e76e650",
+      "rating": 1503.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-06-18",
+      "fight_id": "1ee3550f1e76e650",
+      "rating": 1501.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-03-03",
+      "fight_id": "f16322665805136f",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-03-03",
+      "fight_id": "f16322665805136f",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-03-03",
+  "name": "Conor Heun",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.5,
+  "raw_current_elo": 1483.9,
+  "raw_overall_elo": 1484.1,
+  "slug": "conor-heun",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

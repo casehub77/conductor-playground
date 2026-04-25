@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6357,
+  "divisional_rank": 298,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Nik Theotikos",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-11-21",
+      "elo_delta": -21.5,
+      "event_name": "Strikeforce: Destruction",
+      "fight_id": "a9918c1bfc6ce794",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Luke Rockhold",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1516.2,
+      "pre_elo": 1537.8,
+      "red_name": "Luke Rockhold",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Destruction",
+      "time": "3:06",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Nikk Covert",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-06-22",
+      "elo_delta": 18.4,
+      "event_name": "Strikeforce: Shamrock vs. Baroni",
+      "fight_id": "f09704b4e9634afd",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Nikk Covert",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Nik Theotikos",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Baroni",
+      "time": "1:13",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Devin Johnson",
+      "bout_type": "Middleweight Bout",
+      "date": "2007-02-10",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Young Guns",
+      "fight_id": "3e22219e334611d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Devin Johnson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Nik Theotikos",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Young Guns",
+      "time": "0:11",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2007-02-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-02-10",
+      "fight_id": "3e22219e334611d6",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-02-10",
+      "fight_id": "3e22219e334611d6",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-06-22",
+      "fight_id": "f09704b4e9634afd",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2007-06-22",
+      "fight_id": "f09704b4e9634afd",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-11-21",
+      "fight_id": "a9918c1bfc6ce794",
+      "rating": 1516.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-11-21",
+      "fight_id": "a9918c1bfc6ce794",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-11-21",
+  "name": "Nik Theotikos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "raw_current_elo": 1516.2,
+  "raw_overall_elo": 1514.8,
+  "slug": "nik-theotikos",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

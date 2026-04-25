@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5978,
+  "divisional_rank": 521,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Justin Wren",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-12-05",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: Heavyweights Finale",
+      "fight_id": "2983b1a4592a1c59",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Jon Madsen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jon Madsen",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-12-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-12-05",
+      "fight_id": "2983b1a4592a1c59",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-12-05",
+      "fight_id": "2983b1a4592a1c59",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-12-05",
+  "name": "Justin Wren",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "justin-wren",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5117,
+  "divisional_rank": 719,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Eric Wisely",
+      "bout_type": "Featherweight Bout",
+      "date": "2012-04-14",
+      "elo_delta": -18.1,
+      "event_name": "UFC on FUEL TV: Gustafsson vs Silva",
+      "fight_id": "fa1255e7fb0bf9ed",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jason Young",
+      "opponent_elo": 1479.0,
+      "outcome": "red_win",
+      "post_elo": 1462.9,
+      "pre_elo": 1481.0,
+      "red_name": "Jason Young",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Eric Wisely",
+      "bout_type": "Featherweight Bout",
+      "date": "2012-01-28",
+      "elo_delta": -19.0,
+      "event_name": "UFC on FOX: Evans vs Davis",
+      "fight_id": "dc678c597de4b06c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Charles Oliveira",
+      "opponent_elo": 1508.2,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Charles Oliveira",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:43",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2012-01-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-01-28",
+      "fight_id": "dc678c597de4b06c",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2012-01-28",
+      "fight_id": "dc678c597de4b06c",
+      "rating": 1483.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-04-14",
+      "fight_id": "fa1255e7fb0bf9ed",
+      "rating": 1462.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2012-04-14",
+      "fight_id": "fa1255e7fb0bf9ed",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-04-14",
+  "name": "Eric Wisely",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.9,
+  "raw_overall_elo": 1467.1,
+  "slug": "eric-wisely",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

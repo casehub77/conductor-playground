@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4746,
+  "divisional_rank": 491,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yoel Romero",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-04-20",
+      "elo_delta": -20.3,
+      "event_name": "UFC on FOX: Henderson vs Melendez",
+      "fight_id": "1f2c5a4f9fcf3679",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Yoel Romero",
+      "opponent_elo": 1483.2,
+      "outcome": "blue_win",
+      "post_elo": 1479.0,
+      "pre_elo": 1499.3,
+      "red_name": "Clifford Starks",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:32",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Clifford Starks",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-02-04",
+      "elo_delta": -18.7,
+      "event_name": "UFC 143: Diaz vs Condit",
+      "fight_id": "fd09d0e4505964ca",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Ed Herman",
+      "opponent_elo": 1531.2,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1518.0,
+      "red_name": "Ed Herman",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:43",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Clifford Starks",
+      "bout_type": "Middleweight Bout",
+      "date": "2011-10-29",
+      "elo_delta": 18.0,
+      "event_name": "UFC 137: Penn vs Diaz",
+      "fight_id": "9a4e861dc50987f9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Dustin Jacoby",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Dustin Jacoby",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2011-10-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-10-29",
+      "fight_id": "9a4e861dc50987f9",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2011-10-29",
+      "fight_id": "9a4e861dc50987f9",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-02-04",
+      "fight_id": "fd09d0e4505964ca",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-02-04",
+      "fight_id": "fd09d0e4505964ca",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-04-20",
+      "fight_id": "1f2c5a4f9fcf3679",
+      "rating": 1479.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-04-20",
+      "fight_id": "1f2c5a4f9fcf3679",
+      "rating": 1481.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-04-20",
+  "name": "Clifford Starks",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1479.0,
+  "raw_overall_elo": 1481.2,
+  "slug": "clifford-starks",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

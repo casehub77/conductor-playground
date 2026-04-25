@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8555,
+  "divisional_rank": 1143,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Edward Button",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-11-15",
+      "elo_delta": -18.5,
+      "event_name": "Shooto: Treasure Hunt 11",
+      "fight_id": "6f3629f6e478e8ab",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Hatsu Hioki",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Hatsu Hioki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
+      "time": "4:11",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-11-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-11-15",
+      "fight_id": "6f3629f6e478e8ab",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-11-15",
+      "fight_id": "6f3629f6e478e8ab",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-11-15",
+  "name": "Edward Button",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.5,
+  "slug": "edward-button",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5446,
+  "divisional_rank": 1017,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kelvin Hackney",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-05-21",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 45",
+      "fight_id": "c6fe386964ac6c0b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Renê Nazare",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Renê Nazare",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 45",
+      "time": "4:44",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2011-05-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-05-21",
+      "fight_id": "c6fe386964ac6c0b",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-05-21",
+      "fight_id": "c6fe386964ac6c0b",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-05-21",
+  "name": "Kelvin Hackney",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.6,
+  "slug": "kelvin-hackney",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4837,
+  "divisional_rank": 889,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Cj Keith",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-01-19",
+      "elo_delta": -18.2,
+      "event_name": "UFC on FX: Belfort vs Bisping",
+      "fight_id": "f1b9fc5817f9178a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Francisco Trinaldo",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1462.4,
+      "pre_elo": 1480.6,
+      "red_name": "Francisco Trinaldo",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:50",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Cj Keith",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-06-22",
+      "elo_delta": -19.4,
+      "event_name": "UFC on FX: Maynard vs Guida",
+      "fight_id": "291a1fe58bb9b283",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Ramsey Nijem",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ramsey Nijem",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:29",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2012-06-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-06-22",
+      "fight_id": "291a1fe58bb9b283",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-06-22",
+      "fight_id": "291a1fe58bb9b283",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-01-19",
+      "fight_id": "f1b9fc5817f9178a",
+      "rating": 1462.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-01-19",
+      "fight_id": "f1b9fc5817f9178a",
+      "rating": 1466.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-01-19",
+  "name": "Cj Keith",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.4,
+  "raw_overall_elo": 1466.4,
+  "slug": "cj-keith",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

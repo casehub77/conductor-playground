@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8716,
+  "divisional_rank": 1028,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jesse Heck",
+      "bout_type": "Welterweight Bout",
+      "date": "2002-06-07",
+      "elo_delta": -17.5,
+      "event_name": "2002 in WEC",
+      "fight_id": "c52e00cf817f3a1e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Tony Alanis",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1482.7,
+      "red_name": "Tony Alanis",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 5",
+      "time": "0:14",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jesse Heck",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-10-04",
+      "elo_delta": -19.4,
+      "event_name": "WEC 2: Clash of the Titans",
+      "fight_id": "7e6c01734441bcc5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (head kick)",
+      "opponent": "Rob McCullough",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Rob McCullough",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 2",
+      "time": "0:24",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-10-04",
+      "fight_id": "7e6c01734441bcc5",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-10-04",
+      "fight_id": "7e6c01734441bcc5",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-06-07",
+      "fight_id": "c52e00cf817f3a1e",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2002-06-07",
+      "fight_id": "c52e00cf817f3a1e",
+      "rating": 1467.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-06-07",
+  "name": "Jesse Heck",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.2,
+  "raw_overall_elo": 1467.2,
+  "slug": "jesse-heck",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5355,
+  "divisional_rank": 1067,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Matt Nice",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-08-20",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 48",
+      "fight_id": "8870765baf19e486",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (keylock)",
+      "opponent": "Andrew Calandrelli",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Andrew Calandrelli",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 48",
+      "time": "3:55",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2011-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-08-20",
+      "fight_id": "8870765baf19e486",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-08-20",
+      "fight_id": "8870765baf19e486",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-08-20",
+  "name": "Matt Nice",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "matt-nice",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

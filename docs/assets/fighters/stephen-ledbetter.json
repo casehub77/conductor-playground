@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6224,
+  "divisional_rank": 875,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Stephen Ledbetter",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-04-03",
+      "elo_delta": -20.2,
+      "event_name": "Bellator 1",
+      "fight_id": "39bc26c9ac1b2502",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Jonathan Brookins",
+      "opponent_elo": 1466.9,
+      "outcome": "red_win",
+      "post_elo": 1461.1,
+      "pre_elo": 1481.3,
+      "red_name": "Jonathan Brookins",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 1",
+      "time": "3:32",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Stephen Ledbetter",
+      "bout_type": "Featherweight Bout",
+      "date": "2007-08-05",
+      "elo_delta": -18.7,
+      "event_name": "WEC 29: Condit vs. Larson",
+      "fight_id": "37ddb8aeb66f02cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
+      "opponent": "Jeff Curran",
+      "opponent_elo": 1487.0,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Jeff Curran",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 29",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2007-08-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-08-05",
+      "fight_id": "37ddb8aeb66f02cd",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2007-08-05",
+      "fight_id": "37ddb8aeb66f02cd",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-03",
+      "fight_id": "39bc26c9ac1b2502",
+      "rating": 1461.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-04-03",
+      "fight_id": "39bc26c9ac1b2502",
+      "rating": 1465.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-03",
+  "name": "Stephen Ledbetter",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1461.1,
+  "raw_overall_elo": 1465.4,
+  "slug": "stephen-ledbetter",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

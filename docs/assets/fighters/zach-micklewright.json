@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5637,
+  "divisional_rank": 713,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Zach Micklewright",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-11-11",
+      "elo_delta": -20.3,
+      "event_name": "WEC 52: Faber vs. Mizugaki",
+      "fight_id": "782091f4a89ed206",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Dustin Poirier",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1477.5,
+      "pre_elo": 1497.8,
+      "red_name": "Dustin Poirier",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 52",
+      "time": "0:53",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Zach Micklewright",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-08-18",
+      "elo_delta": -19.2,
+      "event_name": "WEC 50: Cruz vs. Benavidez 2",
+      "fight_id": "3bd69d9b8d3c3a05",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Bart Palaszewski",
+      "opponent_elo": 1521.7,
+      "outcome": "red_win",
+      "post_elo": 1497.8,
+      "pre_elo": 1517.0,
+      "red_name": "Bart Palaszewski",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 50",
+      "time": "0:31",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Muhsin Corbbrey",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-12-19",
+      "elo_delta": 17.0,
+      "event_name": "WEC 45: Cerrone vs. Ratcliff",
+      "fight_id": "d5c2dd78b94a1c4b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (30–27, 30–27, 30–27)",
+      "opponent": "Muhsin Corbbrey",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1517.0,
+      "pre_elo": 1500.0,
+      "red_name": "Zach Micklewright",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 45",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-12-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-12-19",
+      "fight_id": "d5c2dd78b94a1c4b",
+      "rating": 1517.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-12-19",
+      "fight_id": "d5c2dd78b94a1c4b",
+      "rating": 1515.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-18",
+      "fight_id": "3bd69d9b8d3c3a05",
+      "rating": 1497.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-08-18",
+      "fight_id": "3bd69d9b8d3c3a05",
+      "rating": 1498.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "782091f4a89ed206",
+      "rating": 1477.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "782091f4a89ed206",
+      "rating": 1480.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-11-11",
+  "name": "Zach Micklewright",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.0,
+  "raw_current_elo": 1477.5,
+  "raw_overall_elo": 1480.1,
+  "slug": "zach-micklewright",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

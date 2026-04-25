@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3150,
+  "divisional_rank": 339,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Abdul-Kerim Edilov",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2017-09-02",
+      "elo_delta": 17.5,
+      "event_name": "UFC Fight Night: Volkov vs. Struve",
+      "fight_id": "c4083867ec0812df",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Bojan Mihajlovic",
+      "opponent_elo": 1464.8,
+      "outcome": "blue_win",
+      "post_elo": 1517.5,
+      "pre_elo": 1500.0,
+      "red_name": "Bojan Mihajlovic",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:32",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-09-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-09-02",
+      "fight_id": "c4083867ec0812df",
+      "rating": 1517.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2017-09-02",
+      "fight_id": "c4083867ec0812df",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-09-02",
+  "name": "Abdul-Kerim Edilov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.5,
+  "raw_current_elo": 1517.5,
+  "raw_overall_elo": 1515.6,
+  "slug": "abdul-kerim-edilov",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,145 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5453,
+  "divisional_rank": 946,
+  "fight_count": 4,
+  "fight_log": [
+    {
+      "blue_name": "Anthony Leone",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-05-14",
+      "elo_delta": -15.4,
+      "event_name": "Bellator 44",
+      "fight_id": "14e7ac16e2fca62b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29–28, 29–28, 29–28)",
+      "opponent": "Jeff Lentz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1434.7,
+      "pre_elo": 1450.2,
+      "red_name": "Jeff Lentz",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 44",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Anthony Leone",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-02-12",
+      "elo_delta": -15.5,
+      "event_name": "Strikeforce: Fedor vs. Bigfoot",
+      "fight_id": "3d1b8e6f9836ba7b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (doctor stoppage)",
+      "opponent": "Josh LaBerge",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1450.2,
+      "pre_elo": 1465.7,
+      "red_name": "Josh LaBerge",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Silva",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Anthony Leone",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-09-09",
+      "elo_delta": -17.0,
+      "event_name": "Bellator 28",
+      "fight_id": "d43f25c1cae4c162",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29–28, 30–27, 30–27)",
+      "opponent": "Georgi Karakhanyan",
+      "opponent_elo": 1502.0,
+      "outcome": "red_win",
+      "post_elo": 1465.7,
+      "pre_elo": 1482.7,
+      "red_name": "Georgi Karakhanyan",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 28",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2010-06-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-20",
+      "fight_id": "3809e0b58ef3ab0f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-09",
+      "fight_id": "d43f25c1cae4c162",
+      "rating": 1465.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-09-09",
+      "fight_id": "d43f25c1cae4c162",
+      "rating": 1467.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-02-12",
+      "fight_id": "3d1b8e6f9836ba7b",
+      "rating": 1450.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-02-12",
+      "fight_id": "3d1b8e6f9836ba7b",
+      "rating": 1453.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-05-14",
+      "fight_id": "14e7ac16e2fca62b",
+      "rating": 1434.7,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-05-14",
+      "fight_id": "14e7ac16e2fca62b",
+      "rating": 1439.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-05-14",
+  "name": "Anthony Leone",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1434.7,
+  "raw_overall_elo": 1439.6,
+  "slug": "anthony-leone",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

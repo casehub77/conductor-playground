@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7202,
+  "divisional_rank": 1730,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yoshinori Ashikawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-07-30",
+      "elo_delta": -17.4,
+      "event_name": "Shooto: Shooting Star",
+      "fight_id": "75337f5f4d542359",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Seiji Furukawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1445.8,
+      "pre_elo": 1463.2,
+      "red_name": "Seiji Furukawa",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "1:54",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshinori Ashikawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-07-14",
+      "elo_delta": -18.4,
+      "event_name": "Shooto: Shooter's Summer",
+      "fight_id": "13fd5fd2a0c21053",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Akihiro Murayama",
+      "opponent_elo": 1500.5,
+      "outcome": "red_win",
+      "post_elo": 1463.2,
+      "pre_elo": 1481.6,
+      "red_name": "Akihiro Murayama",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "0:25",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshinori Ashikawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-11",
+      "elo_delta": -18.4,
+      "event_name": "Shooto: 3/11 in Korakuen Hall",
+      "fight_id": "a26b3985bef5ed35",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Ryuhei Sato",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ryuhei Sato",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "0:54",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-03-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-03-11",
+      "fight_id": "a26b3985bef5ed35",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-11",
+      "fight_id": "a26b3985bef5ed35",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-07-14",
+      "fight_id": "13fd5fd2a0c21053",
+      "rating": 1463.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-07-14",
+      "fight_id": "13fd5fd2a0c21053",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-07-30",
+      "fight_id": "75337f5f4d542359",
+      "rating": 1445.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-07-30",
+      "fight_id": "75337f5f4d542359",
+      "rating": 1451.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-07-30",
+  "name": "Yoshinori Ashikawa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1445.8,
+  "raw_overall_elo": 1451.4,
+  "slug": "yoshinori-ashikawa",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

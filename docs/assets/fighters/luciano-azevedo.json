@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7175,
+  "divisional_rank": 1379,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Luciano Azevedo",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-08-26",
+      "elo_delta": -11.8,
+      "event_name": "Pride: Bushido 12",
+      "fight_id": "570fd48a28182ca0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Hayato Sakurai",
+      "opponent_elo": 1626.8,
+      "outcome": "red_win",
+      "post_elo": 1470.7,
+      "pre_elo": 1482.5,
+      "red_name": "Hayato Sakurai",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 12",
+      "time": "4:35",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Luciano Azevedo",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-07-13",
+      "elo_delta": -17.5,
+      "event_name": "Shooto: 7/13 in Korakuen Hall",
+      "fight_id": "aa1421c9aad74b3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Seiji Ozuka",
+      "opponent_elo": 1510.4,
+      "outcome": "red_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1500.0,
+      "red_name": "Seiji Ozuka",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-07-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-07-13",
+      "fight_id": "aa1421c9aad74b3e",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-07-13",
+      "fight_id": "aa1421c9aad74b3e",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-08-26",
+      "fight_id": "570fd48a28182ca0",
+      "rating": 1470.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-08-26",
+      "fight_id": "570fd48a28182ca0",
+      "rating": 1471.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-08-26",
+  "name": "Luciano Azevedo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1470.7,
+  "raw_overall_elo": 1471.8,
+  "slug": "luciano-azevedo",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

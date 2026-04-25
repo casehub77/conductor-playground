@@ -1,24 +1,24 @@
 {
   "activity_status": "active",
-  "current_elo": 1541.3,
+  "current_elo": 1541.6,
   "days_since_last_fight": 28,
-  "divisional_rank": 54,
+  "divisional_rank": 76,
   "fight_count": 6,
   "fight_log": [
     {
       "blue_name": "Sam Patterson",
       "bout_type": "Welterweight Bout",
       "date": "2026-03-21",
-      "elo_delta": -19.0,
+      "elo_delta": -18.8,
       "event_name": "UFC Fight Night: Evloev vs. Murphy",
       "fight_id": "b8ab76c4bcdf1303",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Michael Page",
-      "opponent_elo": 1541.0,
+      "opponent_elo": 1545.6,
       "outcome": "red_win",
-      "post_elo": 1541.3,
+      "post_elo": 1541.6,
       "pre_elo": 1560.3,
       "red_name": "Michael Page",
       "round": "3.0",
@@ -104,7 +104,7 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Yohan Lainesse",
-      "opponent_elo": 1480.5,
+      "opponent_elo": 1480.6,
       "outcome": "blue_win",
       "post_elo": 1502.0,
       "pre_elo": 1482.7,
@@ -207,21 +207,21 @@
     {
       "date": "2025-09-06",
       "fight_id": "776917a4315dde6c",
-      "rating": 1551.9,
+      "rating": 1552.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-03-21",
       "fight_id": "b8ab76c4bcdf1303",
-      "rating": 1541.3,
+      "rating": 1541.6,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2026-03-21",
       "fight_id": "b8ab76c4bcdf1303",
-      "rating": 1536.7,
+      "rating": 1537.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -233,10 +233,10 @@
   "last_fight_date": "2026-03-21",
   "name": "Sam Patterson",
   "nickname": "",
-  "overall_elo": 1536.7,
+  "overall_elo": 1537.0,
   "peak_elo": 1560.3,
-  "raw_current_elo": 1541.3,
-  "raw_overall_elo": 1536.7,
+  "raw_current_elo": 1541.6,
+  "raw_overall_elo": 1537.0,
   "slug": "sam-patterson",
   "systems": {
     "division": "men:Welterweight",

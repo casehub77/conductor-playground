@@ -2,7 +2,7 @@
   "activity_status": "inactive",
   "current_elo": 1495.5,
   "days_since_last_fight": 750,
-  "divisional_rank": 215,
+  "divisional_rank": 650,
   "fight_count": 3,
   "fight_log": [
     {
@@ -19,7 +19,7 @@
       "opponent_elo": 1500.0,
       "outcome": "red_win",
       "post_elo": 1481.5,
-      "pre_elo": 1500.9,
+      "pre_elo": 1501.0,
       "red_name": "Alik Lorenz",
       "round": "1",
       "source": "manual",
@@ -40,8 +40,8 @@
       "opponent": "Sullivan Cauley",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1500.9,
-      "pre_elo": 1520.4,
+      "post_elo": 1501.0,
+      "pre_elo": 1520.5,
       "red_name": "Sullivan Cauley",
       "round": "1",
       "source": "manual",
@@ -53,16 +53,16 @@
       "blue_name": "Christian Edwards",
       "bout_type": "Light Heavyweight Bout",
       "date": "2021-09-18",
-      "elo_delta": 20.4,
+      "elo_delta": 20.5,
       "event_name": "Bellator 266: Davis vs. Romero",
       "fight_id": "aa656df65ede9ceb",
       "gender": "men",
       "is_title": false,
       "method": "KO (punches)",
       "opponent": "Christian Edwards",
-      "opponent_elo": 1518.0,
+      "opponent_elo": 1518.9,
       "outcome": "red_win",
-      "post_elo": 1520.4,
+      "post_elo": 1520.5,
       "pre_elo": 1500.0,
       "red_name": "Ben Parrish",
       "round": "1",
@@ -78,7 +78,7 @@
     {
       "date": "2021-09-18",
       "fight_id": "aa656df65ede9ceb",
-      "rating": 1520.4,
+      "rating": 1520.5,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -92,7 +92,7 @@
     {
       "date": "2022-01-29",
       "fight_id": "d507b1397470110f",
-      "rating": 1500.9,
+      "rating": 1501.0,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
@@ -113,7 +113,7 @@
     {
       "date": "2024-03-29",
       "fight_id": "0aeada6a80b1ebf0",
-      "rating": 1483.4,
+      "rating": 1483.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -126,9 +126,9 @@
   "name": "Ben Parrish",
   "nickname": "",
   "overall_elo": 1497.5,
-  "peak_elo": 1520.4,
+  "peak_elo": 1520.5,
   "raw_current_elo": 1481.5,
-  "raw_overall_elo": 1483.4,
+  "raw_overall_elo": 1483.5,
   "slug": "ben-parrish",
   "systems": {
     "division": "men:Light Heavyweight",

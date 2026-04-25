@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5509,
+  "divisional_rank": 506,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Larry Robertson",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-03-19",
+      "elo_delta": -18.6,
+      "event_name": "Rage in the Cage 150",
+      "fight_id": "5017488516270da5",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1514.6,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "0:55",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-03-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-03-19",
+      "fight_id": "5017488516270da5",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-03-19",
+      "fight_id": "5017488516270da5",
+      "rating": 1481.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-19",
+  "name": "Larry Robertson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.4,
+  "raw_overall_elo": 1481.7,
+  "slug": "larry-robertson",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

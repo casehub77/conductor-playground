@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7727,
+  "divisional_rank": 243,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tom Erikson",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2005-02-20",
+      "elo_delta": -21.3,
+      "event_name": "Pride 29",
+      "fight_id": "4a384b64e12c45f7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (RNC)",
+      "opponent": "Fabrício Werdum",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1512.4,
+      "pre_elo": 1533.7,
+      "red_name": "Fabrício Werdum",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 29",
+      "time": "5:11",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tim Catalfo",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-02-24",
+      "elo_delta": 18.4,
+      "event_name": "Pride 19",
+      "fight_id": "a6732b8f992ccf48",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Tim Catalfo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Tom Erikson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 19",
+      "time": "2:35",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Matt Skelton",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-11-03",
+      "elo_delta": 19.4,
+      "event_name": "Pride 17",
+      "fight_id": "2e4c21eaa16939a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Strangle Choke)",
+      "opponent": "Matt Skelton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tom Erikson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 17",
+      "time": "1:51",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-11-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-11-03",
+      "fight_id": "2e4c21eaa16939a1",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-11-03",
+      "fight_id": "2e4c21eaa16939a1",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-02-24",
+      "fight_id": "a6732b8f992ccf48",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-02-24",
+      "fight_id": "a6732b8f992ccf48",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-02-20",
+      "fight_id": "4a384b64e12c45f7",
+      "rating": 1512.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2005-02-20",
+      "fight_id": "4a384b64e12c45f7",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-02-20",
+  "name": "Tom Erikson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "raw_current_elo": 1512.4,
+  "raw_overall_elo": 1514.8,
+  "slug": "tom-erikson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

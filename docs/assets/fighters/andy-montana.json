@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8407,
+  "divisional_rank": 256,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Aaron Brink",
+      "bout_type": "Heavyweight Bout",
+      "date": "2003-04-12",
+      "elo_delta": 24.7,
+      "event_name": "RITC 47: Unstoppable",
+      "fight_id": "68e797cddabc8a0b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1595.6,
+      "outcome": "red_win",
+      "post_elo": 1524.7,
+      "pre_elo": 1500.0,
+      "red_name": "Andy Montana",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "1:40",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2003-04-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-04-12",
+      "fight_id": "68e797cddabc8a0b",
+      "rating": 1524.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2003-04-12",
+      "fight_id": "68e797cddabc8a0b",
+      "rating": 1521.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-04-12",
+  "name": "Andy Montana",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1524.7,
+  "raw_current_elo": 1524.7,
+  "raw_overall_elo": 1521.7,
+  "slug": "andy-montana",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

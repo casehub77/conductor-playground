@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6182,
+  "divisional_rank": 662,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jorge Ortiz",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 7/8",
+      "fight_id": "7a8491c1e2979af6",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (cut)",
+      "opponent": "Lyman Good",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1501.9,
+      "red_name": "Lyman Good",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 7",
+      "time": "4:37",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Aaron Romero",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-04-10",
+      "elo_delta": 18.9,
+      "event_name": "Bellator 2",
+      "fight_id": "3fbb829372ebcc9b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Aaron Romero",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.9,
+      "pre_elo": 1483.1,
+      "red_name": "Jorge Ortiz",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 2",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Jorge Ortiz",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-03-10",
+      "elo_delta": -19.2,
+      "event_name": "Strikeforce: Shamrock vs. Gracie",
+      "fight_id": "cd88ebf10af30bf4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Eugene Jackson",
+      "opponent_elo": 1476.3,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1500.0,
+      "red_name": "Eugene Jackson",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Gracie",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-10",
+      "fight_id": "cd88ebf10af30bf4",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-03-10",
+      "fight_id": "cd88ebf10af30bf4",
+      "rating": 1483.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-10",
+      "fight_id": "3fbb829372ebcc9b",
+      "rating": 1501.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-04-10",
+      "fight_id": "3fbb829372ebcc9b",
+      "rating": 1499.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "7a8491c1e2979af6",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "7a8491c1e2979af6",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-15",
+  "name": "Jorge Ortiz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.9,
+  "raw_current_elo": 1483.5,
+  "raw_overall_elo": 1483.4,
+  "slug": "jorge-ortiz",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

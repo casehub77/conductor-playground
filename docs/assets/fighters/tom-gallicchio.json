@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3207,
+  "divisional_rank": 965,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tom Gallicchio",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-07-07",
+      "elo_delta": -18.4,
+      "event_name": "The Ultimate Fighter: Redemption Finale",
+      "fight_id": "a6029aa7a66202e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "James Krause",
+      "opponent_elo": 1492.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "James Krause",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2017-07-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-07-07",
+      "fight_id": "a6029aa7a66202e8",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-07-07",
+      "fight_id": "a6029aa7a66202e8",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-07-07",
+  "name": "Tom Gallicchio",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.6,
+  "slug": "tom-gallicchio",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

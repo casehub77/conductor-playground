@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3298,
+  "divisional_rank": 871,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sebastian Romanowski",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2017-04-07",
+      "elo_delta": -17.8,
+      "event_name": "KSW 38: Live in Studio",
+      "fight_id": "6e02115b0a1bb985",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Łukasz Rajewski",
+      "opponent_elo": 1484.3,
+      "outcome": "red_win",
+      "post_elo": 1462.8,
+      "pre_elo": 1480.6,
+      "red_name": "Łukasz Rajewski",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Sebastian Romanowski",
+      "bout_type": "Featherweight 66 kg Bout",
+      "date": "2016-12-03",
+      "elo_delta": -19.4,
+      "event_name": "KSW 37: Circus of Pain",
+      "fight_id": "8c4786106768525e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Roman Szymański",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Szymański",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2016 in Konfrontacja Sztuk Walki",
+      "time": "4:58",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2016-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-12-03",
+      "fight_id": "8c4786106768525e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-12-03",
+      "fight_id": "8c4786106768525e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-04-07",
+      "fight_id": "6e02115b0a1bb985",
+      "rating": 1462.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2017-04-07",
+      "fight_id": "6e02115b0a1bb985",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-04-07",
+  "name": "Sebastian Romanowski",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.8,
+  "raw_overall_elo": 1466.8,
+  "slug": "sebastian-romanowski",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

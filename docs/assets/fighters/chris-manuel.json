@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5854,
+  "divisional_rank": 363,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ralph Acosta",
+      "bout_type": "Catchweight (140 lbs) Bout",
+      "date": "2010-04-08",
+      "elo_delta": 19.3,
+      "event_name": "Bellator 13",
+      "fight_id": "e5c83fd0774338df",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Ralph Acosta",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1521.6,
+      "pre_elo": 1502.2,
+      "red_name": "Chris Manuel",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 13",
+      "time": "0:35",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Kenji Osawa",
+      "bout_type": "Bantamweight Bout",
+      "date": "2008-03-26",
+      "elo_delta": 2.2,
+      "event_name": "WEC 33: Marshall vs. Stann",
+      "fight_id": "da4edc539706b128",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (split) (28-29, 29-28, 28-28)",
+      "opponent": "Kenji Osawa",
+      "opponent_elo": 1543.5,
+      "outcome": "draw",
+      "post_elo": 1502.2,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Manuel",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 33",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2008-03-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-26",
+      "fight_id": "da4edc539706b128",
+      "rating": 1502.2,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2008-03-26",
+      "fight_id": "da4edc539706b128",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-04-08",
+      "fight_id": "e5c83fd0774338df",
+      "rating": 1521.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-04-08",
+      "fight_id": "e5c83fd0774338df",
+      "rating": 1518.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-08",
+  "name": "Chris Manuel",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.6,
+  "raw_current_elo": 1521.6,
+  "raw_overall_elo": 1518.6,
+  "slug": "chris-manuel",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

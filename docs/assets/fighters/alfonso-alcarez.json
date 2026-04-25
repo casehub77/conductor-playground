@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8555,
+  "divisional_rank": 1005,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Alfonso Alcarez",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-11-15",
+      "elo_delta": -17.5,
+      "event_name": "Shooto: Treasure Hunt 11",
+      "fight_id": "8b8b0b04be67305e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Triangle Choke)",
+      "opponent": "Shuichiro Katsumura",
+      "opponent_elo": 1518.7,
+      "outcome": "red_win",
+      "post_elo": 1466.0,
+      "pre_elo": 1483.5,
+      "red_name": "Shuichiro Katsumura",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
+      "time": "3:04",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Alfonso Alcarez",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-05-05",
+      "elo_delta": -16.5,
+      "event_name": "Shooto: Treasure Hunt 6",
+      "fight_id": "3287d37cb3f8964a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Kneebar)",
+      "opponent": "Jin Akimoto",
+      "opponent_elo": 1552.6,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Jin Akimoto",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Shooto",
+      "time": "0:22",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Alfonso Alcarez",
+      "bout_type": "Lightweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": 0.0,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "f5c540513e48e358",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Jens Pulver",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jens Pulver",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "1999-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-09-24",
+      "fight_id": "f5c540513e48e358",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "f5c540513e48e358",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-05-05",
+      "fight_id": "3287d37cb3f8964a",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-05-05",
+      "fight_id": "3287d37cb3f8964a",
+      "rating": 1484.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-11-15",
+      "fight_id": "8b8b0b04be67305e",
+      "rating": 1466.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-11-15",
+      "fight_id": "8b8b0b04be67305e",
+      "rating": 1468.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-11-15",
+  "name": "Alfonso Alcarez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1466.0,
+  "raw_overall_elo": 1468.6,
+  "slug": "alfonso-alcarez",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

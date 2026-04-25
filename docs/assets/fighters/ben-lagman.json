@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4585,
+  "divisional_rank": 709,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ben Lagman",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2013-09-28",
+      "elo_delta": -19.6,
+      "event_name": "KSW 24: Clash of the Giants",
+      "fight_id": "43c512fda715caf4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Borys Mankowski",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1465.5,
+      "pre_elo": 1485.1,
+      "red_name": "Borys Mankowski",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2013 in Konfrontacja Sztuk Walki",
+      "time": "2:16",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ben Lagman",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2013-06-08",
+      "elo_delta": -14.9,
+      "event_name": "KSW 23: Khalidov vs. Manhoef",
+      "fight_id": "d25d4f72f63afc52",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Aslambek Saidov",
+      "opponent_elo": 1582.9,
+      "outcome": "red_win",
+      "post_elo": 1485.1,
+      "pre_elo": 1500.0,
+      "red_name": "Aslambek Saidov",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2013 in Konfrontacja Sztuk Walki",
+      "time": "4:22",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2013-06-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-06-08",
+      "fight_id": "d25d4f72f63afc52",
+      "rating": 1485.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-06-08",
+      "fight_id": "d25d4f72f63afc52",
+      "rating": 1486.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-09-28",
+      "fight_id": "43c512fda715caf4",
+      "rating": 1465.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-09-28",
+      "fight_id": "43c512fda715caf4",
+      "rating": 1469.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-09-28",
+  "name": "Ben Lagman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.5,
+  "raw_overall_elo": 1469.0,
+  "slug": "ben-lagman",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

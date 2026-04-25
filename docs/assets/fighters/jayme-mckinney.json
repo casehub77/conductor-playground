@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6168,
+  "divisional_rank": 498,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jayme McKinney",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-05-29",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 9",
+      "fight_id": "5e596f9d0a16d12c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Shawn Jordan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Shawn Jordan",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 9",
+      "time": "0:30",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-29",
+      "fight_id": "5e596f9d0a16d12c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-05-29",
+      "fight_id": "5e596f9d0a16d12c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-29",
+  "name": "Jayme McKinney",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "jayme-mckinney",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

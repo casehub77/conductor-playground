@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7594,
+  "divisional_rank": 598,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jon Valuri",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-07-03",
+      "elo_delta": -18.5,
+      "event_name": "Shooto: Gig Central 8",
+      "fight_id": "60f27670d8f4769a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Cut)",
+      "opponent": "Masashi Yozen",
+      "opponent_elo": 1536.4,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1519.4,
+      "red_name": "Masashi Yozen",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "0:12",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yosuke Mikami",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-09-12",
+      "elo_delta": 19.4,
+      "event_name": "Shooto: Gig Central 6",
+      "fight_id": "7baf873dabc4354d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO",
+      "opponent": "Yosuke Mikami",
+      "opponent_elo": 1499.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jon Valuri",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
+      "time": "1:41",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-09-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-09-12",
+      "fight_id": "7baf873dabc4354d",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-09-12",
+      "fight_id": "7baf873dabc4354d",
+      "rating": 1517.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-07-03",
+      "fight_id": "60f27670d8f4769a",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-07-03",
+      "fight_id": "60f27670d8f4769a",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-07-03",
+  "name": "Jon Valuri",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1500.9,
+  "raw_overall_elo": 1500.7,
+  "slug": "jon-valuri",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

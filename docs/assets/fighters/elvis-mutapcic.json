@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3423,
+  "divisional_rank": 874,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Anthony Smith",
+      "bout_type": "Middleweight Bout",
+      "date": "2016-12-03",
+      "elo_delta": -19.5,
+      "event_name": "The Ultimate Fighter: Tournament of Champions Finale",
+      "fight_id": "00b2a2e37ef20d5e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Anthony Smith",
+      "opponent_elo": 1483.9,
+      "outcome": "blue_win",
+      "post_elo": 1465.2,
+      "pre_elo": 1484.7,
+      "red_name": "Elvis Mutapcic",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:27",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Elvis Mutapcic",
+      "bout_type": "Middleweight Bout",
+      "date": "2016-06-04",
+      "elo_delta": -0.0,
+      "event_name": "UFC 199: Rockhold vs. Bisping 2",
+      "fight_id": "3b5ae839d4aba9c6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Kevin Casey",
+      "opponent_elo": 1484.6,
+      "outcome": "draw",
+      "post_elo": 1484.7,
+      "pre_elo": 1484.7,
+      "red_name": "Kevin Casey",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Elvis Mutapcic",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2016-01-17",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Dillashaw vs Cruz",
+      "fight_id": "fc056dcfa4ab8e82",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Francimar Barroso",
+      "opponent_elo": 1516.7,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Francimar Barroso",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2016-01-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-01-17",
+      "fight_id": "fc056dcfa4ab8e82",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2016-01-17",
+      "fight_id": "fc056dcfa4ab8e82",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-06-04",
+      "fight_id": "3b5ae839d4aba9c6",
+      "rating": 1484.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-06-04",
+      "fight_id": "3b5ae839d4aba9c6",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-12-03",
+      "fight_id": "00b2a2e37ef20d5e",
+      "rating": 1465.2,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2016-12-03",
+      "fight_id": "00b2a2e37ef20d5e",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-12-03",
+  "name": "Elvis Mutapcic",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.2,
+  "raw_overall_elo": 1467.5,
+  "slug": "elvis-mutapcic",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

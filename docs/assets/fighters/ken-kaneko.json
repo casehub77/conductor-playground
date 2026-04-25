@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7413,
+  "divisional_rank": 1339,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ken Kaneko",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-12-31",
+      "elo_delta": -20.0,
+      "event_name": "Pride: Shockwave 2005",
+      "fight_id": "bc5d4d1b8f3123bb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Charles Bennett",
+      "opponent_elo": 1490.7,
+      "outcome": "red_win",
+      "post_elo": 1480.0,
+      "pre_elo": 1500.0,
+      "red_name": "Charles Bennett",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave 2005",
+      "time": "4:14",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-12-31",
+      "fight_id": "bc5d4d1b8f3123bb",
+      "rating": 1480.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-12-31",
+      "fight_id": "bc5d4d1b8f3123bb",
+      "rating": 1482.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-12-31",
+  "name": "Ken Kaneko",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.0,
+  "raw_overall_elo": 1482.3,
+  "slug": "ken-kaneko",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5523,
+  "divisional_rank": 348,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jason Riley",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-03-05",
+      "elo_delta": 18.4,
+      "event_name": "Strikeforce: Feijao vs. Henderson",
+      "fight_id": "c2805e8228cb1b0d",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to strikes)",
+      "opponent": "Jason Riley",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jason Freeman",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Feijao vs. Henderson",
+      "time": "1:52",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-03-05",
+      "fight_id": "c2805e8228cb1b0d",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-03-05",
+      "fight_id": "c2805e8228cb1b0d",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-05",
+  "name": "Jason Freeman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.4,
+  "raw_current_elo": 1518.4,
+  "raw_overall_elo": 1516.4,
+  "slug": "jason-freeman",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}
