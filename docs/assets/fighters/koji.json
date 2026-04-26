@@ -1,25 +1,25 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1756,
-  "divisional_rank": 792,
+  "days_since_last_fight": 1763,
+  "divisional_rank": 559,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Koji",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2021-06-27",
-      "elo_delta": -14.5,
+      "elo_delta": -17.2,
       "event_name": "Rizin 29 – Osaka",
       "fight_id": "2f65e44f208cb95d",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Taiju Shiratori",
-      "opponent_elo": 1559.7,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1475.9,
-      "pre_elo": 1490.4,
+      "post_elo": 1466.8,
+      "pre_elo": 1484.0,
       "red_name": "Taiju Shiratori",
       "round": "3",
       "source": "manual",
@@ -40,8 +40,8 @@
       "opponent": "Genji Umeno",
       "opponent_elo": 1500.0,
       "outcome": "no_contest",
-      "post_elo": 1490.4,
-      "pre_elo": 1490.4,
+      "post_elo": 1484.0,
+      "pre_elo": 1484.0,
       "red_name": "Koji",
       "round": "1",
       "source": "manual",
@@ -56,35 +56,35 @@
     {
       "date": "2020-09-27",
       "fight_id": "054d495049da7899",
-      "rating": 1490.4,
+      "rating": 1484.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-06-27",
       "fight_id": "3b1427ef0d48be63",
-      "rating": 1490.4,
+      "rating": 1484.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-06-27",
       "fight_id": "2f65e44f208cb95d",
-      "rating": 1475.9,
+      "rating": 1466.8,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-06-27",
       "fight_id": "3b1427ef0d48be63",
-      "rating": 1490.4,
+      "rating": 1484.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-06-27",
       "fight_id": "2f65e44f208cb95d",
-      "rating": 1477.5,
+      "rating": 1468.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -98,8 +98,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1475.9,
-  "raw_overall_elo": 1477.5,
+  "raw_current_elo": 1466.8,
+  "raw_overall_elo": 1468.7,
   "slug": "koji",
   "systems": {
     "division": "men:Bantamweight",

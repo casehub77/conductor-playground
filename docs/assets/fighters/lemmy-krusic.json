@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1736,
-  "divisional_rank": 682,
-  "fight_count": 2,
+  "days_since_last_fight": 1743,
+  "divisional_rank": 479,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Lemmy Krušič",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2021-07-17",
-      "elo_delta": -18.5,
+      "elo_delta": -19.4,
       "event_name": "KSW 62: Kołecki vs. Szostak",
       "fight_id": "1b554ae2c04aa3ca",
       "gender": "men",
@@ -18,66 +18,30 @@
       "opponent": "David Martinik",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1464.6,
-      "pre_elo": 1483.1,
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
       "red_name": "David Martinik",
       "round": "1",
       "source": "manual",
       "source_title": "2021 in Konfrontacja Sztuk Walki",
       "time": "2:45",
       "weight_class": "Bantamweight"
-    },
-    {
-      "blue_name": "Lemmy Krušič",
-      "bout_type": "Bantamweight 61 kg Bout",
-      "date": "2019-11-09",
-      "elo_delta": -16.9,
-      "event_name": "KSW 51: Croatia",
-      "fight_id": "b4c9a30756a85d91",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (Unanimous)",
-      "opponent": "Sebastian Przybysz",
-      "opponent_elo": 1521.5,
-      "outcome": "red_win",
-      "post_elo": 1483.1,
-      "pre_elo": 1500.0,
-      "red_name": "Sebastian Przybysz",
-      "round": "3",
-      "source": "manual",
-      "source_title": "2019 in Konfrontacja Sztuk Walki",
-      "time": "5:00",
-      "weight_class": "Bantamweight"
     }
   ],
-  "first_fight_date": "2019-11-09",
+  "first_fight_date": "2021-07-17",
   "gender": "men",
   "history": [
     {
-      "date": "2019-11-09",
-      "fight_id": "b4c9a30756a85d91",
-      "rating": 1483.1,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2019-11-09",
-      "fight_id": "b4c9a30756a85d91",
-      "rating": 1484.9,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2021-07-17",
       "fight_id": "1b554ae2c04aa3ca",
-      "rating": 1464.6,
+      "rating": 1480.6,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-07-17",
       "fight_id": "1b554ae2c04aa3ca",
-      "rating": 1468.3,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1464.6,
-  "raw_overall_elo": 1468.3,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
   "slug": "lemmy-krusic",
   "systems": {
     "division": "men:Bantamweight",

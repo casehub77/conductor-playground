@@ -1,24 +1,24 @@
 {
   "activity_status": "active",
-  "current_elo": 1447.2,
-  "days_since_last_fight": 196,
-  "divisional_rank": 239,
+  "current_elo": 1447.7,
+  "days_since_last_fight": 203,
+  "divisional_rank": 195,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Brogan Walker",
       "bout_type": "Women's Flyweight Bout",
       "date": "2025-10-04",
-      "elo_delta": -15.5,
+      "elo_delta": -15.0,
       "event_name": "UFC 320: Ankalaev vs. Pereira 2",
       "fight_id": "96b00d3c55e36eee",
       "gender": "women",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Veronica Hardy",
-      "opponent_elo": 1510.9,
+      "opponent_elo": 1520.9,
       "outcome": "red_win",
-      "post_elo": 1447.2,
+      "post_elo": 1447.7,
       "pre_elo": 1462.7,
       "red_name": "Veronica Hardy",
       "round": "3.0",
@@ -106,14 +106,14 @@
     {
       "date": "2025-10-04",
       "fight_id": "96b00d3c55e36eee",
-      "rating": 1447.2,
+      "rating": 1447.7,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2025-10-04",
       "fight_id": "96b00d3c55e36eee",
-      "rating": 1452.1,
+      "rating": 1453.1,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2025-10-04",
   "name": "Brogan Walker",
   "nickname": "",
-  "overall_elo": 1452.1,
+  "overall_elo": 1453.1,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1447.2,
-  "raw_overall_elo": 1452.1,
+  "raw_current_elo": 1447.7,
+  "raw_overall_elo": 1453.1,
   "slug": "brogan-walker",
   "systems": {
     "division": "women:Flyweight",

@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1468.1,
-  "days_since_last_fight": 399,
-  "divisional_rank": 982,
+  "current_elo": 1468.0,
+  "days_since_last_fight": 406,
+  "divisional_rank": 733,
   "fight_count": 2,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Suyoung You",
       "opponent_elo": 1518.0,
       "outcome": "red_win",
-      "post_elo": 1468.1,
-      "pre_elo": 1484.4,
+      "post_elo": 1468.0,
+      "pre_elo": 1484.2,
       "red_name": "Suyoung You",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Aj Cunningham",
       "bout_type": "Lightweight Bout",
       "date": "2024-03-02",
-      "elo_delta": -17.3,
+      "elo_delta": -17.4,
       "event_name": "UFC Fight Night: Rozenstruik vs. Gaziev",
       "fight_id": "d1e57a8a2b70fb5a",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Ludovit Klein",
-      "opponent_elo": 1539.1,
+      "opponent_elo": 1536.4,
       "outcome": "red_win",
-      "post_elo": 1482.7,
+      "post_elo": 1482.6,
       "pre_elo": 1500.0,
       "red_name": "Ludovit Klein",
       "round": "1.0",
@@ -56,28 +56,28 @@
     {
       "date": "2024-03-02",
       "fight_id": "d1e57a8a2b70fb5a",
-      "rating": 1482.7,
+      "rating": 1482.6,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2024-03-02",
       "fight_id": "d1e57a8a2b70fb5a",
-      "rating": 1484.4,
+      "rating": 1484.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-03-15",
       "fight_id": "51deab43a64759c8",
-      "rating": 1468.1,
+      "rating": 1468.0,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2025-03-15",
       "fight_id": "51deab43a64759c8",
-      "rating": 1469.8,
+      "rating": 1469.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,10 +89,10 @@
   "last_fight_date": "2025-03-15",
   "name": "Aj Cunningham",
   "nickname": "",
-  "overall_elo": 1469.8,
+  "overall_elo": 1469.7,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1468.1,
-  "raw_overall_elo": 1469.8,
+  "raw_current_elo": 1468.0,
+  "raw_overall_elo": 1469.7,
   "slug": "aj-cunningham",
   "systems": {
     "division": "men:Bantamweight",

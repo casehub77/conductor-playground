@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
   "current_elo": 1427.9,
-  "days_since_last_fight": 49,
-  "divisional_rank": 1032,
+  "days_since_last_fight": 56,
+  "divisional_rank": 484,
   "fight_count": 4,
   "fight_log": [
     {
@@ -19,7 +19,7 @@
       "opponent_elo": 1517.3,
       "outcome": "red_win",
       "post_elo": 1427.9,
-      "pre_elo": 1443.2,
+      "pre_elo": 1443.3,
       "red_name": "Ryan Gandra",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -38,9 +38,9 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Dusko Todorovic",
-      "opponent_elo": 1446.5,
+      "opponent_elo": 1447.3,
       "outcome": "blue_win",
-      "post_elo": 1443.2,
+      "post_elo": 1443.3,
       "pre_elo": 1463.6,
       "red_name": "Jose Daniel Medina",
       "round": "1.0",
@@ -63,7 +63,7 @@
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
       "post_elo": 1463.6,
-      "pre_elo": 1482.1,
+      "pre_elo": 1482.0,
       "red_name": "Jose Daniel Medina",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -75,16 +75,16 @@
       "blue_name": "Jose Daniel Medina",
       "bout_type": "Middleweight Bout",
       "date": "2024-08-24",
-      "elo_delta": -17.9,
+      "elo_delta": -18.0,
       "event_name": "UFC Fight Night: Cannonier vs. Borralho",
       "fight_id": "e0be520c5d51c3e7",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Zach Reese",
-      "opponent_elo": 1501.0,
+      "opponent_elo": 1500.9,
       "outcome": "red_win",
-      "post_elo": 1482.1,
+      "post_elo": 1482.0,
       "pre_elo": 1500.0,
       "red_name": "Zach Reese",
       "round": "3.0",
@@ -100,7 +100,7 @@
     {
       "date": "2024-08-24",
       "fight_id": "e0be520c5d51c3e7",
-      "rating": 1482.1,
+      "rating": 1482.0,
       "scope": "division",
       "system": "men:Middleweight"
     },
@@ -128,7 +128,7 @@
     {
       "date": "2025-09-13",
       "fight_id": "87f6222174229944",
-      "rating": 1443.2,
+      "rating": 1443.3,
       "scope": "division",
       "system": "men:Middleweight"
     },
@@ -149,7 +149,7 @@
     {
       "date": "2026-02-28",
       "fight_id": "82688468d15fe65d",
-      "rating": 1435.5,
+      "rating": 1435.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -161,10 +161,10 @@
   "last_fight_date": "2026-02-28",
   "name": "Jose Daniel Medina",
   "nickname": "",
-  "overall_elo": 1435.5,
+  "overall_elo": 1435.6,
   "peak_elo": 1500.0,
   "raw_current_elo": 1427.9,
-  "raw_overall_elo": 1435.5,
+  "raw_overall_elo": 1435.6,
   "slug": "jose-daniel-medina",
   "systems": {
     "division": "men:Middleweight",

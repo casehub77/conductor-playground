@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1447.7,
-  "days_since_last_fight": 749,
-  "divisional_rank": 711,
+  "current_elo": 1448.1,
+  "days_since_last_fight": 756,
+  "divisional_rank": 282,
   "fight_count": 4,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Ibo Aslan",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1433.7,
-      "pre_elo": 1450.4,
+      "post_elo": 1433.6,
+      "pre_elo": 1450.3,
       "red_name": "Ibo Aslan",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Anton Turkalj",
       "bout_type": "Light Heavyweight Bout",
       "date": "2023-09-09",
-      "elo_delta": -16.9,
+      "elo_delta": -17.0,
       "event_name": "UFC 293: Adesanya vs. Strickland",
       "fight_id": "e7211b3883b508b9",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Tyson Pedro",
-      "opponent_elo": 1513.4,
+      "opponent_elo": 1511.7,
       "outcome": "red_win",
-      "post_elo": 1450.4,
+      "post_elo": 1450.3,
       "pre_elo": 1467.3,
       "red_name": "Tyson Pedro",
       "round": "1.0",
@@ -99,28 +99,28 @@
     {
       "date": "2023-09-09",
       "fight_id": "e7211b3883b508b9",
-      "rating": 1450.4,
+      "rating": 1450.3,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2023-09-09",
       "fight_id": "e7211b3883b508b9",
-      "rating": 1454.1,
+      "rating": 1454.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-03-30",
       "fight_id": "7c204faf015f2cd5",
-      "rating": 1433.7,
+      "rating": 1433.6,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2024-03-30",
       "fight_id": "7c204faf015f2cd5",
-      "rating": 1439.1,
+      "rating": 1439.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -132,10 +132,10 @@
   "last_fight_date": "2024-03-30",
   "name": "Anton Turkalj",
   "nickname": "",
-  "overall_elo": 1453.0,
+  "overall_elo": 1453.4,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1433.7,
-  "raw_overall_elo": 1439.1,
+  "raw_current_elo": 1433.6,
+  "raw_overall_elo": 1439.0,
   "slug": "anton-turkalj",
   "systems": {
     "division": "men:Light Heavyweight",

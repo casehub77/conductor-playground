@@ -1,9 +1,9 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1820,
-  "divisional_rank": 136,
-  "fight_count": 4,
+  "days_since_last_fight": 1827,
+  "divisional_rank": 105,
+  "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Aleksandra Rola",
@@ -16,7 +16,7 @@
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Karolina Wójcik",
-      "opponent_elo": 1517.2,
+      "opponent_elo": 1518.0,
       "outcome": "red_win",
       "post_elo": 1498.1,
       "pre_elo": 1516.0,
@@ -48,83 +48,11 @@
       "source_title": "2020 in Konfrontacja Sztuk Walki",
       "time": "3:00",
       "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Aleksandra Rola",
-      "bout_type": "Flyweight 57 kg Bout",
-      "date": "2019-12-07",
-      "elo_delta": -19.4,
-      "event_name": "KSW 52: Race",
-      "fight_id": "e01223d64ac09ab4",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (Triangle Choke)",
-      "opponent": "Karolina Owczarz",
-      "opponent_elo": 1518.0,
-      "outcome": "red_win",
-      "post_elo": 1497.9,
-      "pre_elo": 1517.3,
-      "red_name": "Karolina Owczarz",
-      "round": "2",
-      "source": "manual",
-      "source_title": "2019 in Konfrontacja Sztuk Walki",
-      "time": "4:35",
-      "weight_class": "Flyweight"
-    },
-    {
-      "blue_name": "Catherine Costigan",
-      "bout_type": "Strawweight 52 kg Bout",
-      "date": "2019-09-14",
-      "elo_delta": 19.4,
-      "event_name": "KSW 50: London",
-      "fight_id": "c1be9106aaff8b95",
-      "gender": "men",
-      "is_title": false,
-      "method": "TKO (Elbows)",
-      "opponent": "Catherine Costigan",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1519.4,
-      "pre_elo": 1500.0,
-      "red_name": "Aleksandra Rola",
-      "round": "2",
-      "source": "manual",
-      "source_title": "2019 in Konfrontacja Sztuk Walki",
-      "time": "0:50",
-      "weight_class": "Strawweight"
     }
   ],
-  "first_fight_date": "2019-09-14",
+  "first_fight_date": "2020-10-23",
   "gender": "women",
   "history": [
-    {
-      "date": "2019-09-14",
-      "fight_id": "c1be9106aaff8b95",
-      "rating": 1519.4,
-      "scope": "division",
-      "system": "men:Strawweight"
-    },
-    {
-      "date": "2019-09-14",
-      "fight_id": "c1be9106aaff8b95",
-      "rating": 1517.3,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2019-12-07",
-      "fight_id": "e01223d64ac09ab4",
-      "rating": 1497.9,
-      "scope": "division",
-      "system": "men:Flyweight"
-    },
-    {
-      "date": "2019-12-07",
-      "fight_id": "e01223d64ac09ab4",
-      "rating": 1499.9,
-      "scope": "overall",
-      "system": "men:overall"
-    },
     {
       "date": "2020-10-23",
       "fight_id": "444becf56cc9905d",
@@ -162,7 +90,7 @@
   "name": "Aleksandra Rola",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1519.4,
+  "peak_elo": 1518.0,
   "raw_current_elo": 1498.1,
   "raw_overall_elo": 1500.0,
   "slug": "aleksandra-rola",

@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1093,
-  "divisional_rank": 652,
+  "days_since_last_fight": 1100,
+  "divisional_rank": 294,
   "fight_count": 3,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
       "opponent": "Levan Chokheli",
-      "opponent_elo": 1503.9,
+      "opponent_elo": 1504.0,
       "outcome": "red_win",
-      "post_elo": 1484.7,
-      "pre_elo": 1502.7,
+      "post_elo": 1484.9,
+      "pre_elo": 1502.9,
       "red_name": "Levan Chokheli",
       "round": "3",
       "source": "manual",
@@ -38,10 +38,10 @@
       "is_title": false,
       "method": "KO (punch)",
       "opponent": "Mark Lemminger",
-      "opponent_elo": 1475.0,
+      "opponent_elo": 1476.7,
       "outcome": "red_win",
-      "post_elo": 1502.7,
-      "pre_elo": 1483.7,
+      "post_elo": 1502.9,
+      "pre_elo": 1483.8,
       "red_name": "Michael Lombardo",
       "round": "1",
       "source": "manual",
@@ -53,16 +53,16 @@
       "blue_name": "Michael Lombardo",
       "bout_type": "Welterweight Bout",
       "date": "2022-04-15",
-      "elo_delta": -16.3,
+      "elo_delta": -16.2,
       "event_name": "Bellator 277: McKee vs. Pitbull 2",
       "fight_id": "d4839c8581f7dc93",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (29-28, 30-27, 30-27)",
       "opponent": "Kyle Crutchmer",
-      "opponent_elo": 1533.4,
+      "opponent_elo": 1535.1,
       "outcome": "red_win",
-      "post_elo": 1483.7,
+      "post_elo": 1483.8,
       "pre_elo": 1500.0,
       "red_name": "Kyle Crutchmer",
       "round": "3",
@@ -78,7 +78,7 @@
     {
       "date": "2022-04-15",
       "fight_id": "d4839c8581f7dc93",
-      "rating": 1483.7,
+      "rating": 1483.8,
       "scope": "division",
       "system": "men:Welterweight"
     },
@@ -92,28 +92,28 @@
     {
       "date": "2022-12-09",
       "fight_id": "3ebd1debb4fb73a1",
-      "rating": 1502.7,
+      "rating": 1502.9,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-12-09",
       "fight_id": "3ebd1debb4fb73a1",
-      "rating": 1502.3,
+      "rating": 1502.4,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-04-21",
       "fight_id": "d3b4d2d3537b6903",
-      "rating": 1484.7,
+      "rating": 1484.9,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2023-04-21",
       "fight_id": "d3b4d2d3537b6903",
-      "rating": 1486.3,
+      "rating": 1486.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -126,9 +126,9 @@
   "name": "Michael Lombardo",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1502.7,
-  "raw_current_elo": 1484.7,
-  "raw_overall_elo": 1486.3,
+  "peak_elo": 1502.9,
+  "raw_current_elo": 1484.9,
+  "raw_overall_elo": 1486.5,
   "slug": "michael-lombardo",
   "systems": {
     "division": "men:Welterweight",

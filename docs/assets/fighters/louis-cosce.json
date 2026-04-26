@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1309,
-  "divisional_rank": 864,
+  "days_since_last_fight": 1316,
+  "divisional_rank": 392,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Louis Cosce",
       "bout_type": "Welterweight Bout",
       "date": "2022-09-17",
-      "elo_delta": -16.4,
+      "elo_delta": -16.5,
       "event_name": "UFC Fight Night: Sandhagen vs. Song",
       "fight_id": "ae3ad43b8d141e84",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Trevin Giles",
-      "opponent_elo": 1511.0,
+      "opponent_elo": 1509.2,
       "outcome": "red_win",
-      "post_elo": 1464.1,
+      "post_elo": 1464.0,
       "pre_elo": 1480.6,
       "red_name": "Trevin Giles",
       "round": "3.0",
@@ -70,14 +70,14 @@
     {
       "date": "2022-09-17",
       "fight_id": "ae3ad43b8d141e84",
-      "rating": 1464.1,
+      "rating": 1464.0,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-09-17",
       "fight_id": "ae3ad43b8d141e84",
-      "rating": 1468.1,
+      "rating": 1468.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1464.1,
-  "raw_overall_elo": 1468.1,
+  "raw_current_elo": 1464.0,
+  "raw_overall_elo": 1468.0,
   "slug": "louis-cosce",
   "systems": {
     "division": "men:Welterweight",

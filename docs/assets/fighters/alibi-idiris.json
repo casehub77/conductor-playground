@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1479.5,
-  "days_since_last_fight": 56,
-  "divisional_rank": 503,
+  "current_elo": 1480.6,
+  "days_since_last_fight": 63,
+  "divisional_rank": 393,
   "fight_count": 2,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "Overturned",
       "opponent": "Ode Osbourne",
-      "opponent_elo": 1485.3,
+      "opponent_elo": 1485.2,
       "outcome": "no_contest",
-      "post_elo": 1479.5,
-      "pre_elo": 1479.5,
+      "post_elo": 1480.6,
+      "pre_elo": 1480.6,
       "red_name": "Ode Osbourne",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Joseph Morales",
       "bout_type": "Ultimate Fighter 33 Flyweight Tournament Title Bout",
       "date": "2025-08-16",
-      "elo_delta": -20.5,
+      "elo_delta": -19.4,
       "event_name": "UFC 319: Du Plessis vs. Chimaev",
       "fight_id": "163ceb770b08447a",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Joseph Morales",
-      "opponent_elo": 1481.4,
+      "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1479.5,
+      "post_elo": 1480.6,
       "pre_elo": 1500.0,
       "red_name": "Alibi Idiris",
       "round": "2.0",
@@ -56,28 +56,28 @@
     {
       "date": "2025-08-16",
       "fight_id": "163ceb770b08447a",
-      "rating": 1479.5,
+      "rating": 1480.6,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-08-16",
       "fight_id": "163ceb770b08447a",
-      "rating": 1481.9,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-02-21",
       "fight_id": "533432a2b12dffe4",
-      "rating": 1479.5,
+      "rating": 1480.6,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2026-02-21",
       "fight_id": "533432a2b12dffe4",
-      "rating": 1481.9,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,10 +89,10 @@
   "last_fight_date": "2026-02-21",
   "name": "Alibi Idiris",
   "nickname": "",
-  "overall_elo": 1481.9,
+  "overall_elo": 1482.7,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1479.5,
-  "raw_overall_elo": 1481.9,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
   "slug": "alibi-idiris",
   "systems": {
     "division": "men:Flyweight",

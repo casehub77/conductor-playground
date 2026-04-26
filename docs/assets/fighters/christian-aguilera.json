@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1806,
-  "divisional_rank": 472,
+  "days_since_last_fight": 1813,
+  "divisional_rank": 218,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Carlston Harris",
       "bout_type": "Welterweight Bout",
       "date": "2021-05-08",
-      "elo_delta": -19.5,
+      "elo_delta": -19.4,
       "event_name": "UFC Fight Night: Rodriguez vs. Waterson",
       "fight_id": "d1b2c960dd028d27",
       "gender": "men",
@@ -18,8 +18,8 @@
       "opponent": "Carlston Harris",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1481.5,
-      "pre_elo": 1500.9,
+      "post_elo": 1480.5,
+      "pre_elo": 1499.9,
       "red_name": "Christian Aguilera",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Christian Aguilera",
       "bout_type": "Welterweight Bout",
       "date": "2020-08-29",
-      "elo_delta": -18.5,
+      "elo_delta": -19.5,
       "event_name": "UFC Fight Night: Smith vs. Rakic",
       "fight_id": "6b9cc3e9ae82bcd5",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Sean Brady",
-      "opponent_elo": 1536.4,
+      "opponent_elo": 1518.0,
       "outcome": "red_win",
-      "post_elo": 1500.9,
+      "post_elo": 1499.9,
       "pre_elo": 1519.4,
       "red_name": "Sean Brady",
       "round": "2.0",
@@ -92,28 +92,28 @@
     {
       "date": "2020-08-29",
       "fight_id": "6b9cc3e9ae82bcd5",
-      "rating": 1500.9,
+      "rating": 1499.9,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2020-08-29",
       "fight_id": "6b9cc3e9ae82bcd5",
-      "rating": 1500.8,
+      "rating": 1499.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-05-08",
       "fight_id": "d1b2c960dd028d27",
-      "rating": 1481.5,
+      "rating": 1480.5,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2021-05-08",
       "fight_id": "d1b2c960dd028d27",
-      "rating": 1483.4,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -127,8 +127,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1519.4,
-  "raw_current_elo": 1481.5,
-  "raw_overall_elo": 1483.4,
+  "raw_current_elo": 1480.5,
+  "raw_overall_elo": 1482.7,
   "slug": "christian-aguilera",
   "systems": {
     "division": "men:Welterweight",

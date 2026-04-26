@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 2093,
-  "divisional_rank": 582,
-  "fight_count": 3,
+  "days_since_last_fight": 2100,
+  "divisional_rank": 233,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Raphael Pessoa",
       "bout_type": "Heavyweight Bout",
       "date": "2020-07-25",
-      "elo_delta": -18.3,
+      "elo_delta": -18.4,
       "event_name": "UFC Fight Night: Whittaker vs. Till",
       "fight_id": "e732a51f1c549c9a",
       "gender": "men",
@@ -18,102 +18,30 @@
       "opponent": "Tanner Boser",
       "opponent_elo": 1518.4,
       "outcome": "red_win",
-      "post_elo": 1480.3,
-      "pre_elo": 1498.7,
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
       "red_name": "Tanner Boser",
       "round": "2.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
       "source_title": "",
       "time": "2:36",
       "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Jeff Hughes",
-      "bout_type": "Heavyweight Bout",
-      "date": "2019-10-26",
-      "elo_delta": 18.1,
-      "event_name": "UFC Fight Night: Maia vs. Askren",
-      "fight_id": "6a6e7816d2afcc51",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Unanimous",
-      "opponent": "Jeff Hughes",
-      "opponent_elo": 1483.0,
-      "outcome": "red_win",
-      "post_elo": 1498.7,
-      "pre_elo": 1480.6,
-      "red_name": "Raphael Pessoa",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Heavyweight"
-    },
-    {
-      "blue_name": "Raphael Pessoa",
-      "bout_type": "Heavyweight Bout",
-      "date": "2019-08-10",
-      "elo_delta": -19.4,
-      "event_name": "UFC Fight Night: Shevchenko vs. Carmouche 2",
-      "fight_id": "12daebded14d5e8b",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission",
-      "opponent": "Ciryl Gane",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1480.6,
-      "pre_elo": 1500.0,
-      "red_name": "Ciryl Gane",
-      "round": "1.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "4:12",
-      "weight_class": "Heavyweight"
     }
   ],
-  "first_fight_date": "2019-08-10",
+  "first_fight_date": "2020-07-25",
   "gender": "men",
   "history": [
     {
-      "date": "2019-08-10",
-      "fight_id": "12daebded14d5e8b",
-      "rating": 1480.6,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2019-08-10",
-      "fight_id": "12daebded14d5e8b",
-      "rating": 1482.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2019-10-26",
-      "fight_id": "6a6e7816d2afcc51",
-      "rating": 1498.7,
-      "scope": "division",
-      "system": "men:Heavyweight"
-    },
-    {
-      "date": "2019-10-26",
-      "fight_id": "6a6e7816d2afcc51",
-      "rating": 1498.8,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2020-07-25",
       "fight_id": "e732a51f1c549c9a",
-      "rating": 1480.3,
+      "rating": 1481.6,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2020-07-25",
       "fight_id": "e732a51f1c549c9a",
-      "rating": 1482.4,
+      "rating": 1483.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -127,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1480.3,
-  "raw_overall_elo": 1482.4,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.5,
   "slug": "raphael-pessoa",
   "systems": {
     "division": "men:Heavyweight",

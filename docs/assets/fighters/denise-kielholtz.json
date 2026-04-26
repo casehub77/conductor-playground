@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 883,
-  "divisional_rank": 144,
+  "days_since_last_fight": 890,
+  "divisional_rank": 111,
   "fight_count": 5,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Sumiko Inaba",
       "opponent_elo": 1569.3,
       "outcome": "red_win",
-      "post_elo": 1491.9,
-      "pre_elo": 1468.8,
+      "post_elo": 1491.1,
+      "pre_elo": 1468.0,
       "red_name": "Denise Kielholtz",
       "round": "3",
       "source": "manual",
@@ -40,8 +40,8 @@
       "opponent": "Paula Cristina",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1468.8,
-      "pre_elo": 1448.2,
+      "post_elo": 1468.0,
+      "pre_elo": 1447.3,
       "red_name": "Denise Kielholtz",
       "round": "3",
       "source": "manual",
@@ -60,10 +60,10 @@
       "is_title": false,
       "method": "Decision (split) (27–30, 29–28, 30–27)",
       "opponent": "Ilara Joanne",
-      "opponent_elo": 1499.2,
+      "opponent_elo": 1499.1,
       "outcome": "red_win",
-      "post_elo": 1448.2,
-      "pre_elo": 1464.4,
+      "post_elo": 1447.3,
+      "pre_elo": 1463.5,
       "red_name": "Ilara Joanne",
       "round": "3",
       "source": "manual",
@@ -75,16 +75,16 @@
       "blue_name": "Denise Kielholtz",
       "bout_type": "Women's Flyweight Bout",
       "date": "2022-05-13",
-      "elo_delta": -17.6,
+      "elo_delta": -18.5,
       "event_name": "Bellator 281: MVP vs. Storley",
       "fight_id": "ac96cabb8c56dbe0",
       "gender": "women",
       "is_title": false,
       "method": "Submission (triangle choke)",
       "opponent": "Kana Watanabe",
-      "opponent_elo": 1514.6,
+      "opponent_elo": 1498.6,
       "outcome": "red_win",
-      "post_elo": 1464.4,
+      "post_elo": 1463.5,
       "pre_elo": 1482.0,
       "red_name": "Kana Watanabe",
       "round": "2",
@@ -136,56 +136,56 @@
     {
       "date": "2022-05-13",
       "fight_id": "ac96cabb8c56dbe0",
-      "rating": 1464.4,
+      "rating": 1463.5,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2022-05-13",
       "fight_id": "ac96cabb8c56dbe0",
-      "rating": 1468.2,
+      "rating": 1467.5,
       "scope": "overall",
       "system": "women:overall"
     },
     {
       "date": "2022-12-09",
       "fight_id": "6580e10332cbd95b",
-      "rating": 1448.2,
+      "rating": 1447.3,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2022-12-09",
       "fight_id": "6580e10332cbd95b",
-      "rating": 1453.6,
+      "rating": 1452.9,
       "scope": "overall",
       "system": "women:overall"
     },
     {
       "date": "2023-05-12",
       "fight_id": "6257d6aa7853b2ab",
-      "rating": 1468.8,
+      "rating": 1468.0,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2023-05-12",
       "fight_id": "6257d6aa7853b2ab",
-      "rating": 1471.7,
+      "rating": 1471.1,
       "scope": "overall",
       "system": "women:overall"
     },
     {
       "date": "2023-11-17",
       "fight_id": "2c2f4f5612dc3d49",
-      "rating": 1491.9,
+      "rating": 1491.1,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2023-11-17",
       "fight_id": "2c2f4f5612dc3d49",
-      "rating": 1491.8,
+      "rating": 1491.2,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -199,8 +199,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1491.9,
-  "raw_overall_elo": 1491.8,
+  "raw_current_elo": 1491.1,
+  "raw_overall_elo": 1491.2,
   "slug": "denise-kielholtz",
   "systems": {
     "division": "women:Flyweight",

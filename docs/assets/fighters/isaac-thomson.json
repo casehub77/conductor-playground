@@ -1,24 +1,24 @@
 {
   "activity_status": "active",
-  "current_elo": 1533.0,
-  "days_since_last_fight": 126,
-  "divisional_rank": 113,
+  "current_elo": 1532.9,
+  "days_since_last_fight": 133,
+  "divisional_rank": 98,
   "fight_count": 6,
   "fight_log": [
     {
       "blue_name": "Isaac Thomson",
       "bout_type": "Featherweight Bout",
       "date": "2025-12-13",
-      "elo_delta": -18.3,
+      "elo_delta": -18.5,
       "event_name": "UFC Fight Night: Royval vs. Kape",
       "fight_id": "69efdc5a17d27ee6",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Joanderson Brito",
-      "opponent_elo": 1545.6,
+      "opponent_elo": 1542.6,
       "outcome": "red_win",
-      "post_elo": 1533.0,
+      "post_elo": 1532.9,
       "pre_elo": 1551.3,
       "red_name": "Joanderson Brito",
       "round": "3.0",
@@ -214,14 +214,14 @@
     {
       "date": "2025-12-13",
       "fight_id": "69efdc5a17d27ee6",
-      "rating": 1533.0,
+      "rating": 1532.9,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-12-13",
       "fight_id": "69efdc5a17d27ee6",
-      "rating": 1529.7,
+      "rating": 1529.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -233,10 +233,10 @@
   "last_fight_date": "2025-12-13",
   "name": "Isaac Thomson",
   "nickname": "",
-  "overall_elo": 1529.7,
+  "overall_elo": 1529.5,
   "peak_elo": 1551.3,
-  "raw_current_elo": 1533.0,
-  "raw_overall_elo": 1529.7,
+  "raw_current_elo": 1532.9,
+  "raw_overall_elo": 1529.5,
   "slug": "isaac-thomson",
   "systems": {
     "division": "men:Featherweight",

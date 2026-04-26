@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1436,
-  "divisional_rank": 853,
+  "days_since_last_fight": 1443,
+  "divisional_rank": 530,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Rob Whiteford",
       "bout_type": "Featherweight Bout",
       "date": "2022-05-13",
-      "elo_delta": -19.0,
+      "elo_delta": -19.5,
       "event_name": "Bellator 281: MVP vs. Storley",
       "fight_id": "ff91f1355aaf8914",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Daniel Weichel",
-      "opponent_elo": 1508.3,
+      "opponent_elo": 1498.2,
       "outcome": "red_win",
-      "post_elo": 1481.0,
+      "post_elo": 1480.5,
       "pre_elo": 1500.0,
       "red_name": "Daniel Weichel",
       "round": "1",
@@ -70,14 +70,14 @@
     {
       "date": "2022-05-13",
       "fight_id": "ff91f1355aaf8914",
-      "rating": 1481.0,
+      "rating": 1480.5,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2022-05-13",
       "fight_id": "ff91f1355aaf8914",
-      "rating": 1483.2,
+      "rating": 1482.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1481.0,
-  "raw_overall_elo": 1483.2,
+  "raw_current_elo": 1480.5,
+  "raw_overall_elo": 1482.6,
   "slug": "rob-whiteford",
   "systems": {
     "division": "men:Featherweight",

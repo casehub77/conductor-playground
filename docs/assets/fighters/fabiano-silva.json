@@ -1,83 +1,17 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1478.3,
-  "days_since_last_fight": 742,
-  "divisional_rank": 1128,
-  "fight_count": 2,
-  "fight_log": [
-    {
-      "blue_name": "Fabiano Silva",
-      "bout_type": "Catchweight (160 lb) Bout",
-      "date": "2024-04-06",
-      "elo_delta": -18.5,
-      "event_name": "Cage Warriors 170: Dublin",
-      "fight_id": "44559b56f5ca69ec",
-      "gender": "men",
-      "is_title": false,
-      "method": "TKO (knee and elbows)",
-      "opponent": "Paul Hughes",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1464.8,
-      "pre_elo": 1483.3,
-      "red_name": "Paul Hughes",
-      "round": "1",
-      "source": "manual",
-      "source_title": "2024 in Cage Warriors",
-      "time": "4:37",
-      "weight_class": "Catch Weight"
-    },
-    {
-      "blue_name": "Fabiano Silva",
-      "bout_type": "Featherweight 66 kg Bout",
-      "date": "2016-03-05",
-      "elo_delta": -16.7,
-      "event_name": "KSW 34: New Order",
-      "fight_id": "01f0e12423d89410",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (Unanimous)",
-      "opponent": "Artur Sowiński",
-      "opponent_elo": 1525.2,
-      "outcome": "red_win",
-      "post_elo": 1483.3,
-      "pre_elo": 1500.0,
-      "red_name": "Artur Sowiński",
-      "round": "3",
-      "source": "manual",
-      "source_title": "2016 in Konfrontacja Sztuk Walki",
-      "time": "5:00",
-      "weight_class": "Featherweight"
-    }
-  ],
-  "first_fight_date": "2016-03-05",
+  "current_elo": 1496.7,
+  "days_since_last_fight": 749,
+  "divisional_rank": null,
+  "fight_count": 1,
+  "fight_log": [],
+  "first_fight_date": "2024-04-06",
   "gender": "men",
   "history": [
     {
-      "date": "2016-03-05",
-      "fight_id": "01f0e12423d89410",
-      "rating": 1483.3,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2016-03-05",
-      "fight_id": "01f0e12423d89410",
-      "rating": 1484.9,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2024-04-06",
       "fight_id": "44559b56f5ca69ec",
-      "rating": 1464.8,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2024-04-06",
-      "fight_id": "44559b56f5ca69ec",
-      "rating": 1468.3,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,14 +23,14 @@
   "last_fight_date": "2024-04-06",
   "name": "Fabiano Silva",
   "nickname": "",
-  "overall_elo": 1481.8,
+  "overall_elo": 1496.7,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1464.8,
-  "raw_overall_elo": 1468.3,
+  "raw_current_elo": 1482.7,
+  "raw_overall_elo": 1482.7,
   "slug": "fabiano-silva",
   "systems": {
-    "division": "men:Featherweight",
+    "division": "men:Catch Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Featherweight"
+  "weight_class": "Catch Weight"
 }

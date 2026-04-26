@@ -1,54 +1,17 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 2078,
-  "divisional_rank": 50,
-  "fight_count": 2,
-  "fight_log": [
-    {
-      "blue_name": "Seiki Ueyama",
-      "bout_type": "Catchweight 56 kg Bout",
-      "date": "2020-08-09",
-      "elo_delta": 20.3,
-      "event_name": "Rizin 22 – Starting Over",
-      "fight_id": "ae286326345ed0fc",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (Unanimous)",
-      "opponent": "Seiki Ueyama",
-      "opponent_elo": 1534.4,
-      "outcome": "red_win",
-      "post_elo": 1509.5,
-      "pre_elo": 1489.1,
-      "red_name": "Rui Ebata",
-      "round": "3",
-      "source": "manual",
-      "source_title": "2020 in Rizin Fighting Federation",
-      "time": "9:00",
-      "weight_class": "Catch Weight"
-    }
-  ],
-  "first_fight_date": "2019-12-31",
+  "days_since_last_fight": 2085,
+  "divisional_rank": null,
+  "fight_count": 1,
+  "fight_log": [],
+  "first_fight_date": "2020-08-09",
   "gender": "men",
   "history": [
     {
-      "date": "2019-12-31",
-      "fight_id": "4995aa2da0126b21",
-      "rating": 1489.1,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2020-08-09",
       "fight_id": "ae286326345ed0fc",
-      "rating": 1509.5,
-      "scope": "division",
-      "system": "men:Catch Weight"
-    },
-    {
-      "date": "2020-08-09",
-      "fight_id": "ae286326345ed0fc",
-      "rating": 1507.1,
+      "rating": 1516.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -61,9 +24,9 @@
   "name": "Rui Ebata",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1509.5,
-  "raw_current_elo": 1509.5,
-  "raw_overall_elo": 1507.1,
+  "peak_elo": 1516.0,
+  "raw_current_elo": 1516.0,
+  "raw_overall_elo": 1516.0,
   "slug": "rui-ebata",
   "systems": {
     "division": "men:Catch Weight",

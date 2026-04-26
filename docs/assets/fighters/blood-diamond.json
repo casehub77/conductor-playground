@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1475.5,
-  "days_since_last_fight": 952,
-  "divisional_rank": 1187,
+  "current_elo": 1475.8,
+  "days_since_last_fight": 959,
+  "divisional_rank": 586,
   "fight_count": 3,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Charles Radtke",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1447.6,
-      "pre_elo": 1463.7,
+      "post_elo": 1447.5,
+      "pre_elo": 1463.6,
       "red_name": "Blood Diamond",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -40,8 +40,8 @@
       "opponent": "Orion Cosce",
       "opponent_elo": 1479.5,
       "outcome": "red_win",
-      "post_elo": 1463.7,
-      "pre_elo": 1481.8,
+      "post_elo": 1463.6,
+      "pre_elo": 1481.7,
       "red_name": "Orion Cosce",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -53,16 +53,16 @@
       "blue_name": "Blood Diamond",
       "bout_type": "Welterweight Bout",
       "date": "2022-02-12",
-      "elo_delta": -18.2,
+      "elo_delta": -18.3,
       "event_name": "UFC 271: Adesanya vs. Whittaker 2",
       "fight_id": "eead6f0af8898ebd",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Jeremiah Wells",
-      "opponent_elo": 1523.0,
+      "opponent_elo": 1520.6,
       "outcome": "red_win",
-      "post_elo": 1481.8,
+      "post_elo": 1481.7,
       "pre_elo": 1500.0,
       "red_name": "Jeremiah Wells",
       "round": "1.0",
@@ -78,42 +78,42 @@
     {
       "date": "2022-02-12",
       "fight_id": "eead6f0af8898ebd",
-      "rating": 1481.8,
+      "rating": 1481.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-02-12",
       "fight_id": "eead6f0af8898ebd",
-      "rating": 1483.7,
+      "rating": 1483.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-07-30",
       "fight_id": "8d5e2352107be661",
-      "rating": 1463.7,
+      "rating": 1463.6,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-07-30",
       "fight_id": "8d5e2352107be661",
-      "rating": 1467.6,
+      "rating": 1467.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-09-09",
       "fight_id": "e587286044e8d123",
-      "rating": 1447.6,
+      "rating": 1447.5,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2023-09-09",
       "fight_id": "e587286044e8d123",
-      "rating": 1453.1,
+      "rating": 1453.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2023-09-09",
   "name": "Blood Diamond",
   "nickname": "",
-  "overall_elo": 1481.0,
+  "overall_elo": 1481.4,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1447.6,
-  "raw_overall_elo": 1453.1,
+  "raw_current_elo": 1447.5,
+  "raw_overall_elo": 1453.0,
   "slug": "blood-diamond",
   "systems": {
     "division": "men:Welterweight",

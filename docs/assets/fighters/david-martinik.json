@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1282,
-  "divisional_rank": 439,
+  "days_since_last_fight": 1289,
+  "divisional_rank": 282,
   "fight_count": 2,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Kamil Szkaradek",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1499.5,
-      "pre_elo": 1518.5,
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
       "red_name": "Kamil Szkaradek",
       "round": "3",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Lemmy Krušič",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2021-07-17",
-      "elo_delta": 18.5,
+      "elo_delta": 19.4,
       "event_name": "KSW 62: Kołecki vs. Szostak",
       "fight_id": "1b554ae2c04aa3ca",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Lemmy Krušič",
-      "opponent_elo": 1483.1,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1518.5,
+      "post_elo": 1519.4,
       "pre_elo": 1500.0,
       "red_name": "David Martinik",
       "round": "1",
@@ -56,28 +56,28 @@
     {
       "date": "2021-07-17",
       "fight_id": "1b554ae2c04aa3ca",
-      "rating": 1518.5,
+      "rating": 1519.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-07-17",
       "fight_id": "1b554ae2c04aa3ca",
-      "rating": 1516.5,
+      "rating": 1517.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-10-14",
       "fight_id": "6cbeae2ce262dfaa",
-      "rating": 1499.5,
+      "rating": 1500.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-10-14",
       "fight_id": "6cbeae2ce262dfaa",
-      "rating": 1499.8,
+      "rating": 1500.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -90,9 +90,9 @@
   "name": "David Martinik",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1518.5,
-  "raw_current_elo": 1499.5,
-  "raw_overall_elo": 1499.8,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1500.4,
+  "raw_overall_elo": 1500.5,
   "slug": "david-martinik",
   "systems": {
     "division": "men:Bantamweight",

@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1295,
-  "divisional_rank": 500,
+  "days_since_last_fight": 1302,
+  "divisional_rank": 222,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Khadzhimurat Bestaev",
       "bout_type": "Middleweight Bout",
       "date": "2022-10-01",
-      "elo_delta": -19.4,
+      "elo_delta": -20.6,
       "event_name": "Bellator 286: Pitbull vs. Borics",
       "fight_id": "1c55a394c1abda69",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Khalid Murtazaliev",
-      "opponent_elo": 1518.6,
+      "opponent_elo": 1497.2,
       "outcome": "red_win",
-      "post_elo": 1498.6,
+      "post_elo": 1497.4,
       "pre_elo": 1518.0,
       "red_name": "Khalid Murtazaliev",
       "round": "2",
@@ -70,14 +70,14 @@
     {
       "date": "2022-10-01",
       "fight_id": "1c55a394c1abda69",
-      "rating": 1498.6,
+      "rating": 1497.4,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2022-10-01",
       "fight_id": "1c55a394c1abda69",
-      "rating": 1498.8,
+      "rating": 1497.9,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1518.0,
-  "raw_current_elo": 1498.6,
-  "raw_overall_elo": 1498.8,
+  "raw_current_elo": 1497.4,
+  "raw_overall_elo": 1497.9,
   "slug": "khadzhimurat-bestaev",
   "systems": {
     "division": "men:Middleweight",

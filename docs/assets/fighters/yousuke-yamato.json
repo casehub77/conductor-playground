@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1490,
-  "divisional_rank": 1182,
+  "days_since_last_fight": 1497,
+  "divisional_rank": 584,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Yousuke Yamato",
       "bout_type": "Lightweight 70 kg Bout",
       "date": "2022-03-20",
-      "elo_delta": -16.6,
+      "elo_delta": -18.4,
       "event_name": "Rizin 34 – Osaka",
       "fight_id": "949bd5e6642e965b",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Referee Stoppage)",
       "opponent": "Yuya",
-      "opponent_elo": 1551.3,
+      "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1483.4,
+      "post_elo": 1481.6,
       "pre_elo": 1500.0,
       "red_name": "Yuya",
       "round": "2",
@@ -34,14 +34,14 @@
     {
       "date": "2022-03-20",
       "fight_id": "949bd5e6642e965b",
-      "rating": 1483.4,
+      "rating": 1481.6,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-03-20",
       "fight_id": "949bd5e6642e965b",
-      "rating": 1485.2,
+      "rating": 1483.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1483.4,
-  "raw_overall_elo": 1485.2,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.6,
   "slug": "yousuke-yamato",
   "systems": {
     "division": "men:Lightweight",

@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1463.2,
-  "days_since_last_fight": 315,
-  "divisional_rank": 1174,
+  "current_elo": 1463.0,
+  "days_since_last_fight": 322,
+  "divisional_rank": 791,
   "fight_count": 4,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Joosang Yoo",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1463.2,
-      "pre_elo": 1481.6,
+      "post_elo": 1463.0,
+      "pre_elo": 1481.4,
       "red_name": "Jeka Saragih",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Westin Wilson",
       "bout_type": "Featherweight Bout",
       "date": "2024-06-15",
-      "elo_delta": -21.5,
+      "elo_delta": -21.7,
       "event_name": "UFC Fight Night: Perez vs. Taira",
       "fight_id": "6d22105b7c6b3b68",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Westin Wilson",
-      "opponent_elo": 1466.4,
+      "opponent_elo": 1463.3,
       "outcome": "blue_win",
-      "post_elo": 1481.6,
+      "post_elo": 1481.4,
       "pre_elo": 1503.1,
       "red_name": "Jeka Saragih",
       "round": "1.0",
@@ -60,7 +60,7 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Lucas Alexander",
-      "opponent_elo": 1499.7,
+      "opponent_elo": 1499.6,
       "outcome": "red_win",
       "post_elo": 1503.1,
       "pre_elo": 1482.7,
@@ -128,28 +128,28 @@
     {
       "date": "2024-06-15",
       "fight_id": "6d22105b7c6b3b68",
-      "rating": 1481.6,
+      "rating": 1481.4,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2024-06-15",
       "fight_id": "6d22105b7c6b3b68",
-      "rating": 1482.0,
+      "rating": 1481.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-06-07",
       "fight_id": "50cd98c80eae204b",
-      "rating": 1463.2,
+      "rating": 1463.0,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-06-07",
       "fight_id": "50cd98c80eae204b",
-      "rating": 1465.6,
+      "rating": 1465.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -161,10 +161,10 @@
   "last_fight_date": "2025-06-07",
   "name": "Jeka Saragih",
   "nickname": "",
-  "overall_elo": 1465.6,
+  "overall_elo": 1465.5,
   "peak_elo": 1503.1,
-  "raw_current_elo": 1463.2,
-  "raw_overall_elo": 1465.6,
+  "raw_current_elo": 1463.0,
+  "raw_overall_elo": 1465.5,
   "slug": "jeka-saragih",
   "systems": {
     "division": "men:Featherweight",

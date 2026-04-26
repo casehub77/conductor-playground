@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1490,
-  "divisional_rank": 739,
+  "days_since_last_fight": 1497,
+  "divisional_rank": 519,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Ryo Takahashi",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2022-03-20",
-      "elo_delta": 0.8,
+      "elo_delta": 0.9,
       "event_name": "Rizin 34 – Osaka",
       "fight_id": "84091a4569f18468",
       "gender": "men",
@@ -18,8 +18,8 @@
       "opponent": "Taiga Kawabe",
       "opponent_elo": 1499.6,
       "outcome": "draw",
-      "post_elo": 1485.4,
-      "pre_elo": 1484.6,
+      "post_elo": 1482.5,
+      "pre_elo": 1481.5,
       "red_name": "Taiga Kawabe",
       "round": "3",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Ryo Takahashi",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2021-06-27",
-      "elo_delta": -15.4,
+      "elo_delta": -18.5,
       "event_name": "Rizin 29 – Osaka",
       "fight_id": "d603c6e584508745",
       "gender": "men",
       "is_title": false,
       "method": "KO (Punches)",
       "opponent": "Taiju Shiratori",
-      "opponent_elo": 1574.2,
+      "opponent_elo": 1517.2,
       "outcome": "red_win",
-      "post_elo": 1484.6,
+      "post_elo": 1481.5,
       "pre_elo": 1500.0,
       "red_name": "Taiju Shiratori",
       "round": "1",
@@ -56,28 +56,28 @@
     {
       "date": "2021-06-27",
       "fight_id": "d603c6e584508745",
-      "rating": 1484.6,
+      "rating": 1481.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-06-27",
       "fight_id": "d603c6e584508745",
-      "rating": 1486.3,
+      "rating": 1483.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-03-20",
       "fight_id": "84091a4569f18468",
-      "rating": 1485.4,
+      "rating": 1482.5,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-03-20",
       "fight_id": "84091a4569f18468",
-      "rating": 1486.9,
+      "rating": 1484.2,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1485.4,
-  "raw_overall_elo": 1486.9,
+  "raw_current_elo": 1482.5,
+  "raw_overall_elo": 1484.2,
   "slug": "ryo-takahashi",
   "systems": {
     "division": "men:Bantamweight",

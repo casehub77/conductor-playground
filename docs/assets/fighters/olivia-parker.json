@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1835,
-  "divisional_rank": 53,
+  "days_since_last_fight": 1842,
+  "divisional_rank": 39,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Olivia Parker",
       "bout_type": "Women's Featherweight Bout",
       "date": "2021-04-09",
-      "elo_delta": -20.0,
+      "elo_delta": -19.4,
       "event_name": "Bellator 256: Bader vs. Machida 2",
       "fight_id": "16f14cd8358f2b2f",
       "gender": "women",
       "is_title": false,
       "method": "Submission (armbar)",
       "opponent": "Cat Zingano",
-      "opponent_elo": 1489.4,
+      "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1480.0,
+      "post_elo": 1480.6,
       "pre_elo": 1500.0,
       "red_name": "Cat Zingano",
       "round": "1",
@@ -34,14 +34,14 @@
     {
       "date": "2021-04-09",
       "fight_id": "16f14cd8358f2b2f",
-      "rating": 1480.0,
+      "rating": 1480.6,
       "scope": "division",
       "system": "women:Featherweight"
     },
     {
       "date": "2021-04-09",
       "fight_id": "16f14cd8358f2b2f",
-      "rating": 1482.3,
+      "rating": 1482.7,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1480.0,
-  "raw_overall_elo": 1482.3,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
   "slug": "olivia-parker",
   "systems": {
     "division": "women:Featherweight",

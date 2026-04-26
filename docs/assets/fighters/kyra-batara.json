@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1498,
-  "divisional_rank": 195,
-  "fight_count": 2,
+  "days_since_last_fight": 1505,
+  "divisional_rank": 123,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Kyra Batara",
       "bout_type": "Women's Flyweight Bout",
       "date": "2022-03-12",
-      "elo_delta": -15.3,
+      "elo_delta": -16.1,
       "event_name": "Bellator 276: Borics vs. Burnell",
       "fight_id": "34c5e343b54493ee",
       "gender": "women",
@@ -18,66 +18,30 @@
       "opponent": "Diana Avsaragova",
       "opponent_elo": 1536.4,
       "outcome": "red_win",
-      "post_elo": 1469.4,
-      "pre_elo": 1484.7,
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
       "red_name": "Diana Avsaragova",
       "round": "3",
       "source": "manual",
       "source_title": "Bellator 276",
       "time": "5:00",
       "weight_class": "Flyweight"
-    },
-    {
-      "blue_name": "Kyra Batara",
-      "bout_type": "Female Strawweight 53 kg Bout",
-      "date": "2016-09-25",
-      "elo_delta": -17.1,
-      "event_name": "Rizin World Grand-Prix 2016: 1st Round",
-      "fight_id": "409cf37cd735939b",
-      "gender": "women",
-      "is_title": false,
-      "method": "Decision (Unanimous)",
-      "opponent": "Kanako Murata",
-      "opponent_elo": 1518.0,
-      "outcome": "red_win",
-      "post_elo": 1482.9,
-      "pre_elo": 1500.0,
-      "red_name": "Kanako Murata",
-      "round": "3",
-      "source": "manual",
-      "source_title": "2016 in Rizin Fighting Federation",
-      "time": "15:00",
-      "weight_class": "Strawweight"
     }
   ],
-  "first_fight_date": "2016-09-25",
+  "first_fight_date": "2022-03-12",
   "gender": "women",
   "history": [
     {
-      "date": "2016-09-25",
-      "fight_id": "409cf37cd735939b",
-      "rating": 1482.9,
-      "scope": "division",
-      "system": "women:Strawweight"
-    },
-    {
-      "date": "2016-09-25",
-      "fight_id": "409cf37cd735939b",
-      "rating": 1484.7,
-      "scope": "overall",
-      "system": "women:overall"
-    },
-    {
       "date": "2022-03-12",
       "fight_id": "34c5e343b54493ee",
-      "rating": 1469.4,
+      "rating": 1483.9,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2022-03-12",
       "fight_id": "34c5e343b54493ee",
-      "rating": 1470.9,
+      "rating": 1485.5,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -91,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1469.4,
-  "raw_overall_elo": 1470.9,
+  "raw_current_elo": 1483.9,
+  "raw_overall_elo": 1485.5,
   "slug": "kyra-batara",
   "systems": {
     "division": "women:Flyweight",

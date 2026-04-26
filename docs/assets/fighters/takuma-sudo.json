@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1463,
-  "divisional_rank": 446,
+  "days_since_last_fight": 1470,
+  "divisional_rank": 325,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Shooto Watanabe",
       "bout_type": "Bantamweight 61 kg Bout",
       "date": "2022-04-16",
-      "elo_delta": 18.4,
+      "elo_delta": 18.2,
       "event_name": "Rizin Trigger 3",
       "fight_id": "59d234cc579ffc46",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Split)",
       "opponent": "Shooto Watanabe",
-      "opponent_elo": 1507.7,
+      "opponent_elo": 1503.8,
       "outcome": "red_win",
-      "post_elo": 1518.4,
+      "post_elo": 1518.2,
       "pre_elo": 1500.0,
       "red_name": "Takuma Sudo",
       "round": "3",
@@ -34,14 +34,14 @@
     {
       "date": "2022-04-16",
       "fight_id": "59d234cc579ffc46",
-      "rating": 1518.4,
+      "rating": 1518.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-04-16",
       "fight_id": "59d234cc579ffc46",
-      "rating": 1516.3,
+      "rating": 1516.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -54,9 +54,9 @@
   "name": "Takuma Sudo",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1518.4,
-  "raw_current_elo": 1518.4,
-  "raw_overall_elo": 1516.3,
+  "peak_elo": 1518.2,
+  "raw_current_elo": 1518.2,
+  "raw_overall_elo": 1516.1,
   "slug": "takuma-sudo",
   "systems": {
     "division": "men:Bantamweight",

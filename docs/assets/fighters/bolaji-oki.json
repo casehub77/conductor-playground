@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1480.0,
-  "days_since_last_fight": 35,
-  "divisional_rank": 1421,
+  "current_elo": 1479.8,
+  "days_since_last_fight": 42,
+  "divisional_rank": 773,
   "fight_count": 5,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Manoel Sousa",
       "opponent_elo": 1518.0,
       "outcome": "blue_win",
-      "post_elo": 1480.0,
-      "pre_elo": 1498.3,
+      "post_elo": 1479.8,
+      "pre_elo": 1498.2,
       "red_name": "Bolaji Oki",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Mason Jones",
       "bout_type": "Lightweight Bout",
       "date": "2025-09-06",
-      "elo_delta": -18.3,
+      "elo_delta": -18.4,
       "event_name": "UFC Fight Night: Imavov vs. Borralho",
       "fight_id": "be6328de0b9b84e5",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Mason Jones",
-      "opponent_elo": 1536.9,
+      "opponent_elo": 1535.5,
       "outcome": "blue_win",
-      "post_elo": 1498.3,
+      "post_elo": 1498.2,
       "pre_elo": 1516.6,
       "red_name": "Bolaji Oki",
       "round": "2.0",
@@ -82,7 +82,7 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Chris Duncan",
-      "opponent_elo": 1517.4,
+      "opponent_elo": 1516.6,
       "outcome": "blue_win",
       "post_elo": 1498.5,
       "pre_elo": 1518.0,
@@ -164,28 +164,28 @@
     {
       "date": "2025-09-06",
       "fight_id": "be6328de0b9b84e5",
-      "rating": 1498.3,
+      "rating": 1498.2,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-09-06",
       "fight_id": "be6328de0b9b84e5",
-      "rating": 1498.4,
+      "rating": 1498.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-03-14",
       "fight_id": "4cc6725efd2837ec",
-      "rating": 1480.0,
+      "rating": 1479.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-03-14",
       "fight_id": "4cc6725efd2837ec",
-      "rating": 1482.0,
+      "rating": 1481.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -197,10 +197,10 @@
   "last_fight_date": "2026-03-14",
   "name": "Bolaji Oki",
   "nickname": "",
-  "overall_elo": 1482.0,
+  "overall_elo": 1481.8,
   "peak_elo": 1518.0,
-  "raw_current_elo": 1480.0,
-  "raw_overall_elo": 1482.0,
+  "raw_current_elo": 1479.8,
+  "raw_overall_elo": 1481.8,
   "slug": "bolaji-oki",
   "systems": {
     "division": "men:Lightweight",

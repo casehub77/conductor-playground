@@ -1,48 +1,26 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1820,
-  "divisional_rank": 953,
-  "fight_count": 2,
+  "days_since_last_fight": 1827,
+  "divisional_rank": 423,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Stefan Sekulic",
       "bout_type": "Welterweight Bout",
       "date": "2021-04-24",
-      "elo_delta": -16.9,
+      "elo_delta": -18.9,
       "event_name": "UFC 261: Usman vs. Masvidal 2",
       "fight_id": "c6b68e197a850b81",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Dwight Grant",
-      "opponent_elo": 1504.7,
+      "opponent_elo": 1482.6,
       "outcome": "red_win",
-      "post_elo": 1467.1,
-      "pre_elo": 1484.0,
-      "red_name": "Dwight Grant",
-      "round": "3.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Welterweight"
-    },
-    {
-      "blue_name": "Stefan Sekulic",
-      "bout_type": "Welterweight Bout",
-      "date": "2018-09-15",
-      "elo_delta": -16.0,
-      "event_name": "UFC Fight Night: Hunt vs. Oleinik",
-      "fight_id": "7ed35d3694dce236",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Unanimous",
-      "opponent": "Ramazan Emeev",
-      "opponent_elo": 1539.4,
-      "outcome": "red_win",
-      "post_elo": 1484.0,
+      "post_elo": 1481.1,
       "pre_elo": 1500.0,
-      "red_name": "Ramazan Emeev",
+      "red_name": "Dwight Grant",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
       "source_title": "",
@@ -50,34 +28,20 @@
       "weight_class": "Welterweight"
     }
   ],
-  "first_fight_date": "2018-09-15",
+  "first_fight_date": "2021-04-24",
   "gender": "men",
   "history": [
     {
-      "date": "2018-09-15",
-      "fight_id": "7ed35d3694dce236",
-      "rating": 1484.0,
-      "scope": "division",
-      "system": "men:Welterweight"
-    },
-    {
-      "date": "2018-09-15",
-      "fight_id": "7ed35d3694dce236",
-      "rating": 1485.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2021-04-24",
       "fight_id": "c6b68e197a850b81",
-      "rating": 1467.1,
+      "rating": 1481.1,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2021-04-24",
       "fight_id": "c6b68e197a850b81",
-      "rating": 1470.5,
+      "rating": 1483.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1467.1,
-  "raw_overall_elo": 1470.5,
+  "raw_current_elo": 1481.1,
+  "raw_overall_elo": 1483.3,
   "slug": "stefan-sekulic",
   "systems": {
     "division": "men:Welterweight",

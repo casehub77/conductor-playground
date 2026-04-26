@@ -1,83 +1,17 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1500.0,
-  "days_since_last_fight": 575,
-  "divisional_rank": 838,
-  "fight_count": 2,
-  "fight_log": [
-    {
-      "blue_name": "Coty Milhausen",
-      "bout_type": "Catchweight (165 lb) Bout",
-      "date": "2024-09-20",
-      "elo_delta": 18.4,
-      "event_name": "LFA 193: Bowers vs. Borisova",
-      "fight_id": "06db4a2915cb294e",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (rear-naked choke)",
-      "opponent": "Coty Milhausen",
-      "opponent_elo": 1462.2,
-      "outcome": "red_win",
-      "post_elo": 1499.2,
-      "pre_elo": 1480.7,
-      "red_name": "Ashkan Morvari",
-      "round": "2",
-      "source": "manual",
-      "source_title": "2024 in Legacy Fighting Alliance",
-      "time": "4:30",
-      "weight_class": "Catch Weight"
-    },
-    {
-      "blue_name": "Ashkan Morvari",
-      "bout_type": "Lightweight Bout",
-      "date": "2011-11-12",
-      "elo_delta": -19.3,
-      "event_name": "Bellator 57",
-      "fight_id": "8dc5b2ab27b7f52d",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission (rear naked choke)",
-      "opponent": "Dave Jansen",
-      "opponent_elo": 1503.3,
-      "outcome": "red_win",
-      "post_elo": 1480.7,
-      "pre_elo": 1500.0,
-      "red_name": "Dave Jansen",
-      "round": "2",
-      "source": "manual",
-      "source_title": "Bellator 57",
-      "time": "2:47",
-      "weight_class": "Lightweight"
-    }
-  ],
-  "first_fight_date": "2011-11-12",
+  "current_elo": 1513.1,
+  "days_since_last_fight": 582,
+  "divisional_rank": null,
+  "fight_count": 1,
+  "fight_log": [],
+  "first_fight_date": "2024-09-20",
   "gender": "men",
   "history": [
     {
-      "date": "2011-11-12",
-      "fight_id": "8dc5b2ab27b7f52d",
-      "rating": 1480.7,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2011-11-12",
-      "fight_id": "8dc5b2ab27b7f52d",
-      "rating": 1482.9,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2024-09-20",
       "fight_id": "06db4a2915cb294e",
-      "rating": 1499.2,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2024-09-20",
-      "fight_id": "06db4a2915cb294e",
-      "rating": 1499.4,
+      "rating": 1515.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,14 +23,14 @@
   "last_fight_date": "2024-09-20",
   "name": "Ashkan Morvari",
   "nickname": "",
-  "overall_elo": 1500.0,
-  "peak_elo": 1500.0,
-  "raw_current_elo": 1499.2,
-  "raw_overall_elo": 1499.4,
+  "overall_elo": 1513.1,
+  "peak_elo": 1515.6,
+  "raw_current_elo": 1515.6,
+  "raw_overall_elo": 1515.6,
   "slug": "ashkan-morvari",
   "systems": {
-    "division": "men:Lightweight",
+    "division": "men:Catch Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Lightweight"
+  "weight_class": "Catch Weight"
 }

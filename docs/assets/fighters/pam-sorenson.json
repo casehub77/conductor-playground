@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1114,
-  "divisional_rank": 35,
+  "days_since_last_fight": 1121,
+  "divisional_rank": 24,
   "fight_count": 4,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Sara Collins",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1464.0,
-      "pre_elo": 1482.5,
+      "post_elo": 1464.5,
+      "pre_elo": 1483.0,
       "red_name": "Sara Collins",
       "round": "1",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Pam Sorenson",
       "bout_type": "Women's Featherweight Bout",
       "date": "2022-06-24",
-      "elo_delta": -17.5,
+      "elo_delta": -17.0,
       "event_name": "Bellator 282: Mousasi vs. Eblen",
       "fight_id": "d97a13957da2747c",
       "gender": "women",
       "is_title": false,
       "method": "Decision (unanimous) (29–26, 29–27, 29–27)",
       "opponent": "Cat Zingano",
-      "opponent_elo": 1509.5,
+      "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1482.5,
+      "post_elo": 1483.0,
       "pre_elo": 1500.0,
       "red_name": "Cat Zingano",
       "round": "3",
@@ -128,28 +128,28 @@
     {
       "date": "2022-06-24",
       "fight_id": "d97a13957da2747c",
-      "rating": 1482.5,
+      "rating": 1483.0,
       "scope": "division",
       "system": "women:Featherweight"
     },
     {
       "date": "2022-06-24",
       "fight_id": "d97a13957da2747c",
-      "rating": 1484.5,
+      "rating": 1484.8,
       "scope": "overall",
       "system": "women:overall"
     },
     {
       "date": "2023-03-31",
       "fight_id": "04c57c2d112bfdb4",
-      "rating": 1464.0,
+      "rating": 1464.5,
       "scope": "division",
       "system": "women:Featherweight"
     },
     {
       "date": "2023-03-31",
       "fight_id": "04c57c2d112bfdb4",
-      "rating": 1468.0,
+      "rating": 1468.3,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -163,8 +163,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1518.0,
-  "raw_current_elo": 1464.0,
-  "raw_overall_elo": 1468.0,
+  "raw_current_elo": 1464.5,
+  "raw_overall_elo": 1468.3,
   "slug": "pam-sorenson",
   "systems": {
     "division": "women:Featherweight",

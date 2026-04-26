@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 574,
-  "divisional_rank": 935,
+  "days_since_last_fight": 581,
+  "divisional_rank": 420,
   "fight_count": 2,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Dean Trueman",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1499.2,
-      "pre_elo": 1478.5,
+      "post_elo": 1500.1,
+      "pre_elo": 1479.6,
       "red_name": "Gavin Hughes",
       "round": "2",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Gavin Hughes",
       "bout_type": "Lightweight Bout",
       "date": "2022-05-06",
-      "elo_delta": -21.5,
+      "elo_delta": -20.4,
       "event_name": "Bellator 280: Bader vs. Kongo 2",
       "fight_id": "d1ef0fa62440855f",
       "gender": "men",
       "is_title": false,
       "method": "TKO (knees and body kick)",
       "opponent": "Yves Landu",
-      "opponent_elo": 1463.6,
+      "opponent_elo": 1482.0,
       "outcome": "red_win",
-      "post_elo": 1478.5,
+      "post_elo": 1479.6,
       "pre_elo": 1500.0,
       "red_name": "Yves Landu",
       "round": "1",
@@ -56,28 +56,28 @@
     {
       "date": "2022-05-06",
       "fight_id": "d1ef0fa62440855f",
-      "rating": 1478.5,
+      "rating": 1479.6,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-05-06",
       "fight_id": "d1ef0fa62440855f",
-      "rating": 1481.1,
+      "rating": 1481.9,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2024-09-21",
       "fight_id": "19f1cd148ae34f56",
-      "rating": 1499.2,
+      "rating": 1500.1,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2024-09-21",
       "fight_id": "19f1cd148ae34f56",
-      "rating": 1499.3,
+      "rating": 1500.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -90,9 +90,9 @@
   "name": "Gavin Hughes",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1500.0,
-  "raw_current_elo": 1499.2,
-  "raw_overall_elo": 1499.3,
+  "peak_elo": 1500.1,
+  "raw_current_elo": 1500.1,
+  "raw_overall_elo": 1500.1,
   "slug": "gavin-hughes",
   "systems": {
     "division": "men:Lightweight",

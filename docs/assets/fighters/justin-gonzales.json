@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 883,
-  "divisional_rank": 546,
+  "days_since_last_fight": 890,
+  "divisional_rank": 351,
   "fight_count": 5,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
       "opponent": "Timur Khizriev",
-      "opponent_elo": 1536.5,
+      "opponent_elo": 1536.9,
       "outcome": "red_win",
-      "post_elo": 1482.3,
-      "pre_elo": 1498.4,
+      "post_elo": 1482.9,
+      "pre_elo": 1498.9,
       "red_name": "Timur Khizriev",
       "round": "3",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Justin Gonzales",
       "bout_type": "Featherweight Bout",
       "date": "2023-04-22",
-      "elo_delta": -19.6,
+      "elo_delta": -19.1,
       "event_name": "Bellator 295: Stots vs. Mix",
       "fight_id": "0672110072f0d508",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
       "opponent": "Mads Burnell",
-      "opponent_elo": 1486.6,
+      "opponent_elo": 1496.9,
       "outcome": "red_win",
-      "post_elo": 1498.4,
+      "post_elo": 1498.9,
       "pre_elo": 1518.0,
       "red_name": "Mads Burnell",
       "round": "3",
@@ -60,7 +60,7 @@
       "is_title": false,
       "method": "Decision (split) (28–29, 30–27, 29–28)",
       "opponent": "Kai Kamaka III",
-      "opponent_elo": 1498.1,
+      "opponent_elo": 1498.9,
       "outcome": "red_win",
       "post_elo": 1518.0,
       "pre_elo": 1500.1,
@@ -164,28 +164,28 @@
     {
       "date": "2023-04-22",
       "fight_id": "0672110072f0d508",
-      "rating": 1498.4,
+      "rating": 1498.9,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2023-04-22",
       "fight_id": "0672110072f0d508",
-      "rating": 1498.6,
+      "rating": 1499.2,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-11-17",
       "fight_id": "84f9e8c9cb385595",
-      "rating": 1482.3,
+      "rating": 1482.9,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2023-11-17",
       "fight_id": "84f9e8c9cb385595",
-      "rating": 1484.2,
+      "rating": 1484.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -199,8 +199,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1518.0,
-  "raw_current_elo": 1482.3,
-  "raw_overall_elo": 1484.2,
+  "raw_current_elo": 1482.9,
+  "raw_overall_elo": 1484.7,
   "slug": "justin-gonzales",
   "systems": {
     "division": "men:Featherweight",

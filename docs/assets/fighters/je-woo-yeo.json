@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1848,
-  "divisional_rank": 394,
-  "fight_count": 2,
+  "days_since_last_fight": 1855,
+  "divisional_rank": 264,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "San Kim",
       "bout_type": "Welterweight 77 kg Bout",
       "date": "2021-03-27",
-      "elo_delta": 17.2,
+      "elo_delta": 18.0,
       "event_name": "ARC 003",
       "fight_id": "67bc074f7142ef73",
       "gender": "men",
@@ -18,66 +18,30 @@
       "opponent": "San Kim",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1533.2,
-      "pre_elo": 1516.0,
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
       "red_name": "Je Woo Yeo",
       "round": "3",
       "source": "manual",
       "source_title": "2021 in Road FC",
       "time": "3:00",
       "weight_class": "Welterweight"
-    },
-    {
-      "blue_name": "Ji Seung Shin",
-      "bout_type": "Featherweight Bout",
-      "date": "2019-09-08",
-      "elo_delta": 18.0,
-      "event_name": "Road FC 055",
-      "fight_id": "55be5b39a24158ad",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision (Unanimous)",
-      "opponent": "Ji Seung Shin",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1518.0,
-      "pre_elo": 1500.0,
-      "red_name": "Je Woo Yeo",
-      "round": "2/2",
-      "source": "manual",
-      "source_title": "2019 in Road FC",
-      "time": "5:00",
-      "weight_class": "Featherweight"
     }
   ],
-  "first_fight_date": "2019-09-08",
+  "first_fight_date": "2021-03-27",
   "gender": "men",
   "history": [
     {
-      "date": "2019-09-08",
-      "fight_id": "55be5b39a24158ad",
-      "rating": 1518.0,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2019-09-08",
-      "fight_id": "55be5b39a24158ad",
-      "rating": 1516.0,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2021-03-27",
       "fight_id": "67bc074f7142ef73",
-      "rating": 1533.2,
+      "rating": 1518.0,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2021-03-27",
       "fight_id": "67bc074f7142ef73",
-      "rating": 1531.3,
+      "rating": 1516.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -90,9 +54,9 @@
   "name": "Je Woo Yeo",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1533.2,
-  "raw_current_elo": 1533.2,
-  "raw_overall_elo": 1531.3,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1518.0,
+  "raw_overall_elo": 1516.0,
   "slug": "je-woo-yeo",
   "systems": {
     "division": "men:Welterweight",

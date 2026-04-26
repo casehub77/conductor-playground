@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1503.8,
-  "days_since_last_fight": 1218,
-  "divisional_rank": 255,
+  "current_elo": 1503.4,
+  "days_since_last_fight": 1225,
+  "divisional_rank": 232,
   "fight_count": 4,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Adrian Gralak",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1549.8,
-      "pre_elo": 1532.2,
+      "post_elo": 1549.9,
+      "pre_elo": 1532.3,
       "red_name": "Yann Liasse",
       "round": "2",
       "source": "manual",
@@ -40,8 +40,8 @@
       "opponent": "Adrian Gralak",
       "opponent_elo": 1500.0,
       "outcome": "no_contest",
-      "post_elo": 1529.7,
-      "pre_elo": 1529.7,
+      "post_elo": 1530.5,
+      "pre_elo": 1530.5,
       "red_name": "Yann Liasse",
       "round": "1",
       "source": "manual",
@@ -53,16 +53,16 @@
       "blue_name": "Hubert Szymajda",
       "bout_type": "Lightweight 70 kg Bout",
       "date": "2022-07-23",
-      "elo_delta": 16.2,
+      "elo_delta": 16.3,
       "event_name": "KSW 72: Romanowski vs. Grzebyk",
       "fight_id": "c313648ae8acd8f7",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Hubert Szymajda",
-      "opponent_elo": 1480.6,
+      "opponent_elo": 1483.2,
       "outcome": "red_win",
-      "post_elo": 1532.2,
+      "post_elo": 1532.3,
       "pre_elo": 1516.0,
       "red_name": "Yann Liasse",
       "round": "3",
@@ -85,42 +85,42 @@
     {
       "date": "2022-07-23",
       "fight_id": "c313648ae8acd8f7",
-      "rating": 1532.2,
+      "rating": 1532.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-07-23",
       "fight_id": "c313648ae8acd8f7",
-      "rating": 1529.7,
+      "rating": 1530.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-10-14",
       "fight_id": "b1364f7910ef786f",
-      "rating": 1529.7,
+      "rating": 1530.5,
       "scope": "division",
       "system": "men:Catch Weight"
     },
     {
       "date": "2022-10-14",
       "fight_id": "b1364f7910ef786f",
-      "rating": 1529.7,
+      "rating": 1530.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-12-17",
       "fight_id": "9e70bb76132793a1",
-      "rating": 1549.8,
+      "rating": 1549.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-12-17",
       "fight_id": "9e70bb76132793a1",
-      "rating": 1545.5,
+      "rating": 1546.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -133,9 +133,9 @@
   "name": "Yann Liasse",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1549.8,
-  "raw_current_elo": 1549.8,
-  "raw_overall_elo": 1545.5,
+  "peak_elo": 1549.9,
+  "raw_current_elo": 1549.9,
+  "raw_overall_elo": 1546.3,
   "slug": "yann-liasse",
   "systems": {
     "division": "men:Lightweight",

@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1260,
-  "divisional_rank": 687,
+  "days_since_last_fight": 1267,
+  "divisional_rank": 482,
   "fight_count": 2,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Johnny Munoz",
-      "opponent_elo": 1484.1,
+      "opponent_elo": 1484.8,
       "outcome": "blue_win",
-      "post_elo": 1466.7,
-      "pre_elo": 1484.7,
+      "post_elo": 1465.9,
+      "pre_elo": 1483.9,
       "red_name": "Liudvik Sholinian",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Liudvik Sholinian",
       "bout_type": "Bantamweight Bout",
       "date": "2021-09-04",
-      "elo_delta": -15.3,
+      "elo_delta": -16.1,
       "event_name": "UFC Fight Night: Brunson vs. Till",
       "fight_id": "9c56084b4411c14b",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Jack Shore",
-      "opponent_elo": 1553.0,
+      "opponent_elo": 1536.6,
       "outcome": "red_win",
-      "post_elo": 1484.7,
+      "post_elo": 1483.9,
       "pre_elo": 1500.0,
       "red_name": "Jack Shore",
       "round": "3.0",
@@ -56,28 +56,28 @@
     {
       "date": "2021-09-04",
       "fight_id": "9c56084b4411c14b",
-      "rating": 1484.7,
+      "rating": 1483.9,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-09-04",
       "fight_id": "9c56084b4411c14b",
-      "rating": 1486.1,
+      "rating": 1485.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2022-11-05",
       "fight_id": "47c9c599647425d3",
-      "rating": 1466.7,
+      "rating": 1465.9,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2022-11-05",
       "fight_id": "47c9c599647425d3",
-      "rating": 1470.0,
+      "rating": 1469.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1466.7,
-  "raw_overall_elo": 1470.0,
+  "raw_current_elo": 1465.9,
+  "raw_overall_elo": 1469.5,
   "slug": "liudvik-sholinian",
   "systems": {
     "division": "men:Bantamweight",

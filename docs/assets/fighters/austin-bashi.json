@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1501.7,
-  "days_since_last_fight": 259,
-  "divisional_rank": 255,
+  "current_elo": 1501.8,
+  "days_since_last_fight": 266,
+  "divisional_rank": 234,
   "fight_count": 2,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "John Yannis",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1501.7,
-      "pre_elo": 1481.2,
+      "post_elo": 1501.8,
+      "pre_elo": 1481.3,
       "red_name": "Austin Bashi",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Austin Bashi",
       "bout_type": "Featherweight Bout",
       "date": "2025-01-11",
-      "elo_delta": -18.8,
+      "elo_delta": -18.7,
       "event_name": "UFC Fight Night: Dern vs. Ribas 2",
       "fight_id": "60ff20241268d1c9",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Christian Rodriguez",
-      "opponent_elo": 1485.1,
+      "opponent_elo": 1486.6,
       "outcome": "red_win",
-      "post_elo": 1481.2,
+      "post_elo": 1481.3,
       "pre_elo": 1500.0,
       "red_name": "Christian Rodriguez",
       "round": "3.0",
@@ -56,28 +56,28 @@
     {
       "date": "2025-01-11",
       "fight_id": "60ff20241268d1c9",
-      "rating": 1481.2,
+      "rating": 1481.3,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-01-11",
       "fight_id": "60ff20241268d1c9",
-      "rating": 1485.5,
+      "rating": 1485.6,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-08-02",
       "fight_id": "328884463937c74e",
-      "rating": 1501.7,
+      "rating": 1501.8,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-08-02",
       "fight_id": "328884463937c74e",
-      "rating": 1503.5,
+      "rating": 1503.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -89,10 +89,10 @@
   "last_fight_date": "2025-08-02",
   "name": "Austin Bashi",
   "nickname": "",
-  "overall_elo": 1503.5,
-  "peak_elo": 1503.5,
-  "raw_current_elo": 1501.7,
-  "raw_overall_elo": 1503.5,
+  "overall_elo": 1503.6,
+  "peak_elo": 1503.6,
+  "raw_current_elo": 1501.8,
+  "raw_overall_elo": 1503.6,
   "slug": "austin-bashi",
   "systems": {
     "division": "men:Featherweight",

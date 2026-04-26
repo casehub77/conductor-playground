@@ -1,25 +1,25 @@
 {
   "activity_status": "active",
-  "current_elo": 1499.3,
-  "days_since_last_fight": 517,
-  "divisional_rank": 665,
-  "fight_count": 2,
+  "current_elo": 1482.8,
+  "days_since_last_fight": 524,
+  "divisional_rank": 287,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Hisaki Kato",
       "bout_type": "Heavyweight 120 kg Bout",
       "date": "2024-11-17",
-      "elo_delta": -18.0,
+      "elo_delta": -17.2,
       "event_name": "Rizin Landmark 10",
       "fight_id": "17ac20987f77b238",
       "gender": "men",
       "is_title": false,
       "method": "TKO (doctor stoppage)",
       "opponent": "Tsuyoshi Sudario",
-      "opponent_elo": 1542.9,
+      "opponent_elo": 1539.6,
       "outcome": "red_win",
-      "post_elo": 1499.3,
-      "pre_elo": 1517.3,
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
       "red_name": "Tsuyoshi Sudario",
       "round": "3",
       "source": "manual",
@@ -28,27 +28,20 @@
       "weight_class": "Heavyweight"
     }
   ],
-  "first_fight_date": "2016-04-17",
+  "first_fight_date": "2024-11-17",
   "gender": "men",
   "history": [
     {
-      "date": "2016-04-17",
-      "fight_id": "6df5895276590af0",
-      "rating": 1517.3,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2024-11-17",
       "fight_id": "17ac20987f77b238",
-      "rating": 1499.3,
+      "rating": 1482.8,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2024-11-17",
       "fight_id": "17ac20987f77b238",
-      "rating": 1501.0,
+      "rating": 1484.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -60,10 +53,10 @@
   "last_fight_date": "2024-11-17",
   "name": "Hisaki Kato",
   "nickname": "",
-  "overall_elo": 1501.0,
-  "peak_elo": 1517.3,
-  "raw_current_elo": 1499.3,
-  "raw_overall_elo": 1501.0,
+  "overall_elo": 1484.5,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.8,
+  "raw_overall_elo": 1484.5,
   "slug": "hisaki-kato",
   "systems": {
     "division": "men:Heavyweight",

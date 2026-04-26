@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1918,
-  "divisional_rank": 752,
-  "fight_count": 2,
+  "days_since_last_fight": 1925,
+  "divisional_rank": 455,
+  "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Austin Lingo",
       "bout_type": "Featherweight Bout",
       "date": "2021-01-16",
-      "elo_delta": -17.9,
+      "elo_delta": -18.9,
       "event_name": "UFC Fight Night: Holloway vs. Kattar",
       "fight_id": "6cca1c5f93ef2de5",
       "gender": "men",
@@ -18,66 +18,30 @@
       "opponent": "Austin Lingo",
       "opponent_elo": 1482.0,
       "outcome": "blue_win",
-      "post_elo": 1462.6,
-      "pre_elo": 1480.6,
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
       "red_name": "Jacob Kilburn",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
-    },
-    {
-      "blue_name": "Jacob Kilburn",
-      "bout_type": "Featherweight Bout",
-      "date": "2019-12-07",
-      "elo_delta": -19.4,
-      "event_name": "UFC Fight Night: Overeem vs. Rozenstruik",
-      "fight_id": "7218eba87bd39962",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission",
-      "opponent": "Billy Quarantillo",
-      "opponent_elo": 1500.0,
-      "outcome": "red_win",
-      "post_elo": 1480.6,
-      "pre_elo": 1500.0,
-      "red_name": "Billy Quarantillo",
-      "round": "2.0",
-      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
-      "source_title": "",
-      "time": "3:18",
-      "weight_class": "Featherweight"
     }
   ],
-  "first_fight_date": "2019-12-07",
+  "first_fight_date": "2021-01-16",
   "gender": "men",
   "history": [
     {
-      "date": "2019-12-07",
-      "fight_id": "7218eba87bd39962",
-      "rating": 1480.6,
-      "scope": "division",
-      "system": "men:Featherweight"
-    },
-    {
-      "date": "2019-12-07",
-      "fight_id": "7218eba87bd39962",
-      "rating": 1482.7,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
       "date": "2021-01-16",
       "fight_id": "6cca1c5f93ef2de5",
-      "rating": 1462.6,
+      "rating": 1481.1,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2021-01-16",
       "fight_id": "6cca1c5f93ef2de5",
-      "rating": 1466.8,
+      "rating": 1483.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1462.6,
-  "raw_overall_elo": 1466.8,
+  "raw_current_elo": 1481.1,
+  "raw_overall_elo": 1483.3,
   "slug": "jacob-kilburn",
   "systems": {
     "division": "men:Featherweight",

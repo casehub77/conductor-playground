@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1464.3,
-  "days_since_last_fight": 126,
-  "divisional_rank": 736,
+  "current_elo": 1464.2,
+  "days_since_last_fight": 133,
+  "divisional_rank": 337,
   "fight_count": 2,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Steven Asplund",
       "opponent_elo": 1551.1,
       "outcome": "blue_win",
-      "post_elo": 1464.3,
-      "pre_elo": 1479.8,
+      "post_elo": 1464.2,
+      "pre_elo": 1479.7,
       "red_name": "Sean Sharaf",
       "round": "2.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Sean Sharaf",
       "bout_type": "Heavyweight Bout",
       "date": "2024-10-12",
-      "elo_delta": -20.2,
+      "elo_delta": -20.3,
       "event_name": "UFC Fight Night: Royval vs. Taira",
       "fight_id": "4de5d9e451324028",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Junior Tafa",
-      "opponent_elo": 1485.7,
+      "opponent_elo": 1484.4,
       "outcome": "red_win",
-      "post_elo": 1479.8,
+      "post_elo": 1479.7,
       "pre_elo": 1500.0,
       "red_name": "Junior Tafa",
       "round": "2.0",
@@ -56,21 +56,21 @@
     {
       "date": "2024-10-12",
       "fight_id": "4de5d9e451324028",
-      "rating": 1479.8,
+      "rating": 1479.7,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2024-10-12",
       "fight_id": "4de5d9e451324028",
-      "rating": 1482.1,
+      "rating": 1482.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-12-13",
       "fight_id": "1ab60667628cffdf",
-      "rating": 1464.3,
+      "rating": 1464.2,
       "scope": "division",
       "system": "men:Heavyweight"
     },
@@ -91,7 +91,7 @@
   "nickname": "",
   "overall_elo": 1467.9,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1464.3,
+  "raw_current_elo": 1464.2,
   "raw_overall_elo": 1467.9,
   "slug": "sean-sharaf",
   "systems": {
