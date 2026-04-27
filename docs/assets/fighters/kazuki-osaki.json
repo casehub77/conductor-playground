@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2435,
+  "divisional_rank": 35,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Shota Takiya",
+      "bout_type": "Strawweight 53 kg Bout",
+      "date": "2019-08-18",
+      "elo_delta": 18.8,
+      "event_name": "Rizin 18 - Nagoya",
+      "fight_id": "668abbfcaef9d4fa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Shota Takiya",
+      "opponent_elo": 1516.0,
+      "outcome": "red_win",
+      "post_elo": 1518.8,
+      "pre_elo": 1500.0,
+      "red_name": "Kazuki Osaki",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2019 in Rizin Fighting Federation",
+      "time": "9:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2019-08-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-08-18",
+      "fight_id": "668abbfcaef9d4fa",
+      "rating": 1518.8,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2019-08-18",
+      "fight_id": "668abbfcaef9d4fa",
+      "rating": 1516.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-08-18",
+  "name": "Kazuki Osaki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.8,
+  "raw_current_elo": 1518.8,
+  "raw_overall_elo": 1516.7,
+  "slug": "kazuki-osaki",
+  "systems": {
+    "division": "men:Strawweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Strawweight"
+}

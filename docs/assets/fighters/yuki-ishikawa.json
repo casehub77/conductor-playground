@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8932,
+  "divisional_rank": 1742,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yuki Ishikawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-11-03",
+      "elo_delta": -20.3,
+      "event_name": "Pride 17",
+      "fight_id": "867b376ee452dc2e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Quinton Jackson",
+      "opponent_elo": 1484.6,
+      "outcome": "red_win",
+      "post_elo": 1479.7,
+      "pre_elo": 1500.0,
+      "red_name": "Quinton Jackson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 17",
+      "time": "1:52",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-11-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-11-03",
+      "fight_id": "867b376ee452dc2e",
+      "rating": 1479.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-11-03",
+      "fight_id": "867b376ee452dc2e",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-11-03",
+  "name": "Yuki Ishikawa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.7,
+  "raw_overall_elo": 1482.0,
+  "slug": "yuki-ishikawa",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3207,
+  "divisional_rank": 536,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nick Roehrick",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2017-07-07",
+      "elo_delta": -19.0,
+      "event_name": "The Ultimate Fighter: Redemption Finale",
+      "fight_id": "bf24ac5aa350bca4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jared Cannonier",
+      "opponent_elo": 1508.4,
+      "outcome": "red_win",
+      "post_elo": 1481.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jared Cannonier",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:08",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-07-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-07-07",
+      "fight_id": "bf24ac5aa350bca4",
+      "rating": 1481.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2017-07-07",
+      "fight_id": "bf24ac5aa350bca4",
+      "rating": 1483.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-07-07",
+  "name": "Nick Roehrick",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.0,
+  "raw_overall_elo": 1483.1,
+  "slug": "nick-roehrick",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

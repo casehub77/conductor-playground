@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 10724,
+  "divisional_rank": 939,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Cal Worsham",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-12-07",
+      "elo_delta": -18.2,
+      "event_name": "UFC - Ultimate Ultimate '96",
+      "fight_id": "f425083f70c93d52",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "David Abbott",
+      "opponent_elo": 1522.4,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1501.1,
+      "red_name": "David Abbott",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:51",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Zane Frazier",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-05-17",
+      "elo_delta": 20.5,
+      "event_name": "UFC 9: Motor City Madness",
+      "fight_id": "8097faebb26f0608",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Zane Frazier",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.1,
+      "pre_elo": 1480.6,
+      "red_name": "Cal Worsham",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:14",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Cal Worsham",
+      "bout_type": "Open Weight Bout",
+      "date": "1995-07-14",
+      "elo_delta": -19.4,
+      "event_name": "UFC 6: Clash of the Titans",
+      "fight_id": "3c15bfe8032f8f6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Paul Varelans",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Paul Varelans",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:02",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1995-07-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1995-07-14",
+      "fight_id": "3c15bfe8032f8f6e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1995-07-14",
+      "fight_id": "3c15bfe8032f8f6e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1996-05-17",
+      "fight_id": "8097faebb26f0608",
+      "rating": 1501.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-05-17",
+      "fight_id": "8097faebb26f0608",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1996-12-07",
+      "fight_id": "f425083f70c93d52",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-12-07",
+      "fight_id": "f425083f70c93d52",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1996-12-07",
+  "name": "Cal Worsham",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.1,
+  "raw_current_elo": 1482.8,
+  "raw_overall_elo": 1484.5,
+  "slug": "cal-worsham",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

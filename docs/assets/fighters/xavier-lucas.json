@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6052,
+  "divisional_rank": 252,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Akihiro Yamazaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-09-22",
+      "elo_delta": 21.6,
+      "event_name": "Shooto: Revolutionary Exchanges 2",
+      "fight_id": "073b6e438af6dd1f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Akihiro Yamazaki",
+      "opponent_elo": 1591.3,
+      "outcome": "red_win",
+      "post_elo": 1542.0,
+      "pre_elo": 1520.4,
+      "red_name": "Xavier Lucas",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshitaro Niimi",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-10-26",
+      "elo_delta": 20.4,
+      "event_name": "Shooto: Gig Central 16",
+      "fight_id": "0b11bcf5c52a3c3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Yoshitaro Niimi",
+      "opponent_elo": 1547.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Xavier Lucas",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-10-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-10-26",
+      "fight_id": "0b11bcf5c52a3c3c",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-10-26",
+      "fight_id": "0b11bcf5c52a3c3c",
+      "rating": 1517.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-09-22",
+      "fight_id": "073b6e438af6dd1f",
+      "rating": 1542.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-09-22",
+      "fight_id": "073b6e438af6dd1f",
+      "rating": 1536.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-09-22",
+  "name": "Xavier Lucas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1542.0,
+  "raw_current_elo": 1542.0,
+  "raw_overall_elo": 1536.8,
+  "slug": "xavier-lucas",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

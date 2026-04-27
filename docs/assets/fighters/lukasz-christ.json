@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6182,
+  "divisional_rank": 767,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lukasz Christ",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2009-05-15",
+      "elo_delta": -18.3,
+      "event_name": "KSW 11: Khalidov vs. Acacio",
+      "fight_id": "7aa9a6104c275aff",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Arm-Triangle Choke)",
+      "opponent": "Vitor Nobrega",
+      "opponent_elo": 1501.7,
+      "outcome": "red_win",
+      "post_elo": 1462.3,
+      "pre_elo": 1480.6,
+      "red_name": "Vitor Nobrega",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Konfrontacja Sztuk Walki",
+      "time": "Middleweight Tournament Quarter-Finals 1",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Lukasz Christ",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2009-05-15",
+      "elo_delta": -19.4,
+      "event_name": "KSW 11: Khalidov vs. Acacio",
+      "fight_id": "cdea47f16ccbd57c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Aslambek Saidov",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Aslambek Saidov",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Konfrontacja Sztuk Walki",
+      "time": "Middleweight Tournament Semi-Finals 2",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-05-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-15",
+      "fight_id": "cdea47f16ccbd57c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "7aa9a6104c275aff",
+      "rating": 1462.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "cdea47f16ccbd57c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "7aa9a6104c275aff",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-15",
+  "name": "Lukasz Christ",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.3,
+  "raw_overall_elo": 1466.3,
+  "slug": "lukasz-christ",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

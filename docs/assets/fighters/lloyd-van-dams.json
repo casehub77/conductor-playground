@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8634,
+  "divisional_rank": 1378,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Lloyd Van Dams",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-08-28",
+      "elo_delta": -17.8,
+      "event_name": "Pride Shockwave Dynamite!!",
+      "fight_id": "75b75fb610c1386a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Gary Goodridge",
+      "opponent_elo": 1529.1,
+      "outcome": "red_win",
+      "post_elo": 1482.2,
+      "pre_elo": 1500.0,
+      "red_name": "Gary Goodridge",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Shockwave",
+      "time": "3:39",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-08-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-08-28",
+      "fight_id": "75b75fb610c1386a",
+      "rating": 1482.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-08-28",
+      "fight_id": "75b75fb610c1386a",
+      "rating": 1484.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-08-28",
+  "name": "Lloyd Van Dams",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.2,
+  "raw_overall_elo": 1484.6,
+  "slug": "lloyd-van-dams",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

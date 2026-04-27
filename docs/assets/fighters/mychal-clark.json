@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6161,
+  "divisional_rank": 315,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mychal Clark",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-06-05",
+      "elo_delta": -19.0,
+      "event_name": "Bellator 10",
+      "fight_id": "2c6e8f6fb01c3433",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Travis Browne",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Travis Browne",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 10",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Josh Bennett",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-02-23",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: At The Dome",
+      "fight_id": "d590e89d7fcfddc3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (swollen eye)",
+      "opponent": "Josh Bennett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mychal Clark",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: At The Dome",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-02-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-02-23",
+      "fight_id": "d590e89d7fcfddc3",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-02-23",
+      "fight_id": "d590e89d7fcfddc3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-05",
+      "fight_id": "2c6e8f6fb01c3433",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-06-05",
+      "fight_id": "2c6e8f6fb01c3433",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-05",
+  "name": "Mychal Clark",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1500.4,
+  "raw_overall_elo": 1500.5,
+  "slug": "mychal-clark",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

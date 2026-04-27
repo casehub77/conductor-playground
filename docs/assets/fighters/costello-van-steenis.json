@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1079,
-  "divisional_rank": 185,
+  "days_since_last_fight": 1072,
+  "divisional_rank": 413,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Costello van Steenis",
       "bout_type": "Middleweight Bout",
       "date": "2023-05-12",
-      "elo_delta": -21.2,
+      "elo_delta": -18.9,
       "event_name": "Bellator 296: Mousasi vs. Edwards",
       "fight_id": "f1fa2c19f1c24960",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
       "opponent": "Douglas Lima",
-      "opponent_elo": 1456.4,
+      "opponent_elo": 1502.6,
       "outcome": "red_win",
-      "post_elo": 1498.2,
+      "post_elo": 1500.6,
       "pre_elo": 1519.4,
       "red_name": "Douglas Lima",
       "round": "3",
@@ -70,14 +70,14 @@
     {
       "date": "2023-05-12",
       "fight_id": "f1fa2c19f1c24960",
-      "rating": 1498.2,
+      "rating": 1500.6,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2023-05-12",
       "fight_id": "f1fa2c19f1c24960",
-      "rating": 1498.5,
+      "rating": 1500.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1519.4,
-  "raw_current_elo": 1498.2,
-  "raw_overall_elo": 1498.5,
+  "raw_current_elo": 1500.6,
+  "raw_overall_elo": 1500.6,
   "slug": "costello-van-steenis",
   "systems": {
     "division": "men:Middleweight",

@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1722,
-  "divisional_rank": 556,
+  "days_since_last_fight": 1715,
+  "divisional_rank": 796,
   "fight_count": 2,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Johnny Munoz",
       "opponent_elo": 1484.0,
       "outcome": "red_win",
-      "post_elo": 1465.5,
-      "pre_elo": 1485.0,
+      "post_elo": 1466.2,
+      "pre_elo": 1485.7,
       "red_name": "Johnny Munoz",
       "round": "2.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Jamey Simmons",
       "bout_type": "Featherweight Bout",
       "date": "2020-11-07",
-      "elo_delta": -16.5,
+      "elo_delta": -15.7,
       "event_name": "UFC Fight Night: Santos vs. Teixeira",
       "fight_id": "0d96ba9444f6ddb3",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Giga Chikadze",
-      "opponent_elo": 1552.1,
+      "opponent_elo": 1566.9,
       "outcome": "red_win",
-      "post_elo": 1483.5,
+      "post_elo": 1484.3,
       "pre_elo": 1500.0,
       "red_name": "Giga Chikadze",
       "round": "1.0",
@@ -56,28 +56,28 @@
     {
       "date": "2020-11-07",
       "fight_id": "0d96ba9444f6ddb3",
-      "rating": 1483.5,
+      "rating": 1484.3,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2020-11-07",
       "fight_id": "0d96ba9444f6ddb3",
-      "rating": 1485.0,
+      "rating": 1485.7,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2021-08-07",
       "fight_id": "c635c131652cb536",
-      "rating": 1465.5,
+      "rating": 1466.2,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2021-08-07",
       "fight_id": "c635c131652cb536",
-      "rating": 1467.7,
+      "rating": 1468.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1465.5,
-  "raw_overall_elo": 1467.7,
+  "raw_current_elo": 1466.2,
+  "raw_overall_elo": 1468.3,
   "slug": "jamey-simmons",
   "systems": {
     "division": "men:Bantamweight",

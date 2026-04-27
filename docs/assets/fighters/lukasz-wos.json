@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6336,
+  "divisional_rank": 511,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Lukasz Wos",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2008-12-12",
+      "elo_delta": -18.1,
+      "event_name": "KSW 10: Dekalog",
+      "fight_id": "0a54f26b1e89b85a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Aleksandar Radosavljevic",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1464.7,
+      "pre_elo": 1482.8,
+      "red_name": "Aleksandar Radosavljevic",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 1",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Lukasz Wos",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2007-11-10",
+      "elo_delta": -17.2,
+      "event_name": "KSW VIII: Konfrontacja",
+      "fight_id": "0c5afe81b0ee7f62",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Alexey Oleinik",
+      "opponent_elo": 1539.8,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Alexey Oleinik",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2007 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 4",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-11-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-11-10",
+      "fight_id": "0c5afe81b0ee7f62",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-11-10",
+      "fight_id": "0c5afe81b0ee7f62",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "0a54f26b1e89b85a",
+      "rating": 1464.7,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-12-12",
+      "fight_id": "0a54f26b1e89b85a",
+      "rating": 1468.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-12",
+  "name": "Lukasz Wos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1464.7,
+  "raw_overall_elo": 1468.4,
+  "slug": "lukasz-wos",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

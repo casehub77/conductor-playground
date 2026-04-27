@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6265,
+  "divisional_rank": 863,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Brian Cobb",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-02-21",
+      "elo_delta": -19.3,
+      "event_name": "UFC 95: Sanchez vs Stevenson",
+      "fight_id": "851f7ab61ed16caa",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Terry Etim",
+      "opponent_elo": 1501.6,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Terry Etim",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:10",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-02-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-02-21",
+      "fight_id": "851f7ab61ed16caa",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-02-21",
+      "fight_id": "851f7ab61ed16caa",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-02-21",
+  "name": "Brian Cobb",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.7,
+  "raw_overall_elo": 1482.8,
+  "slug": "brian-cobb",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

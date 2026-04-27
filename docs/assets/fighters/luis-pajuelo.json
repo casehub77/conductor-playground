@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
-  "current_elo": 1496.6,
-  "days_since_last_fight": 763,
-  "divisional_rank": 605,
+  "current_elo": 1496.0,
+  "days_since_last_fight": 756,
+  "divisional_rank": 997,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Luis Pajuelo",
       "bout_type": "Featherweight Bout",
       "date": "2024-03-23",
-      "elo_delta": -18.4,
+      "elo_delta": -18.5,
       "event_name": "UFC Fight Night: Ribas vs. Namajunas",
       "fight_id": "67b87f65264454c3",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Fernando Padilla",
-      "opponent_elo": 1519.2,
+      "opponent_elo": 1517.6,
       "outcome": "red_win",
-      "post_elo": 1481.6,
+      "post_elo": 1481.5,
       "pre_elo": 1500.0,
       "red_name": "Fernando Padilla",
       "round": "1.0",
@@ -34,14 +34,14 @@
     {
       "date": "2024-03-23",
       "fight_id": "67b87f65264454c3",
-      "rating": 1481.6,
+      "rating": 1481.5,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2024-03-23",
       "fight_id": "67b87f65264454c3",
-      "rating": 1483.5,
+      "rating": 1483.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -53,10 +53,10 @@
   "last_fight_date": "2024-03-23",
   "name": "Luis Pajuelo",
   "nickname": "",
-  "overall_elo": 1498.5,
+  "overall_elo": 1497.9,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1481.6,
-  "raw_overall_elo": 1483.5,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.4,
   "slug": "luis-pajuelo",
   "systems": {
     "division": "men:Featherweight",

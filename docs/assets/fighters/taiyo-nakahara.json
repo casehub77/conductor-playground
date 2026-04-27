@@ -1,17 +1,83 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1941,
-  "divisional_rank": null,
-  "fight_count": 1,
-  "fight_log": [],
-  "first_fight_date": "2020-12-31",
+  "days_since_last_fight": 1934,
+  "divisional_rank": 717,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Taiyo Nakahara",
+      "bout_type": "Catchweight 63 kg Bout",
+      "date": "2020-12-31",
+      "elo_delta": -20.5,
+      "event_name": "Rizin 26 – Saitama",
+      "fight_id": "a8ba00e9007f8878",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Soccer Kicks)",
+      "opponent": "Kazuma Kuramoto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1498.0,
+      "pre_elo": 1518.5,
+      "red_name": "Kazuma Kuramoto",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2020 in Rizin Fighting Federation",
+      "time": "2:12",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Jin Kazeta",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-09-26",
+      "elo_delta": 18.5,
+      "event_name": "Shooto: 9/26 in Kourakuen Hall",
+      "fight_id": "5710ecba54245510",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Jin Kazeta",
+      "opponent_elo": 1509.9,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Taiyo Nakahara",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-09-26",
   "gender": "men",
   "history": [
     {
+      "date": "2004-09-26",
+      "fight_id": "5710ecba54245510",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-09-26",
+      "fight_id": "5710ecba54245510",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2020-12-31",
       "fight_id": "a8ba00e9007f8878",
-      "rating": 1482.7,
+      "rating": 1498.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2020-12-31",
+      "fight_id": "a8ba00e9007f8878",
+      "rating": 1498.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -24,13 +90,13 @@
   "name": "Taiyo Nakahara",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1500.0,
-  "raw_current_elo": 1482.7,
-  "raw_overall_elo": 1482.7,
+  "peak_elo": 1518.5,
+  "raw_current_elo": 1498.0,
+  "raw_overall_elo": 1498.3,
   "slug": "taiyo-nakahara",
   "systems": {
-    "division": "men:Catch Weight",
+    "division": "men:Open Weight",
     "overall": "men:overall"
   },
-  "weight_class": "Catch Weight"
+  "weight_class": "Open Weight"
 }

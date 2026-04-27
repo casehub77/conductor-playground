@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5250,
+  "divisional_rank": 874,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Stephen Bass",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-12-03",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: Team Bisping vs Team Miller Finale",
+      "fight_id": "96f46b7c7abe8ae5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Marcus Brimage",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Marcus Brimage",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-12-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-12-03",
+      "fight_id": "96f46b7c7abe8ae5",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-12-03",
+      "fight_id": "96f46b7c7abe8ae5",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-12-03",
+  "name": "Stephen Bass",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "stephen-bass",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
   "current_elo": 1443.1,
-  "days_since_last_fight": 343,
-  "divisional_rank": 814,
+  "days_since_last_fight": 336,
+  "divisional_rank": 1194,
   "fight_count": 3,
   "fight_log": [
     {
@@ -41,7 +41,7 @@
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
       "post_elo": 1460.3,
-      "pre_elo": 1478.5,
+      "pre_elo": 1478.6,
       "red_name": "Connor Matthews",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -53,16 +53,16 @@
       "blue_name": "Connor Matthews",
       "bout_type": "Featherweight Bout",
       "date": "2024-03-30",
-      "elo_delta": -21.5,
+      "elo_delta": -21.4,
       "event_name": "UFC Fight Night: Blanchfield vs. Fiorot",
       "fight_id": "714d4a59744faefc",
       "gender": "men",
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Dennis Buzukja",
-      "opponent_elo": 1463.7,
+      "opponent_elo": 1464.2,
       "outcome": "red_win",
-      "post_elo": 1478.5,
+      "post_elo": 1478.6,
       "pre_elo": 1500.0,
       "red_name": "Dennis Buzukja",
       "round": "3.0",
@@ -78,7 +78,7 @@
     {
       "date": "2024-03-30",
       "fight_id": "714d4a59744faefc",
-      "rating": 1478.5,
+      "rating": 1478.6,
       "scope": "division",
       "system": "men:Featherweight"
     },
@@ -113,7 +113,7 @@
     {
       "date": "2025-05-17",
       "fight_id": "8ca4cda5dccef37c",
-      "rating": 1449.2,
+      "rating": 1449.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2025-05-17",
   "name": "Connor Matthews",
   "nickname": "",
-  "overall_elo": 1449.2,
+  "overall_elo": 1449.3,
   "peak_elo": 1500.0,
   "raw_current_elo": 1443.1,
-  "raw_overall_elo": 1449.2,
+  "raw_overall_elo": 1449.3,
   "slug": "connor-matthews",
   "systems": {
     "division": "men:Featherweight",

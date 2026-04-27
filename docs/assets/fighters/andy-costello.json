@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8203,
+  "divisional_rank": 528,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Steve Mathews",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-11-02",
+      "elo_delta": 19.4,
+      "event_name": "CWFC 5: Cage Warriors 5",
+      "fight_id": "dea7b892bc181d97",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to punches)",
+      "opponent": "Steve Mathews",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Andy Costello",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Cage Warriors",
+      "time": "0:35",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-11-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-11-02",
+      "fight_id": "dea7b892bc181d97",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-11-02",
+      "fight_id": "dea7b892bc181d97",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-11-02",
+  "name": "Andy Costello",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "andy-costello",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

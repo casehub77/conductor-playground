@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 10416,
+  "divisional_rank": 965,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nathan Jones",
+      "bout_type": "Open Weight Bout",
+      "date": "1997-10-11",
+      "elo_delta": 20.5,
+      "event_name": "Pride 1",
+      "fight_id": "1ca9b83f45fe2f82",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (keylock)",
+      "opponent": "Nathan Jones",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.0,
+      "pre_elo": 1480.5,
+      "red_name": "Koji Kitao",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 1",
+      "time": "2:14",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Koji Kitao",
+      "bout_type": "Open Weight Bout",
+      "date": "1996-05-17",
+      "elo_delta": -19.5,
+      "event_name": "UFC 9: Motor City Madness",
+      "fight_id": "dfecf60a74617288",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Mark Hall",
+      "opponent_elo": 1498.8,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Hall",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:47",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1996-05-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1996-05-17",
+      "fight_id": "dfecf60a74617288",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1996-05-17",
+      "fight_id": "dfecf60a74617288",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1997-10-11",
+      "fight_id": "1ca9b83f45fe2f82",
+      "rating": 1501.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1997-10-11",
+      "fight_id": "1ca9b83f45fe2f82",
+      "rating": 1500.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1997-10-11",
+  "name": "Koji Kitao",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.0,
+  "raw_current_elo": 1501.0,
+  "raw_overall_elo": 1500.8,
+  "slug": "koji-kitao",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

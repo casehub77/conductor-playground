@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5970,
+  "divisional_rank": 491,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Takashi Goto",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-12-13",
+      "elo_delta": -19.6,
+      "event_name": "Shooto: The Rookie Tournament 2009 Final",
+      "fight_id": "52633a55c55bc215",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Takahiro Suzuki",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1500.8,
+      "pre_elo": 1520.4,
+      "red_name": "Takahiro Suzuki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
+      "time": "3:52",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yasushi Kato",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-10-04",
+      "elo_delta": 20.4,
+      "event_name": "Shooto: Border: Season 1: Clash",
+      "fight_id": "469973c17adc2d41",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Yasushi Kato",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Takashi Goto",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
+      "time": "4:56",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Takashi Goto",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-03-25",
+      "elo_delta": 0.0,
+      "event_name": "Shooto: Gig Central 12",
+      "fight_id": "a873e37792d3096d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Makoto Maeda",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Makoto Maeda",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2007-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-03-25",
+      "fight_id": "a873e37792d3096d",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-03-25",
+      "fight_id": "a873e37792d3096d",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-10-04",
+      "fight_id": "469973c17adc2d41",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-10-04",
+      "fight_id": "469973c17adc2d41",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-12-13",
+      "fight_id": "52633a55c55bc215",
+      "rating": 1500.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-12-13",
+      "fight_id": "52633a55c55bc215",
+      "rating": 1500.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-12-13",
+  "name": "Takashi Goto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "raw_current_elo": 1500.8,
+  "raw_overall_elo": 1500.7,
+  "slug": "takashi-goto",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

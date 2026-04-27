@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2352,
+  "divisional_rank": 450,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Darwin Rodriguez",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2019-11-09",
+      "elo_delta": -19.4,
+      "event_name": "KSW 51: Croatia",
+      "fight_id": "e6c9f37003b9a4b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Ivan Erslan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Ivan Erslan",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2019 in Konfrontacja Sztuk Walki",
+      "time": "1:29",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2019-11-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-11-09",
+      "fight_id": "e6c9f37003b9a4b2",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2019-11-09",
+      "fight_id": "e6c9f37003b9a4b2",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-11-09",
+  "name": "Darwin Rodriguez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "darwin-rodriguez",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 10263,
+  "divisional_rank": 471,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Igor Zinoviev",
+      "bout_type": "UFC Light Heavyweight Title Bout",
+      "date": "1998-03-13",
+      "elo_delta": -19.9,
+      "event_name": "UFC 16: Battle in the Bayou",
+      "fight_id": "29ea984dbf2815ad",
+      "gender": "men",
+      "is_title": true,
+      "method": "KO/TKO",
+      "opponent": "Frank Shamrock",
+      "opponent_elo": 1523.5,
+      "outcome": "red_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Frank Shamrock",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:22",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "1998-03-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1998-03-13",
+      "fight_id": "29ea984dbf2815ad",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "1998-03-13",
+      "fight_id": "29ea984dbf2815ad",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1998-03-13",
+  "name": "Igor Zinoviev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.1,
+  "raw_overall_elo": 1482.1,
+  "slug": "igor-zinoviev",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

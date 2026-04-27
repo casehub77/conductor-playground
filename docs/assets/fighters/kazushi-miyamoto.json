@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1861,
-  "divisional_rank": 212,
+  "days_since_last_fight": 1854,
+  "divisional_rank": 528,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Kazushi Miyamoto",
       "bout_type": "Heavyweight 120 kg Bout",
       "date": "2021-03-21",
-      "elo_delta": -18.4,
+      "elo_delta": -18.1,
       "event_name": "Rizin 27 – Nagoya",
       "fight_id": "21a2f9a87679661d",
       "gender": "men",
       "is_title": false,
       "method": "KO (Punches)",
       "opponent": "Tsuyoshi Sudario",
-      "opponent_elo": 1519.4,
+      "opponent_elo": 1524.8,
       "outcome": "red_win",
-      "post_elo": 1481.6,
+      "post_elo": 1481.9,
       "pre_elo": 1500.0,
       "red_name": "Tsuyoshi Sudario",
       "round": "1",
@@ -34,14 +34,14 @@
     {
       "date": "2021-03-21",
       "fight_id": "21a2f9a87679661d",
-      "rating": 1481.6,
+      "rating": 1481.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2021-03-21",
       "fight_id": "21a2f9a87679661d",
-      "rating": 1483.6,
+      "rating": 1483.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1481.6,
-  "raw_overall_elo": 1483.6,
+  "raw_current_elo": 1481.9,
+  "raw_overall_elo": 1483.7,
   "slug": "kazushi-miyamoto",
   "systems": {
     "division": "men:Heavyweight",

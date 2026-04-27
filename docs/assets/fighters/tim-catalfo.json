@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8819,
+  "divisional_rank": 1652,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tim Catalfo",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-02-24",
+      "elo_delta": -18.4,
+      "event_name": "Pride 19",
+      "fight_id": "a6732b8f992ccf48",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Tom Erikson",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Tom Erikson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 19",
+      "time": "2:35",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-02-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-02-24",
+      "fight_id": "a6732b8f992ccf48",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-02-24",
+      "fight_id": "a6732b8f992ccf48",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-02-24",
+  "name": "Tim Catalfo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.6,
+  "slug": "tim-catalfo",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

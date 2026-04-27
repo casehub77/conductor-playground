@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6594,
+  "divisional_rank": 1540,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Rinaldo Santos",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-03-29",
+      "elo_delta": -19.4,
+      "event_name": "Cage Warriors: USA Battle Royale",
+      "fight_id": "592840b78876b9ca",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Joe Robinson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Joe Robinson",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-03-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-29",
+      "fight_id": "592840b78876b9ca",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-03-29",
+      "fight_id": "592840b78876b9ca",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-03-29",
+  "name": "Rinaldo Santos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "rinaldo-santos",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

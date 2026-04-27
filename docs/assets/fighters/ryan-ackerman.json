@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8331,
+  "divisional_rank": 651,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Ackerman",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-06-27",
+      "elo_delta": -20.5,
+      "event_name": "Shooto 2003: 6/27 in Hiroshima Sun Plaza",
+      "fight_id": "98dc5a876879316f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Heel Hook)",
+      "opponent": "Rumina Sato",
+      "opponent_elo": 1500.8,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1519.4,
+      "red_name": "Rumina Sato",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Shooto",
+      "time": "2:12",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Rob Cole",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-10-04",
+      "elo_delta": 19.4,
+      "event_name": "WEC 2: Clash of the Titans",
+      "fight_id": "fc19af72ff63b9db",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (retirement)",
+      "opponent": "Rob Cole",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ryan Ackerman",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-10-04",
+      "fight_id": "fc19af72ff63b9db",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-10-04",
+      "fight_id": "fc19af72ff63b9db",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-06-27",
+      "fight_id": "98dc5a876879316f",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-06-27",
+      "fight_id": "98dc5a876879316f",
+      "rating": 1497.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-06-27",
+  "name": "Ryan Ackerman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1499.0,
+  "raw_overall_elo": 1497.8,
+  "slug": "ryan-ackerman",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

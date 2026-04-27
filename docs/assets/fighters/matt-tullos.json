@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3599,
+  "divisional_rank": 817,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Matt Tullos",
+      "bout_type": "Featherweight Bout",
+      "date": "2016-06-10",
+      "elo_delta": -17.8,
+      "event_name": "CES MMA 36",
+      "fight_id": "bcdd7810c95adb74",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Merab Dvalishvili",
+      "opponent_elo": 1504.7,
+      "outcome": "red_win",
+      "post_elo": 1482.2,
+      "pre_elo": 1500.0,
+      "red_name": "Merab Dvalishvili",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Merab Dvalishvili",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2016-06-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-06-10",
+      "fight_id": "bcdd7810c95adb74",
+      "rating": 1482.2,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-06-10",
+      "fight_id": "bcdd7810c95adb74",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-06-10",
+  "name": "Matt Tullos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.2,
+  "raw_overall_elo": 1484.1,
+  "slug": "matt-tullos",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

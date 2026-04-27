@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5722,
+  "divisional_rank": 396,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Bryan Caraway",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-08-18",
+      "elo_delta": 17.0,
+      "event_name": "WEC 50: Cruz vs. Benavidez 2",
+      "fight_id": "d7f4125b5cc7f8a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (28–29, 29–28, 29–28)",
+      "opponent": "Bryan Caraway",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1535.3,
+      "pre_elo": 1518.4,
+      "red_name": "Fredson Paixão",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 50",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Courtney Buck",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-03-06",
+      "elo_delta": 18.4,
+      "event_name": "WEC 47: Bowles vs. Cruz",
+      "fight_id": "c6e6b5876438eea9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (rear-naked choke)",
+      "opponent": "Courtney Buck",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Fredson Paixão",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 47",
+      "time": "2:49",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Cole Province",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-08-09",
+      "elo_delta": 0.0,
+      "event_name": "WEC 42: Torres vs. Bowles",
+      "fight_id": "f5bb6222b15ffcd7",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest (overturned)",
+      "opponent": "Cole Province",
+      "opponent_elo": 1482.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Fredson Paixão",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 42",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-08-09",
+      "fight_id": "f5bb6222b15ffcd7",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-08-09",
+      "fight_id": "f5bb6222b15ffcd7",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-03-06",
+      "fight_id": "c6e6b5876438eea9",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-03-06",
+      "fight_id": "c6e6b5876438eea9",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-18",
+      "fight_id": "d7f4125b5cc7f8a7",
+      "rating": 1535.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-08-18",
+      "fight_id": "d7f4125b5cc7f8a7",
+      "rating": 1531.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-18",
+  "name": "Fredson Paixão",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.3,
+  "raw_current_elo": 1535.3,
+  "raw_overall_elo": 1531.6,
+  "slug": "fredson-paixao",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

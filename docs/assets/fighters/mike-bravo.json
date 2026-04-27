@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4844,
+  "divisional_rank": 1080,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mike Bravo",
+      "bout_type": "Lightweight Bout",
+      "date": "2013-01-12",
+      "elo_delta": -18.2,
+      "event_name": "Strikeforce: Marquardt vs. Saffiedine",
+      "fight_id": "8cc6dbe169222c3f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Estevan Payan",
+      "opponent_elo": 1522.8,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Estevan Payan",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Marquardt vs. Saffiedine",
+      "time": "4:01",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2013-01-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-01-12",
+      "fight_id": "8cc6dbe169222c3f",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2013-01-12",
+      "fight_id": "8cc6dbe169222c3f",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-01-12",
+  "name": "Mike Bravo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.8,
+  "raw_overall_elo": 1483.9,
+  "slug": "mike-bravo",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

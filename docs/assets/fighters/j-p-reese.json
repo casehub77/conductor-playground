@@ -1,0 +1,73 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5327,
+  "divisional_rank": 471,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Martin Brown",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-09-17",
+      "elo_delta": 17.1,
+      "event_name": "Bellator 50",
+      "fight_id": "3639ebe23668cf9e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (30-27, 30-27, 30-27)",
+      "opponent": "Martin Brown",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1534.4,
+      "pre_elo": 1517.3,
+      "red_name": "J.P. Reese",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 50",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-10-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-10-28",
+      "fight_id": "a4dfd5b78dd3d9a7",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "3639ebe23668cf9e",
+      "rating": 1534.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-09-17",
+      "fight_id": "3639ebe23668cf9e",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-17",
+  "name": "J.P. Reese",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1534.4,
+  "raw_current_elo": 1534.4,
+  "raw_overall_elo": 1532.5,
+  "slug": "j-p-reese",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

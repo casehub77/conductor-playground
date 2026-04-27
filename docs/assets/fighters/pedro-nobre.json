@@ -1,13 +1,79 @@
 {
   "activity_status": "active",
-  "current_elo": 1487.1,
-  "days_since_last_fight": 225,
-  "divisional_rank": null,
-  "fight_count": 1,
-  "fight_log": [],
-  "first_fight_date": "2025-09-12",
+  "current_elo": 1485.4,
+  "days_since_last_fight": 218,
+  "divisional_rank": 878,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Pedro Nobre",
+      "bout_type": "Catchweight (140 lb) Bout",
+      "date": "2025-09-12",
+      "elo_delta": -14.6,
+      "event_name": "LFA 217: McKee vs. Nobre",
+      "fight_id": "5f1c4d83bb65e5a7",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Mitchell McKee",
+      "opponent_elo": 1588.0,
+      "outcome": "red_win",
+      "post_elo": 1485.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mitchell McKee",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2025 in Legacy Fighting Alliance",
+      "time": "3:02",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Pedro Nobre",
+      "bout_type": "Bantamweight Bout",
+      "date": "2013-01-19",
+      "elo_delta": 0.0,
+      "event_name": "UFC on FX: Belfort vs Bisping",
+      "fight_id": "068d91f107545c11",
+      "gender": "men",
+      "is_title": false,
+      "method": "Could Not Continue",
+      "opponent": "Iuri Alcantara",
+      "opponent_elo": 1513.3,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Iuri Alcantara",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:11",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2013-01-19",
   "gender": "men",
   "history": [
+    {
+      "date": "2013-01-19",
+      "fight_id": "068d91f107545c11",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2013-01-19",
+      "fight_id": "068d91f107545c11",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2025-09-12",
+      "fight_id": "5f1c4d83bb65e5a7",
+      "rating": 1485.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
     {
       "date": "2025-09-12",
       "fight_id": "5f1c4d83bb65e5a7",
@@ -25,12 +91,12 @@
   "nickname": "",
   "overall_elo": 1487.1,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1487.1,
+  "raw_current_elo": 1485.4,
   "raw_overall_elo": 1487.1,
   "slug": "pedro-nobre",
   "systems": {
-    "division": "men:Catch Weight",
+    "division": "men:Bantamweight",
     "overall": "men:overall"
   },
-  "weight_class": "Catch Weight"
+  "weight_class": "Bantamweight"
 }

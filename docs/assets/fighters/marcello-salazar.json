@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7154,
+  "divisional_rank": 1388,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paul Jenkins",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-09-16",
+      "elo_delta": -2.7,
+      "event_name": "CWFC: Showdown",
+      "fight_id": "248e8f33a4f61b21",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (Majority)",
+      "opponent": "Paul Jenkins",
+      "opponent_elo": 1430.4,
+      "outcome": "draw",
+      "post_elo": 1480.9,
+      "pre_elo": 1483.7,
+      "red_name": "Marcello Salazar",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Marcello Salazar",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-03-25",
+      "elo_delta": -16.3,
+      "event_name": "CWFC: Strike Force 5",
+      "fight_id": "e303b62f0560c41a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Alex Cook",
+      "opponent_elo": 1555.8,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Alex Cook",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "3:02",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-03-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-25",
+      "fight_id": "e303b62f0560c41a",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-03-25",
+      "fight_id": "e303b62f0560c41a",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-09-16",
+      "fight_id": "248e8f33a4f61b21",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-09-16",
+      "fight_id": "248e8f33a4f61b21",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-09-16",
+  "name": "Marcello Salazar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.9,
+  "raw_overall_elo": 1483.0,
+  "slug": "marcello-salazar",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

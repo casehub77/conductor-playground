@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5847,
+  "divisional_rank": 815,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Sturdy",
+      "bout_type": "Middleweight Bout",
+      "date": "2010-04-15",
+      "elo_delta": -20.5,
+      "event_name": "Bellator 14",
+      "fight_id": "978dadd74aef95fc",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Louis Taylor",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Louis Taylor",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 14",
+      "time": "1:08",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2010-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-15",
+      "fight_id": "978dadd74aef95fc",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-04-15",
+      "fight_id": "978dadd74aef95fc",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-15",
+  "name": "Ryan Sturdy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.5,
+  "raw_overall_elo": 1481.9,
+  "slug": "ryan-sturdy",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

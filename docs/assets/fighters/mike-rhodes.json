@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4137,
+  "divisional_rank": 897,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mike Rhodes",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-12-20",
+      "elo_delta": -16.6,
+      "event_name": "UFC Fight Night: Machida vs Dollaway",
+      "fight_id": "dd89f78879c2ad91",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Erick Silva",
+      "opponent_elo": 1516.1,
+      "outcome": "red_win",
+      "post_elo": 1448.4,
+      "pre_elo": 1465.0,
+      "red_name": "Erick Silva",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:15",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mike Rhodes",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-06-28",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Te Huna vs Marquardt",
+      "fight_id": "6068ff51f9287f6a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Robert Whittaker",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1465.0,
+      "pre_elo": 1482.0,
+      "red_name": "Robert Whittaker",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mike Rhodes",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-01-25",
+      "elo_delta": -18.0,
+      "event_name": "UFC on FOX: Henderson vs Thomson",
+      "fight_id": "63a9514f58e6e844",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "George Sullivan",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "George Sullivan",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2014-01-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-01-25",
+      "fight_id": "63a9514f58e6e844",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-01-25",
+      "fight_id": "63a9514f58e6e844",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-06-28",
+      "fight_id": "6068ff51f9287f6a",
+      "rating": 1465.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-06-28",
+      "fight_id": "6068ff51f9287f6a",
+      "rating": 1468.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-20",
+      "fight_id": "dd89f78879c2ad91",
+      "rating": 1448.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-12-20",
+      "fight_id": "dd89f78879c2ad91",
+      "rating": 1453.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-12-20",
+  "name": "Mike Rhodes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1448.4,
+  "raw_overall_elo": 1453.7,
+  "slug": "mike-rhodes",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

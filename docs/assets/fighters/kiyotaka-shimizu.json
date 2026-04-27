@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5278,
+  "divisional_rank": 857,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kiyotaka Shimizu",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-11-05",
+      "elo_delta": -16.2,
+      "event_name": "Shooto: Shooto the Shoot 2011",
+      "fight_id": "775d0789effa9c6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Shinichi Kojima",
+      "opponent_elo": 1548.8,
+      "outcome": "red_win",
+      "post_elo": 1497.4,
+      "pre_elo": 1513.5,
+      "red_name": "Shinichi Kojima",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Junya Kodo",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-04-01",
+      "elo_delta": 23.3,
+      "event_name": "Shooto: Shootor's Legacy 2",
+      "fight_id": "b1ee0b4cc7c23b33",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Junya Kodo",
+      "opponent_elo": 1559.4,
+      "outcome": "red_win",
+      "post_elo": 1513.5,
+      "pre_elo": 1490.3,
+      "red_name": "Kiyotaka Shimizu",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "3:16",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Kiyotaka Shimizu",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-11-23",
+      "elo_delta": -9.7,
+      "event_name": "Shooto: Revolutionary Exchanges 3",
+      "fight_id": "d6ea94734fc544ac",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Mamoru Yamaguchi",
+      "opponent_elo": 1672.9,
+      "outcome": "red_win",
+      "post_elo": 1490.3,
+      "pre_elo": 1500.0,
+      "red_name": "Mamoru Yamaguchi",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2009-11-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-11-23",
+      "fight_id": "d6ea94734fc544ac",
+      "rating": 1490.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-11-23",
+      "fight_id": "d6ea94734fc544ac",
+      "rating": 1489.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-01",
+      "fight_id": "b1ee0b4cc7c23b33",
+      "rating": 1513.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-04-01",
+      "fight_id": "b1ee0b4cc7c23b33",
+      "rating": 1509.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-05",
+      "fight_id": "775d0789effa9c6e",
+      "rating": 1497.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-11-05",
+      "fight_id": "775d0789effa9c6e",
+      "rating": 1497.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-05",
+  "name": "Kiyotaka Shimizu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1513.5,
+  "raw_current_elo": 1497.4,
+  "raw_overall_elo": 1497.0,
+  "slug": "kiyotaka-shimizu",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

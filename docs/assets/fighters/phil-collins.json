@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7288,
+  "divisional_rank": 799,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Phil Collins",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-05-05",
+      "elo_delta": -16.7,
+      "event_name": "WEC 20: Cinco de Mayhem",
+      "fight_id": "71844b65e7f3c8cf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Kenny Ento",
+      "opponent_elo": 1549.5,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 20",
+      "time": "1:07",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-05-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-05-05",
+      "fight_id": "71844b65e7f3c8cf",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "71844b65e7f3c8cf",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-05-05",
+  "name": "Phil Collins",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.3,
+  "raw_overall_elo": 1485.1,
+  "slug": "phil-collins",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

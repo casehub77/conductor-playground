@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6187,
+  "divisional_rank": 1706,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Won Bun Chu",
+      "bout_type": "Open Weight Bout",
+      "date": "2009-05-10",
+      "elo_delta": -13.7,
+      "event_name": "Shooto: Shooto Tradition Final",
+      "fight_id": "5dc7298a14dcd6bf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Keylock)",
+      "opponent": "Megumi Fujii",
+      "opponent_elo": 1606.7,
+      "outcome": "red_win",
+      "post_elo": 1486.3,
+      "pre_elo": 1500.0,
+      "red_name": "Megumi Fujii",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2009 in Shooto",
+      "time": "0:52",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2009-05-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-10",
+      "fight_id": "5dc7298a14dcd6bf",
+      "rating": 1486.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2009-05-10",
+      "fight_id": "5dc7298a14dcd6bf",
+      "rating": 1487.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-10",
+  "name": "Won Bun Chu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1486.3,
+  "raw_overall_elo": 1487.4,
+  "slug": "won-bun-chu",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

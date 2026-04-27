@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1447.6,
-  "days_since_last_fight": 57,
-  "divisional_rank": 840,
+  "current_elo": 1447.9,
+  "days_since_last_fight": 50,
+  "divisional_rank": 1487,
   "fight_count": 3,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Luis Gomez",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1447.6,
-      "pre_elo": 1465.1,
+      "post_elo": 1447.9,
+      "pre_elo": 1465.4,
       "red_name": "Luis Gomez",
       "round": "1",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Kohl Laren",
       "bout_type": "Lightweight Bout",
       "date": "2025-05-09",
-      "elo_delta": -16.9,
+      "elo_delta": -16.6,
       "event_name": "LFA 208: Mecate vs. Reyes",
       "fight_id": "7653eaf14eee5a83",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 29–28, 29–28)",
       "opponent": "BeyNoah",
-      "opponent_elo": 1503.5,
+      "opponent_elo": 1508.8,
       "outcome": "red_win",
-      "post_elo": 1465.1,
+      "post_elo": 1465.4,
       "pre_elo": 1482.0,
       "red_name": "BeyNoah",
       "round": "3",
@@ -92,28 +92,28 @@
     {
       "date": "2025-05-09",
       "fight_id": "7653eaf14eee5a83",
-      "rating": 1465.1,
+      "rating": 1465.4,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2025-05-09",
       "fight_id": "7653eaf14eee5a83",
-      "rating": 1468.2,
+      "rating": 1468.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2026-02-27",
       "fight_id": "2f2e5f620f5bcf2b",
-      "rating": 1447.6,
+      "rating": 1447.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-02-27",
       "fight_id": "2f2e5f620f5bcf2b",
-      "rating": 1452.5,
+      "rating": 1452.7,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2026-02-27",
   "name": "Kohl Laren",
   "nickname": "",
-  "overall_elo": 1452.5,
+  "overall_elo": 1452.7,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1447.6,
-  "raw_overall_elo": 1452.5,
+  "raw_current_elo": 1447.9,
+  "raw_overall_elo": 1452.7,
   "slug": "kohl-laren",
   "systems": {
     "division": "men:Lightweight",

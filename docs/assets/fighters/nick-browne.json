@@ -1,15 +1,15 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1121,
-  "divisional_rank": 256,
+  "days_since_last_fight": 1114,
+  "divisional_rank": 382,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Nick Browne",
       "bout_type": "Lightweight Bout",
       "date": "2023-03-31",
-      "elo_delta": -20.2,
+      "elo_delta": -20.3,
       "event_name": "Bellator 293: Golm vs. James",
       "fight_id": "b7369c6340c70b51",
       "gender": "men",
@@ -18,8 +18,8 @@
       "opponent": "Mike Hamel",
       "opponent_elo": 1518.9,
       "outcome": "red_win",
-      "post_elo": 1512.9,
-      "pre_elo": 1533.1,
+      "post_elo": 1513.3,
+      "pre_elo": 1533.5,
       "red_name": "Mike Hamel",
       "round": "1",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Nick Browne",
       "bout_type": "Lightweight Bout",
       "date": "2022-10-01",
-      "elo_delta": -20.9,
+      "elo_delta": -20.5,
       "event_name": "Bellator 286: Pitbull vs. Borics",
       "fight_id": "df1bfd1cc6f8f382",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
       "opponent": "Islam Mamedov",
-      "opponent_elo": 1498.1,
+      "opponent_elo": 1506.3,
       "outcome": "red_win",
-      "post_elo": 1533.1,
+      "post_elo": 1533.5,
       "pre_elo": 1554.0,
       "red_name": "Islam Mamedov",
       "round": "3",
@@ -164,28 +164,28 @@
     {
       "date": "2022-10-01",
       "fight_id": "df1bfd1cc6f8f382",
-      "rating": 1533.1,
+      "rating": 1533.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2022-10-01",
       "fight_id": "df1bfd1cc6f8f382",
-      "rating": 1530.0,
+      "rating": 1530.3,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2023-03-31",
       "fight_id": "b7369c6340c70b51",
-      "rating": 1512.9,
+      "rating": 1513.3,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2023-03-31",
       "fight_id": "b7369c6340c70b51",
-      "rating": 1512.0,
+      "rating": 1512.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -199,8 +199,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1554.0,
-  "raw_current_elo": 1512.9,
-  "raw_overall_elo": 1512.0,
+  "raw_current_elo": 1513.3,
+  "raw_overall_elo": 1512.4,
   "slug": "nick-browne",
   "systems": {
     "division": "men:Lightweight",

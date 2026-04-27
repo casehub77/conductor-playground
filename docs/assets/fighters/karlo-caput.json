@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 2065,
-  "divisional_rank": 511,
+  "days_since_last_fight": 2058,
+  "divisional_rank": 1012,
   "fight_count": 1,
   "fight_log": [
     {
       "blue_name": "Karlo Caput",
       "bout_type": "Lightweight 70 kg Bout",
       "date": "2020-08-29",
-      "elo_delta": -19.4,
+      "elo_delta": -16.0,
       "event_name": "KSW 54: Gamrot vs. Ziółkowski",
       "fight_id": "4b88d6f50d1155f9",
       "gender": "men",
       "is_title": false,
       "method": "TKO (Punches)",
       "opponent": "Maciej Kazieczko",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1562.9,
       "outcome": "red_win",
-      "post_elo": 1480.6,
+      "post_elo": 1484.0,
       "pre_elo": 1500.0,
       "red_name": "Maciej Kazieczko",
       "round": "3",
@@ -34,14 +34,14 @@
     {
       "date": "2020-08-29",
       "fight_id": "4b88d6f50d1155f9",
-      "rating": 1480.6,
+      "rating": 1484.0,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2020-08-29",
       "fight_id": "4b88d6f50d1155f9",
-      "rating": 1482.7,
+      "rating": 1485.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -55,8 +55,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1480.6,
-  "raw_overall_elo": 1482.7,
+  "raw_current_elo": 1484.0,
+  "raw_overall_elo": 1485.5,
   "slug": "karlo-caput",
   "systems": {
     "division": "men:Lightweight",

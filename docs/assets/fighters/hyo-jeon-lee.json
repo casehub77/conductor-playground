@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7647,
+  "divisional_rank": 1226,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Hyo Jeon Lee",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-11",
+      "elo_delta": -18.6,
+      "event_name": "G-Shooto: Special 01",
+      "fight_id": "276d1aaa2c22aadc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Heel Hook)",
+      "opponent": "Keisuke Kurata",
+      "opponent_elo": 1514.3,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.0,
+      "red_name": "Keisuke Kurata",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "1:51",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-11",
+      "fight_id": "276d1aaa2c22aadc",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-11",
+      "fight_id": "276d1aaa2c22aadc",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-05-11",
+  "name": "Hyo Jeon Lee",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.4,
+  "raw_overall_elo": 1483.4,
+  "slug": "hyo-jeon-lee",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

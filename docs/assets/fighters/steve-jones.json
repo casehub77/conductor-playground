@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1562,
-  "divisional_rank": 424,
+  "days_since_last_fight": 1555,
+  "divisional_rank": 955,
   "fight_count": 2,
   "fight_log": [
     {
       "blue_name": "Steve Jones",
       "bout_type": "Welterweight Bout",
       "date": "2022-01-14",
-      "elo_delta": -16.4,
+      "elo_delta": -17.3,
       "event_name": "Legacy Fighting Alliance 121: Brown vs. Jones",
       "fight_id": "d141d9bc17a6cb20",
       "gender": "men",
       "is_title": false,
       "method": "TKO (punches)",
       "opponent": "Chris Brown",
-      "opponent_elo": 1536.4,
+      "opponent_elo": 1520.0,
       "outcome": "red_win",
-      "post_elo": 1465.6,
+      "post_elo": 1464.7,
       "pre_elo": 1482.0,
       "red_name": "Chris Brown",
       "round": "3",
@@ -70,14 +70,14 @@
     {
       "date": "2022-01-14",
       "fight_id": "d141d9bc17a6cb20",
-      "rating": 1465.6,
+      "rating": 1464.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2022-01-14",
       "fight_id": "d141d9bc17a6cb20",
-      "rating": 1469.1,
+      "rating": 1468.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -91,8 +91,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1465.6,
-  "raw_overall_elo": 1469.1,
+  "raw_current_elo": 1464.7,
+  "raw_overall_elo": 1468.4,
   "slug": "steve-jones",
   "systems": {
     "division": "men:Welterweight",

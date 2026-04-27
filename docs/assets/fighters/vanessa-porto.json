@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1373,
-  "divisional_rank": 101,
+  "days_since_last_fight": 1366,
+  "divisional_rank": 125,
   "fight_count": 3,
   "fight_log": [
     {
@@ -41,7 +41,7 @@
       "opponent_elo": 1500.0,
       "outcome": "red_win",
       "post_elo": 1500.9,
-      "pre_elo": 1482.0,
+      "pre_elo": 1481.9,
       "red_name": "Vanessa Porto",
       "round": "3",
       "source": "manual",
@@ -53,16 +53,16 @@
       "blue_name": "Vanessa Porto",
       "bout_type": "Women's Flyweight Bout",
       "date": "2021-04-09",
-      "elo_delta": -18.0,
+      "elo_delta": -18.1,
       "event_name": "Bellator 256: Bader vs. Machida 2",
       "fight_id": "53089b5cbb07f093",
       "gender": "women",
       "is_title": false,
       "method": "Decision (unanimous) (29–28, 30–27, 30–27)",
       "opponent": "Liz Carmouche",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1498.9,
       "outcome": "red_win",
-      "post_elo": 1482.0,
+      "post_elo": 1481.9,
       "pre_elo": 1500.0,
       "red_name": "Liz Carmouche",
       "round": "3",
@@ -78,14 +78,14 @@
     {
       "date": "2021-04-09",
       "fight_id": "53089b5cbb07f093",
-      "rating": 1482.0,
+      "rating": 1481.9,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2021-04-09",
       "fight_id": "53089b5cbb07f093",
-      "rating": 1484.0,
+      "rating": 1483.9,
       "scope": "overall",
       "system": "women:overall"
     },
@@ -99,7 +99,7 @@
     {
       "date": "2021-07-31",
       "fight_id": "5be6c611da27ce5e",
-      "rating": 1500.7,
+      "rating": 1500.6,
       "scope": "overall",
       "system": "women:overall"
     },
@@ -113,7 +113,7 @@
     {
       "date": "2022-07-22",
       "fight_id": "84d87c14bcb58f84",
-      "rating": 1484.2,
+      "rating": 1484.1,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -128,7 +128,7 @@
   "overall_elo": 1500.0,
   "peak_elo": 1500.9,
   "raw_current_elo": 1482.4,
-  "raw_overall_elo": 1484.2,
+  "raw_overall_elo": 1484.1,
   "slug": "vanessa-porto",
   "systems": {
     "division": "women:Flyweight",

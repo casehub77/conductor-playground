@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2904,
+  "divisional_rank": 410,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Andrey Kovalev",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2018-05-06",
+      "elo_delta": -18.0,
+      "event_name": "Rizin 10 - Fukuoka",
+      "fight_id": "2dcce7bc9739aca9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Jairzinho Rozenstruik",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jairzinho Rozenstruik",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
+      "time": "15:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-05-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-05-06",
+      "fight_id": "2dcce7bc9739aca9",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-05-06",
+      "fight_id": "2dcce7bc9739aca9",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-05-06",
+  "name": "Andrey Kovalev",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "andrey-kovalev",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

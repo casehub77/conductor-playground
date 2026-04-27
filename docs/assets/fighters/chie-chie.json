@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7022,
+  "divisional_rank": 506,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nanako Yamaseki",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-01-26",
+      "elo_delta": 19.7,
+      "event_name": "Shooto: Battle Mix Tokyo 1",
+      "fight_id": "62256dedca759dc7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Nanako Yamaseki",
+      "opponent_elo": 1504.3,
+      "outcome": "red_win",
+      "post_elo": 1519.7,
+      "pre_elo": 1500.0,
+      "red_name": "Chie Chie",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
+      "time": "3:03",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2007-01-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-01-26",
+      "fight_id": "62256dedca759dc7",
+      "rating": 1519.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-01-26",
+      "fight_id": "62256dedca759dc7",
+      "rating": 1517.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-01-26",
+  "name": "Chie Chie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.7,
+  "raw_current_elo": 1519.7,
+  "raw_overall_elo": 1517.5,
+  "slug": "chie-chie",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

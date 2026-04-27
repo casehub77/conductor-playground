@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7288,
+  "divisional_rank": 174,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mike Kyle",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-05-05",
+      "elo_delta": 19.2,
+      "event_name": "WEC 20: Cinco de Mayhem",
+      "fight_id": "27097c4a3381354e",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ (strikes after the bell)",
+      "opponent": "Mike Kyle",
+      "opponent_elo": 1533.4,
+      "outcome": "red_win",
+      "post_elo": 1556.9,
+      "pre_elo": 1537.7,
+      "red_name": "Brian Olsen",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 20",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Lavar Johnson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-01-13",
+      "elo_delta": 20.4,
+      "event_name": "WEC 18: Unfinished Business",
+      "fight_id": "ef988cd4c5628fa4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knee Injury)",
+      "opponent": "Lavar Johnson",
+      "opponent_elo": 1535.3,
+      "outcome": "red_win",
+      "post_elo": 1537.7,
+      "pre_elo": 1517.3,
+      "red_name": "Brian Olsen",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 18",
+      "time": "0:14",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Craig Zellner",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-17",
+      "elo_delta": 19.4,
+      "event_name": "WEC 14: Vengeance",
+      "fight_id": "8447666bc74e93c2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Craig Zellner",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Brian Olsen",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 14",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-03-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-03-17",
+      "fight_id": "8447666bc74e93c2",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-17",
+      "fight_id": "8447666bc74e93c2",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-01-13",
+      "fight_id": "ef988cd4c5628fa4",
+      "rating": 1537.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-01-13",
+      "fight_id": "ef988cd4c5628fa4",
+      "rating": 1535.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "27097c4a3381354e",
+      "rating": 1556.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "27097c4a3381354e",
+      "rating": 1552.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-05-05",
+  "name": "Brian Olsen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1556.9,
+  "raw_current_elo": 1556.9,
+  "raw_overall_elo": 1552.2,
+  "slug": "brian-olsen",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

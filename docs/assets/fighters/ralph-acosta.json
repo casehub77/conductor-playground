@@ -1,0 +1,109 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5577,
+  "divisional_rank": 1762,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ralph Acosta",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-01-10",
+      "elo_delta": -12.3,
+      "event_name": "Shooto: Shootor's Legacy 1",
+      "fight_id": "2d7e5dda3f4f2a28",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Brabo Choke)",
+      "opponent": "Masakatsu Ueda",
+      "opponent_elo": 1633.5,
+      "outcome": "red_win",
+      "post_elo": 1487.3,
+      "pre_elo": 1499.6,
+      "red_name": "Masakatsu Ueda",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "1:13",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tulio Quintanila",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-10-28",
+      "elo_delta": 18.9,
+      "event_name": "Bellator 34",
+      "fight_id": "cc28e465c37feaf1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (29–28, 28–29, 29–28)",
+      "opponent": "Tulio Quintanila",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1501.7,
+      "pre_elo": 1482.8,
+      "red_name": "Ralph Acosta",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 34",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2010-04-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-08",
+      "fight_id": "e5c83fd0774338df",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-28",
+      "fight_id": "cc28e465c37feaf1",
+      "rating": 1501.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-10-28",
+      "fight_id": "cc28e465c37feaf1",
+      "rating": 1499.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-01-10",
+      "fight_id": "2d7e5dda3f4f2a28",
+      "rating": 1487.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-01-10",
+      "fight_id": "2d7e5dda3f4f2a28",
+      "rating": 1488.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-01-10",
+  "name": "Ralph Acosta",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.7,
+  "raw_current_elo": 1487.3,
+  "raw_overall_elo": 1488.6,
+  "slug": "ralph-acosta",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

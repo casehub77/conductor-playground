@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6597,
+  "divisional_rank": 1146,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Sergio Gomez",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-03-26",
+      "elo_delta": -16.6,
+      "event_name": "WEC 33: Marshall vs. Stann",
+      "fight_id": "4ebe0e3d51295d2f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-26, 30-27, 29-28)",
+      "opponent": "Richard Crunkilton",
+      "opponent_elo": 1506.7,
+      "outcome": "red_win",
+      "post_elo": 1463.9,
+      "pre_elo": 1480.6,
+      "red_name": "Richard Crunkilton",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 33",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Sergio Gomez",
+      "bout_type": "Lightweight Bout",
+      "date": "2007-05-12",
+      "elo_delta": -19.4,
+      "event_name": "WEC 27: Marshall vs. McElfresh",
+      "fight_id": "7b8723a814fd9107",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Marcus Hicks",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Marcus Hicks",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 27",
+      "time": "3:20",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2007-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-05-12",
+      "fight_id": "7b8723a814fd9107",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2007-05-12",
+      "fight_id": "7b8723a814fd9107",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-03-26",
+      "fight_id": "4ebe0e3d51295d2f",
+      "rating": 1463.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-03-26",
+      "fight_id": "4ebe0e3d51295d2f",
+      "rating": 1467.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-03-26",
+  "name": "Sergio Gomez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.9,
+  "raw_overall_elo": 1467.8,
+  "slug": "sergio-gomez",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

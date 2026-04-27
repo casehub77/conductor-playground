@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4214,
+  "divisional_rank": 595,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Rolles Gracie",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2014-10-04",
+      "elo_delta": -16.2,
+      "event_name": "KSW 28: Fighters Den",
+      "fight_id": "ae662f0d66d9e98f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Kick To The Body And Punches)",
+      "opponent": "Karol Bedorf",
+      "opponent_elo": 1539.3,
+      "outcome": "red_win",
+      "post_elo": 1464.5,
+      "pre_elo": 1480.7,
+      "red_name": "Karol Bedorf",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2014 in Konfrontacja Sztuk Walki",
+      "time": "4:04",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Rolles Gracie",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-02-06",
+      "elo_delta": -19.3,
+      "event_name": "UFC 109: Relentless",
+      "fight_id": "69575b0482b59a19",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Joey Beltran",
+      "opponent_elo": 1502.5,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Joey Beltran",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:31",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-02-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-02-06",
+      "fight_id": "69575b0482b59a19",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-02-06",
+      "fight_id": "69575b0482b59a19",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "ae662f0d66d9e98f",
+      "rating": 1464.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "ae662f0d66d9e98f",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-10-04",
+  "name": "Rolles Gracie",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1464.5,
+  "raw_overall_elo": 1468.1,
+  "slug": "rolles-gracie",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

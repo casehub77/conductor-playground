@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6210,
+  "divisional_rank": 259,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Wayne Cole",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2009-04-17",
+      "elo_delta": 20.4,
+      "event_name": "Bellator 3",
+      "fight_id": "ac144cdac49f11f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Wayne Cole",
+      "opponent_elo": 1517.7,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Rudy Lindsay",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 3",
+      "time": "3:37",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-17",
+      "fight_id": "ac144cdac49f11f4",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2009-04-17",
+      "fight_id": "ac144cdac49f11f4",
+      "rating": 1518.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-17",
+  "name": "Rudy Lindsay",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "raw_current_elo": 1520.4,
+  "raw_overall_elo": 1518.2,
+  "slug": "rudy-lindsay",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8113,
+  "divisional_rank": 374,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jorge Rivera",
+      "bout_type": "Middleweight Bout",
+      "date": "2004-01-31",
+      "elo_delta": 21.4,
+      "event_name": "UFC 46: Supernatural",
+      "fight_id": "e1c884d480c0dc11",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jorge Rivera",
+      "opponent_elo": 1535.4,
+      "outcome": "red_win",
+      "post_elo": 1521.4,
+      "pre_elo": 1500.0,
+      "red_name": "Lee Murray",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:45",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2004-01-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-01-31",
+      "fight_id": "e1c884d480c0dc11",
+      "rating": 1521.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2004-01-31",
+      "fight_id": "e1c884d480c0dc11",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-01-31",
+  "name": "Lee Murray",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.4,
+  "raw_current_elo": 1521.4,
+  "raw_overall_elo": 1518.9,
+  "slug": "lee-murray",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

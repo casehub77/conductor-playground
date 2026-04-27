@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6335,
+  "divisional_rank": 1725,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yoshihiko Oyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-12-13",
+      "elo_delta": -17.0,
+      "event_name": "Shooto: The Rookie Tournament 2008 Final",
+      "fight_id": "b34ed37f6adb6087",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Kosuke Eda",
+      "opponent_elo": 1524.0,
+      "outcome": "red_win",
+      "post_elo": 1462.9,
+      "pre_elo": 1479.8,
+      "red_name": "Kosuke Eda",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
+      "time": "3:02",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Keita Yoshida",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-09-20",
+      "elo_delta": 2.0,
+      "event_name": "Shooto: Gig West 10",
+      "fight_id": "b6b35f7714069080",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Keita Yoshida",
+      "opponent_elo": 1517.1,
+      "outcome": "draw",
+      "post_elo": 1479.8,
+      "pre_elo": 1477.8,
+      "red_name": "Yoshihiko Oyama",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
+      "time": "1:32",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshihiko Oyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2007-08-05",
+      "elo_delta": -22.2,
+      "event_name": "Shooto: Shooting Disco 2: The Heat Rises Tonight",
+      "fight_id": "b98d582a0d962e95",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear Naked Choke)",
+      "opponent": "Nobuhiro Hayakawa",
+      "opponent_elo": 1450.5,
+      "outcome": "red_win",
+      "post_elo": 1477.8,
+      "pre_elo": 1500.0,
+      "red_name": "Nobuhiro Hayakawa",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2007 in Shooto",
+      "time": "0:37",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2007-08-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-08-05",
+      "fight_id": "b98d582a0d962e95",
+      "rating": 1477.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2007-08-05",
+      "fight_id": "b98d582a0d962e95",
+      "rating": 1480.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "b6b35f7714069080",
+      "rating": 1479.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-09-20",
+      "fight_id": "b6b35f7714069080",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-12-13",
+      "fight_id": "b34ed37f6adb6087",
+      "rating": 1462.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-12-13",
+      "fight_id": "b34ed37f6adb6087",
+      "rating": 1466.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-12-13",
+  "name": "Yoshihiko Oyama",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.9,
+  "raw_overall_elo": 1466.8,
+  "slug": "yoshihiko-oyama",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

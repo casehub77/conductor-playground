@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5721,
+  "divisional_rank": 849,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kevin Knabjian",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-08-19",
+      "elo_delta": -18.8,
+      "event_name": "Bellator 25",
+      "fight_id": "dcd1ea115199e460",
+      "gender": "men",
+      "is_title": false,
+      "method": "unanimous decision (29–28, 29–28, 29–28)",
+      "opponent": "Brian Gassaway",
+      "opponent_elo": 1447.1,
+      "outcome": "red_win",
+      "post_elo": 1443.8,
+      "pre_elo": 1462.6,
+      "red_name": "Brian Gassaway",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 25",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kevin Knabjian",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": -18.4,
+      "event_name": "Bellator 7/8",
+      "fight_id": "bda6c6ad5de86758",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (D'arce choke)",
+      "opponent": "Jacob Volkmann",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.6,
+      "pre_elo": 1480.9,
+      "red_name": "Jacob Volkmann",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 7",
+      "time": "1:42",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kevin Knabjian",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-06-03",
+      "elo_delta": -19.1,
+      "event_name": "WEC 28: Faber vs. Farrar",
+      "fight_id": "fffeebcf69432ff0",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Brock Larson",
+      "opponent_elo": 1506.6,
+      "outcome": "red_win",
+      "post_elo": 1480.9,
+      "pre_elo": 1500.0,
+      "red_name": "Brock Larson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 28",
+      "time": "0:27",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-06-03",
+      "fight_id": "fffeebcf69432ff0",
+      "rating": 1480.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-06-03",
+      "fight_id": "fffeebcf69432ff0",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "bda6c6ad5de86758",
+      "rating": 1462.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "bda6c6ad5de86758",
+      "rating": 1466.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-19",
+      "fight_id": "dcd1ea115199e460",
+      "rating": 1443.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-08-19",
+      "fight_id": "dcd1ea115199e460",
+      "rating": 1449.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-19",
+  "name": "Kevin Knabjian",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1443.8,
+  "raw_overall_elo": 1449.9,
+  "slug": "kevin-knabjian",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

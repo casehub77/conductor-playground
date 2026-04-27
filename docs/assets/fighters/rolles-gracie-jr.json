@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3983,
+  "divisional_rank": 596,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Rolles Gracie Jr.",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2015-05-23",
+      "elo_delta": -17.5,
+      "event_name": "KSW 31: Materla vs. Drwal",
+      "fight_id": "1479bf7a112df30a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Mariusz Pudzianowski",
+      "opponent_elo": 1533.9,
+      "outcome": "red_win",
+      "post_elo": 1482.5,
+      "pre_elo": 1500.0,
+      "red_name": "Mariusz Pudzianowski",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2015 in Konfrontacja Sztuk Walki",
+      "time": "0:28",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2015-05-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-05-23",
+      "fight_id": "1479bf7a112df30a",
+      "rating": 1482.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-05-23",
+      "fight_id": "1479bf7a112df30a",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-05-23",
+  "name": "Rolles Gracie Jr.",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.5,
+  "raw_overall_elo": 1484.2,
+  "slug": "rolles-gracie-jr",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

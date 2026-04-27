@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3761,
+  "divisional_rank": 1513,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Peter Aerts",
+      "bout_type": "Open Weight Bout",
+      "date": "2015-12-31",
+      "elo_delta": -18.0,
+      "event_name": "Rizin World Grand Prix 2015: Part 2 - Iza",
+      "fight_id": "836dfc9ff2d0707e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Baruto Kaito",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Baruto Kaito",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2015 in Rizin Fighting Federation",
+      "time": "9:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2015-12-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-12-31",
+      "fight_id": "836dfc9ff2d0707e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2015-12-31",
+      "fight_id": "836dfc9ff2d0707e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-12-31",
+  "name": "Peter Aerts",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "peter-aerts",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

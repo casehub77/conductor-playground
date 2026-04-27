@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6875,
+  "divisional_rank": 685,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Aaron Wetherspoon",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-06-22",
+      "elo_delta": -15.8,
+      "event_name": "Strikeforce: Shamrock vs. Baroni",
+      "fight_id": "1ba9d0a7ae05ba38",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Mike Pyle",
+      "opponent_elo": 1542.5,
+      "outcome": "red_win",
+      "post_elo": 1484.2,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Pyle",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Baroni",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2007-06-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-06-22",
+      "fight_id": "1ba9d0a7ae05ba38",
+      "rating": 1484.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-06-22",
+      "fight_id": "1ba9d0a7ae05ba38",
+      "rating": 1485.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-06-22",
+  "name": "Aaron Wetherspoon",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.2,
+  "raw_overall_elo": 1485.7,
+  "slug": "aaron-wetherspoon",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

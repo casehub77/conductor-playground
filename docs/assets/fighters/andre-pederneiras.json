@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9773,
+  "divisional_rank": 698,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Andre Pederneiras",
+      "bout_type": "UFC Welterweight Title Bout",
+      "date": "1999-07-16",
+      "elo_delta": -17.2,
+      "event_name": "UFC 21: Return of the Champions",
+      "fight_id": "9870aeb9ef864a8d",
+      "gender": "men",
+      "is_title": true,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Pat Miletich",
+      "opponent_elo": 1568.3,
+      "outcome": "red_win",
+      "post_elo": 1482.8,
+      "pre_elo": 1500.0,
+      "red_name": "Pat Miletich",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:34",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "1999-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-07-16",
+      "fight_id": "9870aeb9ef864a8d",
+      "rating": 1482.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "9870aeb9ef864a8d",
+      "rating": 1484.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1999-07-16",
+  "name": "Andre Pederneiras",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.8,
+  "raw_overall_elo": 1484.5,
+  "slug": "andre-pederneiras",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

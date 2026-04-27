@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3289,
+  "divisional_rank": 47,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dóra Perjés",
+      "bout_type": "Female Atomweight 48 kg Bout",
+      "date": "2017-04-16",
+      "elo_delta": -16.5,
+      "event_name": "Rizin 2017 at Yokohama: Sakura",
+      "fight_id": "6048c8c7d89f901e",
+      "gender": "women",
+      "is_title": false,
+      "method": "KO (punch to the body)",
+      "opponent": "Rena Kubota",
+      "opponent_elo": 1553.2,
+      "outcome": "red_win",
+      "post_elo": 1483.5,
+      "pre_elo": 1500.0,
+      "red_name": "Rena Kubota",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "2:49",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2017-04-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-04-16",
+      "fight_id": "6048c8c7d89f901e",
+      "rating": 1483.5,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2017-04-16",
+      "fight_id": "6048c8c7d89f901e",
+      "rating": 1485.2,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-04-16",
+  "name": "Dóra Perjés",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.5,
+  "raw_overall_elo": 1485.2,
+  "slug": "dora-perjes",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

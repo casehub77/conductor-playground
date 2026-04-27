@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2394,
+  "divisional_rank": 717,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Nohelin Hernandez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-09-28",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Hermansson vs. Cannonier",
+      "fight_id": "f806999bd79f77cd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Jack Shore",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.8,
+      "pre_elo": 1483.3,
+      "red_name": "Jack Shore",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:51",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Nohelin Hernandez",
+      "bout_type": "Bantamweight Bout",
+      "date": "2019-07-06",
+      "elo_delta": -16.7,
+      "event_name": "UFC 239: Jones vs. Santos",
+      "fight_id": "389be9449008f8db",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Marlon Vera",
+      "opponent_elo": 1548.8,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Marlon Vera",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:25",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2019-07-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-07-06",
+      "fight_id": "389be9449008f8db",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-07-06",
+      "fight_id": "389be9449008f8db",
+      "rating": 1485.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-09-28",
+      "fight_id": "f806999bd79f77cd",
+      "rating": 1464.8,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2019-09-28",
+      "fight_id": "f806999bd79f77cd",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-09-28",
+  "name": "Nohelin Hernandez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1464.8,
+  "raw_overall_elo": 1468.9,
+  "slug": "nohelin-hernandez",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

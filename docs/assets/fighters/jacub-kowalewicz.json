@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4410,
+  "divisional_rank": 958,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jacub Kowalewicz",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2014-03-22",
+      "elo_delta": -18.8,
+      "event_name": "KSW 26: Materla vs. Silva 3",
+      "fight_id": "a8e6f278c11c4c74",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Sergej Grecicho",
+      "opponent_elo": 1484.0,
+      "outcome": "red_win",
+      "post_elo": 1481.2,
+      "pre_elo": 1500.0,
+      "red_name": "Sergej Grecicho",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2014 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2014-03-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-03-22",
+      "fight_id": "a8e6f278c11c4c74",
+      "rating": 1481.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-03-22",
+      "fight_id": "a8e6f278c11c4c74",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-03-22",
+  "name": "Jacub Kowalewicz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.2,
+  "raw_overall_elo": 1483.3,
+  "slug": "jacub-kowalewicz",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

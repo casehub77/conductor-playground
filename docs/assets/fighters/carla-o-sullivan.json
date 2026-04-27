@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8434,
+  "divisional_rank": 1072,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Carla O'Sullivan",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-16",
+      "elo_delta": -18.4,
+      "event_name": "CWFC 3: Cage Warriors 3",
+      "fight_id": "89dbdfb8df54d486",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Rosi Sexton",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Rosi Sexton",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Cage Warriors",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-03-16",
+      "fight_id": "89dbdfb8df54d486",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-16",
+      "fight_id": "89dbdfb8df54d486",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-03-16",
+  "name": "Carla O'Sullivan",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.6,
+  "slug": "carla-o-sullivan",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

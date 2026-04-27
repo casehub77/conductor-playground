@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4879,
+  "divisional_rank": 1055,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Abel Trujillo",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-12-08",
+      "elo_delta": -19.3,
+      "event_name": "UFC on FOX: Henderson vs Diaz",
+      "fight_id": "3a62a8ff80804f94",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Abel Trujillo",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1478.0,
+      "pre_elo": 1497.2,
+      "red_name": "Marcus Levesseur",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:56",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Carlo Prater",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-10-05",
+      "elo_delta": 17.7,
+      "event_name": "UFC on FX: Browne vs Bigfoot",
+      "fight_id": "a2f01732117edeb2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Carlo Prater",
+      "opponent_elo": 1473.4,
+      "outcome": "red_win",
+      "post_elo": 1497.2,
+      "pre_elo": 1479.6,
+      "red_name": "Marcus Levesseur",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Marcus Levesseur",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-05-15",
+      "elo_delta": -20.4,
+      "event_name": "UFC on FUEL TV: Korean Zombie vs Poirier",
+      "fight_id": "26401968af5977bc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Cody Mckenzie",
+      "opponent_elo": 1482.2,
+      "outcome": "red_win",
+      "post_elo": 1479.6,
+      "pre_elo": 1500.0,
+      "red_name": "Cody Mckenzie",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:05",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2012-05-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-05-15",
+      "fight_id": "26401968af5977bc",
+      "rating": 1479.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-05-15",
+      "fight_id": "26401968af5977bc",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-10-05",
+      "fight_id": "a2f01732117edeb2",
+      "rating": 1497.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-10-05",
+      "fight_id": "a2f01732117edeb2",
+      "rating": 1497.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-12-08",
+      "fight_id": "3a62a8ff80804f94",
+      "rating": 1478.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-12-08",
+      "fight_id": "3a62a8ff80804f94",
+      "rating": 1480.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-12-08",
+  "name": "Marcus Levesseur",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1478.0,
+  "raw_overall_elo": 1480.5,
+  "slug": "marcus-levesseur",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

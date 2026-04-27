@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5785,
+  "divisional_rank": 397,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Marcus Kowal",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-06-16",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Los Angeles",
+      "fight_id": "2152d2efe7b7b688",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Marcus Kowal",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Hugo Sandoval",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Los Angeles",
+      "time": "0:43",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2010-06-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-16",
+      "fight_id": "2152d2efe7b7b688",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-06-16",
+      "fight_id": "2152d2efe7b7b688",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-06-16",
+  "name": "Hugo Sandoval",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "hugo-sandoval",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

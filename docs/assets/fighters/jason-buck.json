@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8969,
+  "divisional_rank": 1251,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jason Buck",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-09-27",
+      "elo_delta": -16.1,
+      "event_name": "Shooto: To The Top 9",
+      "fight_id": "135722dfc1b9795f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Takuya Wada",
+      "opponent_elo": 1536.8,
+      "outcome": "red_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
+      "red_name": "Takuya Wada",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-09-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-09-27",
+      "fight_id": "135722dfc1b9795f",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-09-27",
+      "fight_id": "135722dfc1b9795f",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-09-27",
+  "name": "Jason Buck",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.9,
+  "raw_overall_elo": 1485.5,
+  "slug": "jason-buck",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

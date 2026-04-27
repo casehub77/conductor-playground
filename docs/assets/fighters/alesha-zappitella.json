@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2435,
+  "divisional_rank": 42,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Alesha Zappitella",
+      "bout_type": "Super Atomweight 49 kg Bout",
+      "date": "2019-08-18",
+      "elo_delta": -15.4,
+      "event_name": "Rizin 18 - Nagoya",
+      "fight_id": "8f9ea86a43ef293a",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Kanna Asakura",
+      "opponent_elo": 1550.2,
+      "outcome": "red_win",
+      "post_elo": 1484.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kanna Asakura",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2019 in Rizin Fighting Federation",
+      "time": "15:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2019-08-18",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2019-08-18",
+      "fight_id": "8f9ea86a43ef293a",
+      "rating": 1484.6,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2019-08-18",
+      "fight_id": "8f9ea86a43ef293a",
+      "rating": 1486.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-08-18",
+  "name": "Alesha Zappitella",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.6,
+  "raw_overall_elo": 1486.1,
+  "slug": "alesha-zappitella",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

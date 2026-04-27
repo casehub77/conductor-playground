@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9001,
+  "divisional_rank": 1365,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Larry Papadopoulos",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-08-26",
+      "elo_delta": -0.8,
+      "event_name": "Shooto: To The Top 7",
+      "fight_id": "ba3b07ba4aa52c07",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Masanori Suda",
+      "opponent_elo": 1483.8,
+      "outcome": "draw",
+      "post_elo": 1499.2,
+      "pre_elo": 1500.0,
+      "red_name": "Masanori Suda",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Akihiro Gono",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-01-14",
+      "elo_delta": 0.0,
+      "event_name": "Shooto: R.E.A.D. 1",
+      "fight_id": "9da4445ed7e8ade0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Akihiro Gono",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Larry Papadopoulos",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2000-01-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-01-14",
+      "fight_id": "9da4445ed7e8ade0",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-01-14",
+      "fight_id": "9da4445ed7e8ade0",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-08-26",
+      "fight_id": "ba3b07ba4aa52c07",
+      "rating": 1499.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-08-26",
+      "fight_id": "ba3b07ba4aa52c07",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-08-26",
+  "name": "Larry Papadopoulos",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1499.2,
+  "raw_overall_elo": 1499.3,
+  "slug": "larry-papadopoulos",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

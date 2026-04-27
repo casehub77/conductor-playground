@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6250,
+  "divisional_rank": 758,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "David Gardner",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-03-08",
+      "elo_delta": -15.1,
+      "event_name": "Dream.7: Feather Weight Grandprix 2009 1st Round",
+      "fight_id": "211f36203a470ec0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Shinya Aoki",
+      "opponent_elo": 1578.2,
+      "outcome": "red_win",
+      "post_elo": 1484.9,
+      "pre_elo": 1500.0,
+      "red_name": "Shinya Aoki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 7",
+      "time": "5:58",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-03-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-03-08",
+      "fight_id": "211f36203a470ec0",
+      "rating": 1484.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-03-08",
+      "fight_id": "211f36203a470ec0",
+      "rating": 1490.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-03-08",
+  "name": "David Gardner",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.9,
+  "raw_overall_elo": 1490.2,
+  "slug": "david-gardner",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

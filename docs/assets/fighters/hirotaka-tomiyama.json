@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7265,
+  "divisional_rank": 1218,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Hirotaka Tomiyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-05-28",
+      "elo_delta": -18.4,
+      "event_name": "Shooto 2006: 5/28 in Kitazawa Town Hall",
+      "fight_id": "6740bf2a7432fd15",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Hiroshi Nakamura",
+      "opponent_elo": 1484.2,
+      "outcome": "red_win",
+      "post_elo": 1446.6,
+      "pre_elo": 1464.9,
+      "red_name": "Hiroshi Nakamura",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "3:24",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hirotaka Tomiyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-11-29",
+      "elo_delta": -17.1,
+      "event_name": "Shooto 2005: 11/29 in Kitazawa Town Hall",
+      "fight_id": "14e0d1024901b9d5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Fanjin Son",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1464.9,
+      "pre_elo": 1482.0,
+      "red_name": "Fanjin Son",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hirotaka Tomiyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-29",
+      "elo_delta": -18.0,
+      "event_name": "Shooto: 5/29 in Kitazawa Town Hall",
+      "fight_id": "8328117ab48dffe5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yuki Inoue",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Yuki Inoue",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-29",
+      "fight_id": "8328117ab48dffe5",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-29",
+      "fight_id": "8328117ab48dffe5",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-11-29",
+      "fight_id": "14e0d1024901b9d5",
+      "rating": 1464.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-11-29",
+      "fight_id": "14e0d1024901b9d5",
+      "rating": 1468.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-05-28",
+      "fight_id": "6740bf2a7432fd15",
+      "rating": 1446.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-05-28",
+      "fight_id": "6740bf2a7432fd15",
+      "rating": 1452.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-05-28",
+  "name": "Hirotaka Tomiyama",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1446.6,
+  "raw_overall_elo": 1452.3,
+  "slug": "hirotaka-tomiyama",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

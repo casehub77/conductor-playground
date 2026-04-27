@@ -1,25 +1,25 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1708,
-  "divisional_rank": 241,
+  "days_since_last_fight": 1701,
+  "divisional_rank": 507,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Ramiz Brahimaj",
       "bout_type": "Welterweight Bout",
       "date": "2021-08-21",
-      "elo_delta": -20.5,
+      "elo_delta": -20.6,
       "event_name": "UFC Fight Night: Cannonier vs. Gastelum",
       "fight_id": "bc00d4c80388a167",
       "gender": "men",
       "is_title": false,
       "method": "Submission",
       "opponent": "Ramiz Brahimaj",
-      "opponent_elo": 1479.6,
+      "opponent_elo": 1478.6,
       "outcome": "blue_win",
       "post_elo": 1478.2,
-      "pre_elo": 1498.8,
+      "pre_elo": 1498.7,
       "red_name": "Sasha Palatnikov",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -38,9 +38,9 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Impa Kasanganay",
-      "opponent_elo": 1497.1,
+      "opponent_elo": 1496.4,
       "outcome": "red_win",
-      "post_elo": 1498.8,
+      "post_elo": 1498.7,
       "pre_elo": 1519.4,
       "red_name": "Impa Kasanganay",
       "round": "2.0",
@@ -92,7 +92,7 @@
     {
       "date": "2021-04-10",
       "fight_id": "648faf9c0875afa8",
-      "rating": 1498.8,
+      "rating": 1498.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
@@ -113,7 +113,7 @@
     {
       "date": "2021-08-21",
       "fight_id": "bc00d4c80388a167",
-      "rating": 1480.9,
+      "rating": 1480.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -128,7 +128,7 @@
   "overall_elo": 1500.0,
   "peak_elo": 1519.4,
   "raw_current_elo": 1478.2,
-  "raw_overall_elo": 1480.9,
+  "raw_overall_elo": 1480.8,
   "slug": "sasha-palatnikov",
   "systems": {
     "division": "men:Welterweight",

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3289,
+  "divisional_rank": 41,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Aleksandra Toncheva",
+      "bout_type": "Female Atomweight 48 kg Bout",
+      "date": "2017-04-16",
+      "elo_delta": -18.9,
+      "event_name": "Rizin 2017 at Yokohama: Sakura",
+      "fight_id": "b31249d01b0a8bfa",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Kanna Asakura",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Kanna Asakura",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "15:00",
+      "weight_class": "Atomweight"
+    }
+  ],
+  "first_fight_date": "2017-04-16",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-04-16",
+      "fight_id": "b31249d01b0a8bfa",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "women:Atomweight"
+    },
+    {
+      "date": "2017-04-16",
+      "fight_id": "b31249d01b0a8bfa",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-04-16",
+  "name": "Aleksandra Toncheva",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.1,
+  "raw_overall_elo": 1483.3,
+  "slug": "aleksandra-toncheva",
+  "systems": {
+    "division": "women:Atomweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Atomweight"
+}

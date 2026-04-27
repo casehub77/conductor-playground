@@ -1,17 +1,119 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1617,
-  "divisional_rank": null,
-  "fight_count": 1,
-  "fight_log": [],
-  "first_fight_date": "2021-11-20",
+  "days_since_last_fight": 1610,
+  "divisional_rank": 61,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mitsuhisa Sunabe",
+      "bout_type": "Catchweight 58.5 kg Bout",
+      "date": "2021-11-20",
+      "elo_delta": -9.8,
+      "event_name": "Rizin 32 - Okinawa",
+      "fight_id": "bed52d82e0ff1497",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yoshiro Maeda",
+      "opponent_elo": 1450.5,
+      "outcome": "red_win",
+      "post_elo": 1470.0,
+      "pre_elo": 1479.8,
+      "red_name": "Yoshiro Maeda",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2021 in Rizin Fighting Federation",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Mitsuhisa Sunabe",
+      "bout_type": "Strawweight 53 kg Bout",
+      "date": "2018-09-30",
+      "elo_delta": -14.8,
+      "event_name": "Rizin 13 - Saitama",
+      "fight_id": "eb09c1d14de14751",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Soccer Kicks)",
+      "opponent": "Haruo Ochi",
+      "opponent_elo": 1566.5,
+      "outcome": "red_win",
+      "post_elo": 1467.3,
+      "pre_elo": 1482.1,
+      "red_name": "Haruo Ochi",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
+      "time": "12:51",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Mitsuhisa Sunabe",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2017-12-31",
+      "elo_delta": -20.2,
+      "event_name": "Rizin World Grand Prix 2017: final round",
+      "fight_id": "6cb2e87ef7c816a3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "Yamato Fujita",
+      "opponent_elo": 1485.6,
+      "outcome": "red_win",
+      "post_elo": 1479.8,
+      "pre_elo": 1500.0,
+      "red_name": "Yamato Fujita",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "6:46",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2017-12-31",
   "gender": "men",
   "history": [
     {
+      "date": "2017-12-31",
+      "fight_id": "6cb2e87ef7c816a3",
+      "rating": 1479.8,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2017-12-31",
+      "fight_id": "6cb2e87ef7c816a3",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-09-30",
+      "fight_id": "eb09c1d14de14751",
+      "rating": 1467.3,
+      "scope": "division",
+      "system": "men:Strawweight"
+    },
+    {
+      "date": "2018-09-30",
+      "fight_id": "eb09c1d14de14751",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2021-11-20",
       "fight_id": "bed52d82e0ff1497",
-      "rating": 1484.0,
+      "rating": 1470.0,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2021-11-20",
+      "fight_id": "bed52d82e0ff1497",
+      "rating": 1460.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -25,12 +127,12 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1484.0,
-  "raw_overall_elo": 1484.0,
+  "raw_current_elo": 1467.3,
+  "raw_overall_elo": 1460.6,
   "slug": "mitsuhisa-sunabe",
   "systems": {
-    "division": "men:Catch Weight",
+    "division": "men:Strawweight",
     "overall": "men:overall"
   },
-  "weight_class": "Catch Weight"
+  "weight_class": "Strawweight"
 }

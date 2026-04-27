@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2870,
+  "divisional_rank": 293,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tomasz Oświeciński",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2018-06-09",
+      "elo_delta": -20.5,
+      "event_name": "KSW 44: The Game",
+      "fight_id": "e0530a83b4d72c81",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Erko Jun",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1519.5,
+      "red_name": "Erko Jun",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2018 in Konfrontacja Sztuk Walki",
+      "time": "2:21",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Paweł \"Popek\" Rak",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2017-12-23",
+      "elo_delta": 19.5,
+      "event_name": "KSW 41: Mankowski vs. Soldic",
+      "fight_id": "e620faa5e6c07b50",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Paweł \"Popek\" Rak",
+      "opponent_elo": 1501.4,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Tomasz Oświeciński",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2017 in Konfrontacja Sztuk Walki",
+      "time": "1:58",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2017-12-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-12-23",
+      "fight_id": "e620faa5e6c07b50",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2017-12-23",
+      "fight_id": "e620faa5e6c07b50",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "e0530a83b4d72c81",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2018-06-09",
+      "fight_id": "e0530a83b4d72c81",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-06-09",
+  "name": "Tomasz Oświeciński",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.5,
+  "raw_current_elo": 1499.0,
+  "raw_overall_elo": 1499.2,
+  "slug": "tomasz-oswiecinski",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

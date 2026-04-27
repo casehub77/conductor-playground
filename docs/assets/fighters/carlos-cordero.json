@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8288,
+  "divisional_rank": 696,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Carlos Cordero",
+      "bout_type": "Lightweight Bout",
+      "date": "2003-08-09",
+      "elo_delta": -20.4,
+      "event_name": "WEC 7 – This Time It's Personal",
+      "fight_id": "1a4ffb557f8e6eaa",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Gabe Ruediger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1496.9,
+      "pre_elo": 1517.3,
+      "red_name": "Gabe Ruediger",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 7",
+      "time": "2:57",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Steve Cutler",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-27",
+      "elo_delta": 19.4,
+      "event_name": "WEC 6: Return of a Legend",
+      "fight_id": "32c403ca21c0dc85",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Steve Cutler",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Carlos Cordero",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 6",
+      "time": "2:31",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-03-27",
+      "fight_id": "32c403ca21c0dc85",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-27",
+      "fight_id": "32c403ca21c0dc85",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-08-09",
+      "fight_id": "1a4ffb557f8e6eaa",
+      "rating": 1496.9,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2003-08-09",
+      "fight_id": "1a4ffb557f8e6eaa",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-08-09",
+  "name": "Carlos Cordero",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1496.9,
+  "raw_overall_elo": 1499.1,
+  "slug": "carlos-cordero",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

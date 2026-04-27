@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8673,
+  "divisional_rank": 821,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Joe Son",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-07-20",
+      "elo_delta": 17.4,
+      "event_name": "Pride: The Best, Vol. 2",
+      "fight_id": "89d60fa6fb940348",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Shoulder Injury)",
+      "opponent": "Joe Son",
+      "opponent_elo": 1463.2,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jukei Nakajima",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride The Best Vol.2",
+      "time": "0:54",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-07-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-07-20",
+      "fight_id": "89d60fa6fb940348",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-07-20",
+      "fight_id": "89d60fa6fb940348",
+      "rating": 1515.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-07-20",
+  "name": "Jukei Nakajima",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.4,
+  "raw_current_elo": 1517.4,
+  "raw_overall_elo": 1515.6,
+  "slug": "jukei-nakajima",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

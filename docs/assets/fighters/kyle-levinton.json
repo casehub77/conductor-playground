@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7071,
+  "divisional_rank": 538,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kyle Levinton",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-12-08",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Triple Threat",
+      "fight_id": "bb2ae403afc278d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (kimura)",
+      "opponent": "Rex Richards",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Rex Richards",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Triple Threat",
+      "time": "2:02",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-12-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-12-08",
+      "fight_id": "bb2ae403afc278d7",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-12-08",
+      "fight_id": "bb2ae403afc278d7",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-12-08",
+  "name": "Kyle Levinton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "kyle-levinton",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

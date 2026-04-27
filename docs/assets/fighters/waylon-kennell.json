@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6216,
+  "divisional_rank": 854,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Waylon Kennell",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-04-11",
+      "elo_delta": -16.4,
+      "event_name": "Strikeforce: Shamrock vs. Diaz",
+      "fight_id": "898012419e4ea04b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Eric Lawson",
+      "opponent_elo": 1554.2,
+      "outcome": "red_win",
+      "post_elo": 1483.6,
+      "pre_elo": 1500.0,
+      "red_name": "Eric Lawson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Diaz",
+      "time": "4:54",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-04-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-11",
+      "fight_id": "898012419e4ea04b",
+      "rating": 1483.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-04-11",
+      "fight_id": "898012419e4ea04b",
+      "rating": 1485.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-11",
+  "name": "Waylon Kennell",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.6,
+  "raw_overall_elo": 1485.1,
+  "slug": "waylon-kennell",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

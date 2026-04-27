@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3184,
+  "divisional_rank": 7,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Oksana Gagloeva",
+      "bout_type": "Female Openweight Bout",
+      "date": "2017-07-30",
+      "elo_delta": 0.0,
+      "event_name": "Rizin Fighting World Grand Prix 2017 opening round - Natsu no Jin",
+      "fight_id": "a934412d529324ff",
+      "gender": "women",
+      "is_title": false,
+      "method": "No contest (accidental eye poke)",
+      "opponent": "Gabrielle Garcia",
+      "opponent_elo": 1517.3,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Gabrielle Garcia",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "0:15",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2017-07-30",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-07-30",
+      "fight_id": "a934412d529324ff",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "women:Open Weight"
+    },
+    {
+      "date": "2017-07-30",
+      "fight_id": "a934412d529324ff",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": false,
+  "instagram": null,
+  "instagram_featured": true,
+  "last_fight_date": "2017-07-30",
+  "name": "Oksana Gagloeva",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1500.0,
+  "raw_overall_elo": 1500.0,
+  "slug": "oksana-gagloeva",
+  "systems": {
+    "division": "women:Open Weight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Open Weight"
+}

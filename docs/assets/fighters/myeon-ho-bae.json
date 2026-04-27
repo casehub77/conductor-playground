@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6019,
+  "divisional_rank": 904,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Myeon Ho Bae",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-10-25",
+      "elo_delta": -16.3,
+      "event_name": "Dream 12: Cage of Dreams",
+      "fight_id": "560a45e105a2e7ca",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Marius Zaromskis",
+      "opponent_elo": 1556.8,
+      "outcome": "red_win",
+      "post_elo": 1483.7,
+      "pre_elo": 1500.0,
+      "red_name": "Marius Zaromskis",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 12",
+      "time": "0:19",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-10-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-10-25",
+      "fight_id": "560a45e105a2e7ca",
+      "rating": 1483.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-10-25",
+      "fight_id": "560a45e105a2e7ca",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-10-25",
+  "name": "Myeon Ho Bae",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.7,
+  "raw_overall_elo": 1485.3,
+  "slug": "myeon-ho-bae",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

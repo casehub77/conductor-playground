@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5082,
+  "divisional_rank": 433,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nah-Shon Burrell",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-05-19",
+      "elo_delta": 21.5,
+      "event_name": "Strikeforce: Barnett vs. Cormier",
+      "fight_id": "a5879579d45d99f9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees)",
+      "opponent": "Nah-Shon Burrell",
+      "opponent_elo": 1537.5,
+      "outcome": "red_win",
+      "post_elo": 1521.5,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Spång",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Barnett vs. Cormier",
+      "time": "3:25",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2012-05-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-05-19",
+      "fight_id": "a5879579d45d99f9",
+      "rating": 1521.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-05-19",
+      "fight_id": "a5879579d45d99f9",
+      "rating": 1519.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-05-19",
+  "name": "Chris Spång",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.5,
+  "raw_current_elo": 1521.5,
+  "raw_overall_elo": 1519.0,
+  "slug": "chris-spang",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

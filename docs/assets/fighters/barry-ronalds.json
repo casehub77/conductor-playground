@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8532,
+  "divisional_rank": 1046,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Barry Ronalds",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-12-08",
+      "elo_delta": -19.4,
+      "event_name": "CWFC: Gangwarily",
+      "fight_id": "c86c414daff43ae3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Achilles Lock)",
+      "opponent": "Paul Bampton",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Paul Bampton",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
+      "time": "1:23",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-12-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-12-08",
+      "fight_id": "c86c414daff43ae3",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-12-08",
+      "fight_id": "c86c414daff43ae3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-12-08",
+  "name": "Barry Ronalds",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "barry-ronalds",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

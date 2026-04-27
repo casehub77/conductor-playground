@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7433,
+  "divisional_rank": 1505,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Paul Hopkins",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-12-11",
+      "elo_delta": -18.5,
+      "event_name": "CWFC: Quest 4",
+      "fight_id": "35324b18b2d07638",
+      "gender": "men",
+      "is_title": false,
+      "method": "N/A",
+      "opponent": "Kayvan Fallah",
+      "opponent_elo": 1517.5,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Kayvan Fallah",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "0:27",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-12-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-12-11",
+      "fight_id": "35324b18b2d07638",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-12-11",
+      "fight_id": "35324b18b2d07638",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-12-11",
+  "name": "Paul Hopkins",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.5,
+  "slug": "paul-hopkins",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

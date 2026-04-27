@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2450,
+  "divisional_rank": 943,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Salim Touahri",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-08-03",
+      "elo_delta": -14.6,
+      "event_name": "UFC Fight Night: Covington vs. Lawler",
+      "fight_id": "d4160876b895b1bd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Mickey Gall",
+      "opponent_elo": 1535.3,
+      "outcome": "red_win",
+      "post_elo": 1453.7,
+      "pre_elo": 1468.2,
+      "red_name": "Mickey Gall",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Salim Touahri",
+      "bout_type": "Welterweight Bout",
+      "date": "2018-12-01",
+      "elo_delta": -15.7,
+      "event_name": "UFC Fight Night: Dos Santos vs. Tuivasa",
+      "fight_id": "755f148b2692ab54",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Keita Nakamura",
+      "opponent_elo": 1529.5,
+      "outcome": "red_win",
+      "post_elo": 1468.2,
+      "pre_elo": 1483.9,
+      "red_name": "Keita Nakamura",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Warlley Alves",
+      "bout_type": "Welterweight Bout",
+      "date": "2017-10-21",
+      "elo_delta": -16.1,
+      "event_name": "UFC Fight Night: Cerrone vs. Till",
+      "fight_id": "caa7d74c5c0add5b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Warlley Alves",
+      "opponent_elo": 1536.7,
+      "outcome": "blue_win",
+      "post_elo": 1483.9,
+      "pre_elo": 1500.0,
+      "red_name": "Salim Touahri",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2017-10-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-10-21",
+      "fight_id": "caa7d74c5c0add5b",
+      "rating": 1483.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2017-10-21",
+      "fight_id": "caa7d74c5c0add5b",
+      "rating": 1485.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "755f148b2692ab54",
+      "rating": 1468.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2018-12-01",
+      "fight_id": "755f148b2692ab54",
+      "rating": 1471.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-08-03",
+      "fight_id": "d4160876b895b1bd",
+      "rating": 1453.7,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-08-03",
+      "fight_id": "d4160876b895b1bd",
+      "rating": 1458.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-08-03",
+  "name": "Salim Touahri",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1453.7,
+  "raw_overall_elo": 1458.0,
+  "slug": "salim-touahri",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

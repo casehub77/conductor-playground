@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7321,
+  "divisional_rank": 1344,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kenji Arai",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-04-02",
+      "elo_delta": -14.6,
+      "event_name": "Pride: Bushido 10",
+      "fight_id": "d8d95faadf0166c2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Soccer Kick)",
+      "opponent": "Jens Pulver",
+      "opponent_elo": 1587.9,
+      "outcome": "red_win",
+      "post_elo": 1485.4,
+      "pre_elo": 1500.0,
+      "red_name": "Jens Pulver",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 10",
+      "time": "3:59",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-04-02",
+      "fight_id": "d8d95faadf0166c2",
+      "rating": 1485.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-04-02",
+      "fight_id": "d8d95faadf0166c2",
+      "rating": 1487.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-04-02",
+  "name": "Kenji Arai",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1485.4,
+  "raw_overall_elo": 1487.0,
+  "slug": "kenji-arai",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

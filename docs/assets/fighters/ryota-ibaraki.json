@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9512,
+  "divisional_rank": 1571,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ryota Ibaraki",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-04-02",
+      "elo_delta": -19.4,
+      "event_name": "Shooto: R.E.A.D. 3",
+      "fight_id": "70b64eebc746bfb5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Masashi Kita",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Masashi Kita",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
+      "time": "4:03",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2000-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-04-02",
+      "fight_id": "70b64eebc746bfb5",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-04-02",
+      "fight_id": "70b64eebc746bfb5",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-04-02",
+  "name": "Ryota Ibaraki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "ryota-ibaraki",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

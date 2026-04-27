@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7692,
+  "divisional_rank": 517,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Kenichi Hattori",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-03-27",
+      "elo_delta": 19.5,
+      "event_name": "Shooto: Gig Central 7",
+      "fight_id": "afcd0ba091b1183c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Kenichi Hattori",
+      "opponent_elo": 1500.7,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Yoshihiro Tomioka",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "0:30",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-03-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-03-27",
+      "fight_id": "afcd0ba091b1183c",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-03-27",
+      "fight_id": "afcd0ba091b1183c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-03-27",
+  "name": "Yoshihiro Tomioka",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.5,
+  "raw_current_elo": 1519.5,
+  "raw_overall_elo": 1517.3,
+  "slug": "yoshihiro-tomioka",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9141,
+  "divisional_rank": 1262,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jeremy Bennett",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-04-08",
+      "elo_delta": -19.3,
+      "event_name": "Shooto: Wanna Shooto 2001",
+      "fight_id": "f69ec81fad13b486",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Punches)",
+      "opponent": "Shiko Yamashita",
+      "opponent_elo": 1502.4,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Shiko Yamashita",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
+      "time": "2:36",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-04-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-04-08",
+      "fight_id": "f69ec81fad13b486",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-04-08",
+      "fight_id": "f69ec81fad13b486",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-04-08",
+  "name": "Jeremy Bennett",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.7,
+  "raw_overall_elo": 1482.8,
+  "slug": "jeremy-bennett",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

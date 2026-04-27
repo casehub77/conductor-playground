@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4053,
+  "divisional_rank": 517,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josh Copeland",
+      "bout_type": "Heavyweight Bout",
+      "date": "2015-03-14",
+      "elo_delta": -16.8,
+      "event_name": "UFC 185: Pettis vs Dos Anjos",
+      "fight_id": "3f25b24174766b91",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jared Rosholt",
+      "opponent_elo": 1530.7,
+      "outcome": "red_win",
+      "post_elo": 1466.1,
+      "pre_elo": 1482.9,
+      "red_name": "Jared Rosholt",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:12",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Josh Copeland",
+      "bout_type": "Heavyweight Bout",
+      "date": "2014-11-22",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Edgar vs Swanson",
+      "fight_id": "f5c001f14543845f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ruslan Magomedov",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Ruslan Magomedov",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2014-11-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-11-22",
+      "fight_id": "f5c001f14543845f",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-11-22",
+      "fight_id": "f5c001f14543845f",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-03-14",
+      "fight_id": "3f25b24174766b91",
+      "rating": 1466.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2015-03-14",
+      "fight_id": "3f25b24174766b91",
+      "rating": 1469.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-03-14",
+  "name": "Josh Copeland",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1466.1,
+  "raw_overall_elo": 1469.6,
+  "slug": "josh-copeland",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

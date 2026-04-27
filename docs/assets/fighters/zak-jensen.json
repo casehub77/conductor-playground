@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5313,
+  "divisional_rank": 640,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Zak Jensen",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-10-01",
+      "elo_delta": -17.3,
+      "event_name": "Bellator 52",
+      "fight_id": "f2a749a2e8bb5a32",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical submission (guillotine choke)",
+      "opponent": "Blagoy Ivanov",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1463.8,
+      "pre_elo": 1481.1,
+      "red_name": "Blagoy Ivanov",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 52",
+      "time": "2:35",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Zak Jensen",
+      "bout_type": "Heavyweight Bout",
+      "date": "2011-07-23",
+      "elo_delta": -18.9,
+      "event_name": "Bellator 47",
+      "fight_id": "21f2ea36eddefd1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Neil Grove",
+      "opponent_elo": 1508.9,
+      "outcome": "red_win",
+      "post_elo": 1481.1,
+      "pre_elo": 1500.0,
+      "red_name": "Neil Grove",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 47",
+      "time": "2:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-07-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-07-23",
+      "fight_id": "21f2ea36eddefd1c",
+      "rating": 1481.1,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-07-23",
+      "fight_id": "21f2ea36eddefd1c",
+      "rating": 1483.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "f2a749a2e8bb5a32",
+      "rating": 1463.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "f2a749a2e8bb5a32",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Zak Jensen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.8,
+  "raw_overall_elo": 1467.5,
+  "slug": "zak-jensen",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

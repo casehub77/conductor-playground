@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5838,
+  "divisional_rank": 1584,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Satoru Enomoto",
+      "bout_type": "Open Weight Bout",
+      "date": "2010-04-24",
+      "elo_delta": -22.4,
+      "event_name": "Shooto: Gig Tokyo 4",
+      "fight_id": "f207735a008dcea9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Corner Stoppage)",
+      "opponent": "Yuki Yasunaga",
+      "opponent_elo": 1445.8,
+      "outcome": "red_win",
+      "post_elo": 1477.6,
+      "pre_elo": 1500.0,
+      "red_name": "Yuki Yasunaga",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2010 in Shooto",
+      "time": "0:41",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2010-04-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-24",
+      "fight_id": "f207735a008dcea9",
+      "rating": 1477.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2010-04-24",
+      "fight_id": "f207735a008dcea9",
+      "rating": 1480.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-24",
+  "name": "Satoru Enomoto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1477.6,
+  "raw_overall_elo": 1480.3,
+  "slug": "satoru-enomoto",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

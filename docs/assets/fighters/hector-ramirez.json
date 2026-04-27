@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6881,
+  "divisional_rank": 466,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Hector Ramirez",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-06-16",
+      "elo_delta": -15.3,
+      "event_name": "UFC 72: Victory",
+      "fight_id": "56bb4b4a2e066ebd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Forrest Griffin",
+      "opponent_elo": 1534.4,
+      "outcome": "red_win",
+      "post_elo": 1465.9,
+      "pre_elo": 1481.2,
+      "red_name": "Forrest Griffin",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Hector Ramirez",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2006-11-18",
+      "elo_delta": -18.8,
+      "event_name": "UFC 65: Bad Intentions",
+      "fight_id": "a2241a0e8b8c1bf2",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "James Irvin",
+      "opponent_elo": 1510.8,
+      "outcome": "red_win",
+      "post_elo": 1481.2,
+      "pre_elo": 1500.0,
+      "red_name": "James Irvin",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:36",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-11-18",
+      "fight_id": "a2241a0e8b8c1bf2",
+      "rating": 1481.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-11-18",
+      "fight_id": "a2241a0e8b8c1bf2",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-06-16",
+      "fight_id": "56bb4b4a2e066ebd",
+      "rating": 1465.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-06-16",
+      "fight_id": "56bb4b4a2e066ebd",
+      "rating": 1469.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-06-16",
+  "name": "Hector Ramirez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.9,
+  "raw_overall_elo": 1469.6,
+  "slug": "hector-ramirez",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4417,
+  "divisional_rank": 451,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Sean Strickland",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-03-15",
+      "elo_delta": -19.7,
+      "event_name": "UFC 171: Hendricks vs Lawler",
+      "fight_id": "60c208ed329300b8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Sean Strickland",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1484.3,
+      "pre_elo": 1503.9,
+      "red_name": "Robert Mcdaniel",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:33",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Robert Mcdaniel",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-08-28",
+      "elo_delta": -15.5,
+      "event_name": "UFC Fight Night: Condit vs Kampmann 2",
+      "fight_id": "c8795149d20b1741",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Brad Tavares",
+      "opponent_elo": 1567.7,
+      "outcome": "red_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1519.4,
+      "red_name": "Brad Tavares",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Gilbert Smith",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-04-13",
+      "elo_delta": 19.4,
+      "event_name": "The Ultimate Fighter: Team Jones vs. Team Sonnen Finale",
+      "fight_id": "156794b05b137b85",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Gilbert Smith",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Robert Mcdaniel",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:49",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2013-04-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-04-13",
+      "fight_id": "156794b05b137b85",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-04-13",
+      "fight_id": "156794b05b137b85",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "c8795149d20b1741",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "c8795149d20b1741",
+      "rating": 1503.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-03-15",
+      "fight_id": "60c208ed329300b8",
+      "rating": 1484.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-03-15",
+      "fight_id": "60c208ed329300b8",
+      "rating": 1485.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-03-15",
+  "name": "Robert Mcdaniel",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1484.3,
+  "raw_overall_elo": 1485.8,
+  "slug": "robert-mcdaniel",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9500,
+  "divisional_rank": 401,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Joe Slick",
+      "bout_type": "Middleweight Bout",
+      "date": "2000-04-14",
+      "elo_delta": -20.5,
+      "event_name": "UFC 25: Ultimate Japan 3",
+      "fight_id": "c051b72153ff12e9",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Ikuhisa Minowa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.0,
+      "pre_elo": 1519.5,
+      "red_name": "Ikuhisa Minowa",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:54",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jason Delucia",
+      "bout_type": "Middleweight Bout",
+      "date": "1999-11-19",
+      "elo_delta": 19.5,
+      "event_name": "UFC 23: Ultimate Japan 2",
+      "fight_id": "97efb7273093ea30",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Jason Delucia",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Joe Slick",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:28",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "1999-11-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-11-19",
+      "fight_id": "97efb7273093ea30",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "1999-11-19",
+      "fight_id": "97efb7273093ea30",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-04-14",
+      "fight_id": "c051b72153ff12e9",
+      "rating": 1499.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2000-04-14",
+      "fight_id": "c051b72153ff12e9",
+      "rating": 1499.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-04-14",
+  "name": "Joe Slick",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.5,
+  "raw_current_elo": 1499.0,
+  "raw_overall_elo": 1499.2,
+  "slug": "joe-slick",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

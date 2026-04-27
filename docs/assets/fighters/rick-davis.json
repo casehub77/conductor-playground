@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7266,
+  "divisional_rank": 1130,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Rick Davis",
+      "bout_type": "Lightweight Bout",
+      "date": "2006-05-27",
+      "elo_delta": -19.5,
+      "event_name": "UFC 60: Hughes vs Gracie",
+      "fight_id": "b19821bbde015f17",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Melvin Guillard",
+      "opponent_elo": 1498.2,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Melvin Guillard",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:37",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2006-05-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-05-27",
+      "fight_id": "b19821bbde015f17",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2006-05-27",
+      "fight_id": "b19821bbde015f17",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-05-27",
+  "name": "Rick Davis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.5,
+  "raw_overall_elo": 1482.6,
+  "slug": "rick-davis",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

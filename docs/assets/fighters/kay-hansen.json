@@ -1,8 +1,8 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1477,
-  "divisional_rank": 80,
+  "days_since_last_fight": 1470,
+  "divisional_rank": 112,
   "fight_count": 4,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Piera Rodriguez",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1483.4,
-      "pre_elo": 1500.4,
+      "post_elo": 1482.7,
+      "pre_elo": 1499.7,
       "red_name": "Piera Rodriguez",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -40,8 +40,8 @@
       "opponent": "Jasmine Jasudavicius",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1482.5,
-      "pre_elo": 1500.5,
+      "post_elo": 1481.8,
+      "pre_elo": 1499.8,
       "red_name": "Kay Hansen",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -62,8 +62,8 @@
       "opponent": "Cory Mckenna",
       "opponent_elo": 1500.0,
       "outcome": "blue_win",
-      "post_elo": 1500.4,
-      "pre_elo": 1519.4,
+      "post_elo": 1499.7,
+      "pre_elo": 1518.7,
       "red_name": "Kay Hansen",
       "round": "3.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -75,16 +75,16 @@
       "blue_name": "Jinh Yu Frey",
       "bout_type": "Women's Strawweight Bout",
       "date": "2020-06-27",
-      "elo_delta": 19.4,
+      "elo_delta": 18.7,
       "event_name": "UFC Fight Night: Poirier vs. Hooker",
       "fight_id": "b24a89d100d06361",
       "gender": "women",
       "is_title": false,
       "method": "Submission",
       "opponent": "Jinh Yu Frey",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1486.4,
       "outcome": "red_win",
-      "post_elo": 1519.4,
+      "post_elo": 1518.7,
       "pre_elo": 1500.0,
       "red_name": "Kay Hansen",
       "round": "3.0",
@@ -100,56 +100,56 @@
     {
       "date": "2020-06-27",
       "fight_id": "b24a89d100d06361",
-      "rating": 1519.4,
+      "rating": 1518.7,
       "scope": "division",
       "system": "women:Strawweight"
     },
     {
       "date": "2020-06-27",
       "fight_id": "b24a89d100d06361",
-      "rating": 1517.3,
+      "rating": 1516.6,
       "scope": "overall",
       "system": "women:overall"
     },
     {
       "date": "2020-11-14",
       "fight_id": "9765527d1880e6c9",
-      "rating": 1500.4,
+      "rating": 1499.7,
       "scope": "division",
       "system": "women:Strawweight"
     },
     {
       "date": "2020-11-14",
       "fight_id": "9765527d1880e6c9",
-      "rating": 1500.5,
+      "rating": 1499.8,
       "scope": "overall",
       "system": "women:overall"
     },
     {
       "date": "2022-01-22",
       "fight_id": "58616a798cb20f0d",
-      "rating": 1482.5,
+      "rating": 1481.8,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2022-01-22",
       "fight_id": "58616a798cb20f0d",
-      "rating": 1484.5,
+      "rating": 1483.8,
       "scope": "overall",
       "system": "women:overall"
     },
     {
       "date": "2022-04-09",
       "fight_id": "6d25233dad36bd8c",
-      "rating": 1483.4,
+      "rating": 1482.7,
       "scope": "division",
       "system": "women:Strawweight"
     },
     {
       "date": "2022-04-09",
       "fight_id": "6d25233dad36bd8c",
-      "rating": 1470.0,
+      "rating": 1469.4,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -162,9 +162,9 @@
   "name": "Kay Hansen",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1519.4,
-  "raw_current_elo": 1483.4,
-  "raw_overall_elo": 1470.0,
+  "peak_elo": 1518.7,
+  "raw_current_elo": 1482.7,
+  "raw_overall_elo": 1469.4,
   "slug": "kay-hansen",
   "systems": {
     "division": "women:Strawweight",

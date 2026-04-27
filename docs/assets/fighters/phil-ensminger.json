@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9058,
+  "divisional_rank": 642,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gabriel Garcia",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-06-30",
+      "elo_delta": 19.4,
+      "event_name": "WEC 1: Princes of Pain",
+      "fight_id": "81a3451c5d5365be",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Gabriel Garcia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Phil Ensminger",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 1",
+      "time": "0:59",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-06-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-06-30",
+      "fight_id": "81a3451c5d5365be",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-06-30",
+      "fight_id": "81a3451c5d5365be",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-06-30",
+  "name": "Phil Ensminger",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "phil-ensminger",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

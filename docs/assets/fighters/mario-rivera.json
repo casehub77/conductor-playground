@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7007,
+  "divisional_rank": 882,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mario Rivera",
+      "bout_type": "Welterweight Bout",
+      "date": "2007-02-10",
+      "elo_delta": -17.0,
+      "event_name": "Strikeforce: Young Guns",
+      "fight_id": "0cbe1b9405fb6ddf",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Juan Alcain",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Juan Alcain",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Young Guns",
+      "time": "3:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Mario Rivera",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-08-17",
+      "elo_delta": -14.9,
+      "event_name": "WEC 23: Hot August Fights",
+      "fight_id": "d7152411bb3cd9e7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Kenny Ento",
+      "opponent_elo": 1566.2,
+      "outcome": "red_win",
+      "post_elo": 1467.9,
+      "pre_elo": 1482.7,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 23",
+      "time": "2:44",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Mario Rivera",
+      "bout_type": "Welterweight Bout",
+      "date": "2006-07-28",
+      "elo_delta": -19.4,
+      "event_name": "WEC 22: The Hitman",
+      "fight_id": "37f3e68f6f8def84",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Jonathan Mix",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Jonathan Mix",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 22",
+      "time": "3:47",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2006-07-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-07-28",
+      "fight_id": "37f3e68f6f8def84",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2006-07-28",
+      "fight_id": "37f3e68f6f8def84",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "d7152411bb3cd9e7",
+      "rating": 1467.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-08-17",
+      "fight_id": "d7152411bb3cd9e7",
+      "rating": 1469.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-02-10",
+      "fight_id": "0cbe1b9405fb6ddf",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2007-02-10",
+      "fight_id": "0cbe1b9405fb6ddf",
+      "rating": 1454.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-02-10",
+  "name": "Mario Rivera",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.6,
+  "raw_overall_elo": 1454.8,
+  "slug": "mario-rivera",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 11897,
+  "divisional_rank": 1179,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "George Weingeroff",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-09-21",
+      "elo_delta": -19.4,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 1",
+      "fight_id": "c7d1a63018f27a19",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (head kick)",
+      "opponent": "Kazuo Takahashi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kazuo Takahashi",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 1",
+      "time": "1:23",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1993-09-21",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1993-09-21",
+      "fight_id": "c7d1a63018f27a19",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-09-21",
+      "fight_id": "c7d1a63018f27a19",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1993-09-21",
+  "name": "George Weingeroff",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "george-weingeroff",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

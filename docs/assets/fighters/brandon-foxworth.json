@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6916,
+  "divisional_rank": 682,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Brandon Foxworth",
+      "bout_type": "Featherweight Bout",
+      "date": "2007-05-12",
+      "elo_delta": -19.4,
+      "event_name": "WEC 27: Marshall vs. McElfresh",
+      "fight_id": "9f94e2da964a697f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Manny Tapia",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Manny Tapia",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 27",
+      "time": "3:17",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2007-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-05-12",
+      "fight_id": "9f94e2da964a697f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2007-05-12",
+      "fight_id": "9f94e2da964a697f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-05-12",
+  "name": "Brandon Foxworth",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "brandon-foxworth",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

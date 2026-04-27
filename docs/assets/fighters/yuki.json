@@ -1,0 +1,73 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3107,
+  "divisional_rank": 64,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kurogi Darvish",
+      "bout_type": "Catchweight 62 kg Bout",
+      "date": "2017-10-15",
+      "elo_delta": 0.9,
+      "event_name": "Rizin Fighting World Grand Prix 2017: opening round - Aki no Jin",
+      "fight_id": "c4b808d16dbb8819",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (majority)",
+      "opponent": "Kurogi Darvish",
+      "opponent_elo": 1500.0,
+      "outcome": "draw",
+      "post_elo": 1483.6,
+      "pre_elo": 1482.7,
+      "red_name": "Yuki",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "9:00",
+      "weight_class": "Catch Weight"
+    }
+  ],
+  "first_fight_date": "2016-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-04-17",
+      "fight_id": "7b0580cf773139df",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-10-15",
+      "fight_id": "c4b808d16dbb8819",
+      "rating": 1483.6,
+      "scope": "division",
+      "system": "men:Catch Weight"
+    },
+    {
+      "date": "2017-10-15",
+      "fight_id": "c4b808d16dbb8819",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-10-15",
+  "name": "Yuki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.6,
+  "raw_overall_elo": 1483.5,
+  "slug": "yuki",
+  "systems": {
+    "division": "men:Catch Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Catch Weight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5410,
+  "divisional_rank": 746,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Curt Warburton",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-06-26",
+      "elo_delta": -16.7,
+      "event_name": "UFC Live: Kongo vs Barry",
+      "fight_id": "3f88feef33b167a1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Joe Lauzon",
+      "opponent_elo": 1553.6,
+      "outcome": "red_win",
+      "post_elo": 1487.4,
+      "pre_elo": 1504.1,
+      "red_name": "Joe Lauzon",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:58",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Curt Warburton",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-02-26",
+      "elo_delta": 19.9,
+      "event_name": "UFC 127: Penn vs Fitch",
+      "fight_id": "9417e27f302345eb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Maciej Jewtuszko",
+      "opponent_elo": 1520.6,
+      "outcome": "blue_win",
+      "post_elo": 1504.1,
+      "pre_elo": 1484.2,
+      "red_name": "Maciej Jewtuszko",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Curt Warburton",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-10-16",
+      "elo_delta": -15.8,
+      "event_name": "UFC 120: Bisping vs Akiyama",
+      "fight_id": "c47e01b0b8be26c4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Spencer Fisher",
+      "opponent_elo": 1542.5,
+      "outcome": "red_win",
+      "post_elo": 1484.2,
+      "pre_elo": 1500.0,
+      "red_name": "Spencer Fisher",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-10-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-10-16",
+      "fight_id": "c47e01b0b8be26c4",
+      "rating": 1484.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-10-16",
+      "fight_id": "c47e01b0b8be26c4",
+      "rating": 1485.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-02-26",
+      "fight_id": "9417e27f302345eb",
+      "rating": 1504.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-02-26",
+      "fight_id": "9417e27f302345eb",
+      "rating": 1503.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-26",
+      "fight_id": "3f88feef33b167a1",
+      "rating": 1487.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-06-26",
+      "fight_id": "3f88feef33b167a1",
+      "rating": 1488.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-06-26",
+  "name": "Curt Warburton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.1,
+  "raw_current_elo": 1487.4,
+  "raw_overall_elo": 1488.3,
+  "slug": "curt-warburton",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

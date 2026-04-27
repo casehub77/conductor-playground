@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3184,
+  "divisional_rank": 176,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Sheena Brandenburg",
+      "bout_type": "Female Flyweight 57 kg Bout",
+      "date": "2017-07-30",
+      "elo_delta": -19.4,
+      "event_name": "Rizin Fighting World Grand Prix 2017 opening round - Natsu no Jin",
+      "fight_id": "2bae6099d943268d",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Shinju Nozawa-Auclair",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Shinju Nozawa-Auclair",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "1:40",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2017-07-30",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2017-07-30",
+      "fight_id": "2bae6099d943268d",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "women:Flyweight"
+    },
+    {
+      "date": "2017-07-30",
+      "fight_id": "2bae6099d943268d",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-07-30",
+  "name": "Sheena Brandenburg",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "sheena-brandenburg",
+  "systems": {
+    "division": "women:Flyweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Flyweight"
+}

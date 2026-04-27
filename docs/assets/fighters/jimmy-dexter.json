@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7288,
+  "divisional_rank": 889,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jimmy Dexter",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-05-05",
+      "elo_delta": -16.4,
+      "event_name": "WEC 20: Cinco de Mayhem",
+      "fight_id": "f3ea2a53a6a69c0e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Fernando Gonzalez",
+      "opponent_elo": 1520.4,
+      "outcome": "red_win",
+      "post_elo": 1449.6,
+      "pre_elo": 1466.1,
+      "red_name": "Fernando Gonzalez",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 20",
+      "time": "4:09",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jimmy Dexter",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-03-17",
+      "elo_delta": -16.7,
+      "event_name": "WEC 19: Undisputed",
+      "fight_id": "40c20b4799143a5a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Kenny Ento",
+      "opponent_elo": 1532.9,
+      "outcome": "red_win",
+      "post_elo": 1466.1,
+      "pre_elo": 1482.7,
+      "red_name": "Kenny Ento",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 19",
+      "time": "1:20",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Jimmy Dexter",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-10-14",
+      "elo_delta": -19.4,
+      "event_name": "WEC 17: Halloween Fury 4",
+      "fight_id": "1be26c7376b448de",
+      "gender": "men",
+      "is_title": false,
+      "method": "DQ (Knee to the Head on the Ground)",
+      "opponent": "Andrew Martinez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Andrew Martinez",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 17",
+      "time": "1:12",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-10-14",
+      "fight_id": "1be26c7376b448de",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-10-14",
+      "fight_id": "1be26c7376b448de",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "40c20b4799143a5a",
+      "rating": 1466.1,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "40c20b4799143a5a",
+      "rating": 1467.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "f3ea2a53a6a69c0e",
+      "rating": 1449.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-05-05",
+      "fight_id": "f3ea2a53a6a69c0e",
+      "rating": 1453.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-05-05",
+  "name": "Jimmy Dexter",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1449.6,
+  "raw_overall_elo": 1453.1,
+  "slug": "jimmy-dexter",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

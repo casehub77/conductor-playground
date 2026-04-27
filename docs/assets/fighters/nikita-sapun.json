@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3397,
+  "divisional_rank": 352,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Nikita Sapun",
+      "bout_type": "Flyweight 57 kg Bout",
+      "date": "2016-12-29",
+      "elo_delta": -19.4,
+      "event_name": "Rizin World Grand-Prix 2016: 2nd Round",
+      "fight_id": "4d26500b91a8be6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Tenshin Nasukawa",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Tenshin Nasukawa",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2016 in Rizin Fighting Federation",
+      "time": "2:45",
+      "weight_class": "Flyweight"
+    }
+  ],
+  "first_fight_date": "2016-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-12-29",
+      "fight_id": "4d26500b91a8be6e",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2016-12-29",
+      "fight_id": "4d26500b91a8be6e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-12-29",
+  "name": "Nikita Sapun",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "nikita-sapun",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

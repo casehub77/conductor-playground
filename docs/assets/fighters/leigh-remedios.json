@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7581,
+  "divisional_rank": 1768,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Emmanuel Fernandez",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-07-16",
+      "elo_delta": 3.4,
+      "event_name": "CWFC: Strike Force 2",
+      "fight_id": "ec7d227ca814002a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Emmanuel Fernandez",
+      "opponent_elo": 1548.2,
+      "outcome": "draw",
+      "post_elo": 1486.1,
+      "pre_elo": 1482.7,
+      "red_name": "Leigh Remedios",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Leigh Remedios",
+      "bout_type": "Lightweight Bout",
+      "date": "2002-07-13",
+      "elo_delta": -19.4,
+      "event_name": "UFC 38: Brawl at the Hall",
+      "fight_id": "cf44d37ab456ebe3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Genki Sudo",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Genki Sudo",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:38",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2002-07-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-07-13",
+      "fight_id": "cf44d37ab456ebe3",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2002-07-13",
+      "fight_id": "cf44d37ab456ebe3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2005-07-16",
+      "fight_id": "ec7d227ca814002a",
+      "rating": 1486.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-07-16",
+      "fight_id": "ec7d227ca814002a",
+      "rating": 1485.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-07-16",
+  "name": "Leigh Remedios",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1486.1,
+  "raw_overall_elo": 1485.5,
+  "slug": "leigh-remedios",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

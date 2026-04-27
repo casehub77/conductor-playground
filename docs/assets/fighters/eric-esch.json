@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6950,
+  "divisional_rank": 259,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Zuluzinho",
+      "bout_type": "Heavyweight Bout",
+      "date": "2007-04-08",
+      "elo_delta": 19.2,
+      "event_name": "Pride 34",
+      "fight_id": "11276dfe892d84ea",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (keylock)",
+      "opponent": "Zuluzinho",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1523.2,
+      "pre_elo": 1504.0,
+      "red_name": "Eric Esch",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 34",
+      "time": "2:35",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Sean O'Haire",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-10-21",
+      "elo_delta": 20.4,
+      "event_name": "Pride 32",
+      "fight_id": "f1929f849baa9358",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Sean O'Haire",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.0,
+      "pre_elo": 1483.6,
+      "red_name": "Eric Esch",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 32",
+      "time": "0:29",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Eric Esch",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-08-26",
+      "elo_delta": -18.3,
+      "event_name": "Pride: Bushido 12",
+      "fight_id": "8d330c06001cf06e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Ikuhisa Minowa",
+      "opponent_elo": 1519.7,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Ikuhisa Minowa",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 12",
+      "time": "4:25",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-08-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-08-26",
+      "fight_id": "8d330c06001cf06e",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-08-26",
+      "fight_id": "8d330c06001cf06e",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-10-21",
+      "fight_id": "f1929f849baa9358",
+      "rating": 1504.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-10-21",
+      "fight_id": "f1929f849baa9358",
+      "rating": 1501.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-04-08",
+      "fight_id": "11276dfe892d84ea",
+      "rating": 1523.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2007-04-08",
+      "fight_id": "11276dfe892d84ea",
+      "rating": 1518.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-04-08",
+  "name": "Eric Esch",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1523.2,
+  "raw_current_elo": 1523.2,
+  "raw_overall_elo": 1518.9,
+  "slug": "eric-esch",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

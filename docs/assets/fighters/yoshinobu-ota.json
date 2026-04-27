@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9178,
+  "divisional_rank": 492,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yoshinobu Ota",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-03-02",
+      "elo_delta": -19.3,
+      "event_name": "Shooto: To The Top 2",
+      "fight_id": "dda9526fb7edbde8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear Naked Choke)",
+      "opponent": "Masahiro Oishi",
+      "opponent_elo": 1502.1,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1499.9,
+      "red_name": "Masahiro Oishi",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2001 in Shooto",
+      "time": "2:48",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoshinobu Ota",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-08-27",
+      "elo_delta": -20.6,
+      "event_name": "Shooto: R.E.A.D. 9",
+      "fight_id": "961017cc8808c6eb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Knee)",
+      "opponent": "Mamoru Yamaguchi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.9,
+      "pre_elo": 1520.4,
+      "red_name": "Mamoru Yamaguchi",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
+      "time": "2:21",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Norio Nishiyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2000-03-17",
+      "elo_delta": 20.4,
+      "event_name": "Shooto: R.E.A.D. 2",
+      "fight_id": "74e3c9e1bbdc8a70",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Rear-Naked Choke)",
+      "opponent": "Norio Nishiyama",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1520.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yoshinobu Ota",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2000 in Shooto",
+      "time": "0:28",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2000-03-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-03-17",
+      "fight_id": "74e3c9e1bbdc8a70",
+      "rating": 1520.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-03-17",
+      "fight_id": "74e3c9e1bbdc8a70",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-08-27",
+      "fight_id": "961017cc8808c6eb",
+      "rating": 1499.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2000-08-27",
+      "fight_id": "961017cc8808c6eb",
+      "rating": 1499.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-03-02",
+      "fight_id": "dda9526fb7edbde8",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-03-02",
+      "fight_id": "dda9526fb7edbde8",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-03-02",
+  "name": "Yoshinobu Ota",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.4,
+  "raw_current_elo": 1480.5,
+  "raw_overall_elo": 1482.7,
+  "slug": "yoshinobu-ota",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

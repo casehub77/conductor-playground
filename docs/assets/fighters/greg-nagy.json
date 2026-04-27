@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5922,
+  "divisional_rank": 477,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Greg Nagy",
+      "bout_type": "Heavyweight Bout",
+      "date": "2010-01-30",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Miami",
+      "fight_id": "03e5fd34a63e5439",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Herschel Walker",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Herschel Walker",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Miami",
+      "time": "2:17",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2010-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-30",
+      "fight_id": "03e5fd34a63e5439",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2010-01-30",
+      "fight_id": "03e5fd34a63e5439",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-01-30",
+  "name": "Greg Nagy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "greg-nagy",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

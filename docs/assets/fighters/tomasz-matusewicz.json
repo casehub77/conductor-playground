@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3298,
+  "divisional_rank": 1163,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Tomasz Matusewicz",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2017-04-07",
+      "elo_delta": -18.4,
+      "event_name": "KSW 38: Live in Studio",
+      "fight_id": "fa22be8d77257758",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Maciej Kazieczko",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1481.6,
+      "pre_elo": 1500.0,
+      "red_name": "Maciej Kazieczko",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Konfrontacja Sztuk Walki",
+      "time": "1:10",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2017-04-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-04-07",
+      "fight_id": "fa22be8d77257758",
+      "rating": 1481.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2017-04-07",
+      "fight_id": "fa22be8d77257758",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-04-07",
+  "name": "Tomasz Matusewicz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.6,
+  "raw_overall_elo": 1483.5,
+  "slug": "tomasz-matusewicz",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

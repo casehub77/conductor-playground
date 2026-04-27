@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2751,
+  "divisional_rank": 608,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Łukasz Parobiec",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2018-10-06",
+      "elo_delta": -20.1,
+      "event_name": "KSW 45: The Return to Wembley",
+      "fight_id": "3a00253b84bc5e20",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Wagner Prado",
+      "opponent_elo": 1487.4,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1500.0,
+      "red_name": "Wagner Prado",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2018 in Konfrontacja Sztuk Walki",
+      "time": "0:40",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2018-10-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-10-06",
+      "fight_id": "3a00253b84bc5e20",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2018-10-06",
+      "fight_id": "3a00253b84bc5e20",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-10-06",
+  "name": "Łukasz Parobiec",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.9,
+  "raw_overall_elo": 1482.1,
+  "slug": "ukasz-parobiec",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

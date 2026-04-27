@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7343,
+  "divisional_rank": 1719,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yoko Oyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-03-11",
+      "elo_delta": -17.9,
+      "event_name": "G-Shooto: G-Shooto 04",
+      "fight_id": "50d04ac9d68352fa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Seri Saito",
+      "opponent_elo": 1483.8,
+      "outcome": "red_win",
+      "post_elo": 1464.1,
+      "pre_elo": 1482.0,
+      "red_name": "Seri Saito",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Yoko Oyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-11",
+      "elo_delta": -18.0,
+      "event_name": "G-Shooto: Special 01",
+      "fight_id": "6ce766beb4026266",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Emi Kuroda",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Emi Kuroda",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-11",
+      "fight_id": "6ce766beb4026266",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-11",
+      "fight_id": "6ce766beb4026266",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-11",
+      "fight_id": "50d04ac9d68352fa",
+      "rating": 1464.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-03-11",
+      "fight_id": "50d04ac9d68352fa",
+      "rating": 1468.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-03-11",
+  "name": "Yoko Oyama",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1464.1,
+  "raw_overall_elo": 1468.1,
+  "slug": "yoko-oyama",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

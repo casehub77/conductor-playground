@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5355,
+  "divisional_rank": 520,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mark Griffin",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-08-20",
+      "elo_delta": -20.5,
+      "event_name": "Bellator 48",
+      "fight_id": "a4d5e415fb703015",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (elbows)",
+      "opponent": "Nik Fekete",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Nik Fekete",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 48",
+      "time": "3:12",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-08-20",
+      "fight_id": "a4d5e415fb703015",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-08-20",
+      "fight_id": "a4d5e415fb703015",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-08-20",
+  "name": "Mark Griffin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.5,
+  "raw_overall_elo": 1481.9,
+  "slug": "mark-griffin",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

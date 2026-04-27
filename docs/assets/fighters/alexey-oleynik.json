@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6553,
+  "divisional_rank": 297,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Dowda",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2008-05-09",
+      "elo_delta": 19.1,
+      "event_name": "KSW IX: Konfrontacja",
+      "fight_id": "516e625ee9b94997",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Daniel Dowda",
+      "opponent_elo": 1520.5,
+      "outcome": "red_win",
+      "post_elo": 1519.1,
+      "pre_elo": 1500.0,
+      "red_name": "Alexey Oleynik",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2008 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 3",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2008-05-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-05-09",
+      "fight_id": "516e625ee9b94997",
+      "rating": 1519.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2008-05-09",
+      "fight_id": "516e625ee9b94997",
+      "rating": 1516.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-05-09",
+  "name": "Alexey Oleynik",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.1,
+  "raw_current_elo": 1519.1,
+  "raw_overall_elo": 1516.8,
+  "slug": "alexey-oleynik",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9366,
+  "divisional_rank": 416,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Art Hughes",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2000-08-26",
+      "elo_delta": -17.9,
+      "event_name": "CFF: The Cobra Classic 2000",
+      "fight_id": "85bd92737d613f8c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1528.4,
+      "outcome": "red_win",
+      "post_elo": 1482.1,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "0:46",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2000-08-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2000-08-26",
+      "fight_id": "85bd92737d613f8c",
+      "rating": 1482.1,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2000-08-26",
+      "fight_id": "85bd92737d613f8c",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-08-26",
+  "name": "Art Hughes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.1,
+  "raw_overall_elo": 1484.0,
+  "slug": "art-hughes",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

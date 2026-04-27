@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6664,
+  "divisional_rank": 441,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Colin Robinson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2008-01-19",
+      "elo_delta": -19.2,
+      "event_name": "UFC 80: Rapid Fire",
+      "fight_id": "249e1ead6fb31a39",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Antoni Hardonk",
+      "opponent_elo": 1485.6,
+      "outcome": "red_win",
+      "post_elo": 1461.5,
+      "pre_elo": 1480.7,
+      "red_name": "Antoni Hardonk",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:17",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Colin Robinson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2007-06-16",
+      "elo_delta": -19.3,
+      "event_name": "UFC 72: Victory",
+      "fight_id": "fbf68e75c5668ab4",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eddie Sanchez",
+      "opponent_elo": 1501.9,
+      "outcome": "red_win",
+      "post_elo": 1480.7,
+      "pre_elo": 1500.0,
+      "red_name": "Eddie Sanchez",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:32",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-06-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-06-16",
+      "fight_id": "fbf68e75c5668ab4",
+      "rating": 1480.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2007-06-16",
+      "fight_id": "fbf68e75c5668ab4",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-01-19",
+      "fight_id": "249e1ead6fb31a39",
+      "rating": 1461.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2008-01-19",
+      "fight_id": "249e1ead6fb31a39",
+      "rating": 1465.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-01-19",
+  "name": "Colin Robinson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1461.5,
+  "raw_overall_elo": 1465.7,
+  "slug": "colin-robinson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

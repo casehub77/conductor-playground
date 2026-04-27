@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6831,
+  "divisional_rank": 499,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Justin McElfresh",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-08-05",
+      "elo_delta": -18.4,
+      "event_name": "WEC 29: Condit vs. Larson",
+      "fight_id": "36a9efdabebb5a43",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Steve Cantwell",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.8,
+      "pre_elo": 1482.2,
+      "red_name": "Steve Cantwell",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 29",
+      "time": "0:47",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Justin McElfresh",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-05-12",
+      "elo_delta": -17.8,
+      "event_name": "WEC 27: Marshall vs. McElfresh",
+      "fight_id": "c173655ac0ed6022",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Doug Marshall",
+      "opponent_elo": 1530.0,
+      "outcome": "red_win",
+      "post_elo": 1482.2,
+      "pre_elo": 1500.0,
+      "red_name": "Doug Marshall",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 27",
+      "time": "2:16",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-05-12",
+      "fight_id": "c173655ac0ed6022",
+      "rating": 1482.2,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-05-12",
+      "fight_id": "c173655ac0ed6022",
+      "rating": 1485.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2007-08-05",
+      "fight_id": "36a9efdabebb5a43",
+      "rating": 1463.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-08-05",
+      "fight_id": "36a9efdabebb5a43",
+      "rating": 1468.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2007-08-05",
+  "name": "Justin McElfresh",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.8,
+  "raw_overall_elo": 1468.5,
+  "slug": "justin-mcelfresh",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8972,
+  "divisional_rank": 1723,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yoshiaki Yatsu",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-09-24",
+      "elo_delta": -19.9,
+      "event_name": "Pride 16",
+      "fight_id": "ea5cbb69a4f969b2",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Corner Stoppage)",
+      "opponent": "Gary Goodridge",
+      "opponent_elo": 1491.8,
+      "outcome": "red_win",
+      "post_elo": 1480.1,
+      "pre_elo": 1500.0,
+      "red_name": "Gary Goodridge",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 16",
+      "time": "3:03",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2001-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-09-24",
+      "fight_id": "ea5cbb69a4f969b2",
+      "rating": 1480.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-09-24",
+      "fight_id": "ea5cbb69a4f969b2",
+      "rating": 1483.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-09-24",
+  "name": "Yoshiaki Yatsu",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.1,
+  "raw_overall_elo": 1483.0,
+  "slug": "yoshiaki-yatsu",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

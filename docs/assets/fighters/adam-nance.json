@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7203,
+  "divisional_rank": 402,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Adam Nance",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-07-29",
+      "elo_delta": -18.7,
+      "event_name": "LA EFN: Executive Fight Night",
+      "fight_id": "10d9c78f791471c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1512.5,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "N/A",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-07-29",
+      "fight_id": "10d9c78f791471c3",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-07-29",
+      "fight_id": "10d9c78f791471c3",
+      "rating": 1482.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-07-29",
+  "name": "Adam Nance",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.3,
+  "raw_overall_elo": 1482.6,
+  "slug": "adam-nance",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

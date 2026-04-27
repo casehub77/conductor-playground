@@ -1,0 +1,73 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5250,
+  "divisional_rank": 956,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dustin Neace",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-12-03",
+      "elo_delta": -19.4,
+      "event_name": "The Ultimate Fighter: Team Bisping vs Team Miller Finale",
+      "fight_id": "436af8427eb32696",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Bryan Caraway",
+      "opponent_elo": 1481.6,
+      "outcome": "red_win",
+      "post_elo": 1460.8,
+      "pre_elo": 1480.1,
+      "red_name": "Bryan Caraway",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:38",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-11-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-11-07",
+      "fight_id": "091149e3dea93743",
+      "rating": 1480.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-12-03",
+      "fight_id": "436af8427eb32696",
+      "rating": 1460.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-12-03",
+      "fight_id": "436af8427eb32696",
+      "rating": 1463.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-12-03",
+  "name": "Dustin Neace",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1460.8,
+  "raw_overall_elo": 1463.0,
+  "slug": "dustin-neace",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

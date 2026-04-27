@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5602,
+  "divisional_rank": 787,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Will Kerr",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-12-16",
+      "elo_delta": -18.5,
+      "event_name": "WEC 53: Henderson vs. Pettis",
+      "fight_id": "daac6020e040f5d3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Danny Castillo",
+      "opponent_elo": 1517.2,
+      "outcome": "red_win",
+      "post_elo": 1482.6,
+      "pre_elo": 1501.2,
+      "red_name": "Danny Castillo",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 53",
+      "time": "1:25",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Karen Darabedyan",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-06-20",
+      "elo_delta": 20.6,
+      "event_name": "WEC 49: Varner vs. Shalorus",
+      "fight_id": "75a25c29d20a65da",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Karen Darabedyan",
+      "opponent_elo": 1501.8,
+      "outcome": "red_win",
+      "post_elo": 1501.2,
+      "pre_elo": 1480.6,
+      "red_name": "Will Kerr",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 49",
+      "time": "1:20",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Will Kerr",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-11-18",
+      "elo_delta": -19.4,
+      "event_name": "WEC 44: Brown vs. Aldo",
+      "fight_id": "e25ee547e679b41a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (strikes)",
+      "opponent": "Kamal Shalorus",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kamal Shalorus",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 44",
+      "time": "1:26",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-11-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-11-18",
+      "fight_id": "e25ee547e679b41a",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-11-18",
+      "fight_id": "e25ee547e679b41a",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-06-20",
+      "fight_id": "75a25c29d20a65da",
+      "rating": 1501.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-06-20",
+      "fight_id": "75a25c29d20a65da",
+      "rating": 1500.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-12-16",
+      "fight_id": "daac6020e040f5d3",
+      "rating": 1482.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-12-16",
+      "fight_id": "daac6020e040f5d3",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-12-16",
+  "name": "Will Kerr",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.2,
+  "raw_current_elo": 1482.6,
+  "raw_overall_elo": 1484.4,
+  "slug": "will-kerr",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

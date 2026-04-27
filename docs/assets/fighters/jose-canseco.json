@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6171,
+  "divisional_rank": 513,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jose Canseco",
+      "bout_type": "Super Heavyweight Bout",
+      "date": "2009-05-26",
+      "elo_delta": -19.4,
+      "event_name": "Dream.9: Feather Weight Grand Prix 2009 Second Round",
+      "fight_id": "7b8e072010e7ca75",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to punches)",
+      "opponent": "Hong Man Choi",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Hong Man Choi",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 9",
+      "time": "1:17",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-05-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-26",
+      "fight_id": "7b8e072010e7ca75",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-05-26",
+      "fight_id": "7b8e072010e7ca75",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-26",
+  "name": "Jose Canseco",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "jose-canseco",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

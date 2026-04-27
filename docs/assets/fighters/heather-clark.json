@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3451,
+  "divisional_rank": 128,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Heather Clark",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2016-11-05",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "fight_id": "5c17d37b8a38d43e",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Alexa Grasso",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1485.7,
+      "pre_elo": 1503.9,
+      "red_name": "Alexa Grasso",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Heather Clark",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2016-05-08",
+      "elo_delta": -14.1,
+      "event_name": "UFC Fight Night: Overeem vs Arlovski",
+      "fight_id": "ef47b7934033caf1",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Karolina Kowalkiewicz",
+      "opponent_elo": 1594.8,
+      "outcome": "red_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1518.0,
+      "red_name": "Karolina Kowalkiewicz",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    },
+    {
+      "blue_name": "Heather Clark",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2014-12-12",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: A Champion Will Be Crowned Finale",
+      "fight_id": "7a04b86856c1997c",
+      "gender": "women",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Bec Rawlings",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Bec Rawlings",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Strawweight"
+    }
+  ],
+  "first_fight_date": "2014-12-12",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2014-12-12",
+      "fight_id": "7a04b86856c1997c",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2014-12-12",
+      "fight_id": "7a04b86856c1997c",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2016-05-08",
+      "fight_id": "ef47b7934033caf1",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2016-05-08",
+      "fight_id": "ef47b7934033caf1",
+      "rating": 1503.3,
+      "scope": "overall",
+      "system": "women:overall"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "5c17d37b8a38d43e",
+      "rating": 1485.7,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "5c17d37b8a38d43e",
+      "rating": 1487.1,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-11-05",
+  "name": "Heather Clark",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1485.7,
+  "raw_overall_elo": 1487.1,
+  "slug": "heather-clark",
+  "systems": {
+    "division": "women:Strawweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Strawweight"
+}

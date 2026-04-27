@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4151,
+  "divisional_rank": 575,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Paweł Nastula",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2014-12-06",
+      "elo_delta": -16.1,
+      "event_name": "KSW 29: Reload",
+      "fight_id": "4d70eee12760eb1f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Mariusz Pudzianowski",
+      "opponent_elo": 1517.8,
+      "outcome": "red_win",
+      "post_elo": 1465.6,
+      "pre_elo": 1481.7,
+      "red_name": "Mariusz Pudzianowski",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2014 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Paweł Nastula",
+      "bout_type": "Heavyweight 120 kg Bout",
+      "date": "2013-09-28",
+      "elo_delta": -18.3,
+      "event_name": "KSW 24: Clash of the Giants",
+      "fight_id": "2ba994d55a31cf93",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Retirement)",
+      "opponent": "Karol Bedorf",
+      "opponent_elo": 1521.0,
+      "outcome": "red_win",
+      "post_elo": 1481.7,
+      "pre_elo": 1500.0,
+      "red_name": "Karol Bedorf",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2013 in Konfrontacja Sztuk Walki",
+      "time": "2:25",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2013-09-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-09-28",
+      "fight_id": "2ba994d55a31cf93",
+      "rating": 1481.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2013-09-28",
+      "fight_id": "2ba994d55a31cf93",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "4d70eee12760eb1f",
+      "rating": 1465.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "4d70eee12760eb1f",
+      "rating": 1469.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-12-06",
+  "name": "Paweł Nastula",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.6,
+  "raw_overall_elo": 1469.1,
+  "slug": "pawe-nastula",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

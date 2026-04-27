@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7363,
+  "divisional_rank": 1657,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tom Laycock",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-02-19",
+      "elo_delta": -17.0,
+      "event_name": "CWFC: Quest 5",
+      "fight_id": "3ca31d613ecc1733",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Adel Rohani",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1480.6,
+      "red_name": "Adel Rohani",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tom Laycock",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-07-29",
+      "elo_delta": -19.4,
+      "event_name": "CWFC: Quest 2",
+      "fight_id": "639da466123e9453",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Scott Allott",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Scott Allott",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "1:28",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-07-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-07-29",
+      "fight_id": "639da466123e9453",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-07-29",
+      "fight_id": "639da466123e9453",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-02-19",
+      "fight_id": "3ca31d613ecc1733",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-02-19",
+      "fight_id": "3ca31d613ecc1733",
+      "rating": 1467.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-02-19",
+  "name": "Tom Laycock",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.6,
+  "raw_overall_elo": 1467.5,
+  "slug": "tom-laycock",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

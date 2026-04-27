@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5425,
+  "divisional_rank": 462,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Shinichi Yoshioka",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-06-11",
+      "elo_delta": -19.5,
+      "event_name": "Shooto: Shooting Disco 15: Try Hard, Japan!",
+      "fight_id": "96e8497e0e4e7d94",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Takuya Ogura",
+      "opponent_elo": 1520.3,
+      "outcome": "red_win",
+      "post_elo": 1501.7,
+      "pre_elo": 1521.2,
+      "red_name": "Takuya Ogura",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "3:28",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Hiroshi Nakamura",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-01-10",
+      "elo_delta": 21.2,
+      "event_name": "Shooto: Shootor's Legacy 1",
+      "fight_id": "75782e63334c2838",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Hiroshi Nakamura",
+      "opponent_elo": 1561.6,
+      "outcome": "red_win",
+      "post_elo": 1521.2,
+      "pre_elo": 1500.0,
+      "red_name": "Shinichi Yoshioka",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-01-10",
+      "fight_id": "75782e63334c2838",
+      "rating": 1521.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-01-10",
+      "fight_id": "75782e63334c2838",
+      "rating": 1518.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-11",
+      "fight_id": "96e8497e0e4e7d94",
+      "rating": 1501.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-06-11",
+      "fight_id": "96e8497e0e4e7d94",
+      "rating": 1501.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-06-11",
+  "name": "Shinichi Yoshioka",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.2,
+  "raw_current_elo": 1501.7,
+  "raw_overall_elo": 1501.2,
+  "slug": "shinichi-yoshioka",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

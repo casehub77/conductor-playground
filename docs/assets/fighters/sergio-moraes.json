@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6147,
+  "divisional_rank": 508,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Josh Martin",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-06-19",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 12",
+      "fight_id": "ad049ec9332942f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (triangle choke)",
+      "opponent": "Josh Martin",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Sérgio Moraes",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 12",
+      "time": "4:21",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-06-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-06-19",
+      "fight_id": "ad049ec9332942f5",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-06-19",
+      "fight_id": "ad049ec9332942f5",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-19",
+  "name": "Sérgio Moraes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "sergio-moraes",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

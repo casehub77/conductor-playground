@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6160,
+  "divisional_rank": 904,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dave Cochran",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-06-06",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Lawler vs. Shields",
+      "fight_id": "d643c80271cdcec3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Pat Benson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Pat Benson",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Lawler vs. Shields",
+      "time": "2:42",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-06-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-06-06",
+      "fight_id": "d643c80271cdcec3",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-06-06",
+      "fight_id": "d643c80271cdcec3",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-06",
+  "name": "Dave Cochran",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "dave-cochran",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

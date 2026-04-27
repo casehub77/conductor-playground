@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5026,
+  "divisional_rank": 369,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Nate Moore",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-07-14",
+      "elo_delta": -21.5,
+      "event_name": "Strikeforce: Rockhold vs. Kennedy",
+      "fight_id": "b36ad08b7c4ed6d1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Jason High",
+      "opponent_elo": 1499.2,
+      "outcome": "red_win",
+      "post_elo": 1515.3,
+      "pre_elo": 1536.8,
+      "red_name": "Jason High",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Rockhold vs. Kennedy",
+      "time": "0:26",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Nathan Coy",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-01-29",
+      "elo_delta": 19.6,
+      "event_name": "Strikeforce: Diaz vs. Cyborg",
+      "fight_id": "bd43ea0b1bc8f663",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punches)",
+      "opponent": "Nathan Coy",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1536.8,
+      "pre_elo": 1517.3,
+      "red_name": "Nate Moore",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Diaz vs. Cyborg",
+      "time": "0:25",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Louis Taylor",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-11-07",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Fedor vs. Rogers",
+      "fight_id": "4a7fa5d6a16a2e1a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to punches)",
+      "opponent": "Louis Taylor",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Nate Moore",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Fedor vs. Rogers",
+      "time": "3:24",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2009-11-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-11-07",
+      "fight_id": "4a7fa5d6a16a2e1a",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-11-07",
+      "fight_id": "4a7fa5d6a16a2e1a",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "bd43ea0b1bc8f663",
+      "rating": 1536.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "bd43ea0b1bc8f663",
+      "rating": 1534.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-07-14",
+      "fight_id": "b36ad08b7c4ed6d1",
+      "rating": 1515.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-07-14",
+      "fight_id": "b36ad08b7c4ed6d1",
+      "rating": 1515.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-07-14",
+  "name": "Nate Moore",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.8,
+  "raw_current_elo": 1515.3,
+  "raw_overall_elo": 1515.5,
+  "slug": "nate-moore",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

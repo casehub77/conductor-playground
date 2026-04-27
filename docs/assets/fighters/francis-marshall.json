@@ -1,32 +1,10 @@
 {
   "activity_status": "active",
-  "current_elo": 1522.6,
-  "days_since_last_fight": 0,
-  "divisional_rank": 127,
-  "fight_count": 7,
+  "current_elo": 1483.4,
+  "days_since_last_fight": 49,
+  "divisional_rank": 1042,
+  "fight_count": 6,
   "fight_log": [
-    {
-      "blue_name": "Lucas Brennan",
-      "bout_type": "Lightweight Bout",
-      "date": "2026-04-25",
-      "elo_delta": 22.0,
-      "event_name": "UFC Fight Night: Sterling vs Zalal",
-      "fight_id": "f23ad4afe9eb6630",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Unanimous",
-      "opponent": "Lucas Brennan",
-      "opponent_elo": 1579.1,
-      "outcome": "red_win",
-      "post_elo": 1522.6,
-      "pre_elo": 1500.6,
-      "red_name": "Francis Marshall",
-      "round": "3",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Lightweight"
-    },
     {
       "blue_name": "Francis Marshall",
       "bout_type": "Featherweight Bout",
@@ -82,7 +60,7 @@
       "is_title": false,
       "method": "Decision - Split",
       "opponent": "Dennis Buzukja",
-      "opponent_elo": 1486.4,
+      "opponent_elo": 1486.9,
       "outcome": "blue_win",
       "post_elo": 1500.6,
       "pre_elo": 1482.4,
@@ -148,7 +126,7 @@
       "is_title": false,
       "method": "KO/TKO",
       "opponent": "Marcelo Rojo",
-      "opponent_elo": 1479.5,
+      "opponent_elo": 1480.0,
       "outcome": "blue_win",
       "post_elo": 1518.3,
       "pre_elo": 1500.0,
@@ -173,7 +151,7 @@
     {
       "date": "2022-12-03",
       "fight_id": "f2cc82a52d74f67d",
-      "rating": 1515.6,
+      "rating": 1515.7,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -229,7 +207,7 @@
     {
       "date": "2025-03-08",
       "fight_id": "3ec4729ec20d9efa",
-      "rating": 1482.7,
+      "rating": 1482.8,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -243,21 +221,7 @@
     {
       "date": "2026-02-28",
       "fight_id": "abcafba0a9f68579",
-      "rating": 1499.2,
-      "scope": "overall",
-      "system": "men:overall"
-    },
-    {
-      "date": "2026-04-25",
-      "fight_id": "f23ad4afe9eb6630",
-      "rating": 1522.6,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2026-04-25",
-      "fight_id": "f23ad4afe9eb6630",
-      "rating": 1518.9,
+      "rating": 1499.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -266,17 +230,17 @@
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-25",
+  "last_fight_date": "2026-02-28",
   "name": "Francis Marshall",
   "nickname": "",
-  "overall_elo": 1518.9,
-  "peak_elo": 1522.6,
-  "raw_current_elo": 1522.6,
-  "raw_overall_elo": 1518.9,
+  "overall_elo": 1499.3,
+  "peak_elo": 1518.3,
+  "raw_current_elo": 1483.4,
+  "raw_overall_elo": 1499.3,
   "slug": "francis-marshall",
   "systems": {
-    "division": "men:Lightweight",
+    "division": "men:Featherweight",
     "overall": "men:overall"
   },
-  "weight_class": "Lightweight"
+  "weight_class": "Featherweight"
 }

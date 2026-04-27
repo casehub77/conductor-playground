@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4186,
+  "divisional_rank": 450,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Merab Dvalishvili",
+      "bout_type": "Bantamweight Bout",
+      "date": "2014-11-01",
+      "elo_delta": 18.1,
+      "event_name": "Cage Fury FC 43",
+      "fight_id": "27739c3fca02a511",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Merab Dvalishvili",
+      "opponent_elo": 1502.4,
+      "outcome": "red_win",
+      "post_elo": 1518.1,
+      "pre_elo": 1500.0,
+      "red_name": "Ricky Bandejas",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Merab Dvalishvili",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2014-11-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-11-01",
+      "fight_id": "27739c3fca02a511",
+      "rating": 1518.1,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2014-11-01",
+      "fight_id": "27739c3fca02a511",
+      "rating": 1516.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-11-01",
+  "name": "Ricky Bandejas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.1,
+  "raw_current_elo": 1518.1,
+  "raw_overall_elo": 1516.1,
+  "slug": "ricky-bandejas",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

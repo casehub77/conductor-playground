@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7863,
+  "divisional_rank": 604,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yuri Pilipchuk",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2004-10-07",
+      "elo_delta": -20.5,
+      "event_name": "KSW II: Konfrontacja",
+      "fight_id": "1279b7bc6913f68f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Krzysztof Mila",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Krzysztof Mila",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2004 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 3",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2004-10-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-10-07",
+      "fight_id": "1279b7bc6913f68f",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2004-10-07",
+      "fight_id": "1279b7bc6913f68f",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-10-07",
+  "name": "Yuri Pilipchuk",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.5,
+  "raw_overall_elo": 1481.9,
+  "slug": "yuri-pilipchuk",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

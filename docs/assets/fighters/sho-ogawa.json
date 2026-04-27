@@ -1,17 +1,83 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1497,
-  "divisional_rank": null,
-  "fight_count": 1,
-  "fight_log": [],
-  "first_fight_date": "2022-03-20",
+  "days_since_last_fight": 1490,
+  "divisional_rank": 635,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Yuma Yamahata",
+      "bout_type": "Catchweight 63 kg Bout",
+      "date": "2022-03-20",
+      "elo_delta": 19.5,
+      "event_name": "Rizin 34 – Osaka",
+      "fight_id": "d417b12ecbeccc31",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (3 Knockdowns)",
+      "opponent": "Yuma Yamahata",
+      "opponent_elo": 1484.1,
+      "outcome": "red_win",
+      "post_elo": 1502.4,
+      "pre_elo": 1482.9,
+      "red_name": "Sho Ogawa",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2022 in Rizin Fighting Federation",
+      "time": "2:52",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Sho Ogawa",
+      "bout_type": "Featherweight 65 kg Bout",
+      "date": "2018-08-12",
+      "elo_delta": -17.1,
+      "event_name": "Rizin 12 - Nagoya",
+      "fight_id": "8647d05d22222608",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Kaito Ono",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1482.9,
+      "pre_elo": 1500.0,
+      "red_name": "Kaito Ono",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Rizin Fighting Federation",
+      "time": "9:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2018-08-12",
   "gender": "men",
   "history": [
     {
+      "date": "2018-08-12",
+      "fight_id": "8647d05d22222608",
+      "rating": 1482.9,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2018-08-12",
+      "fight_id": "8647d05d22222608",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2022-03-20",
       "fight_id": "d417b12ecbeccc31",
-      "rating": 1516.5,
+      "rating": 1502.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2022-03-20",
+      "fight_id": "d417b12ecbeccc31",
+      "rating": 1502.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -24,13 +90,13 @@
   "name": "Sho Ogawa",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1516.5,
-  "raw_current_elo": 1516.5,
-  "raw_overall_elo": 1516.5,
+  "peak_elo": 1502.4,
+  "raw_current_elo": 1502.4,
+  "raw_overall_elo": 1502.0,
   "slug": "sho-ogawa",
   "systems": {
-    "division": "men:Catch Weight",
+    "division": "men:Featherweight",
     "overall": "men:overall"
   },
-  "weight_class": "Catch Weight"
+  "weight_class": "Featherweight"
 }

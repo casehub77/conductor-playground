@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5278,
+  "divisional_rank": 917,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Edward Faaloloto",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-11-05",
+      "elo_delta": -15.3,
+      "event_name": "UFC 138: Leben vs Munoz",
+      "fight_id": "3df21c9e06360543",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Terry Etim",
+      "opponent_elo": 1535.5,
+      "outcome": "red_win",
+      "post_elo": 1445.8,
+      "pre_elo": 1461.1,
+      "red_name": "Terry Etim",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:17",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Edward Faaloloto",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-06-26",
+      "elo_delta": -19.4,
+      "event_name": "UFC Live: Kongo vs Barry",
+      "fight_id": "0b07814117caf7b0",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Michael Johnson",
+      "opponent_elo": 1481.3,
+      "outcome": "red_win",
+      "post_elo": 1461.1,
+      "pre_elo": 1480.5,
+      "red_name": "Michael Johnson",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:42",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Edward Faaloloto",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-11-11",
+      "elo_delta": -19.5,
+      "event_name": "WEC 52: Faber vs. Mizugaki",
+      "fight_id": "ec501b058bd6298e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees and elbows)",
+      "opponent": "Anthony Njokuani",
+      "opponent_elo": 1499.8,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Anthony Njokuani",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 52",
+      "time": "4:54",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-11-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-11-11",
+      "fight_id": "ec501b058bd6298e",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-11-11",
+      "fight_id": "ec501b058bd6298e",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-26",
+      "fight_id": "0b07814117caf7b0",
+      "rating": 1461.1,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-06-26",
+      "fight_id": "0b07814117caf7b0",
+      "rating": 1465.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-11-05",
+      "fight_id": "3df21c9e06360543",
+      "rating": 1445.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-11-05",
+      "fight_id": "3df21c9e06360543",
+      "rating": 1451.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-05",
+  "name": "Edward Faaloloto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1445.8,
+  "raw_overall_elo": 1451.5,
+  "slug": "edward-faaloloto",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

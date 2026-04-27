@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4809,
+  "divisional_rank": 261,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ulysses Gomez",
+      "bout_type": "Flyweight Bout",
+      "date": "2013-02-16",
+      "elo_delta": -19.4,
+      "event_name": "UFC on FUEL TV: Barao vs McDonald",
+      "fight_id": "c06822c41f00d720",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Phil Harris",
+      "opponent_elo": 1469.4,
+      "outcome": "red_win",
+      "post_elo": 1476.3,
+      "pre_elo": 1495.7,
+      "red_name": "Phil Harris",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Ulysses Gomez",
+      "bout_type": "Flyweight Bout",
+      "date": "2012-08-04",
+      "elo_delta": -20.3,
+      "event_name": "UFC on FOX: Shogun vs Vera",
+      "fight_id": "f499cac681094956",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "John Moraga",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1495.7,
+      "pre_elo": 1516.0,
+      "red_name": "John Moraga",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:46",
+      "weight_class": "Flyweight"
+    },
+    {
+      "blue_name": "Travis Reddinger",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-09-02",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 27",
+      "fight_id": "72cb47e4dffeaf3c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (28–29, 29–28, 29–28)",
+      "opponent": "Travis Reddinger",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ulysses Gomez",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 27",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2010-09-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-09-02",
+      "fight_id": "72cb47e4dffeaf3c",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-09-02",
+      "fight_id": "72cb47e4dffeaf3c",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-04",
+      "fight_id": "f499cac681094956",
+      "rating": 1495.7,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2012-08-04",
+      "fight_id": "f499cac681094956",
+      "rating": 1497.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-02-16",
+      "fight_id": "c06822c41f00d720",
+      "rating": 1476.3,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2013-02-16",
+      "fight_id": "c06822c41f00d720",
+      "rating": 1480.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-02-16",
+  "name": "Ulysses Gomez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1476.3,
+  "raw_overall_elo": 1480.7,
+  "slug": "ulysses-gomez",
+  "systems": {
+    "division": "men:Flyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Flyweight"
+}

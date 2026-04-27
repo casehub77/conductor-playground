@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8288,
+  "divisional_rank": 1122,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Randy Spence",
+      "bout_type": "Lightweight Bout",
+      "date": "2003-08-09",
+      "elo_delta": -19.4,
+      "event_name": "WEC 7 – This Time It's Personal",
+      "fight_id": "a6c6bcb80c97221f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Olaf Alfonso",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Olaf Alfonso",
+      "round": "2",
+      "source": "manual",
+      "source_title": "WEC 7",
+      "time": "4:34",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2003-08-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-08-09",
+      "fight_id": "a6c6bcb80c97221f",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2003-08-09",
+      "fight_id": "a6c6bcb80c97221f",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-08-09",
+  "name": "Randy Spence",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "randy-spence",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

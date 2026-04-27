@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8086,
+  "divisional_rank": 195,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Roman Szaszkow",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2004-02-27",
+      "elo_delta": -19.5,
+      "event_name": "KSW I: Konfrontacja",
+      "fight_id": "bbf7c99fe5d05775",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to punches)",
+      "opponent": "Łukasz Jurkowski",
+      "opponent_elo": 1537.4,
+      "outcome": "red_win",
+      "post_elo": 1518.3,
+      "pre_elo": 1537.8,
+      "red_name": "Łukasz Jurkowski",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2004 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Final",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Pawel Trzesniewski",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2004-02-27",
+      "elo_delta": 18.4,
+      "event_name": "KSW I: Konfrontacja",
+      "fight_id": "046685a3ce208f72",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Pawel Trzesniewski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Roman Szaszkow",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2004 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Semi-Finals 2",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "blue_name": "Norbert Swierblewski",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2004-02-27",
+      "elo_delta": 19.4,
+      "event_name": "KSW I: Konfrontacja",
+      "fight_id": "78cb8395e89de768",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Achilles Lock)",
+      "opponent": "Norbert Swierblewski",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Roman Szaszkow",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2004 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 4",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2004-02-27",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-02-27",
+      "fight_id": "78cb8395e89de768",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2004-02-27",
+      "fight_id": "046685a3ce208f72",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2004-02-27",
+      "fight_id": "bbf7c99fe5d05775",
+      "rating": 1518.3,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2004-02-27",
+      "fight_id": "78cb8395e89de768",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-02-27",
+      "fight_id": "046685a3ce208f72",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-02-27",
+      "fight_id": "bbf7c99fe5d05775",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-02-27",
+  "name": "Roman Szaszkow",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "raw_current_elo": 1518.3,
+  "raw_overall_elo": 1516.4,
+  "slug": "roman-szaszkow",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

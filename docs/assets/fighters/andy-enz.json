@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4095,
+  "divisional_rank": 616,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Andy Enz",
+      "bout_type": "Middleweight Bout",
+      "date": "2015-01-31",
+      "elo_delta": -16.8,
+      "event_name": "UFC 183: Silva vs Diaz",
+      "fight_id": "bda9abf44e64ce16",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Thiago Santos",
+      "opponent_elo": 1514.1,
+      "outcome": "red_win",
+      "post_elo": 1449.9,
+      "pre_elo": 1466.7,
+      "red_name": "Thiago Santos",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:56",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Andy Enz",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-06-28",
+      "elo_delta": -17.3,
+      "event_name": "UFC Fight Night: Swanson vs Stephens",
+      "fight_id": "e01560703b1ad7d7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Marcelo Guimaraes",
+      "opponent_elo": 1497.2,
+      "outcome": "red_win",
+      "post_elo": 1466.7,
+      "pre_elo": 1484.0,
+      "red_name": "Marcelo Guimaraes",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Andy Enz",
+      "bout_type": "Middleweight Bout",
+      "date": "2014-02-01",
+      "elo_delta": -16.0,
+      "event_name": "UFC 169: Barao vs Faber 2",
+      "fight_id": "fc91fd025d61594e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Clint Hester",
+      "opponent_elo": 1539.1,
+      "outcome": "red_win",
+      "post_elo": 1484.0,
+      "pre_elo": 1500.0,
+      "red_name": "Clint Hester",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2014-02-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-02-01",
+      "fight_id": "fc91fd025d61594e",
+      "rating": 1484.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-02-01",
+      "fight_id": "fc91fd025d61594e",
+      "rating": 1485.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-06-28",
+      "fight_id": "e01560703b1ad7d7",
+      "rating": 1466.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-06-28",
+      "fight_id": "e01560703b1ad7d7",
+      "rating": 1470.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-01-31",
+      "fight_id": "bda9abf44e64ce16",
+      "rating": 1449.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2015-01-31",
+      "fight_id": "bda9abf44e64ce16",
+      "rating": 1455.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-01-31",
+  "name": "Andy Enz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1449.9,
+  "raw_overall_elo": 1455.1,
+  "slug": "andy-enz",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

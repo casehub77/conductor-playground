@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5721,
+  "divisional_rank": 571,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Keoki Cypriano",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-08-19",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 25",
+      "fight_id": "47bfe051ee72703c",
+      "gender": "men",
+      "is_title": false,
+      "method": "submission (triangle choke)",
+      "opponent": "Keoki Cypriano",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Eric Kriegermeier",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 25",
+      "time": "3:16",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-08-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-08-19",
+      "fight_id": "47bfe051ee72703c",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-08-19",
+      "fight_id": "47bfe051ee72703c",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-08-19",
+  "name": "Eric Kriegermeier",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "eric-kriegermeier",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

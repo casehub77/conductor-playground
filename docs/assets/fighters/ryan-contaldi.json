@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5299,
+  "divisional_rank": 563,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ryan Contaldi",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-10-15",
+      "elo_delta": -18.6,
+      "event_name": "Bellator 54",
+      "fight_id": "cb131cce16fe3f64",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punch)",
+      "opponent": "Tim Carpenter",
+      "opponent_elo": 1515.5,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.0,
+      "red_name": "Tim Carpenter",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 54",
+      "time": "2:16",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-10-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-10-15",
+      "fight_id": "cb131cce16fe3f64",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-10-15",
+      "fight_id": "cb131cce16fe3f64",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-15",
+  "name": "Ryan Contaldi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.4,
+  "raw_overall_elo": 1483.4,
+  "slug": "ryan-contaldi",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

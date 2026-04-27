@@ -1,24 +1,24 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 988,
-  "divisional_rank": 109,
+  "days_since_last_fight": 981,
+  "divisional_rank": 215,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Steve Mowry",
       "bout_type": "Heavyweight Bout",
       "date": "2023-08-11",
-      "elo_delta": -20.8,
+      "elo_delta": -19.0,
       "event_name": "Bellator 298: Storley vs. Ward",
       "fight_id": "dcdd63d5bbdb6ac6",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
       "opponent": "Valentin Moldavsky",
-      "opponent_elo": 1481.6,
+      "opponent_elo": 1517.5,
       "outcome": "red_win",
-      "post_elo": 1515.1,
+      "post_elo": 1516.9,
       "pre_elo": 1535.8,
       "red_name": "Valentin Moldavsky",
       "round": "3",
@@ -60,7 +60,7 @@
       "is_title": false,
       "method": "No Contest (accidental eye poke)",
       "opponent": "Valentin Moldavsky",
-      "opponent_elo": 1499.0,
+      "opponent_elo": 1536.0,
       "outcome": "no_contest",
       "post_elo": 1537.8,
       "pre_elo": 1537.8,
@@ -178,14 +178,14 @@
     {
       "date": "2023-08-11",
       "fight_id": "dcdd63d5bbdb6ac6",
-      "rating": 1515.1,
+      "rating": 1516.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2023-08-11",
       "fight_id": "dcdd63d5bbdb6ac6",
-      "rating": 1513.9,
+      "rating": 1515.5,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -199,8 +199,8 @@
   "nickname": "",
   "overall_elo": 1500.0,
   "peak_elo": 1537.8,
-  "raw_current_elo": 1515.1,
-  "raw_overall_elo": 1513.9,
+  "raw_current_elo": 1516.9,
+  "raw_overall_elo": 1515.5,
   "slug": "steve-mowry",
   "systems": {
     "division": "men:Heavyweight",

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8532,
+  "divisional_rank": 1268,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Richy Henwood",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-12-08",
+      "elo_delta": 19.0,
+      "event_name": "CWFC: Gangwarily",
+      "fight_id": "b5b6dba8fbd98ae8",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision",
+      "opponent": "Richy Henwood",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1499.6,
+      "pre_elo": 1480.6,
+      "red_name": "Jez Marchment",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Jez Marchment",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-11-30",
+      "elo_delta": -19.4,
+      "event_name": "CWFC 2: Fists of Fury",
+      "fight_id": "be0f154171b76b53",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Chris Cummins",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Cummins",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-11-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-11-30",
+      "fight_id": "be0f154171b76b53",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-11-30",
+      "fight_id": "be0f154171b76b53",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2002-12-08",
+      "fight_id": "b5b6dba8fbd98ae8",
+      "rating": 1499.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-12-08",
+      "fight_id": "b5b6dba8fbd98ae8",
+      "rating": 1499.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-12-08",
+  "name": "Jez Marchment",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1499.6,
+  "raw_overall_elo": 1499.5,
+  "slug": "jez-marchment",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

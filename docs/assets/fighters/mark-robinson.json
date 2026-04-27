@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9185,
+  "divisional_rank": 549,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mark Robinson",
+      "bout_type": "Heavyweight Bout",
+      "date": "2001-02-23",
+      "elo_delta": 0.0,
+      "event_name": "UFC 30: Battle on the Boardwalk",
+      "fight_id": "73bbdc3c9d143807",
+      "gender": "men",
+      "is_title": false,
+      "method": "Overturned",
+      "opponent": "Bobby Hoffman",
+      "opponent_elo": 1502.1,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Bobby Hoffman",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:27",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2001-02-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2001-02-23",
+      "fight_id": "73bbdc3c9d143807",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2001-02-23",
+      "fight_id": "73bbdc3c9d143807",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": false,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-02-23",
+  "name": "Mark Robinson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1500.0,
+  "raw_overall_elo": 1500.0,
+  "slug": "mark-robinson",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

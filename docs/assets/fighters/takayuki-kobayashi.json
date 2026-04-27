@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5313,
+  "divisional_rank": 463,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Takayuki Kobayashi",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-01",
+      "elo_delta": 1.7,
+      "event_name": "Shooto: Shooting Disco 16: Regeneration",
+      "fight_id": "c861321bbb307b1b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Draw",
+      "opponent": "Yusuke Kasuya",
+      "opponent_elo": 1552.3,
+      "outcome": "draw",
+      "post_elo": 1521.2,
+      "pre_elo": 1519.5,
+      "red_name": "Yusuke Kasuya",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "0:23",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Tomoya Suzuki",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-06-05",
+      "elo_delta": 19.5,
+      "event_name": "Shooto: Gig West 13",
+      "fight_id": "d4abee31cdc1310e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punches)",
+      "opponent": "Tomoya Suzuki",
+      "opponent_elo": 1500.9,
+      "outcome": "red_win",
+      "post_elo": 1519.5,
+      "pre_elo": 1500.0,
+      "red_name": "Takayuki Kobayashi",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "3:22",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-06-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-06-05",
+      "fight_id": "d4abee31cdc1310e",
+      "rating": 1519.5,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-06-05",
+      "fight_id": "d4abee31cdc1310e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "c861321bbb307b1b",
+      "rating": 1521.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-01",
+      "fight_id": "c861321bbb307b1b",
+      "rating": 1518.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-01",
+  "name": "Takayuki Kobayashi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1521.2,
+  "raw_current_elo": 1521.2,
+  "raw_overall_elo": 1518.7,
+  "slug": "takayuki-kobayashi",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

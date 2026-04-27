@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7253,
+  "divisional_rank": 411,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Sean Bassett",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-06-09",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Revenge",
+      "fight_id": "6369b298ad9ad1c3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Sean Bassett",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Amarante",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Revenge",
+      "time": "4:37",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-06-09",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-09",
+      "fight_id": "6369b298ad9ad1c3",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-06-09",
+      "fight_id": "6369b298ad9ad1c3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-06-09",
+  "name": "Chris Amarante",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "chris-amarante",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

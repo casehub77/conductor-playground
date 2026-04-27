@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6411,
+  "divisional_rank": 1734,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yoshitaka Aki",
+      "bout_type": "Open Weight Bout",
+      "date": "2008-09-28",
+      "elo_delta": -18.6,
+      "event_name": "Shooto: Shooto Tradition 3",
+      "fight_id": "68c2ab1d49cbcd1c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Junji Ito",
+      "opponent_elo": 1514.7,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.0,
+      "red_name": "Junji Ito",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2008 in Shooto",
+      "time": "4:01",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2008-09-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-09-28",
+      "fight_id": "68c2ab1d49cbcd1c",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2008-09-28",
+      "fight_id": "68c2ab1d49cbcd1c",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-09-28",
+  "name": "Yoshitaka Aki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.4,
+  "raw_overall_elo": 1483.4,
+  "slug": "yoshitaka-aki",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

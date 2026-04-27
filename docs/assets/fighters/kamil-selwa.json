@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2926,
+  "divisional_rank": 664,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kamil Selwa",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2018-04-14",
+      "elo_delta": -16.1,
+      "event_name": "KSW 43: Soldić vs. Du Plessis",
+      "fight_id": "a4fce90b3ef366ef",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Antun Račić",
+      "opponent_elo": 1518.0,
+      "outcome": "red_win",
+      "post_elo": 1465.7,
+      "pre_elo": 1481.9,
+      "red_name": "Antun Račić",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2018 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Kamil Selwa",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2017-04-07",
+      "elo_delta": -18.1,
+      "event_name": "KSW 38: Live in Studio",
+      "fight_id": "3d8ce699a842ea5c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Anzor Azhiev",
+      "opponent_elo": 1497.4,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Anzor Azhiev",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2017-04-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-04-07",
+      "fight_id": "3d8ce699a842ea5c",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-04-07",
+      "fight_id": "3d8ce699a842ea5c",
+      "rating": 1483.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "a4fce90b3ef366ef",
+      "rating": 1465.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2018-04-14",
+      "fight_id": "a4fce90b3ef366ef",
+      "rating": 1469.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-04-14",
+  "name": "Kamil Selwa",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.7,
+  "raw_overall_elo": 1469.4,
+  "slug": "kamil-selwa",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8077,
+  "divisional_rank": 1244,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "James Lutman",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-03-07",
+      "elo_delta": -17.3,
+      "event_name": "Cage Warriors 6: Elimination",
+      "fight_id": "a2e787eea2391979",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Triangle Choke)",
+      "opponent": "Emmanuel Fernandez",
+      "opponent_elo": 1537.8,
+      "outcome": "red_win",
+      "post_elo": 1482.7,
+      "pre_elo": 1500.0,
+      "red_name": "Emmanuel Fernandez",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2004 in Cage Warriors",
+      "time": "3:59",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-03-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-03-07",
+      "fight_id": "a2e787eea2391979",
+      "rating": 1482.7,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-03-07",
+      "fight_id": "a2e787eea2391979",
+      "rating": 1484.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-03-07",
+  "name": "James Lutman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.7,
+  "raw_overall_elo": 1484.4,
+  "slug": "james-lutman",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

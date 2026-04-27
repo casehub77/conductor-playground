@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5922,
+  "divisional_rank": 569,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dave Zitanick",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-01-30",
+      "elo_delta": 18.0,
+      "event_name": "Strikeforce: Miami",
+      "fight_id": "1df0c5cbb19489e0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (majority) (29–29, 30–27, 30–27)",
+      "opponent": "Dave Zitanick",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Michael Byrnes",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Miami",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-01-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-30",
+      "fight_id": "1df0c5cbb19489e0",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-01-30",
+      "fight_id": "1df0c5cbb19489e0",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-01-30",
+  "name": "Michael Byrnes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1518.0,
+  "raw_overall_elo": 1516.0,
+  "slug": "michael-byrnes",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

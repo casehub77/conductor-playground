@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7856,
+  "divisional_rank": 1574,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Ryuki Ueyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-10-14",
+      "elo_delta": -17.7,
+      "event_name": "Pride: Bushido 5",
+      "fight_id": "83d8687af5731410",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Split)",
+      "opponent": "Ikuhisa Minowa",
+      "opponent_elo": 1490.3,
+      "outcome": "red_win",
+      "post_elo": 1466.1,
+      "pre_elo": 1483.8,
+      "red_name": "Ikuhisa Minowa",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Pride Bushido 5",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Ryuki Ueyama",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-02-15",
+      "elo_delta": -16.2,
+      "event_name": "Pride: Bushido 2",
+      "fight_id": "325a9e7313c519b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Sean Sherk",
+      "opponent_elo": 1534.1,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "Sean Sherk",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Pride Bushido 2",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-02-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-02-15",
+      "fight_id": "325a9e7313c519b3",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-02-15",
+      "fight_id": "325a9e7313c519b3",
+      "rating": 1485.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-10-14",
+      "fight_id": "83d8687af5731410",
+      "rating": 1466.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-10-14",
+      "fight_id": "83d8687af5731410",
+      "rating": 1469.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-10-14",
+  "name": "Ryuki Ueyama",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1466.1,
+  "raw_overall_elo": 1469.9,
+  "slug": "ryuki-ueyama",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

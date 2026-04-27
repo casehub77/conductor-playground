@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 11819,
+  "divisional_rank": 1018,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Andre van den Oetelaar",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-12-08",
+      "elo_delta": -15.2,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 4",
+      "fight_id": "89c3e72f9b42e2d9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (achilles lock)",
+      "opponent": "Ken Shamrock",
+      "opponent_elo": 1556.2,
+      "outcome": "red_win",
+      "post_elo": 1463.2,
+      "pre_elo": 1478.4,
+      "red_name": "Ken Shamrock",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 4",
+      "time": "1:04",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Andre van den Oetelaar",
+      "bout_type": "Open Weight Bout",
+      "date": "1993-11-08",
+      "elo_delta": -21.6,
+      "event_name": "Pancrase: Yes, We Are Hybrid Wrestlers 3",
+      "fight_id": "9c0a67d311e311de",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (heel hook)",
+      "opponent": "Ryushi Yanagisawa",
+      "opponent_elo": 1461.1,
+      "outcome": "red_win",
+      "post_elo": 1478.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ryushi Yanagisawa",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pancrase: Yes, We Are Hybrid Wrestlers 3",
+      "time": "15:51",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1993-11-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1993-11-08",
+      "fight_id": "9c0a67d311e311de",
+      "rating": 1478.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-11-08",
+      "fight_id": "9c0a67d311e311de",
+      "rating": 1481.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1993-12-08",
+      "fight_id": "89c3e72f9b42e2d9",
+      "rating": 1463.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1993-12-08",
+      "fight_id": "89c3e72f9b42e2d9",
+      "rating": 1467.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1993-12-08",
+  "name": "Andre van den Oetelaar",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.2,
+  "raw_overall_elo": 1467.1,
+  "slug": "andre-van-den-oetelaar",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

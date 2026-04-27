@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6161,
+  "divisional_rank": 555,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Roberto Vargas",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-06-05",
+      "elo_delta": -18.9,
+      "event_name": "Bellator 10",
+      "fight_id": "30d4b1c71f2cffc7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split)",
+      "opponent": "Wilson Reis",
+      "opponent_elo": 1500.1,
+      "outcome": "red_win",
+      "post_elo": 1499.1,
+      "pre_elo": 1518.0,
+      "red_name": "Wilson Reis",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 10",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Daniel Pineda",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-05-08",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 6",
+      "fight_id": "753c33a6c7e6043c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Daniel Pineda",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Roberto Vargas",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 6",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-05-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-08",
+      "fight_id": "753c33a6c7e6043c",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-05-08",
+      "fight_id": "753c33a6c7e6043c",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-06-05",
+      "fight_id": "30d4b1c71f2cffc7",
+      "rating": 1499.1,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-06-05",
+      "fight_id": "30d4b1c71f2cffc7",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-05",
+  "name": "Roberto Vargas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1499.1,
+  "raw_overall_elo": 1499.3,
+  "slug": "roberto-vargas",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

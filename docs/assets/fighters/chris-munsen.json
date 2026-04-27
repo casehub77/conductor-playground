@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8540,
+  "divisional_rank": 554,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Stuart Dowding",
+      "bout_type": "Open Weight Bout",
+      "date": "2002-11-30",
+      "elo_delta": 19.4,
+      "event_name": "CWFC 2: Fists of Fury",
+      "fight_id": "d7a71fd87b7f63ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to punches)",
+      "opponent": "Stuart Dowding",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Munsen",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2002 in Cage Warriors",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2002-11-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-11-30",
+      "fight_id": "d7a71fd87b7f63ee",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2002-11-30",
+      "fight_id": "d7a71fd87b7f63ee",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2002-11-30",
+  "name": "Chris Munsen",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "chris-munsen",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

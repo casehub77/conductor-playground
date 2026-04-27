@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6257,
+  "divisional_rank": 692,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chris Mickle",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-03-01",
+      "elo_delta": -16.2,
+      "event_name": "WEC 39: Brown vs. Garcia",
+      "fight_id": "3330e1e6aadff3ef",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "José Aldo",
+      "opponent_elo": 1559.4,
+      "outcome": "red_win",
+      "post_elo": 1483.8,
+      "pre_elo": 1500.0,
+      "red_name": "José Aldo",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 39",
+      "time": "1:39",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-03-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-03-01",
+      "fight_id": "3330e1e6aadff3ef",
+      "rating": 1483.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-03-01",
+      "fight_id": "3330e1e6aadff3ef",
+      "rating": 1485.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-03-01",
+  "name": "Chris Mickle",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.8,
+  "raw_overall_elo": 1485.3,
+  "slug": "chris-mickle",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

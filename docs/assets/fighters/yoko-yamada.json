@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7182,
+  "divisional_rank": 315,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Yoko Yamada",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-08-19",
+      "elo_delta": -23.5,
+      "event_name": "G-Shooto: Wrestle Expo 2006",
+      "fight_id": "852510d90c725a33",
+      "gender": "men",
+      "is_title": false,
+      "method": "Technical Submission (Armbar)",
+      "opponent": "Maho Muranami",
+      "opponent_elo": 1464.6,
+      "outcome": "red_win",
+      "post_elo": 1514.3,
+      "pre_elo": 1537.8,
+      "red_name": "Maho Muranami",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "1:14",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Azusa Anzai",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-05-06",
+      "elo_delta": 18.4,
+      "event_name": "G-Shooto: G-Shooto 05",
+      "fight_id": "65cd51f8c4c8f34c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Azusa Anzai",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Yoko Yamada",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "0:10",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Mayuko Kasaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-02-24",
+      "elo_delta": 19.4,
+      "event_name": "G-Shooto: Plus05",
+      "fight_id": "d18b7d1f3440b97f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Guillotine Choke)",
+      "opponent": "Mayuko Kasaki",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Yoko Yamada",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "4:37",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-02-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-02-24",
+      "fight_id": "d18b7d1f3440b97f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-02-24",
+      "fight_id": "d18b7d1f3440b97f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-05-06",
+      "fight_id": "65cd51f8c4c8f34c",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-05-06",
+      "fight_id": "65cd51f8c4c8f34c",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-08-19",
+      "fight_id": "852510d90c725a33",
+      "rating": 1514.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-08-19",
+      "fight_id": "852510d90c725a33",
+      "rating": 1513.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-08-19",
+  "name": "Yoko Yamada",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "raw_current_elo": 1514.3,
+  "raw_overall_elo": 1513.2,
+  "slug": "yoko-yamada",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

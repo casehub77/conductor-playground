@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5320,
+  "divisional_rank": 619,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Dustin Kempf",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": 20.3,
+      "event_name": "Bellator 51",
+      "fight_id": "02ce7e24e1fd1ac7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Knee Injury)",
+      "opponent": "Dustin Kempf",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1484.0,
+      "red_name": "Frank Caraballo",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 51",
+      "time": "1:19",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Frank Caraballo",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-05-01",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 5",
+      "fight_id": "0ab43d543c51e426",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30-27, 30-27, 30-27)",
+      "opponent": "Waylon Lowe",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Waylon Lowe",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 5",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-05-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-05-01",
+      "fight_id": "0ab43d543c51e426",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-05-01",
+      "fight_id": "0ab43d543c51e426",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "02ce7e24e1fd1ac7",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "02ce7e24e1fd1ac7",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-24",
+  "name": "Frank Caraballo",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.3,
+  "raw_current_elo": 1504.3,
+  "raw_overall_elo": 1502.1,
+  "slug": "frank-caraballo",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3451,
+  "divisional_rank": 691,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Chris Avila",
+      "bout_type": "Featherweight Bout",
+      "date": "2016-11-05",
+      "elo_delta": -17.1,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "fight_id": "5e9ceec86e4db55a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Enrique Barzola",
+      "opponent_elo": 1496.2,
+      "outcome": "red_win",
+      "post_elo": 1462.4,
+      "pre_elo": 1479.5,
+      "red_name": "Enrique Barzola",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Chris Avila",
+      "bout_type": "Featherweight Bout",
+      "date": "2016-08-20",
+      "elo_delta": -20.5,
+      "event_name": "UFC 202: Diaz vs. McGregor 2",
+      "fight_id": "a0cc0f20a8814444",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Artem Lobov",
+      "opponent_elo": 1451.4,
+      "outcome": "red_win",
+      "post_elo": 1479.5,
+      "pre_elo": 1500.0,
+      "red_name": "Artem Lobov",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2016-08-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-08-20",
+      "fight_id": "a0cc0f20a8814444",
+      "rating": 1479.5,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-08-20",
+      "fight_id": "a0cc0f20a8814444",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "5e9ceec86e4db55a",
+      "rating": 1462.4,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2016-11-05",
+      "fight_id": "5e9ceec86e4db55a",
+      "rating": 1466.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2016-11-05",
+  "name": "Chris Avila",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.4,
+  "raw_overall_elo": 1466.6,
+  "slug": "chris-avila",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

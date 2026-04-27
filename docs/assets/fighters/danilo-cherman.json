@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7365,
+  "divisional_rank": 697,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Danilo Cherman",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-02-17",
+      "elo_delta": -15.3,
+      "event_name": "Shooto: The Victory of the Truth",
+      "fight_id": "3a9a0c2711194946",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Mizuto Hirota",
+      "opponent_elo": 1571.5,
+      "outcome": "red_win",
+      "post_elo": 1503.9,
+      "pre_elo": 1519.2,
+      "red_name": "Mizuto Hirota",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2006 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Takeshi Yamazaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-11-12",
+      "elo_delta": 19.2,
+      "event_name": "Shooto: Wanna Shooto 2004",
+      "fight_id": "dae129a671b684e3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Takeshi Yamazaki",
+      "opponent_elo": 1523.3,
+      "outcome": "red_win",
+      "post_elo": 1519.2,
+      "pre_elo": 1500.0,
+      "red_name": "Danilo Cherman",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2004 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-11-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-11-12",
+      "fight_id": "dae129a671b684e3",
+      "rating": 1519.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-11-12",
+      "fight_id": "dae129a671b684e3",
+      "rating": 1516.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-02-17",
+      "fight_id": "3a9a0c2711194946",
+      "rating": 1503.9,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-02-17",
+      "fight_id": "3a9a0c2711194946",
+      "rating": 1503.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-02-17",
+  "name": "Danilo Cherman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.2,
+  "raw_current_elo": 1503.9,
+  "raw_overall_elo": 1503.1,
+  "slug": "danilo-cherman",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

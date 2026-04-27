@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
   "current_elo": 1519.5,
-  "days_since_last_fight": 189,
-  "divisional_rank": 89,
+  "days_since_last_fight": 182,
+  "divisional_rank": 113,
   "fight_count": 5,
   "fight_log": [
     {
@@ -31,17 +31,17 @@
       "blue_name": "Matouš Kohout",
       "bout_type": "Welterweight Bout",
       "date": "2025-02-01",
-      "elo_delta": 19.6,
+      "elo_delta": 19.7,
       "event_name": "Oktagon 66: Engizek vs. Oniszczuk",
       "fight_id": "f1d33533b6470587",
       "gender": "men",
       "is_title": false,
       "method": "Decision (unanimous) (30–27, 29–28, 29–28)",
       "opponent": "Matouš Kohout",
-      "opponent_elo": 1497.3,
+      "opponent_elo": 1497.4,
       "outcome": "red_win",
-      "post_elo": 1485.1,
-      "pre_elo": 1465.5,
+      "post_elo": 1483.7,
+      "pre_elo": 1463.9,
       "red_name": "Cihad Akipa",
       "round": "3",
       "source": "manual",
@@ -75,16 +75,16 @@
       "blue_name": "Cihad Akipa",
       "bout_type": "Welterweight Bout",
       "date": "2024-02-10",
-      "elo_delta": -18.5,
+      "elo_delta": -20.1,
       "event_name": "Oktagon 53: Dalisda vs. Dourthe",
       "fight_id": "ed286144944f070c",
       "gender": "men",
       "is_title": false,
       "method": "Technical Submission (guillotine choke)",
       "opponent": "Ivica Trušček",
-      "opponent_elo": 1500.0,
+      "opponent_elo": 1472.7,
       "outcome": "red_win",
-      "post_elo": 1465.5,
+      "post_elo": 1463.9,
       "pre_elo": 1484.0,
       "red_name": "Ivica Trušček",
       "round": "2",
@@ -136,14 +136,14 @@
     {
       "date": "2024-02-10",
       "fight_id": "ed286144944f070c",
-      "rating": 1465.5,
+      "rating": 1463.9,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2024-02-10",
       "fight_id": "ed286144944f070c",
-      "rating": 1467.5,
+      "rating": 1466.2,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -157,21 +157,21 @@
     {
       "date": "2024-09-07",
       "fight_id": "4e5c7ea53714750b",
-      "rating": 1484.3,
+      "rating": 1483.1,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-02-01",
       "fight_id": "f1d33533b6470587",
-      "rating": 1485.1,
+      "rating": 1483.7,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2025-02-01",
       "fight_id": "f1d33533b6470587",
-      "rating": 1500.2,
+      "rating": 1499.0,
       "scope": "overall",
       "system": "men:overall"
     },
@@ -185,7 +185,7 @@
     {
       "date": "2025-10-18",
       "fight_id": "100c81bdf45ffcf1",
-      "rating": 1517.4,
+      "rating": 1516.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -197,10 +197,10 @@
   "last_fight_date": "2025-10-18",
   "name": "Cihad Akipa",
   "nickname": "",
-  "overall_elo": 1517.4,
+  "overall_elo": 1516.3,
   "peak_elo": 1519.5,
   "raw_current_elo": 1519.5,
-  "raw_overall_elo": 1517.4,
+  "raw_overall_elo": 1516.3,
   "slug": "cihad-akipa",
   "systems": {
     "division": "men:Middleweight",

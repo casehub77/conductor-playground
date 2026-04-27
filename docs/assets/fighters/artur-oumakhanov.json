@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6608,
+  "divisional_rank": 836,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Artur Oumakhanov",
+      "bout_type": "Lightweight Bout",
+      "date": "2008-03-15",
+      "elo_delta": -18.0,
+      "event_name": "Dream 1: Lightweight Grand Prix 2008 1st Round",
+      "fight_id": "be70bca3021c3c73",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Katsuhiko Nagata",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Katsuhiko Nagata",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Dream 1",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2008-03-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-03-15",
+      "fight_id": "be70bca3021c3c73",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2008-03-15",
+      "fight_id": "be70bca3021c3c73",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-03-15",
+  "name": "Artur Oumakhanov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "artur-oumakhanov",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

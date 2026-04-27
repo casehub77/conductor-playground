@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7224,
+  "divisional_rank": 203,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Dan Christison",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-07-08",
+      "elo_delta": -16.6,
+      "event_name": "UFC 61: Bitter Rivals",
+      "fight_id": "311d22093314a1f6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Frank Mir",
+      "opponent_elo": 1566.6,
+      "outcome": "red_win",
+      "post_elo": 1522.9,
+      "pre_elo": 1539.5,
+      "red_name": "Frank Mir",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Brad Imes",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-04-06",
+      "elo_delta": 19.9,
+      "event_name": "UFC Fight Night 4",
+      "fight_id": "9042d94db9b4ee37",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brad Imes",
+      "opponent_elo": 1527.7,
+      "outcome": "red_win",
+      "post_elo": 1539.5,
+      "pre_elo": 1519.6,
+      "red_name": "Dan Christison",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:37",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Andre Roberts",
+      "bout_type": "Super Heavyweight Bout",
+      "date": "2005-01-22",
+      "elo_delta": 19.6,
+      "event_name": "WEC 13: Heavyweight Explosion",
+      "fight_id": "768b34210729aa29",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Andre Roberts",
+      "opponent_elo": 1502.7,
+      "outcome": "red_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1500.0,
+      "red_name": "Dan Christison",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 13",
+      "time": "3:26",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-01-22",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-01-22",
+      "fight_id": "768b34210729aa29",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2005-01-22",
+      "fight_id": "768b34210729aa29",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-04-06",
+      "fight_id": "9042d94db9b4ee37",
+      "rating": 1539.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-04-06",
+      "fight_id": "9042d94db9b4ee37",
+      "rating": 1535.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-07-08",
+      "fight_id": "311d22093314a1f6",
+      "rating": 1522.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-07-08",
+      "fight_id": "311d22093314a1f6",
+      "rating": 1520.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-07-08",
+  "name": "Dan Christison",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1539.5,
+  "raw_current_elo": 1522.9,
+  "raw_overall_elo": 1520.5,
+  "slug": "dan-christison",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

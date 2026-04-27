@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4151,
+  "divisional_rank": 546,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jay Silva",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2014-12-06",
+      "elo_delta": -2.2,
+      "event_name": "KSW 29: Reload",
+      "fight_id": "b417fd57d534fec3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw (Majority)",
+      "opponent": "Jay Silva",
+      "opponent_elo": 1470.8,
+      "outcome": "draw",
+      "post_elo": 1511.5,
+      "pre_elo": 1513.7,
+      "red_name": "Piotr Strus",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2014 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Abu Azaitar",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2014-05-17",
+      "elo_delta": 0.4,
+      "event_name": "KSW 27: Cage Time",
+      "fight_id": "5e4570a5864438b7",
+      "gender": "men",
+      "is_title": false,
+      "method": "Draw",
+      "opponent": "Abu Azaitar",
+      "opponent_elo": 1520.6,
+      "outcome": "draw",
+      "post_elo": 1513.7,
+      "pre_elo": 1513.4,
+      "red_name": "Piotr Strus",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2014 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Matt Horwich",
+      "bout_type": "Middleweight 84 kg Bout",
+      "date": "2013-12-07",
+      "elo_delta": 13.4,
+      "event_name": "KSW 25: Khalidov vs. Sakurai 2",
+      "fight_id": "2e22687bbf806922",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Majority)",
+      "opponent": "Matt Horwich",
+      "opponent_elo": 1408.3,
+      "outcome": "red_win",
+      "post_elo": 1513.4,
+      "pre_elo": 1500.0,
+      "red_name": "Piotr Strus",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2013 in Konfrontacja Sztuk Walki",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2013-12-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-12-07",
+      "fight_id": "2e22687bbf806922",
+      "rating": 1513.4,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-12-07",
+      "fight_id": "2e22687bbf806922",
+      "rating": 1512.2,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-05-17",
+      "fight_id": "5e4570a5864438b7",
+      "rating": 1513.7,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-05-17",
+      "fight_id": "5e4570a5864438b7",
+      "rating": 1512.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "b417fd57d534fec3",
+      "rating": 1511.5,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2014-12-06",
+      "fight_id": "b417fd57d534fec3",
+      "rating": 1510.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-12-06",
+  "name": "Piotr Strus",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1513.7,
+  "raw_current_elo": 1511.5,
+  "raw_overall_elo": 1510.6,
+  "slug": "piotr-strus",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

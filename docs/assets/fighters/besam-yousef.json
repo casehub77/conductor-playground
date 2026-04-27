@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4760,
+  "divisional_rank": 714,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Besam Yousef",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-04-06",
+      "elo_delta": -18.8,
+      "event_name": "UFC on FUEL TV: Mousasi vs Latifi",
+      "fight_id": "4b813c1ec952c7e6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Papy Abedi",
+      "opponent_elo": 1466.4,
+      "outcome": "red_win",
+      "post_elo": 1462.8,
+      "pre_elo": 1481.5,
+      "red_name": "Papy Abedi",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Besam Yousef",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-04-14",
+      "elo_delta": -18.5,
+      "event_name": "UFC on FUEL TV: Gustafsson vs Silva",
+      "fight_id": "17f29cb7a09b4c46",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Simeon Thoresen",
+      "opponent_elo": 1517.6,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Simeon Thoresen",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:36",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2012-04-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-04-14",
+      "fight_id": "17f29cb7a09b4c46",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-04-14",
+      "fight_id": "17f29cb7a09b4c46",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-04-06",
+      "fight_id": "4b813c1ec952c7e6",
+      "rating": 1462.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-04-06",
+      "fight_id": "4b813c1ec952c7e6",
+      "rating": 1467.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-04-06",
+  "name": "Besam Yousef",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.8,
+  "raw_overall_elo": 1467.0,
+  "slug": "besam-yousef",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

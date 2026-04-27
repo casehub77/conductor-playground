@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1478.5,
-  "days_since_last_fight": 391,
-  "divisional_rank": 745,
+  "current_elo": 1478.7,
+  "days_since_last_fight": 384,
+  "divisional_rank": 1127,
   "fight_count": 3,
   "fight_log": [
     {
@@ -18,8 +18,8 @@
       "opponent": "Shuya Kimura",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1478.5,
-      "pre_elo": 1497.8,
+      "post_elo": 1478.7,
+      "pre_elo": 1498.0,
       "red_name": "Shuya Kimura",
       "round": "1",
       "source": "manual",
@@ -31,16 +31,16 @@
       "blue_name": "Takeji Yokoyama",
       "bout_type": "Catchweight 66,2 kg Bout",
       "date": "2023-09-24",
-      "elo_delta": -20.6,
+      "elo_delta": -20.4,
       "event_name": "Rizin 44",
       "fight_id": "f9c89d5b82758539",
       "gender": "men",
       "is_title": false,
       "method": "Decision (Unanimous)",
       "opponent": "Kazumasa Majima",
-      "opponent_elo": 1468.3,
+      "opponent_elo": 1471.2,
       "outcome": "red_win",
-      "post_elo": 1497.8,
+      "post_elo": 1498.0,
       "pre_elo": 1518.4,
       "red_name": "Kazumasa Majima",
       "round": "3",
@@ -60,7 +60,7 @@
       "is_title": false,
       "method": "Submission (Armbar)",
       "opponent": "Takuya Yamamoto",
-      "opponent_elo": 1481.6,
+      "opponent_elo": 1481.9,
       "outcome": "red_win",
       "post_elo": 1518.4,
       "pre_elo": 1500.0,
@@ -92,28 +92,28 @@
     {
       "date": "2023-09-24",
       "fight_id": "f9c89d5b82758539",
-      "rating": 1497.8,
+      "rating": 1498.0,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2023-09-24",
       "fight_id": "f9c89d5b82758539",
-      "rating": 1498.4,
+      "rating": 1498.5,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-03-30",
       "fight_id": "823374440a8c157a",
-      "rating": 1478.5,
+      "rating": 1478.7,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2025-03-30",
       "fight_id": "823374440a8c157a",
-      "rating": 1481.2,
+      "rating": 1481.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2025-03-30",
   "name": "Takeji Yokoyama",
   "nickname": "",
-  "overall_elo": 1481.2,
+  "overall_elo": 1481.3,
   "peak_elo": 1518.4,
-  "raw_current_elo": 1478.5,
-  "raw_overall_elo": 1481.2,
+  "raw_current_elo": 1478.7,
+  "raw_overall_elo": 1481.3,
   "slug": "takeji-yokoyama",
   "systems": {
     "division": "men:Featherweight",

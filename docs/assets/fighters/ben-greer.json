@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6224,
+  "divisional_rank": 678,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ben Greer",
+      "bout_type": "Featherweight Bout",
+      "date": "2009-04-03",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 1",
+      "fight_id": "9e574f312091f923",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Joe Soto",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Joe Soto",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 1",
+      "time": "3:40",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2009-04-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-03",
+      "fight_id": "9e574f312091f923",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2009-04-03",
+      "fight_id": "9e574f312091f923",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-03",
+  "name": "Ben Greer",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "ben-greer",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

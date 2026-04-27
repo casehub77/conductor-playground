@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6226,
+  "divisional_rank": 815,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jesse Sanders",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-04-01",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night: Condit vs Kampmann",
+      "fight_id": "dd24eac4992f06b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Brock Larson",
+      "opponent_elo": 1546.3,
+      "outcome": "red_win",
+      "post_elo": 1483.1,
+      "pre_elo": 1500.0,
+      "red_name": "Brock Larson",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:01",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-04-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-01",
+      "fight_id": "dd24eac4992f06b3",
+      "rating": 1483.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-04-01",
+      "fight_id": "dd24eac4992f06b3",
+      "rating": 1484.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-01",
+  "name": "Jesse Sanders",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1483.1,
+  "raw_overall_elo": 1484.7,
+  "slug": "jesse-sanders",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

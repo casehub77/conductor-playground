@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5271,
+  "divisional_rank": 569,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Shawn Levesque",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-11-12",
+      "elo_delta": -18.5,
+      "event_name": "Bellator 57",
+      "fight_id": "442f78b34d9ddc1b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear naked choke)",
+      "opponent": "Matt Van Buren",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Matt Van Buren",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 57",
+      "time": "4:38",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-11-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-11-12",
+      "fight_id": "442f78b34d9ddc1b",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-11-12",
+      "fight_id": "442f78b34d9ddc1b",
+      "rating": 1483.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-11-12",
+  "name": "Shawn Levesque",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.5,
+  "raw_overall_elo": 1483.6,
+  "slug": "shawn-levesque",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

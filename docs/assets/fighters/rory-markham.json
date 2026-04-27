@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5866,
+  "divisional_rank": 532,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Rory Markham",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-03-27",
+      "elo_delta": -15.5,
+      "event_name": "UFC 111: St-Pierre vs Hardy",
+      "fight_id": "130dc93a6f002a31",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Nate Diaz",
+      "opponent_elo": 1576.0,
+      "outcome": "red_win",
+      "post_elo": 1489.4,
+      "pre_elo": 1504.9,
+      "red_name": "Nate Diaz",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:47",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Rory Markham",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-02-21",
+      "elo_delta": -13.6,
+      "event_name": "UFC 95: Sanchez vs Stevenson",
+      "fight_id": "092e70be2920650b",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Dan Hardy",
+      "opponent_elo": 1627.0,
+      "outcome": "red_win",
+      "post_elo": 1504.9,
+      "pre_elo": 1518.5,
+      "red_name": "Dan Hardy",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:09",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Brodie Farber",
+      "bout_type": "Welterweight Bout",
+      "date": "2008-07-19",
+      "elo_delta": 18.5,
+      "event_name": "UFC: Silva vs Irvin",
+      "fight_id": "83d623f8ca21248e",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Brodie Farber",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1518.5,
+      "pre_elo": 1500.0,
+      "red_name": "Rory Markham",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:37",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2008-07-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2008-07-19",
+      "fight_id": "83d623f8ca21248e",
+      "rating": 1518.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2008-07-19",
+      "fight_id": "83d623f8ca21248e",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-02-21",
+      "fight_id": "092e70be2920650b",
+      "rating": 1504.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-02-21",
+      "fight_id": "092e70be2920650b",
+      "rating": 1504.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-03-27",
+      "fight_id": "130dc93a6f002a31",
+      "rating": 1489.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-03-27",
+      "fight_id": "130dc93a6f002a31",
+      "rating": 1490.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-03-27",
+  "name": "Rory Markham",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.5,
+  "raw_current_elo": 1489.4,
+  "raw_overall_elo": 1490.6,
+  "slug": "rory-markham",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

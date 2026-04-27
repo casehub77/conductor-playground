@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 10261,
+  "divisional_rank": 1059,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Branko Cikatic",
+      "bout_type": "Open Weight Bout",
+      "date": "1998-03-15",
+      "elo_delta": -15.8,
+      "event_name": "Pride 2",
+      "fight_id": "a80b8250bb041efb",
+      "gender": "men",
+      "is_title": false,
+      "method": "Disqualification",
+      "opponent": "Mark Kerr",
+      "opponent_elo": 1565.0,
+      "outcome": "red_win",
+      "post_elo": 1484.2,
+      "pre_elo": 1500.0,
+      "red_name": "Mark Kerr",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 2",
+      "time": "2:14",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Ralph White",
+      "bout_type": "Open Weight Bout",
+      "date": "1997-10-11",
+      "elo_delta": 0.0,
+      "event_name": "Pride 1",
+      "fight_id": "b29797888b285810",
+      "gender": "men",
+      "is_title": false,
+      "method": "No Contest",
+      "opponent": "Ralph White",
+      "opponent_elo": 1500.0,
+      "outcome": "no_contest",
+      "post_elo": 1500.0,
+      "pre_elo": 1500.0,
+      "red_name": "Branko Cikatic",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride 1",
+      "time": "1:52",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "1997-10-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1997-10-11",
+      "fight_id": "b29797888b285810",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1997-10-11",
+      "fight_id": "b29797888b285810",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1998-03-15",
+      "fight_id": "a80b8250bb041efb",
+      "rating": 1484.2,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "1998-03-15",
+      "fight_id": "a80b8250bb041efb",
+      "rating": 1485.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "1998-03-15",
+  "name": "Branko Cikatic",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.2,
+  "raw_overall_elo": 1485.9,
+  "slug": "branko-cikatic",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

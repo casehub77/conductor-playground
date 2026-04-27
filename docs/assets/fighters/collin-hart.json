@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4753,
+  "divisional_rank": 656,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Collin Hart",
+      "bout_type": "Middleweight Bout",
+      "date": "2013-04-13",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: Team Jones vs. Team Sonnen Finale",
+      "fight_id": "a96670e43caa40fe",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Luke Barnatt",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Luke Barnatt",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2013-04-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2013-04-13",
+      "fight_id": "a96670e43caa40fe",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2013-04-13",
+      "fight_id": "a96670e43caa40fe",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-04-13",
+  "name": "Collin Hart",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "collin-hart",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

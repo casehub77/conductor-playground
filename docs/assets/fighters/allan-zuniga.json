@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2843,
+  "divisional_rank": 822,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Allan Zuniga",
+      "bout_type": "Lightweight Bout",
+      "date": "2018-07-06",
+      "elo_delta": -18.0,
+      "event_name": "The Ultimate Fighter: Undefeated Finale",
+      "fight_id": "7da59e709564d091",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "John Gunther",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "John Gunther",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2018-07-06",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2018-07-06",
+      "fight_id": "7da59e709564d091",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2018-07-06",
+      "fight_id": "7da59e709564d091",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-07-06",
+  "name": "Allan Zuniga",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.0,
+  "raw_overall_elo": 1484.0,
+  "slug": "allan-zuniga",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

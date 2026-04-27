@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7204,
+  "divisional_rank": 473,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jack Morrison",
+      "bout_type": "Light heavyweight Bout",
+      "date": "2006-07-28",
+      "elo_delta": -19.4,
+      "event_name": "WEC 22: The Hitman",
+      "fight_id": "5fd4a118c2f39444",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Glover Teixeira",
+      "opponent_elo": 1501.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Glover Teixeira",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 22",
+      "time": "1:27",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-07-28",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-07-28",
+      "fight_id": "5fd4a118c2f39444",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-07-28",
+      "fight_id": "5fd4a118c2f39444",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-07-28",
+  "name": "Jack Morrison",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.8,
+  "slug": "jack-morrison",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

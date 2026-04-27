@@ -1,0 +1,109 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5292,
+  "divisional_rank": 519,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Marcos Galvão",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-10-22",
+      "elo_delta": -17.1,
+      "event_name": "Bellator 55",
+      "fight_id": "c911fc170d25a969",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (27-30, 29-28, 29-28)",
+      "opponent": "Alexis Vila",
+      "opponent_elo": 1524.5,
+      "outcome": "red_win",
+      "post_elo": 1489.4,
+      "pre_elo": 1506.5,
+      "red_name": "Alexis Vila",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 55",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Chase Beebe",
+      "bout_type": "Bantamweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": 18.8,
+      "event_name": "Bellator 51",
+      "fight_id": "9a0fe27696dbefb5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (29-28, 28-29, 29-28)",
+      "opponent": "Chase Beebe",
+      "opponent_elo": 1503.0,
+      "outcome": "red_win",
+      "post_elo": 1506.5,
+      "pre_elo": 1487.7,
+      "red_name": "Marcos Galvão",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 51",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2011-04-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-04-16",
+      "fight_id": "ca37536d2dc61d3e",
+      "rating": 1487.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "9a0fe27696dbefb5",
+      "rating": 1506.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "9a0fe27696dbefb5",
+      "rating": 1502.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "c911fc170d25a969",
+      "rating": 1489.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2011-10-22",
+      "fight_id": "c911fc170d25a969",
+      "rating": 1487.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-22",
+  "name": "Marcos Galvão",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1506.5,
+  "raw_current_elo": 1489.4,
+  "raw_overall_elo": 1487.3,
+  "slug": "marcos-galvao",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

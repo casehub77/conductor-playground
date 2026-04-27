@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4998,
+  "divisional_rank": 955,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tommy Hayden",
+      "bout_type": "Featherweight Bout",
+      "date": "2012-08-11",
+      "elo_delta": -18.5,
+      "event_name": "UFC 150: Henderson vs Edgar II",
+      "fight_id": "f2bf56ffcbaa4ffa",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Dennis Bermudez",
+      "opponent_elo": 1499.7,
+      "outcome": "red_win",
+      "post_elo": 1463.6,
+      "pre_elo": 1482.1,
+      "red_name": "Dennis Bermudez",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:43",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Tommy Hayden",
+      "bout_type": "Lightweight Bout",
+      "date": "2012-01-20",
+      "elo_delta": -20.2,
+      "event_name": "UFC on FX: Guillard vs Miller",
+      "fight_id": "1e14f1199a1f5850",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Fabricio Camoes",
+      "opponent_elo": 1486.0,
+      "outcome": "red_win",
+      "post_elo": 1479.8,
+      "pre_elo": 1500.0,
+      "red_name": "Fabricio Camoes",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:03",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2012-01-20",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-01-20",
+      "fight_id": "1e14f1199a1f5850",
+      "rating": 1479.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2012-01-20",
+      "fight_id": "1e14f1199a1f5850",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-08-11",
+      "fight_id": "f2bf56ffcbaa4ffa",
+      "rating": 1463.6,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2012-08-11",
+      "fight_id": "f2bf56ffcbaa4ffa",
+      "rating": 1465.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-08-11",
+  "name": "Tommy Hayden",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1463.6,
+  "raw_overall_elo": 1465.7,
+  "slug": "tommy-hayden",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8000,
+  "divisional_rank": 1745,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Yukio Kawabe",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-05-23",
+      "elo_delta": -22.2,
+      "event_name": "Pride: Bushido 3",
+      "fight_id": "3837247619fb40b4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Akira Shoji",
+      "opponent_elo": 1449.5,
+      "outcome": "red_win",
+      "post_elo": 1477.8,
+      "pre_elo": 1500.0,
+      "red_name": "Akira Shoji",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 3",
+      "time": "0:18",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-05-23",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-05-23",
+      "fight_id": "3837247619fb40b4",
+      "rating": 1477.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-05-23",
+      "fight_id": "3837247619fb40b4",
+      "rating": 1480.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-05-23",
+  "name": "Yukio Kawabe",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1477.8,
+  "raw_overall_elo": 1480.4,
+  "slug": "yukio-kawabe",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

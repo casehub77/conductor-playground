@@ -48,7 +48,7 @@ jobs:
 
       - name: Refresh ratings
         run: |
-          MODE="${{ github.event.inputs.mode || 'mvp' }}"
+          MODE="${{ github.event.inputs.mode || 'full' }}"
           DRY_RUN="${{ github.event.inputs.dry_run || 'false' }}"
           ALLOW_FALLBACK="${{ github.event.inputs.allow_fallback || 'true' }}"
           ARGS=(--mode "$MODE")

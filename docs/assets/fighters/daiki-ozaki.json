@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5312,
+  "divisional_rank": 361,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Daiki Ozaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-10-02",
+      "elo_delta": -18.7,
+      "event_name": "Shooto: Gig Central 23",
+      "fight_id": "0f699b25a160a12f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Yoshifumi Nakamura",
+      "opponent_elo": 1521.8,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1535.8,
+      "red_name": "Yoshifumi Nakamura",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Taiki Hamasaki",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-06-05",
+      "elo_delta": 18.4,
+      "event_name": "Shooto: Gig West 13",
+      "fight_id": "4e00776f87289c56",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Arm-Triangle Choke)",
+      "opponent": "Taiki Hamasaki",
+      "opponent_elo": 1499.1,
+      "outcome": "red_win",
+      "post_elo": 1535.8,
+      "pre_elo": 1517.4,
+      "red_name": "Daiki Ozaki",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "4:54",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Shinji Maeguchi",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-04-17",
+      "elo_delta": 17.4,
+      "event_name": "Shooto: Gig Central 22",
+      "fight_id": "f911016a222e5dc3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Shinji Maeguchi",
+      "opponent_elo": 1463.9,
+      "outcome": "red_win",
+      "post_elo": 1517.4,
+      "pre_elo": 1500.0,
+      "red_name": "Daiki Ozaki",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Shooto",
+      "time": "2:44",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-04-17",
+      "fight_id": "f911016a222e5dc3",
+      "rating": 1517.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-04-17",
+      "fight_id": "f911016a222e5dc3",
+      "rating": 1515.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-06-05",
+      "fight_id": "4e00776f87289c56",
+      "rating": 1535.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-06-05",
+      "fight_id": "4e00776f87289c56",
+      "rating": 1532.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-10-02",
+      "fight_id": "0f699b25a160a12f",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-10-02",
+      "fight_id": "0f699b25a160a12f",
+      "rating": 1515.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-10-02",
+  "name": "Daiki Ozaki",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1535.8,
+  "raw_current_elo": 1517.1,
+  "raw_overall_elo": 1515.5,
+  "slug": "daiki-ozaki",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

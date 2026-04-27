@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5558,
+  "divisional_rank": 880,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Marco Santi",
+      "bout_type": "Welterweight 77 kg Bout",
+      "date": "2011-01-29",
+      "elo_delta": -17.6,
+      "event_name": "KSW Extra 2",
+      "fight_id": "2eb823a7838d38c8",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Doctor Stoppage)",
+      "opponent": "Aslambek Saidov",
+      "opponent_elo": 1532.2,
+      "outcome": "red_win",
+      "post_elo": 1482.4,
+      "pre_elo": 1500.0,
+      "red_name": "Aslambek Saidov",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2011 in Konfrontacja Sztuk Walki",
+      "time": "Welterweight Tournament Quarter-Finals 1",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2011-01-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-01-29",
+      "fight_id": "2eb823a7838d38c8",
+      "rating": 1482.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-01-29",
+      "fight_id": "2eb823a7838d38c8",
+      "rating": 1484.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-01-29",
+  "name": "Marco Santi",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1482.4,
+  "raw_overall_elo": 1484.2,
+  "slug": "marco-santi",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

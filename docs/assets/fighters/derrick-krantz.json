@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2422,
+  "divisional_rank": 767,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Derrick Krantz",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-08-31",
+      "elo_delta": -16.4,
+      "event_name": "UFC Fight Night: Andrade vs. Zhang",
+      "fight_id": "3a3d544a155a404e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Song Kenan",
+      "opponent_elo": 1516.9,
+      "outcome": "red_win",
+      "post_elo": 1470.1,
+      "pre_elo": 1486.5,
+      "red_name": "Song Kenan",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Derrick Krantz",
+      "bout_type": "Welterweight Bout",
+      "date": "2019-05-18",
+      "elo_delta": -13.5,
+      "event_name": "UFC Fight Night: Dos Anjos vs. Lee",
+      "fight_id": "b31619e451706d8c",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Vicente Luque",
+      "opponent_elo": 1610.1,
+      "outcome": "red_win",
+      "post_elo": 1486.5,
+      "pre_elo": 1500.0,
+      "red_name": "Vicente Luque",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:52",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2019-05-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-05-18",
+      "fight_id": "b31619e451706d8c",
+      "rating": 1486.5,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-05-18",
+      "fight_id": "b31619e451706d8c",
+      "rating": 1487.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2019-08-31",
+      "fight_id": "3a3d544a155a404e",
+      "rating": 1470.1,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2019-08-31",
+      "fight_id": "3a3d544a155a404e",
+      "rating": 1472.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-08-31",
+  "name": "Derrick Krantz",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1470.1,
+  "raw_overall_elo": 1472.8,
+  "slug": "derrick-krantz",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

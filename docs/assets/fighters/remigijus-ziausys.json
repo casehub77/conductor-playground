@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7763,
+  "divisional_rank": 553,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Remigijus Ziausys",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2005-01-15",
+      "elo_delta": -19.4,
+      "event_name": "KSW III: Konfrontacja",
+      "fight_id": "83a4204deb67dce1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Andrey Gerasimchuk",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Andrey Gerasimchuk",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Alternate",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2005-01-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-01-15",
+      "fight_id": "83a4204deb67dce1",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2005-01-15",
+      "fight_id": "83a4204deb67dce1",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-01-15",
+  "name": "Remigijus Ziausys",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "remigijus-ziausys",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

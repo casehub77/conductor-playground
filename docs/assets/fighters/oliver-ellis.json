@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7882,
+  "divisional_rank": 343,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mark Spencer",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-09-18",
+      "elo_delta": 17.0,
+      "event_name": "Cage Warriors 8: Brutal Force",
+      "fight_id": "9142af2ea1814ee2",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Mark Spencer",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1536.4,
+      "pre_elo": 1519.4,
+      "red_name": "Oliver Ellis",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2004 in Cage Warriors",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Matt Thorpe",
+      "bout_type": "Open Weight Bout",
+      "date": "2004-03-07",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors 6: Elimination",
+      "fight_id": "5250f0459bca36fd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Choke)",
+      "opponent": "Matt Thorpe",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Oliver Ellis",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2004 in Cage Warriors",
+      "time": "4:11",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2004-03-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-03-07",
+      "fight_id": "5250f0459bca36fd",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-03-07",
+      "fight_id": "5250f0459bca36fd",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2004-09-18",
+      "fight_id": "9142af2ea1814ee2",
+      "rating": 1536.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2004-09-18",
+      "fight_id": "9142af2ea1814ee2",
+      "rating": 1532.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-09-18",
+  "name": "Oliver Ellis",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1536.4,
+  "raw_current_elo": 1536.4,
+  "raw_overall_elo": 1532.5,
+  "slug": "oliver-ellis",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

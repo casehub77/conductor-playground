@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9058,
+  "divisional_rank": 978,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Travis Fulton",
+      "bout_type": "Open Weight Bout",
+      "date": "2001-06-30",
+      "elo_delta": -12.1,
+      "event_name": "WEC 1: Princes of Pain",
+      "fight_id": "adf15660c578a444",
+      "gender": "men",
+      "is_title": false,
+      "method": "unanimous decision",
+      "opponent": "Dan Severn",
+      "opponent_elo": 1618.4,
+      "outcome": "red_win",
+      "post_elo": 1488.4,
+      "pre_elo": 1500.6,
+      "red_name": "Dan Severn",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 1",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "David Dodd",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-07-16",
+      "elo_delta": 18.9,
+      "event_name": "UFC 21: Return of the Champions",
+      "fight_id": "0c047857521cc29f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "David Dodd",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1500.9,
+      "pre_elo": 1481.9,
+      "red_name": "Travis Fulton",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Travis Fulton",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-05-07",
+      "elo_delta": -18.1,
+      "event_name": "UFC 20: Battle for the Gold",
+      "fight_id": "b8c01a17759bee36",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Pete Williams",
+      "opponent_elo": 1524.7,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.0,
+      "red_name": "Pete Williams",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "6:28",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1999-05-07",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-05-07",
+      "fight_id": "b8c01a17759bee36",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-05-07",
+      "fight_id": "b8c01a17759bee36",
+      "rating": 1483.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "0c047857521cc29f",
+      "rating": 1500.9,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "0c047857521cc29f",
+      "rating": 1500.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2001-06-30",
+      "fight_id": "adf15660c578a444",
+      "rating": 1488.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2001-06-30",
+      "fight_id": "adf15660c578a444",
+      "rating": 1487.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2001-06-30",
+  "name": "Travis Fulton",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.9,
+  "raw_current_elo": 1488.4,
+  "raw_overall_elo": 1487.6,
+  "slug": "travis-fulton",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

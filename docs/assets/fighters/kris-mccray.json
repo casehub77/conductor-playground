@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5502,
+  "divisional_rank": 1031,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Kris Mccray",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-03-26",
+      "elo_delta": -13.4,
+      "event_name": "UFC Fight Night: Nogueira vs Davis",
+      "fight_id": "39ecb5bb976e2051",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "John Hathaway",
+      "opponent_elo": 1554.1,
+      "outcome": "red_win",
+      "post_elo": 1450.8,
+      "pre_elo": 1464.2,
+      "red_name": "John Hathaway",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Carlos Eduardo Rocha",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-11-13",
+      "elo_delta": -18.5,
+      "event_name": "UFC 122: Marquardt vs Okami",
+      "fight_id": "2a3b1682cb798c49",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Carlos Eduardo Rocha",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1464.2,
+      "pre_elo": 1482.7,
+      "red_name": "Kris Mccray",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "2:21",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Kris Mccray",
+      "bout_type": "Ultimate Fighter 11 Middleweight Tournament Title Bout",
+      "date": "2010-06-19",
+      "elo_delta": -19.4,
+      "event_name": "The Ultimate Fighter: Team Liddell vs Team Ortiz Finale",
+      "fight_id": "d012f2eef7c5f68c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Court Mcgee",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Court Mcgee",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "3:41",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2010-06-19",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-06-19",
+      "fight_id": "d012f2eef7c5f68c",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2010-06-19",
+      "fight_id": "d012f2eef7c5f68c",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-11-13",
+      "fight_id": "2a3b1682cb798c49",
+      "rating": 1464.2,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-11-13",
+      "fight_id": "2a3b1682cb798c49",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-03-26",
+      "fight_id": "39ecb5bb976e2051",
+      "rating": 1450.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-03-26",
+      "fight_id": "39ecb5bb976e2051",
+      "rating": 1454.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-03-26",
+  "name": "Kris Mccray",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1450.8,
+  "raw_overall_elo": 1454.0,
+  "slug": "kris-mccray",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

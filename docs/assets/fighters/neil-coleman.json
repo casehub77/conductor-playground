@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7658,
+  "divisional_rank": 728,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Andy Melia",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-04-30",
+      "elo_delta": 18.4,
+      "event_name": "CWFC: Ultimate Force",
+      "fight_id": "231e76aa6cc4298f",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO",
+      "opponent": "Andy Melia",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1518.4,
+      "pre_elo": 1500.0,
+      "red_name": "Neil Coleman",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2005 in Cage Warriors",
+      "time": "3:57",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-04-30",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-04-30",
+      "fight_id": "231e76aa6cc4298f",
+      "rating": 1518.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-04-30",
+      "fight_id": "231e76aa6cc4298f",
+      "rating": 1516.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2005-04-30",
+  "name": "Neil Coleman",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.4,
+  "raw_current_elo": 1518.4,
+  "raw_overall_elo": 1516.4,
+  "slug": "neil-coleman",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

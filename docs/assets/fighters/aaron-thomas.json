@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5530,
+  "divisional_rank": 520,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Charlie Leary",
+      "bout_type": "Open Weight Bout",
+      "date": "2011-02-26",
+      "elo_delta": 19.4,
+      "event_name": "Cage Warriors: 40",
+      "fight_id": "eb00d81dc21ad086",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Charlie Leary",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Thomas",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2011 in Cage Warriors",
+      "time": "4:57",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2011-02-26",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-02-26",
+      "fight_id": "eb00d81dc21ad086",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2011-02-26",
+      "fight_id": "eb00d81dc21ad086",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-02-26",
+  "name": "Aaron Thomas",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "aaron-thomas",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

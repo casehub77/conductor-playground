@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7126,
+  "divisional_rank": 459,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Evert Fyeet",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2006-10-14",
+      "elo_delta": -19.4,
+      "event_name": "KSW VI: Konfrontacja",
+      "fight_id": "8d2ff7bc8e1571dd",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Michał Materla",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Michał Materla",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2006 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 3",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-10-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-10-14",
+      "fight_id": "8d2ff7bc8e1571dd",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-10-14",
+      "fight_id": "8d2ff7bc8e1571dd",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-10-14",
+  "name": "Evert Fyeet",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "evert-fyeet",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

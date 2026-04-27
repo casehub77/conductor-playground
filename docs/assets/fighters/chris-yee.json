@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7344,
+  "divisional_rank": 654,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Chris Yee",
+      "bout_type": "Middleweight Bout",
+      "date": "2006-03-10",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Shamrock vs. Gracie",
+      "fight_id": "c67c93a979d2c461",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Scott Graham",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Scott Graham",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Gracie",
+      "time": "2:37",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2006-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-10",
+      "fight_id": "c67c93a979d2c461",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2006-03-10",
+      "fight_id": "c67c93a979d2c461",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-03-10",
+  "name": "Chris Yee",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "chris-yee",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

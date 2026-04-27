@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7133,
+  "divisional_rank": 501,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Jesse Fujarczyk",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-10-07",
+      "elo_delta": -18.4,
+      "event_name": "Strikeforce: Tank vs. Buentello",
+      "fight_id": "86cf96ccb8c0eac4",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Cain Velasquez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Cain Velasquez",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Tank vs. Buentello",
+      "time": "1:58",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jesse Fujarczyk",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-03-10",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Shamrock vs. Gracie",
+      "fight_id": "dfb9fd164d833348",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Daniel Puder",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Daniel Puder",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Shamrock vs. Gracie",
+      "time": "1:54",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-03-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-10",
+      "fight_id": "dfb9fd164d833348",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-03-10",
+      "fight_id": "dfb9fd164d833348",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-10-07",
+      "fight_id": "86cf96ccb8c0eac4",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-10-07",
+      "fight_id": "86cf96ccb8c0eac4",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-10-07",
+  "name": "Jesse Fujarczyk",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.2,
+  "raw_overall_elo": 1466.3,
+  "slug": "jesse-fujarczyk",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

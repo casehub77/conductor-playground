@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6182,
+  "divisional_rank": 497,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Jay White",
+      "bout_type": "Heavyweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": -17.4,
+      "event_name": "Bellator 7/8",
+      "fight_id": "8820eae852b94248",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Eddie Sanchez",
+      "opponent_elo": 1498.4,
+      "outcome": "red_win",
+      "post_elo": 1444.8,
+      "pre_elo": 1462.2,
+      "red_name": "Eddie Sanchez",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 7",
+      "time": "0:10",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jay White",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-03-17",
+      "elo_delta": -18.4,
+      "event_name": "WEC 19: Undisputed",
+      "fight_id": "bb5fbf245081fd9f",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Jake O'Brien",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.6,
+      "red_name": "Jake O'Brien",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 19",
+      "time": "0:14",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Jay White",
+      "bout_type": "Heavyweight Bout",
+      "date": "2002-08-31",
+      "elo_delta": -19.4,
+      "event_name": "WEC 4 – Rumble Under The Sun",
+      "fight_id": "73d20afaf3b37325",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Christian Wellisch",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Christian Wellisch",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 4",
+      "time": "3:42",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2002-08-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2002-08-31",
+      "fight_id": "73d20afaf3b37325",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2002-08-31",
+      "fight_id": "73d20afaf3b37325",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "bb5fbf245081fd9f",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-03-17",
+      "fight_id": "bb5fbf245081fd9f",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "8820eae852b94248",
+      "rating": 1444.8,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "8820eae852b94248",
+      "rating": 1450.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-15",
+  "name": "Jay White",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1444.8,
+  "raw_overall_elo": 1450.6,
+  "slug": "jay-white",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

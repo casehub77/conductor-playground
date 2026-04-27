@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6161,
+  "divisional_rank": 579,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Phil Brown",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-06-05",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 10",
+      "fight_id": "8e4da5dfe366bc41",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Phil Brown",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Israel Giron",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 10",
+      "time": "2:42",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2009-06-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-06-05",
+      "fight_id": "8e4da5dfe366bc41",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-06-05",
+      "fight_id": "8e4da5dfe366bc41",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-06-05",
+  "name": "Israel Giron",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "israel-giron",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3298,
+  "divisional_rank": 1127,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Renato Gomes",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2017-04-07",
+      "elo_delta": -16.7,
+      "event_name": "KSW 38: Live in Studio",
+      "fight_id": "201c09d77a666581",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Elbows)",
+      "opponent": "Grzegorz Szulakowski",
+      "opponent_elo": 1535.6,
+      "outcome": "red_win",
+      "post_elo": 1469.8,
+      "pre_elo": 1486.5,
+      "red_name": "Grzegorz Szulakowski",
+      "round": "3",
+      "source": "manual",
+      "source_title": "2017 in Konfrontacja Sztuk Walki",
+      "time": "4:19",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Renato Gomes",
+      "bout_type": "Lightweight 70 kg Bout",
+      "date": "2016-10-01",
+      "elo_delta": -13.5,
+      "event_name": "KSW 36: Materla vs. Palhares",
+      "fight_id": "9f31c77b4c27ef7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Heel Hook)",
+      "opponent": "Mateusz Gamrot",
+      "opponent_elo": 1609.6,
+      "outcome": "red_win",
+      "post_elo": 1486.5,
+      "pre_elo": 1500.0,
+      "red_name": "Mateusz Gamrot",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2016 in Konfrontacja Sztuk Walki",
+      "time": "4:01",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2016-10-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2016-10-01",
+      "fight_id": "9f31c77b4c27ef7f",
+      "rating": 1486.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2016-10-01",
+      "fight_id": "9f31c77b4c27ef7f",
+      "rating": 1487.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-04-07",
+      "fight_id": "201c09d77a666581",
+      "rating": 1469.8,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2017-04-07",
+      "fight_id": "201c09d77a666581",
+      "rating": 1472.4,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-04-07",
+  "name": "Renato Gomes",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1469.8,
+  "raw_overall_elo": 1472.4,
+  "slug": "renato-gomes",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

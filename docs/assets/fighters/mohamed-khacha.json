@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8301,
+  "divisional_rank": 628,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Mohamed Khacha",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-07-27",
+      "elo_delta": -19.4,
+      "event_name": "CWFC 4: UK vs. France",
+      "fight_id": "7852896ebff7ac22",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Rear-Naked Choke)",
+      "opponent": "Andy Cooper",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1519.4,
+      "red_name": "Andy Cooper",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2003 in Cage Warriors",
+      "time": "3:20",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Alex de Souza",
+      "bout_type": "Open Weight Bout",
+      "date": "2003-03-16",
+      "elo_delta": 19.4,
+      "event_name": "CWFC 3: Cage Warriors 3",
+      "fight_id": "04a5942ce10d1029",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (Punch)",
+      "opponent": "Alex de Souza",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mohamed Khacha",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2003 in Cage Warriors",
+      "time": "N/A",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2003-03-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-03-16",
+      "fight_id": "04a5942ce10d1029",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-03-16",
+      "fight_id": "04a5942ce10d1029",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2003-07-27",
+      "fight_id": "7852896ebff7ac22",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2003-07-27",
+      "fight_id": "7852896ebff7ac22",
+      "rating": 1500.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": false,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-07-27",
+  "name": "Mohamed Khacha",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1500.0,
+  "raw_overall_elo": 1500.0,
+  "slug": "mohamed-khacha",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5110,
+  "divisional_rank": 644,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Eddie Yagin",
+      "bout_type": "Featherweight Bout",
+      "date": "2012-04-21",
+      "elo_delta": 20.0,
+      "event_name": "UFC 145: Jones vs Evans",
+      "fight_id": "ffc0f11d378f2c57",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Mark Hominick",
+      "opponent_elo": 1520.8,
+      "outcome": "blue_win",
+      "post_elo": 1501.3,
+      "pre_elo": 1481.3,
+      "red_name": "Mark Hominick",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Eddie Yagin",
+      "bout_type": "Featherweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": -18.7,
+      "event_name": "UFC 135: Jones vs Rampage",
+      "fight_id": "bb3f6ccb7e9244f4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Junior Assuncao",
+      "opponent_elo": 1485.7,
+      "outcome": "red_win",
+      "post_elo": 1481.3,
+      "pre_elo": 1500.0,
+      "red_name": "Junior Assuncao",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2011-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-09-24",
+      "fight_id": "bb3f6ccb7e9244f4",
+      "rating": 1481.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "bb3f6ccb7e9244f4",
+      "rating": 1483.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-04-21",
+      "fight_id": "ffc0f11d378f2c57",
+      "rating": 1501.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2012-04-21",
+      "fight_id": "ffc0f11d378f2c57",
+      "rating": 1501.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-04-21",
+  "name": "Eddie Yagin",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1501.3,
+  "raw_current_elo": 1501.3,
+  "raw_overall_elo": 1501.1,
+  "slug": "eddie-yagin",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5320,
+  "divisional_rank": 445,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Dane Bonnigson",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2011-09-24",
+      "elo_delta": -19.4,
+      "event_name": "Bellator 51",
+      "fight_id": "9497474519271b12",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (knee)",
+      "opponent": "Dan Spohn",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Dan Spohn",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 51",
+      "time": "0:09",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2011-09-24",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2011-09-24",
+      "fight_id": "9497474519271b12",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2011-09-24",
+      "fight_id": "9497474519271b12",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-09-24",
+  "name": "Dane Bonnigson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "dane-bonnigson",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

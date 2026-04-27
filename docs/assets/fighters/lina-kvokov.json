@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6357,
+  "divisional_rank": 106,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Lina Kvokov",
+      "bout_type": "Women's Bantamweight Bout",
+      "date": "2008-11-21",
+      "elo_delta": -19.4,
+      "event_name": "Strikeforce: Destruction",
+      "fight_id": "413b8c95a3d405ac",
+      "gender": "women",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Kim Couture",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Kim Couture",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Destruction",
+      "time": "3:44",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2008-11-21",
+  "gender": "women",
+  "history": [
+    {
+      "date": "2008-11-21",
+      "fight_id": "413b8c95a3d405ac",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "women:Bantamweight"
+    },
+    {
+      "date": "2008-11-21",
+      "fight_id": "413b8c95a3d405ac",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "women:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-11-21",
+  "name": "Lina Kvokov",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "lina-kvokov",
+  "systems": {
+    "division": "women:Bantamweight",
+    "overall": "women:overall"
+  },
+  "weight_class": "Bantamweight"
+}

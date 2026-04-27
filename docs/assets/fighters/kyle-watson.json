@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5467,
+  "divisional_rank": 677,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Kyle Watson",
+      "bout_type": "Lightweight Bout",
+      "date": "2011-04-30",
+      "elo_delta": -19.5,
+      "event_name": "UFC 129: St-Pierre vs Shields",
+      "fight_id": "cfafcca45ee018e8",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "John Makdessi",
+      "opponent_elo": 1517.1,
+      "outcome": "red_win",
+      "post_elo": 1498.5,
+      "pre_elo": 1518.0,
+      "red_name": "John Makdessi",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:27",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Kyle Watson",
+      "bout_type": "Lightweight Bout",
+      "date": "2010-12-04",
+      "elo_delta": 18.0,
+      "event_name": "The Ultimate Fighter: Team GSP vs Team Koscheck Finale",
+      "fight_id": "a92a5bff8c61ae97",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sako Chivitchian",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Sako Chivitchian",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2010-12-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-12-04",
+      "fight_id": "a92a5bff8c61ae97",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2010-12-04",
+      "fight_id": "a92a5bff8c61ae97",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-04-30",
+      "fight_id": "cfafcca45ee018e8",
+      "rating": 1498.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2011-04-30",
+      "fight_id": "cfafcca45ee018e8",
+      "rating": 1498.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2011-04-30",
+  "name": "Kyle Watson",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1498.5,
+  "raw_overall_elo": 1498.7,
+  "slug": "kyle-watson",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

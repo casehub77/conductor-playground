@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4907,
+  "divisional_rank": 882,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Tom Deblass",
+      "bout_type": "Middleweight Bout",
+      "date": "2012-11-10",
+      "elo_delta": -16.5,
+      "event_name": "UFC Macao: Franklin vs Le",
+      "fight_id": "b281a7da3c8a79e5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Riki Fukuda",
+      "opponent_elo": 1512.7,
+      "outcome": "red_win",
+      "post_elo": 1467.0,
+      "pre_elo": 1483.5,
+      "red_name": "Riki Fukuda",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Tom Deblass",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2012-04-14",
+      "elo_delta": -18.6,
+      "event_name": "UFC on FUEL TV: Gustafsson vs Silva",
+      "fight_id": "012bd13741821304",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Majority",
+      "opponent": "Cyrille Diabate",
+      "opponent_elo": 1487.5,
+      "outcome": "red_win",
+      "post_elo": 1481.4,
+      "pre_elo": 1500.0,
+      "red_name": "Cyrille Diabate",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2012-04-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-04-14",
+      "fight_id": "012bd13741821304",
+      "rating": 1481.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2012-04-14",
+      "fight_id": "012bd13741821304",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2012-11-10",
+      "fight_id": "b281a7da3c8a79e5",
+      "rating": 1467.0,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2012-11-10",
+      "fight_id": "b281a7da3c8a79e5",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2012-11-10",
+  "name": "Tom Deblass",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1467.0,
+  "raw_overall_elo": 1468.9,
+  "slug": "tom-deblass",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

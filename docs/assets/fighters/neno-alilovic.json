@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7259,
+  "divisional_rank": 533,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Neno Alilovic",
+      "bout_type": "Light Heavyweight 93 kg Bout",
+      "date": "2006-06-03",
+      "elo_delta": -19.2,
+      "event_name": "KSW V: Konfrontacja",
+      "fight_id": "4af33652c9d0173c",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Submission to punches)",
+      "opponent": "Robert Jocz",
+      "opponent_elo": 1503.6,
+      "outcome": "red_win",
+      "post_elo": 1480.8,
+      "pre_elo": 1500.0,
+      "red_name": "Robert Jocz",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Konfrontacja Sztuk Walki",
+      "time": "Tournament Quarter-Finals 2",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2006-06-03",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-06-03",
+      "fight_id": "4af33652c9d0173c",
+      "rating": 1480.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2006-06-03",
+      "fight_id": "4af33652c9d0173c",
+      "rating": 1482.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-06-03",
+  "name": "Neno Alilovic",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.8,
+  "raw_overall_elo": 1482.9,
+  "slug": "neno-alilovic",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3927,
+  "divisional_rank": 916,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Pawel Pawlak",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-07-18",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night: Bisping vs Leites",
+      "fight_id": "98d0d4a93f50ad5e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Leon Edwards",
+      "opponent_elo": 1503.4,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1497.6,
+      "red_name": "Leon Edwards",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Sheldon Westcott",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-04-11",
+      "elo_delta": 18.2,
+      "event_name": "UFC Fight Night: Gonzaga vs Cro Cop 2",
+      "fight_id": "ca347bddc67aeb53",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sheldon Westcott",
+      "opponent_elo": 1482.7,
+      "outcome": "red_win",
+      "post_elo": 1497.6,
+      "pre_elo": 1479.4,
+      "red_name": "Pawel Pawlak",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Pawel Pawlak",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-05-31",
+      "elo_delta": -20.6,
+      "event_name": "UFC Fight Night: Munoz vs Mousasi",
+      "fight_id": "5d7c4a852c40c96f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Peter Sobotta",
+      "opponent_elo": 1449.0,
+      "outcome": "red_win",
+      "post_elo": 1479.4,
+      "pre_elo": 1500.0,
+      "red_name": "Peter Sobotta",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2014-05-31",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-05-31",
+      "fight_id": "5d7c4a852c40c96f",
+      "rating": 1479.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-05-31",
+      "fight_id": "5d7c4a852c40c96f",
+      "rating": 1481.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "ca347bddc67aeb53",
+      "rating": 1497.6,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "ca347bddc67aeb53",
+      "rating": 1498.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-07-18",
+      "fight_id": "98d0d4a93f50ad5e",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-07-18",
+      "fight_id": "98d0d4a93f50ad5e",
+      "rating": 1482.2,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-07-18",
+  "name": "Pawel Pawlak",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.9,
+  "raw_overall_elo": 1482.2,
+  "slug": "pawel-pawlak",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

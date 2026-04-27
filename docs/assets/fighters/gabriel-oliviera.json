@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3032,
+  "divisional_rank": 620,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gabriel Oliviera",
+      "bout_type": "Bantamweight 61 kg Bout",
+      "date": "2017-12-29",
+      "elo_delta": -13.0,
+      "event_name": "Rizin World Grand Prix 2017: 2nd round",
+      "fight_id": "25301c885e06eb63",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Kyoji Horiguchi",
+      "opponent_elo": 1619.8,
+      "outcome": "red_win",
+      "post_elo": 1487.0,
+      "pre_elo": 1500.0,
+      "red_name": "Kyoji Horiguchi",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2017 in Rizin Fighting Federation",
+      "time": "4:30",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2017-12-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-12-29",
+      "fight_id": "25301c885e06eb63",
+      "rating": 1487.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-12-29",
+      "fight_id": "25301c885e06eb63",
+      "rating": 1490.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2017-12-29",
+  "name": "Gabriel Oliviera",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1487.0,
+  "raw_overall_elo": 1490.6,
+  "slug": "gabriel-oliviera",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

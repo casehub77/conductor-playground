@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6182,
+  "divisional_rank": 1222,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Victor Meza",
+      "bout_type": "Lightweight Bout",
+      "date": "2009-05-15",
+      "elo_delta": -19.7,
+      "event_name": "Bellator 7/8",
+      "fight_id": "dead7117fda62a98",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear-naked choke)",
+      "opponent": "Alonzo Martinez",
+      "opponent_elo": 1479.6,
+      "outcome": "red_win",
+      "post_elo": 1464.3,
+      "pre_elo": 1484.0,
+      "red_name": "Alonzo Martinez",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 7",
+      "time": "1:42",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Victor Meza",
+      "bout_type": "Welterweight Bout",
+      "date": "2009-04-10",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 2",
+      "fight_id": "94ab9a7637986fc0",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous)",
+      "opponent": "Omar De La Cruz",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Omar De La Cruz",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 2",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2009-04-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-10",
+      "fight_id": "94ab9a7637986fc0",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2009-04-10",
+      "fight_id": "94ab9a7637986fc0",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "dead7117fda62a98",
+      "rating": 1464.3,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2009-05-15",
+      "fight_id": "dead7117fda62a98",
+      "rating": 1466.6,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-05-15",
+  "name": "Victor Meza",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1464.3,
+  "raw_overall_elo": 1466.6,
+  "slug": "victor-meza",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

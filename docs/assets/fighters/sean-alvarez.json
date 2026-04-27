@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8394,
+  "divisional_rank": 604,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Sean Alvarez",
+      "bout_type": "Heavyweight Bout",
+      "date": "2003-04-25",
+      "elo_delta": -19.5,
+      "event_name": "UFC 42: Sudden Impact",
+      "fight_id": "17be08e552b5bb03",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Wesley Correira",
+      "opponent_elo": 1498.6,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Wesley Correira",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:46",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2003-04-25",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2003-04-25",
+      "fight_id": "17be08e552b5bb03",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2003-04-25",
+      "fight_id": "17be08e552b5bb03",
+      "rating": 1482.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2003-04-25",
+  "name": "Sean Alvarez",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.5,
+  "raw_overall_elo": 1482.8,
+  "slug": "sean-alvarez",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

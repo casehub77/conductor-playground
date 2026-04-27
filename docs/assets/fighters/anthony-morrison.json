@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5838,
+  "divisional_rank": 670,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Anthony Morrison",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-04-24",
+      "elo_delta": -17.5,
+      "event_name": "WEC 48: Aldo vs. Faber",
+      "fight_id": "47a078c014fcd48c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (guillotine choke)",
+      "opponent": "Chad Mendes",
+      "opponent_elo": 1518.8,
+      "outcome": "red_win",
+      "post_elo": 1465.8,
+      "pre_elo": 1483.3,
+      "red_name": "Chad Mendes",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 48",
+      "time": "2:13",
+      "weight_class": "Featherweight"
+    },
+    {
+      "blue_name": "Anthony Morrison",
+      "bout_type": "Featherweight Bout",
+      "date": "2010-01-10",
+      "elo_delta": -16.7,
+      "event_name": "WEC 46: Varner vs. Henderson",
+      "fight_id": "a183f8c09f3b75e1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (rear naked choke)",
+      "opponent": "Mike Brown",
+      "opponent_elo": 1549.4,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Mike Brown",
+      "round": "1",
+      "source": "manual",
+      "source_title": "WEC 46",
+      "time": "1:54",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2010-01-10",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-01-10",
+      "fight_id": "a183f8c09f3b75e1",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-01-10",
+      "fight_id": "a183f8c09f3b75e1",
+      "rating": 1484.8,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-04-24",
+      "fight_id": "47a078c014fcd48c",
+      "rating": 1465.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2010-04-24",
+      "fight_id": "47a078c014fcd48c",
+      "rating": 1469.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-04-24",
+  "name": "Anthony Morrison",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.8,
+  "raw_overall_elo": 1469.1,
+  "slug": "anthony-morrison",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

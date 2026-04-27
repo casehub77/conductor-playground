@@ -1,0 +1,73 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5700,
+  "divisional_rank": 387,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Josh Rafferty",
+      "bout_type": "Welterweight Bout",
+      "date": "2010-09-09",
+      "elo_delta": 17.4,
+      "event_name": "Bellator 28",
+      "fight_id": "04f9701bba48e00e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Josh Rafferty",
+      "opponent_elo": 1480.6,
+      "outcome": "red_win",
+      "post_elo": 1533.8,
+      "pre_elo": 1516.3,
+      "red_name": "Charlie Rader",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 28",
+      "time": "1:14",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2010-05-13",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-05-13",
+      "fight_id": "212c3b176d9d5488",
+      "rating": 1516.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-09-09",
+      "fight_id": "04f9701bba48e00e",
+      "rating": 1533.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2010-09-09",
+      "fight_id": "04f9701bba48e00e",
+      "rating": 1531.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-09-09",
+  "name": "Charlie Rader",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1533.8,
+  "raw_current_elo": 1533.8,
+  "raw_overall_elo": 1531.9,
+  "slug": "charlie-rader",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

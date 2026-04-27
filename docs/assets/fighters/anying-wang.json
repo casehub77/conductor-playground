@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4256,
+  "divisional_rank": 468,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Colby Covington",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-08-23",
+      "elo_delta": -20.5,
+      "event_name": "UFC Fight Night: Bisping vs Le",
+      "fight_id": "d99bfdb75ae185ff",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Colby Covington",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1498.9,
+      "pre_elo": 1519.4,
+      "red_name": "Anying Wang",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:50",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Anying Wang",
+      "bout_type": "Welterweight Bout",
+      "date": "2014-03-01",
+      "elo_delta": 19.4,
+      "event_name": "UFC Fight Night: Kim vs Hathaway",
+      "fight_id": "2d3c9788a831ed3e",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO - Doctor's Stoppage",
+      "opponent": "Albert Cheng",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Albert Cheng",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2014-03-01",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-03-01",
+      "fight_id": "2d3c9788a831ed3e",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-03-01",
+      "fight_id": "2d3c9788a831ed3e",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2014-08-23",
+      "fight_id": "d99bfdb75ae185ff",
+      "rating": 1498.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2014-08-23",
+      "fight_id": "d99bfdb75ae185ff",
+      "rating": 1499.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2014-08-23",
+  "name": "Anying Wang",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1498.9,
+  "raw_overall_elo": 1499.1,
+  "slug": "anying-wang",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4025,
+  "divisional_rank": 1050,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Stevie Ray",
+      "bout_type": "Lightweight Bout",
+      "date": "2015-04-11",
+      "elo_delta": -18.4,
+      "event_name": "UFC Fight Night: Gonzaga vs Cro Cop 2",
+      "fight_id": "d57389042875faca",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Stevie Ray",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1462.2,
+      "pre_elo": 1480.5,
+      "red_name": "Marcin Bandel",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:35",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Marcin Bandel",
+      "bout_type": "Lightweight Bout",
+      "date": "2014-10-04",
+      "elo_delta": -19.5,
+      "event_name": "UFC Fight Night: Nelson vs Story",
+      "fight_id": "bbbb4b8b6518b100",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Mairbek Taisumov",
+      "opponent_elo": 1499.2,
+      "outcome": "red_win",
+      "post_elo": 1480.5,
+      "pre_elo": 1500.0,
+      "red_name": "Mairbek Taisumov",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "1:01",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2014-10-04",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2014-10-04",
+      "fight_id": "bbbb4b8b6518b100",
+      "rating": 1480.5,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2014-10-04",
+      "fight_id": "bbbb4b8b6518b100",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "d57389042875faca",
+      "rating": 1462.2,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "d57389042875faca",
+      "rating": 1466.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-04-11",
+  "name": "Marcin Bandel",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1462.2,
+  "raw_overall_elo": 1466.3,
+  "slug": "marcin-bandel",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

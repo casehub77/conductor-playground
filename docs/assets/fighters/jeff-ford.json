@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7882,
+  "divisional_rank": 484,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Jeff Ford",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2004-09-18",
+      "elo_delta": -15.6,
+      "event_name": "Venom: First Strike",
+      "fight_id": "ba83a1557f6c4522",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (submission to punches and elbows)",
+      "opponent": "Aaron Brink",
+      "opponent_elo": 1569.6,
+      "outcome": "red_win",
+      "post_elo": 1484.4,
+      "pre_elo": 1500.0,
+      "red_name": "Aaron Brink",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Aaron Brink",
+      "time": "1:47",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2004-09-18",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-09-18",
+      "fight_id": "ba83a1557f6c4522",
+      "rating": 1484.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2004-09-18",
+      "fight_id": "ba83a1557f6c4522",
+      "rating": 1486.5,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-09-18",
+  "name": "Jeff Ford",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1484.4,
+  "raw_overall_elo": 1486.5,
+  "slug": "jeff-ford",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

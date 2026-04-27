@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 7147,
+  "divisional_rank": 242,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mario Neto",
+      "bout_type": "Heavyweight Bout",
+      "date": "2006-09-23",
+      "elo_delta": -21.3,
+      "event_name": "UFC 63: Hughes vs Penn",
+      "fight_id": "909d9303be9164b3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Eddie Sanchez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1512.4,
+      "pre_elo": 1533.7,
+      "red_name": "Eddie Sanchez",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:17",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Markus Hipp",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-03-25",
+      "elo_delta": 18.4,
+      "event_name": "CWFC: Strike Force 5",
+      "fight_id": "96fec2768e964ed7",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Markus Hipp",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Mario Neto",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "0:36",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Przemyslaw Mysiala",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-03-05",
+      "elo_delta": 19.4,
+      "event_name": "CWFC: Enter the Wolfslair",
+      "fight_id": "8c629f8ba30adc7f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Choke)",
+      "opponent": "Przemyslaw Mysiala",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Mario Neto",
+      "round": "1",
+      "source": "manual",
+      "source_title": "2006 in Cage Warriors",
+      "time": "4:52",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2006-03-05",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2006-03-05",
+      "fight_id": "8c629f8ba30adc7f",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-03-05",
+      "fight_id": "8c629f8ba30adc7f",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-03-25",
+      "fight_id": "96fec2768e964ed7",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-03-25",
+      "fight_id": "96fec2768e964ed7",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-09-23",
+      "fight_id": "909d9303be9164b3",
+      "rating": 1512.4,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2006-09-23",
+      "fight_id": "909d9303be9164b3",
+      "rating": 1514.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2006-09-23",
+  "name": "Mario Neto",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1537.8,
+  "raw_current_elo": 1512.4,
+  "raw_overall_elo": 1514.8,
+  "slug": "mario-neto",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

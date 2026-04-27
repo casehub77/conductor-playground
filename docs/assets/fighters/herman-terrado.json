@@ -1,17 +1,119 @@
 {
   "activity_status": "inactive",
   "current_elo": 1500.0,
-  "days_since_last_fight": 931,
-  "divisional_rank": null,
-  "fight_count": 1,
-  "fight_log": [],
-  "first_fight_date": "2023-10-07",
+  "days_since_last_fight": 924,
+  "divisional_rank": 354,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Herman Terrado",
+      "bout_type": "Catchweight (180 lb) Bout",
+      "date": "2023-10-07",
+      "elo_delta": -19.8,
+      "event_name": "Bellator 300: Nurmagomedov vs. Primus",
+      "fight_id": "88576f3981d4e296",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (30–27, 30–27, 30–27)",
+      "opponent": "Mukhamed Berkhamov",
+      "opponent_elo": 1502.8,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1537.8,
+      "red_name": "Mukhamed Berkhamov",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 300",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
+    {
+      "blue_name": "Chris Brown",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-12-17",
+      "elo_delta": 18.4,
+      "event_name": "Strikeforce: Melendez vs. Masvidal",
+      "fight_id": "aaf1d45501848f5f",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (armbar)",
+      "opponent": "Chris Brown",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1537.8,
+      "pre_elo": 1519.4,
+      "red_name": "Herman Terrado",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Strikeforce: Melendez vs. Masvidal",
+      "time": "4:05",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "A.J. Matthews",
+      "bout_type": "Welterweight Bout",
+      "date": "2011-04-09",
+      "elo_delta": 19.4,
+      "event_name": "Strikeforce: Diaz vs. Daley",
+      "fight_id": "cc4e695e66944ea3",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO (punch)",
+      "opponent": "A.J. Matthews",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Herman Terrado",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Strikeforce: Diaz vs. Daley",
+      "time": "4:16",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2011-04-09",
   "gender": "men",
   "history": [
     {
+      "date": "2011-04-09",
+      "fight_id": "cc4e695e66944ea3",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-04-09",
+      "fight_id": "cc4e695e66944ea3",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2011-12-17",
+      "fight_id": "aaf1d45501848f5f",
+      "rating": 1537.8,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2011-12-17",
+      "fight_id": "aaf1d45501848f5f",
+      "rating": 1533.7,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
       "date": "2023-10-07",
       "fight_id": "88576f3981d4e296",
-      "rating": 1484.1,
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2023-10-07",
+      "fight_id": "88576f3981d4e296",
+      "rating": 1516.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -24,13 +126,13 @@
   "name": "Herman Terrado",
   "nickname": "",
   "overall_elo": 1500.0,
-  "peak_elo": 1500.0,
-  "raw_current_elo": 1484.1,
-  "raw_overall_elo": 1484.1,
+  "peak_elo": 1537.8,
+  "raw_current_elo": 1518.0,
+  "raw_overall_elo": 1516.3,
   "slug": "herman-terrado",
   "systems": {
-    "division": "men:Catch Weight",
+    "division": "men:Welterweight",
     "overall": "men:overall"
   },
-  "weight_class": "Catch Weight"
+  "weight_class": "Welterweight"
 }

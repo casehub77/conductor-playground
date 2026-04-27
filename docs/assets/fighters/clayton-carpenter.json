@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
-  "current_elo": 1527.3,
-  "days_since_last_fight": 196,
-  "divisional_rank": 63,
+  "current_elo": 1527.2,
+  "days_since_last_fight": 189,
+  "divisional_rank": 71,
   "fight_count": 6,
   "fight_log": [
     {
@@ -16,10 +16,10 @@
       "is_title": false,
       "method": "Submission",
       "opponent": "Jafel Filho",
-      "opponent_elo": 1505.0,
+      "opponent_elo": 1504.3,
       "outcome": "red_win",
-      "post_elo": 1527.3,
-      "pre_elo": 1549.2,
+      "post_elo": 1527.2,
+      "pre_elo": 1549.1,
       "red_name": "Jafel Filho",
       "round": "1.0",
       "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
@@ -31,16 +31,16 @@
       "blue_name": "Clayton Carpenter",
       "bout_type": "Flyweight Bout",
       "date": "2025-01-18",
-      "elo_delta": -18.7,
+      "elo_delta": -18.8,
       "event_name": "UFC 311: Makhachev vs. Moicano",
       "fight_id": "b2d9ec6df966b654",
       "gender": "men",
       "is_title": false,
       "method": "Decision - Unanimous",
       "opponent": "Tagir Ulanbekov",
-      "opponent_elo": 1554.7,
+      "opponent_elo": 1552.3,
       "outcome": "red_win",
-      "post_elo": 1549.2,
+      "post_elo": 1549.1,
       "pre_elo": 1567.9,
       "red_name": "Tagir Ulanbekov",
       "round": "3.0",
@@ -171,28 +171,28 @@
     {
       "date": "2025-01-18",
       "fight_id": "b2d9ec6df966b654",
-      "rating": 1549.2,
+      "rating": 1549.1,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-01-18",
       "fight_id": "b2d9ec6df966b654",
-      "rating": 1546.1,
+      "rating": 1546.0,
       "scope": "overall",
       "system": "men:overall"
     },
     {
       "date": "2025-10-11",
       "fight_id": "1327aacb41857f21",
-      "rating": 1527.3,
+      "rating": 1527.2,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2025-10-11",
       "fight_id": "1327aacb41857f21",
-      "rating": 1526.7,
+      "rating": 1526.6,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -204,10 +204,10 @@
   "last_fight_date": "2025-10-11",
   "name": "Clayton Carpenter",
   "nickname": "",
-  "overall_elo": 1526.7,
+  "overall_elo": 1526.6,
   "peak_elo": 1567.9,
-  "raw_current_elo": 1527.3,
-  "raw_overall_elo": 1526.7,
+  "raw_current_elo": 1527.2,
+  "raw_overall_elo": 1526.6,
   "slug": "clayton-carpenter",
   "systems": {
     "division": "men:Flyweight",

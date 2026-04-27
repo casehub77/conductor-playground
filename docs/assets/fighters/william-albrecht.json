@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6210,
+  "divisional_rank": 294,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Mike Messina",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2009-04-17",
+      "elo_delta": 19.4,
+      "event_name": "Bellator 4",
+      "fight_id": "c08f36d6b090997b",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Mike Messina",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "William Albrecht",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Bellator 4",
+      "time": "1:30",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2009-04-17",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2009-04-17",
+      "fight_id": "c08f36d6b090997b",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2009-04-17",
+      "fight_id": "c08f36d6b090997b",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-17",
+  "name": "William Albrecht",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1519.4,
+  "raw_overall_elo": 1517.3,
+  "slug": "william-albrecht",
+  "systems": {
+    "division": "men:Light Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Light Heavyweight"
+}

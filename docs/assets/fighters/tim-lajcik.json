@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 9339,
+  "divisional_rank": 621,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Tim Lajcik",
+      "bout_type": "Heavyweight Bout",
+      "date": "2000-09-22",
+      "elo_delta": -17.1,
+      "event_name": "UFC 27: Ultimate Bad Boyz",
+      "fight_id": "361c3f0be35a50d6",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jeff Monson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1465.3,
+      "pre_elo": 1482.3,
+      "red_name": "Jeff Monson",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Ron Waterman",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-09-24",
+      "elo_delta": 0.8,
+      "event_name": "UFC 22: Only One Can be Champion",
+      "fight_id": "7dc9484597028e44",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ron Waterman",
+      "opponent_elo": 1497.9,
+      "outcome": "draw",
+      "post_elo": 1482.3,
+      "pre_elo": 1481.5,
+      "red_name": "Tim Lajcik",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    },
+    {
+      "blue_name": "Tim Lajcik",
+      "bout_type": "Heavyweight Bout",
+      "date": "1999-07-16",
+      "elo_delta": -18.5,
+      "event_name": "UFC 21: Return of the Champions",
+      "fight_id": "9ebd751c8700e050",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tsuyoshi Kohsaka",
+      "opponent_elo": 1516.7,
+      "outcome": "red_win",
+      "post_elo": 1481.5,
+      "pre_elo": 1500.0,
+      "red_name": "Tsuyoshi Kohsaka",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "1999-07-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "1999-07-16",
+      "fight_id": "9ebd751c8700e050",
+      "rating": 1481.5,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-07-16",
+      "fight_id": "9ebd751c8700e050",
+      "rating": 1483.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "7dc9484597028e44",
+      "rating": 1482.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "1999-09-24",
+      "fight_id": "7dc9484597028e44",
+      "rating": 1484.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2000-09-22",
+      "fight_id": "361c3f0be35a50d6",
+      "rating": 1465.3,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2000-09-22",
+      "fight_id": "361c3f0be35a50d6",
+      "rating": 1468.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2000-09-22",
+  "name": "Tim Lajcik",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1465.3,
+  "raw_overall_elo": 1468.9,
+  "slug": "tim-lajcik",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}

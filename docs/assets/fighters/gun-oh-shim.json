@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2414,
+  "divisional_rank": 1193,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Gun Oh Shim",
+      "bout_type": "Open Weight Bout",
+      "date": "2019-09-08",
+      "elo_delta": -20.4,
+      "event_name": "Road FC 055",
+      "fight_id": "64cf3c12e08bffa3",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (Punches)",
+      "opponent": "Chris Barnett",
+      "opponent_elo": 1482.9,
+      "outcome": "red_win",
+      "post_elo": 1479.6,
+      "pre_elo": 1500.0,
+      "red_name": "Chris Barnett",
+      "round": "1/3",
+      "source": "manual",
+      "source_title": "2019 in Road FC",
+      "time": "3:44",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2019-09-08",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2019-09-08",
+      "fight_id": "64cf3c12e08bffa3",
+      "rating": 1479.6,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2019-09-08",
+      "fight_id": "64cf3c12e08bffa3",
+      "rating": 1482.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2019-09-08",
+  "name": "Gun Oh Shim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.6,
+  "raw_overall_elo": 1482.0,
+  "slug": "gun-oh-shim",
+  "systems": {
+    "division": "men:Open Weight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Open Weight"
+}

@@ -1,18 +1,18 @@
 {
   "dry_run": false,
   "fallback": {
-    "discarded_unparseable": 12,
-    "duplicates": 63,
+    "discarded_unparseable": 13,
+    "duplicates": 50,
     "errors": [],
     "new_fights": 0,
-    "parsed_fights": 75,
-    "rows": 75,
+    "parsed_fights": 63,
+    "rows": 63,
     "used": true
   },
   "fighter_details": {
     "errors": [],
     "rows": 3596,
-    "source": "/home/runner/work/conductor-playground/conductor-playground/data/raw/raw_fighter_details.csv"
+    "source": "/Users/casehawts/conductor/workspaces/conductor-playground-v2/philadelphia/data/raw/raw_fighter_details.csv"
   },
   "manual": {
     "duplicates": 26,
@@ -20,14 +20,14 @@
     "new_fights": 9338,
     "rows": 10701
   },
-  "mode": "mvp",
+  "mode": "full",
   "official_fallback": {
     "discarded_unparseable": 0,
     "duplicates": 13,
     "errors": [],
-    "new_fights": 50,
-    "parsed_fights": 63,
-    "rows": 63,
+    "new_fights": 37,
+    "parsed_fights": 50,
+    "rows": 50,
     "used": true
   },
   "primary": {
@@ -36,7 +36,7 @@
     "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv"
   },
   "primary_health": {
-    "age_days": 30,
+    "age_days": 27,
     "current_fight_count": 8591,
     "drift_ratio": 0.0,
     "drift_tolerance": 0.25,
@@ -48,15 +48,17 @@
     "stale_by_date": true,
     "stale_by_drift": false
   },
-  "since": "2020-01-01",
+  "since": null,
   "validation": {
     "errors": [],
-    "fight_count": 7289,
-    "fighter_count": 5137,
-    "input_hash": "125789124919bc979232f03eb1d16a153a971e1bfd46fb8c3929928fcba74c7a",
+    "fight_count": 17966,
+    "fighter_count": 9185,
+    "input_hash": "2a8c949c27e39808a356a0404894af4db7118e6ecdd4053d83309b59e60f25b5",
     "ok": true,
     "same_name_collisions": [],
-    "suggested_alias_count": 153,
-    "warnings": []
+    "suggested_alias_count": 435,
+    "warnings": [
+      "1 fights have unknown weight class."
+    ]
   }
 }

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6551,
+  "divisional_rank": 859,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Dae Won Kim",
+      "bout_type": "Middleweight Bout",
+      "date": "2008-05-11",
+      "elo_delta": -19.4,
+      "event_name": "Dream 3: Lightweight Grand Prix 2008 2nd Round",
+      "fight_id": "6ee0c6406b12b0ee",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (knees and punches)",
+      "opponent": "Melvin Manhoef",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1499.3,
+      "red_name": "Melvin Manhoef",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Dream 3",
+      "time": "4:08",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Dae Won Kim",
+      "bout_type": "Open Weight Bout",
+      "date": "2006-04-02",
+      "elo_delta": -17.7,
+      "event_name": "Pride: Bushido 10",
+      "fight_id": "765247d8d84ec9e4",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission (Armbar)",
+      "opponent": "Akihiro Gono",
+      "opponent_elo": 1547.6,
+      "outcome": "red_win",
+      "post_elo": 1499.3,
+      "pre_elo": 1517.1,
+      "red_name": "Akihiro Gono",
+      "round": "1",
+      "source": "manual",
+      "source_title": "Pride Bushido 10",
+      "time": "9:00",
+      "weight_class": "Open Weight"
+    },
+    {
+      "blue_name": "Nobuyuki Shimakawa",
+      "bout_type": "Open Weight Bout",
+      "date": "2005-05-11",
+      "elo_delta": 17.1,
+      "event_name": "G-Shooto: Special 01",
+      "fight_id": "6842b88e9598c313",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (Unanimous)",
+      "opponent": "Nobuyuki Shimakawa",
+      "opponent_elo": 1482.0,
+      "outcome": "red_win",
+      "post_elo": 1517.1,
+      "pre_elo": 1500.0,
+      "red_name": "Dae Won Kim",
+      "round": "2",
+      "source": "manual",
+      "source_title": "2005 in Shooto",
+      "time": "5:00",
+      "weight_class": "Open Weight"
+    }
+  ],
+  "first_fight_date": "2005-05-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2005-05-11",
+      "fight_id": "6842b88e9598c313",
+      "rating": 1517.1,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2005-05-11",
+      "fight_id": "6842b88e9598c313",
+      "rating": 1515.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2006-04-02",
+      "fight_id": "765247d8d84ec9e4",
+      "rating": 1499.3,
+      "scope": "division",
+      "system": "men:Open Weight"
+    },
+    {
+      "date": "2006-04-02",
+      "fight_id": "765247d8d84ec9e4",
+      "rating": 1499.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2008-05-11",
+      "fight_id": "6ee0c6406b12b0ee",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2008-05-11",
+      "fight_id": "6ee0c6406b12b0ee",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2008-05-11",
+  "name": "Dae Won Kim",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1517.1,
+  "raw_current_elo": 1479.9,
+  "raw_overall_elo": 1482.1,
+  "slug": "dae-won-kim",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

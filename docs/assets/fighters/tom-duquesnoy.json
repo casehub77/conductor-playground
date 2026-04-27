@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 2954,
+  "divisional_rank": 380,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Terrion Ware",
+      "bout_type": "Bantamweight Bout",
+      "date": "2018-03-17",
+      "elo_delta": 16.2,
+      "event_name": "UFC Fight Night: Werdum vs. Volkov",
+      "fight_id": "a1f8449a98379e0c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Terrion Ware",
+      "opponent_elo": 1466.8,
+      "outcome": "red_win",
+      "post_elo": 1517.6,
+      "pre_elo": 1501.4,
+      "red_name": "Tom Duquesnoy",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Cody Stamann",
+      "bout_type": "Bantamweight Bout",
+      "date": "2017-10-07",
+      "elo_delta": -18.2,
+      "event_name": "UFC 216: Ferguson vs. Lee",
+      "fight_id": "bb304e33a24bc9f3",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Cody Stamann",
+      "opponent_elo": 1516.0,
+      "outcome": "blue_win",
+      "post_elo": 1501.4,
+      "pre_elo": 1519.6,
+      "red_name": "Tom Duquesnoy",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Tom Duquesnoy",
+      "bout_type": "Bantamweight Bout",
+      "date": "2017-04-15",
+      "elo_delta": 19.6,
+      "event_name": "UFC on FOX: Johnson vs. Reis",
+      "fight_id": "13644480581a0009",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Patrick Williams",
+      "opponent_elo": 1502.1,
+      "outcome": "blue_win",
+      "post_elo": 1519.6,
+      "pre_elo": 1500.0,
+      "red_name": "Patrick Williams",
+      "round": "2.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "0:28",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2017-04-15",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2017-04-15",
+      "fight_id": "13644480581a0009",
+      "rating": 1519.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-04-15",
+      "fight_id": "13644480581a0009",
+      "rating": 1517.4,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2017-10-07",
+      "fight_id": "bb304e33a24bc9f3",
+      "rating": 1501.4,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2017-10-07",
+      "fight_id": "bb304e33a24bc9f3",
+      "rating": 1501.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2018-03-17",
+      "fight_id": "a1f8449a98379e0c",
+      "rating": 1517.6,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2018-03-17",
+      "fight_id": "a1f8449a98379e0c",
+      "rating": 1515.8,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2018-03-17",
+  "name": "Tom Duquesnoy",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.6,
+  "raw_current_elo": 1517.6,
+  "raw_overall_elo": 1515.8,
+  "slug": "tom-duquesnoy",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

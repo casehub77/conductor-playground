@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 3829,
+  "divisional_rank": 748,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Mickael Lebout",
+      "bout_type": "Lightweight Bout",
+      "date": "2015-10-24",
+      "elo_delta": -16.3,
+      "event_name": "UFC Fight Night: Holohan vs Smolka",
+      "fight_id": "e85c761d9b791d48",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Stevie Ray",
+      "opponent_elo": 1536.1,
+      "outcome": "red_win",
+      "post_elo": 1487.4,
+      "pre_elo": 1503.7,
+      "red_name": "Stevie Ray",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Teemu Packalen",
+      "bout_type": "Lightweight Bout",
+      "date": "2015-07-18",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Bisping vs Leites",
+      "fight_id": "1d4d00042d2143b9",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Teemu Packalen",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1503.7,
+      "pre_elo": 1484.9,
+      "red_name": "Mickael Lebout",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Lightweight"
+    },
+    {
+      "blue_name": "Mickael Lebout",
+      "bout_type": "Welterweight Bout",
+      "date": "2015-04-11",
+      "elo_delta": -16.7,
+      "event_name": "UFC Fight Night: Gonzaga vs Cro Cop 2",
+      "fight_id": "40d57a95c9785f63",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Sergio Moraes",
+      "opponent_elo": 1524.5,
+      "outcome": "red_win",
+      "post_elo": 1483.3,
+      "pre_elo": 1500.0,
+      "red_name": "Sergio Moraes",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2015-04-11",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2015-04-11",
+      "fight_id": "40d57a95c9785f63",
+      "rating": 1483.3,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2015-04-11",
+      "fight_id": "40d57a95c9785f63",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-07-18",
+      "fight_id": "1d4d00042d2143b9",
+      "rating": 1503.7,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-07-18",
+      "fight_id": "1d4d00042d2143b9",
+      "rating": 1501.6,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2015-10-24",
+      "fight_id": "e85c761d9b791d48",
+      "rating": 1487.4,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2015-10-24",
+      "fight_id": "e85c761d9b791d48",
+      "rating": 1487.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2015-10-24",
+  "name": "Mickael Lebout",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1503.7,
+  "raw_current_elo": 1487.4,
+  "raw_overall_elo": 1487.0,
+  "slug": "mickael-lebout",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 4616,
+  "divisional_rank": 469,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Ben Alloway",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-08-28",
+      "elo_delta": -18.5,
+      "event_name": "UFC Fight Night: Condit vs Kampmann 2",
+      "fight_id": "281f3d5d4d2eab6e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Zak Cummings",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1481.9,
+      "pre_elo": 1500.4,
+      "red_name": "Zak Cummings",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:19",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Ryan Laflare",
+      "bout_type": "Welterweight Bout",
+      "date": "2013-04-06",
+      "elo_delta": -19.0,
+      "event_name": "UFC on FUEL TV: Mousasi vs Latifi",
+      "fight_id": "c7a51c6c9acfeffc",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Ryan Laflare",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1500.4,
+      "pre_elo": 1519.4,
+      "red_name": "Ben Alloway",
+      "round": "3.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Welterweight"
+    },
+    {
+      "blue_name": "Manuel Rodriguez",
+      "bout_type": "Welterweight Bout",
+      "date": "2012-12-14",
+      "elo_delta": 19.4,
+      "event_name": "UFC on FX: Sotiropoulos vs Pearson",
+      "fight_id": "6fadf0ef3947fdcb",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Manuel Rodriguez",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1519.4,
+      "pre_elo": 1500.0,
+      "red_name": "Ben Alloway",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:57",
+      "weight_class": "Welterweight"
+    }
+  ],
+  "first_fight_date": "2012-12-14",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2012-12-14",
+      "fight_id": "6fadf0ef3947fdcb",
+      "rating": 1519.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2012-12-14",
+      "fight_id": "6fadf0ef3947fdcb",
+      "rating": 1517.3,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-04-06",
+      "fight_id": "c7a51c6c9acfeffc",
+      "rating": 1500.4,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-04-06",
+      "fight_id": "c7a51c6c9acfeffc",
+      "rating": 1500.5,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "281f3d5d4d2eab6e",
+      "rating": 1481.9,
+      "scope": "division",
+      "system": "men:Welterweight"
+    },
+    {
+      "date": "2013-08-28",
+      "fight_id": "281f3d5d4d2eab6e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2013-08-28",
+  "name": "Ben Alloway",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1519.4,
+  "raw_current_elo": 1481.9,
+  "raw_overall_elo": 1484.0,
+  "slug": "ben-alloway",
+  "systems": {
+    "division": "men:Welterweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Welterweight"
+}

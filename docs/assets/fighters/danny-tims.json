@@ -1,0 +1,138 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 5665,
+  "divisional_rank": 455,
+  "fight_count": 3,
+  "fight_log": [
+    {
+      "blue_name": "Danny Tims",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-10-14",
+      "elo_delta": -17.0,
+      "event_name": "Bellator 32",
+      "fight_id": "f07f1eb9409b6b76",
+      "gender": "men",
+      "is_title": false,
+      "method": "Split decision (30–27, 28–29, 30–27).",
+      "opponent": "Jared Downing",
+      "opponent_elo": 1519.4,
+      "outcome": "red_win",
+      "post_elo": 1483.0,
+      "pre_elo": 1500.0,
+      "red_name": "Jared Downing",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 32",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Danny Tims",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-08-26",
+      "elo_delta": -18.0,
+      "event_name": "Bellator 26",
+      "fight_id": "269263fd5332c67a",
+      "gender": "men",
+      "is_title": false,
+      "method": "Unanimous decision (29–28, 30–27, 29–28)",
+      "opponent": "Jose Vega",
+      "opponent_elo": 1517.3,
+      "outcome": "red_win",
+      "post_elo": 1500.0,
+      "pre_elo": 1518.0,
+      "red_name": "Jose Vega",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 26",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
+    {
+      "blue_name": "Brian Davidson",
+      "bout_type": "Bantamweight Bout",
+      "date": "2010-04-29",
+      "elo_delta": 18.0,
+      "event_name": "Bellator 16",
+      "fight_id": "d7340fa2adff60f5",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (unanimous) (29–28, 29–28, 30–27)",
+      "opponent": "Brian Davidson",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1518.0,
+      "pre_elo": 1500.0,
+      "red_name": "Danny Tims",
+      "round": "3",
+      "source": "manual",
+      "source_title": "Bellator 16",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2010-04-29",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2010-04-29",
+      "fight_id": "d7340fa2adff60f5",
+      "rating": 1518.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-04-29",
+      "fight_id": "d7340fa2adff60f5",
+      "rating": 1516.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-08-26",
+      "fight_id": "269263fd5332c67a",
+      "rating": 1500.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-08-26",
+      "fight_id": "269263fd5332c67a",
+      "rating": 1500.1,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2010-10-14",
+      "fight_id": "f07f1eb9409b6b76",
+      "rating": 1483.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2010-10-14",
+      "fight_id": "f07f1eb9409b6b76",
+      "rating": 1484.9,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2010-10-14",
+  "name": "Danny Tims",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1518.0,
+  "raw_current_elo": 1483.0,
+  "raw_overall_elo": 1484.9,
+  "slug": "danny-tims",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

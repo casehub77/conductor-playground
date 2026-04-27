@@ -1,0 +1,102 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 6224,
+  "divisional_rank": 564,
+  "fight_count": 2,
+  "fight_log": [
+    {
+      "blue_name": "Daniel Sarafian",
+      "bout_type": "Middleweight Bout",
+      "date": "2009-04-03",
+      "elo_delta": 20.3,
+      "event_name": "Bellator 1",
+      "fight_id": "e6ad71db1df0fc0a",
+      "gender": "men",
+      "is_title": false,
+      "method": "TKO (punches)",
+      "opponent": "Daniel Sarafian",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1504.3,
+      "pre_elo": 1484.0,
+      "red_name": "Gary Padilla",
+      "round": "2",
+      "source": "manual",
+      "source_title": "Bellator 1",
+      "time": "3:04",
+      "weight_class": "Middleweight"
+    },
+    {
+      "blue_name": "Gary Padilla",
+      "bout_type": "Light Heavyweight Bout",
+      "date": "2007-05-12",
+      "elo_delta": -18.0,
+      "event_name": "WEC 27: Marshall vs. McElfresh",
+      "fight_id": "b5f99cb7d1de453e",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision (split) (29–28, 28–29, 29–28)",
+      "opponent": "Ariel Gandulla",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1482.0,
+      "pre_elo": 1500.0,
+      "red_name": "Ariel Gandulla",
+      "round": "3",
+      "source": "manual",
+      "source_title": "WEC 27",
+      "time": "5:00",
+      "weight_class": "Light Heavyweight"
+    }
+  ],
+  "first_fight_date": "2007-05-12",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2007-05-12",
+      "fight_id": "b5f99cb7d1de453e",
+      "rating": 1482.0,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2007-05-12",
+      "fight_id": "b5f99cb7d1de453e",
+      "rating": 1484.0,
+      "scope": "overall",
+      "system": "men:overall"
+    },
+    {
+      "date": "2009-04-03",
+      "fight_id": "e6ad71db1df0fc0a",
+      "rating": 1504.3,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2009-04-03",
+      "fight_id": "e6ad71db1df0fc0a",
+      "rating": 1502.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2009-04-03",
+  "name": "Gary Padilla",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1504.3,
+  "raw_current_elo": 1504.3,
+  "raw_overall_elo": 1502.1,
+  "slug": "gary-padilla",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

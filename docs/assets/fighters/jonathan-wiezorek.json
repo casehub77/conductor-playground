@@ -1,0 +1,66 @@
+{
+  "activity_status": "inactive",
+  "current_elo": 1500.0,
+  "days_since_last_fight": 8051,
+  "divisional_rank": 273,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Wade Shipp",
+      "bout_type": "Heavyweight Bout",
+      "date": "2004-04-02",
+      "elo_delta": 20.7,
+      "event_name": "UFC 47: It's On!",
+      "fight_id": "e3098e347f56eb26",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Wade Shipp",
+      "opponent_elo": 1523.4,
+      "outcome": "red_win",
+      "post_elo": 1520.7,
+      "pre_elo": 1500.0,
+      "red_name": "Jonathan Wiezorek",
+      "round": "1.0",
+      "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv",
+      "source_title": "",
+      "time": "4:40",
+      "weight_class": "Heavyweight"
+    }
+  ],
+  "first_fight_date": "2004-04-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2004-04-02",
+      "fight_id": "e3098e347f56eb26",
+      "rating": 1520.7,
+      "scope": "division",
+      "system": "men:Heavyweight"
+    },
+    {
+      "date": "2004-04-02",
+      "fight_id": "e3098e347f56eb26",
+      "rating": 1518.3,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": true,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2004-04-02",
+  "name": "Jonathan Wiezorek",
+  "nickname": "",
+  "overall_elo": 1500.0,
+  "peak_elo": 1520.7,
+  "raw_current_elo": 1520.7,
+  "raw_overall_elo": 1518.3,
+  "slug": "jonathan-wiezorek",
+  "systems": {
+    "division": "men:Heavyweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Heavyweight"
+}
