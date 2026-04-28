@@ -1,10 +1,32 @@
 {
   "activity_status": "active",
-  "current_elo": 1446.1,
-  "days_since_last_fight": 42,
-  "divisional_rank": 543,
-  "fight_count": 15,
+  "current_elo": 1538.7,
+  "days_since_last_fight": 0,
+  "divisional_rank": 77,
+  "fight_count": 16,
   "fight_log": [
+    {
+      "blue_name": "Cody Durden",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-04-25",
+      "elo_delta": 18.1,
+      "event_name": "UFC Fight Night: Sterling vs Zalal",
+      "fight_id": "526f8ccd3857e4f1",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Unanimous",
+      "opponent": "Jafel Filho",
+      "opponent_elo": 1523.0,
+      "outcome": "blue_win",
+      "post_elo": 1538.7,
+      "pre_elo": 1520.6,
+      "red_name": "Jafel Filho",
+      "round": "3",
+      "source": "ufc:official",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Bantamweight"
+    },
     {
       "blue_name": "Nyamjargal Tumendemberel",
       "bout_type": "Flyweight Bout",
@@ -548,23 +570,37 @@
       "rating": 1464.7,
       "scope": "overall",
       "system": "men:overall"
+    },
+    {
+      "date": "2026-04-25",
+      "fight_id": "526f8ccd3857e4f1",
+      "rating": 1538.7,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-04-25",
+      "fight_id": "526f8ccd3857e4f1",
+      "rating": 1483.4,
+      "scope": "overall",
+      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-03-07",
+  "last_fight_date": "2026-04-25",
   "name": "Cody Durden",
   "nickname": "",
-  "overall_elo": 1464.7,
+  "overall_elo": 1483.4,
   "peak_elo": 1556.6,
-  "raw_current_elo": 1446.1,
-  "raw_overall_elo": 1464.7,
+  "raw_current_elo": 1538.7,
+  "raw_overall_elo": 1483.4,
   "slug": "cody-durden",
   "systems": {
-    "division": "men:Flyweight",
+    "division": "men:Bantamweight",
     "overall": "men:overall"
   },
-  "weight_class": "Flyweight"
+  "weight_class": "Bantamweight"
 }
