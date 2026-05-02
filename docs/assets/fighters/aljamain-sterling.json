@@ -1,7 +1,7 @@
 {
   "activity_status": "active",
-  "current_elo": 1682.8,
-  "days_since_last_fight": 0,
+  "current_elo": 1683.9,
+  "days_since_last_fight": 7,
   "divisional_rank": 4,
   "fight_count": 23,
   "fight_log": [
@@ -9,20 +9,20 @@
       "blue_name": "Youssef Zalal",
       "bout_type": "Featherweight Bout",
       "date": "2026-04-25",
-      "elo_delta": 14.0,
-      "event_name": "UFC Fight Night: Sterling vs Zalal",
+      "elo_delta": 15.2,
+      "event_name": "UFC Fight Night: Sterling vs. Zalal",
       "fight_id": "fd957241f7e7839c",
       "gender": "men",
       "is_title": false,
-      "method": "Decision - Unanimous",
+      "method": "U-DEC",
       "opponent": "Youssef Zalal",
       "opponent_elo": 1591.0,
       "outcome": "red_win",
-      "post_elo": 1682.8,
+      "post_elo": 1683.9,
       "pre_elo": 1668.7,
       "red_name": "Aljamain Sterling",
       "round": "5",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Featherweight"
@@ -826,14 +826,14 @@
     {
       "date": "2026-04-25",
       "fight_id": "fd957241f7e7839c",
-      "rating": 1682.8,
+      "rating": 1683.9,
       "scope": "division",
       "system": "men:Featherweight"
     },
     {
       "date": "2026-04-25",
       "fight_id": "fd957241f7e7839c",
-      "rating": 1698.2,
+      "rating": 1699.1,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -845,10 +845,10 @@
   "last_fight_date": "2026-04-25",
   "name": "Aljamain Sterling",
   "nickname": "",
-  "overall_elo": 1698.2,
+  "overall_elo": 1699.1,
   "peak_elo": 1719.9,
-  "raw_current_elo": 1682.8,
-  "raw_overall_elo": 1698.2,
+  "raw_current_elo": 1683.9,
+  "raw_overall_elo": 1699.1,
   "slug": "aljamain-sterling",
   "systems": {
     "division": "men:Featherweight",

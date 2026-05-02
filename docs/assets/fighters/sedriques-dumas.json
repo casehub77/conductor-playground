@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
   "current_elo": 1460.9,
-  "days_since_last_fight": 0,
-  "divisional_rank": 1014,
+  "days_since_last_fight": 7,
+  "divisional_rank": 1016,
   "fight_count": 9,
   "fight_log": [
     {
@@ -10,11 +10,11 @@
       "bout_type": "Middleweight Bout",
       "date": "2026-04-25",
       "elo_delta": -13.3,
-      "event_name": "UFC Fight Night: Sterling vs Zalal",
+      "event_name": "UFC Fight Night: Sterling vs. Zalal",
       "fight_id": "ae3e00a8c7e9c855",
       "gender": "men",
       "is_title": false,
-      "method": "Submission",
+      "method": "SUB D'Arce Choke",
       "opponent": "Jackson McVey",
       "opponent_elo": 1586.9,
       "outcome": "red_win",
@@ -22,7 +22,7 @@
       "pre_elo": 1474.2,
       "red_name": "Jackson McVey",
       "round": "1",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "2:14",
       "weight_class": "Middleweight"

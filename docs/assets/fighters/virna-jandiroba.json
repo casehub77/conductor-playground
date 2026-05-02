@@ -1,7 +1,7 @@
 {
   "activity_status": "active",
-  "current_elo": 1604.2,
-  "days_since_last_fight": 21,
+  "current_elo": 1605.8,
+  "days_since_last_fight": 28,
   "divisional_rank": 4,
   "fight_count": 13,
   "fight_log": [
@@ -9,20 +9,20 @@
       "blue_name": "Tabatha Ricci",
       "bout_type": "Women's Strawweight Bout",
       "date": "2026-04-04",
-      "elo_delta": 19.2,
-      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "elo_delta": 20.8,
+      "event_name": "UFC Fight Night: Moicano vs. Duncan",
       "fight_id": "17705c309c775571",
       "gender": "women",
       "is_title": false,
-      "method": "Decision - Unanimous",
+      "method": "U-DEC",
       "opponent": "Tabatha Ricci",
       "opponent_elo": 1609.1,
       "outcome": "red_win",
-      "post_elo": 1604.2,
+      "post_elo": 1605.8,
       "pre_elo": 1585.0,
       "red_name": "Virna Jandiroba",
       "round": "3",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Strawweight"
@@ -466,14 +466,14 @@
     {
       "date": "2026-04-04",
       "fight_id": "17705c309c775571",
-      "rating": 1604.2,
+      "rating": 1605.8,
       "scope": "division",
       "system": "women:Strawweight"
     },
     {
       "date": "2026-04-04",
       "fight_id": "17705c309c775571",
-      "rating": 1591.2,
+      "rating": 1592.5,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -485,10 +485,10 @@
   "last_fight_date": "2026-04-04",
   "name": "Virna Jandiroba",
   "nickname": "",
-  "overall_elo": 1591.2,
+  "overall_elo": 1592.5,
   "peak_elo": 1606.4,
-  "raw_current_elo": 1604.2,
-  "raw_overall_elo": 1591.2,
+  "raw_current_elo": 1605.8,
+  "raw_overall_elo": 1592.5,
   "slug": "virna-jandiroba",
   "systems": {
     "division": "women:Strawweight",

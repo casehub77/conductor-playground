@@ -1,7 +1,7 @@
 {
   "activity_status": "active",
   "current_elo": 1618.7,
-  "days_since_last_fight": 14,
+  "days_since_last_fight": 21,
   "divisional_rank": 13,
   "fight_count": 33,
   "fight_log": [
@@ -10,11 +10,11 @@
       "bout_type": "Featherweight Bout",
       "date": "2026-04-11",
       "elo_delta": 13.9,
-      "event_name": "UFC 327: Procházka vs Ulberg",
+      "event_name": "UFC 327: Prochazka vs. Ulberg",
       "fight_id": "5b041adff5e75d98",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO",
+      "method": "KO/TKO Punch",
       "opponent": "Nate Landwehr",
       "opponent_elo": 1502.6,
       "outcome": "red_win",
@@ -22,7 +22,7 @@
       "pre_elo": 1604.8,
       "red_name": "Cub Swanson",
       "round": "1",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "4:06",
       "weight_class": "Featherweight"

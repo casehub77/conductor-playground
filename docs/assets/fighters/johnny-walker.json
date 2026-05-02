@@ -1,7 +1,7 @@
 {
   "activity_status": "active",
-  "current_elo": 1541.2,
-  "days_since_last_fight": 14,
+  "current_elo": 1539.8,
+  "days_since_last_fight": 21,
   "divisional_rank": 46,
   "fight_count": 16,
   "fight_log": [
@@ -9,20 +9,20 @@
       "blue_name": "Johnny Walker",
       "bout_type": "Light Heavyweight Bout",
       "date": "2026-04-11",
-      "elo_delta": -16.8,
-      "event_name": "UFC 327: Procházka vs Ulberg",
+      "elo_delta": -18.2,
+      "event_name": "UFC 327: Prochazka vs. Ulberg",
       "fight_id": "24d6c25b4b28c954",
       "gender": "men",
       "is_title": false,
-      "method": "Decision - Split",
+      "method": "S-DEC",
       "opponent": "Dominick Reyes",
       "opponent_elo": 1581.0,
       "outcome": "red_win",
-      "post_elo": 1541.2,
+      "post_elo": 1539.8,
       "pre_elo": 1558.0,
       "red_name": "Dominick Reyes",
       "round": "3",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Light Heavyweight"
@@ -574,14 +574,14 @@
     {
       "date": "2026-04-11",
       "fight_id": "24d6c25b4b28c954",
-      "rating": 1541.2,
+      "rating": 1539.8,
       "scope": "division",
       "system": "men:Light Heavyweight"
     },
     {
       "date": "2026-04-11",
       "fight_id": "24d6c25b4b28c954",
-      "rating": 1535.6,
+      "rating": 1534.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -593,10 +593,10 @@
   "last_fight_date": "2026-04-11",
   "name": "Johnny Walker",
   "nickname": "",
-  "overall_elo": 1535.6,
+  "overall_elo": 1534.4,
   "peak_elo": 1573.2,
-  "raw_current_elo": 1541.2,
-  "raw_overall_elo": 1535.6,
+  "raw_current_elo": 1539.8,
+  "raw_overall_elo": 1534.4,
   "slug": "johnny-walker",
   "systems": {
     "division": "men:Light Heavyweight",

@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
   "current_elo": 1500.8,
-  "days_since_last_fight": 7,
+  "days_since_last_fight": 14,
   "divisional_rank": 276,
   "fight_count": 10,
   "fight_log": [
     {
-      "blue_name": "Jai Herbert",
+      "blue_name": "Mandel Nallo",
       "bout_type": "Lightweight Bout",
       "date": "2026-04-18",
       "elo_delta": 20.5,
-      "event_name": "UFC Fight Night: Burns vs Malott",
-      "fight_id": "a8bfa110a9c73bdc",
+      "event_name": "UFC Fight Night: Burns vs. Malott",
+      "fight_id": "876a10d74485bce1",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO",
+      "method": "KO/TKO Punches",
       "opponent": "Mandel Nallo",
       "opponent_elo": 1498.6,
-      "outcome": "blue_win",
+      "outcome": "red_win",
       "post_elo": 1500.8,
       "pre_elo": 1480.3,
-      "red_name": "Mandel Nallo",
+      "red_name": "Jai Herbert",
       "round": "1",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "2:05",
       "weight_class": "Lightweight"
@@ -357,14 +357,14 @@
     },
     {
       "date": "2026-04-18",
-      "fight_id": "a8bfa110a9c73bdc",
+      "fight_id": "876a10d74485bce1",
       "rating": 1500.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-04-18",
-      "fight_id": "a8bfa110a9c73bdc",
+      "fight_id": "876a10d74485bce1",
       "rating": 1499.0,
       "scope": "overall",
       "system": "men:overall"

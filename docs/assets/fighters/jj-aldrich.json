@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1564.7,
-  "days_since_last_fight": 7,
-  "divisional_rank": 13,
+  "current_elo": 1566.1,
+  "days_since_last_fight": 14,
+  "divisional_rank": 12,
   "fight_count": 17,
   "fight_log": [
     {
       "blue_name": "Jamey-Lyn Horth",
       "bout_type": "Women's Flyweight Bout",
       "date": "2026-04-18",
-      "elo_delta": 17.4,
-      "event_name": "UFC Fight Night: Burns vs Malott",
+      "elo_delta": 18.8,
+      "event_name": "UFC Fight Night: Burns vs. Malott",
       "fight_id": "206d3539f61ca060",
       "gender": "women",
       "is_title": false,
-      "method": "Decision - Unanimous",
+      "method": "U-DEC",
       "opponent": "Jamey-Lyn Horth",
       "opponent_elo": 1536.0,
       "outcome": "red_win",
-      "post_elo": 1564.7,
+      "post_elo": 1566.1,
       "pre_elo": 1547.3,
       "red_name": "JJ Aldrich",
       "round": "3",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
@@ -610,14 +610,14 @@
     {
       "date": "2026-04-18",
       "fight_id": "206d3539f61ca060",
-      "rating": 1564.7,
+      "rating": 1566.1,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2026-04-18",
       "fight_id": "206d3539f61ca060",
-      "rating": 1559.8,
+      "rating": 1561.1,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -629,10 +629,10 @@
   "last_fight_date": "2026-04-18",
   "name": "JJ Aldrich",
   "nickname": "",
-  "overall_elo": 1559.8,
-  "peak_elo": 1564.7,
-  "raw_current_elo": 1564.7,
-  "raw_overall_elo": 1559.8,
+  "overall_elo": 1561.1,
+  "peak_elo": 1566.1,
+  "raw_current_elo": 1566.1,
+  "raw_overall_elo": 1561.1,
   "slug": "jj-aldrich",
   "systems": {
     "division": "women:Flyweight",

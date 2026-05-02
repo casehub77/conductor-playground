@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
   "current_elo": 1502.4,
-  "days_since_last_fight": 7,
+  "days_since_last_fight": 14,
   "divisional_rank": 230,
   "fight_count": 2,
   "fight_log": [
     {
-      "blue_name": "John Yannis",
+      "blue_name": "Jamie Siraj",
       "bout_type": "Bantamweight Bout",
       "date": "2026-04-18",
       "elo_delta": 20.4,
-      "event_name": "UFC Fight Night: Burns vs Malott",
-      "fight_id": "a294481b1a6deed8",
+      "event_name": "UFC Fight Night: Burns vs. Malott",
+      "fight_id": "4620967c2929f896",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO",
+      "method": "KO/TKO Elbows",
       "opponent": "Jamie Siraj",
       "opponent_elo": 1500.0,
-      "outcome": "blue_win",
+      "outcome": "red_win",
       "post_elo": 1502.4,
       "pre_elo": 1482.0,
-      "red_name": "Jamie Siraj",
+      "red_name": "John Yannis",
       "round": "1",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "2:43",
       "weight_class": "Bantamweight"
@@ -69,14 +69,14 @@
     },
     {
       "date": "2026-04-18",
-      "fight_id": "a294481b1a6deed8",
+      "fight_id": "4620967c2929f896",
       "rating": 1502.4,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-04-18",
-      "fight_id": "a294481b1a6deed8",
+      "fight_id": "4620967c2929f896",
       "rating": 1500.2,
       "scope": "overall",
       "system": "men:overall"

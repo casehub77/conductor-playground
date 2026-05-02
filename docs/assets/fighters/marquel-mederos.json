@@ -1,7 +1,7 @@
 {
   "activity_status": "active",
   "current_elo": 1550.4,
-  "days_since_last_fight": 14,
+  "days_since_last_fight": 21,
   "divisional_rank": 84,
   "fight_count": 4,
   "fight_log": [
@@ -10,11 +10,11 @@
       "bout_type": "Lightweight Bout",
       "date": "2026-04-11",
       "elo_delta": 1.1,
-      "event_name": "UFC 327: Procházka vs Ulberg",
+      "event_name": "UFC 327: Prochazka vs. Ulberg",
       "fight_id": "1aaa5c9f050d91ea",
       "gender": "men",
       "is_title": false,
-      "method": "Decision - Majority",
+      "method": "M-DEC",
       "opponent": "Chris Padilla",
       "opponent_elo": 1571.0,
       "outcome": "draw",
@@ -22,7 +22,7 @@
       "pre_elo": 1549.3,
       "red_name": "Chris Padilla",
       "round": "3",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"

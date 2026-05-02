@@ -2,11 +2,11 @@
   "dry_run": false,
   "fallback": {
     "discarded_unparseable": 13,
-    "duplicates": 50,
+    "duplicates": 0,
     "errors": [],
-    "new_fights": 0,
-    "parsed_fights": 63,
-    "rows": 63,
+    "new_fights": 63,
+    "parsed_fights": 76,
+    "rows": 76,
     "used": true
   },
   "fighter_details": {
@@ -22,13 +22,11 @@
   },
   "mode": "full",
   "official_fallback": {
-    "discarded_unparseable": 0,
-    "duplicates": 0,
-    "errors": [],
-    "new_fights": 50,
-    "parsed_fights": 50,
-    "rows": 50,
-    "used": true
+    "errors": [
+      "Official UFC fight result incomplete for https://www.ufc.com/event/ufc-fight-night-may-02-2026 fight 6."
+    ],
+    "rows": 0,
+    "used": false
   },
   "primary": {
     "errors": [],
@@ -36,7 +34,7 @@
     "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv"
   },
   "primary_health": {
-    "age_days": 34,
+    "age_days": 35,
     "current_fight_count": 8591,
     "drift_ratio": 0.0,
     "drift_tolerance": 0.25,
@@ -51,9 +49,9 @@
   "since": null,
   "validation": {
     "errors": [],
-    "fight_count": 17979,
-    "fighter_count": 9187,
-    "input_hash": "abf215efb2dea3fd993634ea7aff50641825b8d05bc14ce8049c3cddff0b530f",
+    "fight_count": 17992,
+    "fighter_count": 9188,
+    "input_hash": "d24d13cae96d7c1e59e304b6c874c001cea64111d1fb5257d8a4a4c07a85bdd2",
     "ok": true,
     "same_name_collisions": [],
     "suggested_alias_count": 435,

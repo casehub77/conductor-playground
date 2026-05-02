@@ -1,7 +1,7 @@
 {
   "activity_status": "active",
-  "current_elo": 1522.9,
-  "days_since_last_fight": 7,
+  "current_elo": 1524.4,
+  "days_since_last_fight": 14,
   "divisional_rank": 27,
   "fight_count": 3,
   "fight_log": [
@@ -9,20 +9,20 @@
       "blue_name": "Daria Zhelezniakova",
       "bout_type": "Women's Bantamweight Bout",
       "date": "2026-04-18",
-      "elo_delta": 18.8,
-      "event_name": "UFC Fight Night: Burns vs Malott",
+      "elo_delta": 20.3,
+      "event_name": "UFC Fight Night: Burns vs. Malott",
       "fight_id": "20c0231577c5940d",
       "gender": "women",
       "is_title": false,
-      "method": "Decision - Unanimous",
+      "method": "U-DEC",
       "opponent": "Daria Zhelezniakova",
       "opponent_elo": 1519.4,
       "outcome": "red_win",
-      "post_elo": 1522.9,
+      "post_elo": 1524.4,
       "pre_elo": 1504.1,
       "red_name": "Melissa Croden",
       "round": "3",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
@@ -106,14 +106,14 @@
     {
       "date": "2026-04-18",
       "fight_id": "20c0231577c5940d",
-      "rating": 1522.9,
+      "rating": 1524.4,
       "scope": "division",
       "system": "women:Bantamweight"
     },
     {
       "date": "2026-04-18",
       "fight_id": "20c0231577c5940d",
-      "rating": 1520.0,
+      "rating": 1521.3,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2026-04-18",
   "name": "Melissa Croden",
   "nickname": "",
-  "overall_elo": 1520.0,
-  "peak_elo": 1522.9,
-  "raw_current_elo": 1522.9,
-  "raw_overall_elo": 1520.0,
+  "overall_elo": 1521.3,
+  "peak_elo": 1524.4,
+  "raw_current_elo": 1524.4,
+  "raw_overall_elo": 1521.3,
   "slug": "melissa-croden",
   "systems": {
     "division": "women:Bantamweight",

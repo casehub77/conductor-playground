@@ -1,7 +1,7 @@
 {
   "activity_status": "active",
   "current_elo": 1570.4,
-  "days_since_last_fight": 14,
+  "days_since_last_fight": 21,
   "divisional_rank": 13,
   "fight_count": 15,
   "fight_log": [
@@ -10,11 +10,11 @@
       "bout_type": "Women's Strawweight Bout",
       "date": "2026-04-11",
       "elo_delta": -18.4,
-      "event_name": "UFC 327: Procházka vs Ulberg",
+      "event_name": "UFC 327: Prochazka vs. Ulberg",
       "fight_id": "70f25e341844c6a8",
       "gender": "women",
       "is_title": false,
-      "method": "Submission",
+      "method": "SUB Rear Naked Choke",
       "opponent": "Tatiana Suarez",
       "opponent_elo": 1608.1,
       "outcome": "red_win",
@@ -22,7 +22,7 @@
       "pre_elo": 1588.8,
       "red_name": "Tatiana Suarez",
       "round": "2",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "2:29",
       "weight_class": "Strawweight"

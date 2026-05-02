@@ -1,8 +1,8 @@
 {
   "activity_status": "active",
   "current_elo": 1533.5,
-  "days_since_last_fight": 21,
-  "divisional_rank": 59,
+  "days_since_last_fight": 28,
+  "divisional_rank": 58,
   "fight_count": 2,
   "fight_log": [
     {
@@ -10,11 +10,11 @@
       "bout_type": "Light Heavyweight Bout",
       "date": "2026-04-04",
       "elo_delta": 17.0,
-      "event_name": "UFC Fight Night: Moicano vs Duncan",
+      "event_name": "UFC Fight Night: Moicano vs. Duncan",
       "fight_id": "407a515cbeecaf18",
       "gender": "men",
       "is_title": false,
-      "method": "Submission",
+      "method": "SUB Rear Naked Choke",
       "opponent": "Brendson Ribeiro",
       "opponent_elo": 1472.4,
       "outcome": "red_win",
@@ -22,7 +22,7 @@
       "pre_elo": 1516.5,
       "red_name": "Abdul Rakhman Yakhyaev",
       "round": "1",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "2:52",
       "weight_class": "Light Heavyweight"

@@ -1,20 +1,20 @@
 {
   "activity_status": "active",
   "current_elo": 1506.8,
-  "days_since_last_fight": 7,
+  "days_since_last_fight": 14,
   "divisional_rank": 228,
   "fight_count": 9,
   "fight_log": [
     {
       "blue_name": "Mark Vologdin",
-      "bout_type": "Catchweight Bout",
+      "bout_type": "Catch Weight Bout",
       "date": "2026-04-18",
       "elo_delta": -1.4,
-      "event_name": "UFC Fight Night: Burns vs Malott",
+      "event_name": "UFC Fight Night: Burns vs. Malott",
       "fight_id": "27dcbb697b23c02f",
       "gender": "men",
       "is_title": false,
-      "method": "Decision - Majority",
+      "method": "M-DEC",
       "opponent": "Mark Vologdin",
       "opponent_elo": 1500.0,
       "outcome": "draw",
@@ -22,7 +22,7 @@
       "pre_elo": 1527.8,
       "red_name": "John Castaneda",
       "round": "3",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Catch Weight"

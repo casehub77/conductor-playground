@@ -1,0 +1,66 @@
+{
+  "activity_status": "active",
+  "current_elo": 1481.8,
+  "days_since_last_fight": 0,
+  "divisional_rank": 1087,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Ollie Schmid",
+      "bout_type": "Featherweight Bout",
+      "date": "2026-05-02",
+      "elo_delta": -18.2,
+      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
+      "fight_id": "27f6c62eb1913e0a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO Punch",
+      "opponent": "Marwan Rahiki",
+      "opponent_elo": 1522.6,
+      "outcome": "red_win",
+      "post_elo": 1481.8,
+      "pre_elo": 1500.0,
+      "red_name": "Marwan Rahiki",
+      "round": "1",
+      "source": "ufcstats:fallback",
+      "source_title": "",
+      "time": "2:47",
+      "weight_class": "Featherweight"
+    }
+  ],
+  "first_fight_date": "2026-05-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-05-02",
+      "fight_id": "27f6c62eb1913e0a",
+      "rating": 1481.8,
+      "scope": "division",
+      "system": "men:Featherweight"
+    },
+    {
+      "date": "2026-05-02",
+      "fight_id": "27f6c62eb1913e0a",
+      "rating": 1483.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": false,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-05-02",
+  "name": "Ollie Schmid",
+  "nickname": "",
+  "overall_elo": 1483.7,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1481.8,
+  "raw_overall_elo": 1483.7,
+  "slug": "ollie-schmid",
+  "systems": {
+    "division": "men:Featherweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Featherweight"
+}

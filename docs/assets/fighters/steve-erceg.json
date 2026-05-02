@@ -1,10 +1,32 @@
 {
   "activity_status": "active",
-  "current_elo": 1522.2,
-  "days_since_last_fight": 259,
-  "divisional_rank": 126,
-  "fight_count": 7,
+  "current_elo": 1525.6,
+  "days_since_last_fight": 0,
+  "divisional_rank": 74,
+  "fight_count": 8,
   "fight_log": [
+    {
+      "blue_name": "Tim Elliott",
+      "bout_type": "Flyweight Bout",
+      "date": "2026-05-02",
+      "elo_delta": 19.5,
+      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
+      "fight_id": "209e143a5d52fdba",
+      "gender": "men",
+      "is_title": false,
+      "method": "U-DEC",
+      "opponent": "Tim Elliott",
+      "opponent_elo": 1508.0,
+      "outcome": "red_win",
+      "post_elo": 1525.6,
+      "pre_elo": 1506.1,
+      "red_name": "Steve Erceg",
+      "round": "3",
+      "source": "ufcstats:fallback",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Flyweight"
+    },
     {
       "blue_name": "Ode Osbourne",
       "bout_type": "Bantamweight Bout",
@@ -260,23 +282,37 @@
       "rating": 1520.8,
       "scope": "overall",
       "system": "men:overall"
+    },
+    {
+      "date": "2026-05-02",
+      "fight_id": "209e143a5d52fdba",
+      "rating": 1525.6,
+      "scope": "division",
+      "system": "men:Flyweight"
+    },
+    {
+      "date": "2026-05-02",
+      "fight_id": "209e143a5d52fdba",
+      "rating": 1538.7,
+      "scope": "overall",
+      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2025-08-09",
+  "last_fight_date": "2026-05-02",
   "name": "Steve Erceg",
   "nickname": "",
-  "overall_elo": 1520.8,
+  "overall_elo": 1538.7,
   "peak_elo": 1554.0,
-  "raw_current_elo": 1522.2,
-  "raw_overall_elo": 1520.8,
+  "raw_current_elo": 1525.6,
+  "raw_overall_elo": 1538.7,
   "slug": "steve-erceg",
   "systems": {
-    "division": "men:Bantamweight",
+    "division": "men:Flyweight",
     "overall": "men:overall"
   },
-  "weight_class": "Bantamweight"
+  "weight_class": "Flyweight"
 }
