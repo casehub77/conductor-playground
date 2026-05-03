@@ -6,23 +6,23 @@
   "fight_count": 8,
   "fight_log": [
     {
-      "blue_name": "Gilbert Burns",
+      "blue_name": "Mike Malott",
       "bout_type": "Welterweight Bout",
       "date": "2026-04-18",
       "elo_delta": 17.5,
-      "event_name": "UFC Fight Night: Burns vs. Malott",
-      "fight_id": "f07e279b302bd482",
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "66ad045975ec2489",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO Punches",
+      "method": "KO/TKO",
       "opponent": "Gilbert Burns",
       "opponent_elo": 1561.7,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1613.4,
       "pre_elo": 1595.9,
-      "red_name": "Mike Malott",
+      "red_name": "Gilbert Burns",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "2:08",
       "weight_class": "Welterweight"
@@ -285,14 +285,14 @@
     },
     {
       "date": "2026-04-18",
-      "fight_id": "f07e279b302bd482",
+      "fight_id": "66ad045975ec2489",
       "rating": 1613.4,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2026-04-18",
-      "fight_id": "f07e279b302bd482",
+      "fight_id": "66ad045975ec2489",
       "rating": 1601.7,
       "scope": "overall",
       "system": "men:overall"

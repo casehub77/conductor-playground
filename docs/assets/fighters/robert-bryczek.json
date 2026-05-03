@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1518.1,
+  "current_elo": 1519.5,
   "days_since_last_fight": 0,
-  "divisional_rank": 134,
+  "divisional_rank": 112,
   "fight_count": 5,
   "fight_log": [
     {
       "blue_name": "Robert Bryczek",
       "bout_type": "Middleweight Bout",
       "date": "2026-05-02",
-      "elo_delta": -19.1,
-      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
+      "elo_delta": -17.7,
+      "event_name": "UFC Fight Night | Della Maddalena vs Prates",
       "fight_id": "9fc887821d03cc65",
       "gender": "men",
       "is_title": false,
-      "method": "U-DEC",
+      "method": "Decision - Unanimous",
       "opponent": "Cam Rowston",
       "opponent_elo": 1542.7,
       "outcome": "red_win",
-      "post_elo": 1518.1,
+      "post_elo": 1519.5,
       "pre_elo": 1537.2,
       "red_name": "Cam Rowston",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Middleweight"
@@ -178,14 +178,14 @@
     {
       "date": "2026-05-02",
       "fight_id": "9fc887821d03cc65",
-      "rating": 1518.1,
+      "rating": 1519.5,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2026-05-02",
       "fight_id": "9fc887821d03cc65",
-      "rating": 1516.1,
+      "rating": 1517.3,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -197,10 +197,10 @@
   "last_fight_date": "2026-05-02",
   "name": "Robert Bryczek",
   "nickname": "",
-  "overall_elo": 1516.1,
+  "overall_elo": 1517.3,
   "peak_elo": 1537.2,
-  "raw_current_elo": 1518.1,
-  "raw_overall_elo": 1516.1,
+  "raw_current_elo": 1519.5,
+  "raw_overall_elo": 1517.3,
   "slug": "robert-bryczek",
   "systems": {
     "division": "men:Middleweight",

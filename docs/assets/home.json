@@ -207,7 +207,7 @@
     }
   ],
   "fight_count": 17992,
-  "fighter_count": 9188,
+  "fighter_count": 9190,
   "highest_ever": [
     {
       "current_elo": 1827.9,
@@ -408,7 +408,7 @@
       "weight_class": "Middleweight"
     },
     {
-      "current_elo": 1683.9,
+      "current_elo": 1682.8,
       "fights": 23,
       "gender": "men",
       "name": "Aljamain Sterling",
@@ -1316,7 +1316,7 @@
     {
       "blue_name": "Henry Cejudo",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1683.9,
+      "current_elo": 1682.8,
       "date": "2023-05-06",
       "event_name": "UFC 288: Sterling vs. Cejudo",
       "fight_id": "3e10df832bea22e8",
@@ -1508,7 +1508,7 @@
     {
       "blue_name": "Tj Dillashaw",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1683.9,
+      "current_elo": 1682.8,
       "date": "2022-10-22",
       "event_name": "UFC 280: Oliveira vs. Makhachev",
       "fight_id": "d11be84014081d6e",
@@ -1620,7 +1620,7 @@
     {
       "blue_name": "Jiri Prochazka",
       "bout_type": "UFC Light Heavyweight Title Bout",
-      "current_elo": 1582.2,
+      "current_elo": 1599.0,
       "date": "2022-06-11",
       "event_name": "UFC 275: Teixeira vs. Prochazka",
       "fight_id": "41817f3149e50434",
@@ -1652,7 +1652,7 @@
     {
       "blue_name": "Petr Yan",
       "bout_type": "UFC Bantamweight Title Bout",
-      "current_elo": 1683.9,
+      "current_elo": 1682.8,
       "date": "2022-04-09",
       "event_name": "UFC 273: Volkanovski vs. The Korean Zombie",
       "fight_id": "3189cbdb2651ee10",
@@ -1764,8 +1764,8 @@
   ],
   "recent_movers": [
     {
-      "change": 43.2,
-      "current_elo": 1524.4,
+      "change": 41.4,
+      "current_elo": 1522.6,
       "fights": 2,
       "gender": "men",
       "name": "Francis Marshall",
@@ -1800,22 +1800,13 @@
       "weight_class": "Middleweight"
     },
     {
-      "change": 37.8,
-      "current_elo": 1578.4,
+      "change": 36.3,
+      "current_elo": 1576.9,
       "fights": 2,
       "gender": "women",
       "name": "Joselyne Edwards",
       "slug": "joselyne-edwards",
       "weight_class": "Bantamweight"
-    },
-    {
-      "change": 36.4,
-      "current_elo": 1555.9,
-      "fights": 2,
-      "gender": "men",
-      "name": "Brando Pericic",
-      "slug": "brando-pericic",
-      "weight_class": "Heavyweight"
     },
     {
       "change": -35.8,
@@ -1897,15 +1888,6 @@
       "name": "Ronald Paradeiser",
       "slug": "ronald-paradeiser",
       "weight_class": "Welterweight"
-    },
-    {
-      "change": -23.8,
-      "current_elo": 1555.4,
-      "fights": 1,
-      "gender": "men",
-      "name": "Lucas Brennan",
-      "slug": "lucas-brennan",
-      "weight_class": "Lightweight"
     },
     {
       "change": -23.7,
@@ -1999,15 +1981,6 @@
     },
     {
       "change": -23.2,
-      "current_elo": 1600.0,
-      "fights": 1,
-      "gender": "men",
-      "name": "Alexander Hernandez",
-      "slug": "alexander-hernandez",
-      "weight_class": "Lightweight"
-    },
-    {
-      "change": -23.2,
       "current_elo": 1560.3,
       "fights": 1,
       "gender": "women",
@@ -2025,13 +1998,40 @@
       "weight_class": "Atomweight"
     },
     {
-      "change": 23.2,
-      "current_elo": 1578.1,
+      "change": 23.0,
+      "current_elo": 1595.5,
+      "fights": 1,
+      "gender": "women",
+      "name": "Alexa Grasso",
+      "slug": "alexa-grasso",
+      "weight_class": "Flyweight"
+    },
+    {
+      "change": -23.0,
+      "current_elo": 1613.5,
+      "fights": 1,
+      "gender": "women",
+      "name": "Maycee Barber",
+      "slug": "maycee-barber",
+      "weight_class": "Flyweight"
+    },
+    {
+      "change": -22.6,
+      "current_elo": 1587.2,
       "fights": 1,
       "gender": "men",
-      "name": "Rafa Garcia",
-      "slug": "rafa-garcia",
-      "weight_class": "Lightweight"
+      "name": "Azamat Murzakanov",
+      "slug": "azamat-murzakanov",
+      "weight_class": "Light Heavyweight"
+    },
+    {
+      "change": -22.6,
+      "current_elo": 1533.8,
+      "fights": 1,
+      "gender": "men",
+      "name": "Harry Hardwick",
+      "slug": "harry-hardwick",
+      "weight_class": "Featherweight"
     }
   ],
   "site": {

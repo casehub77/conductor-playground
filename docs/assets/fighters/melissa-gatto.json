@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1483.1,
+  "current_elo": 1484.6,
   "days_since_last_fight": 28,
-  "divisional_rank": 215,
+  "divisional_rank": 212,
   "fight_count": 6,
   "fight_log": [
     {
       "blue_name": "Melissa Gatto",
       "bout_type": "Women's Flyweight Bout",
       "date": "2026-04-04",
-      "elo_delta": -20.3,
-      "event_name": "UFC Fight Night: Moicano vs. Duncan",
+      "elo_delta": -18.8,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
       "fight_id": "27299045c5010e30",
       "gender": "women",
       "is_title": false,
-      "method": "M-DEC",
+      "method": "Decision - Majority",
       "opponent": "Dione Barbosa",
       "opponent_elo": 1487.5,
       "outcome": "red_win",
-      "post_elo": 1483.1,
+      "post_elo": 1484.6,
       "pre_elo": 1503.4,
       "red_name": "Dione Barbosa",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
@@ -214,14 +214,14 @@
     {
       "date": "2026-04-04",
       "fight_id": "27299045c5010e30",
-      "rating": 1483.1,
+      "rating": 1484.6,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2026-04-04",
       "fight_id": "27299045c5010e30",
-      "rating": 1500.0,
+      "rating": 1501.4,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -233,10 +233,10 @@
   "last_fight_date": "2026-04-04",
   "name": "Melissa Gatto",
   "nickname": "",
-  "overall_elo": 1500.0,
+  "overall_elo": 1501.4,
   "peak_elo": 1539.6,
-  "raw_current_elo": 1483.1,
-  "raw_overall_elo": 1500.0,
+  "raw_current_elo": 1484.6,
+  "raw_overall_elo": 1501.4,
   "slug": "melissa-gatto",
   "systems": {
     "division": "women:Flyweight",

@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1549.4,
+  "current_elo": 1548.1,
   "days_since_last_fight": 7,
   "divisional_rank": 65,
   "fight_count": 16,
   "fight_log": [
     {
-      "blue_name": "Adrian Luna Martinetti",
+      "blue_name": "Adrián Luna Martinetti",
       "bout_type": "Bantamweight Bout",
       "date": "2026-04-25",
-      "elo_delta": 17.7,
-      "event_name": "UFC Fight Night: Sterling vs. Zalal",
+      "elo_delta": 16.4,
+      "event_name": "UFC Fight Night: Sterling vs Zalal",
       "fight_id": "c8ccb36e0b9d953a",
       "gender": "men",
       "is_title": false,
-      "method": "U-DEC",
-      "opponent": "Adrian Luna Martinetti",
+      "method": "Decision - Unanimous",
+      "opponent": "Adrián Luna Martinetti",
       "opponent_elo": 1500.0,
       "outcome": "red_win",
-      "post_elo": 1549.4,
+      "post_elo": 1548.1,
       "pre_elo": 1531.7,
       "red_name": "Davey Grant",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
@@ -574,14 +574,14 @@
     {
       "date": "2026-04-25",
       "fight_id": "c8ccb36e0b9d953a",
-      "rating": 1549.4,
+      "rating": 1548.1,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-04-25",
       "fight_id": "c8ccb36e0b9d953a",
-      "rating": 1543.6,
+      "rating": 1542.4,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -593,10 +593,10 @@
   "last_fight_date": "2026-04-25",
   "name": "Davey Grant",
   "nickname": "",
-  "overall_elo": 1543.6,
+  "overall_elo": 1542.4,
   "peak_elo": 1552.7,
-  "raw_current_elo": 1549.4,
-  "raw_overall_elo": 1543.6,
+  "raw_current_elo": 1548.1,
+  "raw_overall_elo": 1542.4,
   "slug": "davey-grant",
   "systems": {
     "division": "men:Bantamweight",

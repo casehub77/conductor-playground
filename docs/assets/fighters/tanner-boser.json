@@ -6,23 +6,23 @@
   "fight_count": 11,
   "fight_log": [
     {
-      "blue_name": "Tanner Boser",
+      "blue_name": "Gokhan Saricam",
       "bout_type": "Heavyweight Bout",
       "date": "2026-04-18",
       "elo_delta": -17.5,
-      "event_name": "UFC Fight Night: Burns vs. Malott",
-      "fight_id": "ebdf9795daf371c6",
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "7542be563f6c1c11",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO Punch",
+      "method": "KO/TKO",
       "opponent": "Gokhan Saricam",
       "opponent_elo": 1537.9,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1485.9,
       "pre_elo": 1503.4,
-      "red_name": "Gokhan Saricam",
+      "red_name": "Tanner Boser",
       "round": "2",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "4:43",
       "weight_class": "Heavyweight"
@@ -393,14 +393,14 @@
     },
     {
       "date": "2026-04-18",
-      "fight_id": "ebdf9795daf371c6",
+      "fight_id": "7542be563f6c1c11",
       "rating": 1485.9,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2026-04-18",
-      "fight_id": "ebdf9795daf371c6",
+      "fight_id": "7542be563f6c1c11",
       "rating": 1484.6,
       "scope": "overall",
       "system": "men:overall"

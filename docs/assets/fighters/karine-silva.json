@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1535.3,
+  "current_elo": 1536.6,
   "days_since_last_fight": 14,
-  "divisional_rank": 27,
+  "divisional_rank": 24,
   "fight_count": 8,
   "fight_log": [
     {
       "blue_name": "Karine Silva",
       "bout_type": "Women's Flyweight Bout",
       "date": "2026-04-18",
-      "elo_delta": -18.4,
-      "event_name": "UFC Fight Night: Burns vs. Malott",
+      "elo_delta": -17.0,
+      "event_name": "UFC Fight Night: Burns vs Malott",
       "fight_id": "d07d69092af940ef",
       "gender": "women",
       "is_title": false,
-      "method": "U-DEC",
+      "method": "Decision - Unanimous",
       "opponent": "Jasmine Jasudavicius",
       "opponent_elo": 1572.2,
       "outcome": "red_win",
-      "post_elo": 1535.3,
+      "post_elo": 1536.6,
       "pre_elo": 1553.7,
       "red_name": "Jasmine Jasudavicius",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Flyweight"
@@ -286,14 +286,14 @@
     {
       "date": "2026-04-18",
       "fight_id": "d07d69092af940ef",
-      "rating": 1535.3,
+      "rating": 1536.6,
       "scope": "division",
       "system": "women:Flyweight"
     },
     {
       "date": "2026-04-18",
       "fight_id": "d07d69092af940ef",
-      "rating": 1531.6,
+      "rating": 1532.8,
       "scope": "overall",
       "system": "women:overall"
     }
@@ -305,10 +305,10 @@
   "last_fight_date": "2026-04-18",
   "name": "Karine Silva",
   "nickname": "",
-  "overall_elo": 1531.6,
+  "overall_elo": 1532.8,
   "peak_elo": 1574.3,
-  "raw_current_elo": 1535.3,
-  "raw_overall_elo": 1531.6,
+  "raw_current_elo": 1536.6,
+  "raw_overall_elo": 1532.8,
   "slug": "karine-silva",
   "systems": {
     "division": "women:Flyweight",

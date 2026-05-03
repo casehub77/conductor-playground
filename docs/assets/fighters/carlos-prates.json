@@ -6,23 +6,23 @@
   "fight_count": 9,
   "fight_log": [
     {
-      "blue_name": "Jack Della Maddalena",
+      "blue_name": "Carlos Prates",
       "bout_type": "Welterweight Bout",
       "date": "2026-05-02",
       "elo_delta": 20.6,
-      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
-      "fight_id": "b3f9782e8daa4363",
+      "event_name": "UFC Fight Night | Della Maddalena vs Prates",
+      "fight_id": "8cdedbc273da5f3c",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO Elbows",
+      "method": "KO/TKO",
       "opponent": "Jack Della Maddalena",
       "opponent_elo": 1648.3,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1648.8,
       "pre_elo": 1628.3,
-      "red_name": "Carlos Prates",
+      "red_name": "Jack Della Maddalena",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "3:17",
       "weight_class": "Welterweight"
@@ -321,14 +321,14 @@
     },
     {
       "date": "2026-05-02",
-      "fight_id": "b3f9782e8daa4363",
+      "fight_id": "8cdedbc273da5f3c",
       "rating": 1648.8,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2026-05-02",
-      "fight_id": "b3f9782e8daa4363",
+      "fight_id": "8cdedbc273da5f3c",
       "rating": 1632.2,
       "scope": "overall",
       "system": "men:overall"

@@ -6,23 +6,23 @@
   "fight_count": 4,
   "fight_log": [
     {
-      "blue_name": "Julien Leblanc",
+      "blue_name": "Robert Valentin",
       "bout_type": "Middleweight Bout",
       "date": "2026-04-18",
       "elo_delta": 21.4,
-      "event_name": "UFC Fight Night: Burns vs. Malott",
-      "fight_id": "7857c65eaf9740ca",
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "e03efe2e5d3f1746",
       "gender": "men",
       "is_title": false,
-      "method": "SUB Rear Naked Choke",
+      "method": "Submission",
       "opponent": "Julien Leblanc",
       "opponent_elo": 1482.0,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1468.6,
       "pre_elo": 1447.2,
-      "red_name": "Robert Valentin",
+      "red_name": "Julien Leblanc",
       "round": "1",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "2:22",
       "weight_class": "Middleweight"
@@ -141,14 +141,14 @@
     },
     {
       "date": "2026-04-18",
-      "fight_id": "7857c65eaf9740ca",
+      "fight_id": "e03efe2e5d3f1746",
       "rating": 1468.6,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2026-04-18",
-      "fight_id": "7857c65eaf9740ca",
+      "fight_id": "e03efe2e5d3f1746",
       "rating": 1471.5,
       "scope": "overall",
       "system": "men:overall"

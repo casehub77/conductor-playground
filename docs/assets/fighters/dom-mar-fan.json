@@ -6,23 +6,23 @@
   "fight_count": 2,
   "fight_log": [
     {
-      "blue_name": "Dom Mar Fan",
+      "blue_name": "Kody Steele",
       "bout_type": "Lightweight Bout",
       "date": "2026-05-02",
       "elo_delta": -21.5,
-      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
-      "fight_id": "96e4fd2cb1214d4f",
+      "event_name": "UFC Fight Night | Della Maddalena vs Prates",
+      "fight_id": "f033c414d635c062",
       "gender": "men",
       "is_title": false,
-      "method": "SUB Heel Hook",
+      "method": "Submission",
       "opponent": "Kody Steele",
       "opponent_elo": 1480.2,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1496.5,
       "pre_elo": 1518.0,
-      "red_name": "Kody Steele",
+      "red_name": "Dom Mar Fan",
       "round": "1",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "3:56",
       "weight_class": "Lightweight"
@@ -69,14 +69,14 @@
     },
     {
       "date": "2026-05-02",
-      "fight_id": "96e4fd2cb1214d4f",
+      "fight_id": "f033c414d635c062",
       "rating": 1496.5,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-05-02",
-      "fight_id": "96e4fd2cb1214d4f",
+      "fight_id": "f033c414d635c062",
       "rating": 1497.1,
       "scope": "overall",
       "system": "men:overall"

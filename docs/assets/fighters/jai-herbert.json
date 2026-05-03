@@ -6,23 +6,23 @@
   "fight_count": 10,
   "fight_log": [
     {
-      "blue_name": "Mandel Nallo",
+      "blue_name": "Jai Herbert",
       "bout_type": "Lightweight Bout",
       "date": "2026-04-18",
       "elo_delta": 20.5,
-      "event_name": "UFC Fight Night: Burns vs. Malott",
-      "fight_id": "876a10d74485bce1",
+      "event_name": "UFC Fight Night: Burns vs Malott",
+      "fight_id": "a8bfa110a9c73bdc",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO Punches",
+      "method": "KO/TKO",
       "opponent": "Mandel Nallo",
       "opponent_elo": 1498.6,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1500.8,
       "pre_elo": 1480.3,
-      "red_name": "Jai Herbert",
+      "red_name": "Mandel Nallo",
       "round": "1",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "2:05",
       "weight_class": "Lightweight"
@@ -357,14 +357,14 @@
     },
     {
       "date": "2026-04-18",
-      "fight_id": "876a10d74485bce1",
+      "fight_id": "a8bfa110a9c73bdc",
       "rating": 1500.8,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-04-18",
-      "fight_id": "876a10d74485bce1",
+      "fight_id": "a8bfa110a9c73bdc",
       "rating": 1499.0,
       "scope": "overall",
       "system": "men:overall"

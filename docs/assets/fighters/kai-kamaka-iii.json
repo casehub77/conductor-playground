@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1550.2,
+  "current_elo": 1548.9,
   "days_since_last_fight": 28,
-  "divisional_rank": 85,
+  "divisional_rank": 87,
   "fight_count": 10,
   "fight_log": [
     {
       "blue_name": "Dakota Hope",
       "bout_type": "Lightweight Bout",
       "date": "2026-04-04",
-      "elo_delta": 18.6,
-      "event_name": "UFC Fight Night: Moicano vs. Duncan",
+      "elo_delta": 17.2,
+      "event_name": "UFC Fight Night: Moicano vs Duncan",
       "fight_id": "c27057c4eb03dded",
       "gender": "men",
       "is_title": false,
-      "method": "S-DEC",
+      "method": "Decision - Split",
       "opponent": "Dakota Hope",
       "opponent_elo": 1516.0,
       "outcome": "red_win",
-      "post_elo": 1550.2,
+      "post_elo": 1548.9,
       "pre_elo": 1531.7,
       "red_name": "Kai Kamaka III",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Lightweight"
@@ -358,14 +358,14 @@
     {
       "date": "2026-04-04",
       "fight_id": "c27057c4eb03dded",
-      "rating": 1550.2,
+      "rating": 1548.9,
       "scope": "division",
       "system": "men:Lightweight"
     },
     {
       "date": "2026-04-04",
       "fight_id": "c27057c4eb03dded",
-      "rating": 1548.2,
+      "rating": 1547.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -377,10 +377,10 @@
   "last_fight_date": "2026-04-04",
   "name": "Kai Kamaka III",
   "nickname": "",
-  "overall_elo": 1548.2,
-  "peak_elo": 1550.2,
-  "raw_current_elo": 1550.2,
-  "raw_overall_elo": 1548.2,
+  "overall_elo": 1547.0,
+  "peak_elo": 1548.9,
+  "raw_current_elo": 1548.9,
+  "raw_overall_elo": 1547.0,
   "slug": "kai-kamaka-iii",
   "systems": {
     "division": "men:Lightweight",

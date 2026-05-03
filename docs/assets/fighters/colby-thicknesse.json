@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1517.1,
+  "current_elo": 1515.8,
   "days_since_last_fight": 0,
-  "divisional_rank": 177,
+  "divisional_rank": 183,
   "fight_count": 3,
   "fight_log": [
     {
       "blue_name": "Vince Morales",
       "bout_type": "Bantamweight Bout",
       "date": "2026-05-02",
-      "elo_delta": 17.2,
-      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
+      "elo_delta": 15.9,
+      "event_name": "UFC Fight Night | Della Maddalena vs Prates",
       "fight_id": "21f77e2f6ae6be36",
       "gender": "men",
       "is_title": false,
-      "method": "U-DEC",
+      "method": "Decision - Unanimous",
       "opponent": "Vince Morales",
       "opponent_elo": 1459.8,
       "outcome": "red_win",
-      "post_elo": 1517.1,
+      "post_elo": 1515.8,
       "pre_elo": 1499.9,
       "red_name": "Colby Thicknesse",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Bantamweight"
@@ -106,14 +106,14 @@
     {
       "date": "2026-05-02",
       "fight_id": "21f77e2f6ae6be36",
-      "rating": 1517.1,
+      "rating": 1515.8,
       "scope": "division",
       "system": "men:Bantamweight"
     },
     {
       "date": "2026-05-02",
       "fight_id": "21f77e2f6ae6be36",
-      "rating": 1514.9,
+      "rating": 1513.8,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -125,10 +125,10 @@
   "last_fight_date": "2026-05-02",
   "name": "Colby Thicknesse",
   "nickname": "",
-  "overall_elo": 1514.9,
-  "peak_elo": 1517.1,
-  "raw_current_elo": 1517.1,
-  "raw_overall_elo": 1514.9,
+  "overall_elo": 1513.8,
+  "peak_elo": 1515.8,
+  "raw_current_elo": 1515.8,
+  "raw_overall_elo": 1513.8,
   "slug": "colby-thicknesse",
   "systems": {
     "division": "men:Bantamweight",

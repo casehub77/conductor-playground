@@ -6,23 +6,23 @@
   "fight_count": 26,
   "fight_log": [
     {
-      "blue_name": "Kelvin Gastelum",
+      "blue_name": "Vicente Luque",
       "bout_type": "Middleweight Bout",
       "date": "2026-04-11",
       "elo_delta": -17.4,
-      "event_name": "UFC 327: Prochazka vs. Ulberg",
-      "fight_id": "bcc0a1e9bc986bdf",
+      "event_name": "UFC 327: Procházka vs Ulberg",
+      "fight_id": "78251c6fcbed8bc2",
       "gender": "men",
       "is_title": false,
-      "method": "SUB Anaconda Choke",
+      "method": "Submission",
       "opponent": "Vicente Luque",
       "opponent_elo": 1598.9,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1545.1,
       "pre_elo": 1562.6,
-      "red_name": "Vicente Luque",
+      "red_name": "Kelvin Gastelum",
       "round": "1",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "4:08",
       "weight_class": "Middleweight"
@@ -933,14 +933,14 @@
     },
     {
       "date": "2026-04-11",
-      "fight_id": "bcc0a1e9bc986bdf",
+      "fight_id": "78251c6fcbed8bc2",
       "rating": 1545.1,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2026-04-11",
-      "fight_id": "bcc0a1e9bc986bdf",
+      "fight_id": "78251c6fcbed8bc2",
       "rating": 1550.8,
       "scope": "overall",
       "system": "men:overall"

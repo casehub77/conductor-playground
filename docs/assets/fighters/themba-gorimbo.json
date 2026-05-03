@@ -1,28 +1,28 @@
 {
   "activity_status": "active",
-  "current_elo": 1499.8,
+  "current_elo": 1501.1,
   "days_since_last_fight": 0,
-  "divisional_rank": 1058,
+  "divisional_rank": 197,
   "fight_count": 8,
   "fight_log": [
     {
       "blue_name": "Themba Gorimbo",
       "bout_type": "Welterweight Bout",
       "date": "2026-05-02",
-      "elo_delta": -18.3,
-      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
+      "elo_delta": -16.9,
+      "event_name": "UFC Fight Night | Della Maddalena vs Prates",
       "fight_id": "714ac0dd9fae18ed",
       "gender": "men",
       "is_title": false,
-      "method": "S-DEC",
+      "method": "Decision - Split",
       "opponent": "Jonathan Micallef",
       "opponent_elo": 1539.1,
       "outcome": "red_win",
-      "post_elo": 1499.8,
+      "post_elo": 1501.1,
       "pre_elo": 1518.0,
       "red_name": "Jonathan Micallef",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "5:00",
       "weight_class": "Welterweight"
@@ -286,14 +286,14 @@
     {
       "date": "2026-05-02",
       "fight_id": "714ac0dd9fae18ed",
-      "rating": 1499.8,
+      "rating": 1501.1,
       "scope": "division",
       "system": "men:Welterweight"
     },
     {
       "date": "2026-05-02",
       "fight_id": "714ac0dd9fae18ed",
-      "rating": 1499.8,
+      "rating": 1501.0,
       "scope": "overall",
       "system": "men:overall"
     }
@@ -305,10 +305,10 @@
   "last_fight_date": "2026-05-02",
   "name": "Themba Gorimbo",
   "nickname": "",
-  "overall_elo": 1499.8,
+  "overall_elo": 1501.0,
   "peak_elo": 1550.9,
-  "raw_current_elo": 1499.8,
-  "raw_overall_elo": 1499.8,
+  "raw_current_elo": 1501.1,
+  "raw_overall_elo": 1501.0,
   "slug": "themba-gorimbo",
   "systems": {
     "division": "men:Welterweight",

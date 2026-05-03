@@ -6,23 +6,23 @@
   "fight_count": 1,
   "fight_log": [
     {
-      "blue_name": "Ben Johnston",
+      "blue_name": "Wes Schultz",
       "bout_type": "Middleweight Bout",
       "date": "2026-05-02",
       "elo_delta": -20.1,
-      "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
-      "fight_id": "05b094a9e14e2a81",
+      "event_name": "UFC Fight Night | Della Maddalena vs Prates",
+      "fight_id": "39b81abedc098d0c",
       "gender": "men",
       "is_title": false,
-      "method": "SUB Guillotine Choke",
+      "method": "Submission",
       "opponent": "Wes Schultz",
       "opponent_elo": 1488.2,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1479.9,
       "pre_elo": 1500.0,
-      "red_name": "Wes Schultz",
+      "red_name": "Ben Johnston",
       "round": "3",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "1:50",
       "weight_class": "Middleweight"
@@ -33,14 +33,14 @@
   "history": [
     {
       "date": "2026-05-02",
-      "fight_id": "05b094a9e14e2a81",
+      "fight_id": "39b81abedc098d0c",
       "rating": 1479.9,
       "scope": "division",
       "system": "men:Middleweight"
     },
     {
       "date": "2026-05-02",
-      "fight_id": "05b094a9e14e2a81",
+      "fight_id": "39b81abedc098d0c",
       "rating": 1482.1,
       "scope": "overall",
       "system": "men:overall"

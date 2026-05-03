@@ -6,23 +6,23 @@
   "fight_count": 16,
   "fight_log": [
     {
-      "blue_name": "Marcus Buchecha",
+      "blue_name": "Ryan Spann",
       "bout_type": "Heavyweight Bout",
       "date": "2026-04-25",
       "elo_delta": 17.9,
-      "event_name": "UFC Fight Night: Sterling vs. Zalal",
-      "fight_id": "4a7c80a589575120",
+      "event_name": "UFC Fight Night: Sterling vs Zalal",
+      "fight_id": "6f8417de6ccbd95f",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO Punch",
+      "method": "KO/TKO",
       "opponent": "Marcus Buchecha",
       "opponent_elo": 1511.9,
-      "outcome": "red_win",
+      "outcome": "blue_win",
       "post_elo": 1558.2,
       "pre_elo": 1540.3,
-      "red_name": "Ryan Spann",
+      "red_name": "Marcus Buchecha",
       "round": "2",
-      "source": "ufcstats:fallback",
+      "source": "ufc:official",
       "source_title": "",
       "time": "2:10",
       "weight_class": "Heavyweight"
@@ -573,14 +573,14 @@
     },
     {
       "date": "2026-04-25",
-      "fight_id": "4a7c80a589575120",
+      "fight_id": "6f8417de6ccbd95f",
       "rating": 1558.2,
       "scope": "division",
       "system": "men:Heavyweight"
     },
     {
       "date": "2026-04-25",
-      "fight_id": "4a7c80a589575120",
+      "fight_id": "6f8417de6ccbd95f",
       "rating": 1556.4,
       "scope": "overall",
       "system": "men:overall"
