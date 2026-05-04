@@ -1,0 +1,66 @@
+{
+  "activity_status": "active",
+  "current_elo": 1479.9,
+  "days_since_last_fight": 0,
+  "divisional_rank": 989,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Wes Schultz",
+      "bout_type": "Middleweight Bout",
+      "date": "2026-05-02",
+      "elo_delta": -20.1,
+      "event_name": "UFC Fight Night | Della Maddalena vs Prates",
+      "fight_id": "39b81abedc098d0c",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Wes Schultz",
+      "opponent_elo": 1488.2,
+      "outcome": "blue_win",
+      "post_elo": 1479.9,
+      "pre_elo": 1500.0,
+      "red_name": "Ben Johnston",
+      "round": "3",
+      "source": "ufc:official",
+      "source_title": "",
+      "time": "1:50",
+      "weight_class": "Middleweight"
+    }
+  ],
+  "first_fight_date": "2026-05-02",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-05-02",
+      "fight_id": "39b81abedc098d0c",
+      "rating": 1479.9,
+      "scope": "division",
+      "system": "men:Middleweight"
+    },
+    {
+      "date": "2026-05-02",
+      "fight_id": "39b81abedc098d0c",
+      "rating": 1482.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": false,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-05-02",
+  "name": "Ben Johnston",
+  "nickname": "",
+  "overall_elo": 1482.1,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1479.9,
+  "raw_overall_elo": 1482.1,
+  "slug": "ben-johnston",
+  "systems": {
+    "division": "men:Middleweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Middleweight"
+}

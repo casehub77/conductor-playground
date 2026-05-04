@@ -91,6 +91,7 @@ def build_site_payload(output: dict[str, Any], docs_dir: Path, site_config: dict
                 fighter_slug=slug,
                 asset_version=asset_version,
                 site_config=site_config,
+                prerender_html=build_fighter_prerender(fighter),
             ),
             encoding="utf-8",
         )
@@ -189,6 +190,7 @@ def html_shell(
     fighter_slug: str = "",
     asset_version: str = "",
     site_config: dict[str, Any] | None = None,
+    prerender_html: str = "",
 ) -> str:
     site_payload = json.dumps(site_config or {}, ensure_ascii=False).replace("</", "<\\/")
     ad_network = (site_config or {}).get("ad_network", {})
@@ -227,7 +229,7 @@ def html_shell(
     </div>
   </header>
   <main id="app" class="app" aria-live="polite">
-    <section class="loading">Loading fight tape...</section>
+    {prerender_html or '<section class="loading">Loading fight tape...</section>'}
   </main>
   <footer class="site-footer">
     {render_static_ad_slot("footer", site_config or {})}
@@ -553,3 +555,66 @@ def escape_html(value: str) -> str:
         .replace(">", "&gt;")
         .replace('"', "&quot;")
     )
+
+
+def build_fighter_prerender(fighter: dict[str, Any]) -> str:
+    summary = fighter_editorial_summary(fighter)
+    return f"""
+    <section class="band content-page fighter-prerender">
+      <h1>{escape_html(str(fighter.get("name") or ""))}</h1>
+      <p><strong>{escape_html(str(fighter.get("gender") or ""))} {escape_html(str(fighter.get("weight_class") or ""))}</strong></p>
+      <p>{escape_html(summary)}</p>
+    </section>
+    <noscript>
+      <section class="band content-page fighter-prerender">
+        <h2>JavaScript Disabled</h2>
+        <p>This profile includes dynamic chart and fight log features that require JavaScript. The fighter summary above remains available without scripts.</p>
+      </section>
+    </noscript>
+    """
+
+
+def fighter_editorial_summary(fighter: dict[str, Any]) -> str:
+    name = str(fighter.get("name") or "This fighter")
+    weight_class = str(fighter.get("weight_class") or "unknown division")
+    current_elo = fighter.get("current_elo")
+    peak_elo = fighter.get("peak_elo")
+    overall_elo = fighter.get("overall_elo")
+    rank = fighter.get("divisional_rank")
+    fight_count = fighter.get("fight_count")
+    first_fight = fighter.get("first_fight_date")
+    last_fight = fighter.get("last_fight_date")
+    activity = str(fighter.get("activity_status") or "unknown")
+    days_since = fighter.get("days_since_last_fight")
+    inactivity_adjusted = bool(fighter.get("inactivity_adjusted"))
+    raw_current = fighter.get("raw_current_elo")
+
+    opening = (
+        f"{name} is tracked in the {weight_class} Elo pool on Track Fights, where each bout updates rating based on opponent strength and expected outcome. "
+        f"This profile combines divisional context with overall career strength so readers can compare recent form against long-run level."
+    )
+    ratings = (
+        f"Current divisional Elo is {current_elo}, with a recorded peak of {peak_elo}. "
+        f"The overall career Elo stands at {overall_elo}, and the fighter is currently ranked #{rank} in division."
+    )
+    career = (
+        f"The tracked record window spans {fight_count} bouts from {first_fight} to {last_fight}. "
+        "Large rating moves generally follow upsets against higher-rated opposition, while stable periods usually reflect expected results against similarly rated fighters."
+    )
+    if activity == "inactive":
+        activity_line = (
+            f"The fighter is currently marked inactive under site rules. "
+            f"Displayed current Elo may include inactivity handling; the last active divisional Elo before inactivity adjustment was {raw_current}."
+        )
+    elif days_since is not None:
+        activity_line = (
+            f"Activity context: {name} last competed {days_since} days ago and is currently marked active. "
+            f"{'The current displayed Elo includes activity adjustment context. ' if inactivity_adjusted else ''}"
+            "Use the fight-by-fight table and chart to see exactly where rating gains and losses occurred."
+        )
+    else:
+        activity_line = (
+            "Activity status is still being reconciled for this profile. "
+            "Use chart points and fight log rows for the cleanest interpretation of momentum and opponent quality."
+        )
+    return " ".join([opening, ratings, career, activity_line])
