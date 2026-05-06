@@ -1,32 +1,10 @@
 {
   "activity_status": "active",
-  "current_elo": 1528.0,
-  "days_since_last_fight": 28,
-  "divisional_rank": 114,
-  "fight_count": 4,
+  "current_elo": 1555.2,
+  "days_since_last_fight": 273,
+  "divisional_rank": 32,
+  "fight_count": 3,
   "fight_log": [
-    {
-      "blue_name": "Rafael Estevam",
-      "bout_type": "Bantamweight Bout",
-      "date": "2026-04-04",
-      "elo_delta": -20.9,
-      "event_name": "UFC Fight Night: Moicano vs Duncan",
-      "fight_id": "ce0f90828f817741",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO/TKO",
-      "opponent": "Ethyn Ewing",
-      "opponent_elo": 1522.1,
-      "outcome": "red_win",
-      "post_elo": 1528.0,
-      "pre_elo": 1549.0,
-      "red_name": "Ethyn Ewing",
-      "round": "3",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "1:44",
-      "weight_class": "Bantamweight"
-    },
     {
       "blue_name": "Felipe Bunes",
       "bout_type": "Flyweight Bout",
@@ -138,37 +116,23 @@
       "rating": 1549.0,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "ce0f90828f817741",
-      "rating": 1528.0,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "ce0f90828f817741",
-      "rating": 1531.1,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2025-08-02",
   "name": "Rafael Estevam",
   "nickname": "",
-  "overall_elo": 1531.1,
+  "overall_elo": 1549.0,
   "peak_elo": 1555.2,
-  "raw_current_elo": 1528.0,
-  "raw_overall_elo": 1531.1,
+  "raw_current_elo": 1555.2,
+  "raw_overall_elo": 1549.0,
   "slug": "rafael-estevam",
   "systems": {
-    "division": "men:Bantamweight",
+    "division": "men:Flyweight",
     "overall": "men:overall"
   },
-  "weight_class": "Bantamweight"
+  "weight_class": "Flyweight"
 }

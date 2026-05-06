@@ -1,32 +1,10 @@
 {
   "activity_status": "active",
-  "current_elo": 1543.0,
-  "days_since_last_fight": 28,
-  "divisional_rank": 72,
-  "fight_count": 3,
+  "current_elo": 1538.1,
+  "days_since_last_fight": 168,
+  "divisional_rank": 89,
+  "fight_count": 2,
   "fight_log": [
-    {
-      "blue_name": "Rafael Estevam",
-      "bout_type": "Bantamweight Bout",
-      "date": "2026-04-04",
-      "elo_delta": 20.9,
-      "event_name": "UFC Fight Night: Moicano vs Duncan",
-      "fight_id": "ce0f90828f817741",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO/TKO",
-      "opponent": "Rafael Estevam",
-      "opponent_elo": 1549.0,
-      "outcome": "red_win",
-      "post_elo": 1543.0,
-      "pre_elo": 1522.1,
-      "red_name": "Ethyn Ewing",
-      "round": "3",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "1:44",
-      "weight_class": "Bantamweight"
-    },
     {
       "blue_name": "Ethyn Ewing",
       "bout_type": "Featherweight Bout",
@@ -102,37 +80,23 @@
       "rating": 1536.0,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "ce0f90828f817741",
-      "rating": 1543.0,
-      "scope": "division",
-      "system": "men:Bantamweight"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "ce0f90828f817741",
-      "rating": 1553.9,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2025-11-15",
   "name": "Ethyn Ewing",
   "nickname": "",
-  "overall_elo": 1553.9,
-  "peak_elo": 1553.9,
-  "raw_current_elo": 1543.0,
-  "raw_overall_elo": 1553.9,
+  "overall_elo": 1536.0,
+  "peak_elo": 1538.1,
+  "raw_current_elo": 1538.1,
+  "raw_overall_elo": 1536.0,
   "slug": "ethyn-ewing",
   "systems": {
-    "division": "men:Bantamweight",
+    "division": "men:Featherweight",
     "overall": "men:overall"
   },
-  "weight_class": "Bantamweight"
+  "weight_class": "Featherweight"
 }

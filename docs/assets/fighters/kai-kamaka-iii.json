@@ -1,32 +1,10 @@
 {
-  "activity_status": "active",
-  "current_elo": 1548.9,
-  "days_since_last_fight": 28,
-  "divisional_rank": 87,
-  "fight_count": 10,
+  "activity_status": "inactive",
+  "current_elo": 1509.2,
+  "days_since_last_fight": 938,
+  "divisional_rank": 222,
+  "fight_count": 9,
   "fight_log": [
-    {
-      "blue_name": "Dakota Hope",
-      "bout_type": "Lightweight Bout",
-      "date": "2026-04-04",
-      "elo_delta": 17.2,
-      "event_name": "UFC Fight Night: Moicano vs Duncan",
-      "fight_id": "c27057c4eb03dded",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Split",
-      "opponent": "Dakota Hope",
-      "opponent_elo": 1516.0,
-      "outcome": "red_win",
-      "post_elo": 1548.9,
-      "pre_elo": 1531.7,
-      "red_name": "Kai Kamaka III",
-      "round": "3",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Lightweight"
-    },
     {
       "blue_name": "Henry Corrales",
       "bout_type": "Featherweight Bout",
@@ -354,37 +332,23 @@
       "rating": 1531.7,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "c27057c4eb03dded",
-      "rating": 1548.9,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "c27057c4eb03dded",
-      "rating": 1547.0,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
-  "inactivity_adjusted": false,
+  "inactivity_adjusted": true,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2023-10-07",
   "name": "Kai Kamaka III",
   "nickname": "",
-  "overall_elo": 1547.0,
-  "peak_elo": 1548.9,
-  "raw_current_elo": 1548.9,
-  "raw_overall_elo": 1547.0,
+  "overall_elo": 1504.8,
+  "peak_elo": 1536.1,
+  "raw_current_elo": 1536.1,
+  "raw_overall_elo": 1531.7,
   "slug": "kai-kamaka-iii",
   "systems": {
-    "division": "men:Lightweight",
+    "division": "men:Featherweight",
     "overall": "men:overall"
   },
-  "weight_class": "Lightweight"
+  "weight_class": "Featherweight"
 }

@@ -1,32 +1,10 @@
 {
   "activity_status": "active",
-  "current_elo": 1498.8,
-  "days_since_last_fight": 28,
-  "divisional_rank": 1266,
-  "fight_count": 2,
+  "current_elo": 1518.0,
+  "days_since_last_fight": 323,
+  "divisional_rank": 180,
+  "fight_count": 1,
   "fight_log": [
-    {
-      "blue_name": "Dakota Hope",
-      "bout_type": "Lightweight Bout",
-      "date": "2026-04-04",
-      "elo_delta": -17.2,
-      "event_name": "UFC Fight Night: Moicano vs Duncan",
-      "fight_id": "c27057c4eb03dded",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Split",
-      "opponent": "Kai Kamaka III",
-      "opponent_elo": 1531.7,
-      "outcome": "red_win",
-      "post_elo": 1498.8,
-      "pre_elo": 1516.0,
-      "red_name": "Kai Kamaka III",
-      "round": "3",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Lightweight"
-    },
     {
       "blue_name": "Jeremy Henry",
       "bout_type": "Featherweight Bout",
@@ -66,37 +44,23 @@
       "rating": 1516.0,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "c27057c4eb03dded",
-      "rating": 1498.8,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2026-04-04",
-      "fight_id": "c27057c4eb03dded",
-      "rating": 1500.7,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-04",
+  "last_fight_date": "2025-06-13",
   "name": "Dakota Hope",
   "nickname": "",
-  "overall_elo": 1500.7,
+  "overall_elo": 1516.0,
   "peak_elo": 1518.0,
-  "raw_current_elo": 1498.8,
-  "raw_overall_elo": 1500.7,
+  "raw_current_elo": 1518.0,
+  "raw_overall_elo": 1516.0,
   "slug": "dakota-hope",
   "systems": {
-    "division": "men:Lightweight",
+    "division": "men:Featherweight",
     "overall": "men:overall"
   },
-  "weight_class": "Lightweight"
+  "weight_class": "Featherweight"
 }
