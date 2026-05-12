@@ -1,32 +1,10 @@
 {
   "activity_status": "active",
-  "current_elo": 1569.9,
-  "days_since_last_fight": 28,
+  "current_elo": 1571.0,
+  "days_since_last_fight": 182,
   "divisional_rank": 50,
-  "fight_count": 5,
+  "fight_count": 4,
   "fight_log": [
-    {
-      "blue_name": "Marquel Mederos",
-      "bout_type": "Lightweight Bout",
-      "date": "2026-04-11",
-      "elo_delta": -1.1,
-      "event_name": "UFC 327: Procházka vs Ulberg",
-      "fight_id": "1aaa5c9f050d91ea",
-      "gender": "men",
-      "is_title": false,
-      "method": "Decision - Majority",
-      "opponent": "Marquel Mederos",
-      "opponent_elo": 1549.3,
-      "outcome": "draw",
-      "post_elo": 1569.9,
-      "pre_elo": 1571.0,
-      "red_name": "Chris Padilla",
-      "round": "3",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "5:00",
-      "weight_class": "Lightweight"
-    },
     {
       "blue_name": "Ismael Bonfim",
       "bout_type": "Lightweight Bout",
@@ -174,33 +152,19 @@
       "rating": 1563.6,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-11",
-      "fight_id": "1aaa5c9f050d91ea",
-      "rating": 1569.9,
-      "scope": "division",
-      "system": "men:Lightweight"
-    },
-    {
-      "date": "2026-04-11",
-      "fight_id": "1aaa5c9f050d91ea",
-      "rating": 1562.7,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-11",
+  "last_fight_date": "2025-11-08",
   "name": "Chris Padilla",
   "nickname": "",
-  "overall_elo": 1562.7,
+  "overall_elo": 1563.6,
   "peak_elo": 1571.0,
-  "raw_current_elo": 1569.9,
-  "raw_overall_elo": 1562.7,
+  "raw_current_elo": 1571.0,
+  "raw_overall_elo": 1563.6,
   "slug": "chris-padilla",
   "systems": {
     "division": "men:Lightweight",

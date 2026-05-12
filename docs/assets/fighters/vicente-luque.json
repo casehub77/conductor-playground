@@ -1,32 +1,10 @@
 {
   "activity_status": "active",
-  "current_elo": 1616.3,
-  "days_since_last_fight": 28,
-  "divisional_rank": 12,
-  "fight_count": 25,
+  "current_elo": 1607.0,
+  "days_since_last_fight": 210,
+  "divisional_rank": 20,
+  "fight_count": 24,
   "fight_log": [
-    {
-      "blue_name": "Vicente Luque",
-      "bout_type": "Middleweight Bout",
-      "date": "2026-04-11",
-      "elo_delta": 17.4,
-      "event_name": "UFC 327: Procházka vs Ulberg",
-      "fight_id": "78251c6fcbed8bc2",
-      "gender": "men",
-      "is_title": false,
-      "method": "Submission",
-      "opponent": "Kelvin Gastelum",
-      "opponent_elo": 1562.6,
-      "outcome": "blue_win",
-      "post_elo": 1616.3,
-      "pre_elo": 1598.9,
-      "red_name": "Kelvin Gastelum",
-      "round": "1",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "4:08",
-      "weight_class": "Middleweight"
-    },
     {
       "blue_name": "Joel Alvarez",
       "bout_type": "Welterweight Bout",
@@ -894,37 +872,23 @@
       "rating": 1598.9,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-11",
-      "fight_id": "78251c6fcbed8bc2",
-      "rating": 1616.3,
-      "scope": "division",
-      "system": "men:Middleweight"
-    },
-    {
-      "date": "2026-04-11",
-      "fight_id": "78251c6fcbed8bc2",
-      "rating": 1614.6,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-11",
+  "last_fight_date": "2025-10-11",
   "name": "Vicente Luque",
   "nickname": "",
-  "overall_elo": 1614.6,
+  "overall_elo": 1598.9,
   "peak_elo": 1685.7,
-  "raw_current_elo": 1616.3,
-  "raw_overall_elo": 1614.6,
+  "raw_current_elo": 1607.0,
+  "raw_overall_elo": 1598.9,
   "slug": "vicente-luque",
   "systems": {
-    "division": "men:Middleweight",
+    "division": "men:Welterweight",
     "overall": "men:overall"
   },
-  "weight_class": "Middleweight"
+  "weight_class": "Welterweight"
 }

@@ -1,32 +1,10 @@
 {
   "activity_status": "active",
-  "current_elo": 1576.1,
-  "days_since_last_fight": 28,
-  "divisional_rank": 16,
-  "fight_count": 12,
+  "current_elo": 1586.9,
+  "days_since_last_fight": 294,
+  "divisional_rank": 20,
+  "fight_count": 11,
   "fight_log": [
-    {
-      "blue_name": "Paulo Costa",
-      "bout_type": "Light Heavyweight Bout",
-      "date": "2026-04-11",
-      "elo_delta": 22.6,
-      "event_name": "UFC 327: Procházka vs Ulberg",
-      "fight_id": "1869b09038f8bda9",
-      "gender": "men",
-      "is_title": false,
-      "method": "KO/TKO",
-      "opponent": "Azamat Murzakanov",
-      "opponent_elo": 1609.8,
-      "outcome": "blue_win",
-      "post_elo": 1576.1,
-      "pre_elo": 1553.5,
-      "red_name": "Azamat Murzakanov",
-      "round": "3",
-      "source": "ufc:official",
-      "source_title": "",
-      "time": "1:23",
-      "weight_class": "Light Heavyweight"
-    },
     {
       "blue_name": "Roman Kopylov",
       "bout_type": "Middleweight Bout",
@@ -426,37 +404,23 @@
       "rating": 1564.9,
       "scope": "overall",
       "system": "men:overall"
-    },
-    {
-      "date": "2026-04-11",
-      "fight_id": "1869b09038f8bda9",
-      "rating": 1576.1,
-      "scope": "division",
-      "system": "men:Light Heavyweight"
-    },
-    {
-      "date": "2026-04-11",
-      "fight_id": "1869b09038f8bda9",
-      "rating": 1583.8,
-      "scope": "overall",
-      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2026-04-11",
+  "last_fight_date": "2025-07-19",
   "name": "Paulo Costa",
   "nickname": "",
-  "overall_elo": 1583.8,
+  "overall_elo": 1564.9,
   "peak_elo": 1601.8,
-  "raw_current_elo": 1576.1,
-  "raw_overall_elo": 1583.8,
+  "raw_current_elo": 1586.9,
+  "raw_overall_elo": 1564.9,
   "slug": "paulo-costa",
   "systems": {
-    "division": "men:Light Heavyweight",
+    "division": "men:Middleweight",
     "overall": "men:overall"
   },
-  "weight_class": "Light Heavyweight"
+  "weight_class": "Middleweight"
 }
