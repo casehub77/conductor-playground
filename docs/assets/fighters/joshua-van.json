@@ -7,14 +7,14 @@
   "fight_log": [
     {
       "blue_name": "Tatsuro Taira",
-      "bout_type": "Flyweight Title Bout",
+      "bout_type": "Flyweight Bout",
       "date": "2026-05-09",
       "elo_delta": 18.4,
-      "event_name": "UFC 328: Chimaev vs Strickland",
-      "fight_id": "78d2d31dfaf2ed0b",
+      "event_name": "UFC 328: Chimaev vs. Strickland",
+      "fight_id": "25baddb384ff2f14",
       "gender": "men",
       "is_title": false,
-      "method": "KO/TKO",
+      "method": "KO/TKO Punches",
       "opponent": "Tatsuro Taira",
       "opponent_elo": 1621.5,
       "outcome": "red_win",
@@ -22,7 +22,7 @@
       "pre_elo": 1639.4,
       "red_name": "Joshua Van",
       "round": "5",
-      "source": "ufc:official",
+      "source": "ufcstats:fallback",
       "source_title": "",
       "time": "1:32",
       "weight_class": "Flyweight"
@@ -393,14 +393,14 @@
     },
     {
       "date": "2026-05-09",
-      "fight_id": "78d2d31dfaf2ed0b",
+      "fight_id": "25baddb384ff2f14",
       "rating": 1657.9,
       "scope": "division",
       "system": "men:Flyweight"
     },
     {
       "date": "2026-05-09",
-      "fight_id": "78d2d31dfaf2ed0b",
+      "fight_id": "25baddb384ff2f14",
       "rating": 1640.2,
       "scope": "overall",
       "system": "men:overall"
