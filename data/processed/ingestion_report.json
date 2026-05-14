@@ -2,9 +2,9 @@
   "dry_run": false,
   "fallback": {
     "discarded_unparseable": 13,
-    "duplicates": 48,
+    "duplicates": 51,
     "errors": [],
-    "new_fights": 3,
+    "new_fights": 0,
     "parsed_fights": 64,
     "rows": 64,
     "used": true
@@ -25,9 +25,9 @@
     "discarded_unparseable": 0,
     "duplicates": 0,
     "errors": [],
-    "new_fights": 48,
-    "parsed_fights": 48,
-    "rows": 48,
+    "new_fights": 51,
+    "parsed_fights": 51,
+    "rows": 51,
     "used": true
   },
   "primary": {
@@ -36,7 +36,7 @@
     "source": "https://raw.githubusercontent.com/komaksym/UFC-DataLab/main/data/stats/stats_processed_all_bouts.csv"
   },
   "primary_health": {
-    "age_days": 46,
+    "age_days": 47,
     "current_fight_count": 8591,
     "drift_ratio": 0.0,
     "drift_tolerance": 0.25,
@@ -53,7 +53,7 @@
     "errors": [],
     "fight_count": 17980,
     "fighter_count": 9189,
-    "input_hash": "a8a6e9a94a76d53fb772af6798ce26f3ea8433ab618e71652b8d20f8dc884d58",
+    "input_hash": "71a97fad9d396fbec79bb0c7452e81c5390d95240ec15593b66a1bd38efc88d6",
     "ok": true,
     "same_name_collisions": [],
     "suggested_alias_count": 433,
