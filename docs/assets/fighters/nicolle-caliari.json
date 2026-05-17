@@ -1,10 +1,32 @@
 {
   "activity_status": "active",
-  "current_elo": 1462.7,
-  "days_since_last_fight": 294,
+  "current_elo": 1488.2,
+  "days_since_last_fight": 0,
   "divisional_rank": 236,
-  "fight_count": 2,
+  "fight_count": 3,
   "fight_log": [
+    {
+      "blue_name": "Nicolle Caliari",
+      "bout_type": "Women's Strawweight Bout",
+      "date": "2026-05-16",
+      "elo_delta": 21.3,
+      "event_name": "UFC Fight Night: Allen vs Costa",
+      "fight_id": "0313ba9326a145bb",
+      "gender": "women",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Shauna Bannon",
+      "opponent_elo": 1501.0,
+      "outcome": "blue_win",
+      "post_elo": 1488.2,
+      "pre_elo": 1466.8,
+      "red_name": "Shauna Bannon",
+      "round": "3",
+      "source": "ufc:official",
+      "source_title": "",
+      "time": "3:08",
+      "weight_class": "Strawweight"
+    },
     {
       "blue_name": "Nicolle Caliari",
       "bout_type": "Women's Flyweight Bout",
@@ -80,23 +102,37 @@
       "rating": 1466.8,
       "scope": "overall",
       "system": "women:overall"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "0313ba9326a145bb",
+      "rating": 1488.2,
+      "scope": "division",
+      "system": "women:Strawweight"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "0313ba9326a145bb",
+      "rating": 1485.8,
+      "scope": "overall",
+      "system": "women:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2025-07-19",
+  "last_fight_date": "2026-05-16",
   "name": "Nicolle Caliari",
   "nickname": "",
-  "overall_elo": 1466.8,
+  "overall_elo": 1485.8,
   "peak_elo": 1500.0,
-  "raw_current_elo": 1462.7,
-  "raw_overall_elo": 1466.8,
+  "raw_current_elo": 1488.2,
+  "raw_overall_elo": 1485.8,
   "slug": "nicolle-caliari",
   "systems": {
-    "division": "women:Flyweight",
+    "division": "women:Strawweight",
     "overall": "women:overall"
   },
-  "weight_class": "Flyweight"
+  "weight_class": "Strawweight"
 }

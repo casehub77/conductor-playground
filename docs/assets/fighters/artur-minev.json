@@ -1,0 +1,66 @@
+{
+  "activity_status": "active",
+  "current_elo": 1480.6,
+  "days_since_last_fight": 0,
+  "divisional_rank": 1403,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Artur Minev",
+      "bout_type": "Lightweight Bout",
+      "date": "2026-05-16",
+      "elo_delta": -19.4,
+      "event_name": "UFC Fight Night: Allen vs Costa",
+      "fight_id": "8cde720ee7c6881a",
+      "gender": "men",
+      "is_title": false,
+      "method": "KO/TKO",
+      "opponent": "Tommy Gantt",
+      "opponent_elo": 1500.0,
+      "outcome": "red_win",
+      "post_elo": 1480.6,
+      "pre_elo": 1500.0,
+      "red_name": "Tommy Gantt",
+      "round": "2",
+      "source": "ufc:official",
+      "source_title": "",
+      "time": "2:51",
+      "weight_class": "Lightweight"
+    }
+  ],
+  "first_fight_date": "2026-05-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-05-16",
+      "fight_id": "8cde720ee7c6881a",
+      "rating": 1480.6,
+      "scope": "division",
+      "system": "men:Lightweight"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "8cde720ee7c6881a",
+      "rating": 1482.7,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": false,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-05-16",
+  "name": "Artur Minev",
+  "nickname": "",
+  "overall_elo": 1482.7,
+  "peak_elo": 1500.0,
+  "raw_current_elo": 1480.6,
+  "raw_overall_elo": 1482.7,
+  "slug": "artur-minev",
+  "systems": {
+    "division": "men:Lightweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Lightweight"
+}

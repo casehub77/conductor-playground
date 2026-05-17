@@ -1,10 +1,32 @@
 {
   "activity_status": "active",
-  "current_elo": 1514.0,
-  "days_since_last_fight": 175,
-  "divisional_rank": 209,
-  "fight_count": 3,
+  "current_elo": 1515.0,
+  "days_since_last_fight": 0,
+  "divisional_rank": 187,
+  "fight_count": 4,
   "fight_log": [
+    {
+      "blue_name": "Juan Diaz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-05-16",
+      "elo_delta": -21.5,
+      "event_name": "UFC Fight Night: Allen vs Costa",
+      "fight_id": "27d45f93bc7aea7d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Juan Diaz",
+      "opponent_elo": 1500.0,
+      "outcome": "blue_win",
+      "post_elo": 1515.0,
+      "pre_elo": 1536.5,
+      "red_name": "Malcolm Wellmaker",
+      "round": "2",
+      "source": "ufc:official",
+      "source_title": "",
+      "time": "4:08",
+      "weight_class": "Bantamweight"
+    },
     {
       "blue_name": "Ethyn Ewing",
       "bout_type": "Featherweight Bout",
@@ -116,23 +138,37 @@
       "rating": 1516.1,
       "scope": "overall",
       "system": "men:overall"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "27d45f93bc7aea7d",
+      "rating": 1515.0,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "27d45f93bc7aea7d",
+      "rating": 1498.0,
+      "scope": "overall",
+      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": false,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2025-11-15",
+  "last_fight_date": "2026-05-16",
   "name": "Malcolm Wellmaker",
   "nickname": "",
-  "overall_elo": 1516.1,
+  "overall_elo": 1498.0,
   "peak_elo": 1536.5,
-  "raw_current_elo": 1514.0,
-  "raw_overall_elo": 1516.1,
+  "raw_current_elo": 1515.0,
+  "raw_overall_elo": 1498.0,
   "slug": "malcolm-wellmaker",
   "systems": {
-    "division": "men:Featherweight",
+    "division": "men:Bantamweight",
     "overall": "men:overall"
   },
-  "weight_class": "Featherweight"
+  "weight_class": "Bantamweight"
 }

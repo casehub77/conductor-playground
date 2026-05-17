@@ -1,0 +1,66 @@
+{
+  "activity_status": "active",
+  "current_elo": 1521.5,
+  "days_since_last_fight": 0,
+  "divisional_rank": 125,
+  "fight_count": 1,
+  "fight_log": [
+    {
+      "blue_name": "Juan Diaz",
+      "bout_type": "Bantamweight Bout",
+      "date": "2026-05-16",
+      "elo_delta": 21.5,
+      "event_name": "UFC Fight Night: Allen vs Costa",
+      "fight_id": "27d45f93bc7aea7d",
+      "gender": "men",
+      "is_title": false,
+      "method": "Submission",
+      "opponent": "Malcolm Wellmaker",
+      "opponent_elo": 1536.5,
+      "outcome": "blue_win",
+      "post_elo": 1521.5,
+      "pre_elo": 1500.0,
+      "red_name": "Malcolm Wellmaker",
+      "round": "2",
+      "source": "ufc:official",
+      "source_title": "",
+      "time": "4:08",
+      "weight_class": "Bantamweight"
+    }
+  ],
+  "first_fight_date": "2026-05-16",
+  "gender": "men",
+  "history": [
+    {
+      "date": "2026-05-16",
+      "fight_id": "27d45f93bc7aea7d",
+      "rating": 1521.5,
+      "scope": "division",
+      "system": "men:Bantamweight"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "27d45f93bc7aea7d",
+      "rating": 1518.1,
+      "scope": "overall",
+      "system": "men:overall"
+    }
+  ],
+  "inactive_after_days": 545,
+  "inactivity_adjusted": false,
+  "instagram": null,
+  "instagram_featured": false,
+  "last_fight_date": "2026-05-16",
+  "name": "Juan Diaz",
+  "nickname": "",
+  "overall_elo": 1518.1,
+  "peak_elo": 1521.5,
+  "raw_current_elo": 1521.5,
+  "raw_overall_elo": 1518.1,
+  "slug": "juan-diaz",
+  "systems": {
+    "division": "men:Bantamweight",
+    "overall": "men:overall"
+  },
+  "weight_class": "Bantamweight"
+}

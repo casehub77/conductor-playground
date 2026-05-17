@@ -1,10 +1,32 @@
 {
-  "activity_status": "inactive",
+  "activity_status": "active",
   "current_elo": 1500.0,
-  "days_since_last_fight": 1135,
+  "days_since_last_fight": 0,
   "divisional_rank": 653,
-  "fight_count": 4,
+  "fight_count": 5,
   "fight_log": [
+    {
+      "blue_name": "Christian Edwards",
+      "bout_type": "Catchweight Bout",
+      "date": "2026-05-16",
+      "elo_delta": -14.8,
+      "event_name": "UFC Fight Night: Allen vs Costa",
+      "fight_id": "2194cff186bc8d5b",
+      "gender": "men",
+      "is_title": false,
+      "method": "Decision - Split",
+      "opponent": "Modestas Bukauskas",
+      "opponent_elo": 1542.7,
+      "outcome": "red_win",
+      "post_elo": 1465.8,
+      "pre_elo": 1480.6,
+      "red_name": "Modestas Bukauskas",
+      "round": "3",
+      "source": "ufc:official",
+      "source_title": "",
+      "time": "5:00",
+      "weight_class": "Catch Weight"
+    },
     {
       "blue_name": "Christian Edwards",
       "bout_type": "Heavyweight Bout",
@@ -152,19 +174,33 @@
       "rating": 1464.8,
       "scope": "overall",
       "system": "men:overall"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "2194cff186bc8d5b",
+      "rating": 1465.8,
+      "scope": "division",
+      "system": "men:Light Heavyweight"
+    },
+    {
+      "date": "2026-05-16",
+      "fight_id": "2194cff186bc8d5b",
+      "rating": 1452.0,
+      "scope": "overall",
+      "system": "men:overall"
     }
   ],
   "inactive_after_days": 545,
   "inactivity_adjusted": true,
   "instagram": null,
   "instagram_featured": false,
-  "last_fight_date": "2023-03-31",
+  "last_fight_date": "2026-05-16",
   "name": "Christian Edwards",
   "nickname": "",
-  "overall_elo": 1500.0,
+  "overall_elo": 1452.0,
   "peak_elo": 1518.9,
   "raw_current_elo": 1462.3,
-  "raw_overall_elo": 1464.8,
+  "raw_overall_elo": 1452.0,
   "slug": "christian-edwards",
   "systems": {
     "division": "men:Heavyweight",

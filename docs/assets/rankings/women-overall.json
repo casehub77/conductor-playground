@@ -20,7 +20,7 @@
       "peak": 1686.4,
       "primary_weight_class": "Bantamweight",
       "rank": 2,
-      "rating": 1650.0,
+      "rating": 1649.5,
       "raw_rating": 1685.5,
       "slug": "amanda-nunes"
     },
@@ -128,7 +128,7 @@
       "peak": 1621.1,
       "primary_weight_class": "Bantamweight",
       "rank": 11,
-      "rating": 1598.5,
+      "rating": 1598.0,
       "raw_rating": 1600.9,
       "slug": "raquel-pennington"
     },
@@ -248,7 +248,7 @@
       "peak": 1609.1,
       "primary_weight_class": "Featherweight",
       "rank": 21,
-      "rating": 1581.7,
+      "rating": 1581.2,
       "raw_rating": 1609.1,
       "slug": "cris-cyborg"
     },
@@ -289,13 +289,25 @@
       "slug": "virna-jandiroba"
     },
     {
+      "fights": 15,
+      "gender": "women",
+      "last_fight_date": "2026-05-16",
+      "name": "Ketlen Vieira",
+      "peak": 1573.0,
+      "primary_weight_class": "Bantamweight",
+      "rank": 25,
+      "rating": 1573.0,
+      "raw_rating": 1573.0,
+      "slug": "ketlen-vieira"
+    },
+    {
       "fights": 13,
       "gender": "women",
       "last_fight_date": "2025-04-12",
       "name": "Yan Xiaonan",
       "peak": 1588.2,
       "primary_weight_class": "Strawweight",
-      "rank": 25,
+      "rank": 26,
       "rating": 1571.7,
       "raw_rating": 1571.7,
       "slug": "yan-xiaonan"
@@ -307,7 +319,7 @@
       "name": "Denise Gomes",
       "peak": 1568.4,
       "primary_weight_class": "Strawweight",
-      "rank": 26,
+      "rank": 27,
       "rating": 1568.4,
       "raw_rating": 1568.4,
       "slug": "denise-gomes"
@@ -319,7 +331,7 @@
       "name": "Julianna Pena",
       "peak": 1589.8,
       "primary_weight_class": "Bantamweight",
-      "rank": 27,
+      "rank": 28,
       "rating": 1567.9,
       "raw_rating": 1567.9,
       "slug": "julianna-pena"
@@ -331,7 +343,7 @@
       "name": "Ayaka Hamasaki",
       "peak": 1615.8,
       "primary_weight_class": "Atomweight",
-      "rank": 28,
+      "rank": 29,
       "rating": 1566.0,
       "raw_rating": 1566.0,
       "slug": "ayaka-hamasaki"
@@ -343,7 +355,7 @@
       "name": "Loopy Godinez",
       "peak": 1567.7,
       "primary_weight_class": "Strawweight",
-      "rank": 29,
+      "rank": 30,
       "rating": 1565.7,
       "raw_rating": 1565.7,
       "slug": "loopy-godinez"
@@ -355,8 +367,8 @@
       "name": "Liz Carmouche",
       "peak": 1591.7,
       "primary_weight_class": "Flyweight",
-      "rank": 30,
-      "rating": 1564.3,
+      "rank": 31,
+      "rating": 1563.8,
       "raw_rating": 1591.7,
       "slug": "liz-carmouche"
     },
@@ -367,22 +379,10 @@
       "name": "Alina Dalaslan",
       "peak": 1563.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 31,
-      "rating": 1563.0,
-      "raw_rating": 1563.0,
-      "slug": "alina-dalaslan"
-    },
-    {
-      "fights": 4,
-      "gender": "women",
-      "last_fight_date": "2025-11-08",
-      "name": "Jacqueline Cavalcanti",
-      "peak": 1563.0,
-      "primary_weight_class": "Bantamweight",
       "rank": 32,
       "rating": 1563.0,
       "raw_rating": 1563.0,
-      "slug": "jacqueline-cavalcanti"
+      "slug": "alina-dalaslan"
     },
     {
       "fights": 8,
@@ -423,23 +423,11 @@
     {
       "fights": 17,
       "gender": "women",
-      "last_fight_date": "2024-09-29",
-      "name": "Kanna Asakura",
-      "peak": 1587.0,
-      "primary_weight_class": "Atomweight",
-      "rank": 36,
-      "rating": 1560.0,
-      "raw_rating": 1562.8,
-      "slug": "kanna-asakura"
-    },
-    {
-      "fights": 17,
-      "gender": "women",
       "last_fight_date": "2026-04-18",
       "name": "JJ Aldrich",
       "peak": 1559.8,
       "primary_weight_class": "Flyweight",
-      "rank": 37,
+      "rank": 36,
       "rating": 1559.8,
       "raw_rating": 1559.8,
       "slug": "jj-aldrich"
@@ -451,10 +439,22 @@
       "name": "Kayla Harrison",
       "peak": 1559.6,
       "primary_weight_class": "Bantamweight",
-      "rank": 38,
+      "rank": 37,
       "rating": 1559.6,
       "raw_rating": 1559.6,
       "slug": "kayla-harrison"
+    },
+    {
+      "fights": 17,
+      "gender": "women",
+      "last_fight_date": "2024-09-29",
+      "name": "Kanna Asakura",
+      "peak": 1587.0,
+      "primary_weight_class": "Atomweight",
+      "rank": 38,
+      "rating": 1559.5,
+      "raw_rating": 1562.8,
+      "slug": "kanna-asakura"
     },
     {
       "fights": 12,
@@ -517,25 +517,13 @@
       "slug": "piera-rodriguez"
     },
     {
-      "fights": 14,
-      "gender": "women",
-      "last_fight_date": "2025-11-01",
-      "name": "Ketlen Vieira",
-      "peak": 1572.7,
-      "primary_weight_class": "Bantamweight",
-      "rank": 44,
-      "rating": 1556.7,
-      "raw_rating": 1556.7,
-      "slug": "ketlen-vieira"
-    },
-    {
       "fights": 8,
       "gender": "women",
       "last_fight_date": "2026-03-28",
       "name": "Casey O'Neill",
       "peak": 1560.5,
       "primary_weight_class": "Flyweight",
-      "rank": 45,
+      "rank": 44,
       "rating": 1556.7,
       "raw_rating": 1556.7,
       "slug": "casey-o-neill"
@@ -547,7 +535,7 @@
       "name": "Cheyanne Bowers",
       "peak": 1553.1,
       "primary_weight_class": "Flyweight",
-      "rank": 46,
+      "rank": 45,
       "rating": 1553.1,
       "raw_rating": 1553.1,
       "slug": "cheyanne-bowers"
@@ -559,7 +547,7 @@
       "name": "Saori Oshima",
       "peak": 1552.4,
       "primary_weight_class": "Atomweight",
-      "rank": 47,
+      "rank": 46,
       "rating": 1552.4,
       "raw_rating": 1552.4,
       "slug": "saori-oshima"
@@ -571,7 +559,7 @@
       "name": "Iasmin Lucindo",
       "peak": 1552.5,
       "primary_weight_class": "Strawweight",
-      "rank": 48,
+      "rank": 47,
       "rating": 1551.7,
       "raw_rating": 1551.7,
       "slug": "iasmin-lucindo"
@@ -583,10 +571,22 @@
       "name": "Katlyn Cerminara",
       "peak": 1601.5,
       "primary_weight_class": "Flyweight",
-      "rank": 49,
-      "rating": 1551.3,
+      "rank": 48,
+      "rating": 1550.9,
       "raw_rating": 1568.2,
       "slug": "katlyn-cerminara"
+    },
+    {
+      "fights": 5,
+      "gender": "women",
+      "last_fight_date": "2026-04-25",
+      "name": "Talita Alencar",
+      "peak": 1550.7,
+      "primary_weight_class": "Strawweight",
+      "rank": 49,
+      "rating": 1550.7,
+      "raw_rating": 1550.7,
+      "slug": "talita-alencar"
     },
     {
       "fights": 10,
@@ -596,21 +596,9 @@
       "peak": 1582.5,
       "primary_weight_class": "Bantamweight",
       "rank": 50,
-      "rating": 1550.7,
+      "rating": 1550.2,
       "raw_rating": 1565.6,
       "slug": "germaine-de-randamie"
-    },
-    {
-      "fights": 5,
-      "gender": "women",
-      "last_fight_date": "2026-04-25",
-      "name": "Talita Alencar",
-      "peak": 1550.7,
-      "primary_weight_class": "Strawweight",
-      "rank": 51,
-      "rating": 1550.7,
-      "raw_rating": 1550.7,
-      "slug": "talita-alencar"
     },
     {
       "fights": 3,
@@ -619,7 +607,7 @@
       "name": "Beatriz Mesquita",
       "peak": 1550.1,
       "primary_weight_class": "Bantamweight",
-      "rank": 52,
+      "rank": 51,
       "rating": 1550.1,
       "raw_rating": 1550.1,
       "slug": "beatriz-mesquita"
@@ -631,7 +619,7 @@
       "name": "Aieza Ramos Bertolso",
       "peak": 1549.7,
       "primary_weight_class": "Strawweight",
-      "rank": 53,
+      "rank": 52,
       "rating": 1549.7,
       "raw_rating": 1549.7,
       "slug": "aieza-ramos-bertolso"
@@ -643,7 +631,7 @@
       "name": "Alexia Thainara",
       "peak": 1549.5,
       "primary_weight_class": "Strawweight",
-      "rank": 54,
+      "rank": 53,
       "rating": 1549.5,
       "raw_rating": 1549.5,
       "slug": "alexia-thainara"
@@ -655,7 +643,7 @@
       "name": "Amanda Lemos",
       "peak": 1583.5,
       "primary_weight_class": "Strawweight",
-      "rank": 55,
+      "rank": 54,
       "rating": 1549.0,
       "raw_rating": 1549.0,
       "slug": "amanda-lemos"
@@ -667,7 +655,7 @@
       "name": "Karol Rosa",
       "peak": 1558.7,
       "primary_weight_class": "Bantamweight",
-      "rank": 56,
+      "rank": 55,
       "rating": 1549.0,
       "raw_rating": 1549.0,
       "slug": "karol-rosa"
@@ -679,7 +667,7 @@
       "name": "Loma Lookboonmee",
       "peak": 1566.9,
       "primary_weight_class": "Strawweight",
-      "rank": 57,
+      "rank": 56,
       "rating": 1548.7,
       "raw_rating": 1548.7,
       "slug": "loma-lookboonmee"
@@ -691,7 +679,7 @@
       "name": "Gabriela Fujimoto",
       "peak": 1548.2,
       "primary_weight_class": "Strawweight",
-      "rank": 58,
+      "rank": 57,
       "rating": 1548.2,
       "raw_rating": 1548.2,
       "slug": "gabriela-fujimoto"
@@ -703,10 +691,22 @@
       "name": "Natalia Alves",
       "peak": 1548.1,
       "primary_weight_class": "Strawweight",
-      "rank": 59,
+      "rank": 58,
       "rating": 1548.1,
       "raw_rating": 1548.1,
       "slug": "natalia-alves"
+    },
+    {
+      "fights": 5,
+      "gender": "women",
+      "last_fight_date": "2025-01-11",
+      "name": "Denice Zamboanga",
+      "peak": 1547.6,
+      "primary_weight_class": "Atomweight",
+      "rank": 59,
+      "rating": 1547.6,
+      "raw_rating": 1547.6,
+      "slug": "denice-zamboanga"
     },
     {
       "fights": 18,
@@ -716,21 +716,21 @@
       "peak": 1587.8,
       "primary_weight_class": "Strawweight",
       "rank": 60,
-      "rating": 1547.6,
+      "rating": 1547.1,
       "raw_rating": 1550.1,
       "slug": "carla-esparza"
     },
     {
       "fights": 5,
       "gender": "women",
-      "last_fight_date": "2025-01-11",
-      "name": "Denice Zamboanga",
-      "peak": 1547.6,
-      "primary_weight_class": "Atomweight",
+      "last_fight_date": "2026-05-16",
+      "name": "Jacqueline Cavalcanti",
+      "peak": 1563.0,
+      "primary_weight_class": "Bantamweight",
       "rank": 61,
-      "rating": 1547.6,
-      "raw_rating": 1547.6,
-      "slug": "denice-zamboanga"
+      "rating": 1546.7,
+      "raw_rating": 1546.7,
+      "slug": "jacqueline-cavalcanti"
     },
     {
       "fights": 3,
@@ -860,7 +860,7 @@
       "peak": 1562.9,
       "primary_weight_class": "Flyweight",
       "rank": 72,
-      "rating": 1535.5,
+      "rating": 1535.1,
       "raw_rating": 1562.9,
       "slug": "jena-bishop"
     },
@@ -1045,40 +1045,28 @@
       "slug": "lucie-pudilova"
     },
     {
-      "fights": 2,
-      "gender": "women",
-      "last_fight_date": "2024-09-07",
-      "name": "Laura Kirtzel",
-      "peak": 1533.3,
-      "primary_weight_class": "Bantamweight",
-      "rank": 88,
-      "rating": 1528.9,
-      "raw_rating": 1533.3,
-      "slug": "laura-kirtzel"
-    },
-    {
       "fights": 4,
       "gender": "men",
       "last_fight_date": "2025-06-07",
       "name": "Wang Cong",
       "peak": 1528.5,
       "primary_weight_class": "Flyweight",
-      "rank": 89,
+      "rank": 88,
       "rating": 1528.5,
       "raw_rating": 1528.5,
       "slug": "wang-cong"
     },
     {
-      "fights": 13,
+      "fights": 2,
       "gender": "women",
-      "last_fight_date": "2024-09-14",
-      "name": "Irene Aldana",
-      "peak": 1546.6,
+      "last_fight_date": "2024-09-07",
+      "name": "Laura Kirtzel",
+      "peak": 1533.3,
       "primary_weight_class": "Bantamweight",
-      "rank": 90,
-      "rating": 1528.3,
-      "raw_rating": 1532.2,
-      "slug": "irene-aldana"
+      "rank": 89,
+      "rating": 1528.4,
+      "raw_rating": 1533.3,
+      "slug": "laura-kirtzel"
     },
     {
       "fights": 6,
@@ -1087,10 +1075,22 @@
       "name": "Chiara Penco",
       "peak": 1547.0,
       "primary_weight_class": "Strawweight",
-      "rank": 91,
+      "rank": 90,
       "rating": 1527.8,
       "raw_rating": 1527.8,
       "slug": "chiara-penco"
+    },
+    {
+      "fights": 13,
+      "gender": "women",
+      "last_fight_date": "2024-09-14",
+      "name": "Irene Aldana",
+      "peak": 1546.6,
+      "primary_weight_class": "Bantamweight",
+      "rank": 91,
+      "rating": 1527.8,
+      "raw_rating": 1532.2,
+      "slug": "irene-aldana"
     },
     {
       "fights": 15,
@@ -1112,7 +1112,7 @@
       "peak": 1528.9,
       "primary_weight_class": "Atomweight",
       "rank": 93,
-      "rating": 1524.4,
+      "rating": 1524.0,
       "raw_rating": 1528.9,
       "slug": "victoria-souza"
     },
@@ -1237,25 +1237,13 @@
       "slug": "mallory-martin"
     },
     {
-      "fights": 5,
-      "gender": "women",
-      "last_fight_date": "2023-11-17",
-      "name": "Sumiko Inaba",
-      "peak": 1562.1,
-      "primary_weight_class": "Flyweight",
-      "rank": 104,
-      "rating": 1517.5,
-      "raw_rating": 1542.1,
-      "slug": "sumiko-inaba"
-    },
-    {
       "fights": 1,
       "gender": "women",
       "last_fight_date": "2024-11-22",
       "name": "Ana Clara Santos",
       "peak": 1517.3,
       "primary_weight_class": "Strawweight",
-      "rank": 105,
+      "rank": 104,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "ana-clara-santos"
@@ -1267,7 +1255,7 @@
       "name": "Danielle Misteli",
       "peak": 1517.3,
       "primary_weight_class": "Bantamweight",
-      "rank": 106,
+      "rank": 105,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "danielle-misteli"
@@ -1279,7 +1267,7 @@
       "name": "Daysi Perez",
       "peak": 1517.3,
       "primary_weight_class": "Featherweight",
-      "rank": 107,
+      "rank": 106,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "daysi-perez"
@@ -1291,7 +1279,7 @@
       "name": "Giada Ghizzo",
       "peak": 1517.3,
       "primary_weight_class": "Bantamweight",
-      "rank": 108,
+      "rank": 107,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "giada-ghizzo"
@@ -1303,7 +1291,7 @@
       "name": "Kennedy Freeman",
       "peak": 1517.3,
       "primary_weight_class": "Bantamweight",
-      "rank": 109,
+      "rank": 108,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "kennedy-freeman"
@@ -1315,7 +1303,7 @@
       "name": "Miriam Grubb",
       "peak": 1517.3,
       "primary_weight_class": "Strawweight",
-      "rank": 110,
+      "rank": 109,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "miriam-grubb"
@@ -1327,7 +1315,7 @@
       "name": "Moeri Suda",
       "peak": 1517.3,
       "primary_weight_class": "Atomweight",
-      "rank": 111,
+      "rank": 110,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "moeri-suda"
@@ -1339,7 +1327,7 @@
       "name": "Zemfira Alieva",
       "peak": 1517.3,
       "primary_weight_class": "Strawweight",
-      "rank": 112,
+      "rank": 111,
       "rating": 1517.3,
       "raw_rating": 1517.3,
       "slug": "zemfira-alieva"
@@ -1351,7 +1339,7 @@
       "name": "Karolina Kowalkiewicz",
       "peak": 1614.2,
       "primary_weight_class": "Strawweight",
-      "rank": 113,
+      "rank": 112,
       "rating": 1517.2,
       "raw_rating": 1517.2,
       "slug": "karolina-kowalkiewicz"
@@ -1363,10 +1351,22 @@
       "name": "Marina Rodriguez",
       "peak": 1585.8,
       "primary_weight_class": "Strawweight",
-      "rank": 114,
+      "rank": 113,
       "rating": 1517.1,
       "raw_rating": 1517.1,
       "slug": "marina-rodriguez"
+    },
+    {
+      "fights": 5,
+      "gender": "women",
+      "last_fight_date": "2023-11-17",
+      "name": "Sumiko Inaba",
+      "peak": 1562.1,
+      "primary_weight_class": "Flyweight",
+      "rank": 114,
+      "rating": 1517.0,
+      "raw_rating": 1542.1,
+      "slug": "sumiko-inaba"
     },
     {
       "fights": 1,
@@ -1525,16 +1525,16 @@
       "slug": "mariana-poltronieri-piccolo"
     },
     {
-      "fights": 5,
+      "fights": 3,
       "gender": "women",
-      "last_fight_date": "2024-10-12",
-      "name": "Katharina Dalisda",
-      "peak": 1534.9,
-      "primary_weight_class": "Strawweight",
+      "last_fight_date": "2026-02-07",
+      "name": "Klaudia Sygula",
+      "peak": 1514.6,
+      "primary_weight_class": "Bantamweight",
       "rank": 128,
       "rating": 1514.6,
-      "raw_rating": 1516.6,
-      "slug": "katharina-dalisda"
+      "raw_rating": 1514.6,
+      "slug": "klaudia-sygula"
     },
     {
       "fights": 1,
@@ -1544,21 +1544,33 @@
       "peak": 1518.1,
       "primary_weight_class": "Strawweight",
       "rank": 129,
-      "rating": 1514.6,
+      "rating": 1514.2,
       "raw_rating": 1518.1,
       "slug": "alish-smith"
     },
     {
-      "fights": 3,
+      "fights": 5,
       "gender": "women",
-      "last_fight_date": "2026-02-07",
-      "name": "Klaudia Sygula",
-      "peak": 1514.6,
-      "primary_weight_class": "Bantamweight",
+      "last_fight_date": "2024-10-12",
+      "name": "Katharina Dalisda",
+      "peak": 1534.9,
+      "primary_weight_class": "Strawweight",
       "rank": 130,
-      "rating": 1514.6,
-      "raw_rating": 1514.6,
-      "slug": "klaudia-sygula"
+      "rating": 1514.1,
+      "raw_rating": 1516.6,
+      "slug": "katharina-dalisda"
+    },
+    {
+      "fights": 5,
+      "gender": "women",
+      "last_fight_date": "2026-05-16",
+      "name": "Alice Ardelean",
+      "peak": 1514.0,
+      "primary_weight_class": "Strawweight",
+      "rank": 131,
+      "rating": 1514.0,
+      "raw_rating": 1514.0,
+      "slug": "alice-ardelean"
     },
     {
       "fights": 1,
@@ -1567,8 +1579,8 @@
       "name": "Norika Ryu",
       "peak": 1516.0,
       "primary_weight_class": "Strawweight",
-      "rank": 131,
-      "rating": 1514.4,
+      "rank": 132,
+      "rating": 1513.9,
       "raw_rating": 1516.0,
       "slug": "norika-ryu"
     },
@@ -1579,7 +1591,7 @@
       "name": "Eimear Darcy",
       "peak": 1533.7,
       "primary_weight_class": "Flyweight",
-      "rank": 132,
+      "rank": 133,
       "rating": 1511.3,
       "raw_rating": 1511.3,
       "slug": "eimear-darcy"
@@ -1591,7 +1603,7 @@
       "name": "Veronica Hardy",
       "peak": 1512.6,
       "primary_weight_class": "Flyweight",
-      "rank": 133,
+      "rank": 134,
       "rating": 1510.7,
       "raw_rating": 1510.7,
       "slug": "veronica-hardy"
@@ -1603,8 +1615,8 @@
       "name": "Tai Emery",
       "peak": 1517.3,
       "primary_weight_class": "Catch Weight",
-      "rank": 134,
-      "rating": 1510.1,
+      "rank": 135,
+      "rating": 1509.6,
       "raw_rating": 1517.3,
       "slug": "tai-emery"
     },
@@ -1615,7 +1627,7 @@
       "name": "Vanessa Demopoulos",
       "peak": 1560.3,
       "primary_weight_class": "Flyweight",
-      "rank": 135,
+      "rank": 136,
       "rating": 1508.7,
       "raw_rating": 1508.7,
       "slug": "vanessa-demopoulos"
@@ -1627,8 +1639,8 @@
       "name": "Holly Holm",
       "peak": 1557.8,
       "primary_weight_class": "Bantamweight",
-      "rank": 136,
-      "rating": 1508.4,
+      "rank": 137,
+      "rating": 1507.9,
       "raw_rating": 1522.8,
       "slug": "holly-holm"
     },
@@ -1639,8 +1651,8 @@
       "name": "Stamp Fairtex",
       "peak": 1535.3,
       "primary_weight_class": "Atomweight",
-      "rank": 137,
-      "rating": 1507.4,
+      "rank": 138,
+      "rating": 1506.9,
       "raw_rating": 1535.3,
       "slug": "stamp-fairtex"
     },
@@ -1651,8 +1663,8 @@
       "name": "Melissa Gatto",
       "peak": 1533.6,
       "primary_weight_class": "Bantamweight",
-      "rank": 138,
-      "rating": 1506.8,
+      "rank": 139,
+      "rating": 1506.3,
       "raw_rating": 1518.8,
       "slug": "melissa-gatto"
     },
@@ -1663,7 +1675,7 @@
       "name": "Julia Polastri",
       "peak": 1521.6,
       "primary_weight_class": "Strawweight",
-      "rank": 139,
+      "rank": 140,
       "rating": 1506.3,
       "raw_rating": 1506.3,
       "slug": "julia-polastri"
@@ -1675,22 +1687,10 @@
       "name": "Yazmin Jauregui",
       "peak": 1530.8,
       "primary_weight_class": "Strawweight",
-      "rank": 140,
-      "rating": 1504.9,
+      "rank": 141,
+      "rating": 1504.4,
       "raw_rating": 1508.8,
       "slug": "yazmin-jauregui"
-    },
-    {
-      "fights": 2,
-      "gender": "women",
-      "last_fight_date": "2023-09-23",
-      "name": "Sara Collins",
-      "peak": 1532.6,
-      "primary_weight_class": "Featherweight",
-      "rank": 141,
-      "rating": 1504.3,
-      "raw_rating": 1532.6,
-      "slug": "sara-collins"
     },
     {
       "fights": 6,
@@ -1705,13 +1705,25 @@
       "slug": "ketlen-souza"
     },
     {
+      "fights": 2,
+      "gender": "women",
+      "last_fight_date": "2023-09-23",
+      "name": "Sara Collins",
+      "peak": 1532.6,
+      "primary_weight_class": "Featherweight",
+      "rank": 143,
+      "rating": 1503.8,
+      "raw_rating": 1532.6,
+      "slug": "sara-collins"
+    },
+    {
       "fights": 4,
       "gender": "women",
       "last_fight_date": "2026-03-14",
       "name": "Eva Dourthe",
       "peak": 1517.4,
       "primary_weight_class": "Strawweight",
-      "rank": 143,
+      "rank": 144,
       "rating": 1503.5,
       "raw_rating": 1503.5,
       "slug": "eva-dourthe"
@@ -1723,8 +1735,8 @@
       "name": "Montana De La Rosa",
       "peak": 1550.9,
       "primary_weight_class": "Flyweight",
-      "rank": 144,
-      "rating": 1503.2,
+      "rank": 145,
+      "rating": 1502.7,
       "raw_rating": 1513.8,
       "slug": "montana-de-la-rosa"
     },
@@ -1735,22 +1747,10 @@
       "name": "Hanna Palmquist",
       "peak": 1516.0,
       "primary_weight_class": "Atomweight",
-      "rank": 145,
-      "rating": 1502.9,
+      "rank": 146,
+      "rating": 1502.4,
       "raw_rating": 1516.0,
       "slug": "hanna-palmquist"
-    },
-    {
-      "fights": 5,
-      "gender": "women",
-      "last_fight_date": "2023-03-31",
-      "name": "Maria Henderson",
-      "peak": 1563.1,
-      "primary_weight_class": "Strawweight",
-      "rank": 146,
-      "rating": 1502.3,
-      "raw_rating": 1542.7,
-      "slug": "maria-henderson"
     },
     {
       "fights": 6,
@@ -1777,28 +1777,28 @@
       "slug": "jayde-sheeley"
     },
     {
+      "fights": 5,
+      "gender": "women",
+      "last_fight_date": "2023-03-31",
+      "name": "Maria Henderson",
+      "peak": 1563.1,
+      "primary_weight_class": "Strawweight",
+      "rank": 149,
+      "rating": 1501.8,
+      "raw_rating": 1542.7,
+      "slug": "maria-henderson"
+    },
+    {
       "fights": 2,
       "gender": "women",
       "last_fight_date": "2026-01-24",
       "name": "Natalie Salcedo",
       "peak": 1516.5,
       "primary_weight_class": "Atomweight",
-      "rank": 149,
+      "rank": 150,
       "rating": 1501.7,
       "raw_rating": 1501.7,
       "slug": "natalie-salcedo"
-    },
-    {
-      "fights": 3,
-      "gender": "women",
-      "last_fight_date": "2024-03-23",
-      "name": "Jacinta Austin",
-      "peak": 1518.2,
-      "primary_weight_class": "Strawweight",
-      "rank": 150,
-      "rating": 1501.6,
-      "raw_rating": 1517.5,
-      "slug": "jacinta-austin"
     },
     {
       "fights": 2,
@@ -1873,13 +1873,25 @@
       "slug": "cristina-brador"
     },
     {
+      "fights": 3,
+      "gender": "women",
+      "last_fight_date": "2024-03-23",
+      "name": "Jacinta Austin",
+      "peak": 1518.2,
+      "primary_weight_class": "Strawweight",
+      "rank": 157,
+      "rating": 1501.1,
+      "raw_rating": 1517.5,
+      "slug": "jacinta-austin"
+    },
+    {
       "fights": 2,
       "gender": "women",
       "last_fight_date": "2025-11-21",
       "name": "Hope Chase",
       "peak": 1501.1,
       "primary_weight_class": "Bantamweight",
-      "rank": 157,
+      "rank": 158,
       "rating": 1501.1,
       "raw_rating": 1501.1,
       "slug": "hope-chase"
@@ -1891,7 +1903,7 @@
       "name": "Ariane Carnelossi",
       "peak": 1518.3,
       "primary_weight_class": "Strawweight",
-      "rank": 158,
+      "rank": 159,
       "rating": 1501.0,
       "raw_rating": 1501.0,
       "slug": "ariane-carnelossi"
@@ -1903,7 +1915,7 @@
       "name": "Kate Oyama",
       "peak": 1501.0,
       "primary_weight_class": "Atomweight",
-      "rank": 159,
+      "rank": 160,
       "rating": 1501.0,
       "raw_rating": 1501.0,
       "slug": "kate-oyama"
@@ -1915,22 +1927,10 @@
       "name": "Aitana Álvarez",
       "peak": 1516.0,
       "primary_weight_class": "Flyweight",
-      "rank": 160,
+      "rank": 161,
       "rating": 1500.8,
       "raw_rating": 1500.8,
       "slug": "aitana-alvarez"
-    },
-    {
-      "fights": 4,
-      "gender": "women",
-      "last_fight_date": "2025-09-06",
-      "name": "Shauna Bannon",
-      "peak": 1518.0,
-      "primary_weight_class": "Strawweight",
-      "rank": 161,
-      "rating": 1500.7,
-      "raw_rating": 1500.7,
-      "slug": "shauna-bannon"
     },
     {
       "fights": 2,
@@ -1957,25 +1957,13 @@
       "slug": "ramana-toscanelli"
     },
     {
-      "fights": 1,
-      "gender": "women",
-      "last_fight_date": "2024-03-29",
-      "name": "Chelsea Conner",
-      "peak": 1516.0,
-      "primary_weight_class": "Strawweight",
-      "rank": 164,
-      "rating": 1500.5,
-      "raw_rating": 1516.0,
-      "slug": "chelsea-conner"
-    },
-    {
       "fights": 2,
       "gender": "women",
       "last_fight_date": "2025-04-05",
       "name": "Brittney Cloudy",
       "peak": 1517.3,
       "primary_weight_class": "Bantamweight",
-      "rank": 165,
+      "rank": 164,
       "rating": 1500.4,
       "raw_rating": 1500.4,
       "slug": "brittney-cloudy"
@@ -1987,7 +1975,7 @@
       "name": "Daria Zhelezniakova",
       "peak": 1516.9,
       "primary_weight_class": "Bantamweight",
-      "rank": 166,
+      "rank": 165,
       "rating": 1500.2,
       "raw_rating": 1500.2,
       "slug": "daria-zhelezniakova"
@@ -1999,10 +1987,22 @@
       "name": "Melissa Mullins",
       "peak": 1516.9,
       "primary_weight_class": "Bantamweight",
-      "rank": 167,
+      "rank": 166,
       "rating": 1500.1,
       "raw_rating": 1500.1,
       "slug": "melissa-mullins"
+    },
+    {
+      "fights": 1,
+      "gender": "women",
+      "last_fight_date": "2024-03-29",
+      "name": "Chelsea Conner",
+      "peak": 1516.0,
+      "primary_weight_class": "Strawweight",
+      "rank": 167,
+      "rating": 1500.1,
+      "raw_rating": 1516.0,
+      "slug": "chelsea-conner"
     },
     {
       "fights": 10,
@@ -6949,25 +6949,13 @@
       "slug": "montse-rendon"
     },
     {
-      "fights": 4,
-      "gender": "women",
-      "last_fight_date": "2025-11-01",
-      "name": "Alice Ardelean",
-      "peak": 1500.0,
-      "primary_weight_class": "Strawweight",
-      "rank": 580,
-      "rating": 1498.6,
-      "raw_rating": 1498.6,
-      "slug": "alice-ardelean"
-    },
-    {
       "fights": 2,
       "gender": "women",
       "last_fight_date": "2025-11-21",
       "name": "Nikola Kacperska",
       "peak": 1516.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 581,
+      "rank": 580,
       "rating": 1498.5,
       "raw_rating": 1498.5,
       "slug": "nikola-kacperska"
@@ -6979,10 +6967,22 @@
       "name": "Megan Morris",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 582,
-      "rating": 1498.0,
+      "rank": 581,
+      "rating": 1498.4,
       "raw_rating": 1484.0,
       "slug": "megan-morris"
+    },
+    {
+      "fights": 3,
+      "gender": "men",
+      "last_fight_date": "2023-01-21",
+      "name": "Zarah Fairn",
+      "peak": 1500.0,
+      "primary_weight_class": "Featherweight",
+      "rank": 582,
+      "rating": 1498.4,
+      "raw_rating": 1452.8,
+      "slug": "zarah-fairn"
     },
     {
       "fights": 12,
@@ -6992,33 +6992,9 @@
       "peak": 1521.8,
       "primary_weight_class": "Atomweight",
       "rank": 583,
-      "rating": 1497.9,
+      "rating": 1498.3,
       "raw_rating": 1476.3,
       "slug": "miyuu-yamamoto"
-    },
-    {
-      "fights": 2,
-      "gender": "women",
-      "last_fight_date": "2025-02-07",
-      "name": "Rose Conceição",
-      "peak": 1516.0,
-      "primary_weight_class": "Strawweight",
-      "rank": 584,
-      "rating": 1497.9,
-      "raw_rating": 1497.9,
-      "slug": "rose-conceicao"
-    },
-    {
-      "fights": 3,
-      "gender": "men",
-      "last_fight_date": "2023-01-21",
-      "name": "Zarah Fairn",
-      "peak": 1500.0,
-      "primary_weight_class": "Featherweight",
-      "rank": 585,
-      "rating": 1497.9,
-      "raw_rating": 1452.8,
-      "slug": "zarah-fairn"
     },
     {
       "fights": 1,
@@ -7027,22 +7003,22 @@
       "name": "Jenny Line",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 586,
-      "rating": 1497.6,
+      "rank": 584,
+      "rating": 1498.1,
       "raw_rating": 1482.7,
       "slug": "jenny-line"
     },
     {
       "fights": 2,
       "gender": "women",
-      "last_fight_date": "2025-03-22",
-      "name": "Puja Tomar",
-      "peak": 1515.3,
+      "last_fight_date": "2025-02-07",
+      "name": "Rose Conceição",
+      "peak": 1516.0,
       "primary_weight_class": "Strawweight",
-      "rank": 587,
-      "rating": 1497.2,
-      "raw_rating": 1497.2,
-      "slug": "puja-tomar"
+      "rank": 585,
+      "rating": 1497.9,
+      "raw_rating": 1497.9,
+      "slug": "rose-conceicao"
     },
     {
       "fights": 1,
@@ -7051,8 +7027,8 @@
       "name": "Chloe Cooke",
       "peak": 1500.0,
       "primary_weight_class": "Atomweight",
-      "rank": 588,
-      "rating": 1497.1,
+      "rank": 586,
+      "rating": 1497.6,
       "raw_rating": 1484.0,
       "slug": "chloe-cooke"
     },
@@ -7063,10 +7039,22 @@
       "name": "Pannie Kianzad",
       "peak": 1535.6,
       "primary_weight_class": "Bantamweight",
-      "rank": 589,
-      "rating": 1496.7,
+      "rank": 587,
+      "rating": 1497.2,
       "raw_rating": 1490.4,
       "slug": "pannie-kianzad"
+    },
+    {
+      "fights": 2,
+      "gender": "women",
+      "last_fight_date": "2025-03-22",
+      "name": "Puja Tomar",
+      "peak": 1515.3,
+      "primary_weight_class": "Strawweight",
+      "rank": 588,
+      "rating": 1497.2,
+      "raw_rating": 1497.2,
+      "slug": "puja-tomar"
     },
     {
       "fights": 4,
@@ -7075,22 +7063,10 @@
       "name": "Tainara Lisboa",
       "peak": 1532.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 590,
+      "rank": 589,
       "rating": 1496.6,
       "raw_rating": 1496.6,
       "slug": "tainara-lisboa"
-    },
-    {
-      "fights": 6,
-      "gender": "women",
-      "last_fight_date": "2025-02-15",
-      "name": "Julia Avila",
-      "peak": 1530.2,
-      "primary_weight_class": "Bantamweight",
-      "rank": 591,
-      "rating": 1495.8,
-      "raw_rating": 1495.8,
-      "slug": "julia-avila"
     },
     {
       "fights": 1,
@@ -7099,8 +7075,8 @@
       "name": "Erika Tomm",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 592,
-      "rating": 1495.7,
+      "rank": 590,
+      "rating": 1496.2,
       "raw_rating": 1482.7,
       "slug": "erika-tomm"
     },
@@ -7111,10 +7087,22 @@
       "name": "Sandra Peterhoff",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 593,
-      "rating": 1495.7,
+      "rank": 591,
+      "rating": 1496.2,
       "raw_rating": 1482.7,
       "slug": "sandra-peterhoff"
+    },
+    {
+      "fights": 6,
+      "gender": "women",
+      "last_fight_date": "2025-02-15",
+      "name": "Julia Avila",
+      "peak": 1530.2,
+      "primary_weight_class": "Bantamweight",
+      "rank": 592,
+      "rating": 1495.8,
+      "raw_rating": 1495.8,
+      "slug": "julia-avila"
     },
     {
       "fights": 3,
@@ -7123,8 +7111,8 @@
       "name": "Whittany Pyles",
       "peak": 1516.0,
       "primary_weight_class": "Flyweight",
-      "rank": 594,
-      "rating": 1494.7,
+      "rank": 593,
+      "rating": 1495.2,
       "raw_rating": 1479.2,
       "slug": "whittany-pyles"
     },
@@ -7135,10 +7123,22 @@
       "name": "Wu Yanan",
       "peak": 1502.2,
       "primary_weight_class": "Bantamweight",
-      "rank": 595,
-      "rating": 1494.4,
+      "rank": 594,
+      "rating": 1494.9,
       "raw_rating": 1438.8,
       "slug": "wu-yanan"
+    },
+    {
+      "fights": 1,
+      "gender": "women",
+      "last_fight_date": "2024-07-20",
+      "name": "Camilla Bergstrøm",
+      "peak": 1500.0,
+      "primary_weight_class": "Flyweight",
+      "rank": 595,
+      "rating": 1491.8,
+      "raw_rating": 1483.6,
+      "slug": "camilla-bergstrm"
     },
     {
       "fights": 6,
@@ -7153,25 +7153,13 @@
       "slug": "josiane-nunes"
     },
     {
-      "fights": 1,
-      "gender": "women",
-      "last_fight_date": "2024-07-20",
-      "name": "Camilla Bergstrøm",
-      "peak": 1500.0,
-      "primary_weight_class": "Flyweight",
-      "rank": 597,
-      "rating": 1491.3,
-      "raw_rating": 1483.6,
-      "slug": "camilla-bergstrm"
-    },
-    {
       "fights": 4,
       "gender": "women",
       "last_fight_date": "2025-01-11",
       "name": "Viktoriia Dudakova",
       "peak": 1527.6,
       "primary_weight_class": "Strawweight",
-      "rank": 598,
+      "rank": 597,
       "rating": 1491.0,
       "raw_rating": 1491.0,
       "slug": "viktoriia-dudakova"
@@ -7183,8 +7171,8 @@
       "name": "Jennifer Trioreau",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 599,
-      "rating": 1490.5,
+      "rank": 598,
+      "rating": 1490.9,
       "raw_rating": 1482.7,
       "slug": "jennifer-trioreau"
     },
@@ -7195,8 +7183,8 @@
       "name": "Jovana Đukić",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 600,
-      "rating": 1490.5,
+      "rank": 599,
+      "rating": 1490.9,
       "raw_rating": 1482.7,
       "slug": "jovana-ukic"
     },
@@ -7207,8 +7195,8 @@
       "name": "Charisa Sigala",
       "peak": 1500.0,
       "primary_weight_class": "Catch Weight",
-      "rank": 601,
-      "rating": 1489.9,
+      "rank": 600,
+      "rating": 1490.4,
       "raw_rating": 1482.7,
       "slug": "charisa-sigala"
     },
@@ -7219,8 +7207,8 @@
       "name": "Alyse Anderson",
       "peak": 1517.3,
       "primary_weight_class": "Atomweight",
-      "rank": 602,
-      "rating": 1488.2,
+      "rank": 601,
+      "rating": 1488.7,
       "raw_rating": 1483.8,
       "slug": "alyse-anderson"
     },
@@ -7231,7 +7219,7 @@
       "name": "Dione Barbosa",
       "peak": 1501.9,
       "primary_weight_class": "Flyweight",
-      "rank": 603,
+      "rank": 602,
       "rating": 1488.0,
       "raw_rating": 1488.0,
       "slug": "dione-barbosa"
@@ -7243,7 +7231,7 @@
       "name": "Lucia Apdelgarim",
       "peak": 1500.0,
       "primary_weight_class": "Atomweight",
-      "rank": 604,
+      "rank": 603,
       "rating": 1487.6,
       "raw_rating": 1487.6,
       "slug": "lucia-apdelgarim"
@@ -7255,7 +7243,7 @@
       "name": "Molly Mccann",
       "peak": 1544.3,
       "primary_weight_class": "Strawweight",
-      "rank": 605,
+      "rank": 604,
       "rating": 1487.1,
       "raw_rating": 1487.1,
       "slug": "molly-mccann"
@@ -7267,8 +7255,8 @@
       "name": "Veronika Borisova",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 606,
-      "rating": 1486.4,
+      "rank": 605,
+      "rating": 1486.9,
       "raw_rating": 1482.9,
       "slug": "veronika-borisova"
     },
@@ -7279,8 +7267,8 @@
       "name": "Dayana Silva",
       "peak": 1500.0,
       "primary_weight_class": "Featherweight",
-      "rank": 607,
-      "rating": 1486.3,
+      "rank": 606,
+      "rating": 1486.8,
       "raw_rating": 1455.0,
       "slug": "dayana-silva"
     },
@@ -7291,8 +7279,8 @@
       "name": "Gloria de Paula",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 608,
-      "rating": 1486.3,
+      "rank": 607,
+      "rating": 1486.7,
       "raw_rating": 1480.8,
       "slug": "gloria-de-paula"
     },
@@ -7303,10 +7291,22 @@
       "name": "Ana Carolina Araujo",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 609,
+      "rank": 608,
       "rating": 1486.2,
       "raw_rating": 1486.2,
       "slug": "ana-carolina-araujo"
+    },
+    {
+      "fights": 1,
+      "gender": "women",
+      "last_fight_date": "2024-10-18",
+      "name": "Mariane Mariano",
+      "peak": 1500.0,
+      "primary_weight_class": "Strawweight",
+      "rank": 609,
+      "rating": 1486.1,
+      "raw_rating": 1484.0,
+      "slug": "mariane-mariano"
     },
     {
       "fights": 3,
@@ -7333,16 +7333,16 @@
       "slug": "keito-oyama"
     },
     {
-      "fights": 1,
+      "fights": 3,
       "gender": "women",
-      "last_fight_date": "2024-10-18",
-      "name": "Mariane Mariano",
+      "last_fight_date": "2026-05-16",
+      "name": "Nicolle Caliari",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
       "rank": 612,
-      "rating": 1485.6,
-      "raw_rating": 1484.0,
-      "slug": "mariane-mariano"
+      "rating": 1485.8,
+      "raw_rating": 1485.8,
+      "slug": "nicolle-caliari"
     },
     {
       "fights": 9,
@@ -7352,7 +7352,7 @@
       "peak": 1517.5,
       "primary_weight_class": "Bantamweight",
       "rank": 613,
-      "rating": 1485.2,
+      "rating": 1485.7,
       "raw_rating": 1452.1,
       "slug": "ashlee-evans-smith"
     },
@@ -7465,16 +7465,40 @@
       "slug": "alyona-rassohyna"
     },
     {
+      "fights": 5,
+      "gender": "women",
+      "last_fight_date": "2023-09-23",
+      "name": "Hannah Goldy",
+      "peak": 1500.0,
+      "primary_weight_class": "Strawweight",
+      "rank": 623,
+      "rating": 1484.3,
+      "raw_rating": 1455.4,
+      "slug": "hannah-goldy"
+    },
+    {
       "fights": 1,
       "gender": "women",
       "last_fight_date": "2025-03-28",
       "name": "Xiomara Piriz",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 623,
+      "rank": 624,
       "rating": 1484.3,
       "raw_rating": 1484.3,
       "slug": "xiomara-piriz"
+    },
+    {
+      "fights": 1,
+      "gender": "women",
+      "last_fight_date": "2024-11-09",
+      "name": "Mileide Simplicio",
+      "peak": 1500.0,
+      "primary_weight_class": "Flyweight",
+      "rank": 625,
+      "rating": 1484.1,
+      "raw_rating": 1483.6,
+      "slug": "mileide-simplicio"
     },
     {
       "fights": 1,
@@ -7483,7 +7507,7 @@
       "name": "Alice Pereira",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 624,
+      "rank": 626,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "alice-pereira"
@@ -7495,7 +7519,7 @@
       "name": "Lizzy Gevers",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 625,
+      "rank": 627,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "lizzy-gevers"
@@ -7507,7 +7531,7 @@
       "name": "Maria Clara Andrade",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 626,
+      "rank": 628,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "maria-clara-andrade"
@@ -7519,7 +7543,7 @@
       "name": "Michaela Hlaváčiková",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 627,
+      "rank": 629,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "michaela-hlavacikova"
@@ -7531,7 +7555,7 @@
       "name": "Nawira Ferreira da Silva",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 628,
+      "rank": 630,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "nawira-ferreira-da-silva"
@@ -7543,7 +7567,7 @@
       "name": "Nikol Aguirre",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 629,
+      "rank": 631,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "nikol-aguirre"
@@ -7555,7 +7579,7 @@
       "name": "Radija Aquino",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 630,
+      "rank": 632,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "radija-aquino"
@@ -7567,7 +7591,7 @@
       "name": "Ruth Pereira",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 631,
+      "rank": 633,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "ruth-pereira"
@@ -7579,7 +7603,7 @@
       "name": "Thaiany Lopes",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 632,
+      "rank": 634,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "thaiany-lopes"
@@ -7591,7 +7615,7 @@
       "name": "Yasmin Guimarães",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 633,
+      "rank": 635,
       "rating": 1484.0,
       "raw_rating": 1484.0,
       "slug": "yasmin-guimaraes"
@@ -7603,34 +7627,10 @@
       "name": "Zoe Nowicki",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 634,
+      "rank": 636,
       "rating": 1483.9,
       "raw_rating": 1483.9,
       "slug": "zoe-nowicki"
-    },
-    {
-      "fights": 5,
-      "gender": "women",
-      "last_fight_date": "2023-09-23",
-      "name": "Hannah Goldy",
-      "peak": 1500.0,
-      "primary_weight_class": "Strawweight",
-      "rank": 635,
-      "rating": 1483.8,
-      "raw_rating": 1455.4,
-      "slug": "hannah-goldy"
-    },
-    {
-      "fights": 1,
-      "gender": "women",
-      "last_fight_date": "2024-11-09",
-      "name": "Mileide Simplicio",
-      "peak": 1500.0,
-      "primary_weight_class": "Flyweight",
-      "rank": 636,
-      "rating": 1483.6,
-      "raw_rating": 1483.6,
-      "slug": "mileide-simplicio"
     },
     {
       "fights": 1,
@@ -7993,14 +7993,26 @@
       "slug": "yuneisy-duben"
     },
     {
+      "fights": 5,
+      "gender": "women",
+      "last_fight_date": "2026-05-16",
+      "name": "Shauna Bannon",
+      "peak": 1518.0,
+      "primary_weight_class": "Strawweight",
+      "rank": 667,
+      "rating": 1481.7,
+      "raw_rating": 1481.7,
+      "slug": "shauna-bannon"
+    },
+    {
       "fights": 4,
       "gender": "women",
       "last_fight_date": "2024-06-08",
       "name": "Noelle Grandjean",
       "peak": 1500.2,
       "primary_weight_class": "Atomweight",
-      "rank": 667,
-      "rating": 1481.1,
+      "rank": 668,
+      "rating": 1481.6,
       "raw_rating": 1470.5,
       "slug": "noelle-grandjean"
     },
@@ -8011,7 +8023,7 @@
       "name": "Luana Pinheiro",
       "peak": 1544.1,
       "primary_weight_class": "Strawweight",
-      "rank": 668,
+      "rank": 669,
       "rating": 1480.4,
       "raw_rating": 1480.4,
       "slug": "luana-pinheiro"
@@ -8023,7 +8035,7 @@
       "name": "Angela Hill",
       "peak": 1516.0,
       "primary_weight_class": "Strawweight",
-      "rank": 669,
+      "rank": 670,
       "rating": 1477.9,
       "raw_rating": 1477.9,
       "slug": "angela-hill"
@@ -8035,7 +8047,7 @@
       "name": "Mayra Bueno Silva",
       "peak": 1550.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 670,
+      "rank": 671,
       "rating": 1477.0,
       "raw_rating": 1477.0,
       "slug": "mayra-bueno-silva"
@@ -8047,8 +8059,8 @@
       "name": "Mariya Agapova",
       "peak": 1516.2,
       "primary_weight_class": "Flyweight",
-      "rank": 671,
-      "rating": 1475.6,
+      "rank": 672,
+      "rating": 1476.0,
       "raw_rating": 1467.3,
       "slug": "mariya-agapova"
     },
@@ -8059,8 +8071,8 @@
       "name": "Ji Yeon Kim",
       "peak": 1517.2,
       "primary_weight_class": "Flyweight",
-      "rank": 672,
-      "rating": 1475.3,
+      "rank": 673,
+      "rating": 1475.8,
       "raw_rating": 1437.8,
       "slug": "ji-yeon-kim"
     },
@@ -8071,8 +8083,8 @@
       "name": "Gabriella Gulfin",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 673,
-      "rating": 1474.9,
+      "rank": 674,
+      "rating": 1475.4,
       "raw_rating": 1469.5,
       "slug": "gabriella-gulfin"
     },
@@ -8083,8 +8095,8 @@
       "name": "Michelle Waterson-Gomez",
       "peak": 1554.8,
       "primary_weight_class": "Strawweight",
-      "rank": 674,
-      "rating": 1473.2,
+      "rank": 675,
+      "rating": 1473.6,
       "raw_rating": 1464.0,
       "slug": "michelle-waterson-gomez"
     },
@@ -8095,7 +8107,7 @@
       "name": "Bruna Brasil",
       "peak": 1503.7,
       "primary_weight_class": "Strawweight",
-      "rank": 675,
+      "rank": 676,
       "rating": 1473.1,
       "raw_rating": 1473.1,
       "slug": "bruna-brasil"
@@ -8107,7 +8119,7 @@
       "name": "Chelsea Chandler",
       "peak": 1505.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 676,
+      "rank": 677,
       "rating": 1472.1,
       "raw_rating": 1472.1,
       "slug": "chelsea-chandler"
@@ -8119,7 +8131,7 @@
       "name": "Katharina Lehner",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 677,
+      "rank": 678,
       "rating": 1470.9,
       "raw_rating": 1470.9,
       "slug": "katharina-lehner"
@@ -8131,7 +8143,7 @@
       "name": "Haruka Hasegawa",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 678,
+      "rank": 679,
       "rating": 1469.9,
       "raw_rating": 1469.9,
       "slug": "haruka-hasegawa"
@@ -8143,7 +8155,7 @@
       "name": "Stephanie Nayen",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 679,
+      "rank": 680,
       "rating": 1469.8,
       "raw_rating": 1469.8,
       "slug": "stephanie-nayen"
@@ -8155,7 +8167,7 @@
       "name": "Flor Hernandez",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 680,
+      "rank": 681,
       "rating": 1469.7,
       "raw_rating": 1469.7,
       "slug": "flor-hernandez"
@@ -8167,7 +8179,7 @@
       "name": "Kendra McIntyre",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 681,
+      "rank": 682,
       "rating": 1469.7,
       "raw_rating": 1469.7,
       "slug": "kendra-mcintyre"
@@ -8179,7 +8191,7 @@
       "name": "Hailey Cowan",
       "peak": 1500.0,
       "primary_weight_class": "Bantamweight",
-      "rank": 682,
+      "rank": 683,
       "rating": 1468.4,
       "raw_rating": 1468.4,
       "slug": "hailey-cowan"
@@ -8191,7 +8203,7 @@
       "name": "Bianca Sattelmayer",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 683,
+      "rank": 684,
       "rating": 1468.3,
       "raw_rating": 1468.3,
       "slug": "bianca-sattelmayer"
@@ -8203,7 +8215,7 @@
       "name": "Irina Alekseeva",
       "peak": 1518.3,
       "primary_weight_class": "Bantamweight",
-      "rank": 684,
+      "rank": 685,
       "rating": 1468.1,
       "raw_rating": 1468.1,
       "slug": "irina-alekseeva"
@@ -8215,7 +8227,7 @@
       "name": "Macarena Aragon",
       "peak": 1501.1,
       "primary_weight_class": "Atomweight",
-      "rank": 685,
+      "rank": 686,
       "rating": 1468.0,
       "raw_rating": 1468.0,
       "slug": "macarena-aragon"
@@ -8227,7 +8239,7 @@
       "name": "Alandria Rosales",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 686,
+      "rank": 687,
       "rating": 1467.5,
       "raw_rating": 1467.5,
       "slug": "alandria-rosales"
@@ -8239,22 +8251,10 @@
       "name": "Ivana Petrovic",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 687,
+      "rank": 688,
       "rating": 1467.1,
       "raw_rating": 1467.1,
       "slug": "ivana-petrovic"
-    },
-    {
-      "fights": 2,
-      "gender": "women",
-      "last_fight_date": "2025-07-19",
-      "name": "Nicolle Caliari",
-      "peak": 1500.0,
-      "primary_weight_class": "Flyweight",
-      "rank": 688,
-      "rating": 1466.8,
-      "raw_rating": 1466.8,
-      "slug": "nicolle-caliari"
     },
     {
       "fights": 2,
@@ -8295,24 +8295,12 @@
     {
       "fights": 11,
       "gender": "women",
-      "last_fight_date": "2025-04-26",
-      "name": "Polyana Viana",
-      "peak": 1517.3,
-      "primary_weight_class": "Strawweight",
-      "rank": 692,
-      "rating": 1460.8,
-      "raw_rating": 1460.8,
-      "slug": "polyana-viana"
-    },
-    {
-      "fights": 11,
-      "gender": "women",
       "last_fight_date": "2024-10-19",
       "name": "Jessica Penne",
       "peak": 1517.3,
       "primary_weight_class": "Strawweight",
-      "rank": 693,
-      "rating": 1460.1,
+      "rank": 692,
+      "rating": 1460.6,
       "raw_rating": 1458.6,
       "slug": "jessica-penne"
     },
@@ -8323,8 +8311,8 @@
       "name": "Victoria Leonardo",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 694,
-      "rating": 1457.9,
+      "rank": 693,
+      "rating": 1458.4,
       "raw_rating": 1452.5,
       "slug": "victoria-leonardo"
     },
@@ -8335,7 +8323,7 @@
       "name": "Shim Yu-ri",
       "peak": 1500.0,
       "primary_weight_class": "Atomweight",
-      "rank": 695,
+      "rank": 694,
       "rating": 1457.6,
       "raw_rating": 1457.6,
       "slug": "shim-yu-ri"
@@ -8347,8 +8335,8 @@
       "name": "Jinh Yu Frey",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 696,
-      "rating": 1456.2,
+      "rank": 695,
+      "rating": 1456.7,
       "raw_rating": 1429.8,
       "slug": "jinh-yu-frey"
     },
@@ -8359,8 +8347,8 @@
       "name": "Ashley Yoder",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 697,
-      "rating": 1455.2,
+      "rank": 696,
+      "rating": 1455.6,
       "raw_rating": 1449.8,
       "slug": "ashley-yoder"
     },
@@ -8371,7 +8359,7 @@
       "name": "Ravena Oliveira",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 698,
+      "rank": 697,
       "rating": 1453.2,
       "raw_rating": 1453.2,
       "slug": "ravena-oliveira"
@@ -8383,7 +8371,7 @@
       "name": "Montserrat Conejo Ruiz",
       "peak": 1516.0,
       "primary_weight_class": "Strawweight",
-      "rank": 699,
+      "rank": 698,
       "rating": 1452.9,
       "raw_rating": 1452.9,
       "slug": "montserrat-conejo-ruiz"
@@ -8395,7 +8383,7 @@
       "name": "Rayanne Dos Santos",
       "peak": 1500.0,
       "primary_weight_class": "Strawweight",
-      "rank": 700,
+      "rank": 699,
       "rating": 1452.7,
       "raw_rating": 1452.7,
       "slug": "rayanne-dos-santos"
@@ -8407,7 +8395,7 @@
       "name": "Ritu Phogat",
       "peak": 1500.0,
       "primary_weight_class": "Atomweight",
-      "rank": 701,
+      "rank": 700,
       "rating": 1452.4,
       "raw_rating": 1452.4,
       "slug": "ritu-phogat"
@@ -8419,7 +8407,7 @@
       "name": "Brogan Walker",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 702,
+      "rank": 701,
       "rating": 1452.1,
       "raw_rating": 1452.1,
       "slug": "brogan-walker"
@@ -8431,7 +8419,7 @@
       "name": "Julija Stoliarenko",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 703,
+      "rank": 702,
       "rating": 1451.4,
       "raw_rating": 1451.4,
       "slug": "julija-stoliarenko"
@@ -8443,8 +8431,8 @@
       "name": "Liang Na",
       "peak": 1500.0,
       "primary_weight_class": "Flyweight",
-      "rank": 704,
-      "rating": 1447.1,
+      "rank": 703,
+      "rating": 1447.6,
       "raw_rating": 1433.6,
       "slug": "liang-na"
     },
@@ -8455,10 +8443,22 @@
       "name": "Andrea Lee",
       "peak": 1547.4,
       "primary_weight_class": "Flyweight",
-      "rank": 705,
+      "rank": 704,
       "rating": 1445.9,
       "raw_rating": 1445.9,
       "slug": "andrea-lee"
+    },
+    {
+      "fights": 12,
+      "gender": "women",
+      "last_fight_date": "2026-05-16",
+      "name": "Polyana Viana",
+      "peak": 1517.3,
+      "primary_weight_class": "Strawweight",
+      "rank": 705,
+      "rating": 1445.4,
+      "raw_rating": 1445.4,
+      "slug": "polyana-viana"
     },
     {
       "fights": 8,
@@ -8480,7 +8480,7 @@
       "peak": 1516.8,
       "primary_weight_class": "Flyweight",
       "rank": 707,
-      "rating": 1437.1,
+      "rating": 1437.6,
       "raw_rating": 1429.4,
       "slug": "lucie-pudilova"
     },
